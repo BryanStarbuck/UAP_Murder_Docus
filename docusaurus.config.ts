@@ -2,8 +2,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
-const siteUrl = process.env.DOCUSAURUS_URL ?? "https://uapmurders.com";
-const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? "/";
+const siteUrl = process.env.DOCUSAURUS_URL || "https://uapmurders.com";
+const baseUrl = process.env.DOCUSAURUS_BASE_URL || "/";
 
 const config: Config = {
   title: "UAP Murder Docus",
