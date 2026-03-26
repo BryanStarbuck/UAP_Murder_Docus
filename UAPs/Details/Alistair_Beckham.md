@@ -1,0 +1,69 @@
+
+# Alistair Beckham
+50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with wires attached to his chest and a handkerchief stuffed in his mouth — MOD officials arrived hours after his death and removed documents.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Alistair Beckham |
+| **Born** | c. 1938 |
+| **Died** | August 1988 |
+| **Age at Death** | 50 |
+| **Location of Death** | His home, England |
+| **Cause of Death** | Electrocution — bare wires connected to mains wrapped around chest |
+| **Official Ruling** | Open verdict |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Beckham's death is one of the most disturbing in the entire GEC-Marconi cluster. The method — wires attached to his chest connected to a live mains power supply, with a handkerchief jammed in his mouth — is an extraordinarily unusual and painful way to commit suicide. The immediate arrival of Ministry of Defence personnel to remove documents from his home, and his wife's insistence that he did not commit suicide, strongly suggest foul play. His death occurred within weeks of [Peter Ferry](Peter_Ferry.md)'s equally bizarre electrocution, making August 1988 the month of two electrocution deaths of senior defense figures.
+
+## Circumstances of Death
+
+In August 1988, Alistair Beckham reportedly retired to his garden shed after some light Sunday afternoon gardening. He was found dead with bare electrical wires wrapped around his chest, connected to a live mains power supply. A handkerchief had been stuffed into his mouth — reportedly to stifle his own screams. No suicide note was found.
+
+Within hours of his death, men from the Ministry of Defence arrived at the scene and removed several documents and files from Beckham's home. The speed of their arrival raised questions about how the MOD learned of his death so quickly and why classified documents were prioritized over any investigation into the circumstances.
+
+His wife was entirely unconvinced her husband had committed suicide. She described him as highly secretive about his work but showed no signs of suicidal intent.
+
+## Background
+
+Alistair Beckham was a 50-year-old software engineer employed by Plessey Defence Systems. He was reportedly working on top secret pilot programs for America's Strategic Defence Initiative (SDI), commonly known as "Star Wars." Like hundreds of other British scientists at the time, his work contributed to the broader SDI research effort conducted through British defense contractors.
+
+Plessey had been purchased by GEC-Marconi in 1987. Within a year of the acquisition, two of its scientists were dead. Beckham's death, along with [Peter Ferry](Peter_Ferry.md)'s electrocution the same month, represented the final spike in the Marconi death cluster.
+
+## Why This Death Possibly Raises Questions
+
+- The method of death — self-electrocution via wires to the chest with a handkerchief as a gag — is virtually unprecedented as a suicide method and suggests torture or execution
+- No suicide note was found
+- His wife was adamant he did not commit suicide
+- MOD officials arrived within hours to seize documents, suggesting foreknowledge or extreme sensitivity about his work
+- He was working on classified SDI pilot programs
+- His death occurred the same month as [Peter Ferry](Peter_Ferry.md)'s equally bizarre electrocution — two defense scientists killed by electrocution in the same month
+- Part of the cluster of 25 British defense scientist deaths (1982-1990)
+- Plessey had been acquired by GEC-Marconi only one year before his death
+- Police reportedly did not rule out foul play
+
+## See Also
+
+- [Alistair Beckham (Zero Point Energy)](/energy/Details/Alistair_Beckham) — This case also appears in the Zero Point Energy project
+- [Peter Ferry](Peter_Ferry.md) — Marconi assistant marketing director, electrocuted August 1988
+- [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, CO poisoning March 1988
+- [Russell Smith](Russell_Smith.md) — AERE lab technician, fell from cliff January 1988
+- [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
+
+## Other Shocking Stories
+
+- [David Greenhalgh](David_Greenhalgh.md): ICL defense division scientist who fell from a railway bridge in Maidenhead with slashed wrists — survived briefly...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): 24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge —...
+- [John Burroughs](John_Burroughs.md): U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from...
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [The Many Real Life Deaths Surrounding The "Star Wars" Defense Initiative — CrimeReads](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

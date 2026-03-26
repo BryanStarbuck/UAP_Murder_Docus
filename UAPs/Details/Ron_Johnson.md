@@ -1,0 +1,71 @@
+
+# Ron Johnson
+MUFON Deputy Director of Investigations who collapsed and died suddenly during a scientific conference in 1994 under circumstances suggesting possible poisoning.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ron Jerrold Johnson |
+| **Born** | c. 1951 |
+| **Died** | June 9, 1994 |
+| **Age at Death** | 43 |
+| **Location of Death** | Austin, Texas |
+| **Cause of Death** | Sudden collapse (officially natural causes) |
+| **Official Ruling** | Natural causes |
+| **Category** | UFO Researcher / MUFON Official |
+
+## Assessment: SUSPICIOUS
+
+Johnson was a 43-year-old man in reportedly excellent health who had recently passed a complete physical examination. He died suddenly during a scientific conference, collapsing with a purple face and blood coming from his nose immediately after sipping from a soda can. The soda can reportedly disappeared from the scene afterward. Multiple eyewitnesses stated that the manner of death did not resemble a stroke or heart attack but rather looked consistent with poisoning. The timing — during a conference where UFO-related research was being discussed — adds to the suspicion.
+
+## Circumstances of Death
+
+On June 9, 1994, Ron Johnson attended a meeting of the Society of Scientific Exploration (SSE) in Austin, Texas. During a slide show presentation, several people sitting near Johnson heard him gasp. When the lights came back on, Johnson was found slumped over in his chair. His face had turned purple and blood was oozing from his nose.
+
+Emergency medical assistance was called, but Johnson was pronounced dead. He was 43 years old.
+
+Several eyewitnesses noted that just before gasping and collapsing, Johnson had taken a sip from a can of soda. The soda can was reportedly never recovered from the scene afterward, which struck multiple witnesses as unusual. Some witnesses speculated that something may have been smeared on the can or added to the drink.
+
+The official cause of death was listed as natural causes, but no specific mechanism (heart attack, stroke, aneurysm) has been widely reported in the public record.
+
+## Background
+
+Ron Jerrold Johnson served as MUFON's (Mutual UFO Network) Deputy Director of Investigations at the time of his death. MUFON is the largest and most established civilian UFO research organization in the United States.
+
+As Deputy Director of Investigations, Johnson held one of the most senior positions in MUFON's investigative hierarchy. He was responsible for coordinating field investigations of UFO sightings and encounters across the country.
+
+Johnson was described by colleagues as being in excellent physical health at the time of his death. He had reportedly just passed a complete physical examination with no issues flagged. At 43, he was not in a demographic where sudden unexplained death is common.
+
+The Society of Scientific Exploration conference he was attending brings together scientists investigating anomalous phenomena, including UFO-related topics. Johnson's attendance was consistent with his role as a senior MUFON investigator.
+
+## Why This Death Possibly Raises Questions
+
+- Johnson was 43 years old and had recently passed a full physical examination — sudden death at this age in a healthy individual is statistically uncommon
+- His face turned purple and blood came from his nose, which multiple eyewitnesses said did not resemble a typical stroke or heart attack
+- He had been sipping from a soda can immediately before collapsing
+- The soda can reportedly disappeared from the scene and was never recovered for testing
+- He held one of the most senior investigative positions in the largest civilian UFO research organization in the United States
+- His death occurred during a scientific conference — a setting where a poisoning could be executed with relative ease amid a crowd
+- The death occurred in 1994, the same year [Ann Livingston](Ann_Livingston.md), another MUFON investigator, died of fast-acting cancer — two senior MUFON figures dying in the same year
+- The official ruling of "natural causes" for a 43-year-old in excellent health raises more questions than it answers
+
+## See Also
+
+- [Ann Livingston](Ann_Livingston.md) — Fellow MUFON investigator who also died in 1994
+- [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast cancer in 1996
+
+## Other Shocking Stories
+
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Peter Ferry](Peter_Ferry.md): 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his...
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Stefan Michalak](Stefan_Michalak.md): Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at...
+
+## Sources
+
+- [Investigating the Mysterious Death of MUFON Researcher Ron Johnson — Medium](https://medium.com/@cybertheticproject/investigating-the-mysterious-death-of-mufon-researcher-ron-johnson-e6ff3d12a68)
+- [UFO Truth Teller Ron Johnson Of MUFON Silenced — Pellucidar Offerings](http://crimemysteries.blogspot.com/2011/03/ufo-truth-teller-ron-johnson-of-mufon.html)
+- [UFO Researchers' Mysterious Deaths — The Free Dictionary](https://encyclopedia2.thefreedictionary.com/UFO+Researchers'+Mysterious+Deaths)
+- [Liquidation of the UFO Investigators — Prof. G. Cope Schellhorn](https://www.sunrisepage.com/ufo/files/scientific/Liquidation_of_the_UFO_Investigators_by_Professor_Schellburn.pdf)
+- [10 UFO Investigators Who Died Mysteriously — Infinity Explorers](https://www.infinityexplorers.com/10-ufo-investigators-who-died-mysteriously-under-suspicious-circumstances-killed-to-hide-the-truth/)
+
+*This information was built by Grok and Claude AI research.*

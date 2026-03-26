@@ -1,0 +1,101 @@
+
+# Paulo and Alexandra Correa
+Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy output. Their work was endorsed by [Eugene Mallove](Eugene_Mallove.md), who was beaten to death in 2004.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Dr. Paulo N. Correa and Ms. Alexandra N. Correa |
+| **Born** | Paulo: 1956, Lisbon, Portugal |
+| **Status** | Believed alive |
+| **Current Location** | Ontario, Canada |
+| **Category** | Inventors / Researchers |
+
+## Assessment: Suppressed — Career Marginalized
+
+The Correas are believed to be alive. Their PAGD technology — which they claim produces more electrical output than input — has never been commercialized despite holding 12 patents across the US, Canada, England, and Israel. Their chief advocate [Eugene Mallove](Eugene_Mallove.md) was murdered in 2004. Despite Mallove's intense efforts to find sponsors, no funder ever came forward.
+
+## Background
+
+### Academic Credentials
+
+**Paulo N. Correa** holds an M.Sc. in Biophysics and a Ph.D. in Cellular and Molecular Biology, both from the Faculty of Medicine, University of Toronto. He has additional training across Europe and North America in biophysics, biochemistry, oncology, law, political science, and music. He is a biophysicist, molecular biologist, and hematologist specializing in oncology.
+
+**Alexandra N. Correa** holds an HBA in Psychology and Sociology from York University, Toronto. She is also an expert glassblower, painter, and graphic artist. Together they have co-authored over 80 publications including 5 books.
+
+### Labofex and Akronos Publishing
+
+Paulo left academic research at the University of Toronto and co-founded **Labofex — Experimental and Applied Plasma Physics** in Concord, Ontario. They also operate **Akronos Publishing** from Vaughan, Ontario, which publishes their theoretical and experimental work under the framework they call "Aetherometry."
+
+### The PAGD Technology
+
+The Correas' primary invention is the **Pulsed Abnormal Glow Discharge (PAGD)** reactor, discovered in 1986. The system uses self-triggered pulsed plasma discharges in vacuum tubes between aluminum plates. They claim:
+- Output pulses reaching over 30 kW
+- Mean power inputs of 50–100W with mean outputs of 200–600W
+- Overunity energy production (more output than input)
+
+### Key Patents
+
+- **US 5,416,391** — "Electromechanical Transduction of Plasma Pulses" (1995)
+- **US 5,449,989** — "Energy Conversion System"
+- **US 5,502,354** — "Direct Current Energized Pulse Generator Utilizing Autogenous Cyclical Pulsed Abnormal Glow Discharges"
+- **US 7,053,576 B2** — "Energy Conversion Systems"
+- **US 7,235,945 B2** — "Energy Conversion Systems"
+- Additional patents in Canada, England, and Israel
+- Also holds patents in clinical oncology (serum-free tissue culture medium, co-authored with Dr. Arthur Axelrad of the University of Toronto)
+
+### Aether Motor
+
+Building on both Tesla's search for an aether motor and [Wilhelm Reich](Wilhelm_Reich.md)'s 1947–1948 orgone motor concept, the Correas claim to have reconstructed and improved upon Reich's motor using their PAGD technology and Tesla transformers.
+
+## Connection to Eugene Mallove
+
+Dr. [Eugene Mallove](Eugene_Mallove.md) — editor of *Infinite Energy* magazine and the chief cold fusion advocate — was a strong supporter of the Correas' work. Mallove personally visited their laboratory, verified there were no hidden external energy connections, and publicly endorsed their PAGD technology. He actively tried to find sponsors for their technology but was unsuccessful.
+
+Mallove was beaten to death on May 14, 2004, in Norwich, Connecticut. Chad Schaffer pleaded guilty to first-degree manslaughter.
+
+## Why This Case Matters
+
+- The Correas hold 12 granted patents for their energy technology — the USPTO does not typically grant patents for devices that obviously violate known physics
+- Their chief advocate [Eugene Mallove](Eugene_Mallove.md) was murdered
+- Despite valid patents and Mallove's endorsement, no commercial funding has ever materialized
+- Their "Aetherometry" framework has been rejected by mainstream science as having "no basis in empirically verifiable fact" (per RationalWiki)
+- They represent the pattern where legitimate academic credentials meet unconventional energy claims and institutional rejection
+
+## The Counterargument
+
+- The Correas' "Aetherometry" theoretical framework has been described by RationalWiki as having "no basis in empirically verifiable fact" — their overunity claims are rejected by mainstream physics as violations of conservation of energy
+- No independent laboratory has publicly replicated the PAGD reactor's claimed overunity performance under controlled conditions with peer-reviewed publication
+- Eugene Mallove's murder was solved — Chad Schaffer pleaded guilty to first-degree manslaughter in what was determined to be a crime unrelated to Mallove's energy advocacy
+- The Correas operate their own publishing house (Akronos Publishing) for their work, which bypasses peer review; the lack of commercial funding may reflect scientific skepticism about unverified claims rather than active suppression
+- Paulo Correa's academic credentials are in biophysics and molecular biology, not in plasma physics or electrical engineering — his expertise does not directly apply to the energy claims he makes
+- The Correas are believed to be alive and continue to publish; their case is one of career marginalization, which is the expected outcome for researchers whose claims cannot be independently verified
+
+## See Also
+
+- [Eugene Mallove](Eugene_Mallove.md) — Their chief advocate; beaten to death in 2004
+- [Wilhelm Reich](Wilhelm_Reich.md) — Orgone energy pioneer whose work they built upon
+- [Trevor Constable](Trevor_Constable.md) — Another researcher who extended Reich's orgone work
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneer of the aether motor concept the Correas claim to have realized
+- [Thomas Bearden](Thomas_Bearden.md) — Another inventor with valid US patents for overunity claims
+
+## Other Shocking Stories
+
+- [Jaime Gustitus](Jaime_Gustitus.md): Top Secret/SCI cleared AFRL analyst at Wright-Patterson. Found dead at 28. No public cause given.
+- [Stanley Meyer](Stanley_Meyer.md): Last words: "They poisoned me." Died at dinner with investors. Water fuel cell inventor.
+- [Nikola Tesla](Nikola_Tesla.md): FBI seized his papers within hours of death. Wireless energy research defunded by J.P. Morgan.
+- [Arshad Sharif](Arshad_Sharif.md): Marconi scientist found decapitated by a rope tied between his neck and a tree.
+
+## Sources
+
+- [Paulo N Correa — Natural Philosophy Wiki](https://www.wiki.naturalphilosophy.org/index.php?title=Paulo_N_Correa)
+- [Correa CV — AetherEnergy.com](https://www.aetherenergy.com/CVs/correa_cv.php)
+- [Rex Research — Correa PAGD](https://www.rexresearch.com/correa/correa.htm)
+- [Aether Force — Correa Technologies](https://www.aetherforce.energy/the-new-aetherometric-technologies-by-paulo-alexandra-correa/)
+- [Correa Patents — Justia](https://patents.justia.com/inventor/paulo-n-correa)
+- [US Patent 5,502,354 — Google Patents](https://patents.google.com/patent/US5502354A/en)
+- [US Patent 7,053,576 — Google Patents](https://patents.google.com/patent/US7053576B2/en)
+- [Mallove's Appreciation of Correa Science — Aetherometry.com](https://www.aetherometry.com/Aetherometry_Intro/mallove_appreciation.php)
+- [Aetherometry — RationalWiki](https://rationalwiki.org/wiki/Aetherometry)
+- [Free Energy Suppression — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
+
+*This information was built by Grok and Claude AI research.*

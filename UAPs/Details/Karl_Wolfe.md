@@ -1,0 +1,63 @@
+
+# Karl Wolfe
+Former US Air Force sergeant and Disclosure Project witness who claimed he saw NASA photos of alien structures on the far side of the Moon; killed when struck by a tractor trailer while cycling in 2018.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Karl Wolfe |
+| **Born** | c. 1944 |
+| **Died** | October 10, 2018 |
+| **Age at Death** | 74 |
+| **Location of Death** | Lansing, New York, USA |
+| **Cause of Death** | Struck by tractor trailer while cycling |
+| **Official Ruling** | Accident |
+| **Category** | Military Witness / Disclosure Project |
+
+## Assessment: SUSPICIOUS
+
+Karl Wolfe, a former USAF sergeant and key Disclosure Project witness, was killed at age 74 when he was struck by a tractor trailer while cycling in Lansing, New York. Wolfe had publicly testified at the 2001 National Press Club event organized by Dr. Steven Greer that he had seen classified NASA photographs showing artificial structures on the far side of the Moon. While cycling accidents involving trucks do occur, the fact that Wolfe was a prominent UFO disclosure witness who had gone public with claims about classified lunar imagery has led some in the research community to question whether his death was truly accidental.
+
+## Circumstances of Death
+
+On October 10, 2018, Karl Wolfe was cycling in Lansing, New York, when he was struck by a tractor trailer. He was rushed to nearby Cayuga Medical Center but died from his injuries. The death was ruled an accident by local authorities. No further details about the circumstances of the collision -- such as whether the truck driver was charged or whether there were witnesses -- have been widely reported.
+
+## Background
+
+Karl Wolfe served as a precision electronics photograph repairman in the United States Air Force. In 1965, he was assigned to the Lunar Orbiter Project run by NASA at Langley Field, Virginia. According to Wolfe's testimony, while he was sent to repair a piece of equipment that was creating a bottleneck in the production of photographs, another worker took him into a laboratory and showed him a photograph displaying what appeared to be artificial structures -- buildings and geometric formations -- on the far side of the Moon. These photographs had reportedly been taken by a lunar orbiter prior to the Apollo landings in 1969.
+
+Wolfe first gained widespread attention in 2001 when he testified at the Disclosure Project's National Press Club event in Washington, D.C., organized by ufologist Dr. Steven Greer. The event featured testimony from military, intelligence, and government witnesses regarding UFOs and classified programs. Wolfe's testimony about lunar structures was considered among the most compelling accounts presented.
+
+Wolfe held a top-secret crypto clearance during his time in the Air Force and stated that he was aware he was viewing material far above his clearance level when shown the lunar photographs.
+
+## Why This Death Possibly Raises Questions
+
+- Was a key witness in the Disclosure Project who testified publicly about classified NASA lunar photographs
+- Hit by a tractor trailer while cycling -- a type of accident that has been associated with other suspicious deaths of whistleblowers
+- Had held a top-secret crypto clearance and claimed to have seen material above his clearance level
+- His testimony about artificial structures on the Moon directly challenged official narratives about the lunar surface
+- The limited details available about the collision leave questions about the specific circumstances
+- Pattern of Disclosure Project witnesses dying in unusual circumstances
+
+## See Also
+
+- [Mark McCandlish](Mark_McCandlish.md) — Fellow Disclosure Project witness who died of a gunshot wound ruled suicide in 2021
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified about recovered non-human craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+
+## Other Shocking Stories
+
+- [John Ford](John_Ford.md): Retired court security officer and founder of the Long Island UFO Network who has been institutionalized in psychiatric...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+- [Stefan Michalak](Stefan_Michalak.md): Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at...
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+
+## Sources
+
+- [Yahoo News - Karl Wolfe, Who Claimed He Saw NASA Photos Of Alien Structures On The Moon, Dies In Bike Accident](https://www.yahoo.com/news/karl-wolfe-claimed-saw-nasa-122126101.html)
+- [Fox News - Airman who claimed he saw top secret NASA photos of alien structures on the moon dies in bike crash](https://www.foxnews.com/us/airman-who-claimed-he-saw-top-secret-nasa-photos-of-alien-structures-on-the-moon-dies-in-bike-crash)
+- [ExoNews - US Airman Who Claimed He Saw Top Secret NASA Photos of Alien Structures on the Moon Dies in Bike Crash](https://exonews.org/us-airman-who-claimed-he-saw-top-secret-nasa-photos-of-alien-structures-on-the-moon-dies-in-bike-crash/)
+- [OddWoo - Karl Wolfe: The Moon Base Whistleblower](https://oddwoo.com/karl-wolfe-moon-base.php)
+- [HowAndWhys - This US Airman Claimed To See Top Secret NASA Photos Of Giant Alien Moon Base](https://howandwhys.com/former-us-airman-claimed-there-is-top-secret-alien-structure-on-moon/)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,63 @@
+
+# Dean Warwick
+Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments before allegedly revealing classified information.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Dean Warwick |
+| **Born** | c. 1944 (New Zealand) |
+| **Died** | October 7, 2006 |
+| **Age at Death** | 62 |
+| **Location of Death** | Blackpool, England, UK |
+| **Cause of Death** | Heart attack (per widow) |
+| **Official Ruling** | Natural causes |
+| **Category** | Whistleblower / Alternative Energy Researcher |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Dean Warwick collapsed and died mid-sentence at the Probe International conference in Blackpool, reportedly just as he was about to name the person behind Robert F. Kennedy's assassination. Shortly before taking the stage, Warwick reportedly told conference organizers he felt a "beam" or "burning" sensation at the side of his head and expressed a premonition that "something would happen." The timing of his death -- at the exact moment he was about to disclose classified information -- has led many in the alternative research community to suspect foul play, though his widow maintained he died of a heart attack.
+
+## Circumstances of Death
+
+On October 7, 2006, Warwick took the stage at the Probe International conference in Blackpool, England. He was reportedly in good health and had been energetically preparing his presentation. According to witnesses, as he began to hit his stride and was about to reveal who was behind the assassination of Bobby Kennedy, he paused and said "Bear with me for a moment," then leaned on a nearby table with his left elbow, placed his right arm across his body, and collapsed face-first onto the floor. He was pronounced dead shortly thereafter.
+
+Prior to his presentation, Warwick reportedly told conference organizers that he felt a "beam" or "burning" at the side of his head. He had also expressed a premonition that something would happen to him during the talk.
+
+## Background
+
+Dean Warwick was originally from New Zealand, reportedly the son of an MI6 operative. He served in the New Zealand Army before becoming an alternative energy researcher. He later settled in Scotland. Warwick claimed to have knowledge of directed energy weapons, underground bases, and suppressed technologies. He was associated with the alternative research and UFO disclosure community and had previously spoken about classified subjects including free energy, government cover-ups, and intelligence operations.
+
+Warwick was reportedly preparing to reveal information about the identity of the person behind the assassination of Robert F. Kennedy, as well as other classified subjects, at the time of his death. He had also reportedly planned to discuss underground bases and the use of directed energy weapons by intelligence services.
+
+## Why This Death Possibly Raises Questions
+
+- Collapsed at the exact moment he was reportedly about to name the person behind RFK's assassination
+- Reported feeling a "beam" or "burning" at the side of his head shortly before taking the stage
+- Expressed a premonition that "something would happen" during his talk
+- Was 62 and reportedly in good health with no prior heart conditions mentioned
+- Some researchers, including David Icke, have alleged this was an intelligence agency hit using an ELF (Extremely Low Frequency) weapon
+- The dramatic timing -- dying mid-sentence during a disclosure event -- is considered by some to be statistically improbable as a coincidence
+
+## See Also
+
+- [Fred Bell](Fred_Bell.md) — Physicist who died within 48 hours of filming an interview about beam weapons
+- [Max Spiers](Max_Spiers.md) — UFO researcher who died in Warsaw after sending "if anything happens to me, investigate"
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing publicly about classified programs
+- [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died before planned Senate testimony
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Leonard H. Stringfield](Leonard_Stringfield.md): Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft...
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+- [Walter Kasza (Area 51 Worker)](Walter_Kasza_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 73 from kidney cancer after years of...
+
+## Sources
+
+- [Project Camelot - In Tribute - Dean Warwick](https://projectcamelot.org/warwick.html)
+- [The Steeple Times - Not Such Divine Intervention](https://www.thesteepletimes.com/movers-shakers/not-such-divine-intervention/)
+- [The Free Library - SAD EXIT; EXCLUSIVE X-files expert dies at conspiracy conference](https://www.thefreelibrary.com/SAD+EXIT;+EXCLUSIVE+X-files+expert+dies+at+conspiracy+conference+as+he...-a0153470728)
+- [Check The Evidence - Dean Warwick](https://www.checktheevidence.com/wordpress/2006/10/11/old-news-2333/)
+- [From The Ashes - The Sudden Death of a Whistleblower](https://fromtheashes2.com/2024/02/10/the-sudden-death-of-a-whistleblower/)
+
+*This information was built by Grok and Claude AI research.*

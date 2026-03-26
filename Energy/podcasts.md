@@ -1,0 +1,192 @@
+
+# Podcasts on Suppressed Energy Breakthroughs
+
+Podcasts and notable episodes covering the suppression, destruction, and mysterious deaths of inventors and researchers working on advanced energy technologies. Organized into dedicated shows and notable individual episodes. Where a person is profiled in this project, their name links to their detail page.
+
+---
+
+## Dedicated Podcasts
+
+These shows focus primarily or substantially on suppressed energy, free energy, cold fusion, or related topics.
+
+### Cold Fusion Now! Podcast
+- **Host:** Ruby Carat
+- **Platform:** [coldfusionnow.org/cfnpodcast](https://coldfusionnow.org/cfnpodcast/), iTunes
+- **Episodes:** 27 (2018–2019)
+- **Focus:** Interviews with leading LENR/cold fusion scientists
+- **Notable guests:** Edmund Storms (former Los Alamos), Dr. Pamela Mosier-Boss (Navy SPAWAR), Michael McKubre, Dr. Jean-Paul Biberian, Sveinn Olafsson (U. of Iceland), Alan Goldwater (MFMP)
+- **Connection to project:** Direct continuation of [Eugene Mallove](Details/Eugene_Mallove.md)'s advocacy work. Covers the research he died promoting.
+
+### Free Energy Now
+- **Host:** Sterling Allan (founder, Pure Energy Systems Network)
+- **Platform:** [BBS Radio](https://bbsradio.com/freeenergynow)
+- **Focus:** Regular broadcast covering exotic free energy technologies, new developments, and inventor interviews
+- **Connection to project:** Allan also appeared on Coast to Coast AM presenting alternative energy updates. Covered many inventors profiled here.
+
+### Dark Journalist
+- **Host:** Daniel Liszt
+- **Platform:** [darkjournalist.com](https://darkjournalist.com/), [Apple Podcasts](https://podcasts.apple.com/us/podcast/dark-journalist-cosmic-revelations-unveiling-mysteries/id1716512998), YouTube
+- **Focus:** Independent investigative podcast covering suppressed breakthrough energy technology, covert forces, black budget programs, exotic technologies
+- **Notable content:** X-Series on [Tesla](Details/Nikola_Tesla.md)/Trump family connections and classified technology; John Trump (MIT) reviewing Tesla's papers; government seizure of research
+- **Stats:** 174,000+ YouTube subscribers, 100M+ views
+
+### Tesla: The Life and Times Podcast
+- **Platform:** [teslapodcast.com](http://teslapodcast.com/), [Apple Podcasts](https://podcasts.apple.com/us/podcast/tesla-the-life-and-times-podcast/id1278785366)
+- **Focus:** Definitive podcast biography of [Nikola Tesla](Details/Nikola_Tesla.md) — inventions, suppression, and legacy
+- **Status:** Inactive for 2+ years
+
+### The Forbidden Knowledge Podcast
+- **Platform:** [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forbidden-knowledge-podcast/id1820239756), Amazon Music
+- **Focus:** Suppressed technologies and classified government programs, including free energy, zero-point energy, and advanced electromagnetic devices
+
+### Forum Borealis
+- **Host:** Al Borealis
+- **Platform:** [Spotify](https://open.spotify.com/show/6DnbT04KttVy15gvwFoVAy), Podbean
+- **Focus:** Long-form interviews covering zero-point energy, antigravity, cold fusion, [Tesla](Details/Nikola_Tesla.md), [Schauberger](Details/Viktor_Schauberger.md), Keely
+- **Notable episode:** "Daniel 'Dark Journalist' Liszt — Enemy of the Deep State" (2015)
+
+### Solari Report
+- **Host:** Catherine Austin Fitts
+- **Platform:** [solari.com](https://solari.com/)
+- **Focus:** Financial and governance analysis, regularly covers suppressed energy technology
+- **Notable content:** "A 21st-Century Approach to Energy" with Charlie Stephens; Adam Trombly on zero-point energy; coverage of 2012 Breakthrough Energy Conference
+
+### Coast to Coast AM
+- **Hosts:** Art Bell (original), George Noory (current)
+- **Platform:** [coasttocoastam.com](https://www.coasttocoastam.com/)
+- **Focus:** Long-running radio show with decades of extensive free energy coverage
+- **Notable guests:** [Eugene Mallove](Details/Eugene_Mallove.md) (multiple appearances — he was killed days before a scheduled appearance), [Thomas Bearden](Details/Thomas_Bearden.md) (first appeared 1997), Sterling Allan, Ashton Forbes (Feb 2025 — zero-point energy), Hal Puthoff
+
+---
+
+## Notable Individual Episodes
+
+### Stanley Meyer Coverage
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Conspiracy Theories (Parcast/Spotify) | "Free Energy Pt. 1" & "Pt. 2" (2022) | [Spotify Pt.1](https://open.spotify.com/episode/0vwjcQt3XBzqXYDpQrN2Xd), [Pt.2](https://open.spotify.com/episode/5qvjaHbMPoOeYB3hjfXpvu) | Two-part series on [Stanley Meyer](Details/Stanley_Meyer.md), free energy suppression, and who might be behind it. |
+| Hysteria 51 | "Stanley Meyer's Water Fuel Cell Saga" (Ep 265) | [Apple Podcasts](https://podcasts.apple.com/ee/podcast/stanley-meyers-water-fuel-cell-saga-265/id1156724104?i=1000544128975) | 55-minute deep dive into [Meyer](Details/Stanley_Meyer.md)'s water fuel cell claims and death. |
+| Event Horizon | "Can Cars Run On Water — The Stanley Meyer Story" (Ep 101) | [Spotify](https://open.spotify.com/episode/7lAa57s7WWrwjN7ubhTAzb) | Detailed investigation of [Meyer](Details/Stanley_Meyer.md)'s water-powered car. |
+| Red Web | "Was Stanley Meyer Murdered for His Water-Powered Invention?" | [Spotify](https://open.spotify.com/episode/0HgnRdka0zk6Gmyn8axlAI) | Covers [Meyer](Details/Stanley_Meyer.md)'s death and his last words: "They poisoned me!" |
+| Seriously Mysterious | "Stanley Meyer's Water Powered Car" (2021) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/stanley-meyers-incredible-water-powered-car/id1534190596?i=1000592733234) | Did Meyer invent an engine that doesn't need gas, and did it make him a target? |
+| Expanded Perspectives | "Stanley Meyer and his 'Water Fuel Cell Technology'" (2014) | [IMDB](https://www.imdb.com/title/tt26387685/) | Early podcast coverage of the Meyer story. |
+| Strange Deranged Beyond Insane | "The Water-Powered Vehicle That Could Have Changed..." (Feb 2025) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-water-powered-vehicle-that-could-have-changed/id1679701067?i=1000695143829) | 17-minute overview. |
+
+### Eugene Mallove and Cold Fusion
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Crime Waves: Cold Truth | 8-part limited series (Nov 2023) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/crime-waves-cold-truth-trailer/id1712928899), Spotify, iHeart | Award-winning journalist David Kushner investigates [Eugene Mallove](Details/Eugene_Mallove.md)'s life, murder, and legacy. Part true crime, part cold fusion history. The most comprehensive audio treatment of Mallove's case. |
+| True Crime New England | "The Murder of Eugene Mallove" (Ep 186) | [truecrimene.com](https://www.truecrimene.com/episodes/p6zagfbyw95khxlki00s3o5zfagrz4), [Spotify](https://open.spotify.com/episode/3jMvos3vKmIsgu8NHaVlE6) | Covers the murder at his childhood home, cold fusion background, arrest and conviction. |
+| RadioWest (KUER) | "Utah's Cold Fusion Moment" (Jan 2023) | [radiowest.kuer.org](https://radiowest.kuer.org/podcast/radiowest/2023-01-20/utahs-cold-fusion-moment) | The 1989 Pons-Fleischmann announcement and its aftermath at the University of Utah. |
+| Nature Podcast | Cold Fusion segment (2019) | [Nature.com](https://www.nature.com/articles/d41586-019-01716-3) | Scientific assessment of the cold fusion claim — mainstream perspective. |
+
+### Nikola Tesla
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Red Web | "Decoding Tesla's Inventions From Earthquake Machine to Free Energy" | [Spotify](https://open.spotify.com/episode/1iPodaGuuHlfu8RpZ4hJPD) | [Tesla](Details/Nikola_Tesla.md)'s inventions and suppression claims. |
+| Forbidden History | "The Genius of Nikola Tesla" | [Spotify](https://open.spotify.com/episode/7f1YkW5Ok5rINWjrihCjOn) | Whether [Tesla](Details/Nikola_Tesla.md)'s energy research was suppressed by governments and the scientific establishment. |
+| Conspiracy Theories (2025) | "Tesla's Death Ray" | [Shortform](https://www.shortform.com/podcast/episode/conspiracy-theories-2025-11-19-episode-summary-tesla-s-death-ray) | The mystery surrounding [Tesla](Details/Nikola_Tesla.md)'s death and government seizure of his papers. |
+
+### Thomas Henry Moray
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Stuff They Don't Want You to Know | "Was T. Henry Moray the Next Tesla?" | [iHeart](https://www.iheart.com/podcast/105-stuff-they-dont-want-you-t-26941221/episode/was-t-henry-moray-the-next-29624024/), [Apple Podcasts](https://podcasts.apple.com/au/podcast/classic-was-thomas-henry-moray-the-next-nikola-tesla/id732915228?i=1000508381605) | Why some believe [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) discovered a revolutionary zero-point energy device. |
+
+### Rudolf Diesel
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Stuff You Should Know | "The Story of Rudolf Diesel" | [iHeart](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/the-story-of-rudolf-diesel-202933595/) | [Rudolf Diesel](Details/Rudolf_Diesel.md)'s life and mysterious disappearance from the SS Dresden in 1913. |
+| Truck Show Podcast | "Solving the Mysterious Death of Rudolf Diesel" (S2, E94) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/solving-the-mysterious-death-of-rudolf-diesel/id1357401021?i=1000657626133) | Interview with Douglas Brunt, author of *The Mysterious Case of Rudolf Diesel*. Murder theories involving Kaiser Wilhelm II and Standard Oil. |
+| The Jack Carr Channel | "Douglas Brunt: The Mystery Surrounding the Death of Rudolf Diesel" | [Audible](https://www.audible.com/podcast/Douglas-Brunt-The-Mystery-Surrounding-the-Death-of-Rudolf-Diesel/B0CJFFVXK8) | In-depth interview on [Diesel](Details/Rudolf_Diesel.md)'s suspicious death. |
+
+### Wilhelm Reich
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| The Hermetic Hour | "Wilhelm Reich and Orgone Energy" | [Everand](https://www.everand.com/podcast/419043251/Wilhelm-Reich-and-Orgone-Energy-re-broadcast) | [Reich](Details/Wilhelm_Reich.md)'s psychology, therapy, and free energy technology for medical treatment. |
+| Ridiculous History | "Wilhelm Reich and Orgone" (2-part) | [iHeart](https://www.iheart.com/podcast/105-ridiculous-history-28588696/episode/wilhelm-reich-and-orgone-part-1-101570690/), [Apple Podcasts](https://podcasts.apple.com/ca/podcast/wilhelm-reich-and-orgone-part-1-sexy-psychoanalysis/id1299826850?i=1000578034360) | Two-part deep dive into [Reich](Details/Wilhelm_Reich.md)'s life, orgone research, and government persecution. |
+| Against Everyone with Conner Habib | "Orgone Energy for Troubled Times" (Ep 263, May 2024) | [connerhabib.com](https://connerhabib.com/2024/05/07/orgone-energy-for-troubled-times-reinvestigating-the-work-of-wilhelm-reich-on-aewch-263/) | Reinvestigating [Reich](Details/Wilhelm_Reich.md)'s work. |
+| Once Bitten! | "Stolen Science Part 2 — Wilhelm Reich and Orgone Energy" (#476) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/stolen-science-part-2-wilhelm-reich-and-orgone-energy/id1497540130?i=1000661508159) | Guest: Georg Ritschl, author of *Orgonise Africa*. |
+
+### Thomas Townsend Brown and Antigravity
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| American Alchemy (Jesse Michels) | "The CIA Scientist Who Cracked Antigravity (Townsend Brown Documentary)" | [Spotify](https://open.spotify.com/episode/5c5FwDk4vzNplEh5cDcQxe) | Full biography of [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) and electrogravitics. |
+| American Alchemy (Jesse Michels) | "Is Aerospace Hiding Antigravity From US? (ft. Nick Cook)" | [Spotify](https://open.spotify.com/episode/7nqxS0luUYUJLkue71Q4ZW) | Nick Cook's decade-long investigation into antigravity technology. Author of *The Hunt for Zero Point*. |
+
+### Viktor Schauberger
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Timeless Voyager Series | "#275 Who is Viktor Schauberger?" | [Audible](https://www.audible.com/podcast/275Who-is-Viktor-Schauberger-Water-Vortex-levitation-vimana-aircraft-ufos-more/B0BSQ1BYLK) | Guest: Dale Pond. Covers [Schauberger](Details/Viktor_Schauberger.md)'s water vortex, implosion engines, and levitation research. |
+
+### GEC-Marconi Deaths
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| Thinking Sideways Podcast | "GEC-Marconi Deaths" (2016) | [iHeart](https://www.iheart.com/podcast/256-thinking-sideways-podcast-31138110/episode/thinking-sideways-gec-marconi-deaths-36325953/), [Apple Podcasts](https://podcasts.apple.com/mx/podcast/thinking-sideways-gec-marconi-deaths/id679462887?i=1000376285295) | 25 scientists who died mysteriously between 1982–1990 while working on Star Wars/SDI. Covers [Keith Bowden](Details/Keith_Bowden.md), [Vimal Dajibhai](Details/Vimal_Dajibhai.md), [Arshad Sharif](Details/Arshad_Sharif.md), and others. |
+| I Want To Believe | "The Mysterious Deaths of the Marconi Scientists" (S4 Bonus) | [iHeart](https://www.iheart.com/podcast/256-i-want-to-believe-season-8-31111284/episode/s4-bonus-episode-the-mysterious-86039867/) | The GEC-Marconi death cluster. |
+
+### Zero-Point Energy and Broad Suppression
+
+| Podcast | Episode | Platform | Description |
+|---------|---------|----------|-------------|
+| The Why Files | "Killer Patents & Secret Science Vol. 1: Free Energy & Anti-Gravity Cover-Ups" | [Apple Podcasts](https://podcasts.apple.com/us/podcast/killer-patents-secret-science-vol-1-free-energy-anti/id1631738803?i=1000653185168), YouTube | Groundbreaking patents that mysteriously disappeared after catching government attention. Covers the Invention Secrecy Act. IMDB rating 8.3. |
+| Ecosystemic Futures | Ep 69: "Beyond Conventional Physics" (Dec 2024) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/69-beyond-conventional-physics-extended-electrodynamics/id1675146725?i=1000680173004), [Spotify](https://open.spotify.com/episode/4aeD4stC8Ha4cXm0vUfgIa) | Dr. Hal Puthoff, Larry Forsley, and Dyan Finkhousen discuss extended electrodynamics, lattice confinement fusion, zero-point energy, and advanced propulsion. Presented by NASA. |
+| PBD Podcast | Ep 544: "Bigger Than the Nuclear Bomb" & Ep 429: "They'll Erase You" | [Ep 544](https://pod.wave.co/podcast/pbd-podcast-d9368195-465a-4862-ac87-1de1c580f262/bigger-than-the-nuclear-bomb-dr-steven-greer-reveals-suppressed-energy-tech-bide-23f64e87) | Patrick Bet-David interviews Dr. Steven Greer on zero-point energy, Invention Secrecy Act, and [Tesla](Details/Nikola_Tesla.md). |
+| Richard Syrett's Strange Planet | Ep 1139: "Hidden Power: The Suppression of Free Energy" (Dec 2024) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/1139-hidden-power-the-suppression-of-free-energy/id1320704694?i=1000680729684) | Guest: Jeane Manning, author of *Hidden Energy*. |
+| Richard Syrett's Strange Planet | Ep 820: "The Anti-gravity Generator" | [Apple Podcasts](https://podcasts.apple.com/us/podcast/820-the-anti-gravity-generator/id1320704694?i=1000588514577) | Dave Zed discusses zero-point energy and propulsion. |
+| Belief Hole Podcast | "4.4 EXP: Suppressed Technology, Silenced Scientists, and Zero Point Energy" | [beliefhole.com](https://expansion.beliefhole.com/4-4-exp-suppressed-technology-silenced-scientists-and-zero-point-energy/) | Hidden advanced energy technologies and silenced scientists. |
+| The Higherside Chats | "Aaron Murakami & Jeremiah Ferwerda: The Tesla Turbine, Suppressed Energy Science" | [Apple Podcasts](https://podcasts.apple.com/us/podcast/aaron-murakami-jeremiah-ferwerda-the-tesla-turbine/id419458838?i=1000580581421) | Tesla Turbine, overunity devices, suppressed energy science. |
+| Lehto Files | "Zero Point Energy Unveiled: UFO Technology with Lehto & Forbes" | [Spotify](https://open.spotify.com/episode/6Q5kyB49B4LpktrraOLWiy) | Suppressed science, free energy, antigravity propulsion. |
+| Grimerica Show | "#692 — Ashton Forbes: Engineering, Physics, Zero Point Energy" | [Spotify](https://open.spotify.com/episode/1MA52sNt4eL6r6EOW9SGds) | ZPE, cold fusion, AI, magnetic motors, plasma. |
+| The Wisdom Tradition | "Adam Trombly and the Classified Science of Etheric Energy" (Oct 2025) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/adam-trombly-and-the-classified-science-of-etheric-energy/id1556270405?i=1000730613803) | Adam Trombly's zero-point energy device, 1983 government gag order, and suppression. |
+
+### Joe Rogan Experience
+
+| Episode | Guest | Description |
+|---------|-------|-------------|
+| JRE #2318 | Harold "Sonny" White | DARPA quantum vacuum energy research, warp drives, zero-point energy |
+| JRE #2160 | Billy Carson | Alternative propulsion, zero-point energy devices |
+| JRE (various) | Hal Puthoff | Remote viewing, UAP, zero-point energy |
+| JRE (various) | Dr. Steven Greer | UFO disclosure and free energy suppression |
+
+---
+
+## Cross-Reference: People in This Project Covered by Podcasts
+
+| Person | Podcast Coverage |
+|--------|-----------------|
+| [Stanley Meyer](Details/Stanley_Meyer.md) | Hysteria 51, Event Horizon, Red Web, Seriously Mysterious, Conspiracy Theories, Expanded Perspectives, Coast to Coast AM |
+| [Eugene Mallove](Details/Eugene_Mallove.md) | Crime Waves: Cold Truth (8-part series), True Crime New England, Coast to Coast AM (multiple), Cold Fusion Now! |
+| [Nikola Tesla](Details/Nikola_Tesla.md) | Tesla: The Life and Times (dedicated show), Forbidden History, Dark Journalist X-Series, The Why Files, PBD Podcast |
+| [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) | Stuff They Don't Want You to Know |
+| [Wilhelm Reich](Details/Wilhelm_Reich.md) | The Hermetic Hour, Ridiculous History (2-part), AEWCH Ep 263, Once Bitten! #476 |
+| [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | American Alchemy (2 episodes) |
+| [Viktor Schauberger](Details/Viktor_Schauberger.md) | Timeless Voyager #275 |
+| [Rudolf Diesel](Details/Rudolf_Diesel.md) | Stuff You Should Know, Truck Show Podcast, Jack Carr Channel |
+| [Thomas Bearden](Details/Thomas_Bearden.md) | Coast to Coast AM (1997+) |
+| [John Bedini](Details/John_Bedini.md) | Bill Jenkins' The Open Mind |
+| GEC-Marconi scientists | Thinking Sideways (2016), I Want To Believe (S4 Bonus) |
+
+---
+
+## See Also
+
+- [The Physics Behind Zero-Point Energy](Details/pte_physics.md) — How gravity research and field propulsion were sealed behind classification walls after 1969
+- [Books on Suppressed Energy](books.md) — Written accounts and reference works
+- [YouTube Channels](youtube_channels.md) — Video documentaries and channels
+- [Energy Suppression Main List]# — 71 profiled cases
+- [Epstein Kill List]# — Parent project
+
+---
+
+*This information was built by Grok and Claude AI research.*
+
+*Last Updated: March 23, 2026 — Updated profile count to 71*

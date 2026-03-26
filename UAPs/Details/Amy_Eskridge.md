@@ -1,0 +1,78 @@
+
+# Amy Eskridge
+Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who was found dead from a gunshot wound at age 34 in June 2022; officially ruled a suicide, but retired UK intelligence officer Franc Milburn alleged to Congress that she was murdered because of her antigravity and advanced propulsion research.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Amy Catherine Eskridge |
+| **Born** | 1987 (Alabama, USA) |
+| **Died** | June 11, 2022 |
+| **Age at Death** | 34 |
+| **Location of Death** | Huntsville, Alabama, USA |
+| **Cause of Death** | Gunshot wound |
+| **Official Ruling** | Suicide |
+| **Category** | Suppressed Technology Researcher |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Amy Eskridge was found dead from a gunshot wound in Huntsville, Alabama on June 11, 2022, at age 34. While officially ruled a suicide, the case has attracted extraordinary attention after retired UK intelligence officer Franc Milburn alleged that Eskridge was "targeted with directed energy weapons and murdered by a private aerospace company" because of her work on antigravity and advanced propulsion technologies. These allegations were significant enough to be included in written testimony submitted to the U.S. House of Representatives by journalist Michael Shellenberger during November 2024 UAP hearings on "Unidentified Anomalous Phenomena: Exposing the Truth." No police reports, autopsy findings, or coroner's statements have been publicly released, which has fueled ongoing concerns about the case.
+
+## Circumstances of Death
+
+On June 11, 2022, Amy Eskridge was found dead in Huntsville, Alabama from a gunshot wound. The death was officially classified as a suicide. She was 34 years old.
+
+Notably, key documents related to her death have not been made publicly available. No police reports, autopsy findings, or coroner's statements have been released, which is unusual for a case that has attracted Congressional attention and allegations of murder from a retired intelligence officer.
+
+The lack of publicly available official documentation has made it impossible for independent researchers or journalists to evaluate the suicide ruling. Eskridge's colleagues and associates in the UAP and exotic science research communities have expressed deep skepticism about the official determination.
+
+## Background
+
+Amy Catherine Eskridge was a multidisciplinary scientist and entrepreneur based in Huntsville, Alabama. She graduated from the University of Alabama in Huntsville (UAH) with a double major in chemistry and biology, and subsequently became what colleagues described as an interdisciplinarian, mastering fields including electrical engineering, chemistry, physics, genetic engineering, and nanotechnology.
+
+Eskridge co-founded and served as Chairwoman and President of the Institute for Exotic Science in Huntsville, an organization focused on unconventional physics research. Her work reportedly centered on gravity modification and advanced propulsion technologies -- areas with significant implications for aerospace and defense.
+
+In 2020, Eskridge reportedly stated that she was planning to present novel foundational work regarding antigravity but needed approval from NASA before doing so. Her stated desire to bring antigravity research "into the open" aligned with the broader UAP disclosure movement that was gaining momentum in Congress and the defense community.
+
+Eskridge was based in Huntsville, Alabama -- a city with deep connections to the U.S. defense and aerospace establishment through NASA's Marshall Space Flight Center, the U.S. Army's Redstone Arsenal, and numerous defense contractors. This location placed her work in close proximity to both potential collaborators and potential adversaries.
+
+## Why This Death Possibly Raises Questions
+
+- Died at age 34 from a gunshot wound ruled as suicide
+- Retired UK intelligence officer Franc Milburn alleged she was "targeted with directed energy weapons and murdered by a private aerospace company"
+- Milburn's allegations were included in written testimony submitted to the U.S. House of Representatives during official UAP hearings in November 2024
+- No police reports, autopsy findings, or coroner's statements have been publicly released
+- Was working on antigravity and gravity modification research with potential military applications
+- Had stated in 2020 that she planned to present novel antigravity research but needed NASA approval
+- Expressed a desire to bring her research "into the open," which reportedly made her a target
+- Based in Huntsville, Alabama -- a center of U.S. defense and aerospace activity
+- Her death occurred during a period of increasing Congressional attention to UAP-related technologies and alleged suppression programs
+- [Ning Li](Ning_Li.md), another antigravity researcher based at the University of Alabama in Huntsville, also suffered a suspicious trajectory -- struck by a vehicle on the UAH campus, causing permanent brain damage
+- The pattern of two antigravity researchers in the same city experiencing suspicious events is notable
+- Journalist Michael Shellenberger considered the case significant enough to include in formal Congressional testimony
+
+## See Also
+
+- [Amy Eskridge (Zero Point Energy)](/energy/Details/Amy_Eskridge) — This case also appears in the Zero Point Energy project
+- [Ning Li](Ning_Li.md) — Another antigravity researcher based at UAH who was struck by a vehicle, causing permanent brain damage
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead in car at airport
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing his device
+
+## Other Shocking Stories
+
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Gary McKinnon](Gary_McKinnon.md): Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+
+## Sources
+
+- [Amy Eskridge Obituary - Legacy.com](https://www.legacy.com/obituaries/name/amy-eskridge-obituary?pid=202191023)
+- [The Mysterious Death of Amy Eskridge: When Anti-Gravity Research Meets Alleged Murder - Political Saucer](https://politicalsaucer.substack.com/p/the-mysterious-death-of-amy-eskridge)
+- [Michael Shellenberger on the Death of Amy Eskridge - Mystery Lores](https://mysterylores.com/news/michael-shellenberger-amy-eskridge-case/)
+- [Amy Eskridge - Anomaly Archives](https://anomalyarchives.org/collections/file/pettigrew-amy-eskridge/)
+- [The Anti-Gravity Research and The Mysterious Death of Amy Eskridge - Anomalien](https://anomalien.com/the-anti-gravity-research-and-the-mysterious-death-of-amy-eskridge/)
+- [Franc Milburn claims on Amy Eskridge - X/Twitter](https://x.com/inspiredcreatv/status/1926318370577633674)
+
+*This information was built by Grok and Claude AI research.*

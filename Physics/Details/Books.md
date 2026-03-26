@@ -1,0 +1,204 @@
+
+# Books on UAP Physics & Classified Breakthroughs
+
+The books listed here represent the core library for understanding UAP physics, classified science, and the claim that public physics stagnated around 1950 while military programs leapt ahead. These works span peer-reviewed science, insider testimony, investigative journalism, and historical documentation. They are organized by the thesis categories used throughout this project. Many books span multiple categories; each is listed under its primary focus with cross-references noted.
+
+For evidence ratings and what they mean, see the [main project page]#.
+
+---
+
+## Energy & Power Sources
+
+Books addressing what powers UAPs, including [zero-point energy](Zero_Point_Energy.md), vacuum energy extraction, and exotic energy generation.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Practical Conversion of Zero-Point Energy* (3rd ed.) | Thomas Valone | 2005 | **MODERATE EVIDENCE** | Electrical engineer Valone surveys the theoretical basis for extracting usable energy from the quantum vacuum and reviews experimental approaches. Covers Casimir effect devices, coherent ZPE extraction, and engineering challenges. One of the few books to treat [zero-point energy](Zero_Point_Energy.md) as an engineering problem rather than purely theoretical physics. |
+| *Tapping the Zero Point Energy* | Moray B. King | 1989 | **SPECULATIVE** | Electrical engineer King presents the theoretical case that the quantum vacuum contains extractable energy. Covers artificial gravity, stepping down high-frequency energy, noise as an energy source, and macroscopic vacuum polarization. An early attempt to bridge [ZPE theory](Zero_Point_Energy.md) and practical engineering. |
+| *Quest for Zero-Point Energy: Engineering Principles for Free Energy Inventions* | Moray B. King | 2001 | **SPECULATIVE** | King's follow-up volume examines specific engineering approaches to tapping [vacuum energy](Zero_Point_Energy.md), including charge clusters, vortex filaments, torsion fields, and the "super tube" concept. More technically detailed than his first book, with discussion of experimental devices that reportedly demonstrated anomalous energy output. |
+| *The Hunt for Zero Point: Inside the Classified World of Antigravity Technology* | Nick Cook | 2001 | **MODERATE EVIDENCE** | Aviation journalist Cook (Jane's Defence Weekly editor) investigated classified antigravity programs and discovered that every major aerospace firm was researching gravity control in the mid-1950s before the research abruptly vanished from public literature. Documents the [1950s classification wall](Electromagnetic_Propulsion.md) that is central to this project's thesis. Essential reading for understanding how an entire branch of physics was classified. |
+| *The New Science of UFOs: New Insights into an Old Mystery* | Eric Haseltine, Chris Gilbert | 2024 | **MODERATE EVIDENCE** | Co-authored by the former Director of Research at the NSA and former associate director/CTO for national intelligence at ODNI, this book examines astrophysics, astrobiology, propulsion physics, and exopsychology. After exhaustively evaluating explanations from human error to exotic propulsion to non-human causes, it reaches conclusions about UFO origins. Haseltine's intelligence community credentials — including roles at NSA, ODNI, and Hughes Aircraft — give this book unusual insider weight on the question of classified energy and propulsion research. |
+
+---
+
+## Propulsion & Movement
+
+Books addressing how UAPs achieve observed flight characteristics, including [gravity manipulation](Gravity_Manipulation.md), [electrogravitics](Electromagnetic_Propulsion.md), and field propulsion.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Unconventional Flying Objects: A Scientific Analysis* | Paul R. Hill | 1995 | **STRONG EVIDENCE** | Published posthumously, this book by a NASA research engineer applies rigorous physics analysis to UFO observations collected over 25 years. Hill concludes that UFOs "obey, not defy, the laws of physics" and that their flight characteristics are consistent with a focused repulsive force acting on all matter — a form of [gravity manipulation](Gravity_Manipulation.md). Hill built the first flying platform at NASA and could replicate UFO tilt-to-control maneuvers. One of the most scientifically rigorous analyses of UAP propulsion ever published. |
+| *Secrets of Antigravity Propulsion: Tesla, UFOs, and Classified Aerospace Technology* | Paul LaViolette | 2008 | **MODERATE EVIDENCE** | Physicist LaViolette documents T. Townsend Brown's [electrogravitics](Electromagnetic_Propulsion.md) experiments and traces the history of antigravity research from Tesla through classified military programs. Covers Project Skyvault, the B-2 bomber's alleged electrogravitic properties, and subquantum kinetics. Argues that workable antigravity propulsion has existed since the 1950s but was classified. |
+| *T.T. Brown's Electrogravitics Research* | Thomas Townsend Brown, edited by Thomas Valone | 2008 | **MODERATE EVIDENCE** | Compilation of Brown's original experimental papers, correspondence, and notes on the [Biefeld-Brown effect](Electromagnetic_Propulsion.md) — the observation that high-voltage capacitors produce a propulsive force. Brown demonstrated the effect in laboratories in the 1950s before the research was classified. Primary source material for understanding electrogravitics history. |
+| *Electrogravitics Systems: Reports on a New Propulsion Methodology* | Edited by Thomas Valone | 2008 | **MODERATE EVIDENCE** | Compiles the original 1956 Aviation Studies International reports on [electrogravitics](Electromagnetic_Propulsion.md) that documented active programs at major defense contractors (Douglas, Glenn Martin, Convair, Lear) before the research was classified. Essential historical documentation of the pre-classification era when antigravity was openly discussed in aerospace journals. |
+| *Hidden in Plain Sight: Evidence of Exotic UFO Propulsion* | Chad Wanless, Prof. Dave Palachik | 2024 | **EMERGING** | Applies advanced physics analysis to official UAP footage, identifying five consistent visual observables: gravitational lensing, leading-edge vapor cones, oscillatory motion blur, disc tilt in low-speed flight, and skipping trajectories. Uses [Alcubierre warp drive](Alcubierre_Warp_Drive.md) theory to analyze spatial distortions visible in Pentagon-released videos. Peer-reviewed companion paper published in 2025. |
+| *Electrogravitics II: Validating Reports on a New Propulsion Methodology* | Thomas Valone | 2005 | **MODERATE EVIDENCE** | Companion volume to *Electrogravitics Systems*, providing scientific validation and expanded historical context for the [Biefeld-Brown effect](Electromagnetic_Propulsion.md) and [electrogravitic propulsion](Electromagnetic_Propulsion.md). Includes additional experimental data and theoretical analysis that builds on the original 1956 Aviation Studies International reports. |
+
+---
+
+## Spacetime & Gravity Manipulation
+
+Books addressing warp drives, [spacetime warping](Alcubierre_Warp_Drive.md), [local gravity manipulation](Gravity_Manipulation.md), and related theoretical frameworks.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Frontiers of Propulsion Science* | Marc G. Millis, Eric W. Davis | 2009 | **MODERATE EVIDENCE** | Published by the American Institute of Aeronautics and Astronautics (AIAA), this 739-page volume is the first compilation of emerging science relevant to space drives, [warp drives](Alcubierre_Warp_Drive.md), gravity control, and faster-than-light travel. Co-edited by Eric Davis (astrophysicist who briefed Congress on recovered "off-world vehicles") and Marc Millis (NASA Breakthrough Propulsion Physics project manager). Five sections cover the problem, propulsion without rockets, FTL travel, energy considerations, and future research. The most academically rigorous survey of exotic propulsion science available. |
+| *Physics of the Impossible: A Scientific Exploration* | Michio Kaku | 2008 | **SPECULATIVE** | Theoretical physicist Kaku classifies exotic technologies by feasibility tiers. Covers force fields, teleportation, [warp drives](Alcubierre_Warp_Drive.md), antigravity, antimatter propulsion, and faster-than-light travel from a mainstream physics perspective. While not UAP-focused, it provides the theoretical physics framework for understanding which UAP-associated technologies are plausible under known physics and which require new physics. |
+| *The SS Brotherhood of the Bell: The Nazis' Incredible Secret Technology* | Joseph P. Farrell | 2006 | **SPECULATIVE** | Oxford-educated historian Farrell investigates Die Glocke ("The Bell"), a purported top-secret Nazi device overseen by SS General Hans Kammler. The device allegedly featured counter-rotating cylinders and exotic materials, with Farrell arguing it was a prototype for antigravity or [spacetime manipulation](Gravity_Manipulation.md) technology. Connects to Operation Paperclip and post-war classified programs. Controversial — mainstream historians consider Die Glocke claims unsubstantiated, originating from a single Polish journalist's account. |
+
+---
+
+## Exotic Materials & Metamaterials
+
+Books addressing recovered materials, [anomalous metamaterials](Exotic_Metamaterials.md), and material science evidence.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *The Day After Roswell* | Philip J. Corso | 1997 | **DEBATED** | Retired Army Colonel Corso claims he managed the reverse-engineering of technology recovered from the 1947 Roswell crash, seeding breakthroughs to defense contractors that led to integrated circuits, fiber optics, lasers, and super-tenacity fibers. Highly controversial — The Guardian listed it among "Top 10 literary hoaxes" in 2001. Regardless of its veracity, it established the reverse-engineering narrative that later whistleblowers echoed and is essential context for the [exotic metamaterials](Exotic_Metamaterials.md) thesis. |
+| *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth* | Avi Loeb | 2021 | **DEBATED** | Harvard astronomer Loeb makes the scientific case that 'Oumuamua, the first detected interstellar object (2017), may have been an alien artifact — specifically a thin disc acting as a solar sail. While not about UAP physics directly, Loeb's willingness to consider non-natural explanations from a position of mainstream scientific authority challenged academic gatekeeping. His subsequent Galileo Project conducts systematic scientific searches for physical evidence of extraterrestrial technology. |
+| *Interstellar: The Search for Extraterrestrial Life and Our Future in the Stars* | Avi Loeb | 2024 | **MODERATE EVIDENCE** | Loeb's follow-up to *Extraterrestrial*, detailing the work of the Galileo Project — his systematic scientific mission to search for extraterrestrial technological signatures. Covers interstellar archaeology, recovery of interstellar meteor fragments, and revisits 'Oumuamua data. Provides a roadmap for how humanity can scientifically investigate [exotic materials](Exotic_Metamaterials.md) from interstellar objects. Loeb's institutional position at Harvard lends mainstream scientific credibility to the search for physical evidence of non-human technology. |
+
+---
+
+## Whistleblower & Insider Accounts
+
+Books by or about military, intelligence, and government insiders who claim direct knowledge of classified UAP physics programs.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Imminent: Inside the Pentagon's Hunt for UFOs* | Luis Elizondo | 2024 | **STRONG EVIDENCE** | Instant #1 NYT bestseller by the former head of AATIP (Advanced Aerospace Threat Identification Program). Elizondo describes the "prevailing theory" that UAPs have an energy source interacting with the craft's skin to create a "bubble" altering spacetime — enabling instantaneous acceleration without inertial effects. Discusses [gravity manipulation](Gravity_Manipulation.md), [exotic materials](Exotic_Metamaterials.md), and why UAP anti-gravity technology is "almost understood." The most detailed insider account of what AATIP learned about UAP physics. |
+| *Skinwalkers at the Pentagon: An Insiders' Account of the Secret Government UFO Program* | James Lacatski, Colm Kelleher, George Knapp | 2021 | **STRONG EVIDENCE** | Details the AAWSAP program (2008-2012), the DIA's landmark covert UFO study executed by Bigelow Aerospace. Describes the commissioning of 38 Defense Intelligence Reference Documents covering [zero-point energy](Zero_Point_Energy.md), [warp drives](Alcubierre_Warp_Drive.md), [extra dimensions](Interdimensional_Hypothesis.md), antigravity, and [metamaterials](Exotic_Metamaterials.md). Authored by the program's director (Lacatski) and key participants. |
+| *Inside the US Government Covert UFO Program: Initial Revelations* | James Lacatski, Colm Kelleher, George Knapp | 2023 | **STRONG EVIDENCE** | Follow-up to *Skinwalkers at the Pentagon*, digging deeper into AAWSAP revelations. Reports that the US was in possession of a "craft of unknown origin" and had "successfully gained access to its interior." Provides additional details on the program's classified findings about UAP technology and physics. |
+| *Dreamland: An Autobiography* | Bob Lazar, George Knapp | 2019 | **DEBATED** | Lazar's own account of allegedly working at S-4 near Area 51 on reverse-engineering exotic propulsion systems. Describes [gravity amplification](Gravity_Manipulation.md) using Element 115 (moscovium), reactor systems generating gravity waves, and craft that warp spacetime. Lazar's claims remain unverified and his credentials disputed, but his 1989 descriptions of the physics — made decades before similar concepts appeared in Navy patents and insider testimony — make this a historically significant document. |
+| *Unacknowledged: An Expose of the World's Greatest Secret* | Steven M. Greer | 2017 | **MODERATE EVIDENCE** | Companion book to the crowdfunded documentary. Greer, founder of the Disclosure Project, presents testimony from over 20 military, government, intelligence, and corporate witnesses regarding reverse engineering of extraterrestrial energy and propulsion systems. The 2001 National Press Club event remains one of the largest coordinated whistleblower disclosures on UAP technology. Criticized for mixing credible testimony with more speculative claims. |
+| *Hidden Truth, Forbidden Knowledge* | Steven M. Greer | 2006 | **SPECULATIVE** | Greer's personal account combining his advocacy work with claims of direct contact experiences. Less focused on physics than his other work, but includes discussion of classified energy technology and alleged free energy suppression. Controversial within the UAP research community. |
+| *UFOs: Myths, Conspiracies, and Realities* | John B. Alexander | 2011 | **MODERATE EVIDENCE** | Retired Army Colonel Alexander, who held Top Secret clearance, created an interagency group within the US military in the 1980s to investigate UFOs. His findings were "not at all what was expected." Provides a rare insider perspective from someone who searched for classified UAP programs within the military establishment. Notably, Alexander concluded there was no single coordinated cover-up but rather institutional dysfunction. |
+| *UFO Crash Retrievals: The Complete Investigation — Status Reports I-VII (1978-1994)* | Leonard H. Stringfield | 1978-1994 | **MODERATE EVIDENCE** | Seven self-published status reports compiled over 16 years by MUFON researcher Stringfield, documenting alleged crash retrievals and physical evidence recovery by the US military. Stringfield collected first-hand testimony from military and intelligence witnesses describing recovered craft and non-human occupants. While individual accounts vary in credibility, the aggregate body of consistent testimony across independent sources makes this the foundational reference for [crash retrieval](Exotic_Metamaterials.md) and reverse-engineering claims that later whistleblowers echoed. |
+
+---
+
+## Investigative Journalism & Research
+
+Books by journalists, historians, and researchers who investigated UAP phenomena and classified programs from the outside.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *In Plain Sight: An Investigation into UFOs and Impossible Science* | Ross Coulthart | 2021 | **STRONG EVIDENCE** | Award-winning Australian investigative journalist Coulthart draws on sources across the intelligence community to document the history of UAP encounters and government cover-ups. Covers reverse-engineering programs, classified physics breakthroughs, and the political dynamics of UAP secrecy. Coulthart later became a key journalist in the Grusch disclosure, demonstrating the depth of his intelligence community access. |
+| *UFOs: Generals, Pilots, and Government Officials Go on the Record* | Leslie Kean | 2010 | **STRONG EVIDENCE** | Investigative journalist Kean compiles first-person accounts from credible military and government witnesses worldwide. Includes testimony from generals, pilots, and officials describing objects performing maneuvers impossible under known physics. Kean later co-authored the landmark 2017 NYT article that revealed AATIP, making this book a precursor to the modern disclosure era. |
+| *UFOs and the National Security State, Vol. 1: Chronology of a Coverup, 1941-1973* | Richard Dolan | 2002 | **STRONG EVIDENCE** | Historian Dolan compiled one of the most comprehensive chronologies of UFO incidents and government responses during the early Cold War period. Based on hundreds of official and declassified sources. Documents the evolution of government secrecy around UAPs and the institutional structures that kept information classified. Essential historical context for understanding the classification regime. |
+| *UFOs and the National Security State, Vol. 2: The Cover-Up Exposed, 1973-1991* | Richard Dolan | 2009 | **STRONG EVIDENCE** | Continues Dolan's chronology through the late Cold War, analyzing UFO sightings, intelligence community infiltration into UFO research, and the controversial MJ-12 documents. Covers the period when reverse-engineering programs allegedly expanded within Special Access Programs. |
+| *American Cosmic: UFOs, Religion, Technology* | Diana Walsh Pasulka | 2019 | **MODERATE EVIDENCE** | University of North Carolina religious studies professor Pasulka examines how UAP belief functions in modern culture, including interviews with anonymous scientists and NASA researchers who study UAP phenomena privately. Documents the phenomenon of credentialed scientists working on UAP-related physics in secret while publicly maintaining mainstream positions — a pattern consistent with classified research programs. |
+| *UFOs & Nukes: Extraordinary Encounters at Nuclear Weapons Sites* | Robert Hastings | 2008 | **STRONG EVIDENCE** | Over four decades, Hastings interviewed more than 150 military veterans about UAP incursions at nuclear weapons facilities. Documents cases where nuclear missiles mysteriously malfunctioned moments after disc-shaped craft were observed near launch silos. Relevant to UAP physics because the repeated association between UAPs and nuclear sites suggests UAPs may be detecting or interacting with nuclear energy in ways conventional physics does not explain. |
+| *Above Top Secret: The Worldwide U.F.O. Cover-Up* | Timothy Good | 1987 | **MODERATE EVIDENCE** | British researcher Good's landmark work, the product of 20 years' research, documents government suppression of UFO information across multiple nations. Uses documented research and personal testimony to argue that evidence of UAP technology has been systematically suppressed. A foundational text in the government cover-up literature. |
+| *Need to Know: UFOs, the Military and Intelligence* | Timothy Good | 2006 | **MODERATE EVIDENCE** | Good's follow-up work documents the secrecy and deception surrounding UAPs from military and intelligence perspectives worldwide. Provides additional evidence of institutional suppression of UAP-related information across multiple governments and intelligence agencies. |
+| *Area 51: An Uncensored History of America's Top Secret Military Base* | Annie Jacobsen | 2011 | **MODERATE EVIDENCE** | Investigative journalist Jacobsen gained unprecedented access to 74 individuals with direct Area 51 connections. Documents classified programs, stealth aircraft development, and the secrecy infrastructure. Her Roswell claims (attributing the crash to a Soviet psyop involving Mengele) are controversial and widely criticized, but the book's documentation of Area 51's classification apparatus and technological secrecy is valuable context for understanding how physics programs could be hidden. |
+| *Passport to the Cosmos: Human Transformation and Alien Encounters* | John E. Mack | 1999 | **MODERATE EVIDENCE** | Harvard psychiatry professor and Pulitzer Prize winner Mack's second book on alien encounter phenomena, arguing that these experiences represent a genuine interaction with non-human intelligence that challenges scientific rationalism. Mack's position as head of psychiatry at Harvard Medical School lent unprecedented institutional credibility to encounter research. Harvard investigated him for his conclusions but did not revoke his tenure. Relevant to UAP physics because the encounter phenomenon — if genuine — implies [interdimensional](Interdimensional_Hypothesis.md) or consciousness-based physics beyond the materialist framework. |
+| *Earth: An Alien Enterprise* | Timothy Good | 2013 | **MODERATE EVIDENCE** | British researcher Good documents alleged alien-human contacts dating back to 1932, including meetings with military personnel and American presidents. Includes a reported conversation between a former MI6 member and Neil Armstrong at a NASA conference. Good draws on 40+ years of research and government sources across multiple nations. Extends the documentation in his earlier *Above Top Secret* and *Need to Know* with additional testimony on reverse-engineering programs and government liaison efforts. |
+
+---
+
+## Historical & Government Programs
+
+Books documenting the institutional history of classification, government secrecy, and programs relevant to UAP physics suppression.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Top Secret/Majic: Operation Majestic-12 and the United States Government's UFO Cover-up* | Stanton T. Friedman | 1996 | **DEBATED** | Nuclear physicist Friedman's 21-year investigation into the alleged MJ-12 group — a top-secret panel reportedly established by President Truman in 1947 to manage recovered UAP technology. Examines the controversial MJ-12 documents that surfaced in 1984 and 1994. Whether or not MJ-12 existed as described, the book documents the institutional framework that would be required to manage classified physics programs of the type described by later whistleblowers. |
+| *A.D. After Disclosure: When the Government Finally Reveals the Truth About Alien Contact* | Richard Dolan, Bryce Zabel | 2012 | **SPECULATIVE** | Historian Dolan and journalist/screenwriter Zabel examine what would happen after official disclosure of UAP reality. While speculative, the book's analysis of the political, scientific, and cultural implications of disclosure — including the revelation of classified physics — provides useful framing for understanding why governments might suppress transformative technology. Predicts Watergate-style hearings, a prediction partially fulfilled by the 2023 Grusch testimony. |
+| *Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America* | Annie Jacobsen | 2014 | **WELL-DOCUMENTED** | Jacobsen documents the US program that recruited German scientists after WWII, some of whom had worked on advanced aerospace technology under the Nazi regime. Relevant to UAP physics because Operation Paperclip is one documented mechanism by which classified weapons and propulsion research entered the US military's black budget programs. Reviewed favorably by CIA's Center for the Study of Intelligence. |
+| *UFO Science: Secret New Physics, Vehicles, & UAP* | G.O. Turner, Kaz Morran | 2023 | **EMERGING** | Illustrated guidebook providing scientific frameworks for analyzing declassified Pentagon UAP cases. Includes detailed illustrations of how [spacetime manipulation](Alcubierre_Warp_Drive.md) and [gravity-well generation](Gravity_Manipulation.md) might function. Bridges the gap between classified physics concepts and public understanding. |
+| *Crash at Corona: The U.S. Military Retrieval and Cover-Up of a UFO* | Stanton Friedman, Don Berliner | 1992 | **MODERATE EVIDENCE** | Nuclear physicist Friedman and journalist Berliner investigate the Roswell and Plains of San Agustin crash retrieval cases using witness testimony and declassified documents. Friedman's scientific credentials and methodical approach distinguish this from more sensational Roswell accounts. Provides foundational documentation for the crash retrieval narrative that later informed AAWSAP research and Grusch's congressional testimony about recovered "craft of unknown origin." |
+| *The UFO Enigma: A Call for US Government Disclosure* | Karl Nell | 2025 | **STRONG EVIDENCE** | Published through the Sol Foundation, this policy paper by retired Army Colonel Nell — who served at the epicenter of the government's official UAP investigation — presents the most detailed insider case for why Congress should pass the UAP Disclosure Act. Nell's career spans Lockheed Martin, Northrop Grumman, and Bell Labs in senior R&D roles. His five-phase disclosure timeline running from "Prove UAPs exist" (2024) through "Engage with Non-Human Intelligence" (post-2034) represents the most concrete roadmap for managed disclosure from a credentialed insider. |
+
+---
+
+## Dimensional & Interdimensional Physics
+
+Books addressing the [interdimensional hypothesis](Interdimensional_Hypothesis.md), consciousness-related physics, and non-materialist frameworks for understanding UAPs.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Dimensions: A Casebook of Alien Contact* | Jacques Vallee | 1988 | **MODERATE EVIDENCE** | Astrophysicist and computer scientist Vallee reexamines the historical record that led to the modern UFO phenomenon. Proposes that UAPs may represent an [interdimensional](Interdimensional_Hypothesis.md) phenomenon rather than extraterrestrial visitors, connecting modern sightings to centuries of anomalous encounters in folklore. Vallee's dimensional framework influenced AAWSAP's research direction and several of the 38 DIRDs. |
+| *Passport to Magonia: From Folklore to Flying Saucers* | Jacques Vallee | 1969 | **MODERATE EVIDENCE** | Vallee's foundational work proposing that UFO phenomena share characteristics with historical fairy folklore, religious visions, and other paranormal encounters across cultures. Argues for a [multidimensional hypothesis](Interdimensional_Hypothesis.md) — that the phenomenon operates across dimensions of reality rather than simply traveling through space. Introduced the framework that AAWSAP later investigated through its DIRDs on extra dimensions and wormholes. |
+| *Trinity: The Best-Kept Secret* | Jacques Vallee, Paola Harris | 2021 | **DEBATED** | Documents a claimed 1945 UAP crash near the Trinity nuclear test site in New Mexico, five weeks after the first atomic detonation. Vallee argues the crash represents physical evidence of UAP interaction with nuclear technology. Controversial — some researchers consider the testimony unreliable. Relevant to the pattern of UAP-nuclear facility interactions documented by Hastings. |
+| *Sekret Machines: Gods, Man, War* (3-volume nonfiction series) | Tom DeLonge, Peter Levenda | 2017-2024 | **SPECULATIVE** | A three-volume nonfiction analysis of the UAP phenomenon from religious, scientific, and political angles. DeLonge (TTSA founder who facilitated the release of Navy UAP videos) collaborated with researcher Levenda. Draws connections between historical occultism, consciousness research, and UAP phenomena. The series reflects the [interdimensional](Interdimensional_Hypothesis.md) and consciousness-oriented perspective that some insiders reportedly hold. |
+| *Forbidden Science* (6-volume journal series) | Jacques Vallee | 1992-2023 | **STRONG EVIDENCE** | Vallee's personal scientific journals spanning 1957-2019 across six volumes, documenting in real time his investigation of UFO phenomena, his interactions with intelligence officials, his meetings with congressmen and scientists, and the manipulation and disinformation he witnessed in UFO research. Provides an unparalleled insider account of how UFOs became a "forbidden science" and how institutional gatekeeping suppressed legitimate research. The journals document Vallee's first-hand observations of government programs, classified briefings, and the evolution of the [interdimensional hypothesis](Interdimensional_Hypothesis.md) over six decades. |
+
+---
+
+## Unified Frameworks & Comprehensive Overviews
+
+Books that attempt to synthesize multiple UAP physics theses into coherent frameworks or provide comprehensive surveys of the field.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *UFOs for the 21st Century Mind* | Richard Dolan | 2014 | **MODERATE EVIDENCE** | Considered by many the best single-volume overview of the UFO/UAP subject in all its complexity. Covers history, physics, politics, and philosophy. Useful as an entry point that contextualizes the various physics theses within the broader institutional and political framework. |
+| *The Secret Space Program and Breakaway Civilization* | Richard Dolan | 2016 | **SPECULATIVE** | Dolan examines the theory that classified physics breakthroughs have enabled a "breakaway civilization" — a parallel technological society operating with physics far beyond the public domain. While speculative, the framework addresses the central question of this project: what happened to the classified physics and who controls it. |
+| *One Nation Under Blackmail* (2 volumes) | Whitney Webb | 2022 | **STRONG EVIDENCE** | Investigative journalist Webb documents the century-long relationship between US and Israeli intelligence services and organized crime, tracing how sexual blackmail networks — culminating in Epstein — were used to control politicians, scientists, and defense contractors. Relevant to UAP physics because the book maps the intelligence community power structures and contractor relationships that allegedly control access to classified technology programs and suppress disclosure. Essential context for understanding *who* controls the classification of exotic physics and *how* they maintain that control. |
+| *The American Deep State: Wall Street, Big Oil, and the Attack on U.S. Democracy* | Peter Dale Scott | 2017 | **STRONG EVIDENCE** | UC Berkeley professor Scott documents the "deep state" — a second order of government behind the constitutional state that has grown considerably stronger since WWII. Traces the intersection of Wall Street, intelligence agencies, and the military-industrial complex. While not UAP-focused, Scott's framework explains the institutional machinery through which classified physics programs could be maintained outside democratic oversight for 70+ years. Daniel Ellsberg called Scott's related work the most important analysis of covert government operations available. |
+
+---
+
+## Additional Notable Works
+
+Books covering related topics not easily categorized above, including FOIA-based research, technical field guides, biographies of key researchers, and broader frameworks.
+
+| Title | Author(s) | Year | Evidence Rating | Description |
+|-------|-----------|------|-----------------|-------------|
+| *Inside the Black Vault: The Government's UFO Secrets Revealed* | John Greenewald Jr. | 2019 | **STRONG EVIDENCE** | Based on 20+ years of FOIA requests yielding 2+ million pages of declassified documents. Each chapter explores different agencies' UFO files and the struggle to obtain them through legal channels. The most comprehensive FOIA-based UFO research. Published by Rowman & Littlefield. |
+| *Phenomena: The Secret History of the US Government's Investigations into ESP and Psychokinesis* | Annie Jacobsen | 2017 | **STRONG EVIDENCE** | Definitive history of the CIA's Stargate Project and 40+ years of government psychic research using never-before-seen declassified documents. Relevant because remote viewing programs (Ingo Swann, [Hal Puthoff](Hal_Puthoff.md)) directly overlapped with UAP programs. |
+| *Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah* | Colm A. Kelleher & George Knapp | 2005 | **MODERATE EVIDENCE** | Chronicles the NIDS investigation of Skinwalker Ranch (1996-2004), funded by Robert Bigelow. Kelleher later became deputy administrator of BAASS, executing the AAWSAP contract with DIA. The precursor to government-funded UAP research. |
+| *Transmedium: The Science, Sensors, and Signatures of UAP* | M.E. Dorvee | 2024 | **MODERATE EVIDENCE** | Technical field guide covering 18 chapters on how anomalous objects are observed, tracked, and validated across the electromagnetic spectrum. Draws exclusively from declassified/peer-reviewed sources. 150+ annotated bibliographic references. |
+| *Defying Gravity: The Parallel Universe of T. Townsend Brown* | Paul Schatzkin | 2009 | **MODERATE EVIDENCE** | Authorized biography of T. Townsend Brown, who demonstrated the link between electricity and gravity before disappearing behind classified military research after WWII. Documents how [electrogravitics](Electromagnetic_Propulsion.md) was classified. |
+| *The Man Who Mastered Gravity* | Paul Schatzkin | 2023 | **MODERATE EVIDENCE** | Updated and expanded version of the Townsend Brown story with additional sources. The most complete account of Brown's [electrogravitics](Electromagnetic_Propulsion.md) work and covert activities. |
+| *Faster Than Light: Warp Drive and Quantum Vacuum Power* | H. David Froning Jr. & Thomas Valone | 2019 | **MODERATE EVIDENCE** | Explores "engineering the vacuum" for energy and thrust. Covers quantum vacuum power, anti-gravity effects, [warp drives](Alcubierre_Warp_Drive.md), and the velocity of light in altered spacetime regions. |
+| *Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History* | Steven M. Greer | 2001 | **MODERATE EVIDENCE** | Compilation of testimony from 400+ military, intelligence, and government witnesses who participated in Greer's Disclosure Project. Despite controversy around Greer personally, preserves firsthand accounts from credentialed witnesses. |
+| *Alien Agenda: Investigating the Extraterrestrial Presence Among Us* | Jim Marrs | 1997 | **MODERATE EVIDENCE** | Bestselling investigation drawing on classified CIA reports, eyewitness accounts, and military intelligence sources. Published by HarperCollins. |
+| *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* | [Jacques Vallee](Jacques_Vallee.md) & Chris Aubeck | 2010 | **MODERATE EVIDENCE** | Examines 500+ aerial phenomenon reports from biblical antiquity through 1879. Reveals consistent physical features across centuries. |
+| *Zero Point Energy: The Fuel of the Future* | Thomas Valone | 2007 | **MODERATE EVIDENCE** | The first book on [ZPE](Zero_Point_Energy.md) designed for the general public. Explains quantum fluctuations and the potential for ZPE extraction. |
+| *Penetration: The Question of Extraterrestrial and Human Telepathy* | Ingo Swann | 1998 | **SPECULATIVE** | Autobiography of the co-creator of remote viewing (CIA Stargate Project) describing involvement with a "deep black" agency investigating UFOs. Swann worked directly with [Hal Puthoff](Hal_Puthoff.md) at SRI. |
+| *Anti-Gravity Propulsion Dynamics: UFOs and Gravitational Manipulation* | Paul Potter | 2016 | **SPECULATIVE** | Scientific principles behind UFO propulsion dynamics based on analysis of artifacts from reported crashed UFOs. Proposes [gravitational manipulation](Gravity_Manipulation.md) mechanisms. |
+| *Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon* | Dr. Michael P. Masters | 2019 | **SPECULATIVE** | Biological anthropologist proposes the "extratempestrial" hypothesis: UFOs are piloted by future humans traveling backward through time. |
+| *Insiders Reveal Secret Space Programs and Extraterrestrial Alliances* (6 volumes) | Dr. Michael Salla | 2015-2021 | **SPECULATIVE** | Six-volume series investigating whistleblower testimonies on classified space programs. Extraordinary claims with many unverifiable sources. |
+| *Jay Stratton Memoir* (forthcoming) | Jay Stratton | Expected 2025-2026 | **STRONG EVIDENCE** (anticipated) | Forthcoming memoir from the former director of the Pentagon's UAP Task Force, who led government UAP investigations for 16 years. Published by William Morrow / HarperCollins. |
+
+---
+
+## How to Use This List
+
+**By evidence strength:** Readers wanting the strongest cases should start with books rated **WELL-DOCUMENTED** or **STRONG EVIDENCE**. Those rated **MODERATE EVIDENCE** offer plausible but unconfirmed accounts. **DEBATED** and **SPECULATIVE** books are included because they are influential in the field, but readers should weigh their claims accordingly.
+
+**By thesis:** Each category above maps to the physics thesis categories in the [main project page]#. Cross-links to specific thesis profiles (e.g., [Zero Point Energy](Zero_Point_Energy.md), [Gravity Manipulation](Gravity_Manipulation.md)) are provided throughout.
+
+**Essential starting points for new readers:**
+1. *Unconventional Flying Objects* (Hill) — The most scientifically rigorous physics analysis
+2. *The Hunt for Zero Point* (Cook) — Documents the 1950s classification wall
+3. *Imminent* (Elizondo) — The most recent insider account of AATIP findings
+4. *Frontiers of Propulsion Science* (Millis & Davis) — The most academically credible survey
+5. *In Plain Sight* (Coulthart) — The strongest investigative journalism overview
+
+---
+
+## See Also
+
+- [Zero Point Energy](Zero_Point_Energy.md) — Thesis on quantum vacuum energy extraction
+- [Gravity Manipulation](Gravity_Manipulation.md) — Thesis on local gravitational distortion
+- [Electromagnetic Propulsion](Electromagnetic_Propulsion.md) — Thesis on electrogravitics and field propulsion
+- [Alcubierre Warp Drive](Alcubierre_Warp_Drive.md) — Thesis on spacetime warping for FTL travel
+- [Interdimensional Hypothesis](Interdimensional_Hypothesis.md) — Thesis on extra-dimensional physics
+- [Exotic Metamaterials](Exotic_Metamaterials.md) — Thesis on recovered materials with anomalous properties
+
+### Other Media Resources
+- [Podcasts on UAP Physics](Podcasts.md) — Many authors listed here have appeared on UAP podcasts; podcast episodes provide additional context for their claims
+- [YouTube Channels on UAP Physics](YouTube_Channels.md) — Video interviews and lectures featuring many of the authors listed here
+
+---
+
+## Other Coverage Worth Reading
+
+- [Zero Point Energy / Quantum Vacuum Energy](Zero_Point_Energy.md): The thesis that UAPs are powered by extracting energy from the quantum vacuum — the enormous reservoir of energy present even in "empty" space.
+- [Gravity Manipulation / Antigravity Propulsion](Gravity_Manipulation.md): The thesis that UAPs generate and manipulate localized gravitational fields — effectively creating their own gravity wells — allowing craft to "fall" in any direction.
+- [Hal Puthoff](Hal_Puthoff.md): Chief architect of the spacetime metric engineering framework, coordinated all 38 AAWSAP DIRDs, and co-authored the landmark 1994 inertia-ZPF paper.
+- [Podcasts on UAP Physics](Podcasts.md): Podcasts have become the primary channel for UAP physics information to reach the public — from Bob Lazar's 63M-view JRE episode to Hal Puthoff's technical deep-dives.
+
+*This information was compiled by Claude AI research.*

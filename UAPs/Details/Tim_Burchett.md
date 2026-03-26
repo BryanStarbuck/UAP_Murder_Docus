@@ -1,0 +1,64 @@
+
+# Tim Burchett
+U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army Special Forces and intelligence community personnel that "they'd have no problem having you killed" for pursuing UAP disclosure.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Timothy Floyd Burchett |
+| **Born** | August 25, 1964 (Knoxville, Tennessee) |
+| **Status** | ALIVE |
+| **Current Location** | Knoxville, Tennessee / Washington, D.C. |
+| **Category** | Political Figure |
+
+## Assessment: THREATENED
+
+Burchett has publicly disclosed that unnamed officials from U.S. Army Special Forces and the intelligence community warned him he could be killed for pursuing UAP transparency. He was reportedly told to remove two specific names from a list and "never talk about them again." As the most vocal Congressional advocate for UAP hearings and the co-chair of the bipartisan UAP Caucus, he occupies a uniquely exposed position -- a sitting member of Congress who has been directly threatened for his UAP work.
+
+## Current Situation
+
+Burchett represents Tennessee's 2nd Congressional District and continues to lead UAP-related legislative efforts. He co-chairs the bipartisan UAP Caucus alongside Congressman Jared Moskowitz (FL-23). He introduced the UAP Whistleblower Protection Act to provide legal protections for individuals who come forward about federal UAP programs. He has written to White House officials including Secretary of State Marco Rubio and Defense Secretary Pete Hegseth, urging them to release "specific files and metadata" regarding UAPs.
+
+## Background
+
+Burchett graduated from Bearden High School in 1982 and earned a Bachelor of Science in education from the University of Tennessee, Knoxville, in 1988. He served in the Tennessee House of Representatives (1995-1998), the Tennessee State Senate (1999-2010), and as mayor of Knox County before being elected to the U.S. House of Representatives in 2018.
+
+Burchett became one of the most prominent Congressional voices on UAP transparency after the 2023 hearings. He organized the landmark July 26, 2023, hearing where [David Grusch](David_Grusch.md), [Ryan Graves](Ryan_Graves.md), and retired Navy Commander David Fravor testified. Burchett has been outspoken about what he describes as government obstruction, calling one classified UAP briefing "a total joke" while noting that another "energized" Congress on the issue.
+
+His threat disclosures are significant because they came from a sitting member of Congress, not a private citizen or whistleblower, suggesting that the pressure to suppress UAP information extends even to elected officials.
+
+## Why This Person Matters
+
+- Sitting U.S. Congressman who has been directly threatened by military and intelligence personnel for pursuing UAP disclosure
+- Co-chairs the bipartisan Congressional UAP Caucus
+- Led the landmark July 2023 UAP hearing with testimony from Grusch, Graves, and Fravor
+- Introduced the UAP Whistleblower Protection Act
+- Publicly stated "They'd have no problem having you killed" and was told to remove specific names from a list
+- His threats mirror the pattern seen with UAP researchers and whistleblowers who have died under suspicious circumstances
+- Connected to [Lue Elizondo](Lue_Elizondo.md) and [David Grusch](David_Grusch.md) through overlapping disclosure efforts
+- His position as a member of Congress means his threats cannot be dismissed as fringe claims
+
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower whose hearing Burchett organized in July 2023
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director who also stated "I am not suicidal"
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified at the hearing Burchett organized
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP testimony
+- [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
+
+## Other Shocking Stories
+
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [George Knapp](George_Knapp.md): Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+
+## Sources
+
+- [Tim Burchett - Wikipedia](https://en.wikipedia.org/wiki/Tim_Burchett)
+- [Rep. Burchett Launches UAP Caucus - Official Press Release](https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector)
+- [Rep. Burchett Introduces UAP Whistleblower Protection Bill](https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers)
+- [US Congressman Claims Death Threats After Demanding UFO Secrets - Irish Star](https://www.irishstar.com/news/politics/congressman-claims-hes-received-death-36840891)
+- [Tim Burchett Calls for Government Transparency on UAPs - The Hill](https://thehill.com/homenews/house/5208628-burchett-uap-ufo-government-transparency/)
+- [Burchett: Classified UFO Briefing Energized Congress - The Hill](https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/)
+
+*This information was built by Grok and Claude AI research.*

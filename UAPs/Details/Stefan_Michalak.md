@@ -1,0 +1,102 @@
+
+# Stefan Michalak
+Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at Falcon Lake, Manitoba, in one of the best-documented physical trace UFO cases in history.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Stefan (Stephen) Michalak |
+| **Born** | c. 1916 (Poland) |
+| **Died** | 1999 |
+| **Age at Death** | 83 |
+| **Location of Death** | Winnipeg, Manitoba, Canada |
+| **Cause of Death** | Natural causes |
+| **Official Ruling** | Natural death (not related to the 1967 incident) |
+| **Category** | Civilian Witness / Physical Trace Case |
+
+## Assessment: NOT SUSPICIOUS (Death) — HIGHLY SIGNIFICANT (Incident)
+
+Stefan Michalak died of natural causes at age 83, thirty-two years after his encounter. His death itself does not raise suspicion. However, the 1967 Falcon Lake Incident is included here because it represents one of the most thoroughly documented and physically evidenced close encounters in UAP history. The burns, radiation readings, and physical trace evidence at the landing site were investigated by the RCMP, Canadian military, and multiple government agencies, none of whom could explain the event.
+
+## Circumstances of the 1967 Encounter
+
+On May 20, 1967, Stefan Michalak was prospecting for quartz and silver near Falcon Lake in Whiteshell Provincial Park, approximately 150 kilometres east of Winnipeg, Manitoba. At around noon, he was startled by a sudden agitation among nearby geese.
+
+Looking up, he observed two disc-shaped objects descending from the sky. One hovered briefly and then departed; the other landed on a flat rock outcropping approximately 45 metres away. Michalak spent the next half hour observing and sketching the craft, which he described as about 35 feet in diameter, with a dome on top.
+
+He approached the object cautiously. As he drew closer, he reported hearing human-like voices from inside and initially assumed it was an American experimental aircraft. He called out in English, then Russian, then German, then Polish, and other languages, receiving no response. He looked inside through an opening and saw a maze of lights on what appeared to be a panel.
+
+When he reached out to touch the craft's exterior, the heat melted the fingertips of his heavy prospecting glove. The craft then began to rotate, and Michalak noticed a panel containing a grid pattern of small holes. Without warning, a blast of hot gas or air erupted from this grid, striking him in the chest and abdomen, setting his shirt and cap ablaze.
+
+Michalak tore off his burning clothing. The craft lifted off and departed. He was left alone in the wilderness, nauseated and burned.
+
+## Aftermath and Medical Evidence
+
+Michalak made his way back to the highway, vomiting repeatedly, and eventually reached a motel where his son drove him to a hospital. At Misericordia Health Centre in Winnipeg, he was treated for first-degree burns to his chest and stomach.
+
+The burns presented in a distinctive grid pattern corresponding to the arrangement of holes in the panel he had described. Over the following days and weeks, the burns rose into raised, grid-patterned welts. He suffered from:
+
+- Severe nausea and vomiting
+- Diarrhea
+- Headaches
+- Blackouts
+- Weight loss of approximately 22 pounds
+- Blood abnormalities (low lymphocyte count)
+
+These symptoms are consistent with acute radiation exposure. He was examined by more than a dozen physicians over the following months.
+
+## Investigation and Physical Evidence
+
+The case was investigated by multiple agencies:
+
+- **Royal Canadian Mounted Police (RCMP)** — conducted field investigation
+- **Canadian Department of National Defence** — investigated the site and Michalak's claims
+- **Canada's Department of Energy, Mines and Resources** — analyzed soil samples
+- **The Condon Committee** (University of Colorado UFO Project) — reviewed the case
+
+Soil samples from the alleged landing site tested positive for elevated radioactivity. A circular area of disturbed ground was found at the location Michalak described. Metal fragments recovered from the site were analyzed but could not be conclusively identified.
+
+Neither the RCMP nor the Canadian Forces were able to explain the incident. The Condon Committee classified it as "unknown."
+
+## Background
+
+Stefan Michalak was born in Poland around 1916. He emigrated to Canada and worked as an industrial mechanic in Winnipeg. He was an amateur geologist who regularly prospected in the Canadian Shield wilderness around Falcon Lake. He was 51 years old at the time of the encounter.
+
+Michalak consistently maintained his account of the incident for the rest of his life, never changing the core details. He wrote a book about his experience titled "My Encounter With The UFO." He did not seek publicity and expressed frustration with both skeptics and UFO enthusiasts.
+
+His son, Stan Michalak, co-authored a book with UFO researcher Chris Rutkowski titled "When They Appeared — Falcon Lake 1967: The Inside Story of a Close Encounter," published on the 50th anniversary of the incident in 2017.
+
+## Why This Case Is Significant
+
+- The grid-pattern burns on Michalak's chest are physical evidence that has never been adequately explained by conventional means
+- Symptoms were consistent with radiation exposure, and soil at the site showed elevated radioactivity
+- The case was investigated by multiple government agencies, none of which could provide an explanation
+- CBC News has called it "Canada's best-documented UFO case"
+- Michalak's account remained consistent over 32 years until his death
+- Physical trace evidence at the landing site (disturbed ground, radioactive soil, metal fragments) corroborated key elements of his account
+- The Canadian government released its investigative files, which are now held at the University of Manitoba and Library and Archives Canada
+- In 2018, the Royal Canadian Mint issued a commemorative coin depicting the Falcon Lake incident, reflecting the case's status in Canadian history
+
+## See Also
+
+- [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness who suffered radiation injuries from a close UAP encounter
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead after UFO sighting on the same morning
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with unexplained burns and unidentifiable substance
+
+## Other Shocking Stories
+
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md): American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985...
+- [Jaime Gustitus](Jaime_Gustitus.md): 1st Lieutenant in the U.S. Air Force, serving as an Operations Research Analyst at the 711th Human Performance...
+
+## Sources
+
+- [Falcon Lake Incident — Wikipedia](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)
+- [Falcon Lake incident is Canada's 'best-documented UFO case,' even 50 years later — CBC News](https://www.cbc.ca/news/canada/manitoba/falcon-lake-incident-book-anniversary-1.4121639)
+- [The Falcon Lake UFO Files — University of Manitoba](https://news.umanitoba.ca/the-falcon-lake-ufo-files/)
+- [Falcon Lake UFO — Unsolved Mysteries Wiki](https://unsolvedmysteries.fandom.com/wiki/Falcon_Lake_UFO)
+- [Stefan Michalak report — Library and Archives Canada (1967-05-26)](https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-05-26.pdf)
+- [UFOs at LAC: The Falcon Lake Incident — Canada.ca](https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx)
+
+*This information was built by Grok and Claude AI research.*

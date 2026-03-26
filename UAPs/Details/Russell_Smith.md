@@ -1,0 +1,60 @@
+
+# Russell Smith
+23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide motive was found.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Russell Smith |
+| **Born** | c. 1965 |
+| **Died** | January 1988 |
+| **Age at Death** | 23 |
+| **Location of Death** | Boscastle, Cornwall, England |
+| **Cause of Death** | Fall from cliff |
+| **Official Ruling** | Suicide |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: SUSPICIOUS
+
+Smith was a young laboratory technician at the Atomic Energy Research Establishment at Harwell who died in a fall from a cliff in the remote Cornish village of Boscastle. Despite the suicide ruling, no motive for suicide was established. He was only 23 years old and worked at one of Britain's most sensitive nuclear research facilities. Falls from heights were a recurring method in the Marconi death cluster.
+
+## Circumstances of Death
+
+In January 1988, Russell Smith, a 23-year-old laboratory technician, fell from a cliff at Boscastle in Cornwall and was killed. The death was ruled a suicide.
+
+However, investigators were unable to establish any motive for suicide. No history of depression or suicidal ideation was documented. The reason for his presence at the remote Cornish clifftop location has not been clearly established.
+
+## Background
+
+Russell Smith was a 23-year-old laboratory technician at the Atomic Energy Research Establishment (AERE) at Harwell, Oxfordshire. Harwell was (and remains) one of Britain's premier nuclear and defense research facilities, conducting work on nuclear energy, weapons physics, and related classified programs. While Smith's specific role as a laboratory technician may not have given him direct access to the most sensitive programs, his position at Harwell placed him within the broader defense research establishment.
+
+## Why This Death Possibly Raises Questions
+
+- No motive for suicide was established
+- He was only 23 years old with no documented mental health issues
+- Falls from heights were a recurring method in the Marconi death cluster: [Vimal Dajibhai](Vimal_Dajibhai.md) (bridge, 1986), [David Greenhalgh](David_Greenhalgh.md) (bridge, 1987), [Jonathan Walsh](Jonathan_Walsh.md) (hotel window, 1985)
+- He worked at the Atomic Energy Research Establishment, one of Britain's most sensitive research facilities
+- His death occurred during the broader GEC-Marconi death cluster
+- The remote location (Boscastle, Cornwall) raises questions about why he was there
+
+## See Also
+
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi engineer, fell from bridge August 1986
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defense scientist, fell from bridge April 1987
+- [Jonathan Walsh](Jonathan_Walsh.md) — GEC/BT expert, fell from hotel window November 1985
+- [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, died March 1988
+
+## Other Shocking Stories
+
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Matthew Livelsberger](Matthew_Livelsberger.md): Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the...
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

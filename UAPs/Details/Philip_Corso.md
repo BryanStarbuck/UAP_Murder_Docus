@@ -1,0 +1,73 @@
+
+# Philip J. Corso
+Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D, author of *The Day After Roswell* (1997), in which he claimed he oversaw the seeding of recovered alien technology to American defense contractors.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Philip James Corso |
+| **Born** | May 22, 1915 |
+| **Died** | July 16, 1998 |
+| **Age at Death** | 83 |
+| **Location of Death** | United States |
+| **Cause of Death** | Heart attack |
+| **Official Ruling** | Natural causes |
+| **Category** | Military Insider / Whistleblower |
+
+## Assessment: MODERATE SUSPICION
+
+Corso died of a heart attack at age 83, approximately one year after publishing *The Day After Roswell*. While a heart attack at 83 is not inherently suspicious, the timing -- after going public with extraordinary claims about Roswell and reverse-engineering -- fits a pattern seen in other UAP disclosure cases. Heart attacks are also among the methods reportedly used by intelligence services to eliminate targets (see CIA "heart attack gun" disclosed in the 1975 Church Committee hearings). However, his advanced age makes a natural death the most likely explanation.
+
+## Circumstances of Death
+
+Philip Corso died of a heart attack on July 16, 1998, approximately one year after the publication of his book *The Day After Roswell* and less than a year after his high-profile appearance on Art Bell's *Coast to Coast AM* radio show on July 23, 1997, where he discussed his Roswell claims to a national audience.
+
+## Background
+
+Philip James Corso had a distinguished military career spanning from 1942 to 1963, rising to the rank of Lieutenant Colonel. His verified positions included:
+
+- Intelligence officer on General Douglas MacArthur's staff during the Korean War
+- Member of President Eisenhower's National Security Council
+- Head of Foreign Technology in Army Research and Development at the Pentagon in the early 1960s, where he was reportedly in charge of the "Roswell Files"
+
+In his 1997 book *The Day After Roswell* (co-authored with William J. Birnes), Corso claimed that in the early 1960s he was tasked with distributing recovered extraterrestrial artifacts from the 1947 Roswell crash to American defense contractors. According to Corso, the reverse-engineering of these artifacts allegedly led to the development of:
+
+- Accelerated particle beam devices
+- Fiber optics
+- Lasers
+- Integrated circuit chips
+- Kevlar material
+
+Corso stated that these technologies were seeded into the private sector through Army R&D contracts in a way that obscured their true origin. The book became a bestseller and remains one of the most widely cited texts in UAP disclosure literature.
+
+## Why This Death Possibly Raises Questions
+
+- Died approximately one year after publishing explosive claims about Roswell and reverse-engineering programs
+- His verified military credentials (NSC member, Army R&D Foreign Technology chief) made his claims difficult to dismiss
+- Heart attacks are a known method of covert assassination (CIA "heart attack gun" disclosed 1975)
+- However, death at 83 from a heart attack is common and does not require an alternative explanation
+- His claims about seeding alien technology into defense contractors align with later testimony by [David Grusch](David_Grusch.md) about reverse-engineering programs
+- The specific technologies he named (fiber optics, integrated circuits, Kevlar) had well-documented development histories that do not require alien origins
+
+## See Also
+
+- [David Grusch](David_Grusch.md) -- Testified before Congress about UAP retrieval and reverse-engineering programs
+- [Boyd Bushman](Boyd_Bushman.md) -- Lockheed Martin engineer who made similar reverse-engineering claims on deathbed
+- [Bob Lazar](Bob_Lazar.md) -- Claimed to have worked on reverse-engineering alien craft at S-4 near Area 51
+- [Stanton Friedman](Stanton_Friedman.md) -- Nuclear physicist and prominent Roswell researcher
+
+## Other Shocking Stories
+
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md): American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985...
+- [Bob Lazar](Bob_Lazar.md): Physicist who claims he reverse-engineered alien spacecraft at the S-4 facility near Area 51, and has faced ongoing...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+
+## Sources
+
+- [Philip J. Corso - The Black Vault](https://www.theblackvault.com/casefiles/philip-j-corso/)
+- [LTC Philip James Corso - Find a Grave](https://www.findagrave.com/memorial/525546/philip_james-corso)
+- [Philip J. Corso - Wikipedia](https://en.wikipedia.org/wiki/Philip_J._Corso)
+- [Philip J. Corso - Military Wiki](https://military-history.fandom.com/wiki/Philip_J._Corso)
+- [Biography: Philip J. Corso - HandWiki](https://handwiki.org/wiki/Biography:Philip_J._Corso)
+
+*This information was built by Grok and Claude AI research.*

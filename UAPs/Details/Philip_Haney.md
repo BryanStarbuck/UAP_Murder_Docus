@@ -1,0 +1,82 @@
+
+# Philip Haney
+Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound in 2020, officially ruled a suicide two years later, under circumstances that many colleagues and supporters have disputed.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Philip B. Haney |
+| **Born** | July 9, 1953 |
+| **Died** | February 21, 2020 |
+| **Age at Death** | 66 |
+| **Location of Death** | Park-and-ride lot, State Highway 16 near State Highway 124, Amador County, California, USA |
+| **Cause of Death** | Single gunshot wound |
+| **Official Ruling** | Suicide (ruled February 2022, two years after death) |
+| **Category** | DHS Whistleblower / Counterterrorism Analyst |
+
+## Assessment: SUSPICIOUS
+
+Philip Haney's death raises questions primarily because of his status as a prominent government whistleblower who had publicly accused the Obama administration of obstructing counterterrorism efforts. He was found dead from a single gunshot wound in a park-and-ride lot, and the investigation took two years to conclude. The Amador County Sheriff's Office brought in FBI crime scene investigators to assist, indicating the case's complexity. While the official investigation found a suicide note with verified handwriting, evidence of recent depression, and the giving away of personal items the day before, colleagues and political allies have disputed the ruling, pointing to the timing relative to his ongoing public advocacy and reports that he was working on a follow-up book. The case became heavily politicized, with "deep state murder" theories circulating widely in conservative media.
+
+## Circumstances of Death
+
+On February 21, 2020, Philip Haney was found dead with a single gunshot wound in a park-and-ride lot along State Highway 16 near State Highway 124 in Amador County, east of Sacramento, California. He was discovered near his vehicle.
+
+The Amador County Sheriff's Office investigated the death, bringing in FBI crime scene investigators and other analysts to assist given the sensitive nature of the case. The investigation took approximately two years, with the official ruling of suicide announced in February 2022.
+
+Key evidence cited in the suicide ruling included:
+
+- A suicide note was found with a signature that forensic analysis determined was in Haney's handwriting
+- An autopsy found no "suspicious trauma" or pre-death injuries suggesting an altercation
+- A neighbor reported that Haney "appeared depressed lately" and had been given Haney's potted plants the day before his death
+- The manner of death was consistent with self-inflicted gunshot wound
+
+## Background
+
+Philip Haney was a founding member of the Department of Homeland Security in 2002-2003, serving as a Customs and Border Protection agriculture officer. Before joining DHS, he had studied Arabic culture and language while working as a scientist in the Middle East.
+
+Haney served several tours at the National Targeting Center in Reston, Virginia, where he was promoted to the Advanced Targeting Team. He received numerous commendations for compiling information and "producing actionable reports that led to identification of hundreds of terrorists." He specialized in Islamic theology and the strategies and tactics of global Islamic movements.
+
+From November 2011 to June 2012, Haney was assigned to identify foreign-born Muslims with links to terrorist organizations entering America. He reported discovering that hundreds of Muslims with affiliations to Tablighi Jamaat, a worldwide pro-jihadist organization according to Haney, were entering and moving freely throughout the United States. Haney alleged that his superiors ordered him to delete records and shut down investigations that he believed could have prevented terrorist attacks.
+
+Haney retired from DHS in July 2015 and published a book in 2016 titled *See Something, Say Nothing: A Homeland Security Officer Exposes the Government's Submission to Jihad*, which alleged inaction against terrorism by the Obama administration. The book became a bestseller in conservative circles. At the time of his death, he was reportedly working on a follow-up book.
+
+Haney was also reportedly engaged to be married at the time of his death, which some supporters have cited as inconsistent with the suicide ruling.
+
+## Why This Death Possibly Raises Questions
+
+- Prominent DHS whistleblower who had publicly accused the Obama administration of obstructing counterterrorism operations
+- Investigation took two years to conclude, requiring FBI assistance
+- Was reportedly working on a follow-up to his whistleblower book at the time of his death
+- Was reportedly engaged to be married, which supporters argue is inconsistent with suicidal intent
+- His book *See Something, Say Nothing* had made him a high-profile target of political controversy
+- Found in a remote park-and-ride lot with a single gunshot wound
+- The case became heavily politicized, with prominent political figures including Rep. Steve King publicly alleging he was murdered by the "deep state"
+- However, the official investigation found a verified suicide note, evidence of recent depression, and behavior consistent with planning a suicide (giving away possessions)
+- The two-year investigation timeline, while lengthy, may reflect thoroughness rather than suspicion
+
+## See Also
+
+- [Philip Haney (Epstein List)]# — This case also appears in the main Epstein Kill List
+- [Philip Haney (Intel Murders)]# — This case also appears in the Intelligence Service Murders project
+- [James Forrestal](James_Forrestal.md) — Government insider who fell from a hospital window in 1949
+- [Frank Olson](Frank_Olson.md) — CIA scientist who fell from a hotel window in 1953
+- [William Cooper](William_Cooper.md) — Government whistleblower shot by sheriff's deputies in 2001
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+
+## Other Shocking Stories
+
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Frank Olson](Frank_Olson.md): CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to...
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+
+## Sources
+
+- [Philip Haney - Wikipedia](https://en.wikipedia.org/wiki/Philip_Haney)
+- [Former DHS Whistleblower Philip Haney's Death Ruled Suicide - CBS Sacramento](https://www.cbsnews.com/sacramento/news/dhs-whistleblower-philip-haney-death-ruled-suicide/)
+- [Philip Haney, DHS whistleblower, found dead - Fox News](https://www.foxnews.com/us/philip-haney-dhs-whistleblower-during-obama-era-found-dead-police-say)
+- [Philip Haney's Death Ruled a Suicide -- Investigation Files Released - Ledger News](https://www.ledger.news/news/philip-haneys-death-ruled-a-suicide-acso-releases-investigation-files/article_cea67518-9f33-11ec-bfc1-6f98ed57bc2c.html)
+- [Philip Haney's death ruled suicide - ABC10](https://www.abc10.com/article/news/local/california/former-us-officials-death-in-california-ruled-suicide-philip-haney/103-2f9ac966-2322-4049-b9ff-25600f0eddb7)
+- [Philip B Haney (1953-2020) - Find a Grave](https://www.findagrave.com/memorial/207340755/philip-b-haney)
+
+*This information was built by Grok and Claude AI research.*

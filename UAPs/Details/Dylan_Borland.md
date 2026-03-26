@@ -1,0 +1,64 @@
+
+# Dylan Borland
+Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent triangular craft at Langley AFB, and who has been blacklisted from intelligence work and subjected to retaliation since reporting his sighting.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Dylan Borland |
+| **Born** | Approximately 1988-1990 (based on active duty service 2010-2013) |
+| **Status** | ALIVE — blacklisted from intelligence work |
+| **Current Location** | United States |
+| **Category** | Air Force Veteran / UAP Whistleblower |
+
+## Assessment: AT RISK
+
+Dylan Borland is a federal whistleblower who testified under oath before Congress about a direct UAP encounter during his Air Force service. Since filing complaints with the Intelligence Community Inspector General (ICIG) and the All-Domain Anomaly Resolution Office (AARO), he has been effectively blacklisted from intelligence employment, lost his security clearances, and been subjected to what he describes as coordinated retaliation including phishing attacks by multiple agencies attempting to determine what he disclosed. His case illustrates the professional destruction that can follow UAP-related whistleblowing.
+
+## Current Situation
+
+Borland delivered sworn testimony before the House Oversight Committee on September 9, 2025, during a hearing on UAP transparency and whistleblower protections. Since filing his Inspector General complaint, Borland has been prevented from resuming prior employment in the intelligence community and reports being blacklisted from certain agencies. He states that multiple agencies attempted phishing attacks to assess what he had divulged to the Inspector General, including being asked to disclose details about his IG testimony during a counterintelligence polygraph for a position unrelated to UAP matters as recently as November 2024. He reportedly remains unemployed in his field of expertise.
+
+## Background
+
+Dylan Borland served as a "1N1" geospatial intelligence specialist for the U.S. Air Force in an active duty enlisted capacity from 2010 to 2013. After his military service, he worked for defense contractors BAE Systems and Intrepid Solutions as a Senior Analyst, analyzing video, radar, and advanced electro-optical imagery.
+
+In 2012, while on overnight duty, Borland reportedly witnessed a silent triangular craft hovering approximately 100 feet above him near Langley Air Force Base. He described the craft as appearing to have a fluid-like structure before it rapidly ascended and disappeared within seconds. The object reportedly interfered with his phone.
+
+Borland is a federal whistleblower who has testified to both the ICIG and AARO with what he describes as direct firsthand knowledge of craft and technologies operating without Congressional oversight.
+
+## Why This Person Matters
+
+- Provided sworn congressional testimony about a direct firsthand UAP encounter during active military duty
+- Witnessed a silent triangular craft at close range (approximately 100 feet) near Langley Air Force Base in 2012
+- Federal whistleblower who testified to both the ICIG and AARO
+- Experienced severe career retaliation including loss of security clearances and blacklisting from intelligence work
+- Reports coordinated phishing attacks by multiple agencies to determine what he disclosed to the Inspector General
+- His September 2025 testimony contributed to ongoing Congressional efforts to strengthen UAP whistleblower protections
+- Case demonstrates the professional cost of UAP-related whistleblowing in the intelligence community
+- Reported that the craft interfered with his electronic equipment, consistent with other UAP encounter reports
+
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified to Congress about recovered non-human craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director facing retaliation for disclosure efforts
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot and founder of Americans for Safe Aerospace
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have worked on alien craft at Area 51
+- [Tim Burchett](Tim_Burchett.md) — Congressman who organized UAP hearings and received death threats
+- [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness whose medical records were classified
+
+## Other Shocking Stories
+
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+
+## Sources
+
+- [Dylan Borland Written Testimony - House Oversight Committee](https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf)
+- [Military whistleblowers share new evidence of alleged UAP at transparency hearing - DefenseScoop](https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/)
+- [Lawmakers accuse Pentagon officials of 'lack of transparency' - Stars and Stripes](https://www.stripes.com/theaters/us/2025-09-10/unidentified-anomalous-phenomena-whistleblower-reprisal-19046217.html)
+- [UFO Whistleblower Dylan Borland testifies 'triangle' craft interfered with phone - NewsNation](https://www.newsnationnow.com/space/ufo/whistleblower-describes-uap-retaliation/)
+- [Dylan Borland - UAP.GG](https://uap.gg/sources/people/kEFHKYtINk/dylan-borland)
+
+*This information was built by Grok and Claude AI research.*

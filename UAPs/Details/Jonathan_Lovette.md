@@ -1,0 +1,84 @@
+
+# Jonathan Lovette
+USAF airman allegedly found mutilated near Holloman Air Force Base in an incident that remains one of the most controversial and poorly sourced cases in UFO lore.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jonathan P. Lovette (Sgt.) |
+| **Born** | Unknown |
+| **Died** | Reportedly March 1956 |
+| **Age at Death** | Unknown |
+| **Location of Death** | White Sands Missile Range, near Holloman AFB, New Mexico |
+| **Cause of Death** | Alleged mutilation — surgical removal of organs |
+| **Official Ruling** | No verified official ruling exists |
+| **Category** | Military Personnel / Alleged Mutilation Victim |
+
+## Assessment: UNCERTAIN — MAJOR SOURCING ISSUES
+
+This case is based almost entirely on unverified documents allegedly from a classified "Report No. 13" of Project Grudge/Blue Book that the U.S. government denies ever existed. No independent verification of Lovette's identity, military service records, or death has been produced. The case has become a fixture of UFO lore, particularly after being dramatized in the History Channel's "Project Blue Book" series, but it should be treated with extreme caution. The details are included here for completeness but must be understood as unsubstantiated claims.
+
+## Circumstances of Death
+
+According to the alleged account, in March 1956, Sergeant Jonathan P. Lovette and Major William Cunningham were searching for scattered debris in the desert at White Sands Missile Testing Grounds near Holloman Air Force Base, New Mexico.
+
+Cunningham reportedly heard Lovette scream and turned to see the airman being dragged by what he described as "a long serpentine arm, wrapped around his legs, connected to a silver disk hovering in the air 15 to 20 feet away." Cunningham allegedly watched helplessly as Lovette was pulled into the craft, which then ascended and departed.
+
+Lovette's body was reportedly found three days later, approximately ten miles from the alleged abduction site. Base personnel allegedly confirmed an unidentified radar contact near Holloman at the time of Lovette's disappearance.
+
+The body reportedly showed injuries described as resembling cattle mutilations: the tongue had been removed, the eyes excised, the anus and genitalia surgically extracted "like a plug," and the body was reportedly drained of blood. The coroner allegedly remarked on the apparent surgical precision of the organ removal, noting techniques beyond known medical capability at the time.
+
+## Background
+
+Almost nothing is independently verifiable about Jonathan Lovette. The entire case derives from documents allegedly contained in "Report No. 13" of Project Grudge (later Project Blue Book), which the U.S. government states does not exist. The details are known only through second-hand accounts from individuals who claim to have seen or analyzed the document.
+
+The case gained wider attention through UFO researchers and was later dramatized in Season 2, Episode 3 of the History Channel's "Project Blue Book" television series, which depicted the incident at Area 51.
+
+### Critical Sourcing Problems
+
+- No verified military service record for a "Jonathan P. Lovette" at Holloman AFB in 1956 has been produced
+- The alleged "Report No. 13" of Project Grudge has never been authenticated; the U.S. government denies its existence
+- No coroner's report, autopsy record, or death certificate has surfaced
+- The sole alleged witness, "Major William Cunningham," has not been independently verified
+- No contemporary newspaper reports or military announcements about the incident have been found
+- The case exists entirely within UFO literature, with no corroboration from mainstream historical or military sources
+
+## Why This Death Possibly Raises Questions
+
+- If the account is genuine, the described mutilation pattern is strikingly consistent with reported cattle mutilations that have been documented across the American West for decades — surgical precision, bloodless extraction, removal of soft tissue organs
+- The alleged location at White Sands Missile Range places it at one of the most sensitive military testing facilities in the United States
+- The alleged timing in the 1950s coincides with the peak of Project Blue Book investigations and intense military interest in unidentified aerial phenomena
+- The government's denial that Report No. 13 exists could be interpreted as either truthful (the report never existed) or as classification of an extremely sensitive document
+- However, the complete absence of any verifiable evidence makes this case impossible to assess with confidence
+
+## Important Caveats
+
+This entry is included because the Lovette-Cunningham incident is widely referenced in UAP/UFO literature and has been the subject of mainstream television dramatization. However, readers should understand that:
+
+- There is no verified evidence this event occurred
+- The primary source documents have never been authenticated
+- The case may be entirely fabricated
+- No serious investigative journalist or historian has been able to confirm any aspect of the account
+- Including this case in a research database does not constitute endorsement of its claims
+
+## See Also
+
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead in underwear after UFO sighting, with unexplained physical anomalies
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with mysterious burns and unidentifiable substance
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
+
+## Other Shocking Stories
+
+- [Andrew Hall](Andrew_Hall.md): 33-year-old British Aerospace engineering manager found dead from carbon monoxide poisoning with a hosepipe connected to his car...
+- [Rory Johnson](Rory_Johnson.md): Inventor of the Magnatron cold-fusion laser-activated magnetic motor who died unexpectedly around 1979 after the U.S. Department of...
+- [Philip J. Corso](Philip_Corso.md): Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+
+## Sources
+
+- [The Dark Connection Between UFOs and Grisly Mutilations — HISTORY](https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham)
+- [Jonathan Lovette: The Terrifying 1956 Case — Morbid Kuriosity](https://morbidkuriosity.com/jonathan-lovette-alien-mutilation/)
+- [History Channel's 'Project Blue Book' goes completely over the edge — AIPT](https://aiptcomics.com/2020/02/11/history-channels-project-blue-book-goes-completely-over-the-edge-area-51-pushes-a-case-that-never-was/)
+- [Project Blue Book Season 2 Episode 3: True story about Lovette-Cunningham — MEAWW](https://meaww.com/project-blue-book-season-2-episode-3-area-51-true-story-mutilation-spoilers-recap-lovette-cunningham)
+- [Project Grudge/Blue Book — Internet Sacred Text Archive](https://sacred-texts.com/ufo/bluebook.htm)
+
+*This information was built by Grok and Claude AI research.*

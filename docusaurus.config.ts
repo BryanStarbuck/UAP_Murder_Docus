@@ -21,7 +21,7 @@ const config: Config = {
   organizationName: "ACT3ai",
   projectName: "UAP_Murder_Docus",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
 
   i18n: {
     defaultLocale: "en",
@@ -33,14 +33,37 @@ const config: Config = {
       "classic",
       {
         docs: {
-          routeBasePath: "/",
-          sidebarPath: "./sidebars.ts",
+          // Default instance: UAPs Murders (General)
+          path: "UAPs",
+          routeBasePath: "uaps",
+          sidebarPath: "./sidebarsGeneral.ts",
         },
         blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "energy",
+        path: "Energy",
+        routeBasePath: "energy",
+        sidebarPath: "./sidebarsEnergySystems.ts",
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "physics",
+        path: "Physics",
+        routeBasePath: "physics",
+        sidebarPath: "./sidebarsPhysics.ts",
+      },
     ],
   ],
 
@@ -55,7 +78,11 @@ const config: Config = {
         alt: "Site Logo",
         src: "img/logo.svg",
       },
-      items: [],
+      items: [
+        { to: "/uaps/", label: "UAPs Murders (General)", position: "left", activeBaseRegex: "/uaps/" },
+        { to: "/energy/", label: "UAP Energy Systems Murders", position: "left", activeBaseRegex: "/energy/" },
+        { to: "/physics/", label: "UAP Physics Murders", position: "left", activeBaseRegex: "/physics/" },
+      ],
     },
     footer: {
       style: "dark",

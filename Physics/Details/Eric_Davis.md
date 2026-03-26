@@ -1,0 +1,117 @@
+
+# Eric W. Davis
+Astrophysicist and defense contractor researcher who authored classified Pentagon studies on warp drives, wormholes, and exotic propulsion, briefed Congress on "off-world vehicles not made on this earth," and testified before the House UAP Subcommittee in May 2025 about non-human craft and species types.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Eric W. Davis, Ph.D. |
+| **Role** | Physicist / Defense Contractor Researcher / Congressional Witness |
+| **Platform** | Congressional testimony, classified briefings, peer-reviewed publications, AIAA conferences |
+| **Notable Works** | "Traversable Wormholes, Stargates, and Negative Energy" (DIRD DIA-08-1004-004); "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (DIRD, with Obousy); "Antigravity for Aerospace Applications" (DIRD); "Concepts for Extracting Energy from the Quantum Vacuum" (DIRD); "Teleportation Physics Study" (AFRL, 2004); *Frontiers of Propulsion Science* (AIAA, 2009, co-edited with Marc Millis) |
+| **Evidence Rating** | **STRONG EVIDENCE** |
+
+## Their Claims
+
+Eric Davis is one of the most credentialed physicists to have publicly stated that the United States possesses recovered craft of non-human origin and that the physics underlying these craft, while exotic, does not violate known laws of physics but rather extends them into domains the public has never been allowed to explore.
+
+Davis earned his Ph.D. in astrophysics from the University of Arizona and spent decades working at the intersection of theoretical physics and classified defense research. He served as Senior Research Physicist at [Hal Puthoff](Hal_Puthoff.md)'s EarthTech International in Austin, Texas, and worked with the Institute for Advanced Studies at Austin. He also held positions with The Aerospace Corporation, the National Institute for Discovery Science (NIDS), and served as a contractor for the Air Force Research Laboratory (AFRL).
+
+His central claim is that UAPs operate on "a new physics" — not one that breaks the laws of physics, but one that exploits aspects of general relativity and quantum mechanics that mainstream academia has not developed. He has stated that the U.S. government possesses recovered craft and materials that are not of terrestrial origin, and that physicists like himself have been largely excluded from the classified reverse-engineering programs studying them.
+
+Davis authored at least six of the 38 Defense Intelligence Reference Documents (DIRDs) commissioned under the Pentagon's $22 million AAWSAP program (DIA contract HHM402-08-C-0072). These papers — on warp drives, traversable wormholes, antigravity, quantum vacuum energy extraction, and related topics — represent the theoretical physics foundation that the DIA considered relevant to understanding UAP capabilities. He and [Hal Puthoff](Hal_Puthoff.md) arranged for all 38 papers to be prepared, covering materials, metamaterials, warp drive, medical aspects, and advanced nuclear fusion for aerospace propulsion.
+
+Davis was a key witness for David Grusch's UAP whistleblower complaints to the Intelligence Community Inspector General, providing corroboration for Grusch's claims about crash retrieval and reverse-engineering programs.
+
+## Key Quotes
+
+> "We couldn't make it ourselves."
+> — **Eric Davis**, as reported by the *New York Times*, July 23, 2020, regarding classified briefings about retrievals of "off-world vehicles not made on this earth"
+
+> "Secretly yes and overtly no."
+> — **Eric Davis**, responding to a question about whether UFO properties had guided NASA's Breakthrough Propulsion Physics research on wormholes and warp drives, lecture circa 2010
+
+> "The craft that had been recovered are not of this Earth. They're not made by human hands. They are not from this planet. They are not human. They are an alien technology."
+> — **Eric Davis**, testimony before the House UAP Subcommittee, May 1, 2025
+
+> "A new physics — but guaranteed that no laws of physics are broken whatsoever."
+> — **Eric Davis**, describing how UAP propulsion operates within an extended framework of known physics
+
+> "UFOs don't have credibility with mainstream academic researchers."
+> — **Eric Davis**, explaining why NASA's Breakthrough Propulsion Physics project could not openly incorporate UAP data, despite privately doing so
+
+## Key Arguments & Evidence They Cite
+
+- **Off-world vehicles in U.S. possession**: Davis stated in classified briefings to Defense Department agencies that the U.S. has retrieved craft of non-human origin. He reported giving these briefings as recently as March 2020, as documented by the *New York Times*.
+
+- **Congressional briefings on crash retrievals**: Davis reportedly briefed staff of the Senate Armed Services Committee (October 2019), the House Armed Services Committee, and the Senate Select Committee on Intelligence about the retrieval of unexplained objects. He deliberately omitted specific program names and locations due to security constraints.
+
+- **AAWSAP/AATIP Defense Intelligence Reference Documents**: Davis authored multiple DIRDs that form the theoretical backbone of the Pentagon's UAP research program, including:
+  - "Traversable Wormholes, Stargates, and Negative Energy" (DIA-08-1004-004) — analyzing whether traversable wormholes could explain UAP transit capabilities
+  - "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (co-authored with Richard Obousy) — examining [Alcubierre-type warp drives](Alcubierre_Warp_Drive.md) and extra-dimensional physics
+  - "Antigravity for Aerospace Applications" — surveying theoretical and experimental approaches to gravity manipulation
+  - "Concepts for Extracting Energy from the Quantum Vacuum" — examining whether [zero-point energy](Zero_Point_Energy.md) could power advanced propulsion systems
+  - "Quantum Tomography of Negative Energy States in the Vacuum"
+  - "Laser Lightcraft Nanosatellites" (DIA-08-1011-001)
+
+- **Teleportation Physics Study (AFRL, 2004)**: Davis authored a comprehensive study for the Air Force Research Laboratory (report AFRL-PR-ED-TR-2003-0034) examining quantum teleportation, wormhole-based teleportation, and psychokinetic teleportation. The study recommended $7.5 million in further research. It was published under his company Warp Drive Metrics.
+
+- **NASA Breakthrough Propulsion Physics**: Davis worked on NASA's Breakthrough Propulsion Physics (BPP) project, which ran from 1996 to 2002 under Marc Millis. He admitted that UAP data secretly informed the research: "For the purpose of doing this officially [we didn't bring in UFOs], but we did consider it under the table." He stated that "a subset of us who have looked at UFO data" found that "data does drive the concepts that we did derive later on."
+
+- **Wilson-Davis Notes**: The controversial "Wilson-Davis memo" allegedly documents a 2002 private meeting between Davis and Vice Admiral Thomas Wilson, then-Deputy Director of the DIA. The notes describe Wilson's efforts in 1997 to investigate a purported crash retrieval and reverse-engineering Special Access Program. According to the memo, Wilson was denied access despite his senior position and was threatened with career consequences if he continued pursuing the matter. Admiral Wilson has publicly denied the memo's authenticity; Davis has declined to confirm or deny it.
+
+- **May 2025 Congressional testimony**: On May 1, 2025, Davis testified before the House UAP Subcommittee of the House Oversight Committee in a presentation titled "Space-Time & Species Types." He affirmed that the U.S. has non-human craft in its possession but that physicists like himself have not been given access to the reverse-engineering programs. When asked about species piloting the craft, Davis described four categories — greys, nordics, insectoids, and reptilians — all roughly humanoid in form.
+
+- **Physics framework**: Davis has consistently argued that UAPs may use warp bubbles consistent with general relativity, exhibiting localized distortions of spacetime. He maintains this does not constitute faster-than-light travel in the conventional sense but rather a manipulation of the spacetime metric itself.
+
+## Where They've Said It
+
+- **New York Times** — July 23, 2020, article by Ralph Blumenthal and Leslie Kean reporting Davis's classified briefings on "off-world vehicles not made on this earth"
+- **House UAP Subcommittee testimony** — May 1, 2025, "Space-Time & Species Types" presentation before the House Oversight Committee
+- **Senate Armed Services Committee briefing** — October 2019 (classified)
+- **House Armed Services Committee briefing** — reported circa 2019 (classified)
+- **Senate Select Committee on Intelligence briefing** — reported (classified)
+- **AIAA conferences** — Multiple presentations on breakthrough propulsion physics
+- **Lecture circa 2010** — "Secretly yes and overtly no" admission about NASA BPP and UFO data
+- ***Frontiers of Propulsion Science*** — AIAA book co-edited with Marc Millis, published 2009, compiling advanced propulsion concepts
+- **AFRL Teleportation Physics Study** — Published 2004, report AFRL-PR-ED-TR-2003-0034
+- **AAWSAP DIRDs** — Multiple classified-then-released papers for the Defense Intelligence Agency, 2008-2011
+- **"It's a Very Exciting Time" podcast** — discussed alien species categories and UAP physics
+
+## The Counterargument
+
+- **Mainstream physics skepticism**: The *Teleportation Physics Study* drew significant criticism from physicists and critics of military spending when it became public. Skeptics argued that Davis's inclusion of psychokinetic teleportation in an Air Force study demonstrated a lack of scientific rigor.
+
+- **Wilson-Davis memo denial**: Admiral Thomas Wilson has publicly denied the authenticity of the Wilson-Davis notes, stating he never had such a conversation with Davis and denying knowledge of any reverse-engineering program. Davis's refusal to confirm or deny the memo leaves its status ambiguous.
+
+- **No physical evidence made public**: Despite Davis's claims about off-world vehicles, no physical evidence from crash retrievals has been publicly released or independently verified. Critics argue that classified briefings, while suggestive, do not constitute proof.
+
+- **Species taxonomy concerns**: Davis's May 2025 testimony describing four alien species types (greys, nordics, insectoids, reptilians) has been criticized as mirroring decades-old UFO community folklore rather than reflecting independent scientific analysis. Skeptics note these categories have circulated in popular UFO literature since the 1980s.
+
+- **Eric Weinstein confrontation**: Physicist and podcaster Eric Weinstein has publicly challenged Davis and other Pentagon-adjacent scientists, questioning why no credentialed physicists have been brought into alleged crash retrieval programs and arguing that the claims do not withstand rigorous scientific scrutiny.
+
+- **Conflict of interest**: Davis's career has been substantially funded by government contracts investigating exotic physics. Critics suggest this creates an incentive structure where continued extraordinary claims sustain continued funding.
+
+## Related Perspectives
+
+- [Hal Puthoff](Hal_Puthoff.md) — Davis's longtime colleague at EarthTech International and co-architect of the AAWSAP DIRD program. They share overlapping research into zero-point energy, warp drives, and UAP physics.
+- [Zero Point Energy](Zero_Point_Energy.md) — Davis authored a DIRD on extracting energy from the quantum vacuum, directly connected to the ZPE thesis.
+- [Alcubierre Warp Drive](Alcubierre_Warp_Drive.md) — Davis's DIRD on warp drive physics builds on and extends the Alcubierre metric framework.
+- [Interdimensional Hypothesis](Interdimensional_Hypothesis.md) — Davis's work on extra dimensions and traversable wormholes intersects with theories about dimensional shifting.
+- [Exotic Metamaterials](Exotic_Metamaterials.md) — Davis's claims about recovered materials connect to the broader thesis about exotic metamaterials with anomalous properties.
+- [Books on UAP Physics](Books.md) — Davis's *Frontiers of Propulsion Science* is a key reference in the field.
+- [Podcasts on UAP Physics](Podcasts.md) — Davis has appeared on multiple podcasts discussing UAP physics.
+- [YouTube Channels](YouTube_Channels.md) — Davis's congressional testimony and lectures are documented across UAP-focused channels.
+
+## Sources
+
+- [New York Times — "No Longer in Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public" (July 23, 2020)](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html) — Ralph Blumenthal and Leslie Kean report on Davis's classified briefings about "off-world vehicles"
+- [DTIC — "Teleportation Physics Study" (AFRL-PR-ED-TR-2003-0034)](https://apps.dtic.mil/sti/pdfs/ADA425545.pdf) — Davis's full Air Force Research Laboratory report on teleportation physics
+- [The Black Vault — Defense Intelligence Reference Documents](https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf) — Davis's DIRD on traversable wormholes, stargates, and negative energy
+- [EarthTech International — Eric Davis Publications](https://earthtech.org/pubs/davis/) — Full list of Davis's published research
+- [The Contact Report — "The Davis-Wilson Memo: Inside the Most Controversial UFO Document of the Modern Era"](https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/) — Detailed analysis of the Wilson-Davis notes
+- [PatriotandLiberty — Dr. Eric Davis "Space-Time & Species Types" UAP Hearing May 1, 2025](https://patriotandliberty.com/dr-eric-davis-space-time-species-types-uap-hearing-may-1-2025/) — Coverage of Davis's May 2025 congressional testimony
+- [ResearchGate — Eric Davis Profile](https://www.researchgate.net/profile/Eric-Davis-16) — Academic publication record
+- [UFO Sightings Daily — Dr. Eric Davis Says NASA Was Influenced By Alien Tech](https://www.ufosightingsdaily.com/2013/05/dr-eric-davis-says-nasa-was-influenced.html) — Documentation of the "secretly yes and overtly no" quote
+- [Lifeboat Foundation — Dr. Eric W. Davis Bio](https://lifeboat.com/ex/bios.eric.w.davis) — Professional biography and credentials
+
+*This information was compiled by Claude AI research.*

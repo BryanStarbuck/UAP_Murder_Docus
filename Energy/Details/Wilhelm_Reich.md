@@ -1,0 +1,108 @@
+
+# Wilhelm Reich
+Austrian-born psychiatrist and psychoanalyst who developed "orgone energy" theory and accumulator devices, imprisoned after FDA injunction, and died in federal prison one day before he was eligible to apply for parole — following the only government-sanctioned book burning in United States history.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Wilhelm Reich |
+| **Born** | March 24, 1897 |
+| **Died** | November 3, 1957 |
+| **Age at Death** | 60 |
+| **Location of Death** | Lewisburg Federal Penitentiary, Lewisburg, Pennsylvania |
+| **Cause of Death** | Heart failure (myocardial insufficiency) |
+| **Official Ruling** | Natural causes |
+| **Category** | Energy Inventor / Energy Researcher |
+
+## Assessment: IMPRISONED AND DIED IN CUSTODY
+
+Wilhelm Reich developed the theory of "orgone energy" — a universal life force he claimed could be harnessed using specially designed accumulator devices. His orgone energy theory is considered pseudoscience by mainstream physics and medicine. However, the government response to Reich was extraordinary by any standard: the FDA obtained an injunction banning not only the sale of orgone accumulators but even the mention of "orgone" in print. Over six tons of his books, journals, and publications were burned by federal court order — constituting the only government-sanctioned book burning in United States history. Reich was convicted of contempt of court, sentenced to two years in federal prison, and died of heart failure on November 3, 1957 — one day before he was due to apply for parole.
+
+## Circumstances of Death
+
+On November 3, 1957, Wilhelm Reich was found dead in his cell at Lewisburg Federal Penitentiary in Pennsylvania. The cause of death was recorded as myocardial insufficiency — heart failure. He was 60 years old.
+
+Reich had been incarcerated since March 1957, serving a two-year sentence for contempt of court after violating an FDA injunction. He had been eligible to apply for parole the following day, November 4, 1957. His application had reportedly already been prepared.
+
+Reich had no known history of serious heart disease prior to his imprisonment, though he was under significant physical and psychological stress. He had spent months in prison watching his life's work be systematically destroyed — his books burned, his equipment smashed, his research confiscated.
+
+## Background
+
+### Early Career and Psychoanalysis
+
+Wilhelm Reich was born in Dobrzanica, in what was then part of the Austro-Hungarian Empire (now Ukraine). He studied medicine at the University of Vienna and became one of the youngest members of Sigmund Freud's inner circle of psychoanalysts. He was a respected figure in European psychoanalysis throughout the 1920s and early 1930s, publishing influential works on character analysis and the role of sexuality in psychological health.
+
+Reich's increasingly radical political views and sexual theories led to his expulsion from the International Psychoanalytic Association in 1934. He fled Europe ahead of the Nazis, eventually settling in the United States in 1939.
+
+### Orgone Energy Theory
+
+After arriving in America, Reich developed his theory of "orgone energy" — which he described as a universal life force present in all living matter, the atmosphere, and even outer space. He constructed "orgone energy accumulators" — box-like enclosures made of alternating layers of organic and metallic materials — which he claimed could concentrate orgone energy and provide therapeutic benefits, including the treatment of cancer.
+
+Reich also developed the "cloudbuster," a device he claimed could manipulate orgone energy in the atmosphere to influence weather patterns. He conducted experiments at his property in Rangeley, Maine, which he named "Orgonon."
+
+### The FDA Campaign
+
+In 1947, following a series of negative articles in *The New Republic* by journalist Mildred Edie Brady, the U.S. Food and Drug Administration began investigating Reich's orgone accumulators. The FDA concluded that orgone energy did not exist and that the accumulators were fraudulent medical devices.
+
+In 1954, the FDA obtained a federal court injunction ordering Reich to stop distributing orgone accumulators and to destroy all promotional materials mentioning orgone energy. Reich refused to appear in court, arguing that a court of law was not competent to judge scientific matters. He sent a letter to the judge making this argument, which the court treated as insufficient response.
+
+### The Book Burning
+
+When Reich and his associates failed to comply fully with the injunction, the FDA moved to enforce it. On August 23, 1956, and again in subsequent actions, FDA agents supervised the destruction of orgone accumulators and the burning of Reich's publications. Over six tons of books, journals, and papers were burned at the Gansevoort incinerator in New York City. This included not only promotional materials but also scientific journals, hardcover books, and works that had nothing to do with orgone accumulators — including titles on psychology and political theory.
+
+This remains the only instance of government-sanctioned book burning in American history.
+
+### Conviction and Imprisonment
+
+On May 7, 1956, Reich was found guilty of contempt of court for violating the injunction. He was sentenced to two years in federal prison. Reich appealed, but the Supreme Court refused to review the case on February 25, 1957. He began serving his sentence at Danbury Federal Correctional Institution in Connecticut before being transferred to Lewisburg Federal Penitentiary in Pennsylvania.
+
+## Why This Death Possibly Raises Questions
+
+- **Timing of death:** Reich died on November 3, 1957 — one day before he was eligible to apply for parole. His parole application had reportedly already been prepared. The timing raises questions about whether his death was truly coincidental
+- **Unprecedented government response:** The federal government's actions against Reich — book burning, imprisonment, destruction of research equipment — were far more extreme than typical FDA enforcement actions against fraudulent medical devices. This level of response suggests Reich may have been perceived as a threat beyond simple consumer fraud
+- **Book burning:** The destruction of over six tons of publications, including works unrelated to orgone accumulators, goes beyond enforcement of a medical device injunction. It constitutes the suppression of ideas — the only such action in U.S. history
+- **Stress of imprisonment:** Reich was subjected to enormous psychological stress in prison — watching his life's work destroyed, his reputation demolished, and his freedom taken. Whether this stress contributed to or caused his fatal heart attack is a legitimate medical question
+- **Pattern of suppressed scientists:** Reich's case fits a pattern where scientists and inventors working outside mainstream paradigms face disproportionate government action — similar to the experiences of [Nikola Tesla](Nikola_Tesla.md) and [Paul Pantone](Paul_Pantone.md)
+- **No independent medical examination:** The prison system's own medical staff determined the cause of death. There was no independent autopsy or investigation into whether the conditions of his confinement contributed to his death
+
+## The Counterargument
+
+- Reich's orgone energy theory has never been validated by mainstream science. Orgone energy has no basis in known physics, and controlled studies have found no therapeutic effects from orgone accumulators
+- The FDA injunction was a response to the marketing of unproven medical devices to cancer patients — a legitimate public health concern
+- Reich's contempt conviction resulted from his own refusal to comply with a lawful court order or even to appear in court to defend himself
+- Heart failure at age 60 is not medically unusual, particularly for a man under severe stress
+- While the book burning was extreme, it was ordered by a federal judge as part of injunction enforcement, not as a political act of censorship
+
+## Key Quotes from Media Coverage
+
+> Over six tons of books, journals, and papers were burned at the Gansevoort incinerator in New York City. This included not only promotional materials but also scientific journals, hardcover books, and works that had nothing to do with orgone accumulators — including titles on psychology and political theory.
+> — Account of the FDA-supervised destruction, August 23, 1956 and subsequent actions
+
+> Reich refused to appear in court, arguing that a court of law was not competent to judge scientific matters.
+> — Summary of Reich's position, from his letter to the federal judge presiding over the FDA injunction case
+
+> He was 60 years old. Reich had been incarcerated since March 1957, serving a two-year sentence for contempt of court. He had been eligible to apply for parole the following day, November 4, 1957. His application had reportedly already been prepared.
+> — Account of Reich's death at Lewisburg Federal Penitentiary, November 3, 1957
+
+## See Also
+
+- [Nikola Tesla](Nikola_Tesla.md) — Inventor whose papers were seized by the FBI after his death
+- [Paul Pantone](Paul_Pantone.md) — Inventor committed to a mental institution after developing an alternative fuel processor
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+
+## Other Shocking Stories
+
+- [The Forbidden Physics of Flight](pte_physics.md): How gravity research vanished behind classification walls after showing real results.
+- [Rudolf Diesel](Rudolf_Diesel.md): Vanished from a ship en route to give Britain submarine engine technology. Body found at sea.
+- [Robert Bass](Robert_Bass.md): Rhodes Scholar physicist. Three associates in his nuclear transmutation group allegedly assassinated.
+- [Thomas Bearden](Thomas_Bearden.md): Held US patent for zero-point energy device. Last working prototype allegedly destroyed by sabotage.
+
+## Sources
+
+- [Wilhelm Reich — Wikipedia](https://en.wikipedia.org/wiki/Wilhelm_Reich)
+- [Wilhelm Reich — Encyclopedia.com](https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/wilhelm-reich)
+- ["American Inquisition: The Persecution of Wilhelm Reich" — Reason Magazine](https://reason.com/)
+- [The Mass Psychology of Fascism and the FDA: Wilhelm Reich — JSTOR Daily](https://daily.jstor.org/)
+- [Wilhelm Reich and the Orgone Energy Accumulator — American Journal of Public Health](https://ajph.aphapublications.org/)
+- [FDA v. Wilhelm Reich — Court Records and Injunction History](https://www.fda.gov/)
+
+*This information was built by Grok and Claude AI research.*

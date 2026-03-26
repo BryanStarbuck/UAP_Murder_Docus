@@ -1,0 +1,71 @@
+
+# Rory Johnson
+Inventor of the Magnatron cold-fusion laser-activated magnetic motor who died unexpectedly around 1979 after the U.S. Department of Energy placed a gag order on his company and seized his technology; Greyhound Bus Lines had contracted to use his motors.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Howard Rory Johnson |
+| **Born** | c. 1927 |
+| **Died** | c. 1979 |
+| **Age at Death** | Approximately 52 |
+| **Location of Death** | California, USA |
+| **Cause of Death** | Unknown / Unexplained |
+| **Official Ruling** | Unknown |
+| **Category** | Suppressed Technology Researcher |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Rory Johnson died unexpectedly at approximately 52 years of age while reportedly in robust health. His death came after the U.S. Department of Energy placed a restraining order on his company, Magnatron Inc., prohibiting production of his revolutionary motor. Before his death, Johnson had inexplicably moved all of his motors and technology out of his laboratory in the middle of the night and relocated to California under circumstances that suggest he felt threatened. Greyhound Bus Lines, which had contracted to receive his motors, was unable to contact him for over a year before learning of his death.
+
+## Circumstances of Death
+
+The precise circumstances of Rory Johnson's death remain largely unknown. What is documented is that Johnson, who had been operating out of a laboratory where he developed and demonstrated his Magnatron motor, suddenly and inexplicably moved all of his equipment and research out of his laboratory in the middle of the night and relocated to California. After approximately a year of silence, Greyhound Bus Lines -- which had entered into a contract with Johnson for motors to power their bus fleet -- attempted to contact him, only to discover that he had died unexpectedly.
+
+Johnson had been in his early fifties and reportedly in excellent health at the time of his death. The specific cause of death has not been widely documented in available sources, and the circumstances surrounding both his midnight relocation and subsequent death remain unexplained.
+
+## Background
+
+Howard Rory Johnson was an American inventor who developed the Magnatron, a cold-fusion, laser-activated magnetic motor. The device reportedly produced 525 horsepower and was capable of powering a large bus for approximately 100,000 miles (160,000 km) on roughly 5 kilograms of deuterium and gallium. The motor used no conventional fuel and produced no emissions.
+
+Greyhound Bus Lines recognized the commercial potential of the Magnatron and entered into a contract with Johnson's company, Magnatron Inc., to receive motors for their fleet. The technology, if viable, represented a fundamental threat to the petroleum industry and conventional engine manufacturers.
+
+The U.S. Department of Energy placed a restraining order -- commonly referred to as a "gag order" -- on Magnatron Inc., prohibiting the company from producing the Magnatron engine. This government action prompted Minnesota State Senator Marion Manning to write to U.S. Senator Dave Donenberger, questioning why the federal government would place such restrictions on Johnson's company. The DOE's restraining order effectively halted all commercial development of the technology.
+
+## Why This Death Possibly Raises Questions
+
+- Died unexpectedly while reportedly in robust health in his early fifties
+- The U.S. Department of Energy had placed a restraining order on his company, prohibiting production of the motor
+- Inexplicably moved all motors and technology out of his laboratory in the middle of the night, suggesting he felt threatened or was under duress
+- Relocated to California under mysterious circumstances before dying
+- Greyhound Bus Lines could not contact him for over a year before learning he had died
+- His technology, if viable, would have disrupted the petroleum industry and conventional transportation
+- A sitting state senator questioned the DOE's gag order, suggesting even elected officials found the government's actions unusual
+- The specific cause and circumstances of death remain largely undocumented
+- All of his technology and research materials appear to have disappeared after his death
+- Fits a broader pattern of alternative energy inventors dying under suspicious circumstances after government intervention
+
+## See Also
+
+- [Rory Johnson (Zero Point Energy)](/energy/Details/Rory_Johnson) — This case also appears in the Zero Point Energy project
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport en route to investors
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats and died under suspicious circumstances
+- [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident after years of harassment
+
+## Other Shocking Stories
+
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+
+## Sources
+
+- [Dead Inventor's Don't Talk: Meet Rory Johnson - Steemit](https://steemit.com/physics/@deepwaterscrypto/dead-inventor-s-don-t-talk-meet-rory-johnson)
+- [Rory Johnson: Magnatron engine - Rex Research](http://www.rexresearch.com/magntron/magntron.htm)
+- [Howard Rory Johnson - Lexiconspiracy](https://lexiconspiracy.com/deaths-disappearences/howard-rory-johnson/)
+- [What ever happened to Energy Inventor Rory Johnson? - Energetic Forum](https://www.energeticforum.com/forum/energetic-forum-discussion/renewable-energy/10051-what-ever-happened-to-eneregy-inventor-rory-johnson)
+- [The History of Free Energy Suppression - Free Energy Community](https://freeenergycommunity.wordpress.com/2011/08/19/the-history-of-free-energy-suppression/)
+
+*This information was built by Grok and Claude AI research.*

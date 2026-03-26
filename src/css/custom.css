@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Hide the left sidebar — navigation is in the top navbar */
+aside.theme-doc-sidebar-container {
+  display: none !important;
+}
+
+/* Let the main content expand to full width */
+.theme-doc-sidebar-container + main {
+  --doc-sidebar-width: 0px !important;
+}
+
+main > .container > .row > .col {
+  max-width: 100% !important;
+  flex: 1 !important;
+}

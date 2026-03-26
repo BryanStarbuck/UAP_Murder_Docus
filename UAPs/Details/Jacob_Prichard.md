@@ -1,0 +1,78 @@
+
+# Jacob Prichard
+Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025 double murder-suicide in which he killed his colleague 1st Lt. Jaime Gustitus and his wife Jaymee Prichard before taking his own life. Some X/social media theorists have alleged a UAP or mind-control connection due to the Wright-Patterson location; no evidence supports this.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jacob Prichard |
+| **Born** | c. 1991 |
+| **Died** | October 25, 2025 |
+| **Age at Death** | 34 |
+| **Location of Death** | West Milton Municipal Building, West Milton, Ohio, USA |
+| **Cause of Death** | Self-inflicted gunshot wound |
+| **Official Ruling** | Suicide (after committing double murder) |
+| **Category** | Military/Civilian Employee / Perpetrator of Violence |
+
+## Assessment: UNCERTAIN (UAP Link)
+
+Jacob Prichard was an Acquisition Project Manager in the Air Force Research Laboratory's Sensors Directorate at Wright-Patterson AFB — the directorate that develops technologies for air and space reconnaissance, surveillance, precision engagement, and electronic warfare, including space-based sensors. His job was managing the advanced research programs that produce those systems. Months after the incident, authorities have explicitly stated they have not determined a motive. No confirmed affair. No restraining order. No documented history of domestic violence. The investigation — jointly run by the Ohio Bureau of Criminal Investigation, local police across Greene, Montgomery, and Miami counties, and the Air Force Office of Special Investigations (AFOSI) — has not publicly indicated any motive. AFOSI's involvement is notable: it is the Air Force's counterintelligence and criminal investigation agency, responsible for espionage, counterintelligence threats, and criminal matters affecting Air Force operations. Wright-Patterson AFB has longstanding associations with UFO lore, which has led some social media theorists to speculate about UAP connections or mind-control programs. **There is no evidence supporting any UAP or mind-control connection.**
+
+## Circumstances of Death
+
+The events of October 25, 2025 spanned three crime scenes across three Ohio counties (Greene, Montgomery, and Miami):
+
+1. **Murder of 1st Lt. Jaime Gustitus**: At approximately 2:00 a.m., Jacob Prichard drove to the Sugarcreek Township condo of his colleague, 1st Lt. Jaime Gustitus, 25. He forced entry into her residence and shot her to death.
+
+2. **Discovery of Jaymee Prichard's body**: Before going to Gustitus's home, Prichard had killed his wife, Jaymee Prichard, 33, by strangulation. He placed her body in the trunk of his vehicle.
+
+3. **Suicide**: After killing Gustitus, Prichard drove to the West Milton Municipal Building. He opened the trunk of his vehicle so that officers would find his wife's body, then killed himself with a self-inflicted gunshot wound.
+
+The investigation spans three Ohio counties and is jointly run by the Ohio Bureau of Criminal Investigation, local police across Greene, Montgomery, and Miami counties, and the Air Force Office of Special Investigations (AFOSI). AFOSI is the Air Force's counterintelligence and criminal investigation agency — its involvement goes beyond standard base security or local police jurisdiction.
+
+## Background
+
+Jacob Prichard, 34, was an Acquisition Project Manager in the Air Force Research Laboratory's (AFRL) Sensors Directorate at Wright-Patterson Air Force Base near Dayton, Ohio. According to The Sentinel Network, the Sensors Directorate develops technologies for air and space reconnaissance, surveillance, precision engagement, and electronic warfare, including space-based sensors. Prichard's role was managing the advanced research programs that produce those systems.
+
+Wright-Patterson is the same base where [Dallis Hardwick](Dallis_Hardwick.md) spent her career in the Materials Directorate, where [William McCasland](William_McCasland.md) commanded AFRL, and where the government side of the Mondaloy partnership was managed.
+
+His victims were both connected to Wright-Patterson:
+- **1st Lt. Jaime Gustitus**, 25, was an Operations Research Analyst at the 711th Human Performance Wing, part of AFRL
+- **Jaymee Prichard**, 33, was his wife and worked in the Air Force Life Cycle Management Center
+
+Wright-Patterson AFB issued a statement saying they were "deeply saddened" by the incident. The base community mourned the three deaths.
+
+## Why This Death Possibly Raises Questions (UAP Context)
+
+- Wright-Patterson AFB has longstanding associations with UFO research (Project Blue Book was headquartered there)
+- Prichard worked in the Sensors Directorate — the unit developing air/space reconnaissance, surveillance, precision engagement, and electronic warfare technologies
+- The Air Force Research Laboratory conducts classified research on advanced aerospace technologies
+- Months after the incident, authorities have explicitly stated they have not determined a motive — no confirmed affair, no restraining order, no documented history of domestic violence
+- AFOSI — the Air Force's counterintelligence and criminal investigation agency — is involved in the investigation, not just base security or local police
+- The investigation spans three Ohio counties (Greene, Montgomery, and Miami)
+- Some X/social media posts alleged a connection to UAP programs or mind-control — but no evidence supports these claims
+
+## See Also
+
+- [Jaymee Prichard](Jaymee_Prichard.md) — Wife, victim of murder by Jacob Prichard
+- [Jaime Gustitus](Jaime_Gustitus.md) — Colleague, victim of murder by Jacob Prichard
+- [William McCasland](William_McCasland.md) — Missing former commander of AFRL at Wright-Patterson AFB
+- [Dallis Hardwick](Dallis_Hardwick.md) — AFRL Materials Directorate, Wright-Patterson; Mondaloy co-inventor; died 2014
+- [AFRL Scientist Cluster (2025-2029)]#
+
+## Other Shocking Stories
+
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+
+## Sources
+
+- [FOX19: Wright-Patterson employee kills colleague, wife in apparent double murder-suicide](https://www.fox19.com/2025/10/29/wright-patterson-employee-kills-colleague-wife-double-murder-suicide/)
+- [Dayton Daily News: Timeline: Double murder, suicide involving 3 WPAFB workers under investigation](https://www.daytondailynews.com/local/timeline-double-murder-suicide-involving-3-wpafb-workers-under-investigation/RG3N5RJR3FCHHDFCSV6YMI3FUY/)
+- [WHIO: 'Deeply saddened;' WPAFB reacts to double murder-suicide involving base personnel](https://www.whio.com/news/local/deeply-saddened-wpafb-reacts-double-murder-suicide-involving-base-personnel/4HUGLX6G6VFNVOS23JRVUC3ZJY/)
+- [WCPO: PD investigating murder-suicide involving 3 Wright-Patt Air Force Base personnel](https://www.wcpo.com/news/state/state-ohio/3-personnel-at-wright-patterson-air-force-base-found-dead-ohio-bci-investigating)
+- [FOX8: Details emerge about double murder-suicide across 2 Ohio counties](https://fox8.com/news/details-emerge-about-double-murder-suicide-across-2-ohio-counties/)
+- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+
+*This information was built by Grok and Claude AI research.*

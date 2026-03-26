@@ -1,0 +1,110 @@
+
+# Dean Warwick
+New Zealand-born alternative energy inventor and researcher who collapsed and died on stage at the Probe International conference in Blackpool, England on October 7, 2006 — minutes before he was about to reveal who was behind the assassination of Robert F. Kennedy.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Dean Warwick |
+| **Born** | c. 1944 |
+| **Died** | October 7, 2006 |
+| **Age at Death** | 62 |
+| **Location of Death** | Blackpool, England (Probe International Conference) |
+| **Cause of Death** | Collapsed on stage — apparent sudden cardiac or neurological event |
+| **Official Ruling** | Not publicly stated (no official investigation reported) |
+| **Category** | Energy Inventor |
+
+## Assessment: SUSPICIOUS
+
+Dean Warwick was a 62-year-old alternative energy inventor, former New Zealand Army serviceman, and son of an MI6 operative who collapsed and died on stage at the Probe International conference in Blackpool, England on October 7, 2006. He was reportedly in good health. Warwick had publicly promised before the conference that he would make "very significant announcements" about the identity of Robert Kennedy's true killer, connections between underground bases and hundreds of thousands of missing children, and the identity of the "Anti-Christ." He was only minutes into his presentation — and had just stated that he would next reveal who was behind RFK's assassination — when he collapsed unconscious and stopped breathing. An ambulance was called, but Warwick was pronounced dead. Warwick had told interviewer Dave Starbuck just prior to his talk that he felt a "beam" or "burning" sensation on the side of his head. Whether his death was natural, coincidental, or induced remains unresolved, but the timing — seconds before a promised major revelation — is deeply concerning.
+
+## Circumstances of Death
+
+### The Probe International Conference
+
+On October 7, 2006, Dean Warwick took the stage at the Probe International conference in Blackpool, England. Probe International was a long-running UFO and alternative research conference organized by Sam Wright.
+
+Warwick had promised in advance that his talk would include major revelations. In an interview with Dave Starbuck conducted shortly before the conference, Warwick stated he would reveal:
+- Who was really behind the assassination of Robert F. Kennedy
+- Information connecting underground military bases to hundreds of thousands of missing children
+- The identity of the "Anti-Christ"
+
+### The Collapse
+
+Warwick was only minutes into his presentation when he reached the point where he told the audience he would now reveal who was behind RFK's murder. At that moment, he collapsed forward, fell unconscious to the floor, and stopped breathing. An ambulance was called, but Dean Warwick was dead.
+
+### The "Beam" Sensation
+
+Just before his talk, Warwick reportedly told people at the conference that he felt a "beam" or "burning" sensation on the side of his head. Some attendees and researchers have speculated this could indicate a directed energy weapon — a technology Warwick himself had discussed in his research, claiming awareness of such weapons being used to destroy targets "as long ago as the 1970s."
+
+### The Ampliflaire Connection
+
+Warwick's presence at the conference was not only as a conspiracy researcher but as an inventor. He was connected to a technology called the Ampliflaire Intensified Combustion Intensifier Exchanger Process — an efficient wood-burning system that reportedly recovered plant hydroxides as a form of clean energy, reducing heating bills by up to 90%.
+
+## Background
+
+### Early Life
+
+Dean Warwick was born in New Zealand, the son of an MI6 operative. This intelligence connection reportedly gave him access to information and networks not available to typical researchers.
+
+### Military Service
+
+Warwick served in the New Zealand Army, where he reportedly became aware of directed energy weapons and their capabilities. He claimed knowledge of such weapons being used to destroy buildings and other targets during the 1970s — decades before directed energy weapons entered mainstream public discourse.
+
+### The Ampliflaire Technology
+
+Warwick was the inventor behind a company called Ampliflaire, based in Scotland. The Ampliflaire system was an intensified combustion exchanger process designed for wood-burning stoves. According to Warwick and his associates, the system:
+- Recovered plant hydroxides during the combustion process
+- Produced what was described as "safe nuclear-like" free energy
+- Could reduce heating bills by approximately 90%
+- Was far more efficient than conventional wood-burning systems
+
+The technology incorporated principles Warwick had encountered during his military and research career.
+
+### Research Activities
+
+Beyond his energy invention work, Warwick was deeply involved in researching government cover-ups, underground military bases, missing children, and intelligence service operations. His willingness to publicly discuss these topics at conferences made him a prominent figure in the alternative research community.
+
+## Why This Death Possibly Raises Questions
+
+- **Timing:** Warwick died at the precise moment he was about to reveal who he believed was behind the assassination of Robert F. Kennedy. The probability of a natural death occurring at exactly the moment of a promised major disclosure is extremely low
+- **Pre-death sensation:** Warwick reported feeling a "beam" or "burning" at the side of his head shortly before his talk — consistent with what proponents describe as directed energy weapon effects. Warwick himself was knowledgeable about such weapons from his military background
+- **Good health:** Warwick was reportedly in good health at 62. Sudden cardiac death can occur at any age, but the coincidence with the timing of his promised revelations is notable
+- **MI6 family connection:** As the son of an MI6 operative, Warwick would have had access to intelligence information that powerful interests might want kept secret
+- **Promised revelations:** Warwick had publicly committed to revealing information about RFK's assassination, underground bases, and missing children — topics that touch on intelligence service operations, government cover-ups, and child trafficking networks
+- **Pattern:** Other researchers and whistleblowers who have promised major public revelations have died before delivering them. [Eugene Mallove](Eugene_Mallove.md) was killed days before a major media appearance. [Arie DeGeus](Arie_DeGeus.md) died while en route to secure funding. The pattern of death-before-disclosure is well documented in this project
+- **No public investigation:** There appears to be no publicly available official investigation into Warwick's death, despite the extraordinary circumstances
+
+## The Counterargument
+
+- Sudden cardiac death, stroke, and cerebral aneurysm can strike anyone at age 62, regardless of apparent good health
+- The "beam" sensation could have been a symptom of the medical event that was already beginning — stroke symptoms include burning or pressure sensations in the head
+- People who regularly attend conspiracy conferences make many promises about upcoming revelations; the fact that one died before delivering does not prove causation
+- Directed energy weapons capable of killing a specific person in a crowded conference hall without detection represent technology whose existence at that level of precision is unproven in the public domain
+- No autopsy results or toxicology reports have been made publicly available to confirm or deny foul play
+
+## See Also
+
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate killed days before a major media appearance
+- [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of apparent heart failure in an airport parking lot while en route to secure funding
+- [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats and died of a heart attack
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant, crying "They poisoned me"
+
+## Other Shocking Stories
+
+- [Stan Gleeson](Stan_Gleeson.md): LENR researcher dead of stroke at 48. Two colleagues in same group also died prematurely.
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Shot at multiple times. His own assistant destroyed the radiant energy device with a hammer.
+- [Melissa Casias](Melissa_Casias.md): Los Alamos National Lab employee vanished from New Mexico, June 2025. Never found.
+- [Peter Ferry](Peter_Ferry.md): Marconi executive found electrocuted with electrical leads in his mouth. Same month as Beckham.
+
+## Sources
+
+- [Project Camelot — In Tribute: Dean Warwick](https://projectcamelot.org/warwick.html)
+- [Dean Warwick — MERLib.org](https://merlib.org/node/4439)
+- [Dean Warwick's Interview Before He Suddenly Died — Brutal Proof](https://brutalproof.net/2020/08/dean-warwicks-interview-before-he-suddenly-died-in-midst-of-speech-about-missing-children-cannibalism/)
+- [Phil Schneider / Dean Warwick Interview — RadioRaider.com](https://radioraider.com/dean-warwick/)
+- [Death of Dean Warwick — Noble Realms Forum](http://forum.noblerealms.org/viewtopic.php?id=4123)
+- [Dean Warwick Murdered at Truth Event? — 911forum.org.uk](https://www.911forum.org.uk/viewtopic.php?p=29899)
+- [UFO Whistleblower Dies on Stage — Unexplained Mysteries Forum](https://www.unexplained-mysteries.com/forum/topic/154019-ufo-whistleblower-dies-on-stage/)
+- [History of New Energy Invention Suppression Cases — Critical Unity](https://criticalunity.org/news/energy/283-history-of-new-energy-invention-suppression-cases)
+
+*This information was built by Grok and Claude AI research.*

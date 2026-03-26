@@ -1,0 +1,63 @@
+
+# John Ford
+Retired court security officer and founder of the Long Island UFO Network who has been institutionalized in psychiatric facilities since 1996 after being arrested on conspiracy charges that supporters allege were fabricated to silence his UFO investigations near Brookhaven National Laboratory.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | John J. Ford |
+| **Born** | Approximately 1948-1949 |
+| **Status** | Institutionalized (psychiatric facility since 1996) |
+| **Current Location** | New York State psychiatric facility (transferred from Mid-Hudson Psychiatric Center to a less restrictive facility in 2019) |
+| **Category** | UFO Investigator / Institutionalized |
+
+## Assessment: SUSPICIOUS
+
+John Ford has been held in psychiatric institutions for nearly 30 years without ever standing trial. He was arrested in 1996 on charges of conspiring to murder three Suffolk County officials by poisoning them with radium -- charges that supporters argue were fabricated to neutralize his investigation into an alleged UFO crash near Brookhaven National Laboratory. The case raises questions about proportionality and due process: Ford was found mentally unfit to stand trial and has been institutionalized ever since, effectively silenced without ever having the charges tested in court. Whether the conspiracy charges were legitimate or a pretext, the outcome has been the permanent removal of a persistent UFO investigator from public life.
+
+## Current Situation
+
+As of 2019, Ford won a transfer order allowing him to move from the secure Mid-Hudson Psychiatric Center in New Hampton, New York, to a less restrictive psychiatric facility. He has spent most of the period since 1996 either in the Suffolk County Jail at Riverhead, New York, or in psychiatric institutions. He has never stood trial. Supporters continue to advocate for his release, arguing he has been unjustly confined. His case was featured in the 2024 Peacock documentary series *Out There: Crimes of the Paranormal*.
+
+## Background
+
+John Ford was a retired court security officer from Bellport, Long Island, who had worked at the Suffolk County courthouse for nearly 20 years. In the mid-1980s, he founded the Long Island UFO Network (LIUFON), which he ran for approximately ten years, conducting investigations into UFO sightings and alleged government cover-ups on Long Island.
+
+Ford and LIUFON became particularly focused on claims that a UFO had crashed in South Haven Park near the Brookhaven National Laboratory, and that government officials -- specifically Suffolk County officials -- were concealing evidence. Ford was reportedly aggressive in his pursuit of this theory, filing Freedom of Information requests and publicly accusing local officials of a cover-up.
+
+On June 12, 1996, Ford was arrested along with two associates on charges of conspiring to murder three Suffolk County officials: Republican Party chairman Anthony Gazzola, county legislator John Powell, and county parks commissioner Fred Towle. The alleged plot involved placing radium in the victims' car seats and mixing radioactive material into their toothpaste to cause fatal diseases. Authorities learned of the alleged plan through an unrelated investigation into illegal gun trades and recorded a meeting at Ford's house on June 11, 1996.
+
+Ford was charged with illegal possession of radioactive materials, three counts of second-degree conspiracy to commit murder, and three counts of second-degree criminal solicitation. In 1997, the court found Ford mentally unfit to stand trial, and he was committed to the Mid-Hudson Psychiatric Center for monitoring and treatment.
+
+## Why This Person Matters
+
+- Has been institutionalized for nearly 30 years without ever standing trial on the charges against him
+- Founded and led the Long Island UFO Network, actively investigating alleged UFO activity near Brookhaven National Laboratory
+- His arrest came shortly after he escalated his public accusations against Suffolk County officials regarding an alleged UFO crash cover-up
+- The conspiracy charges, if fabricated, would represent an extreme measure to silence a UFO investigator
+- The finding of mental unfitness for trial effectively prevented the charges from ever being tested in court
+- His case parallels the [Paul Bennewitz](Paul_Bennewitz.md) case in demonstrating how UFO investigators can be neutralized through psychiatric channels rather than criminal prosecution
+- Supporters argue the recorded meeting was an entrapment operation
+- The case raises broader questions about the use of mental health institutionalization to permanently silence inconvenient investigators
+
+## See Also
+
+- [Paul Bennewitz](Paul_Bennewitz.md) — UFO investigator driven to psychiatric breakdown by AFOSI disinformation campaign
+- [John Mack](John_Mack.md) — Harvard psychiatrist targeted by institutional pressure for alien abduction research
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
+
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [David Sands](David_Sands.md): Easams/Marconi senior scientist working on SDI satellite radar who drove a car loaded with petrol cans into an...
+- [Jaime Gustitus](Jaime_Gustitus.md): 1st Lieutenant in the U.S. Air Force, serving as an Operations Research Analyst at the 711th Human Performance...
+
+## Sources
+
+- [John Ford: Where is the Chairman of Long Island UFO Network Today? - The Cinemaholic](https://thecinemaholic.com/john-ford/)
+- [Long Island's UFO plot Trial - Baltimore Sun (1997)](https://www.baltimoresun.com/news/bs-xpm-1997-08-04-1997216040-story.html)
+- [OUT THERE - The Washington Post (1998)](https://www.washingtonpost.com/archive/lifestyle/1998/01/11/out-there/89f520c3-bb7b-41d3-a991-6c4a1a2ff322/)
+- [Where is John J. Ford now? - Sportskeeda](https://www.sportskeeda.com/us/shows/where-john-j-ford-now-details-out-there-crimes-paranormal-subject-explored)
+- [Wrongfully arrested UFO investigator, John Ford, still in mental hospital - Steemit](https://steemit.com/ufos/@rebelskum/wrongfully-arrested-ufo-investigator-john-ford-still-in-mental-hospital-for-21-years)
+
+*This information was built by Grok and Claude AI research.*

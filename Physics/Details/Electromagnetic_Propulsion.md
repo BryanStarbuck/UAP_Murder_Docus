@@ -1,0 +1,264 @@
+
+# Electromagnetic / Electrogravitics Propulsion
+The thesis that UAPs use extremely high-voltage electromagnetic fields to generate propulsive force — either through direct interaction with gravity (electrogravitics) or by creating ionized plasma sheaths that modify aerodynamic and inertial properties.
+
+| Field | Details |
+|-------|---------|
+| **Category** | Propulsion & Movement |
+| **Key Proponents** | Thomas Townsend Brown, Paul LaViolette, Mark McCandlish, Nick Cook, Salvatore Pais |
+| **First Proposed** | 1920s (T.T. Brown's first experiments); classified circa 1957 |
+| **Key Claim** | High-voltage electromagnetic fields can generate propulsive force that interacts with gravity; this technology was demonstrated in the 1950s, classified, and has been developed in secret programs ever since |
+| **Evidence Rating** | **MODERATE EVIDENCE** |
+
+## Overview
+
+Electromagnetic / electrogravitics propulsion is one of the oldest and most thoroughly documented lines of UAP-related physics research. The core thesis holds that when extremely high voltages (hundreds of thousands to millions of volts) are applied to asymmetric capacitor configurations, the resulting electromagnetic field generates a net propulsive force — not merely from ionic wind, but from a direct coupling between electromagnetism and gravity.
+
+This thesis has an unusual historical trajectory. Between the 1920s and mid-1950s, electrogravitics research was conducted openly by major aerospace companies and publicized in mainstream aviation trade publications. Then, around 1957, the entire subject abruptly vanished from the public record. Proponents argue this disappearance marks the moment the technology was classified because it worked. Critics argue the research simply failed to produce results and was abandoned.
+
+The evidence supporting this thesis includes:
+
+- **T.T. Brown's decades of experiments** demonstrating anomalous thrust from high-voltage asymmetric capacitors
+- **Two classified intelligence reports** from 1956 documenting industry-wide electrogravitics research programs involving every major US aerospace contractor
+- **Project Winterhaven**, Brown's 1952 proposal to the military for a Mach-3 electrogravitic combat saucer
+- **Mark McCandlish's detailed testimony** describing an "Alien Reproduction Vehicle" (ARV) using stacked capacitor plates at million-volt potentials
+- **Paul LaViolette's research** connecting Brown's experiments to a broader theoretical framework (subquantum kinetics)
+- **Nick Cook's investigation** as aviation editor of Jane's Defence Weekly, documenting the classification trail
+- **Salvatore Pais's Navy patents** describing craft using high-energy electromagnetic fields for inertial mass reduction
+- **Observed UAP characteristics** — glowing plasma sheaths, absence of sonic booms, transmedium travel — consistent with electromagnetic field propulsion
+
+The thesis also connects to a broader claim: that the entire field of electrogravitics was deliberately suppressed after showing promise, and that classified programs have continued developing the technology for over 70 years.
+
+## The Physics
+
+### The Biefeld-Brown Effect
+
+The foundational phenomenon was discovered by Thomas Townsend Brown in the 1920s while working with his professor, Paul Alfred Biefeld, at Denison University. Brown observed that when high voltage (25,000 to 200,000 volts DC) was applied to an asymmetric capacitor — one electrode much larger than the other — the device exhibited a net force toward the smaller (positive) electrode.
+
+Brown initially noticed this when he placed a Coolidge X-ray tube on a sensitive scale and observed a measurable weight change depending on the tube's orientation relative to gravity. The effect was consistent and repeatable: the device always moved toward the positive pole.
+
+The standard physics explanation attributes this force entirely to **ionic wind** (also called corona wind or electrohydrodynamic thrust). When high voltage ionizes the surrounding air, charged particles accelerate between the electrodes and transfer momentum to neutral air molecules through collisions, creating a net airflow and a reaction force on the capacitor. This explanation is well-supported by laboratory experiments and is the operating principle behind commercial "ionic lifters."
+
+### Brown's Challenge to the Ionic Wind Explanation
+
+Brown argued that ionic wind could not fully account for his observations. His key claims:
+
+- The force persisted in a **vacuum** — In 1955-1956, Brown conducted experiments in Paris under Project Montgolfier for the French aerospace company SNCASO (Societe Nationale de Construction Aeronautiques du Sud Ouest). He reported that his devices produced thrust even in vacuum chambers, where ionic wind should be absent or negligible.
+- The force **scaled with the dielectric constant** (k) of the material between the plates, not merely with the voltage — suggesting the effect involved the material medium, not just air ionization.
+- The force was **far greater than ionic wind could produce** at the voltages and geometries involved, according to Brown's measurements.
+
+However, subsequent vacuum experiments by other researchers have not consistently replicated Brown's vacuum results. A 2002 study by Thomas Bahder and Chris Fazi at the US Army Research Laboratory (ARL-TR-3005) tested asymmetric capacitors and found that while thrust was produced, it was "fully consistent with electrohydrodynamic (ionic wind) effects" and diminished substantially in vacuum conditions.
+
+### Electrogravitics Theory
+
+The electrogravitic thesis goes beyond the Biefeld-Brown effect to propose a fundamental coupling between electromagnetic and gravitational fields. In this framework:
+
+- **High-voltage charge polarization creates a local gravity gradient** — A capacitor charged to sufficient voltage generates not just an electric field, but a distortion in the local gravitational field, with a "gravity hill" on the negative side and a "gravity well" on the positive side.
+- **The craft "falls" toward the positive pole** — Rather than being pushed by ionic wind, the craft experiences a genuine gravitational pull toward its positively charged surface.
+- **Controlling voltage distribution controls flight** — By selectively energizing different capacitor segments around a disc-shaped craft, the pilot can create directional gravity gradients, allowing arbitrary 3D movement — forward, backward, up, down, or hovering.
+- **No inertial effects on occupants** — Because the gravitational field acts on every atom of the craft and its occupants simultaneously (like freefall), there would be no G-forces during acceleration, explaining how UAPs can make instantaneous right-angle turns.
+
+### Plasma Sheath Dynamics
+
+A related branch of this thesis focuses on the plasma envelope observed around UAPs:
+
+- **Magnetohydrodynamic (MHD) propulsion** — Using electromagnetic fields to ionize the surrounding medium (air or water) into plasma and then accelerate it for thrust. MHD systems have no moving parts and can operate in any medium, potentially explaining transmedium travel.
+- **Plasma drag reduction** — An ionized sheath around a craft dramatically reduces aerodynamic drag, potentially explaining the absence of sonic booms at hypersonic speeds. The plasma boundary layer changes the aerodynamic interaction between the craft surface and the surrounding atmosphere.
+- **Radar absorption** — A plasma sheath absorbs and scatters radar signals, providing inherent stealth characteristics consistent with difficulty tracking UAPs on conventional radar.
+- **Luminous effects** — The characteristic glow reported around UAPs is consistent with ionized atmospheric gases (plasma), with color changes corresponding to changes in field intensity and plasma temperature.
+
+Spectral analysis conducted on some UAP encounters has revealed emission lines consistent with ionized atmospheric gases, supporting the hypothesis that these craft create controlled plasma fields around themselves.
+
+### Paul LaViolette's Subquantum Kinetics
+
+Paul LaViolette, a physicist holding a PhD from Portland State University, developed an alternative theoretical framework called **subquantum kinetics** that provides a mechanism for electrogravitic coupling. In his framework:
+
+- Subatomic particles are not fundamental objects but are dissipative structures — wave patterns sustained in a reacting medium (the "ether")
+- Electric charge polarization in matter creates corresponding polarizations in the gravitational field
+- A sufficiently strong electric field gradient can generate a net gravitational force
+- This explains Brown's observations without requiring ionic wind and predicts that the effect should persist in vacuum
+
+LaViolette's 2008 book *Secrets of Antigravity Propulsion: Tesla, UFOs, and Classified Aerospace Technology* documents the historical evidence for electrogravitics research and classification, the B-2 bomber electrogravitic claims, and his theoretical framework for understanding the phenomenon.
+
+### The Salvatore Pais Patents
+
+In 2016-2018, US Navy scientist Salvatore Cezar Pais filed a series of patents describing technology with striking parallels to electrogravitics:
+
+- **US Patent 10,144,532** — "Craft using an inertial mass reduction device" — Describes a craft that uses high-frequency electromagnetic wave generators to create a polarized vacuum around itself, reducing the craft's inertial mass and enabling extreme acceleration and transmedium travel.
+- The patent describes what Pais calls the **"Pais Effect"** — the generation of extremely high electromagnetic energy fluxes through controlled motion of electrically charged matter subjected to accelerated vibration and/or accelerated spin.
+- The patent was initially rejected by USPTO examiner Philip Bonzell, who stated the craft "could not be built." It was subsequently granted after James Sheehy, the Naval Aviation Enterprise's chief technology officer, wrote to the patent office asserting the invention was operable and warning that China was developing similar technology.
+
+The Pais patents describe, in modern engineering language, a craft that uses intense electromagnetic fields to modify inertia and gravity — conceptually similar to what Brown was proposing in the 1950s, but at far higher energy densities.
+
+## Evidence & Documentation
+
+### T.T. Brown's Experimental Record (1920s-1960s)
+
+Thomas Townsend Brown (1905-1985) spent over four decades experimenting with high-voltage propulsion:
+
+- **1920s** — While a student at Denison University under Professor Paul Alfred Biefeld, Brown first observed anomalous forces on high-voltage Coolidge tubes placed on scales.
+- **1928** — Filed British Patent No. 300,311 for a "Method of and Apparatus for Producing Force and Motion," describing the use of high-voltage capacitors for propulsion.
+- **1930s-1940s** — Conducted experiments for the US Navy, including work at the Naval Research Laboratory. Details remain partially classified.
+- **1952** — Submitted **Project Winterhaven** to the US military — a formal proposal to develop a Mach-3 electrogravitic combat disc using Brown's technology. The proposal suggested collaboration with Stanford Research Institute, University of Chicago, Princeton's Institute for Advanced Study, General Electric, Lear Incorporated, and other institutions. A declassified FBI memo from January 1953 references Project Winterhaven and notes Brown's contacts with these organizations.
+- **1955-1956** — Traveled to Paris to conduct experiments under **Project Montgolfier** for the French aerospace company SNCASO. Reportedly demonstrated thrust effects in vacuum conditions. Funding was cut off when SNCASO was merged with SNCASE, and Brown returned to the US.
+- **1956** — Co-founded the **National Investigations Committee on Aerial Phenomena (NICAP)**, one of the first serious civilian UFO research organizations. He was forced out as director in 1957 amid allegations he was using NICAP funds for antigravity research.
+- **1958** — Worked as R&D consultant for Agnew Bahnson's **Whitehall Rand Project**, an antigravity venture at the Bahnson Company in Winston-Salem, North Carolina.
+
+### The 1956 Classified Reports
+
+Two intelligence reports from 1956 document the state of electrogravitics research across the Western aerospace industry:
+
+**"Electrogravitics Systems" (Report GRG-013/56, February 1956)** — Prepared by the Gravity Research Group of Aviation Studies (International) Limited, Special Weapons Study Unit, London. This report:
+
+- Defined electrogravitics as "a synthesis of electrostatic energy use for propulsion"
+- Stated that "electrostatic energy sufficient to produce a Mach 3 fighter is possible with megavolt energies and a k [dielectric constant] of over 10,000"
+- Documented active research programs at major aerospace companies
+- Was discovered by Paul LaViolette in the stacks of the Technical Library at the Wright-Patterson Air Force Base AF Wright Aeronautical Laboratories — notably, it was *not listed in the card catalog*
+
+**"The Gravitics Situation" (1956)** — Prepared by Gravity Rand Ltd., a division of Aviation Studies Ltd. This companion report documented the broader state of gravity research across the aerospace industry.
+
+Companies identified in these reports as conducting electrogravitics or gravity research included: Glenn Martin, Convair, Sperry-Rand, Sikorsky, Bell, Lear Inc., Clark Electronics, Lockheed, Douglas, Hiller, AT&T, General Electric, Curtiss-Wright, Boeing, and North American. Countries with concurrent programs included Britain, France, Sweden, Canada, and Germany.
+
+### The Classification Event (~1957)
+
+Between 1955 and 1957, electrogravitics went from being openly discussed in aviation trade journals (including *Interavia*, *Aviation Report*, and mainstream American media) to complete silence. No public explanation was given for the cessation of research. Proponents interpret this as evidence that the technology was classified because it showed promise. The timing coincides with:
+
+- The conclusion of Brown's Paris experiments (1956)
+- The publication of the Aviation Studies reports (1956)
+- Brown's departure from NICAP (1957)
+- The broader Cold War classification of advanced aerospace research
+
+### McCandlish's ARV Testimony (2001-2021)
+
+Mark McCandlish (1952-2021) was a professional aerospace illustrator who worked with defense contractors including Lockheed, Northrop, and General Dynamics. In 2001, he testified at Dr. Steven Greer's **Disclosure Project** at the National Press Club in Washington, DC, presenting detailed technical illustrations and descriptions of what he called the **Alien Reproduction Vehicle (ARV)** or **Flux Liner**.
+
+McCandlish stated that a colleague, Brad Sorensen, attended a restricted demonstration at Norton Air Force Base in 1988 where three disc-shaped craft of different sizes were displayed. Based on Sorensen's detailed descriptions, McCandlish produced technical illustrations showing:
+
+- A disc-shaped craft with **48 capacitor segments** arranged around the bottom circumference
+- Capacitor plates made of a **Dow Chemical alloy (AZ31-X)** — 95% magnesium, 5% zinc — bonded with molten bismuth and clad in thin copper
+- A **transparent green dielectric** (0.75 inches thick) between plates (0.50 inches thick each)
+- A **central vacuum column** described as involving mercury vapor, possibly functioning as a pulsed-power switching device
+- Operating voltage of approximately **1,000,000 to 1,250,000 volts**, above which a mass-reduction/field effect reportedly became noticeable
+- Flight control by **selectively energizing different capacitor segments** around the circumference — more field strength on one side produces tilt and acceleration, analogous to a helicopter swash-plate mechanism
+- Capacitor segments energized in pairs, from 2 (low power) to 8 (full power)
+
+McCandlish continued to research and present on the ARV until his death on **April 13, 2021**, in Redding, California. His death was officially ruled a suicide by shotgun by the Shasta County Coroner. However, friends and colleagues disputed this conclusion, noting that McCandlish had reportedly been scheduled to provide testimony to the Senate Intelligence Committee regarding UAP-related matters. He was 68 years old. His death is documented in the [UAP Deaths](/uaps/) sibling project.
+
+### The B-2 Bomber Question
+
+One of the most persistent claims in electrogravitics circles is that the Northrop Grumman B-2 Spirit stealth bomber incorporates some form of electrogravitic enhancement:
+
+- In **1992**, anonymous "black project scientists" disclosed to *Aviation Week & Space Technology* magazine that the B-2 electrostatically charges its exhaust stream to a high voltage and charges its leading wing edge to the opposite polarity.
+- The B-2's radar-absorbent materials could theoretically double as dielectric components in a large-scale capacitor system.
+- Paul LaViolette has argued that the B-2's flight characteristics, range, and fuel efficiency exceed what conventional turbofan propulsion alone can explain.
+
+However, no credible, independently verifiable evidence supports electrogravitic propulsion on the B-2. The aircraft's documented performance is consistent with conventional aerodynamic lift and high-bypass turbofan engines. The electrostatic charging, if real, may serve radar-absorption or plasma-stealth purposes rather than propulsion.
+
+### Salvatore Pais Navy Patents (2016-2019)
+
+Salvatore Cezar Pais, a Navy aerospace engineer, filed a series of patents through the US Naval Air Warfare Center Aircraft Division (NAWCAD) that describe electromagnetic propulsion concepts:
+
+- **US Patent 10,144,532** (2018) — "Craft using an inertial mass reduction device"
+- **US Patent 10,322,827** (2019) — "Electromagnetic field generator and method to generate an electromagnetic field"
+- **US Patent Application 2019/0295733** — "Plasma compression fusion device"
+
+The patents describe using high-frequency electromagnetic fields to engineer a "polarized local vacuum" around a craft, reducing its inertial and gravitational mass. The Navy's chief technology officer intervened with the patent office to get the craft patent approved, warning of Chinese advances in similar technology. As reported by *The War Zone* (The Drive), internal documents show the Navy considered these patents strategically important.
+
+Whether these patents describe functional technology or theoretical aspirations remains debated. The energy requirements described are, by some analyses, "three orders of magnitude greater than a neutron star," according to the original patent examiner's rejection.
+
+## Key Figures
+
+- **[Thomas Townsend Brown](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)** (1905-1985) — The originator of electrogravitics research. Conducted decades of experiments, proposed Project Winterhaven, co-founded NICAP. His work forms the foundation of the entire thesis.
+- **Paul Alfred Biefeld** (1867-1943) — Brown's professor at Denison University, who co-investigated the anomalous capacitor forces. The "Biefeld-Brown effect" is named for both.
+- **Paul LaViolette** — Physicist (PhD, Portland State University) who developed the subquantum kinetics theoretical framework and authored *Secrets of Antigravity Propulsion* (2008). Discovered the 1956 Aviation Studies reports at Wright-Patterson AFB.
+- **Mark McCandlish** (1952-2021) — Aerospace illustrator who testified at the 2001 Disclosure Project about the ARV/Flux Liner. Died under disputed circumstances in 2021.
+- **Nick Cook** — Aviation editor at *Jane's Defence Weekly* for over a decade. Authored *The Hunt for Zero Point: Inside the Classified World of Antigravity Technology* (2001), documenting his investigation into classified electrogravitics programs and their connection to Nazi antigravity research.
+- **[Salvatore Cezar Pais](Salvatore_Pais.md)** — US Navy aerospace engineer who filed patents describing electromagnetic craft with inertial mass reduction capabilities.
+- **Thomas Valone** — Physicist and founder of the Integrity Research Institute who republished the 1956 Aviation Studies electrogravitics reports and authored research on electrokinetic propulsion.
+- **Thomas Bahder and Chris Fazi** — US Army Research Laboratory scientists who conducted the most rigorous modern test of asymmetric capacitor thrust (2002), finding results consistent with ionic wind.
+
+## Relationship to Other Theses
+
+Electromagnetic / electrogravitics propulsion connects to several other documented UAP physics theses:
+
+- **[Zero Point Energy](Zero_Point_Energy.md)** — The ZPE thesis and electrogravitics may describe the same underlying physics from different angles. LaViolette's subquantum kinetics explicitly links electrogravitic effects to zero-point field interactions. Hal Puthoff's work on ZPE-derived inertia connects directly to how electromagnetic fields might reduce inertial mass. The Pais patents reference "polarized vacuum" states that are essentially ZPE engineering.
+
+- **Gravity Manipulation** — Electrogravitics is, by definition, a gravity manipulation thesis. The distinction is that electrogravitics proposes a specific mechanism (high-voltage electromagnetic fields) for achieving gravity modification, while broader gravity manipulation theses may invoke other mechanisms.
+
+- **Exotic Metamaterials** — The dielectric materials described in electrogravitics research (high-k ceramics, layered bismuth-magnesium alloys in the ARV) overlap with reported UAP metamaterial recoveries. The 1956 Aviation Studies report specifically noted that achieving Mach-3 flight required dielectric constants (k values) above 10,000 — implying exotic materials not commercially available.
+
+- **Inertial Mass Reduction** — The Pais patents explicitly describe inertial mass reduction through electromagnetic field manipulation, connecting electrogravitics to the broader question of how UAP occupants survive extreme accelerations.
+
+- **Plasma/MHD Propulsion** — The plasma sheath aspects of electromagnetic propulsion overlap with standalone MHD propulsion concepts. A craft using electrogravitics for primary propulsion would naturally generate a plasma envelope as a secondary effect of its intense electromagnetic fields.
+
+## Criticisms & Counter-Arguments
+
+### The Ionic Wind Explanation
+
+The most significant scientific objection is that the Biefeld-Brown effect is fully explained by **ionic wind** (electrohydrodynamic thrust) without requiring any gravitational coupling:
+
+- The 2002 Bahder and Fazi study at the Army Research Laboratory tested asymmetric capacitors and found thrust entirely consistent with ionic wind predictions.
+- When experiments are conducted in hard vacuum, the effect diminishes substantially or disappears — consistent with ionic wind (which requires a medium) and inconsistent with gravitational coupling (which should not depend on atmospheric presence).
+- NASA Glenn Research Center tested "lifter" devices and concluded the thrust was attributable to ionic wind.
+- Brown's own vacuum experiments have not been independently replicated with results confirming thrust in vacuum.
+
+### Theoretical Objections
+
+- General relativity does not predict any coupling between electric fields and gravitational fields of the type Brown proposed. The stress-energy tensor in Einstein's field equations includes electromagnetic energy, but the gravitational effects of laboratory-scale electric fields are immeasurably small — many orders of magnitude below what Brown claimed.
+- LaViolette's subquantum kinetics framework has not been accepted by mainstream physics and has not produced testable predictions that distinguish it from standard quantum electrodynamics.
+- The Pais patents were criticized by physicists as describing energy requirements far beyond any known technology — the original patent examiner calculated power requirements "three orders of magnitude greater than a neutron star."
+
+### McCandlish Credibility Questions
+
+- McCandlish's ARV account is secondhand — he did not personally witness the craft at Norton AFB. His testimony relies entirely on descriptions provided by Brad Sorensen.
+- Sorensen has never publicly confirmed or independently corroborated McCandlish's account.
+- Norton Air Force Base closed in 1994 as part of the Base Realignment and Closure process, and no independent evidence of a UAP demonstration there has surfaced.
+- McCandlish was an illustrator, not an engineer or physicist, and may have misinterpreted or embellished technical details.
+
+### The Classification Argument
+
+- The disappearance of electrogravitics from public discourse around 1957 may simply reflect that the research failed to produce useful results, as many speculative Cold War research programs did.
+- The presence of electrogravitics reports at Wright-Patterson AFB does not prove the technology worked — military libraries archive all manner of speculative research.
+- No former program participants have come forward under oath to confirm that electrogravitics was classified because it succeeded.
+
+### The B-2 Claims
+
+- No verifiable evidence supports electrogravitic propulsion on the B-2 bomber. The 1992 *Aviation Week* claim about electrostatic charging comes from anonymous sources and has never been confirmed.
+- The B-2's known performance characteristics — speed, range, payload — are consistent with its four General Electric F118-GE-100 turbofan engines without requiring exotic propulsion.
+
+## See Also
+
+- [Zero Point Energy](Zero_Point_Energy.md) — Closely related thesis on quantum vacuum energy extraction; shares theoretical foundations with electrogravitics through ZPF-inertia connection
+- [Deep State: Classification and Suppression]# — The parent project documenting how classification systems can suppress transformative technologies from public knowledge
+- [UAP Deaths and Silenced Witnesses](/uaps/) — Mark McCandlish's death in 2021 under disputed circumstances, shortly before scheduled Senate testimony
+
+### Media Resources
+- [Books on UAP Physics](Books.md) — Key texts include LaViolette's *Secrets of Antigravity Propulsion*, Valone's *Electrogravitics Systems*, and Cook's *The Hunt for Zero Point*
+- [Podcasts on UAP Physics](Podcasts.md) — Episodes covering electrogravitics history and the 1950s classification wall
+- [YouTube Channels on UAP Physics](YouTube_Channels.md) — Historical footage and modern analysis of electrogravitics research
+
+## Other Coverage Worth Reading
+
+- [YouTube Channels on UAP Physics](YouTube_Channels.md): 29 channels and 17+ videos covering classified physics breakthroughs, UAP propulsion, antigravity, zero-point energy, and exotic materials.
+- [Podcasts on UAP Physics & Classified Breakthroughs](Podcasts.md): Podcasts have become one of the most significant channels for UAP physics information to reach the public. Congressional...
+- [Gravity Manipulation / Antigravity Propulsion](Gravity_Manipulation.md): The thesis that UAPs generate and manipulate localized gravitational fields — effectively creating their own gravity wells —...
+- [Alcubierre Warp Drive / Spacetime Warping](Alcubierre_Warp_Drive.md): A theoretical propulsion framework based on general relativity that proposes contracting spacetime ahead of a craft and expanding...
+
+## Sources
+
+- [Thomas Townsend Brown — Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown) — Comprehensive biography covering experiments, patents, Project Winterhaven, NICAP, and Paris experiments
+- [Biefeld-Brown Effect — Wikipedia](https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect) — Scientific overview of the effect, including ionic wind explanations and vacuum test results
+- [Bahder & Fazi, "Force on an Asymmetric Capacitor" (2002) — Army Research Laboratory](https://arxiv.org/pdf/physics/0211001) — The most rigorous modern experimental test of asymmetric capacitor thrust
+- [Project Winterhaven Proposal — T.T. Brown Family Website](https://www.thomastownsendbrown.com/hydro/winterhaven.pdf) — Original 1952 proposal document for military electrogravitic combat saucer
+- [Electrogravitics Systems (1956) Report — Starburst Foundation / Archive.org](https://ia600806.us.archive.org/29/items/antigravity-raw-data/Electrogravitics%20System%20-%20Thomas%20Valone.pdf) — The declassified Aviation Studies International report documenting industry-wide electrogravitics research
+- [Mark McCandlish: Reverse-Engineering the Flux Liner ARV — Alternative Propulsion Engineering Conference](https://www.altpropulsion.com/mark-mccandlish-reverse-engineering-the-flux-liner-arv/) — McCandlish's final technical presentation on the ARV, delivered months before his death
+- [US Patent 10,144,532 — Craft Using an Inertial Mass Reduction Device (Pais, 2018)](https://patents.google.com/patent/US10144532B2/en) — Navy patent describing electromagnetic inertial mass reduction craft
+- [Navy Got UFO Patent Granted by Warning of Chinese Tech Advances — The War Zone / The Drive](https://www.thedrive.com/the-war-zone/28729/docs-show-navy-got-ufo-patent-granted-by-warning-of-similar-chinese-tech-advances) — Investigative reporting on how the Navy intervened to get the Pais patents approved
+- [Paul LaViolette, *Secrets of Antigravity Propulsion* (2008) — Simon & Schuster](https://www.simonandschuster.com/books/Secrets-of-Antigravity-Propulsion/Paul-A-LaViolette/9781591430780) — Book documenting Brown's work, subquantum kinetics, B-2 claims, and classified program evidence
+- [Nick Cook, *The Hunt for Zero Point* (2001) — Penguin Random House](https://www.penguinrandomhouse.com/books/31177/the-hunt-for-zero-point-by-nick-cook/) — Jane's Defence Weekly editor's investigation into classified antigravity technology
+- [Best Evidence that UAP Source and Utilize High-Voltage Electric Energy — Journal of Scientific Exploration](https://journalofscientificexploration.org/index.php/jse/article/view/3637) — Peer-reviewed analysis of electrical phenomena associated with UAP observations
+- [Salvatore Pais — Wikipedia](https://en.wikipedia.org/wiki/Salvatore_Pais) — Overview of the Navy scientist and his controversial patent portfolio
+- [Electrogravitics — Wikipedia](https://en.wikipedia.org/wiki/Electrogravitics) — Overview of the field including history, claims, and scientific status
+- [T.T. Brown's 1955-1956 Paris Experiments Revealed — Starburst Foundation](https://starburstfound.org/electrograviticsblog/?p=49) — Documentation of Brown's Project Montgolfier vacuum experiments in Paris
+
+*This information was compiled by Claude AI research.*

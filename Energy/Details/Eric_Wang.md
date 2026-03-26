@@ -1,0 +1,91 @@
+
+# Dr. Eric H. Wang
+Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft, died at 54 in Albuquerque with no public cause of death.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Dr. Eric Henry Wang |
+| **Born** | c. 1906, Austria |
+| **Died** | December 4, 1960 |
+| **Age at Death** | 54 |
+| **Location of Death** | Albuquerque, New Mexico |
+| **Cause of Death** | Not publicly stated |
+| **Official Ruling** | No ruling available |
+| **Category** | Engineer / Defense Scientist |
+
+## Assessment: UNCERTAIN
+
+Dr. Eric Wang's death at age 54 occurred while he was actively working at Kirtland Air Force Base, and his obituary in the Albuquerque Journal (December 5, 1960) provided no cause of death. His verified career positions — director of the Department of Special Studies at Wright-Patterson AFB, and chief of the structures division at Kirtland AFB — placed him at the heart of classified Air Force research. UFO researchers have alleged he headed a reverse-engineering unit for recovered craft, but these claims are unverified by declassified documents. His death at a relatively young age with no stated cause, combined with the classified nature of his work, places this case in the uncertain category.
+
+## Circumstances of Death
+
+On December 4, 1960, Dr. Eric Wang died at his residence at 706 Loma Vista Drive NE, Albuquerque, New Mexico. His obituary in the Albuquerque Journal (December 5, 1960, page 10) described him as "scientific adviser and chief of the structure division of the research at Kirtland Air Force Base" but provided no cause of death. He was survived by his wife Marie and daughters Irene and Erika, all of Albuquerque.
+
+No public record has been found confirming or denying suspicious circumstances. Claims that his papers were confiscated by military intelligence circulate in UFO research literature but have not been independently verified.
+
+## Background
+
+### Verified Career
+
+- **Education:** Graduate of the Vienna Technical Institute, Vienna, Austria
+- **1943–1952:** Taught structural and metallurgical engineering at the University of Cincinnati, Ohio
+- **1949 onward:** Director of the Department of Special Studies at Wright-Patterson AFB, Ohio. Reportedly worked in cooperation with scientists from the Office of Naval Research and with Dr. Vannevar Bush and others from the Research and Development Board
+- **c. 1955–1960:** Relocated to Kirtland Air Force Base, Albuquerque, New Mexico, where he served as scientific adviser and chief of the structures division
+- **Posthumous honors:** The "Eric H. Wang Civil Engineering Research Facility" was established at Kirtland AFB (documented in New Mexico archives, 1965). The Air Force Weapons Laboratory sponsored the "Eric H. Wang Symposium on Protective Structures Technology" at Kirtland AFB in July 1970, commemorating him as "a pioneer in Air Force protective construction"
+
+### Alleged UFO / Reverse-Engineering Work
+
+According to UFO researchers — claims that remain unverified by declassified documents:
+
+- Wang allegedly headed the Installations Division within the Office of Special Studies, described as a reverse-engineering unit for recovered craft
+- He allegedly examined recovered crashed discs and compared them to vehicles from the German V-7 program, reportedly finding the retrieved craft "different in nature"
+- He is connected to the alleged 1953 Kingman, Arizona UFO crash through Arthur Stansel (alias "Fritz Werner"), an engineer who reportedly worked under Wang in the Office of Special Studies. Stansel told UFO investigator Raymond Fowler in 1973 that he was sent to investigate a crashed object near Kingman on May 20, 1953
+- When Fowler contacted former officials about the Kingman incident, one reportedly became "very nervous" when Fowler mentioned Dr. Eric Wang's Office of Special Studies
+- Wang was reportedly a close associate of [Viktor Schauberger](Viktor_Schauberger.md), the Austrian inventor who allegedly developed vortex/implosion energy technology and was forced to work on flying disc designs during WWII
+- **Wang's widow, Marie Wang, allegedly stated in 1984** (via New Zealand UFO researcher Tony Brunt) that Henry Kissinger "is deeply involved in the Flying Saucer Program... In fact, he was completely in charge"
+
+### Records Gap
+
+When researchers submitted requests through the National Archives' History Hub, the Department of State and the Atomic Energy Commission found no records relating to Dr. Eric Wang. Without additional details about his military affiliation or government positions, further records could not be located — unusual for someone whose name appears on a major Air Force research facility.
+
+## Why This Death Possibly Raises Questions
+
+- **No stated cause of death:** Wang's obituary does not mention how he died. Death at age 54 without explanation invites questions
+- **Classified work:** Wang's position at the Office of Special Studies at Wright-Patterson — one of the most sensitive classified research facilities in the Air Force — means much of his work remains hidden
+- **Records gap:** The inability of the National Archives to locate records on a man who directed an Office of Special Studies and had a research facility named after him suggests records may have been classified, destroyed, or removed
+- **Wright-Patterson connection:** Wright-Patterson AFB has been central to UFO lore since 1947, and Wang was director of special studies there during the peak period of alleged crash retrievals
+- **Schauberger connection:** Wang's alleged association with Viktor Schauberger — who was coerced into signing away all rights to his technology and died five days later — places Wang in a network of suppressed energy/propulsion researchers
+
+## The Counterargument
+
+- Wang died at 54, which while relatively young, is not extraordinary for 1960
+- His verified work on "protective structures" and civil engineering at Kirtland AFB has no obvious connection to UFO technology
+- All claims about UFO reverse-engineering come from UFO researchers (John Lear, Raymond Fowler, Tony Brunt) and are not corroborated by declassified documents
+- The naming of a civil engineering research facility after him suggests his primary contribution was in conventional structural engineering, not exotic propulsion
+- The records gap could reflect normal classification of Cold War-era defense research, not a specific cover-up
+
+## See Also
+
+- [Viktor Schauberger](Viktor_Schauberger.md) — Austrian inventor of "implosion" vortex energy, allegedly Wang's associate
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Nikola Tesla](Nikola_Tesla.md) — Papers seized by FBI after death
+- [William Neil McCasland](/uaps/Details/William_McCasland) — USAF Research Lab commander who went missing in 2026
+
+## Other Shocking Stories
+
+- [Dimitri Petronov](Dimitri_Petronov.md): Plasma battery inventor vanished weeks after demonstrating his device to Russian military generals.
+- [William Neil McCasland](/uaps/Details/William_McCasland): Former AFRL commander over exotic technology programs at Wright-Patterson. Vanished February 2026.
+- [Tom Ogle](Tom_Ogle.md): Demonstrated 100 MPG on live TV. Shot, drugged, dead of "overdose" at 24.
+- [Viktor Schauberger](Viktor_Schauberger.md): Forced to sign away all rights to his vortex energy technology. Died five days later.
+
+## Sources
+
+- [Albuquerque Journal, December 5, 1960, Page 10 (obituary)](https://www.newspapers.com/newspage/156564928/)
+- [History Hub — Military Records Forum: Scientist Dr. Eric Wang](https://historyhub.history.gov/military-records/f/military-records-forum/40224/scientist-dr-eric-wang)
+- [DTIC: Proceedings of Eric H. Wang Symposium on Protective Structures Technology, Kirtland AFB, July 1970](https://apps.dtic.mil/sti/html/tr/AD0775467/index.html)
+- [NM Archives: Eric H. Wang Civil Engineering Research Facility, Kirtland AFB, 1965](https://nmarchives-dev.unm.edu/repositories/22/archival_objects/324521)
+- [Think About It Docs: 1953 Kingman Arizona UFO Crash](https://www.thinkaboutitdocs.com/1953-may-20-kingman-arizona-ufo-crash/)
+- [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
+- Nick Cook, *The Hunt for Zero Point: Inside the Classified World of Antigravity Technology* (2001)
+
+*This information was built by Grok and Claude AI research.*

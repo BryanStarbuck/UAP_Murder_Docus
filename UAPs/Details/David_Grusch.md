@@ -1,0 +1,77 @@
+
+# David Grusch
+Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S. government possesses retrieved non-human craft and biologics, and who reported severe retaliation for his whistleblowing.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | David Charles Grusch |
+| **Born** | 1987 (Pittsburgh, Pennsylvania) |
+| **Status** | ALIVE |
+| **Current Location** | United States |
+| **Category** | Intelligence Officer / UAP Whistleblower |
+
+## Assessment: AT RISK
+
+David Grusch is among the most significant UAP whistleblowers in history, having testified under oath before Congress that the U.S. government operates a multi-decade crash retrieval and reverse-engineering program for craft of non-human origin. He reported facing "very brutal" retaliation beginning in 2021, including attempts to revoke his security clearance and damage to his career. His claims were filed through proper channels via a PPD-19 Urgent Concern filing with the Intelligence Community Inspector General, who found his complaint "credible and urgent." The combination of his high-level credentials, formal whistleblower protections, and documented retaliation make him a significant figure at ongoing risk.
+
+## Current Situation
+
+Grusch retired from government service in April 2023, leaving the National Geospatial-Intelligence Agency (NGA) at the GS-15 civilian level. Following his public disclosures, he experienced what he described as months of retaliation and reprisals that began in 2021, including an attempt to revoke his TS/SCI security clearance. A Department of Defense Inspector General report initially concluded the clearance revocation resulted from "behavior issues, dishonesty, and untrustworthiness," but an appeals panel unanimously reinstated the clearance, deeming the revocation a mistake rather than reprisal.
+
+Grusch has disclosed that he struggled with PTSD from combat deployments, and in 2014 and 2018 experienced personal crises related to grief and depression. The Intercept reported that Grusch had been psychiatrically detained at one point but retained his security clearance throughout.
+
+## Background
+
+David Grusch served as an intelligence officer for 14 years, including service in the U.S. Air Force at the rank of Major with multiple combat deployments to Afghanistan, where he collected intelligence on senior Taliban leaders. After his active military career, he joined the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance Office (NRO).
+
+In 2019, Grusch was appointed as the NRO's representative to the Unidentified Aerial Phenomena Task Force (UAPTF). By late 2021, he served as co-lead for UAP analysis at the NGA and represented the organization in the task force, which later became the All-Domain Anomaly Resolution Office (AARO).
+
+During the course of his official duties, Grusch states he was informed by multiple credentialed current and former military and intelligence community individuals about a multi-decade UAP crash retrieval and reverse-engineering program that was being operated with secrecy above Congressional oversight. When he sought access to these programs, he was denied.
+
+On June 5, 2023, The Debrief published Grusch's claims, reporting that intelligence officials said the U.S. had retrieved craft of non-human origin. On July 26, 2023, Grusch testified under oath before the House Oversight Committee, stating that the U.S. has retrieved "non-human biologics" from crash sites and that he was aware of "multi-decade UAP crash retrieval and reverse-engineering programs." He stated he could provide classified details to members of Congress in a SCIF (Sensitive Compartmented Information Facility).
+
+His testimony was corroborated in part by two other witnesses at the hearing: retired Navy Commander David Fravor, who described his 2004 encounter with the "Tic Tac" UAP, and former Navy pilot Ryan Graves, who described repeated UAP encounters by military aviators.
+
+## Why This Person Matters
+
+- Highest-credentialed UAP whistleblower to testify before Congress, with 14 years of intelligence experience and combat deployments
+- Filed his complaint through formal channels (PPD-19 Urgent Concern) with the Intelligence Community Inspector General, who deemed it "credible and urgent"
+- Testified under oath that the U.S. government possesses retrieved non-human craft and biologics
+- Alleged the existence of crash retrieval and reverse-engineering programs operating above Congressional oversight
+- Reported severe and sustained retaliation for his disclosures, including attempts to revoke his security clearance
+- His testimony contributed directly to bipartisan Congressional efforts to legislate UAP transparency, including provisions in the National Defense Authorization Act
+- Represents a shift from anonymous or unofficial UAP claims to formal, on-the-record government whistleblowing
+- His case tests the strength of whistleblower protections for individuals disclosing information about classified UAP programs
+
+## Key Quotes from Media Coverage
+
+> "I have personal knowledge of people who have been harmed or injured in the effort to cover up or conceal extraterrestrial technology." — David Grusch, testimony before the House Oversight Committee, July 26, 2023
+
+> "I was told, both by people in the legacy program and that it was made clear to me, that the information I have would cause grave national security damage if disclosed." — David Grusch, in his NewsNation interview, June 2023
+
+## See Also
+
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director who also testified before Congress about UAP programs
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified alongside Grusch in July 2023
+- [Bob Lazar](Bob_Lazar.md) — Earlier whistleblower who claimed to have worked on alien craft at S-4
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran and UAP whistleblower facing career retaliation
+- [Tim Burchett](Tim_Burchett.md) — Congressman who organized the 2023 UAP hearing and received death threats
+- [George Knapp](George_Knapp.md) — Investigative journalist who testified before Congress in 2025
+
+## Other Shocking Stories
+
+- [James E. McDonald](James_McDonald.md): Senior atmospheric physicist whose career and marriage were systematically destroyed before he was found dead in the Arizona...
+- [Karla Turner](Karla_Turner.md): Abduction researcher with a Ph.D. who authored three books on the alien abduction phenomenon, died of fast-acting breast...
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Uyrange Hollanda](Uyrange_Hollanda.md): Captain in the Brazilian Air Force who commanded Operation Saucer (Operacao Prato), the military investigation of UFO attacks...
+
+## Sources
+
+- [David Grusch UFO whistleblower claims - Wikipedia](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)
+- [Whistleblower testifies U.S. salvaged 'non-human biologics' from UFO crash sites - NPR](https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps)
+- [Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)
+- [UFO Whistleblower Kept Security Clearance After Psychiatric Detention - The Intercept](https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/)
+- [Whistleblower Claims Retaliation During Testimony at House Hearing on UFOs - Whistleblower Network News](https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/)
+- [David Grusch Congressional Testimony - House Oversight Committee](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)
+
+*This information was built by Grok and Claude AI research.*

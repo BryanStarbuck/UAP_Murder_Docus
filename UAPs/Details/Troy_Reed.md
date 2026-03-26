@@ -1,0 +1,83 @@
+
+# Troy Reed
+Tulsa, Oklahoma inventor who built a permanent magnet motor he claimed ran without external fuel or power input, demonstrated it publicly including on television, and died in 2007 under circumstances that remain poorly documented in mainstream sources.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Troy G. Reed |
+| **Born** | Unknown (mid-20th century) |
+| **Died** | 2007 |
+| **Age at Death** | Unknown |
+| **Location of Death** | Tulsa, Oklahoma area |
+| **Cause of Death** | Not well documented; reportedly natural causes |
+| **Official Ruling** | Unknown — no mainstream reporting located |
+| **Category** | Energy Inventor |
+
+## Assessment: UNCERTAIN
+
+Troy Reed's death is included here because of his prominence in the alternative energy community and the pattern of energy inventors dying after public demonstrations of controversial devices. However, verifiable documentation of the circumstances of his death is extremely limited. Most information about Reed comes from alternative energy forums, social media posts, and free energy community sources rather than mainstream journalism or court records. The case warrants documentation but does not currently have the evidentiary basis to support a higher suspicion rating.
+
+## Circumstances of Death
+
+According to alternative energy community sources, Troy Reed died in 2007. The specific circumstances, exact date, and official cause of death are not well documented in publicly available mainstream sources. Some members of the free energy community have expressed suspicion about the timing and circumstances of his death, but these concerns are based primarily on the general pattern of energy inventors dying rather than on specific forensic evidence or documented anomalies in Reed's case.
+
+No mainstream news obituaries or investigative reports about Reed's death have been identified in available records.
+
+## Background
+
+Troy G. Reed was an inventor based in Tulsa, Oklahoma, who developed what he called the Reed Magnetic Motor — a device using permanent magnets that he claimed could run continuously without any external power input, fuel, or energy source. Reed described his device as a "non-resource-dependent engine" that harnessed the energy of permanent magnets to produce rotational motion indefinitely.
+
+According to accounts from the alternative energy community, Reed demonstrated his magnetic motor publicly on multiple occasions, including appearances on local television in the Tulsa area and at energy conferences. These demonstrations reportedly showed a motor spinning without any visible external power connection.
+
+Reed founded a company to develop and commercialize the technology, reportedly attracting interest from investors and supporters in the free energy community. He was described by supporters as sincere and dedicated to bringing his technology to market.
+
+His device belonged to the broader category of permanent magnet motors — devices that claim to extract usable energy from the magnetic fields of permanent magnets alone. Other inventors in this field include [John Searl](John_Searl.md), who developed the Searl Effect Generator, and [Joseph Westley Newman](Joseph_Westley_Newman.md), who built an electromagnetic motor he claimed produced more energy than it consumed.
+
+## Why This Death Possibly Raises Questions
+
+- Reed was an inventor working on technology that, if genuine, would have threatened established energy industries
+- He had demonstrated his device publicly, increasing his visibility
+- His death in 2007 occurred after years of public advocacy for his magnetic motor technology
+- According to social media posts, including a February 2026 post by @mistersplice on X, Reed is listed among energy inventors who died or were suppressed
+- His technology was not successfully reproduced or commercialized after his death
+- The pattern of energy inventors dying after public demonstrations is documented across multiple cases in this project
+
+## The Counterargument
+
+- **Limited documentation**: There is no publicly available evidence of foul play, forensic anomalies, or suspicious circumstances surrounding Reed's death. The suspicion appears to be based primarily on pattern-matching rather than case-specific evidence.
+- **Physics consensus**: Permanent magnet motors that produce net energy without external input would violate the laws of thermodynamics as currently understood. The mainstream physics community has consistently held that such devices cannot work as claimed. No Reed Magnetic Motor has been independently verified by credentialed scientists under controlled conditions.
+- **No independent verification**: Reed's demonstrations, while public, were not conducted under rigorous scientific protocols with independent measurement and verification. Many claimed free energy demonstrations have later been found to involve hidden power sources or measurement errors.
+- **Natural causes**: Without evidence to the contrary, Reed's death may have been entirely from natural causes unrelated to his energy work. Not every inventor who dies worked on something that got them killed.
+- **Source quality**: Nearly all information about Reed comes from alternative energy forums and social media rather than from court records, mainstream journalism, or scientific publications. This makes it difficult to assess the reliability of claims about both his technology and his death.
+- **Post-death silence**: The fact that his technology was not reproduced after his death is consistent with the device not working as claimed, rather than with suppression.
+
+## Key Quotes from Media Coverage
+
+> "Troy Reed (free energy magnetic motor/non-resource-dependent engine)"
+> — **@mistersplice**, X (formerly Twitter), February 22, 2026, listing Reed among inventors who allegedly died or were suppressed for their energy work
+
+No mainstream media quotes about Reed's death or his technology have been identified in available sources.
+
+## See Also
+
+- [John Searl](John_Searl.md) — British inventor of the Searl Effect Generator, another permanent magnet motor claiming over-unity performance. Searl reportedly faced suppression and had equipment confiscated.
+- [Rory Johnson](Rory_Johnson.md) — Inventor of a magnetic motor who died under suspicious circumstances. His prototype reportedly disappeared after his death.
+- [Joseph Westley Newman](Joseph_Westley_Newman.md) — Inventor of an electromagnetic "Energy Machine" who fought a decades-long battle with the U.S. Patent Office for recognition of his device.
+- [Thomas Bearden](Thomas_Bearden.md) — Physicist and researcher who advocated for zero-point energy extraction and magnetic motor technologies, and who reportedly faced threats and suppression.
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Water fuel cell inventor's last words were "They poisoned me" — died at a restaurant meeting with investors.
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate beaten to death with 32 lacerations days before publishing breakthrough findings.
+- [Wilhelm Reich](Wilhelm_Reich.md): FDA burned six tons of his books. Died in prison one day before parole eligibility.
+- [Tom Ogle](Tom_Ogle.md): Demonstrated 100 MPG vapor fuel system on TV, was shot, survived, then died of an overdose ruled suicide.
+
+## Sources
+
+- @mistersplice, X (formerly Twitter), February 22, 2026 — Post listing Troy Reed among suppressed energy inventors
+- Gary Vesperman, "Complete List of 48 Water Fuel Suppression Cases" and related compilations of suppressed energy inventions — Reed is referenced in alternative energy suppression compilations
+- PESWiki (Pure Energy Systems Wiki) — Community-maintained documentation of alternative energy inventors and devices, including entries on magnetic motors
+
+**Note on sourcing**: Mainstream journalistic, academic, or court sources documenting Troy Reed's work, death, or the Reed Magnetic Motor have not been identified. The information in this profile is drawn primarily from alternative energy community sources and social media. Readers should weigh this limited sourcing accordingly.
+
+*This information was built by Grok and Claude AI research.*

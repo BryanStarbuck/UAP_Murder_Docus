@@ -1,0 +1,71 @@
+
+# Vimal Dajibhai
+24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge — found with trousers lowered and an unexplained needle puncture wound on his buttock.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Vimal Dajibhai |
+| **Born** | c. 1962 |
+| **Died** | August 4, 1986 |
+| **Age at Death** | 24 |
+| **Location of Death** | Clifton Suspension Bridge, Bristol, England |
+| **Cause of Death** | Fall from Clifton Suspension Bridge (approximately 250-330 feet) |
+| **Official Ruling** | Open verdict |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Dajibhai's death is one of the most troubling in the entire GEC-Marconi cluster. A young software engineer with no known history of depression or suicidal ideation, he was found at the base of the Clifton Suspension Bridge with his trousers partially lowered around his ankles and a needle-sized puncture wound on his left buttock that the Bristol coroner described as "a mystery then and remains a mystery now." The open verdict reflected the coroner's inability to explain the circumstances.
+
+## Circumstances of Death
+
+On August 4, 1986, Vimal Dajibhai, a 24-year-old computer programmer, fell approximately 250-330 feet from Bristol's Clifton Suspension Bridge. His body was recovered from the Avon Gorge below.
+
+When found, his trousers were partially lowered around his ankles — an unusual detail never satisfactorily explained. More significantly, a small needle-sized puncture wound was discovered on his left buttock during the post-mortem examination. The puncture wound was consistent with an injection, but no explanation for it was ever found.
+
+The Bristol coroner returned an open verdict, unable to determine whether the death was suicide, accident, or homicide. A coroner's spokesman later stated the puncture wound "was a mystery then and remains a mystery now."
+
+No history of mental distress or suicidal ideation was reported.
+
+## Background
+
+Vimal Dajibhai was a 24-year-old computer programmer employed at Marconi Underwater Systems in Croxley Green, Hertfordshire. He worked on computer control systems for the Stingray torpedo — one of Marconi's most important classified defense projects. The Stingray was a lightweight torpedo designed for the Royal Navy, incorporating advanced computer-guided targeting systems.
+
+Dajibhai's death, along with that of [Ashad Sharif](Ashad_Sharif.md) just two months later, was among the first to draw widespread media attention to the pattern of defense scientist deaths.
+
+## Why This Death Possibly Raises Questions
+
+- An unexplained needle-sized puncture wound on his buttock — consistent with a forced injection that could have rendered him unconscious or compliant
+- Trousers found lowered around his ankles — inconsistent with a voluntary jump and never explained
+- No reported history of depression or suicidal ideation
+- He was only 24 years old with no known personal crisis
+- He worked on the classified Stingray torpedo computer systems
+- The coroner returned an open verdict, explicitly unable to rule out foul play
+- The puncture wound suggests a possible drugging before the fall — a method consistent with intelligence tradecraft
+- His death occurred just two months before the similar suspicious death of fellow Marconi analyst [Ashad Sharif](Ashad_Sharif.md)
+
+## See Also
+
+- [Vimal Dajibhai (Zero Point Energy)](/energy/Details/Vimal_Dajibhai) — This case also appears in the Zero Point Energy project
+- [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986 in the same Bristol area
+- [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, died March 1982
+- [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987
+- [Jonathan Walsh](Jonathan_Walsh.md) — GEC/BT digital comms expert, fell from hotel window November 1985
+
+## Other Shocking Stories
+
+- [Keith Bowden](Keith_Bowden.md): Senior GEC-Marconi computer scientist killed when his car plunged off a bridge into a disused railway cutting in...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+
+## Sources
+
+- [Scientists' Deaths Mystify British — Chicago Tribune, April 1988](https://www.chicagotribune.com/1988/04/17/scientists-deaths-mystify-british/)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Mysterious deaths of British scientists — UPI, April 1987](https://www.upi.com/Archives/1987/04/06/Mysterious-deaths-of-British-scientists/1516544680000/)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

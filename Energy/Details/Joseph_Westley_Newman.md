@@ -1,0 +1,111 @@
+
+# Joseph Westley Newman
+Self-taught American inventor who spent over seven years battling the U.S. Patent Office for recognition of his "Energy Machine," an electromagnetic motor-generator he claimed produced more energy than it consumed.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Joseph Westley Newman |
+| **Born** | July 2, 1936 |
+| **Died** | March 6, 2015 |
+| **Age at Death** | 78 |
+| **Location of Death** | United States |
+| **Cause of Death** | Natural causes |
+| **Official Ruling** | Natural causes |
+| **Category** | Energy Inventor / Patent Holder |
+
+## Assessment: SUPPRESSED THROUGH PATENT DENIAL
+
+Joseph Westley Newman was not murdered — he died of natural causes at age 78. His case represents government suppression through the patent system rather than through violence. Newman applied for a patent on his electromagnetic "Energy Machine" in 1979 and spent over seven years battling the U.S. Patent and Trademark Office (USPTO) in federal court after they rejected his application as a perpetual motion machine. When a federal court ordered the National Bureau of Standards (NBS) to test the device in 1986, the NBS concluded that the machine did not produce more energy than it consumed, with measured efficiencies between 27% and 67%. Newman disputed these findings for the rest of his life, publicly destroying a $10,000 prototype outside the patent office in protest. His case is now cited in the USPTO's Manual of Patent Examining Procedure as a precedent for rejecting "inoperative" inventions.
+
+## Circumstances of Death
+
+Newman died on March 6, 2015, at the age of 78. His death was from natural causes and was not suspicious. He had continued advocating for his Energy Machine and his unconventional theories about electromagnetism until near the end of his life. A documentary film about him, simply titled "Newman," directed by Jon Fox, was completed in 2015 and included interviews with Newman recorded in 2014, shortly before his death.
+
+## Background
+
+### Early Life
+
+Joseph Westley Newman was born on July 2, 1936, in Mobile, Alabama. He grew up in the American South and later settled in rural Mississippi. Newman was self-taught — he had no formal education in physics or electrical engineering. He was awarded patents for inventing the first plastic barbells, and after selling that business, he used the proceeds to buy science textbooks and began studying energy, electrical engineering, physics, and electromagnetics on his own.
+
+### The Energy Machine
+
+Newman developed what he called the "Energy Machine" — a large electromagnetic motor-generator that he claimed produced more electrical or mechanical energy output than the electrical energy input. The device used a massive coil of copper wire wound around a powerful permanent magnet, with a commutator system to switch the current direction. Newman's theoretical framework, which he published in a self-published book titled *The Energy Machine of Joseph Newman*, proposed that the gyroscopic spin of particles within the magnet contributed additional energy to the system, allowing it to exceed conventional efficiency limits.
+
+Newman claimed his machine could produce five to ten times more energy output than input, violating the conventional understanding of conservation of energy. He believed he had discovered a new principle of physics that the scientific establishment refused to acknowledge.
+
+### The Patent Battle
+
+Newman first applied for a U.S. patent on his Energy Machine in 1979. The USPTO rejected the application, classifying it as a perpetual motion machine — a category of invention that the patent office has a longstanding policy of rejecting unless the applicant can demonstrate a working model.
+
+From 1979 to 1986, Newman fought the patent office through the federal courts. His case attracted significant media attention, including coverage on CBS Evening News and in newspapers across the country. Newman presented himself as a lone inventor fighting a corrupt bureaucracy, and he garnered substantial public support.
+
+### National Bureau of Standards Testing
+
+In a unusual move, the Federal District Court ordered Newman's machine to be surrendered to the National Bureau of Standards (now NIST) for independent testing. NBS engineers tested the device in June 1986 and concluded:
+
+- The machine's output power did not exceed its input power under any tested conditions
+- Measured efficiencies ranged from 27% to 67%, well below the 100% threshold — let alone the 500-1000% Newman claimed
+- The device operated as a conventional electromagnetic motor, with no evidence of anomalous energy production
+
+Newman disputed the NBS findings, arguing that the testers had used incorrect measurement methods and had deliberately set up the test to produce unfavorable results. He publicly claimed the NBS had been ordered to produce a negative conclusion.
+
+### The Protest
+
+After the patent was denied based on the NBS findings, Newman publicly demolished a prototype of his Energy Machine — reportedly valued at $10,000 — outside the U.S. Patent Office in Washington, D.C., in an act of protest. The dramatic gesture drew media attention but did not change the patent office's decision.
+
+### Legal Precedent
+
+Newman's case became a landmark in patent law. It is now cited in the USPTO's Manual of Patent Examining Procedure (MPEP) as an example of an "inoperative" invention that cannot have any utility — specifically as a perpetual motion machine that violates established physical laws. The case (Newman v. Quigg, 782 F.2d 971) established precedent for how the patent office handles claims of over-unity energy devices.
+
+### Later Years
+
+Newman continued to advocate for his Energy Machine for the rest of his life. He maintained that the scientific establishment and the government had conspired to suppress his invention because it threatened the energy industry. He gave demonstrations, published updated editions of his book, and attracted a dedicated following of supporters who believed his claims.
+
+## Why This Case Raises Questions
+
+- Newman was self-taught and working outside the institutional framework, making him vulnerable to dismissal regardless of the merit of his claims
+- The NBS testing was conducted under conditions that Newman and his supporters argued were unfair — they claimed the testers used methods designed to produce unfavorable results
+- Multiple independent individuals, including some with engineering backgrounds, claimed to have witnessed Newman's machine producing anomalous results in private demonstrations
+- The USPTO's blanket policy of rejecting any device claimed to produce over-unity energy means that even a genuinely novel device would face near-automatic rejection
+- Newman's case is now used as legal precedent to prevent any future inventor from patenting similar devices, effectively closing the door on an entire class of inventions
+- The speed and finality with which the establishment dismissed Newman's claims — without allowing for the possibility that his unconventional theoretical framework might contain valid insights — reflects institutional rigidity
+
+## The Counterargument
+
+- The National Bureau of Standards testing found efficiencies of only 27-67%, far below Newman's claims of 500-1000% — this is a straightforward empirical result
+- Conservation of energy is one of the most thoroughly tested principles in physics — no verified exception has ever been found
+- Newman had no formal training in physics or engineering, and his theoretical framework was rejected by credentialed physicists as fundamentally flawed
+- The scientific community has consistently classified Newman's claims as pseudoscience
+- Newman's demonstrations, while impressive to lay audiences, did not stand up to rigorous measurement under controlled conditions
+- The patent office's policy against perpetual motion machines exists precisely because such claims have been made thousands of times throughout history and have never been validated
+- Newman's public persona — destroying the prototype, accusing the government of conspiracy — is consistent with the behavior of someone unable to accept that his invention did not work as claimed
+
+## Key Quotes
+
+> "I have discovered a new principle of physics. The scientific establishment refuses to look at it because it threatens their paradigm." — Joseph Newman (paraphrased from numerous interviews)
+
+## See Also
+
+- [Paul Pantone](Paul_Pantone.md) — GEET plasma reactor inventor who was involuntarily committed to a mental hospital
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly after his patent was revoked
+- [John Bedini](John_Bedini.md) — Free energy inventor and motor designer
+- [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor who faced decades of suppression
+
+## Other Shocking Stories
+
+- [Stan Gleeson](Stan_Gleeson.md): Cincinnati Group LENR researcher. Died of carbon monoxide in his garage — same method as colleague Chris Tinsley.
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Built a carburetor achieving 200+ MPG in a 1933 Ford V8. Bought out, silenced, technology buried.
+- [Frank Roberts](Frank_Roberts.md): Water car inventor suffered a chemically induced stroke, lost his memory, and had his van burned.
+- [Viktor Schauberger](Viktor_Schauberger.md): Forced to work on Nazi flying disc designs. Signed away all rights to U.S. consortium. Dead five days later.
+
+## Sources
+
+- [Joseph Westley Newman — Wikipedia](https://en.wikipedia.org/wiki/Joseph_Westley_Newman)
+- [Newman's Energy Machine — Wikipedia](https://en.wikipedia.org/wiki/Newman%27s_energy_machine)
+- [The Triumph & Tragedy of Joseph Newman — Review Magazine](https://www.review-mag.com/article/the-triumph-tragedy-of-joseph-newman-how-the-world-was-denied-free-energy)
+- [Joe Newman — RationalWiki](https://rationalwiki.org/wiki/Joe_Newman)
+- [Newman (2015 film) — IMDB](https://www.imdb.com/title/tt2198063/)
+- [Newman v. Quigg, 782 F.2d 971 — Federal Court Opinion](https://law.resource.org/pub/us/case/reporter/F2/782/782.F2d.971.89.html)
+- [Joseph Westley Newman — Find a Grave](https://www.findagrave.com/memorial/177276514/joseph-westley-newman)
+
+*This information was built by Grok and Claude AI research.*

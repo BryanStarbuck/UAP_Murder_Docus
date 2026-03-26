@@ -1,0 +1,88 @@
+
+# Andrew Kazolnikov
+Inventor of a magnetic free-energy device who was allegedly poisoned. Very little verifiable information exists about his life, device, or death.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Andrew Kazolnikov |
+| **Born** | Unknown |
+| **Died** | Unknown |
+| **Age at Death** | Unknown |
+| **Location of Death** | Unknown |
+| **Cause of Death** | Alleged poisoning |
+| **Official Ruling** | Unknown |
+| **Category** | Energy Inventor |
+
+## Assessment: UNCERTAIN — Insufficient Documentation
+
+Andrew Kazolnikov is among the most poorly documented individuals in the alternative energy suppression literature. He is reported to have invented a magnetic free-energy device and to have been poisoned — allegedly in retaliation for his work. However, no verifiable biographical details, device specifications, dates, locations, or independent corroboration have been located through extensive web searches and review of major energy suppression compilations, including Gary Vesperman's *Energy Invention Suppression Cases*. The claim of his existence and poisoning circulates within alternative energy communities but cannot be independently confirmed or denied with available evidence.
+
+## Circumstances of Death
+
+According to accounts circulating in the alternative energy community, Andrew Kazolnikov was poisoned, allegedly in connection with his work on a magnetic free-energy device. No details about the date, location, method, or circumstances of the alleged poisoning have been found in any publicly available source. No autopsy reports, news articles, death records, or court documents have been located.
+
+## Background
+
+### The Magnetic Free-Energy Device
+
+Kazolnikov is reported to have invented a magnetic free-energy device — a generator that allegedly produced usable energy output from magnetic fields without conventional fuel input. No technical specifications, photographs, patents, or independent test results have been located for this device.
+
+Magnetic free-energy devices are a category of claimed overunity technology that appears frequently in the alternative energy literature. Other inventors who have claimed magnetic-based generators include Frank Richardson (magnet-based electrical generator at the Nevada Test Site), [Thomas Bearden](Thomas_Bearden.md) (Motionless Electromagnetic Generator), and [John Bedini](John_Bedini.md) (electromagnetic energy recovery devices). The theoretical basis for such devices is rejected by mainstream physics, which holds that permanent magnets cannot serve as an energy source in a closed system.
+
+### Alleged Poisoning
+
+The claim that Kazolnikov was poisoned places him in a pattern with other energy inventors who reportedly faced chemical or biological attacks:
+
+- [Stanley Meyer](Stanley_Meyer.md) cried "They poisoned me" before collapsing at a restaurant in 1998
+- [Tom Ogle](Tom_Ogle.md) told his attorney people were drugging his drinks before dying of an overdose ruled suicide
+- Adam Trombly claims multiple poisoning attempts
+- Maxwell Chikumbutso, a Zimbabwean inventor, was allegedly poisoned and hospitalized in 2021
+
+Whether Kazolnikov's alleged poisoning is connected to this pattern or is an unrelated claim cannot be determined from available evidence.
+
+### Spelling Variations
+
+The name "Andrew Kazolnikov" may appear under alternative spellings including Kozolnikov, Kasolnikov, or other transliterations. Searches under all identified variations returned no additional results.
+
+## Why This Case Possibly Raises Questions
+
+- **Alleged poisoning:** If the poisoning claim is accurate, it represents a direct physical attack against an energy inventor — consistent with the broader pattern documented in this project
+- **Technology reportedly lost:** As with many other cases, the device apparently did not survive the inventor's death
+- **Pattern consistency:** The combination of a magnetic energy device and alleged poisoning mirrors elements seen in multiple other cases
+
+## The Counterargument
+
+- No verifiable evidence exists that Andrew Kazolnikov was a real person
+- No device specifications, photographs, patents, or test results have been found
+- No news articles, death records, or official documents have been located
+- The claim appears only in alternative energy community sources with no independent corroboration
+- Magnetic free-energy devices violate the laws of thermodynamics as understood by mainstream physics
+- Without any verifiable documentation, this case cannot be assessed and may be entirely apocryphal
+
+## Note on Sources
+
+Extensive web searches across multiple databases, energy suppression compilations, patent databases, news archives, and academic sources returned no verifiable information about Andrew Kazolnikov. He does not appear in Gary Vesperman's *Energy Invention Suppression Cases* compilation — one of the most comprehensive catalogues of alleged suppression incidents. This profile documents the claim as it circulates in alternative energy communities but cannot confirm any element of the story. All information should be treated as unverified.
+
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who said "They poisoned me" before dying
+- [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who reported being drugged before dying of overdose
+- [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats
+- [Thomas Bearden](Thomas_Bearden.md) — Motionless Electromagnetic Generator inventor
+- [John Bedini](John_Bedini.md) — Electromagnetic energy recovery device inventor who died suddenly
+
+## Other Shocking Stories
+
+- [Bill Williams](Bill_Williams.md): Built a truck running on water. Two men showed him a weapon — he destroyed everything.
+- [Jaymee Prichard](Jaymee_Prichard.md): Wright-Patterson finance specialist strangled to death. Her husband, also AFRL, was convicted.
+- [John Bedini](John_Bedini.md): Free energy pioneer died suddenly in 2016. His electromagnetic recovery devices never reached market.
+- [Rory Johnson](Rory_Johnson.md): Magnatron motor produced 525 HP with no fuel. Fled after DOE grab orders — died mysteriously.
+
+## Sources
+
+- [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm) (Kazolnikov not found in this source, but it documents the broader pattern)
+- [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
+- [History of New Energy Invention Suppression Cases — Rense.com](https://rense.com/general72/oinvent.htm)
+- [A Machine to Die For: The Quest for Free Energy — Top Documentary Films](https://topdocumentaryfilms.com/machine-die-quest-free-energy/)
+
+*This information was built by Grok and Claude AI research.*

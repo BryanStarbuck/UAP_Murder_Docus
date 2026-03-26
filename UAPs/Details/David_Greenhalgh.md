@@ -1,0 +1,67 @@
+
+# David Greenhalgh
+ICL defense division scientist who fell from a railway bridge in Maidenhead with slashed wrists — survived briefly and said he had "no idea how or why" he was there.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | David Greenhalgh |
+| **Born** | c. 1941 |
+| **Died** | April 10, 1987 |
+| **Age at Death** | 46 |
+| **Location of Death** | Maidenhead, Berkshire, England |
+| **Cause of Death** | Fall from 12-meter (40-foot) railway bridge; died days later in hospital |
+| **Official Ruling** | Not formally determined |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Greenhalgh's death is among the most troubling in the Marconi cluster because he survived the initial fall and was able to speak. He told investigators he had "no idea how or why" he had been on the bridge — a statement strongly suggesting he was placed there or brought there against his will. His wrists had been slashed. He died in hospital days after the fall. He had access to classified UK and NATO data at ICL's defense division. He died on the exact same day as fellow defense scientist [Stuart Gooding](Stuart_Gooding.md).
+
+## Circumstances of Death
+
+On April 10, 1987, David Greenhalgh, a 46-year-old defense systems analyst, was found at the base of a 12-meter (approximately 40-foot) railway bridge in Maidenhead, Berkshire, with slashed wrists. He survived the initial fall and was taken to hospital, where he was able to speak to investigators.
+
+Critically, Greenhalgh stated that he had "no idea how or why" he had been on the bridge. He died in hospital several days later from injuries sustained in the fall.
+
+His death occurred on the same day that [Stuart Gooding](Stuart_Gooding.md), a 23-year-old postgraduate researcher at the Royal College of Military Science, was killed in a head-on car collision in Cyprus.
+
+## Background
+
+David Greenhalgh was a 46-year-old systems analyst employed at ICL's (International Computers Limited) defense division in Winnersh, Berkshire. ICL was a major British computer company that held classified defense contracts. Greenhalgh had access to classified UK and NATO data through his work.
+
+His death occurred near the same location where, one week later, [Shani Warren](Shani_Warren.md), an employee of a company recently acquired by GEC-Marconi, would be found murdered.
+
+## Why This Death Possibly Raises Questions
+
+- He survived the fall and explicitly stated he had "no idea how or why" he was on the bridge — strongly suggesting he was taken there against his will or was drugged
+- His wrists were slashed — which could indicate either a staged suicide attempt or an attack
+- He had access to classified UK and NATO data
+- He died on the exact same day as [Stuart Gooding](Stuart_Gooding.md), another defense scientist
+- [Shani Warren](Shani_Warren.md), a GEC-connected employee, was found murdered near the same location one week later
+- The bridge fall method echoes the death of [Vimal Dajibhai](Vimal_Dajibhai.md), who fell from the Clifton Suspension Bridge eight months earlier
+- April 1987 saw four defense scientist deaths — the deadliest single month in the cluster
+
+## See Also
+
+- [David Greenhalgh (Zero Point Energy)](/energy/Details/David_Greenhalgh) — This case also appears in the Zero Point Energy project
+- [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, died same day (April 10, 1987) in Cyprus
+- [Shani Warren](Shani_Warren.md) — GEC employee, found murdered one week later near same location
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi engineer, fell from bridge August 1986
+- [Mark Wisner](Mark_Wisner.md) — MOD software engineer, died April 1987
+
+## Other Shocking Stories
+
+- [Ron Johnson](Ron_Johnson.md): MUFON Deputy Director of Investigations who collapsed and died suddenly during a scientific conference in 1994 under circumstances...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- [The Many Real Life Deaths Surrounding The "Star Wars" Defense Initiative — CrimeReads](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

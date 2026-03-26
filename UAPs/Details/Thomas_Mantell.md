@@ -1,0 +1,70 @@
+
+# Thomas F. Mantell
+Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Thomas Francis Mantell Jr. |
+| **Born** | June 30, 1922 |
+| **Died** | January 7, 1948 |
+| **Age at Death** | 25 |
+| **Location of Death** | Near Franklin, Simpson County, Kentucky |
+| **Cause of Death** | Plane crash (P-51 Mustang) |
+| **Official Ruling** | Accident — oxygen deprivation at high altitude |
+| **Category** | Military Witness / Pilot |
+
+## Assessment: SUSPICIOUS
+
+The first pilot death linked to a UFO pursuit. While the official explanation of oxygen deprivation while chasing a classified Skyhook balloon is plausible, the Air Force's initial cover stories (claiming he chased Venus), conflicting accounts of his final radio transmissions, and the destruction of key evidence have kept this case in dispute for over 75 years.
+
+## Circumstances of Death
+
+On the afternoon of January 7, 1948, the control tower at Godman Army Airfield at Fort Knox, Kentucky, received reports of a large, circular, bright object hovering in the sky. Multiple witnesses on the ground, including the base commander, observed the object through binoculars.
+
+Captain Mantell, leading a flight of four P-51 Mustang fighters, was asked to investigate. Three of the four pilots pursued the object. Two broke off at approximately 22,000 feet due to lack of oxygen equipment. Mantell continued climbing alone.
+
+His last radio transmission, reportedly garbled, has been quoted in various forms. According to some accounts, Mantell said: "It appears to be a metallic object or possibly reflection of Sun from a metallic object, and it is of tremendous size." He reportedly described the object as being above him and moving at approximately half his speed.
+
+Mantell's plane was found crashed on a farm near Franklin, Kentucky. His body was found in the wreckage. The plane's fuselage had broken apart upon impact. His watch had stopped at 3:18 PM.
+
+## Background
+
+Thomas Mantell was a decorated World War II veteran who had received the Distinguished Flying Cross for his service. He was an experienced pilot with the Kentucky Air National Guard's 165th Fighter Squadron. He was 25 years old at the time of the incident.
+
+## Why This Death Possibly Raises Questions
+
+- The Air Force initially attributed the sighting to the planet Venus — a claim later retracted by astronomer J. Allen Hynek himself, who acknowledged Venus would not have been bright enough to see under those conditions
+- The revised explanation — a classified Navy Skyhook balloon — was not offered until 1952, four years after the incident, and no documentation has been found proving a Skyhook launch that day
+- Some accounts of Mantell's final transmissions claim he described seeing people inside the object, though these accounts are disputed
+- Reports that his aircraft burst into flames before impact have circulated but remain unverified
+- The Air Force's shifting explanations (Venus, then Skyhook balloon) eroded public confidence
+- Mantell's death became the first major UFO case to make national headlines and significantly influenced public perception of UFOs as potentially dangerous
+
+## Key Quotes from Media Coverage
+
+> "Questions remain 75 years after mysterious Fort Knox UFO incident, downed pilot." — U.S. Army article, January 2023
+
+> "The first Air Force pilot to die chasing a UFO was actually chasing a secret balloon." — Military.com, presenting the Skyhook explanation
+
+## See Also
+
+- [Edward Ruppelt](Edward_Ruppelt.md) — Director of Project Blue Book, which later investigated the Mantell case
+- [J. Allen Hynek](J_Allen_Hynek.md) — Initially attributed the Mantell sighting to Venus, later retracted
+- [Frederick Valentich](Frederick_Valentich.md) — Another pilot who disappeared while reporting a UFO encounter (1978)
+
+## Other Shocking Stories
+
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+
+## Sources
+
+- [Mantell UFO incident — Wikipedia](https://en.wikipedia.org/wiki/Mantell_UFO_incident)
+- [Questions remain 75 years after mysterious Fort Knox UFO incident — U.S. Army](https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot)
+- [The First Air Force Pilot to Die Chasing a UFO — Military.com](https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html)
+- [What Was Pilot Thomas Mantell Chasing? — The Debrief](https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/)
+- [The Thomas Mantell UFO Incident — HowStuffWorks](https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,61 @@
+
+# Trevor Knight
+Marconi computer engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust — three suicide notes were found.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Trevor Knight |
+| **Born** | c. 1936 |
+| **Died** | March 1988 |
+| **Age at Death** | 52 |
+| **Location of Death** | Near his home, Stanmore/Berkshire, England |
+| **Cause of Death** | Carbon monoxide poisoning (hosepipe from car exhaust) |
+| **Official Ruling** | Suicide |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: SUSPICIOUS
+
+Knight was a senior computer engineer at Marconi Space and Defence Systems who died from carbon monoxide poisoning via a hosepipe connected to his car exhaust. Three suicide notes were found, which could indicate genuine suicidal intent — or could have been coerced or planted. His death was the fifth carbon monoxide poisoning among defense scientists in the cluster, a method that is difficult to distinguish from a staged death.
+
+## Circumstances of Death
+
+In March 1988, Trevor Knight, a 52-year-old Marconi computer engineer, was found dead in his car near his home. A hosepipe had been connected from the exhaust pipe into the car interior. Three suicide notes were found at the scene. The death was ruled a suicide.
+
+The presence of three separate suicide notes is unusual — most genuine suicides leave at most one note, and many leave none.
+
+## Background
+
+Trevor Knight was a 52-year-old senior computer engineer employed at Marconi Space and Defence Systems in the Stanmore/Berkshire area. He worked on classified computing projects related to Marconi's space and defense operations. His work at Marconi placed him within the core of the company that had seen the most concentrated cluster of suspicious deaths.
+
+## Why This Death Possibly Raises Questions
+
+- Carbon monoxide poisoning via car exhaust was the identical method used in at least four other defense scientist deaths: [John Brittan](John_Brittan.md) (January 1987), [David Skeels](David_Skeels.md) (February 1987), [Peter Peapell](Peter_Peapell.md) (February 1987), [Andrew Hall](Andrew_Hall.md) (September 1988)
+- Three suicide notes is an unusual number — most genuine suicides leave one or none; multiple notes could indicate coercion
+- He worked on classified computing projects at the heart of Marconi's defense operations
+- His death continued the cluster pattern well into 1988
+- CO poisoning is one of the easiest methods to stage — an unconscious victim can be placed in a running car
+
+## See Also
+
+- [Trevor Knight (Zero Point Energy)](/energy/Details/Trevor_Knight) — This case also appears in the Zero Point Energy project
+- [John Brittan](John_Brittan.md) — RCMS scientist, CO poisoning January 1987
+- [David Skeels](David_Skeels.md) — Marconi engineer, CO poisoning February 1987
+- [Peter Peapell](Peter_Peapell.md) — RCMS scientist, CO poisoning February 1987
+- [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
+- [Alistair Beckham](Alistair_Beckham.md) — Plessey SDI engineer, electrocuted August 1988
+
+## Other Shocking Stories
+
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+- [Frederick Valentich](Frederick_Valentich.md): Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an...
+- [Jaymee Prichard](Jaymee_Prichard.md): Civilian employee at the USAF Life Cycle Management Center, Wright-Patterson Air Force Base. Victim of murder-suicide by her...
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [GEC-Marconi scientist deaths — Grokipedia](https://grokipedia.com/page/GEC-Marconi_scientist_deaths)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

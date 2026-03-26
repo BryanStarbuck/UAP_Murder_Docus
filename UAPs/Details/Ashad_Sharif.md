@@ -1,0 +1,68 @@
+
+# Ashad Sharif
+26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then driving his car forward, nearly decapitating himself — ruled a suicide despite bizarre circumstances.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ashad (Arshad) Sharif |
+| **Born** | c. 1960 |
+| **Died** | October 28, 1986 |
+| **Age at Death** | 26 |
+| **Location of Death** | Near Bristol, England |
+| **Cause of Death** | Ligature strangulation / near-decapitation — rope tied between neck and tree, then drove car |
+| **Official Ruling** | Suicide |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Sharif's death is one of the most bizarre in the entire Marconi cluster. The method — tying a rope between his neck and a tree, then driving his car to nearly decapitate himself — is an extraordinarily unusual way to commit suicide. He lived over 100 miles from where he died, with no explained reason for his presence near Bristol. A relative who identified the body reported seeing a long metal shaft on the car floor near the accelerator pedal. The death occurred just two months after fellow Marconi scientist [Vimal Dajibhai](Vimal_Dajibhai.md) died in the same Bristol area.
+
+## Circumstances of Death
+
+On October 28, 1986, Ashad Sharif, a 26-year-old computer analyst, was found dead inside his car near Bristol. He had tied one end of a rope around a tree and the other end around his neck, then drove the car forward. The force nearly decapitated him.
+
+The coroner ruled the death a suicide but expressed suspicion about the circumstances. According to *Computer News*, a weekly London publication that first drew attention to the series of scientists' deaths, a relative summoned to identify the body said he saw a long metal shaft lying on the floor of the car near the accelerator pedal — suggesting the accelerator may have been deliberately jammed.
+
+Sharif had reportedly been paying for accommodation with high-denomination banknotes, an unusual detail. He lived more than 100 miles from where he died, and no satisfactory explanation was found for his presence in the Bristol area. He was also reportedly connected to a classified project known as "Cosmos."
+
+## Background
+
+Ashad Sharif was a 26-year-old computer systems analyst employed at Marconi's satellite detection unit. He reportedly worked on satellite guidance systems and may have been connected to a classified project referred to as "Cosmos." His work at Marconi placed him within the same defense computing and electronics cluster that employed numerous other scientists who died under suspicious circumstances during the same period.
+
+Sharif's death, occurring just two months after [Vimal Dajibhai](Vimal_Dajibhai.md) fell from the Clifton Suspension Bridge in the same Bristol area, was a key event in drawing media and parliamentary attention to the emerging pattern of defense scientist deaths.
+
+## Why This Death Possibly Raises Questions
+
+- The method of death — rope tied between neck and tree, then driving — is an extraordinarily unlikely suicide method
+- A long metal shaft was found on the car floor near the accelerator, suggesting the pedal may have been jammed down
+- He lived over 100 miles from where he died, with no explained reason for being near Bristol
+- He was paying for lodging with high-denomination banknotes — unusual behavior
+- His death occurred just two months after fellow Marconi scientist [Vimal Dajibhai](Vimal_Dajibhai.md) died in the same geographic area
+- Even the coroner expressed suspicion about the circumstances
+- He was only 26 years old
+- He worked on classified satellite detection and guidance systems
+
+## See Also
+
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986 in same Bristol area
+- [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987
+- [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, died March 1982
+- [Richard Pugh](Richard_Pugh.md) — MOD computer consultant, died January 1987
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Amy Eskridge](Amy_Eskridge.md): Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who was found dead from...
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+
+## Sources
+
+- [Scientists' Deaths Mystify British — Chicago Tribune, April 1988](https://www.chicagotribune.com/1988/04/17/scientists-deaths-mystify-british/)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Mysterious deaths of British scientists — UPI, April 1987](https://www.upi.com/Archives/1987/04/06/Mysterious-deaths-of-British-scientists/1516544680000/)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

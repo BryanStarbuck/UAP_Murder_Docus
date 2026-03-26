@@ -1,0 +1,100 @@
+
+# Mark McCandlish
+Aerospace illustrator and advanced propulsion researcher who died of a gunshot wound ruled as suicide in 2021, reportedly after offering to testify before the Senate Intelligence Committee about the Alien Reproduction Vehicle (ARV) -- a craft he described as using electrogravitic propulsion.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Mark McCandlish |
+| **Born** | 1955 |
+| **Died** | April 13, 2021 |
+| **Age at Death** | 65 |
+| **Location of Death** | Redding, California, USA |
+| **Cause of Death** | Gunshot wound to the head (9mm SIG Sauer P226) |
+| **Official Ruling** | Suicide |
+| **Category** | Defense Scientist / Energy Researcher |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Mark McCandlish died of a gunshot wound to the right temple, officially ruled a suicide, on April 13, 2021. His death came reportedly after he had offered to provide testimony to the Senate Intelligence Committee regarding the Alien Reproduction Vehicle (ARV) program -- a craft he had spent decades documenting and whose propulsion system he described in detailed technical terms as an electrogravitic device. Less than five months before his death, McCandlish had delivered his most comprehensive technical presentation on the ARV's propulsion system at the Alternative Propulsion Engineering Conference. His associates have widely disputed the suicide ruling.
+
+## Circumstances of Death
+
+On April 13, 2021, Mark McCandlish was found dead at his home in Redding, California, from a single gunshot wound to the right temple from a 9mm SIG Sauer P226 pistol. The death was officially ruled a suicide by local authorities.
+
+According to sources within the disclosure community, McCandlish had reportedly been in contact with the Senate Intelligence Committee and had offered to provide testimony regarding classified aerospace programs, specifically the Alien Reproduction Vehicle (ARV) and its propulsion system. This planned testimony was allegedly connected to the broader Congressional interest in Unidentified Aerial Phenomena (UAP) that was gaining momentum at the time.
+
+## Background
+
+Mark McCandlish was an accomplished aerospace illustrator whose career spanned over three decades, producing detailed conceptual art and technical illustrations for top American defense and aerospace corporations. He became particularly significant in the advanced propulsion research community for his detailed technical analysis of the Alien Reproduction Vehicle (ARV), also known as the "Flux Liner."
+
+### The ARV / Flux Liner Propulsion System
+
+McCandlish's knowledge of the ARV stemmed from accounts provided by a colleague who attended a restricted air show at Norton Air Force Base in 1988, where three craft of different sizes were allegedly displayed in a large hangar. Based on these insider accounts and his own aerospace expertise, McCandlish created detailed technical illustrations of the vehicle and developed a comprehensive theory of its propulsion system.
+
+McCandlish described the ARV's propulsion as a form of **electrogravitics** -- a technology that manipulates gravity through high-voltage electrical fields. Key technical elements he described include:
+
+- A capacitor array arranged in a specific geometric configuration around the craft's hull
+- High-voltage electrical systems that allegedly created an asymmetric gravitational field
+- A propulsion mechanism that did not rely on conventional thrust but instead modified the local gravitational environment
+- Materials and configurations consistent with the Biefeld-Brown effect -- the observation that high-voltage capacitors exhibit a net force toward their positive plate
+
+This propulsion description connects directly to the work of [Thomas Townsend Brown](Thomas_Townsend_Brown.md), who demonstrated the Biefeld-Brown effect in the 1920s-1950s and whose electrogravitics research was allegedly classified by the U.S. military.
+
+### Final Technical Presentation
+
+On November 21, 2020, less than five months before his death, McCandlish delivered his final and most detailed technical presentation on the Flux Liner ARV at the Alternative Propulsion Engineering Conference (APEC). He described specific components, materials, and how they purportedly functioned together to produce an antigravity propulsion effect. This was his most technically detailed public disclosure of the ARV's energy and propulsion systems.
+
+McCandlish was also a witness in Dr. Steven Greer's Disclosure Project, where he provided testimony about advanced aerospace technologies allegedly being developed in classified programs.
+
+## Why This Death Possibly Raises Questions
+
+- Reportedly had offered to testify before the Senate Intelligence Committee about the ARV's electrogravitic propulsion system around the time of his death
+- Had just delivered his most detailed public technical presentation on the ARV propulsion system five months prior
+- Associates have widely disputed the suicide ruling and suggested foul play
+- His death occurred during a period of increasing Congressional interest in UAP technology and advanced propulsion
+- Had decades of detailed knowledge about electrogravitic propulsion -- a technology with profound energy implications if real
+- Pattern of advanced propulsion researchers dying before providing formal testimony or major public disclosures
+- The specific timing -- as Congressional UAP and technology hearings were ramping up -- is considered suspicious by many researchers
+
+## The Counterargument
+
+- McCandlish's knowledge of the ARV was entirely secondhand -- his account was based on a friend's description of an air show at Norton Air Force Base in 1988; McCandlish himself never claimed to have seen the craft or to have had direct classified access
+- The Shasta County Sheriff investigated the death and ruled it a suicide; no specific forensic anomalies have been publicly identified that contradict that ruling
+- McCandlish had discussed personal frustrations and financial difficulties with associates in the period before his death
+- No documented direct threats against McCandlish have been publicly identified; the danger attributed to his situation is largely inferred from the general pattern of advanced propulsion researchers being targeted
+- The claim that he had "offered to testify before the Senate Intelligence Committee" comes primarily from UFO disclosure community sources -- Project Camelot and similar outlets -- rather than from confirmed Senate or government records
+- The electrogravitics propulsion theory he described has not been independently replicated or verified in mainstream physics
+- Many people in the research community have disputed suicide rulings on principle, which makes community consensus about his death less probative
+
+## Key Quotes from Media Coverage
+
+> "I was supposed to testify at the Senate Intelligence Committee about an event I witnessed at Norton Air Force Base... I never got the chance."
+> -- **Mark McCandlish**, describing the ARV disclosure he hoped to make before Congress
+
+> "Mark McCandlish was found dead today of a self-inflicted shotgun wound. He was scheduled to testify before the Senate Intelligence Committee."
+> -- Statement circulated among researchers following his death, April 2021
+
+## See Also
+
+- [Mark McCandlish (UAP profile)](/uaps/Details/Mark_McCandlish) -- Full profile emphasizing the UAP/disclosure angle
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) -- Pioneer of electrogravitics whose Biefeld-Brown effect research underlies the ARV propulsion theory McCandlish described
+- [Bruce DePalma](Bruce_DePalma.md) -- MIT physicist who developed the N-Machine and claimed over-unity effects
+- [Dean Warwick](Dean_Warwick.md) -- Alternative energy researcher who collapsed and died on stage at a conference moments before disclosing information
+- [Floyd Sweet](Floyd_Sweet.md) -- Inventor of the Vacuum Triode Amplifier who received death threats over his energy research
+
+## Other Shocking Stories
+
+- [Tom Ogle](Tom_Ogle.md): 200-MPG inventor told attorney people were drugging his drinks -- died of overdose ruled suicide.
+- [Floyd Sweet](Floyd_Sweet.md): Vacuum Triode Amplifier inventor received death threats -- research materials confiscated day after his death.
+- [Rory Johnson](Rory_Johnson.md): DOE issued "grab order" for his magnetic motor -- died mysteriously after relocating lab.
+- [Wilhelm Reich](Wilhelm_Reich.md): Federal government burned 6 tons of his books -- died in prison one day before parole.
+
+## Sources
+
+- [Mark McCandlish Obituary - Redding Record Searchlight](https://www.legacy.com/us/obituaries/redding/name/mark-mccandlish-obituary?id=55837309)
+- [Alternative Propulsion Engineering Conference - Mark McCandlish](https://www.altpropulsion.com/mark-mccandlish-reverse-engineering-the-flux-liner-arv/)
+- [Medium - The UFO Flux Liner Tragedy](https://medium.com/@ken.korczak/the-ufo-flux-liner-tragedy-716be7047f2f)
+- [Project Camelot - UFO Whistleblower Killed After Offering to Testify](https://projectcamelotportal.com/2021/05/21/ufo-whistleblower-killed-after-offering-to-testify-to-the-senate-intelligence-committee-and-marco-rubio/)
+- [WikiDisc - Mark McCandlish](https://www.wikidisc.org/wiki/Mark_McClandlish)
+
+*This information was built by Grok and Claude AI research.*

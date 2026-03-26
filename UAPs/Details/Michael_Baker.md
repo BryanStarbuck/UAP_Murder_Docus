@@ -1,0 +1,60 @@
+
+# Michael Baker
+22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near his home.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Michael Baker |
+| **Born** | c. 1965 |
+| **Died** | May 3, 1987 |
+| **Age at Death** | 22 |
+| **Location of Death** | Near Poole, Dorset, England |
+| **Cause of Death** | Car crash — vehicle went through a barrier |
+| **Official Ruling** | Misadventure |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: SUSPICIOUS
+
+Baker was a young digital communications expert at Plessey (a defense firm later acquired by Marconi) and a part-time member of the SAS Signals Corps — an unusual dual role combining classified defense electronics work with special forces service. His death in a single-vehicle car crash through a barrier near his home was ruled misadventure. While car crashes are common, the pattern of vehicle deaths among defense scientists during this period ([Keith Bowden](Keith_Bowden.md), [David Sands](David_Sands.md), [Stuart Gooding](Stuart_Gooding.md)) raises questions.
+
+## Circumstances of Death
+
+On May 3, 1987, Michael Baker, a 22-year-old defense communications specialist, was killed when his car crashed through a barrier near his home in the Poole, Dorset area. The death was ruled misadventure. Limited details about the crash circumstances have been publicly reported.
+
+## Background
+
+Michael Baker was a 22-year-old digital communications expert employed by Plessey, a major British defense electronics company. Plessey was later acquired by GEC-Marconi, placing Baker firmly within the same defense industrial cluster. Baker worked on classified digital communications projects for defense applications.
+
+Unusually, Baker was also a part-time member of the SAS (Special Air Service) Signals Corps. The SAS is Britain's premier special forces unit, and its Signals Corps handles highly classified military communications. This dual role gave Baker access to some of the most sensitive defense communications technology and special operations infrastructure in the UK.
+
+## Why This Death Possibly Raises Questions
+
+- His dual role at Plessey and in the SAS Signals Corps gave him access to extremely sensitive classified communications
+- Car crashes were a recurring method in the Marconi death cluster: [Keith Bowden](Keith_Bowden.md) (1982), [David Sands](David_Sands.md) (1987), [Stuart Gooding](Stuart_Gooding.md) (1987)
+- Vehicle sabotage is a well-documented assassination method
+- He was only 22 years old
+- His death occurred during the peak of the GEC-Marconi death cluster
+- Plessey, his employer, was subsequently acquired by GEC-Marconi
+
+## See Also
+
+- [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, car crash March 1987
+- [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, car crash April 1987
+- [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, car crash March 1982
+- [Frank Jennings](Frank_Jennings.md) — Plessey weapons engineer, died June 1987
+
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [Frank Scully](Frank_Scully.md): American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery...
+- [Peter Ferry](Peter_Ferry.md): 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his...
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- [The Many Real Life Deaths Surrounding The "Star Wars" Defense Initiative — CrimeReads](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

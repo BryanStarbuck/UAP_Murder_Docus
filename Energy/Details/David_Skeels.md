@@ -1,0 +1,79 @@
+
+# David Skeels
+43-year-old Marconi avionics engineer found dead from carbon monoxide poisoning in Leicester — one of at least five defense scientists to die by the same method during the GEC-Marconi cluster linked to SDI energy weapons programs.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | David Skeels |
+| **Born** | c. 1944 |
+| **Died** | February 1987 |
+| **Age at Death** | 43 |
+| **Location of Death** | Leicester, England |
+| **Cause of Death** | Carbon monoxide poisoning (hosepipe from car exhaust) |
+| **Official Ruling** | Suicide |
+| **Category** | Defense Scientist |
+
+## Assessment: SUSPICIOUS
+
+Skeels was a Marconi avionics engineer whose death by carbon monoxide poisoning was one of at least five such deaths among defense scientists during the 1986-1988 period. His work on military avionics — radar, navigation, communications, and weapons guidance systems — placed him at the center of the classified electronics and energy-based weapons programs that were central to Britain's SDI contributions. The repetition of this specific method across multiple Marconi-connected scientists is one of the most striking statistical anomalies in the entire death cluster.
+
+## Circumstances of Death
+
+In February 1987, David Skeels, a 43-year-old Marconi engineer, was found dead in his vehicle in Leicester. A hosepipe had been connected from the car's exhaust pipe into the vehicle interior. The cause of death was carbon monoxide poisoning, and the death was ruled a suicide.
+
+His death occurred in the same month as those of [Victor Moore](/uaps/Details/Victor_Moore) and [Peter Peapell](/uaps/Details/Peter_Peapell), making February 1987 one of the deadliest months in the Marconi death cluster.
+
+## Background
+
+David Skeels was a 43-year-old engineer employed by Marconi, working on avionics projects in Leicester. Avionics — aviation electronics — encompassed radar, navigation, communications, and weapons guidance systems for military aircraft. These systems were deeply intertwined with the energy weapons and directed-energy technologies at the heart of the Strategic Defence Initiative.
+
+Marconi's avionics division worked on the electronic systems that would detect, track, and guide energy-based weapons to their targets. This included advanced radar systems, electronic countermeasures, and the computational systems required to coordinate directed-energy weapons platforms. Skeels' work placed him within the defense electronics sector that was central to Britain's contributions to SDI and other classified programs involving advanced energy technologies.
+
+## Why This Death Possibly Raises Questions
+
+- Carbon monoxide poisoning via hosepipe was the identical method used to kill multiple other defense scientists: [John Brittan](John_Brittan.md) (January 1987), [Trevor Knight](Trevor_Knight.md) (March 1988), [Andrew Hall](Andrew_Hall.md) (September 1988), and [Peter Peapell](/uaps/Details/Peter_Peapell) (February 1987)
+- His death occurred during the most concentrated period of the GEC-Marconi death cluster
+- February 1987 alone saw three defense scientist deaths: Skeels, Victor Moore, and Peter Peapell
+- He worked on classified avionics projects at Marconi directly connected to SDI energy weapons systems
+- The statistical probability of this many carbon monoxide suicides among a small population of defense workers is extremely low
+- CO poisoning is one of the easiest death methods to stage — a drugged or unconscious victim can be placed in a running car with a hosepipe
+
+## The Counterargument
+
+- Carbon monoxide poisoning via car exhaust was a relatively common suicide method in 1980s Britain
+- Depression and suicidal ideation are not always visible to colleagues or family members
+- The defense electronics sector employed many thousands of people, and some suicides would be statistically expected
+- No direct evidence links any specific party to his death
+- No family statements disputing the ruling have been publicly documented
+- The statistical analysis of the death cluster has been debated, with some analysts arguing the baseline population was larger than commonly cited
+
+## Key Quotes from Media Coverage
+
+> "The Marconi mystery deepened as yet another defense worker was found dead... the same method used in several previous cases."
+> — According to *The Unredacted*, "Dead Scientists: The Marconi Murders"
+
+## See Also
+
+- [John Brittan](John_Brittan.md) — RCMS scientist, CO poisoning January 1987
+- [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, CO poisoning March 1988
+- [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
+- [Keith Bowden](Keith_Bowden.md) — Marconi supercomputer expert, car crash 1982
+- [Alistair Beckham](Alistair_Beckham.md) — Plessey SDI engineer, electrocuted August 1988
+- [UAP Profile: David Skeels](/uaps/Details/David_Skeels) — UAP-focused version of this profile
+
+## Other Shocking Stories
+
+- [Alistair Beckham](Alistair_Beckham.md): Found electrocuted with wires on chest, handkerchief in mouth — wife denied depression.
+- [Stanley Meyer](Stanley_Meyer.md): Inventor of water fuel cell collapsed at dinner with investors — last words: "They poisoned me."
+- [Arshad Sharif](Arshad_Sharif.md): Tied rope to neck and tree, drove off at speed — died near where colleague Dajibhai died.
+- [Keith Bowden](Keith_Bowden.md): Marconi supercomputer expert's car plunged off bridge — tires had been swapped with worn ones.
+
+## Sources
+
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [GEC-Marconi scientist deaths — Grokipedia](https://grokipedia.com/page/GEC-Marconi_scientist_deaths)
+- [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*
