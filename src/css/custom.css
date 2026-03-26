@@ -34,12 +34,38 @@ aside.theme-doc-sidebar-container {
   display: none !important;
 }
 
-/* Let the main content expand to full width */
+/* Let the main content expand to full width minus right sidebar */
 .theme-doc-sidebar-container + main {
   --doc-sidebar-width: 0px !important;
 }
 
-main > .container > .row > .col {
-  max-width: 100% !important;
-  flex: 1 !important;
+/* Two-column layout: main content + people sidebar */
+main > .container > .row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+}
+
+/* Main content column takes remaining space */
+main > .container > .row > div[class*="docItemCol"] {
+  max-width: none !important;
+  flex: 1 1 0% !important;
+  min-width: 0 !important;
+}
+
+/* People sidebar column (right side) */
+main > .container > .row > .col.col--3 {
+  flex: 0 0 300px !important;
+  max-width: 300px !important;
+  width: 300px !important;
+}
+
+/* Hide people sidebar on smaller screens */
+@media (max-width: 996px) {
+  main > .container > .row > .col.col--3 {
+    display: none !important;
+  }
+  main > .container > .row > div[class*="docItemCol"] {
+    max-width: 100% !important;
+    flex: 1 !important;
+  }
 }
