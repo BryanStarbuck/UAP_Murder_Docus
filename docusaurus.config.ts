@@ -6,7 +6,7 @@ const siteUrl = process.env.DOCUSAURUS_URL || "https://uapmurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL || "/";
 
 const config: Config = {
-  title: "UAP Murder Docus",
+  title: "Murdering UAP Experts",
   tagline: "",
   favicon: "img/favicon.ico",
 
@@ -73,7 +73,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "UAP Murder Docus",
+      title: "Murdering UAP Experts",
       logo: {
         alt: "Site Logo",
         src: "img/logo.svg",
