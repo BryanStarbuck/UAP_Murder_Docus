@@ -93,6 +93,9 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | [James McDonald](Details/James_McDonald.md) | Atmospheric Physicist | Papers, congressional testimony | **STRONG EVIDENCE** | Most prominent scientific advocate for serious UFO investigation in the 1960s. Testified before Congress. Career systematically destroyed after congressional ridicule. Died 1971, ruled suicide after failed attempt left him blind. |
 | [Viktor Schauberger](Details/Viktor_Schauberger.md) | Naturalist / Inventor | Experiments, patents | **MODERATE EVIDENCE** | Developed implosion/vortex energy technology and alleged antigravity "Repulsine" disc. Pressured into signing away all rights to his technology in the US. Died five days after returning to Austria in 1958, reportedly saying "They took everything from me." |
 | [T. Henry Moray](Details/T_Henry_Moray.md) | Inventor / Researcher | Demonstrations, US Patent 2,460,707 | **MODERATE EVIDENCE** | Built Radiant Energy Device claiming 50,000W output from cosmic/vacuum energy. Lab repeatedly vandalized, family shot at, device destroyed by government liaison. 17-year patent battle. Anticipated modern zero-point energy concepts by decades. |
+| [J. Allen Hynek](Details/J_Allen_Hynek.md) | Astronomer / Astrophysicist | Project Blue Book, CUFOS, books | **STRONG EVIDENCE** | Scientific advisor to Projects Sign, Grudge, and Blue Book (1948-1969). Founded Center for UFO Studies. Coined "close encounter" classification system still used today. Evolved from debunker to premier scientific UFO advocate. Brain tumor, 1986. |
+| [Edward Ruppelt](Details/Edward_Ruppelt.md) | USAF Officer / Aeronautical Engineer | Project Blue Book, book | **MODERATE EVIDENCE** | First director of Project Blue Book. Coined the term "UFO." Authored sympathetic insider account, then added contradictory chapters believed written under government pressure. Heart attack at 37 in 1960. |
+| [John Bedini](Details/John_Bedini.md) | Inventor / Electronics Engineer | Demonstrations, patents | **SPECULATIVE** | Developed the Bedini Motor claiming overunity energy output via "radiant energy" battery charging. Collaborated with Tom Bearden on scalar electromagnetics. Died November 2016 on the same day as his brother Gary, four hours apart — both deaths sudden and unexpected. |
 | [Don Elkins](Details/Don_Elkins.md) | Physics Professor / Engineer | Books, research | **SPECULATIVE** | Physics professor at University of Louisville. His Ra Material contains detailed claims about dimensional physics, spacetime manipulation for propulsion, and consciousness as a physical force. Connected to Dewey Larson's Reciprocal System theory. |
 | [Fred Bell](Details/Fred_Bell.md) | Nuclear Physicist / Inventor | Lectures, Disclosure Project | **SPECULATIVE** | Claimed work on magnetic disintegration (Philadelphia Experiment), high-temperature fusion, and directed energy weapons. Mentored by Operation Paperclip scientist. Testified about beam weapons through the Disclosure Project. |
 | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | Aerospace Materials Scientist | Patents, publications | **EMERGING** | Co-inventor of Mondaloy nickel superalloy critical to US rocket engines. Technical Fellow at Aerojet Rocketdyne. Her exotic alloy expertise is directly relevant to analyzing UAP metamaterials. Vanished without trace in 2025. |
@@ -106,6 +109,8 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | [John Mack](Details/John_Mack.md) | Psychiatrist / Researcher | Harvard, books | **MODERATE EVIDENCE** | Pulitzer Prize-winning Harvard psychiatrist. Investigated 200+ alien abduction cases, finding consistent cross-cultural patterns and descriptions of advanced technology. Survived unprecedented Harvard inquiry. Struck and killed by drunk driver in London, 2004. |
 | [Karla Turner](Details/Karla_Turner.md) | PhD Researcher / Author | Books, lectures | **SUSPICIOUS** | Documented alien abduction experiences including descriptions of advanced technology, virtual reality environments, and interdimensional phenomena. Explicitly threatened for her research. Developed fast-acting cancer and died at 48 in 1996. |
 | [Frank Edwards](Details/Frank_Edwards.md) | Author / Radio Broadcaster | Books, radio | **SUSPICIOUS** | Author of "Flying Saucers: Serious Business." Prominent UFO advocate fired from radio for discussing UFOs. Died of heart attack the night before the World UFO Conference in 1967. Researcher Gray Barker reported receiving threats that Edwards would not survive to attend. |
+| [John Murphy](Details/John_Murphy.md) | Radio Journalist | WHJB, documentary | **SUSPICIOUS** | First reporter at the 1965 Kecksburg UFO crash. Created documentary "Object in the Woods" — censored after government agents confiscated tapes. Killed in unsolved hit-and-run near Ventura, CA, February 1969. Driver never identified. |
+| [Jim Keith](Details/Jim_Keith.md) | Author / Researcher | Books | **SUSPICIOUS** | Investigated classified technology, mind control, and UFO-government connections. Co-authored "The Octopus" using [Danny Casolaro's](Details/Danny_Casolaro.md) research. Died of blood clot during knee surgery after Burning Man, 1999. Told friends "if they put me under, I'm not coming back." |
 
 ### Government & Intelligence Insiders (Deceased)
 
@@ -113,6 +118,7 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 |------|------|----------|-----------------|---------|
 | [James Forrestal](Details/James_Forrestal.md) | First Secretary of Defense | Government | **SUSPICIOUS** | First US Secretary of Defense (1947-1949). Allegedly connected to MJ-12 UAP recovery committee. Fell from 16th floor window at Bethesda Naval Hospital, May 1949. Investigation classified for 55 years; Willcutts Review Board notably did not conclude suicide. |
 | [William Colby](Details/William_Colby.md) | Former CIA Director | Government | **SUSPICIOUS** | CIA Director 1973-1976. Steven Greer alleges Colby was about to transfer classified extraterrestrial technology knowledge. Drowned after canoe trip, April 1996. Dinner left uneaten, canoe on sandbar. Many associates did not believe the official account. |
+| [William Cooper](Details/William_Cooper.md) | Former Navy Intelligence | Books, radio (*Hour of the Time*) | **DEBATED** | Author of *Behold a Pale Horse* (1991). Claimed to have seen classified Navy documents on extraterrestrial craft and antigravity technology. Shot and killed by sheriff's deputies at his Arizona home, November 2001. Notably predicted a major attack blamed on bin Laden 11 weeks before 9/11. |
 
 ### UAP Physics Researchers (Recent Deaths)
 
@@ -121,6 +127,8 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | [Nuno Loureiro](Details/Nuno_Loureiro.md) | Plasma Physicist | MIT, papers | **EMERGING** | Director of MIT Plasma Science and Fusion Center. Shot at his home in Brookline, MA, December 2025. Killer was a former classmate who later died by suicide. Rep. Tim Burchett cited this as part of a concerning pattern of scientist deaths. |
 | [Karl Wolfe](Details/Karl_Wolfe.md) | Former USAF Sergeant | Disclosure Project testimony | **SUSPICIOUS** | Testified at 2001 National Press Club Disclosure Project that he saw NASA photos showing artificial structures on the far side of the Moon while working at a classified facility at Langley AFB. Struck and killed by tractor-trailer while cycling, October 2018. |
 | [Ron Johnson](Details/Ron_Johnson.md) | MUFON Deputy Director | Research, NATO meetings | **SUSPICIOUS** | Commissioned by Institute of Advanced Studies to work on UFO propulsion. Attended secret NATO meetings on extraterrestrial communication. Collapsed at Society of Scientific Exploration meeting, June 1994, age 43. Face turned purple, blood from nose. Autopsy inconclusive. |
+| [Todd Sees](Details/Todd_Sees.md) | Civilian | UFO encounter | **SUSPICIOUS** | Found dead on Montour Ridge, PA, August 2002. Body emaciated and white (not bloated) after only two days missing. Expression of horror, wearing only underwear. Official cause "cocaine toxicity" disputed by family. Multiple UFO sightings reported in the area at the time. |
+| [Thomas Mantell](Details/Thomas_Mantell.md) | Kentucky ANG Pilot | UFO pursuit | **MODERATE EVIDENCE** | First military pilot killed during a UFO encounter. P-51 Mustang crashed January 7, 1948, while pursuing an unidentified object near Fort Knox. WWII D-Day veteran with Distinguished Flying Cross. Air Force first blamed Venus, then a Skyhook balloon — neither explanation fully satisfies witnesses. |
 
 ### Confirmed Government Targeting
 
@@ -253,6 +261,14 @@ Based on the convergence of congressional testimony, insider statements, books, 
 - [Ron Rummel](Details/Ron_Rummel.md) — Air Force intel, Alien Digest, shot 1993
 - [Paul Bennewitz](Details/Paul_Bennewitz.md) — Confirmed government psychological warfare victim
 - [GEC-Marconi Scientists](Details/GEC_Marconi_Scientists.md) — 25+ UK defense scientists, SDI/directed energy, 1982-1990
+- [Thomas Mantell](Details/Thomas_Mantell.md) — First military pilot killed pursuing UFO, 1948
+- [J. Allen Hynek](Details/J_Allen_Hynek.md) — Project Blue Book advisor, coined "close encounter," brain tumor 1986
+- [William Cooper](Details/William_Cooper.md) — "Behold a Pale Horse," Navy UFO claims, shot by police 2001
+- [Edward Ruppelt](Details/Edward_Ruppelt.md) — First Blue Book director, coined "UFO," heart attack at 37, 1960
+- [John Bedini](Details/John_Bedini.md) — Free energy motor inventor, died same day as brother, 2016
+- [Todd Sees](Details/Todd_Sees.md) — Found dead near UFO hotspot, emaciated body, 2002
+- [John Murphy](Details/John_Murphy.md) — Kecksburg UFO journalist, documentary censored, hit-and-run 1969
+- [Jim Keith](Details/Jim_Keith.md) — "The Octopus" co-author, blood clot during surgery, 1999
 
 ### Key Overlapping Profiles
 People who appear in both this project and sibling directories:
@@ -328,11 +344,11 @@ People who appear in both this project and sibling directories:
 
 ---
 
-*Last Updated: 2026-03-27 — Added 17 new profiles: James Forrestal, James McDonald, Viktor Schauberger, Karl Wolfe, Ron Johnson, Dorothy Kilgallen, John Mack, Karla Turner, T. Henry Moray, Danny Casolaro, Max Spiers, William Colby, Frank Edwards, Nuno Loureiro, Ron Rummel, Paul Bennewitz, GEC-Marconi Scientists (group). Added new sections: Journalists & Investigators, Government & Intelligence Insiders, UAP Physics Researchers (Recent Deaths), Confirmed Government Targeting, Defense Scientist Clusters. Expanded suspicious deaths table from 18 to 35+.*
+*Last Updated: 2026-03-27 — Added 25 new profiles: James Forrestal, James McDonald, Viktor Schauberger, Karl Wolfe, Ron Johnson, Dorothy Kilgallen, John Mack, Karla Turner, T. Henry Moray, Danny Casolaro, Max Spiers, William Colby, Frank Edwards, Nuno Loureiro, Ron Rummel, Paul Bennewitz, GEC-Marconi Scientists (group), Thomas Mantell, J. Allen Hynek, William Cooper, Edward Ruppelt, John Bedini, Todd Sees, John Murphy, Jim Keith. Added new sections: Journalists & Investigators, Government & Intelligence Insiders, UAP Physics Researchers (Recent Deaths), Confirmed Government Targeting, Defense Scientist Clusters. Expanded suspicious deaths table from 18 to 42.*
 
 ---
 
-## Suspicious or Disputed Deaths in This Investigation: 35+
+## Suspicious or Disputed Deaths in This Investigation: 40+
 
 | # | Name | Circumstances | Suspicion Level |
 |---|------|--------------|-----------------|
@@ -371,3 +387,10 @@ People who appear in both this project and sibling directories:
 | 33 | [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | Electrogravitics pioneer died Oct 1985; cross-referenced to UAP Deaths investigation for suspicious circumstances | **LIGHTLY SUSPICIOUS** |
 | 34 | [Arie DeGeus](Details/Arie_DeGeus.md) | Zero-point energy battery inventor died at 45 en route to European investor meeting; mirrors pattern of inventors dying at commercialization junctures | **SUSPICIOUS** |
 | 35 | [John Mack](Details/John_Mack.md) | Pulitzer Prize-winning Harvard psychiatrist studying abduction phenomena; struck by drunk driver in London, Sept 2004; most credible mainstream academic voice on the topic | **LIGHTLY SUSPICIOUS** |
+| 36 | [Thomas Mantell](Details/Thomas_Mantell.md) | First military pilot killed pursuing UFO; P-51 crashed Jan 1948 near Fort Knox; WWII D-Day veteran; Air Force explanations (Venus, then Skyhook balloon) never fully satisfied witnesses | **SUSPICIOUS** |
+| 37 | [John Murphy](Details/John_Murphy.md) | Kecksburg UFO journalist; documentary censored after government agents confiscated tapes; killed in unsolved hit-and-run, Feb 1969; driver never identified | **SUSPICIOUS** |
+| 38 | [Jim Keith](Details/Jim_Keith.md) | Investigated classified tech and "the Octopus" (same investigation that got [Danny Casolaro](Details/Danny_Casolaro.md) killed); fatal blood clot during knee surgery 1999; told friends "if they put me under, I'm not coming back" | **SUSPICIOUS** |
+| 39 | [William Cooper](Details/William_Cooper.md) | Navy intel, *Behold a Pale Horse* author; claimed access to UFO/antigravity documents; shot by police at his home Nov 2001; predicted 9/11 attack 11 weeks before it happened | **DEBATED** |
+| 40 | [Todd Sees](Details/Todd_Sees.md) | Found dead on Montour Ridge UFO hotspot, Aug 2002; emaciated/white body after 2 days missing; expression of horror; "cocaine toxicity" disputed by family; UFO sightings reported at the time | **SUSPICIOUS** |
+| 41 | [John Bedini](Details/John_Bedini.md) | Free energy/overunity motor inventor; died Nov 2016 same day as his brother Gary, four hours apart; both deaths sudden and unexpected | **SUSPICIOUS** |
+| 42 | [Edward Ruppelt](Details/Edward_Ruppelt.md) | First Project Blue Book director; added debunking chapters contradicting his pro-UFO book, believed under government pressure; heart attack at 37 in 1960 | **LIGHTLY SUSPICIOUS** |
