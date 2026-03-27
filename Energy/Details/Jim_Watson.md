@@ -1,0 +1,71 @@
+# Jim Watson
+
+Inventor who demonstrated an 8-kilowatt overunity motor at the 1984 International Tesla Conference, then vanished along with his entire family. Never seen again.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jim Watson |
+| **Status** | MISSING since ~1984-1985 |
+| **Last Known Location** | Colorado (demonstrated at International Tesla Conference in Colorado Springs) |
+| **Category** | Energy Inventor |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Jim Watson publicly demonstrated a near-production-ready overunity motor at the 1984 International Tesla Conference in Colorado Springs, witnessed by John Bedini, Tom Bearden, and other researchers. The device — an 8-kilowatt battery-powered motor with an 800-pound flywheel — self-charged its batteries while producing mechanical work. Shortly after the demonstration, Watson, his wife, and his children vanished completely. Neither Bedini, Bearden, nor his financial backer R.J. Reynolds III were able to locate him or his family. He was never seen at an energy conference again.
+
+## Circumstances of Disappearance
+
+After the 1984 demonstration, Watson was in communication with John Bedini and Tom Bearden about refining and potentially manufacturing the device. He then went silent. All attempts to contact him failed. His entire family disappeared simultaneously.
+
+No missing persons reports, obituaries, or other public records have been located. The family simply ceased to exist in the public record. Neither law enforcement investigations nor independent searches by his associates produced any results.
+
+## Background
+
+Jim Watson built an overunity motor based on principles related to the work of John Bedini and Tom Bearden. The device used an 800-pound flywheel driven by a battery-powered motor. During operation, the motor allegedly charged its own batteries while simultaneously producing mechanical work — a violation of conventional thermodynamics that, if real, represented a breakthrough energy source.
+
+The demonstration at the 1984 International Tesla Conference in Colorado Springs was attended by multiple credible witnesses from the alternative energy community. The device was described as near production-ready — not a laboratory curiosity but a practical machine.
+
+Watson was reportedly backed financially by R.J. Reynolds III, heir to the Reynolds tobacco fortune, giving the project significant resources for commercialization.
+
+## Why This Disappearance Raises Questions
+
+- Demonstrated a working overunity device publicly at a major conference
+- The device was near production-ready — representing an imminent commercial threat to conventional energy
+- He and his entire family vanished simultaneously — suggesting coordinated action rather than an individual decision
+- No missing persons reports or death records have been found
+- His financial backer (R.J. Reynolds III) could not locate him
+- John Bedini and Tom Bearden — two of the most connected researchers in the alternative energy community — could not find any trace
+- The complete disappearance of an entire family is extremely unusual
+- The pattern of inventor-demonstrates-then-vanishes is documented repeatedly in this project
+
+## The Counterargument
+
+- Watson may have chosen to disappear voluntarily after receiving threats
+- The device may not have worked as demonstrated, and Watson may have disappeared to avoid exposure
+- Very few details about Watson are verifiable through mainstream sources
+- The demonstration is primarily documented through the accounts of Bedini and Bearden, both advocates for overunity technology
+- People do sometimes choose to leave their former lives entirely
+- Without a body or confirmed death, this could be voluntary relocation rather than foul play
+
+## See Also
+
+- [John Bedini](John_Bedini.md) — Witnessed Watson's demonstration, later died suddenly
+- [Thomas Bearden](Thomas_Bearden.md) — Collaborated with Watson, documented the demonstration
+- [Rory Johnson](Rory_Johnson.md) — Another energy inventor who disappeared after demonstrating a working device
+- [Dimitri Petronov](Dimitri_Petronov.md) — Plasma battery inventor who vanished from a Moscow coffee shop
+
+## Other Shocking Stories
+
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian plasma battery inventor vanished from a Moscow coffee shop weeks after demonstrating to generals. $500K reward offered.
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Rory Johnson](Rory_Johnson.md): Inventor of a magnetic motor died under suspicious circumstances. His prototype and all documentation vanished overnight.
+- [Ning Li](Ning_Li.md): Pioneering antigravity physicist received $448K DoD grant, then vanished completely — no publications, no trace.
+
+## Sources
+
+- [eMediaPress — The Watson Machine](https://emediapress.com/2014/10/21/watson-machine/)
+- John Bedini and Tom Bearden, *Free Energy Generation*, 2005
+- Tom Bearden's writings on the Watson demonstration
+- [Energetic Forum — Watson Machine Discussion](https://www.energeticforum.com/)
+
+*This information was built by Grok and Claude AI research.*

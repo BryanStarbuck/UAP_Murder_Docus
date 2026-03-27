@@ -1,0 +1,83 @@
+# Andrii Slobodian
+Ukrainian inventor of the MG10 perpetual magnet generator. Died of carbon monoxide poisoning in a small apartment fire in Seoul, South Korea, on August 21, 2020. He was the founder of Infinity SAV, a Korean company developing magnetic motor generators claiming 10 kW output with no conventional energy input. The company ceased operations after his death.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Andrii Slobodian |
+| **Born** | Unknown (Ukrainian national) |
+| **Died** | August 21, 2020 |
+| **Age at Death** | Unknown |
+| **Location of Death** | Seoul, South Korea |
+| **Cause of Death** | Carbon monoxide poisoning / smoke inhalation |
+| **Official Ruling** | Accidental — air conditioning unit fire |
+| **Category** | Energy Inventor |
+
+## Assessment: SUSPICIOUS
+
+A magnetic motor inventor dying of carbon monoxide poisoning in a small apartment fire follows a documented pattern of CO deaths among energy inventors. [Lester Hendershot](Lester_Hendershot.md) and his son both died of CO poisoning in their cars. [Morris Jessup](Morris_Jessup.md) died of CO in his car. The fire was attributed to an air conditioning malfunction. Slobodian's company, Infinity SAV, held multiple patents for magnetic motor generators and had been publicly demonstrating devices. The company ceased all operations after his death.
+
+## Circumstances of Death
+
+On August 21, 2020, a fire broke out in Andrii Slobodian's small apartment in Seoul, South Korea. The fire was attributed to a malfunctioning air conditioning unit. Police determined the cause of death was carbon monoxide poisoning and smoke gas inhalation.
+
+Slobodian's apartment was small enough that the AC fire would have rapidly filled the space with toxic fumes. The circumstances were officially classified as accidental.
+
+After his death, some members of the alternative energy community speculated that Slobodian may have faked his death and fled to Australia, where Graph Energy Australia had allegedly invited him to continue his work. This theory is unsubstantiated.
+
+## Background
+
+Andrii Slobodian was a Ukrainian inventor who founded **Infinity SAV**, a South Korea-based company focused on developing magnetic motor generators. The company claimed to have developed the **MG10** — a perpetual magnet generator producing 10 kilowatts of electrical output with no conventional energy input.
+
+### Technology
+
+The MG10 was a magnetic motor generator that used permanent magnets arranged in a specific configuration to allegedly produce continuous rotation and electrical output without fuel or external power:
+
+- **Claimed output:** 10 kW continuous electrical power
+- **Input:** None claimed — permanent magnet arrangement allegedly sustained rotation
+- **Multiple patents** filed through Infinity SAV for magnetic motor generator designs
+- The device was publicly demonstrated at trade shows and in promotional videos
+- Independent verification of the over-unity claims was never completed
+
+Infinity SAV had been attracting international attention and investment interest at the time of Slobodian's death.
+
+## Why This Death Possibly Raises Questions
+
+- Carbon monoxide death of an energy inventor follows a documented pattern in this project
+- Slobodian was the sole technical leader of Infinity SAV — his death ended the company
+- The timing coincided with growing international interest in the MG10
+- The AC unit malfunction as a cause has not been independently investigated
+- Infinity SAV ceased all operations after his death — the technology died with him
+- No associate or successor has continued the work
+- The CO poisoning pattern among energy inventors includes multiple cases spanning decades
+
+## The Counterargument
+
+- Air conditioning fires do occur, and CO poisoning from apartment fires is a common cause of death
+- Slobodian's MG10 was never independently verified — it may not have worked
+- Over-unity magnetic motors violate thermodynamic principles as currently understood
+- Some skeptics considered Infinity SAV a fraudulent operation designed to attract investors
+- The "faked death" theory circulating online undermines the murder theory
+- No specific threat or suppression was documented before his death
+- South Korea does not have a known pattern of targeting energy inventors
+
+## See Also
+
+- [Lester Hendershot](Lester_Hendershot.md) — Fuelless motor inventor. Found dead of CO poisoning in car. Son died identically 10 years earlier.
+- [Troy Reed](Troy_Reed.md) — Permanent magnet motor inventor. Died under poorly documented circumstances. Technology never reproduced.
+- [Rory Johnson](Rory_Johnson.md) — Magnetic motor inventor. DOE gag order. Died mysteriously after relocating.
+
+## Other Shocking Stories
+
+- [Wilhelm Reich](Wilhelm_Reich.md): FDA burned 6 tons of his books — the only federal book burning in U.S. history. Died in prison one day before parole.
+- [Frank Roberts](Frank_Roberts.md): Water car inventor suffered chemically induced stroke causing permanent memory loss — last reported in nursing home.
+- [Royal Rife](Royal_Rife.md): AMA destroyed his lab equipment, bankrupted him, and imprisoned his partner — all for an electromagnetic healing device.
+- [Viktor Schauberger](Viktor_Schauberger.md): Forced to sign away all rights to his technology. Died 5 days later.
+
+## Sources
+
+- [GAIA Energy — Rest in Peace, Andrii](https://gaia-energy.org/infinitysav-rip-andrii/)
+- [PatentGuru — Slobodian Andrii Patents](https://www.patentguru.com/inventor/slobodian-andrii)
+- [Electrogravity Physics — Infinity SAV](https://electrogravityphysics.com/infinity-sav-free-energy-device/)
+- [YTScribe — Slobodian's Free Energy Infinity Generator and His Mysterious Death](https://ytscribe.com/v/sL7MiRxoobA)
+
+*This information was built by Grok and Claude AI research.*

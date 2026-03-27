@@ -9,11 +9,11 @@ Australian inventor who co-developed the Lutec 1000 over-unity electromagnetic d
 | **Died** | 2017 (reportedly) |
 | **Age at Death** | Unknown |
 | **Location of Death** | Australia (Cairns area, Queensland, reportedly) |
-| **Cause of Death** | Unknown — social media sources state he "vanished then died" |
-| **Official Ruling** | Unknown |
+| **Cause of Death** | Unknown — social media sources state Parkinson's complications; other X posts state he "vanished then died" |
+| **Official Ruling** | Unknown — one X account attributes death to Parkinson's disease |
 | **Category** | Energy Inventor |
 
-## Assessment: UNCERTAIN
+## Assessment: SPECULATIVE
 
 Very little verifiable mainstream documentation exists about John Christie's death or the circumstances surrounding it. The primary sources for claims about his death are alternative energy community forums and social media posts on platforms such as X (formerly Twitter). While the Lutec 1000 device received some media attention in Australia during the early 2000s, the specifics of Christie's reported disappearance and subsequent death in 2017 have not been confirmed through mainstream news outlets, court records, or official inquiries accessible at the time of this writing.
 
@@ -24,6 +24,8 @@ According to posts circulating on X and in alternative energy forums, John Chris
 Social media posts referencing Christie's death typically appear in the context of lists of suppressed energy inventors who allegedly died under suspicious circumstances. One widely circulated post states: "Lutec 1000 (Australia): 5x excess energy device; Lou Britz died mysteriously; John Christie vanished then died 2017." Beyond this and similar brief references, detailed accounts of what happened to Christie have not been located.
 
 The gap between Lou Britz's death and Christie's reported disappearance and death is not well established in available sources.
+
+One X account states Christie died of Parkinson's disease complications in 2017. If accurate, this would provide a natural cause of death, though it does not explain the period during which he reportedly "vanished" from public view. The Parkinson's attribution and the "vanished then died" narrative are not necessarily contradictory — he may have withdrawn from public life due to illness.
 
 ## Background
 

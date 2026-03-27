@@ -1,0 +1,69 @@
+# Michael Zebuhr
+
+Graduate student researching directed energy technology shot execution-style during a "street robbery" — after which his research advisor received a threatening email: "We've done it before and we will do it again."
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Michael Zebuhr |
+| **Born** | c. 1981 |
+| **Died** | March 18, 2006 |
+| **Age at Death** | 25 |
+| **Location of Death** | Minneapolis, Minnesota |
+| **Cause of Death** | Gunshot wound to the head |
+| **Official Ruling** | Homicide (street robbery) |
+| **Category** | Energy Researcher |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Michael Zebuhr was a 25-year-old Clemson University doctoral student conducting experiments with professor Judy Wood on directed energy weapons and their applications. He was shot in the head during an alleged street robbery in Minneapolis. The robbers demanded his mother's purse, received it, but then shot Zebuhr anyway — execution-style. After his murder, Professor Wood received a threatening email: "We've done it before and we will do it again if need be." The suspects were initially released.
+
+## Circumstances of Death
+
+On the evening of March 18, 2006, Zebuhr was leaving the Uptown Cafe in Minneapolis with his mother, sister, and sister's boyfriend. Two men approached and demanded his mother's purse. She handed it over. Despite having gotten what they demanded, one of the men shot Zebuhr in the head. He died at the scene.
+
+The shooting was classified as a robbery-homicide. Two suspects were identified but were initially released. The case eventually led to convictions, but the circumstances — particularly the unnecessary killing after the purse was surrendered — raised questions about whether the "robbery" was a cover for a targeted killing.
+
+## Background
+
+Zebuhr was a bioengineering doctoral student at Clemson University. He was working with Professor Judy Wood on experiments involving directed energy — specifically, research into how directed energy weapons could have been used in the destruction of the World Trade Center on 9/11. Their research was examining the physics of directed energy effects on materials, including steel and concrete.
+
+While Wood's WTC theories are controversial, the directed energy research itself had implications for energy technology — understanding how to focus and deliver energy with precision has applications in both weapons and power generation.
+
+## Why This Death Possibly Raises Questions
+
+- Shot execution-style during a "robbery" where the robbers already had what they demanded
+- The unnecessary killing suggests the robbery may have been a cover for a targeted hit
+- His research advisor received a threatening email after his death: "We've done it before and we will do it again"
+- He was 25 years old and conducting active research on directed energy technology
+- The suspects were initially released — unusual for a murder case with identified suspects
+- The threatening email explicitly referenced prior killings ("done it before") and threatened future ones
+- Directed energy research has both weapons and energy applications, both of which are highly classified areas
+- The killing occurred during an active research program that was producing results
+
+## The Counterargument
+
+- Robbery-homicides do happen, and shootings during robberies are tragically common in Minneapolis
+- The suspects were eventually convicted, supporting the robbery narrative
+- Zebuhr's directed energy research was related to 9/11 theories, not energy technology per se
+- The threatening email could have been sent by anyone, including someone unconnected to the murder
+- Professor Wood's WTC theories are widely rejected by mainstream engineers and scientists
+- The "unnecessary" shooting could reflect panic, drugs, or simply violent criminal behavior
+
+## See Also
+
+- [James Allen](James_Allen.md) — Documentary filmmaker who died while making a film about zero-point energy technology
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Karen Silkwood](Karen_Silkwood.md): Nuclear whistleblower forced off the road while driving to meet a New York Times reporter. Her documents vanished.
+- [Phil Schneider](Phil_Schneider.md): Found dead with piano wire wrapped around his neck, ruled suicide — despite missing fingers making self-strangulation virtually impossible.
+- [Dean Warwick](Dean_Warwick.md): Collapsed dead on stage mid-sentence at a UFO conference, moments before revealing who killed JFK.
+
+## Sources
+
+- [Wikispooks — Michael Zebuhr](https://wikispooks.com/wiki/Michael_Zebuhr)
+- [Michael Zebuhr Memorial Blog](http://michaelzebuhr.blogspot.com/2006/09/case-of-michael-zebuhrs-murder-intro.html)
+- Minneapolis Star Tribune coverage of the robbery-homicide, 2006
+
+*This information was built by Grok and Claude AI research.*

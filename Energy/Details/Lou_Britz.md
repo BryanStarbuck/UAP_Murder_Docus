@@ -13,9 +13,9 @@ Australian co-inventor of the Lutec 1000, an alleged over-unity electromagnetic 
 | **Official Ruling** | Unknown — no mainstream documentation of ruling found |
 | **Category** | Energy Inventor |
 
-## Assessment: UNCERTAIN
+## Assessment: SPECULATIVE
 
-Very limited verifiable documentation exists for this case. The claim that Lou Britz died under mysterious circumstances originates primarily from social media posts and alternative energy community discussions. No mainstream news coverage of his death has been identified, and the specific cause and date of death remain unverified. The case is included because it fits a recurring pattern documented in this project — co-inventors of alleged over-unity devices dying or disappearing — but the evidence base is among the weakest of any profile in this directory.
+Very limited verifiable documentation exists for this case. The claim that Lou Britz died under mysterious circumstances originates primarily from social media posts and alternative energy community discussions. No mainstream news coverage of his death has been identified, and the specific cause and date of death remain unverified. X discussions on free-energy suppression repeatedly name the Lutec duo alongside [Stanley Meyer](Stanley_Meyer.md), [Arie DeGeus](Arie_DeGeus.md), [Thomas Townsend Brown](Thomas_Townsend_Brown.md), and other inventors whose devices were touted as working prototypes before the usual harassment/seizure pattern emerged. The case is included because it fits a recurring pattern documented in this project — co-inventors of alleged over-unity devices dying or disappearing — but the evidence base is among the weakest of any profile in this directory.
 
 ## Circumstances of Death
 
@@ -32,6 +32,8 @@ According to alternative energy community sources, the Lutec 1000 was demonstrat
 The Lutec 1000 falls into the category of "over-unity" or "free energy" devices — machines that their proponents claim produce more energy output than input. Such claims are widely rejected by mainstream physics as violations of the first and second laws of thermodynamics. No independent scientific validation of the Lutec 1000's claimed performance has been documented.
 
 The name "Lutec" reportedly stood for "Lubricated Technology" or was derived from the inventors' names, though this is not confirmed in any authoritative source.
+
+Note: The user's surname is rendered as "Brits" in some X posts and "Britz" in others. This profile uses "Britz" as it appears more frequently in alternative energy community sources, but the correct spelling has not been confirmed through official records.
 
 ## Why This Death Possibly Raises Questions
 
