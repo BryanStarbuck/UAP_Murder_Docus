@@ -1,0 +1,127 @@
+
+# T. Henry Moray
+Electrical engineer and inventor from Salt Lake City, Utah, who developed the Moray Radiant Energy Device -- a system he claimed could extract up to 50,000 watts of usable electricity from cosmic background radiation -- and who endured decades of laboratory break-ins, gunfire, death threats, and the deliberate destruction of his device by a government-linked associate.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Thomas Henry Moray |
+| **Born** | August 28, 1892, Salt Lake City, Utah |
+| **Died** | May 18, 1974, Salt Lake City, Utah (age 81) |
+| **Role** | Inventor / Electrical Engineer / Radiant Energy Researcher |
+| **Platform** | Laboratory demonstrations, patent filings, Cosray Research Institute publications |
+| **Notable Works** | Moray Radiant Energy Device, US Patent 2,460,707 ("Electrotherapeutic Device"), *The Sea of Energy in Which the Earth Floats* (book) |
+
+## Biography
+
+Thomas Henry Moray was born in Salt Lake City on August 28, 1892. A devout member of The Church of Jesus Christ of Latter-day Saints, he attended LDS Business College and studied electrical engineering through international correspondence courses from the University of Uppsala in Sweden. In 1911, Moray served as a missionary in Sweden, where early exposure to Scandinavian radio technology sparked his lifelong interest in electromagnetic energy and solid-state detectors.
+
+After returning to Utah, Moray spent the 1920s working in the emerging field of radio. Through hundreds of experiments aimed at improving radio reception, he claimed to have discovered that a form of energy -- which he called "radiant energy" -- was available everywhere in the environment and could be converted into usable electricity. By the late 1920s, he had constructed a working prototype of what became known as the Moray Radiant Energy Device.
+
+Moray is also credited by some researchers with developing a form of bi-polar semiconductor (or "transistor") as early as 1927 -- years before the Bell Labs transistor of 1947 -- though this claim remains a matter of historical dispute.
+
+## The Moray Radiant Energy Device
+
+The Moray Radiant Energy Device was the central invention of Moray's career and the source of both his recognition and the violence directed against him. The device consisted of a series of specialized non-heated vacuum tubes (at a time when most vacuum tubes required internal heaters), a small antenna, and a ground connection. Moray claimed it could convert ambient energy from the cosmos into usable electrical power.
+
+### Technical Claims
+
+- **Power output**: Moray claimed the device could produce up to 50,000 watts of electrical power -- enough to illuminate banks of light bulbs, power industrial equipment, and operate heating elements
+- **No external fuel**: The device allegedly required no conventional fuel, battery, or connection to an external power grid; it drew energy through its antenna and ground connection
+- **Compact size**: The device reportedly weighed approximately 60 pounds
+- **Energy source**: Moray described the energy source as "radiant energy" permeating all of space. His son John E. Moray later clarified that his father's concept of "cosmic rays" was functionally equivalent to what modern physicists call zero-point energy -- the quantum vacuum energy that exists even in the absence of matter
+
+### Demonstrations
+
+Moray demonstrated his device on several hundred occasions throughout the 1930s and early 1940s. Witnesses included electrical engineering professors, US congressmen, government dignitaries, and independent investigators. In one notable demonstration, Moray transported the device several miles outside Salt Lake City, far from any power lines, and allowed independent observers to completely disassemble and reassemble it before operation. The device reportedly lit a bank of 35 light bulbs during these demonstrations.
+
+In 1973, Lt. Col. Thomas Bearden, a nuclear engineer with the US Army Missile Command, wrote of a Moray demonstration he had witnessed: "It was not mumbo-jumbo, or mythology, or some kind of trick, but a legitimate, widely recognized demonstration that got electricity out of thin air."
+
+### Patent Struggles
+
+Moray applied for a US patent on his radiant energy device but was engaged in discussions with the patent office for 17 years before receiving US Patent 2,460,707 in February 1949 -- and that patent was granted for an "Electrotherapeutic Device" rather than for the radiant energy device itself. The patent office reportedly refused to grant a patent for a device claiming to extract energy from the environment, as it appeared to violate established thermodynamic principles.
+
+## The Campaign of Violence and Suppression
+
+The most alarming aspect of Moray's story is the sustained campaign of threats, violence, and sabotage directed against him and his family over a period spanning more than a decade. These incidents are documented in Moray's own writings and corroborated by family accounts and contemporaneous records.
+
+### Laboratory Vandalism and Break-ins
+
+Moray's laboratory in Salt Lake City was repeatedly broken into and ransacked. Equipment was stolen or destroyed on multiple occasions, and Moray reported that his research notes and technical documentation were targeted specifically.
+
+### Gunfire Against Moray and His Family
+
+Moray reported that he and his family were shot at on multiple occasions during the 1930s and 1940s. The most serious incident occurred on **March 2, 1940**, when intruders entered Moray's laboratory and shot him in the leg. Moray identified his assailants as Felix J. Frazer -- his government-assigned liaison from the Rural Electrification Administration (REA) -- and an unidentified accomplice. The shooting occurred during a period of escalating tension between Moray and his REA contacts.
+
+### The Destruction of the Device (1939)
+
+The single most damaging act of sabotage occurred in 1939. **Felix J. Frazer**, who had been assigned by the REA to observe and report on Moray's work, took a hammer (some accounts say an axe) and smashed the device's expensively crafted tubes, destroying the machine. Moray accused Frazer of acting deliberately to force him to cooperate with the government and surrender control of his technology.
+
+### Government Entanglement and the REA
+
+The federal government's involvement with Moray was complex and, according to Moray, ultimately hostile:
+
+- In **1939**, Moray was placed on the Rural Electrification Administration payroll at $25 per day as a "power consultant," remaining on the payroll until February 28, 1941
+- **Felix J. Frazer**, originally an investigator for the Works Progress Administration and reportedly an advocate of technocracy, was assigned to observe Moray's work at the suggestion of REA engineer Franklin P. Wood
+- Moray grew increasingly alarmed at what he perceived as attempts by his REA contacts to funnel his technology to the Soviet Union. He eventually concluded he had become entangled with a government group that included, in his words, "radicals and reactionaries"
+- Moray described the situation as "fifth column activity" directed against him -- an attempt to steal his device under the cover of legitimate government oversight
+
+### Ongoing Threats
+
+Throughout the late 1930s and 1940s, Moray reported receiving constant threats designed to stop his research and public demonstrations. The cumulative effect of the laboratory break-ins, shootings, device destruction, and intimidation campaigns severely hampered his ability to continue development and prevented commercialization of the technology.
+
+## Connection to Zero-Point Energy and UAP Physics
+
+Moray's work is significant to UAP physics research for several reasons:
+
+- **Zero-point energy precursor**: Moray's concept of "radiant energy" permeating all of space is functionally equivalent to what is now called [zero-point energy](Zero_Point_Energy.md) -- the energy of the quantum vacuum. Modern researchers, including Moray B. King (author of *The Energy Machine of T. Henry Moray: Zero-Point Energy and Pulsed Plasma Physics*), have explicitly connected Moray's 1920s-era experiments to contemporary zero-point energy theory
+- **UAP power source implications**: If UAPs operate by extracting energy from the quantum vacuum, Moray's device represents an early, independent attempt to engineer exactly that capability -- compact, fuel-free, continuous power from the ambient energy of space
+- **Pattern of suppression**: The campaign of violence against Moray mirrors the suppression experienced by other researchers working on unconventional energy, including [Nikola Tesla](Nikola_Tesla.md), whose own free energy research was seized by the government after his death
+- **Solid-state approach**: Moray's use of specialized semiconductor-like materials in his tubes anticipated modern approaches to zero-point energy extraction that rely on engineered metamaterials and solid-state devices
+
+## Key Quotes
+
+> "It was not mumbo-jumbo, or mythology, or some kind of trick, but a legitimate, widely recognized demonstration that got electricity out of thin air."
+> -- Lt. Col. Thomas Bearden, US Army Missile Command nuclear engineer, 1973
+
+> "The sea of energy in which the earth floats -- energy which is as much in a vacuum as in the matter of the earth."
+> -- T. Henry Moray, describing his theory of ambient radiant energy
+
+## The Counterargument
+
+- **No independent replication**: Despite hundreds of demonstrations, no independent laboratory has successfully replicated the Moray Radiant Energy Device, and the original device was destroyed
+- **Thermodynamic objections**: Mainstream physics holds that extracting usable work from zero-point energy would violate the second law of thermodynamics; the quantum vacuum is the lowest energy state and, according to conventional theory, energy cannot be extracted from it
+- **No peer-reviewed validation**: Moray's claims were never published in mainstream peer-reviewed physics journals, and his patent was granted for a different device than the radiant energy machine
+- **Observational bias**: Demonstrations, even numerous ones, are not equivalent to controlled scientific experiments; observers may not have been equipped to detect all possible energy sources
+- **Credential questions**: While Moray studied through correspondence courses and claimed an affiliation with the University of Uppsala, the nature and extent of his formal academic training has been questioned
+- **Device secrecy**: Moray was protective of the device's internal components and reportedly did not allow detailed inspection of all elements, which prevented thorough independent evaluation
+
+## Legacy
+
+Moray died on May 18, 1974, at the age of 81 in Salt Lake City. His son, **John E. Moray**, continued efforts to validate and replicate the radiant energy device and edited expanded editions of his father's book, *The Sea of Energy in Which the Earth Floats*, published through the **Cosray Research Institute**. The Cosray Research Institute reportedly spent nearly $450,000 to collect, correlate, and preserve Moray's notes and technical documentation.
+
+Moray B. King, a physicist and systems engineer, later authored *The Energy Machine of T. Henry Moray: Zero-Point Energy and Pulsed Plasma Physics* (2005), which analyzed Moray's device through the lens of modern zero-point energy theory and pulsed plasma physics, bringing renewed scientific attention to the experiments.
+
+Moray's story remains one of the most extensively documented cases of an alternative energy researcher facing organized, sustained violence and sabotage -- a pattern that recurs throughout the history of unconventional energy research.
+
+## Related Perspectives
+
+- [Zero Point Energy](Zero_Point_Energy.md) -- Moray's "radiant energy" concept is now understood as an early formulation of zero-point energy extraction
+- [Nikola Tesla](Nikola_Tesla.md) -- Tesla's work on wireless energy transmission and free energy research parallels Moray's ambitions; both faced suppression of their most radical energy technologies
+- [Eugene Mallove](Eugene_Mallove.md) -- Cold fusion advocate and editor of *Infinite Energy* magazine who was murdered; represents the broader pattern of researchers killed while pursuing unconventional energy
+- [Paul Brown](Paul_Brown.md) -- Alternative energy inventor (Resonant Nuclear Battery) who was killed after years of harassment; similar pattern of sustained intimidation
+- [Hal Puthoff](Hal_Puthoff.md) -- Physicist who has published theoretical work on zero-point energy extraction; provides the modern theoretical framework that connects to Moray's experimental claims
+- [Arie DeGeus](Arie_DeGeus.md) -- Inventor of a claimed zero-point energy battery who died under suspicious circumstances while seeking commercialization funding
+
+## Sources
+
+- [Thomas Henry Moray - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Henry_Moray)
+- [T. Henry Moray - Kook Science](https://hatch.kookscience.com/wiki/T._Henry_Moray)
+- [Felix J. Frazer - Kook Science](https://hatch.kookscience.com/wiki/Felix_J._Frazer)
+- [The Moray Radiant Energy Device - Excalibur Briefing (NuEnergy)](https://www.nuenergy.org/excalibur-briefing/)
+- [Thomas Henry Moray: The Sea of Energy - Rex Research](http://www.rexresearch.com/moray2/morayrer.htm)
+- [The Sea of Energy in Which the Earth Floats - Cosray Research Institute (Biblio)](https://www.biblio.com/book/sea-energy-original-sea-energy-which/d/1446009797)
+- [The Energy Machine of T. Henry Moray: Zero-Point Energy and Pulsed Plasma Physics - Moray B. King (Amazon)](https://www.amazon.com/Energy-Machine-Henry-Moray-Zero-Point/dp/1931882428)
+- [Dr. Thomas Henry Moray: Pioneer of Radiant Energy Research (Scalar Light)](https://www.scalarlight.com/articles/scalar-light-scientists/thomas-henry-moray/dr-thomas-henry-moray-pioneer-of-radiant-energy-research-and-radiant-energy-generation/)
+- [Suppressed Inventions and Other Discoveries - Bibliotecapleyades](https://www.bibliotecapleyades.net/ciencia/supressed_inventions/suppressed_inventions39.htm)
+
+*This information was compiled by Claude AI research.*

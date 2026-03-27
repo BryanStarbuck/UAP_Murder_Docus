@@ -1,0 +1,70 @@
+# Zachary Greene Warfield
+
+Former CIA science and weapons analyst with MIT propulsion credentials, killed in a boating accident at age 35 after visiting plasma battery inventors connected to Dimitri Petronov.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Zachary Greene Warfield |
+| **Born** | c. 1976 |
+| **Died** | July 4, 2011 |
+| **Age at Death** | 35 |
+| **Location of Death** | Potomac River, Washington, D.C. |
+| **Cause of Death** | Boating accident |
+| **Official Ruling** | Accidental death |
+| **Category** | Government Contractor |
+
+## Assessment: SUSPICIOUS
+
+A former CIA science, technology, and weapons analyst with a perfect 5.0 GPA from MIT in jet propulsion engineering dies in a "boating accident" on the Potomac River on July 4, 2011 — the same year he had been visiting plasma battery inventors, including Dimitri Petronov (who also disappeared under suspicious circumstances). Warfield co-founded a defense and intelligence consulting firm after leaving the CIA. His background suggests deep access to classified energy and propulsion technologies.
+
+## Circumstances of Death
+
+On July 4, 2011, Zachary Warfield died in a boating accident on the Potomac River in the Washington, D.C., area. He was 35 years old. The death was ruled accidental. Limited details about the specific circumstances of the boating incident are publicly available.
+
+## Background
+
+Warfield had an exceptional academic and professional background:
+- **BS in Mechanical Engineering** from the University of Notre Dame
+- **MS in Aeronautical and Astronautical Engineering** (jet propulsion) from MIT with a **perfect 5.0 GPA**
+- **CIA Science, Technology, and Weapons Analyst** (2003-2005) — analyzed foreign weapons systems and emerging technologies
+- **Co-founder of Omnis Inc.** — a McLean, Virginia-based strategic consulting firm serving intelligence, defense, and national security clients
+
+In 2010, Warfield reportedly visited plasma battery inventor Dimitri Petronov and at least one other American plasma battery inventor, claiming to represent "investors" interested in their technology. Petronov himself disappeared under suspicious circumstances.
+
+## Why This Death Possibly Raises Questions
+
+- Former CIA analyst with weapons and technology expertise dies at age 35
+- His MIT specialization was in jet propulsion — directly relevant to advanced energy and propulsion research
+- He had visited plasma battery inventors in 2010, claiming to represent investors
+- Dimitri Petronov, one of the inventors he visited, also disappeared under suspicious circumstances
+- His company Omnis served intelligence and national security clients — raising questions about whether his "investor" visits were intelligence operations
+- Died on July 4 (holiday weekend) — a time when incidents receive less media scrutiny
+- Boating accidents on the Potomac have been used in other suspicious deaths in the D.C. intelligence community
+- His professional profile (CIA weapons analyst, defense/intel consulting, MIT propulsion engineering) represents exactly the kind of person who would have access to classified energy technologies
+
+## The Counterargument
+
+- Boating accidents are common on the Potomac, especially on July 4 when the river is crowded
+- His visits to plasma battery inventors may have been legitimate investment interest
+- Many young professionals in the D.C. area have intelligence community backgrounds
+- No evidence of foul play was publicly reported by investigators
+- The connection to Petronov may be coincidental
+
+## See Also
+
+- [Dimitri Petronov](Dimitri_Petronov.md) — Plasma battery inventor visited by Warfield, who also disappeared under suspicious circumstances
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Arie DeGeus](Arie_DeGeus.md): Found dead in his car at Charlotte airport after flying in to finalize a deal for his revolutionary quantum energy generator.
+- [Dean Warwick](Dean_Warwick.md): Collapsed dead on stage mid-sentence at a UFO conference, moments before revealing who killed JFK.
+- [Ning Li](Ning_Li.md): Pioneering antigravity physicist received $448K DoD grant, then vanished completely — no publications, no trace.
+
+## Sources
+
+- [Keeney and Basford Funeral Home — Zachary Warfield Obituary](https://www.keeneybasford.com/obituaries/5822859)
+- [Washington Post — Zachary Warfield Obituary](https://www.legacy.com/us/obituaries/washingtonpost/name/zachary-warfield-obituary?id=5972573)
+- [Forbidden Knowledge TV — People Found Dead After Discovering Free Renewable Energy](https://forbiddenknowledgetv.net/people-found-dead-after-discovering-free-renewable-energy/)
+
+*This information was built by Grok and Claude AI research.*

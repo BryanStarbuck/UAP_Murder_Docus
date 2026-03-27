@@ -1,0 +1,90 @@
+# Jonathan Moyle
+
+British defense journalist found hanged in a hotel wardrobe in Santiago, Chile, while investigating arms deals involving advanced weapons technology. Officially ruled unlawful killing (murder) by a 1998 British inquest.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jonathan Moyle |
+| **Born** | 1964 |
+| **Died** | March 31, 1990 |
+| **Age at Death** | 26 |
+| **Location of Death** | Hotel Carrera, Santiago, Chile |
+| **Cause of Death** | Hanging (found in hotel wardrobe) |
+| **Official Ruling** | Unlawful killing (murder) — British inquest, 1998 |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS (Confirmed Murder)
+
+Jonathan Moyle's death was officially ruled an unlawful killing by a British coroner's inquest in 1998, making this one of the few cases in this project with an official murder ruling. He was found hanged from a wardrobe rail in his hotel room in Santiago while investigating Chilean arms dealer Carlos Cardoen's modifications of helicopter weapons systems — technology linked to GEC-Marconi and SDI-era defense contractors. A needle puncture wound on his body, blood on the sheets, and the physical impossibility of the hanging (the rail was lower than his height) all point to murder staged as suicide.
+
+## Circumstances of Death
+
+On March 31, 1990, Moyle was found dead in Room 1406 of the Hotel Carrera in Santiago, Chile. His body was hanging from the wardrobe rail by a pillowcase fashioned into a noose. The wardrobe rail was only 5 feet high; Moyle was 5 feet 8 inches tall.
+
+Chilean police initially ruled the death a suicide, then changed the ruling to accidental death by autoerotic asphyxiation — a narrative that his family and British investigators strongly contested. Key physical evidence included:
+
+- A needle puncture wound on his leg, suggesting he had been sedated or injected with a substance
+- Blood on the bed sheets that was not initially examined by Chilean police
+- The physical impossibility of self-suspension from a rail shorter than the victim
+- His room showed signs that items had been searched or moved
+
+In 1998, a British coroner's inquest formally ruled the death an **unlawful killing** (murder). A 2013 CIA report allegedly attributed the murder to a British government agent.
+
+## Background
+
+Jonathan Moyle was a former Royal Air Force helicopter pilot who became editor of *Defence Helicopter World* magazine, one of the leading trade publications in defense aviation. At age 26, he was the youngest editor of a defense journal in Britain.
+
+Moyle traveled to Santiago to investigate Chilean arms manufacturer Industrias Cardoen, run by Carlos Cardoen, which was allegedly modifying civilian helicopters with advanced weapons guidance systems — the Helios system — for sale to Iraq. This technology had connections to GEC-Marconi's defense work and SDI-era weapons programs.
+
+Moyle's investigation put him at the intersection of British defense contracting, covert arms sales to Iraq, and classified weapons technology — the same web of defense industry secrets that surrounded the deaths of multiple GEC-Marconi scientists in the same era.
+
+## Why This Death Possibly Raises Questions
+
+- Officially ruled unlawful killing (murder) by British inquest in 1998
+- Needle puncture wound suggesting sedation before death
+- Hanging from a rail shorter than the victim — physically inconsistent with suicide
+- Blood on sheets not examined by Chilean police
+- Chilean authorities initially pushed suicide/autoerotic asphyxiation narrative
+- Was investigating covert arms deals involving classified weapons technology
+- His investigation connected to GEC-Marconi defense contracts — the same network linked to 25+ suspicious defense scientist deaths
+- A CIA report allegedly named a British government agent as responsible
+- Died at age 26 — the youngest editor of a defense journal in Britain
+- His father, Tony Moyle, spent decades campaigning for justice and accused the British government of covering up the murder
+
+## The Counterargument
+
+- Chilean police initially maintained the death was not suspicious
+- The autoerotic asphyxiation theory was presented as an alternative
+- Some have suggested his death was related to personal matters rather than his investigation
+- The CIA report attributing the murder to a British agent has not been independently verified
+- His investigation was into arms deals, not energy technology per se — though the weapons systems involved were energy-adjacent (guidance and propulsion)
+
+## Key Quotes from Media Coverage
+
+> "There is no doubt in my mind that my son was murdered because of what he had discovered about the Cardoen arms operation."
+> — **Tony Moyle**, Jonathan's father
+
+> "The verdict of the jury is that the deceased was unlawfully killed."
+> — **British Coroner's Inquest**, 1998
+
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — GEC-Marconi scientist found dead in similar era
+- [David Sands](David_Sands.md) — GEC-Marconi scientist, car crash death
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi scientist, fell from bridge
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator who described classified antigravity craft found dead of gunshot wound the day before giving testimony.
+- [Arshad Sharif](Arshad_Sharif.md): Marconi scientist found dead in his car, electrocuted by a rope tied to a tree — ruled suicide by the coroner.
+- [Fred Bell](Fred_Bell.md): Found dead in his hotel room two days after filming a TV interview about suppressed technology and death rays.
+
+## Sources
+
+- [Wikipedia — Jonathan Moyle](https://en.wikipedia.org/wiki/Jonathan_Moyle)
+- [UK Parliament — Early Day Motion on Murder of Jonathan Moyle](https://edm.parliament.uk/early-day-motion/6983/murder-of-british-journalist-jonathan-moyle)
+- [Assassinations Podcast — Jonathan Moyle](https://www.assassinationspodcast.com/podcasts/2024/12/7/jonathan-moyle)
+- [CrimeReads — The Many Real-Life Deaths Surrounding the Star Wars Defense Initiative](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+
+*This information was built by Grok and Claude AI research.*

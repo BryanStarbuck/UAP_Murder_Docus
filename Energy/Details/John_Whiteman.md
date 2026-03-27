@@ -1,0 +1,72 @@
+# John Whiteman
+
+GEC-Marconi defense scientist found drowned in his bathtub surrounded by pills and empty alcohol bottles — but autopsy revealed no trace of drugs or alcohol in his body.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | John Whiteman |
+| **Died** | 1987 |
+| **Location of Death** | United Kingdom |
+| **Cause of Death** | Drowning (found in bathtub) |
+| **Official Ruling** | Open verdict |
+| **Category** | Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Whiteman was found dead in his bathtub, with the scene staged to look like a drug and alcohol overdose — pills and empty bottles were scattered around him. However, the autopsy found **no trace of drugs or alcohol in his system**. This stark contradiction between the staged scene and the forensic evidence is one of the most damning indicators of foul play in the entire GEC-Marconi cluster. Someone staged the scene but didn't realize — or didn't care — that the autopsy would expose the staging.
+
+## Circumstances of Death
+
+John Whiteman was found dead in his bathtub in 1987. The scene was arranged to suggest a drug or alcohol overdose: pills and empty alcohol bottles were placed around the bathtub and bathroom.
+
+When the post-mortem examination was conducted, the toxicology results completely contradicted the scene. Whiteman's system was clean — no drugs, no alcohol. He had drowned, but there was no pharmacological explanation for why he would have been incapacitated in the bathtub.
+
+The complete disconnect between the staged evidence and the autopsy results strongly suggests that someone killed Whiteman and then attempted to make the death look self-inflicted, but either didn't know or didn't consider that toxicology would reveal the deception.
+
+## Background
+
+Whiteman was a scientist working in the British defense sector during the height of SDI ("Star Wars") contract work. He was part of the broader GEC-Marconi network of defense researchers working on advanced weapons, electronic warfare, and signal processing systems.
+
+His death occurred during 1987, the peak year of the Marconi scientist death cluster, when the highest concentration of suspicious deaths among British defense workers was recorded.
+
+## Why This Death Possibly Raises Questions
+
+- Scene was clearly staged — pills and alcohol bottles placed around the body
+- Autopsy found **zero drugs and zero alcohol** in his system, completely contradicting the staged scene
+- Drowned in his bathtub with no pharmacological explanation for incapacitation
+- Occurred during the peak year (1987) of the GEC-Marconi death cluster
+- Part of a pattern of 25+ defense scientists dying suspiciously during SDI contract work
+- The staging error (forensics contradicting the scene) suggests the killer was either careless or confident the death wouldn't be properly investigated
+- Multiple other Marconi scientists died in the same period under similarly suspicious circumstances
+
+## The Counterargument
+
+- Limited details are publicly available about Whiteman's specific work
+- It is possible he drowned accidentally (medical event, seizure, or other condition)
+- The pills and bottles could theoretically have been present for other reasons
+- Not all details of the investigation have been made public
+- Some Marconi deaths may be coincidental clustering rather than connected murders
+
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — GEC-Marconi scientist, found dead with electric cables
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, fell from bridge
+- [David Sands](David_Sands.md) — Marconi scientist, drove car into empty restaurant at speed
+- [Stuart Gooding](Stuart_Gooding.md) — Marconi scientist, killed in Cyprus
+- [Shani Warren](Shani_Warren.md) — Marconi-connected, found drowned with gag and bound hands
+
+## Other Shocking Stories
+
+- [Shani Warren](Shani_Warren.md): Found face-down in a lake, gagged, hands tied behind her back, feet bound — ruled suicide by the coroner.
+- [Arshad Sharif](Arshad_Sharif.md): Found dead in his car with a rope around his neck tied to a tree — the coroner called it suicide.
+- [Keith Bowden](Keith_Bowden.md): Computer scientist's car veered across the road into an abandoned quarry — one of the first Marconi deaths.
+- [David Sands](David_Sands.md): Loaded his car with cans of gasoline and drove at high speed into an empty building. No note, no explanation.
+
+## Sources
+
+- [The Unredacted — Dead Scientists: The Marconi Murders](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [CrimeReads — The Many Real-Life Deaths Surrounding the Star Wars Defense Initiative](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+- [Project Camelot — 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- [The Truth Files — The Marconi Scientists](https://www.thetruthfiles.com/the-marconi-scientists/)
+
+*This information was built by Grok and Claude AI research.*

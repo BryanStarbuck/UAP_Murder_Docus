@@ -1,0 +1,82 @@
+# Avtar Singh-Gida
+
+MoD/Marconi defense researcher who vanished while writing his doctoral thesis on underwater acoustic signal processing, then reappeared four months later in a Paris sweatshop with no memory of what happened.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Avtar Singh-Gida |
+| **Born** | c. 1961 |
+| **Status** | MISSING (January 1987) — reappeared May 1987 with amnesia |
+| **Last Known Location** | Loughborough University, United Kingdom |
+| **Category** | Defense Scientist |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+A 26-year-old defense researcher with security clearance, working under contract for both the Ministry of Defence Admiralty Research Establishment and Marconi Space and Defence Systems on classified submarine detection technology, simply vanished three weeks before completing his PhD. He reappeared four months later working under an assumed name in a Paris sweatshop for illegal migrants, claiming he could not remember how he got there. His disappearance occurred at the height of the GEC-Marconi death cluster (1986-1988), when 25+ defense scientists died under suspicious circumstances. The case was raised in the UK Parliament.
+
+## Circumstances of Disappearance
+
+On January 8, 1987, Avtar Singh-Gida disappeared from Loughborough University in the United Kingdom. He was just three weeks from completing his doctoral thesis on underwater acoustic signal processing — research conducted under contract to the Ministry of Defence (MoD) Admiralty Research Establishment and Marconi Space and Defence Systems.
+
+For four months, his whereabouts were unknown. He was eventually found in May 1987, working under an assumed name in a Paris sex boutique (some sources say sweatshop) for illegal migrants. He told authorities he could not remember the details of his disappearance or how he ended up in France.
+
+The case was serious enough to be raised in the House of Commons. On March 23, 1987, MP Michael Meadowcroft asked the Secretary of State for Defence about Singh-Gida's disappearance, noting his MoD connections and the pattern of Marconi-linked deaths and disappearances.
+
+## Background
+
+Singh-Gida was a 26-year-old doctoral student at Loughborough University conducting research on underwater acoustic signal processing — a field directly relevant to submarine detection and warfare. His research was funded by the Ministry of Defence and conducted under contract to both the MoD Admiralty Research Establishment and Marconi Space and Defence Systems.
+
+His work related to the Sting Ray torpedo project and broader submarine warfare capabilities. This was classified defense research of significant strategic importance during the Cold War.
+
+His disappearance occurred during 1987, the peak year of the GEC-Marconi scientist death cluster. While most of the 25+ Marconi-connected incidents ended in death, Singh-Gida's case is notable because he survived — though the amnesia and bizarre circumstances of his reappearance raise serious questions about what happened to him during the missing months.
+
+## Why This Disappearance Raises Questions
+
+- Disappeared while working on classified MoD/Marconi defense research
+- Was three weeks from completing his PhD — an unusual time to abandon everything
+- Reappeared with amnesia in a Paris sweatshop under an assumed name
+- The amnesia and bizarre circumstances suggest possible drugging, interrogation, or psychological manipulation
+- Occurred during the peak year of the GEC-Marconi death cluster (1987)
+- Case was raised in the UK Parliament, indicating official concern
+- His research (underwater acoustic signal processing) had direct submarine warfare applications
+- He held security clearance for classified defense work
+- The fact that he survived may be why his case is less well-known than the Marconi deaths — the dead received more attention
+- Multiple other Marconi-connected researchers died or disappeared in the same period
+
+## The Counterargument
+
+- Singh-Gida reappeared alive, unlike most Marconi cases
+- Mental health issues, stress from doctoral work, or personal problems could explain a breakdown and disappearance
+- PhD students do sometimes abandon their work under pressure
+- The amnesia could be genuine (psychological) rather than induced
+- No direct evidence of abduction, drugging, or interrogation has been published
+- He may have chosen to disappear and later claimed amnesia
+
+## Key Quotes from Media Coverage
+
+> "Mr Avtar Singh-Gida, a research student at Loughborough University, employed under contract by the MoD Admiralty Research Establishment and by Marconi Space and Defence Systems, disappeared on 8 January."
+> — **UK Parliament Hansard**, March 23, 1987
+
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — GEC-Marconi scientist found dead, 1988
+- [John Whiteman](John_Whiteman.md) — GEC-Marconi scientist, staged drowning scene, 1987
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, fell from bridge, 1986
+- [David Sands](David_Sands.md) — Marconi scientist, car crash death, 1987
+- [Shani Warren](Shani_Warren.md) — Marconi-connected, found drowned bound and gagged, 1987
+
+## Other Shocking Stories
+
+- [Shani Warren](Shani_Warren.md): Found face-down in a lake, gagged, hands tied behind her back, feet bound — ruled suicide by the coroner.
+- [John Whiteman](John_Whiteman.md): Found drowned in his bathtub surrounded by pills and alcohol — autopsy found zero drugs and zero alcohol in his body.
+- [Keith Bowden](Keith_Bowden.md): Computer scientist's car veered across the road into an abandoned quarry — one of the first Marconi deaths.
+- [Arshad Sharif](Arshad_Sharif.md): Found dead in his car with a rope around his neck tied to a tree — the coroner called it suicide.
+
+## Sources
+
+- [UK Parliament Hansard — Mr Avtar Singh-Gida, March 23, 1987](https://hansard.parliament.uk/commons/1987-03-23/debates/fc93fd77-aacf-4967-b8de-744e531c4361/MrAvtarSingh-Gida)
+- [Project Camelot — 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
+- [UPI Archives — Mysterious Deaths of British Scientists, April 6, 1987](https://www.upi.com/Archives/1987/04/06/Mysterious-deaths-of-British-scientists/1516544680000/)
+- [Grokipedia — GEC-Marconi Scientist Deaths](https://grokipedia.com/page/GEC-Marconi_scientist_deaths)
+
+*This information was built by Grok and Claude AI research.*

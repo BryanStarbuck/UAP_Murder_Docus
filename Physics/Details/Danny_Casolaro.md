@@ -1,0 +1,93 @@
+
+# Danny Casolaro
+Freelance journalist and writer who investigated a sprawling covert network he called "the Octopus," linking stolen intelligence software, black-budget technology programs, arms trafficking, and classified government operations, and who was found dead in a West Virginia hotel room with his wrists slashed ten to twelve times on August 10, 1991, at the age of 44.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Joseph Daniel Casolaro |
+| **Born** | June 16, 1947, McLean, Virginia |
+| **Died** | August 10, 1991, Martinsburg, West Virginia (age 44) |
+| **Role** | Freelance Journalist / Investigative Writer |
+| **Notable Works** | Unpublished manuscript "The Octopus" investigating PROMIS software theft, intelligence agency misconduct, and covert technology programs |
+
+## Biography
+
+Joseph Daniel Casolaro was born on June 16, 1947, in McLean, Virginia, the son of an obstetrician and the second of six children in a Catholic family. He attended Providence College until 1968. He married Terrill Pace, a former Miss Virginia; the couple had a son, Trey, and divorced after ten years, with Casolaro receiving legal custody. His interests included amateur boxing, writing poetry and short stories, and raising purebred Arabian horses.
+
+Before turning to investigative journalism, Casolaro ran a small computer trade publication and pursued freelance writing. His earlier journalistic work touched on topics including the Soviet naval presence in Cuba, the Castro intelligence network, and Chinese opium smuggling into the United States. He was described by those who knew him as gregarious, optimistic, and persistent in his research pursuits.
+
+## The "Octopus" Investigation
+
+Beginning in approximately 1990, Casolaro became consumed by an investigation he came to call "the Octopus" -- a term he used to describe what he believed was an interlocking network of intelligence operatives, arms dealers, criminal bankers, and protected government insiders operating as a continuous enterprise across multiple decades.
+
+The central thread of his investigation was the **PROMIS software scandal**. PROMIS (Prosecutor's Management Information System) was developed by Bill and Nancy Hamilton's company, Inslaw, Inc., under contract with the U.S. Department of Justice. The software was designed to organize and manage case data for law enforcement and courts. The Hamiltons accused the Department of Justice of stealing the software and distributing it without authorization or payment.
+
+Casolaro's investigation connected the PROMIS affair to a series of other controversies:
+
+- **Modified PROMIS with back-door surveillance**: Michael Riconosciuto, a key source for Casolaro, claimed in a March 21, 1991 affidavit that he had modified the PROMIS software at the Justice Department's behest, embedding a secret "back door" that allowed covert access to any computer system running it. He stated these modifications took place at the Cabazon Indian Reservation near Indio, California, as part of a joint venture between the Wackenhut Corporation and the Cabazon Band of Indians.
+- **International arms and technology trafficking**: Casolaro believed the modified PROMIS software was sold to dozens of foreign governments and intelligence services, generating black-budget revenue while simultaneously allowing U.S. intelligence agencies to surveil those governments' data systems.
+- **The Cabazon-Wackenhut operation**: Riconosciuto described a covert research and development operation on the Cabazon reservation involving weapons development, including fuel-air explosives and alleged biological warfare research, conducted in a jurisdictional gray zone on sovereign tribal land.
+- **BCCI banking scandal**: Casolaro linked his investigation to the Bank of Credit and Commerce International (BCCI), which collapsed in 1991 amid revelations of massive fraud, money laundering, and intelligence connections.
+- **Iran-Contra and the October Surprise**: He believed the Octopus network was connected to the Iran-Contra affair and to allegations that during the 1980 Iranian hostage crisis, operatives worked to delay the release of American hostages to benefit the Reagan presidential campaign.
+- **Covert technology programs**: Casolaro's research reportedly extended into classified technology programs and black-budget operations, areas where intelligence agency misconduct and advanced weapons or surveillance technology intersected.
+
+Casolaro was working on a book manuscript about these connections at the time of his death.
+
+## Death Circumstances
+
+On August 10, 1991, at approximately 12:30 PM, a housekeeper at the Sheraton Hotel in Martinsburg, West Virginia, discovered Casolaro's body in the bathtub of room 517. Both of his wrists had been slashed ten to twelve times. A note was found nearby. The Berkeley County medical examiner ruled the death a suicide.
+
+Multiple circumstances surrounding the death raised questions:
+
+- **Warning to family**: Before departing for Martinsburg, Casolaro told his brother Anthony that he had been receiving late-night harassing and threatening phone calls. He explicitly stated: "If something happens to me, don't believe it was an accident." He told his brother he was traveling to meet a source who would provide the final piece of evidence for his investigation.
+- **Missing research materials**: Casolaro was known to carry a thick file of research notes, documents, and interview transcripts related to his Octopus investigation. When his hotel room was processed, none of these materials were found. His family confirmed the documents were never recovered.
+- **Premature embalming**: Casolaro's body was embalmed before his family was notified of his death -- a decision that permanently destroyed toxicological and forensic evidence that could have helped determine the precise manner of death. His brother Anthony stated that the embalming was performed without the family's consent. The family was not informed of the death for approximately two days.
+- **Housekeeper's account**: The housekeeper who discovered the body reported that the bathroom was unusually bloody, with blood on towels throughout the room, which some investigators noted was inconsistent with a typical suicide by wrist-cutting.
+- **No history of suicidal ideation**: Friends and family members stated that Casolaro had shown no signs of depression or suicidal thoughts. Multiple acquaintances reported that he had been upbeat and excited about being close to completing his investigation in the days before his death.
+
+## Official Investigations and Aftermath
+
+The initial ruling of suicide was challenged by Casolaro's family and by journalists who had been aware of his work. Several subsequent investigations examined the case:
+
+- The **House Judiciary Committee** investigated the Inslaw affair, and in a 1992 report stated that the committee had "received allegations that several persons who have been combative with the Department of Justice on Inslaw and related matters have died under suspicious circumstances."
+- An **FBI task force** that examined Casolaro's death reportedly included members who "questioned the conclusion of suicide" and recommended further investigation. It was later revealed that the FBI had misled Congress about the extent of its investigation into Casolaro's death.
+- Casolaro's surviving research notes were passed by his family to **ABC News** and **Time** magazine, both of which investigated the case but did not publish definitive findings about the manner of death.
+- In **2024**, Netflix released a four-part documentary series titled *American Conspiracy: The Octopus Murders*, directed by Zachary Treitz, which re-examined Casolaro's investigation and death, bringing renewed public attention to the case.
+
+## The Counterargument
+
+- The Berkeley County medical examiner ruled the death a suicide, and no physical evidence of a second person in the hotel room was reported by the initial investigators.
+- Casolaro's investigation involved claims from sources whose credibility has been questioned; Michael Riconosciuto, his primary source, had a criminal record and some of his claims have not been independently verified.
+- The Department of Justice conducted its own review of the Inslaw matter and concluded in 1994 that there was "no credible evidence" that Department officials conspired to steal the PROMIS software.
+- Some journalists who reviewed Casolaro's notes described them as disorganized and lacking the kind of documentary evidence that would substantiate the sweeping conspiracy he described.
+- The suicide note found in the room, while brief, was consistent with Casolaro's handwriting according to investigators.
+
+## Relevance to UAP Physics
+
+Casolaro's investigation is relevant to UAP physics research because the network he described -- connecting intelligence agencies, black-budget programs, covert technology development, and the suppression of information -- mirrors the infrastructure that UAP researchers have identified as responsible for concealing advanced technology and physics breakthroughs. The PROMIS software case demonstrated how government agencies could covertly acquire, modify, and deploy advanced technology outside of public oversight. The Cabazon-Wackenhut operation on sovereign tribal land illustrated how classified research could be conducted in jurisdictional gaps beyond normal regulatory scrutiny. The broader "Octopus" network, if it existed as Casolaro described, would represent exactly the kind of compartmentalized, cross-agency infrastructure that could manage the suppression of UAP-related physics and technology.
+
+Casolaro's death at 44 -- while reportedly on the verge of completing his investigation, with his research notes missing and his body embalmed before his family could intervene -- fits a pattern documented across multiple cases of researchers, journalists, and whistleblowers who pursued information about classified technology programs and covert government operations.
+
+## Related Perspectives
+
+- [Exotic Metamaterials](Exotic_Metamaterials.md) -- Classified materials programs are part of the black-budget infrastructure Casolaro investigated
+- [Zero Point Energy](Zero_Point_Energy.md) -- Advanced energy research conducted within covert programs connects to the suppressed technology Casolaro was tracking
+- [Hal Puthoff](Hal_Puthoff.md) -- Physicist connected to government programs investigating exotic physics and advanced technology
+- [Bob Lazar](Bob_Lazar.md) -- Claimed firsthand knowledge of classified technology programs at Area 51, the type of program Casolaro's Octopus allegedly protected
+- [Eugene Mallove](Eugene_Mallove.md) -- Another researcher killed while pursuing unconventional science and challenging institutional narratives
+- [Paul Brown](Paul_Brown.md) -- Alternative energy inventor killed after years of harassment; similar pattern of researcher suppression
+
+## Sources
+
+- [Danny Casolaro - Wikipedia](https://en.wikipedia.org/wiki/Danny_Casolaro)
+- [The Mysterious Death of Dan Casolaro - Unsolved Mysteries](https://unsolved.com/gallery/dan-casolaro/)
+- [Danny Casolaro and the Octopus - The Truth Files](https://www.thetruthfiles.com/danny-casolaro-and-the-octopus/)
+- [The Octopus - National Archives Text Message Blog](https://text-message.blogs.archives.gov/2010/12/02/the-octopus/)
+- [A Victim of 'The Octopus'? - Newsweek](https://www.newsweek.com/victim-octopus-203170)
+- [The Strange Death of Daniel Casolaro - Project Censored](https://www.projectcensored.org/11-the-strange-death-of-daniel-casolaro/)
+- [FBI Cites Mystery FOIA Exemption to Withhold Danny Casolaro Death Video - MuckRock](https://www.muckrock.com/news/archives/2018/feb/08/casolaro-reenactment/)
+- [The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal - Cheri Seymour (Book)](https://www.amazon.com/Last-Circle-Casolaros-Investigation-Software/dp/1936296004)
+- [American Conspiracy: The Octopus Murders - Netflix Documentary Series (2024)](https://www.netflix.com/tudum/articles/american-conspiracy-octopus-murders-release-date-trailer-news)
+- [Inslaw - Wikipedia](https://en.wikipedia.org/wiki/Inslaw)
+
+*This information was compiled by Claude AI research.*

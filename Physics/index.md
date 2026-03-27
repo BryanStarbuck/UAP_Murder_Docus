@@ -90,9 +90,51 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | [Amy Eskridge](Details/Amy_Eskridge.md) | Materials Scientist / Researcher | Institute for Exotic Science | **EMERGING** | Co-founded Institute for Exotic Science in Huntsville, AL researching gravity modification, metamaterials, and quantum computing. Approached UAP physics through materials science. Died at 34 under suspicious circumstances. |
 | [Wilbert Smith](Details/Wilbert_Smith.md) | Canadian Government Engineer | Project Magnet, classified memos | **STRONG EVIDENCE** | Directed Project Magnet, Canada's official UFO propulsion study. His 1950 classified memo confirmed US had UFO programs under Vannevar Bush rated higher than H-bomb. Built instrument suite including gravimeter to detect UAP field effects. |
 | [Morris Jessup](Details/Morris_Jessup.md) | Astronomer / Author | Books | **SPECULATIVE** | Proposed antigravity propulsion via unified field theory in 1955, anticipating modern gravity manipulation research by decades. The ONR commissioned a special Varo Edition reprint of his annotated work on the Philadelphia Experiment and antigravity physics. |
+| [James McDonald](Details/James_McDonald.md) | Atmospheric Physicist | Papers, congressional testimony | **STRONG EVIDENCE** | Most prominent scientific advocate for serious UFO investigation in the 1960s. Testified before Congress. Career systematically destroyed after congressional ridicule. Died 1971, ruled suicide after failed attempt left him blind. |
+| [Viktor Schauberger](Details/Viktor_Schauberger.md) | Naturalist / Inventor | Experiments, patents | **MODERATE EVIDENCE** | Developed implosion/vortex energy technology and alleged antigravity "Repulsine" disc. Pressured into signing away all rights to his technology in the US. Died five days after returning to Austria in 1958, reportedly saying "They took everything from me." |
+| [T. Henry Moray](Details/T_Henry_Moray.md) | Inventor / Researcher | Demonstrations, US Patent 2,460,707 | **MODERATE EVIDENCE** | Built Radiant Energy Device claiming 50,000W output from cosmic/vacuum energy. Lab repeatedly vandalized, family shot at, device destroyed by government liaison. 17-year patent battle. Anticipated modern zero-point energy concepts by decades. |
 | [Don Elkins](Details/Don_Elkins.md) | Physics Professor / Engineer | Books, research | **SPECULATIVE** | Physics professor at University of Louisville. His Ra Material contains detailed claims about dimensional physics, spacetime manipulation for propulsion, and consciousness as a physical force. Connected to Dewey Larson's Reciprocal System theory. |
 | [Fred Bell](Details/Fred_Bell.md) | Nuclear Physicist / Inventor | Lectures, Disclosure Project | **SPECULATIVE** | Claimed work on magnetic disintegration (Philadelphia Experiment), high-temperature fusion, and directed energy weapons. Mentored by Operation Paperclip scientist. Testified about beam weapons through the Disclosure Project. |
 | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | Aerospace Materials Scientist | Patents, publications | **EMERGING** | Co-inventor of Mondaloy nickel superalloy critical to US rocket engines. Technical Fellow at Aerojet Rocketdyne. Her exotic alloy expertise is directly relevant to analyzing UAP metamaterials. Vanished without trace in 2025. |
+
+### Journalists & Investigators
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | Journalist / TV Personality | Newspapers, *What's My Line?* | **SUSPICIOUS** | Prominent journalist who published 1955 column confirming UFOs based on British official interview. Investigating JFK and UFO connections. Found dead 1965 from barbiturates in wrong room, wrong clothes, reading finished book. Research notes vanished. |
+| [Danny Casolaro](Details/Danny_Casolaro.md) | Freelance Journalist | Investigation | **SUSPICIOUS** | Investigated "the Octopus" — sprawling conspiracy connecting PROMIS software, intelligence agencies, Area 51, and covert technology programs. Found with wrists slashed in hotel 1991. Told brother "don't believe it was an accident." Notes disappeared. Body embalmed before family notified. |
+| [John Mack](Details/John_Mack.md) | Psychiatrist / Researcher | Harvard, books | **MODERATE EVIDENCE** | Pulitzer Prize-winning Harvard psychiatrist. Investigated 200+ alien abduction cases, finding consistent cross-cultural patterns and descriptions of advanced technology. Survived unprecedented Harvard inquiry. Struck and killed by drunk driver in London, 2004. |
+| [Karla Turner](Details/Karla_Turner.md) | PhD Researcher / Author | Books, lectures | **SUSPICIOUS** | Documented alien abduction experiences including descriptions of advanced technology, virtual reality environments, and interdimensional phenomena. Explicitly threatened for her research. Developed fast-acting cancer and died at 48 in 1996. |
+| [Frank Edwards](Details/Frank_Edwards.md) | Author / Radio Broadcaster | Books, radio | **SUSPICIOUS** | Author of "Flying Saucers: Serious Business." Prominent UFO advocate fired from radio for discussing UFOs. Died of heart attack the night before the World UFO Conference in 1967. Researcher Gray Barker reported receiving threats that Edwards would not survive to attend. |
+
+### Government & Intelligence Insiders (Deceased)
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [James Forrestal](Details/James_Forrestal.md) | First Secretary of Defense | Government | **SUSPICIOUS** | First US Secretary of Defense (1947-1949). Allegedly connected to MJ-12 UAP recovery committee. Fell from 16th floor window at Bethesda Naval Hospital, May 1949. Investigation classified for 55 years; Willcutts Review Board notably did not conclude suicide. |
+| [William Colby](Details/William_Colby.md) | Former CIA Director | Government | **SUSPICIOUS** | CIA Director 1973-1976. Steven Greer alleges Colby was about to transfer classified extraterrestrial technology knowledge. Drowned after canoe trip, April 1996. Dinner left uneaten, canoe on sandbar. Many associates did not believe the official account. |
+
+### UAP Physics Researchers (Recent Deaths)
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [Nuno Loureiro](Details/Nuno_Loureiro.md) | Plasma Physicist | MIT, papers | **EMERGING** | Director of MIT Plasma Science and Fusion Center. Shot at his home in Brookline, MA, December 2025. Killer was a former classmate who later died by suicide. Rep. Tim Burchett cited this as part of a concerning pattern of scientist deaths. |
+| [Karl Wolfe](Details/Karl_Wolfe.md) | Former USAF Sergeant | Disclosure Project testimony | **SUSPICIOUS** | Testified at 2001 National Press Club Disclosure Project that he saw NASA photos showing artificial structures on the far side of the Moon while working at a classified facility at Langley AFB. Struck and killed by tractor-trailer while cycling, October 2018. |
+| [Ron Johnson](Details/Ron_Johnson.md) | MUFON Deputy Director | Research, NATO meetings | **SUSPICIOUS** | Commissioned by Institute of Advanced Studies to work on UFO propulsion. Attended secret NATO meetings on extraterrestrial communication. Collapsed at Society of Scientific Exploration meeting, June 1994, age 43. Face turned purple, blood from nose. Autopsy inconclusive. |
+
+### Confirmed Government Targeting
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [Paul Bennewitz](Details/Paul_Bennewitz.md) | UFO Investigator / Electronics CEO | Investigation | **WELL-DOCUMENTED** | Confirmed, documented case of government psychological destruction. AFOSI agent Richard Doty has admitted to deliberately feeding Bennewitz disinformation to discredit him and drive him insane. Resulted in repeated psychiatric institutionalization. Died 2003. |
+| [Ron Rummel](Details/Ron_Rummel.md) | Ex-Air Force Intelligence | *The Alien Digest* | **SUSPICIOUS** | Ex-Air Force intelligence agent, publisher of *The Alien Digest*. Close collaborator of [Phil Schneider](Details/Phil_Schneider.md). Shot in mouth 1993, ruled suicide. No fingerprints on gun, suicide note written left-handed (he was right-handed), body reportedly smelled of sodium pentothal. |
+| [Max Spiers](Details/Max_Spiers.md) | UFO / Classified Programs Researcher | Lectures, conferences | **SUSPICIOUS** | British researcher investigating secret military programs and classified technology. Died July 2016 in Warsaw after vomiting black liquid. Texted mother days before: "If anything happens to me, investigate." Inquest recorded narrative verdict. |
+
+### Defense Scientist Clusters
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [GEC-Marconi Scientists](Details/GEC_Marconi_Scientists.md) | 25+ UK Defense Scientists | SDI / Directed Energy / Electronic Warfare | **STRONG EVIDENCE** | Between 1982-1990, over 25 scientists working on SDI "Star Wars," directed energy weapons, and electronic warfare for GEC-Marconi and allied UK defense firms died under suspicious circumstances. Raised in British Parliament. Government computer calculated odds at 1 in 100 billion. |
 
 ### Energy Inventors (Suppressed / Killed)
 
@@ -138,6 +180,12 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 **Sensor Data Matching Theory:** Military sensor data from encounters like the USS Nimitz (2004) and USS Roosevelt (2015) show objects performing maneuvers consistent with [inertial mass reduction](Details/Zero_Point_Energy.md) and [local gravity manipulation](Details/Gravity_Manipulation.md) — instantaneous acceleration from hovering to hypersonic speeds, right-angle turns, trans-medium travel, absence of sonic booms. [Ryan Graves](Details/Ryan_Graves.md) testified before Congress about directly observing these characteristics. The observed performance envelope matches what these physics theses predict.
 
 **Inventors Who Died or Disappeared:** A striking pattern emerges among inventors working on exotic energy and propulsion: [Stanley Meyer](Details/Stanley_Meyer.md) (water fuel cell — died suddenly, reportedly poisoned), [Eugene Mallove](Details/Eugene_Mallove.md) (cold fusion — beaten to death), [Arie DeGeus](Details/Arie_DeGeus.md) (ZPE battery — found dead), [Paul Brown](Details/Paul_Brown.md) (nuclear battery — killed in car accident after harassment), [Floyd Sweet](Details/Floyd_Sweet.md) (vacuum energy — death threats, materials seized), [Bruce DePalma](Details/Bruce_DePalma.md) (N-Machine — died before scheduled testing), [Amy Eskridge](Details/Amy_Eskridge.md) (exotic science — suspicious death at 34), [Dean Warwick](Details/Dean_Warwick.md) (free energy — collapsed on stage before disclosure), [Rory Johnson](Details/Rory_Johnson.md) (magnetic motor — technology seized by DOE). Whether coincidence or suppression, the concentration of premature deaths and seizures among exotic energy inventors is statistically notable.
+
+**Journalists and Investigators Who Died Before Disclosure:** A distinct pattern emerges among journalists and investigators who were close to publishing or disclosing classified information: [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) (found dead before revealing UFO/JFK findings, research notes vanished), [Danny Casolaro](Details/Danny_Casolaro.md) (wrists slashed investigating Area 51/classified tech, notes disappeared), [Frank Edwards](Details/Frank_Edwards.md) (died the night before the World UFO Conference after receiving threats), [Dean Warwick](Details/Dean_Warwick.md) (collapsed on stage before disclosure), [Mark McCandlish](Details/Mark_McCandlish.md) (died before Senate testimony). The pattern is consistent: proximity to disclosure precedes death, and research materials disappear.
+
+**The GEC-Marconi Defense Scientist Massacre (1982-1990):** The [GEC-Marconi cluster](Details/GEC_Marconi_Scientists.md) represents the single largest documented case of suspicious defense scientist deaths — over 25 scientists working on SDI "Star Wars," directed energy weapons, and electronic warfare died in an 8-year period. Methods included bizarre "suicides" (self-decapitation by car, electrocution with wires in mouth, found bound and gagged in shallow water ruled suicide), car crashes, and falls. Raised in British Parliament; a government computer calculated the odds at 1 in 100 billion. Their work on directed energy and electromagnetic systems is directly relevant to UAP-adjacent physics.
+
+**Government-Confirmed Suppression of UFO Researchers:** [Paul Bennewitz](Details/Paul_Bennewitz.md) represents the only fully confirmed, admitted case of the US government deliberately destroying a UFO researcher. AFOSI agent Richard Doty has publicly confirmed feeding Bennewitz disinformation until he suffered mental breakdown. [James McDonald](Details/James_McDonald.md) endured a systematic character assassination campaign after his congressional UFO advocacy. [T. Henry Moray](Details/T_Henry_Moray.md) was shot at and had his device destroyed by a government liaison. These confirmed cases lend credibility to alleged suppression in other cases.
 
 **The Tesla Precedent:** [Nikola Tesla's](Details/Nikola_Tesla.md) case established the template for technology seizure. After his death in 1943, the FBI and Office of Alien Property seized ~80 trunks of papers, with ~20 trunks still unaccounted for. Tesla had been working on wireless energy transmission, directed energy weapons, and propulsion concepts that anticipated modern UAP physics theses. The seizure of his work represents the earliest documented case of the government classifying an inventor's exotic physics research.
 
@@ -186,6 +234,25 @@ Based on the convergence of congressional testimony, insider statements, books, 
 - [UAP Deaths [UAP Deaths & Silenced Witnesses](/uaps/) Silenced Witnesses](/uaps/) — People killed or silenced for UAP knowledge
 - [Zero Point Energy (Suppressed Inventors)](/energy/) — Inventors of advanced energy technology who were suppressed or killed
 - Intelligence Service Murders — Intelligence community political assassinations
+
+### New Profiles (This Section)
+- [James Forrestal](Details/James_Forrestal.md) — First Secretary of Defense, MJ-12 connection, fell from hospital window 1949
+- [James McDonald](Details/James_McDonald.md) — Atmospheric physicist, premier scientific UFO advocate, career destroyed, suicide 1971
+- [Viktor Schauberger](Details/Viktor_Schauberger.md) — Implosion/antigravity inventor, signed away rights, died 5 days after returning from US 1958
+- [Karl Wolfe](Details/Karl_Wolfe.md) — Air Force, testified about Moon structures, struck by truck 2018
+- [Ron Johnson](Details/Ron_Johnson.md) — MUFON, UFO propulsion research, collapsed at meeting 1994
+- [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) — Journalist, published UFO confirmation, found dead 1965
+- [John Mack](Details/John_Mack.md) — Harvard psychiatrist, abduction research, hit by drunk driver 2004
+- [Karla Turner](Details/Karla_Turner.md) — Abduction researcher, threatened, fast-acting cancer 1996
+- [T. Henry Moray](Details/T_Henry_Moray.md) — Radiant energy inventor, shot at, device destroyed
+- [Danny Casolaro](Details/Danny_Casolaro.md) — Journalist, "the Octopus"/Area 51, wrists slashed 1991
+- [Max Spiers](Details/Max_Spiers.md) — UFO researcher, vomited black liquid, died Warsaw 2016
+- [William Colby](Details/William_Colby.md) — CIA Director, canoe drowning 1996
+- [Frank Edwards](Details/Frank_Edwards.md) — UFO author, died before conference 1967
+- [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT plasma physicist, shot 2025
+- [Ron Rummel](Details/Ron_Rummel.md) — Air Force intel, Alien Digest, shot 1993
+- [Paul Bennewitz](Details/Paul_Bennewitz.md) — Confirmed government psychological warfare victim
+- [GEC-Marconi Scientists](Details/GEC_Marconi_Scientists.md) — 25+ UK defense scientists, SDI/directed energy, 1982-1990
 
 ### Key Overlapping Profiles
 People who appear in both this project and sibling directories:
@@ -261,11 +328,11 @@ People who appear in both this project and sibling directories:
 
 ---
 
-*Last Updated: 2026-03-23 — Added 27 new profiles from UAP Deaths directory: Thomas Townsend Brown, Ning Li, Nikola Tesla, Stanley Meyer, Bruce DePalma, Floyd Sweet, Mark McCandlish, Stanton Friedman, Philip Corso, Eugene Mallove, Boyd Bushman, Amy Eskridge, Arie DeGeus, Paul Brown, Stefan Marinov, Rory Johnson, Dean Warwick, Don Elkins, Fred Bell, Wilbert Smith, Morris Jessup, Gary McKinnon, Ryan Graves, William McCasland, Phil Schneider, Harald Malmgren, Monica Jacinto Reza. Added new people tables (Energy Inventors, Military Witnesses). Added new patterns (Inventors Who Died, Tesla Precedent, Reverse Engineering Pipeline). Expanded cross-references.*
+*Last Updated: 2026-03-27 — Added 17 new profiles: James Forrestal, James McDonald, Viktor Schauberger, Karl Wolfe, Ron Johnson, Dorothy Kilgallen, John Mack, Karla Turner, T. Henry Moray, Danny Casolaro, Max Spiers, William Colby, Frank Edwards, Nuno Loureiro, Ron Rummel, Paul Bennewitz, GEC-Marconi Scientists (group). Added new sections: Journalists & Investigators, Government & Intelligence Insiders, UAP Physics Researchers (Recent Deaths), Confirmed Government Targeting, Defense Scientist Clusters. Expanded suspicious deaths table from 18 to 35+.*
 
 ---
 
-## Suspicious or Disputed Deaths in This Investigation: 18
+## Suspicious or Disputed Deaths in This Investigation: 35+
 
 | # | Name | Circumstances | Suspicion Level |
 |---|------|--------------|-----------------|
@@ -273,17 +340,34 @@ People who appear in both this project and sibling directories:
 | 2 | [Phil Schneider](Details/Phil_Schneider.md) | Found dead Jan 1996; catheter wrapped 3x around neck; no fingerprints on ligature; physical limitations made self-strangulation nearly impossible; publicly warned "If I ever commit suicide, I'll have been murdered" | **MURDERED / SUSPICIOUS** |
 | 3 | [Mark McCandlish](Details/Mark_McCandlish.md) | Gunshot wound April 2021 ruled suicide; had offered to testify before Senate Intelligence Committee on classified antigravity craft | **HIGHLY SUSPICIOUS** |
 | 4 | [William McCasland](Details/William_McCasland.md) | Retired USAF Major General disappeared Feb 27, 2026 from Albuquerque home; oversaw $4.4B AFRL research portfolio; anonymous exotic propulsion X account went silent same day | **HIGHLY SUSPICIOUS / DISAPPEARED** |
-| 5 | [Dean Warwick](Details/Dean_Warwick.md) | Collapsed on stage at UFO conference Oct 2006 moments before disclosing classified information; reported feeling a "beam" at side of head | **SUSPICIOUS** |
-| 6 | [Fred Bell](Details/Fred_Bell.md) | Died shortly after filming Jesse Ventura interview about directed energy weapons; Ventura publicly questioned circumstances | **SUSPICIOUS** |
-| 7 | [Ning Li](Details/Ning_Li.md) | Chinese-American antigravity physicist; received $449K DoD grant then vanished from public science; 2014 vehicle accident reportedly destroyed cognitive capacity; died July 2021 | **SUSPICIOUS** |
-| 8 | [Amy Eskridge](Details/Amy_Eskridge.md) | Antigravity researcher died at age 34; retired UK intelligence officer alleged death connected to her research; official ruling: suicide | **SUSPICIOUS** |
-| 9 | [Paul Brown](Details/Paul_Brown.md) | Alternative energy inventor killed after years of documented harassment | **SUSPICIOUS** |
-| 10 | [Rory Johnson](Details/Rory_Johnson.md) | Free energy inventor; midnight relocation of equipment followed by death; all prototypes and documentation disappeared | **SUSPICIOUS** |
-| 11 | [Stanley Meyer](Details/Stanley_Meyer.md) | Water fuel cell inventor died March 1998; brother reports last words were "They poisoned me"; official cause: cerebral aneurysm; toxicology found no poison | **DEBATED** |
-| 12 | [Morris Jessup](Details/Morris_Jessup.md) | UFO propulsion researcher; carbon monoxide death 1959 ruled suicide; was in "unexpectedly joyful" spirits the night before | **DEBATED** |
-| 13 | [Bruce DePalma](Details/Bruce_DePalma.md) | Free energy researcher died Oct 1997 weeks before scheduled N-Machine device testing | **SUSPICIOUS** |
-| 14 | [Wilbert Smith](Details/Wilbert_Smith.md) | Canadian govt physicist; cancer at age 52 in 1962; before death asked wife to hide all research files; intelligence from 3 nations sought his files after death | **LIGHTLY SUSPICIOUS** |
-| 15 | [Stefan Marinov](Details/Stefan_Marinov.md) | Bulgarian physicist died 1997 in Graz, Austria; referenced in "Harassment and Premature Deaths 1989-2004" documentation | **LIGHTLY SUSPICIOUS** |
-| 16 | [Philip Corso](Details/Philip_Corso.md) | Military whistleblower died one year after publishing *The Day After Roswell* (1997) detailing UAP reverse-engineering | **LIGHTLY SUSPICIOUS** |
-| 17 | [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | Electrogravitics pioneer died Oct 1985; cross-referenced to UAP Deaths investigation for suspicious circumstances | **LIGHTLY SUSPICIOUS** |
-| 18 | [Arie DeGeus](Details/Arie_DeGeus.md) | Zero-point energy battery inventor died at 45 en route to European investor meeting; mirrors pattern of inventors dying at commercialization junctures | **SUSPICIOUS** |
+| 5 | [James Forrestal](Details/James_Forrestal.md) | First Secretary of Defense; fell from 16th floor window at Bethesda Naval Hospital, May 1949; investigation classified 55 years; Willcutts Review Board did not conclude suicide | **HIGHLY SUSPICIOUS** |
+| 6 | [Ron Rummel](Details/Ron_Rummel.md) | Ex-Air Force intel, *Alien Digest* publisher; shot in mouth Aug 1993; no fingerprints on gun; suicide note written left-handed (was right-handed); body reportedly smelled of sodium pentothal | **HIGHLY SUSPICIOUS** |
+| 7 | [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | Journalist who published UFO confirmation in 1955; found dead Nov 1965 in wrong room, wrong clothes, reading finished book; three barbiturates found (one prescribed); research notes vanished | **HIGHLY SUSPICIOUS** |
+| 8 | [Danny Casolaro](Details/Danny_Casolaro.md) | Journalist investigating "the Octopus" (Area 51, PROMIS, covert tech); wrists slashed 10-12 times in hotel Aug 1991; told brother "don't believe it was an accident"; notes disappeared; body embalmed before family notified | **HIGHLY SUSPICIOUS** |
+| 9 | [Dean Warwick](Details/Dean_Warwick.md) | Collapsed on stage at UFO conference Oct 2006 moments before disclosing classified information; reported feeling a "beam" at side of head | **SUSPICIOUS** |
+| 10 | [Fred Bell](Details/Fred_Bell.md) | Died shortly after filming Jesse Ventura interview about directed energy weapons; Ventura publicly questioned circumstances | **SUSPICIOUS** |
+| 11 | [Ning Li](Details/Ning_Li.md) | Chinese-American antigravity physicist; received $449K DoD grant then vanished from public science; 2014 vehicle accident reportedly destroyed cognitive capacity; died July 2021 | **SUSPICIOUS** |
+| 12 | [Amy Eskridge](Details/Amy_Eskridge.md) | Antigravity researcher died at age 34; retired UK intelligence officer alleged death connected to her research; official ruling: suicide | **SUSPICIOUS** |
+| 13 | [Paul Brown](Details/Paul_Brown.md) | Alternative energy inventor killed after years of documented harassment | **SUSPICIOUS** |
+| 14 | [Rory Johnson](Details/Rory_Johnson.md) | Free energy inventor; midnight relocation of equipment followed by death; all prototypes and documentation disappeared | **SUSPICIOUS** |
+| 15 | [Ron Johnson](Details/Ron_Johnson.md) | MUFON Deputy Director working on UFO propulsion; collapsed at SSE meeting June 1994, age 43; face turned purple, blood from nose; autopsy inconclusive; in excellent health | **SUSPICIOUS** |
+| 16 | [Karl Wolfe](Details/Karl_Wolfe.md) | USAF sergeant who testified about Moon structures at 2001 Disclosure Project; struck and killed by tractor-trailer while cycling, Oct 2018 | **SUSPICIOUS** |
+| 17 | [Karla Turner](Details/Karla_Turner.md) | PhD researcher documenting alien abduction technology; explicitly threatened for her research; developed fast-acting cancer; died at 48 in Jan 1996 | **SUSPICIOUS** |
+| 18 | [Max Spiers](Details/Max_Spiers.md) | British UFO/classified programs researcher; vomited black liquid before dying in Warsaw, July 2016; texted mother "If anything happens to me, investigate"; narrative verdict at inquest | **SUSPICIOUS** |
+| 19 | [Frank Edwards](Details/Frank_Edwards.md) | UFO author; died of heart attack the night before World UFO Conference, June 1967; researcher reported receiving threats Edwards would not survive to attend | **SUSPICIOUS** |
+| 20 | [James McDonald](Details/James_McDonald.md) | Premier scientific UFO advocate; career systematically destroyed after congressional ridicule; suicide June 1971 after failed attempt left him blind; character assassination campaign documented | **SUSPICIOUS** |
+| 21 | [Viktor Schauberger](Details/Viktor_Schauberger.md) | Implosion/antigravity inventor; pressured into signing away all rights in the US; died 5 days after returning to Austria, Sept 1958; said "They took everything from me" | **SUSPICIOUS** |
+| 22 | [William Colby](Details/William_Colby.md) | Former CIA Director; allegedly about to transfer UAP technology knowledge; drowned after canoe trip, April 1996; dinner left uneaten; many associates did not believe official account | **SUSPICIOUS** |
+| 23 | [Nuno Loureiro](Details/Nuno_Loureiro.md) | MIT plasma physicist and Fusion Center Director; shot at home Dec 2025; part of cluster of scientist deaths cited by Rep. Burchett | **SUSPICIOUS** |
+| 24 | [Stanley Meyer](Details/Stanley_Meyer.md) | Water fuel cell inventor died March 1998; brother reports last words were "They poisoned me"; official cause: cerebral aneurysm; toxicology found no poison | **DEBATED** |
+| 25 | [Morris Jessup](Details/Morris_Jessup.md) | UFO propulsion researcher; carbon monoxide death 1959 ruled suicide; was in "unexpectedly joyful" spirits the night before | **DEBATED** |
+| 26 | [Bruce DePalma](Details/Bruce_DePalma.md) | Free energy researcher died Oct 1997 weeks before scheduled N-Machine device testing | **SUSPICIOUS** |
+| 27 | [T. Henry Moray](Details/T_Henry_Moray.md) | Radiant energy inventor; lab vandalized, family shot at, device destroyed by government liaison; survived assassination attempts but research was suppressed | **SUPPRESSED / TARGETED** |
+| 28 | [Paul Bennewitz](Details/Paul_Bennewitz.md) | UFO investigator near Kirtland AFB; confirmed AFOSI disinformation campaign deliberately drove him insane; institutionalized repeatedly; died 2003 | **CONFIRMED GOVT TARGETING** |
+| 29 | [GEC-Marconi Scientists](Details/GEC_Marconi_Scientists.md) | 25+ UK defense scientists working on SDI/directed energy died 1982-1990; raised in Parliament; odds calculated at 1 in 100 billion | **MASS SUSPICIOUS DEATHS** |
+| 30 | [Wilbert Smith](Details/Wilbert_Smith.md) | Canadian govt physicist; cancer at age 52 in 1962; before death asked wife to hide all research files; intelligence from 3 nations sought his files after death | **LIGHTLY SUSPICIOUS** |
+| 31 | [Stefan Marinov](Details/Stefan_Marinov.md) | Bulgarian physicist died 1997 in Graz, Austria; referenced in "Harassment and Premature Deaths 1989-2004" documentation | **LIGHTLY SUSPICIOUS** |
+| 32 | [Philip Corso](Details/Philip_Corso.md) | Military whistleblower died one year after publishing *The Day After Roswell* (1997) detailing UAP reverse-engineering | **LIGHTLY SUSPICIOUS** |
+| 33 | [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | Electrogravitics pioneer died Oct 1985; cross-referenced to UAP Deaths investigation for suspicious circumstances | **LIGHTLY SUSPICIOUS** |
+| 34 | [Arie DeGeus](Details/Arie_DeGeus.md) | Zero-point energy battery inventor died at 45 en route to European investor meeting; mirrors pattern of inventors dying at commercialization junctures | **SUSPICIOUS** |
+| 35 | [John Mack](Details/John_Mack.md) | Pulitzer Prize-winning Harvard psychiatrist studying abduction phenomena; struck by drunk driver in London, Sept 2004; most credible mainstream academic voice on the topic | **LIGHTLY SUSPICIOUS** |

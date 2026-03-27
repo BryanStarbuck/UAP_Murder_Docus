@@ -1,0 +1,74 @@
+# Henry Smolinski
+
+Aeronautical engineer killed when the wing strut of his flying car detached during a test flight. NTSB blamed "bad welds" on previously inspected components.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Henry Smolinski |
+| **Died** | September 11, 1973 |
+| **Location of Death** | Camarillo Airport, Ventura County, California |
+| **Cause of Death** | Aircraft crash — structural failure during test flight |
+| **Official Ruling** | Accidental death (equipment failure) |
+| **Category** | Automotive Inventor |
+
+## Assessment: MODERATE SUSPICION
+
+Smolinski and his business partner Harold Blake were killed when the right wing strut of their AVE Mizar flying car detached during a test flight near Camarillo Airport. The NTSB investigation found "bad welds" responsible for the structural failure — but the welds had previously been inspected and approved. The AVE Mizar concept, which mated a Ford Pinto with a Cessna Skymaster airframe, threatened both the automotive and aviation industries by making personal air transport affordable and fuel-efficient.
+
+## Circumstances of Death
+
+On September 11, 1973, Henry Smolinski and Harold Blake took off from Oxnard Airport in their AVE Mizar prototype — a Ford Pinto with a Cessna Skymaster rear wing and engine assembly bolted on top. During the flight near Camarillo Airport, the right wing strut separated from the car body, causing the aircraft to lose control and crash. Both men were killed.
+
+The NTSB investigation determined that poor-quality welds connecting the wing struts to the car body were the cause of the structural failure. However, these welds had been inspected prior to the flight.
+
+## Background
+
+Henry Smolinski was an aeronautical engineer and graduate of the Northrop Institute of Technology. He founded Advanced Vehicle Engineers (AVE) in Van Nuys, California, with the goal of creating a practical, affordable "roadable aircraft" — a car that could also fly.
+
+The AVE Mizar concept was designed to make personal air transport accessible to ordinary consumers. The system used a standard production car (Ford Pinto) that could be driven to an airport, where a detachable flight module (wings, tail, and rear engine from a Cessna Skymaster) would be attached. After landing at the destination, the flight module would be removed and the car driven normally.
+
+If successful, the concept would have:
+- Made personal air travel affordable by using a mass-produced car as the fuselage
+- Reduced fuel costs by using efficient automotive engines for ground travel
+- Threatened the commercial airline industry's monopoly on air travel
+- Challenged the automotive industry's assumption that cars were ground-only vehicles
+
+## Why This Death Possibly Raises Questions
+
+- NTSB found "bad welds" on components that had been previously inspected
+- The flying car concept threatened multiple established industries (airlines, automotive)
+- Both the inventor and his business partner were killed — eliminating the core team
+- The project died with its creators — no one continued the work
+- Structural failures in previously inspected welds raise questions about possible tampering
+- The concept of affordable personal air travel would have disrupted major economic interests
+
+## The Counterargument
+
+- The AVE Mizar was a genuinely dangerous prototype — bolting aircraft wings to a car body is inherently risky
+- The Ford Pinto was not designed to serve as an aircraft fuselage and lacked structural integrity for flight loads
+- Weld quality issues are common in prototype development, especially in small operations without aerospace-grade quality control
+- The NTSB investigation found a specific, documented mechanical failure
+- The concept had significant engineering challenges beyond suppression concerns
+- Many experimental aircraft have crashed due to structural failures without any conspiracy
+- The Ford Pinto itself was later recalled for safety issues (fuel tank design)
+
+## See Also
+
+- [Tom Ogle](Tom_Ogle.md) — Automotive inventor who died after demonstrating fuel efficiency breakthrough
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md) — Inventor of high-MPG carburetor, threatened and suppressed
+- [Rudolf Diesel](Rudolf_Diesel.md) — Inventor of the diesel engine who vanished from a ship
+
+## Other Shocking Stories
+
+- [Tom Ogle](Tom_Ogle.md): Invented a 100+ MPG engine, demonstrated it on national TV, then was shot and later found dead of a drug overdose.
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Invented a 200+ MPG carburetor in the 1930s. Oil companies paid him to bury it. He lived the rest of his life in silence.
+- [Rudolf Diesel](Rudolf_Diesel.md): Inventor of the diesel engine vanished from a ship crossing the English Channel. His body was found floating days later.
+
+## Sources
+
+- [Wikipedia — AVE Mizar](https://en.wikipedia.org/wiki/AVE_Mizar)
+- [Mental Floss — The Flying Pinto That Killed Its Inventor](https://www.mentalfloss.com/article/31341/flying-pinto-killed-its-inventor)
+- [The Drive — Tragic Story of the Flying Ford Pinto](https://www.thedrive.com/news/43549/the-tragic-story-of-the-flying-ford-pinto-ended-exactly-how-youd-expect)
+
+*This information was built by Grok and Claude AI research.*

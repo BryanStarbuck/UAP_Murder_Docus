@@ -1,0 +1,81 @@
+# Andrew Riley
+
+Cold fusion researcher killed at age 33 when an electrochemical cell exploded during a palladium-deuterium experiment at SRI International — one of the most promising LENR research programs of its era.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Andrew Riley |
+| **Born** | c. 1959 |
+| **Died** | January 2, 1992 |
+| **Age at Death** | 33 |
+| **Location of Death** | SRI International, Menlo Park, California |
+| **Cause of Death** | Explosion of electrochemical cell — massive head and upper body injuries |
+| **Official Ruling** | Accidental death (equipment failure) |
+| **Category** | Energy Researcher |
+
+## Assessment: SUSPICIOUS
+
+Andrew Riley was killed when a sealed palladium-deuterium electrochemical cell exploded during a cold fusion experiment at SRI International. The official investigation blamed a failed pressure-release valve, and hydrocarbon contamination was found inside the sealed cell. However, the experiment was among the most promising institutional LENR research programs in the world, funded by the Electric Power Research Institute (EPRI). The blast killed Riley, injured three colleagues including the lead researcher Michael McKubre, and effectively derailed one of the most significant cold fusion research efforts of the 1990s.
+
+## Circumstances of Death
+
+On January 2, 1992, Riley was working on cold fusion experiments at SRI International in Menlo Park, California. He and three colleagues — Michael McKubre, Stuart Smedley, and Steven Crouch-Baker — were conducting palladium-deuterium electrolysis experiments when a sealed electrochemical cell catastrophically exploded.
+
+Riley suffered massive injuries to his head and upper body and died at the scene. The three other researchers were injured, with McKubre (the lead researcher) sustaining significant injuries but surviving.
+
+The official NTSB/laboratory investigation attributed the explosion to a failed pressure-release valve on the sealed cell. Investigators also found hydrocarbon contamination inside the cell — an unusual finding for a sealed system that should have contained only palladium, deuterium, and electrolyte.
+
+## Background
+
+Andrew Riley was a former project manager at the University of Utah's National Cold Fusion Institute, making him one of the researchers closest to the original Fleischmann-Pons cold fusion announcement of 1989. After the National Cold Fusion Institute was shut down amid controversy, Riley moved to SRI International to continue LENR research under contract to the Electric Power Research Institute (EPRI).
+
+The SRI program, led by Dr. Michael McKubre, was one of the most rigorous and well-funded cold fusion research efforts in the world. Unlike many cold fusion experiments of the era, the SRI work was producing measurable excess heat results that could not be easily explained by conventional chemistry. The EPRI funding gave the program institutional credibility that most cold fusion research lacked.
+
+Riley's death at age 33 cut short the career of one of the few researchers who had worked on cold fusion from both the Utah and SRI programs.
+
+## Why This Death Possibly Raises Questions
+
+- The SRI program was producing some of the strongest institutional evidence for cold fusion at the time
+- The explosion effectively derailed the program for years and injured the lead researcher
+- Hydrocarbon contamination found inside a sealed cell is anomalous — how did it get there?
+- The failed pressure-release valve was a critical safety component that had been previously inspected
+- Riley was one of the few researchers who had worked on cold fusion at both Utah and SRI — unique institutional knowledge
+- The timing coincided with intense institutional opposition to cold fusion research
+- The blast had a chilling effect on other researchers considering entering the LENR field
+- Cold fusion research as a whole was systematically defunded and discredited during this period
+- Multiple other researchers in the cold fusion field died under suspicious circumstances
+
+## The Counterargument
+
+- Equipment failures in electrochemical experiments are a known hazard
+- Sealed pressure vessels can fail catastrophically due to manufacturing defects or material fatigue
+- The hydrocarbon contamination may have been introduced accidentally during cell preparation
+- NTSB investigation found a specific mechanical failure mode
+- No evidence of tampering was identified by investigators
+- The cold fusion field was experiencing legitimate scientific controversy — the program may have been shut down eventually regardless
+- SRI and McKubre continued LENR research after the accident, suggesting the blast did not permanently suppress the work
+
+## Key Quotes from Media Coverage
+
+> "Equipment failure was blamed in a laboratory explosion that killed a cold fusion researcher and injured three other scientists."
+> — **Deseret News**, January 4, 1992
+
+## See Also
+
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+
+## Other Shocking Stories
+
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion champion beaten to death days after announcing a breakthrough that could have transformed the energy industry.
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Arie DeGeus](Arie_DeGeus.md): Found dead in his car at Charlotte airport after flying in to finalize a deal for his revolutionary quantum energy generator.
+- [Tom Ogle](Tom_Ogle.md): Invented a 100+ MPG engine, demonstrated it on national TV, then was shot and later found dead of a drug overdose.
+
+## Sources
+
+- [Deseret News — Equipment Failure Blamed in Lab Explosion That Killed Cold Fusion Researcher](https://www.deseret.com/1992/1/4/18960119/equipment-failure-blamed-in-lab-explosion-that-killed-cold-fusion-researcher-br/)
+- [Seattle Times — Cold-Fusion Lab Blast Kills Scientist, Hurts 3](https://archive.seattletimes.com/archive/19920103/1468321/cold-fusion-lab-blast-kills-scientist-hurts-3)
+- [PubMed — Forensic Analysis of Lab Explosion](https://pubmed.ncbi.nlm.nih.gov/7876799/)
+- [New Energy Times — SRI International Cold Fusion Research](https://newenergytimes.com/)
+
+*This information was built by Grok and Claude AI research.*

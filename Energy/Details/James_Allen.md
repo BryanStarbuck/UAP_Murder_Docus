@@ -1,0 +1,77 @@
+# James Allen
+
+Documentary filmmaker who died of aggressive cancer within three months of diagnosis while editing his zero-point energy film. Post-mortem reportedly revealed radioactive poisoning.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | James Allen |
+| **Died** | 2013 |
+| **Location of Death** | United States |
+| **Cause of Death** | Aggressive rare cancer |
+| **Official Ruling** | Natural causes (cancer) |
+| **Category** | Journalist / Investigator |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Allen was diagnosed with an extremely aggressive, rare cancer while still in post-production on "Zero Point: The Story of Mark McCandlish and the Flux Liner," a documentary exposing classified antigravity and zero-point energy technology. He was dead within three months. Post-mortem toxicology reportedly revealed 12 heavy metals and radioisotopes at toxic levels in his blood, including thorium, uranium, manganese, and beryllium — substances consistent with deliberate radioactive poisoning, not natural cancer.
+
+## Circumstances of Death
+
+James Allen was a filmmaker and MFA student at the Savannah College of Art and Design (SCAD) who spent years researching and producing a feature-length documentary about Mark McCandlish's testimony regarding the Alien Reproduction Vehicle (ARV) and its zero-point energy propulsion system. The film, "Zero Point," covered classified antigravity technology, Lockheed Martin's alleged black programs, and the physics of vacuum energy extraction.
+
+While still editing the documentary — before it had been publicly released — Allen was diagnosed with an extremely aggressive form of cancer. The tumor reportedly behaved in a manner inconsistent with typical cancer progression, developing with extraordinary speed. He died within approximately three months of diagnosis.
+
+According to accounts from associates, post-mortem blood analysis revealed toxic levels of 12 heavy metals and radioisotopes, including thorium, uranium, beryllium, and manganese. These substances are not normally found in cancer patients and are consistent with deliberate exposure to radioactive materials.
+
+## Background
+
+Allen was a filmmaker who became deeply invested in the zero-point energy topic after encountering Mark McCandlish's account of seeing classified antigravity vehicles at a 1988 air show at Norton Air Force Base. McCandlish, an aerospace illustrator, described three disc-shaped craft — the "Flux Liner" or Alien Reproduction Vehicle — that allegedly used zero-point energy for propulsion.
+
+Allen's documentary investigated the physics behind these claims, the defense contractors allegedly involved (primarily Lockheed Martin), and the broader pattern of energy technology suppression. The film featured interviews with McCandlish and other researchers in the zero-point energy field.
+
+Allen was reportedly planning a follow-up film that would dig deeper into Lockheed Martin's classified programs when he was diagnosed.
+
+## Why This Death Possibly Raises Questions
+
+- Died before his documentary could be publicly released — the film came out after his death
+- The cancer was described as unusually aggressive, developing far faster than typical for the type
+- Post-mortem blood toxicology reportedly showed 12 heavy metals and radioisotopes at toxic levels
+- Thorium and uranium are radioactive elements not normally present in cancer patients
+- His research specifically targeted Lockheed Martin's alleged black programs in antigravity/ZPE
+- He was planning a follow-up documentary at the time of diagnosis
+- Mark McCandlish, the subject of Allen's documentary, was later found dead of an apparent gunshot wound in 2021 — ruled suicide
+- The pattern of people dying after investigating zero-point energy programs is well-documented
+
+## The Counterargument
+
+- Cancer can develop aggressively without external causes
+- The blood toxicology claims come from associates and alternative media, not from an official coroner's report released to the public
+- Heavy metal exposure can occur through environmental contamination unrelated to deliberate poisoning
+- Beryllium exposure is an occupational hazard in some industries
+- No criminal investigation was opened into his death
+- The documentary was eventually released, suggesting any suppression effort failed
+
+## Key Quotes from Media Coverage
+
+> "James Allen died of a very unusual and aggressive cancer while still editing the film. His blood was found to contain 12 heavy metals and radioisotopes at toxic levels."
+> — Multiple alternative media sources reporting on the circumstances
+
+## See Also
+
+- [Mark McCandlish](Mark_McCandlish.md) — Subject of Allen's documentary, later found dead of apparent gunshot wound in 2021
+
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Gasped "they poisoned me" at dinner with investors, collapsed and died in the parking lot. His water fuel cell vanished.
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion champion beaten to death days after announcing a breakthrough that could have transformed the energy industry.
+- [Dean Warwick](Dean_Warwick.md): Collapsed dead on stage mid-sentence at a UFO conference, moments before revealing who killed JFK.
+- [Arie DeGeus](Arie_DeGeus.md): Found dead in his car at Charlotte airport after flying in to finalize a deal for his revolutionary quantum energy generator.
+
+## Sources
+
+- [IMDB — Zero Point: The Story of Mark McCandlish and the Flux Liner](https://www.imdb.com/title/tt6111304/)
+- [Cairns News — Free Energy Inventors All Seem to Die](https://cairnsnews.org/2024/05/21/free-renewable-energy-inventors-all-seem-to-die/)
+- [Forbidden Knowledge TV — People Found Dead After Discovering Free Renewable Energy](https://forbiddenknowledgetv.net/people-found-dead-after-discovering-free-renewable-energy/)
+- [Open Minds TV — Documentary on Top Secret Antigravity Vehicle Released](https://openminds.tv/documentary-on-top-secret-antigravity-vehicle-released/)
+
+*This information was built by Grok and Claude AI research.*
