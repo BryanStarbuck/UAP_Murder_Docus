@@ -7,20 +7,9 @@ sidebar_position: 1
 
 # UAP-Related Deaths: Researchers, Whistleblowers, and Scientists Silenced (1949–Present)
 
-In July 2023, former intelligence officer David Grusch told Congress under oath that he had "personal knowledge" of people being harmed or killed to conceal the U.S. government's possession of non-human technology. When asked directly whether assassinations had occurred, he said he could only answer in a classified setting. He confirmed he feared for his own life.
+Researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology and UAP programs.
 
-Grusch is not the first to make this claim. As early as 1971, researcher Otto Binder documented 137 UFO researchers, scientists, and witnesses who had died under mysterious circumstances in the preceding decade. G. Cope Schellhorn has tabulated deaths of ufologists from "unusual cancers, heart attacks, questionable suicides, and all manner of strange happenings" since 1997. Author Nick Redfern's 2014 book *Close Encounters of the Fatal Kind* catalogued suspicious deaths, murders, and disappearances throughout UFO history.
-
-The killings — if that is what they are — follow a pattern: researchers or insiders who threaten to go public about UAP technology, classified programs, or reverse-engineering efforts die shortly before testimony, publication, or disclosure. The methods mirror intelligence-service tradecraft: staged suicides, car accidents, sudden illnesses, and professional destruction preceding death.
-
-There is a documented history of the U.S. military and intelligence community engaging in deception, misconduct, and, in documented cases, serious criminal activity. Allegations have also been made that individuals have been threatened or harmed in connection with classified UFO programs. The pattern of ethical failures within the federal government is sufficient reason for every mysterious death to receive a thorough, independent investigation.
-
-This project documents deaths, disappearances, and cases of extreme retaliation against individuals connected to UAP/UFO research, classified aerospace programs, exotic energy technology, and government disclosure efforts. **170 profiles documented.** The focus is on people who were allegedly silenced to protect the secrecy of:
-
-- **Recovered non-human craft and reverse-engineering programs**
-- **Classified aerospace and defense technology (SDI/Star Wars, black projects)**
-- **Zero-point energy, antigravity, and other suppressed physics**
-- **Government knowledge of non-human intelligence**
+170 people likely murdered.
 
 **For suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, and other suppressed breakthroughs, see [UAP Energy Systems Murders](/energy/).**
 
@@ -410,3 +399,22 @@ This documentary is in 3 parts. All are over 2 hours in length. It covers the ma
 *Last Updated: March 29, 2026 — Added Sentinel Network "THE BLIND SPOT" (March 25, 2026) fireball spike and 3I/ATLAS interstellar object context across all cluster profiles. Expanded cluster count to 11 names / 19 months. Added fireball/3I/ATLAS pattern to Patterns Worth Noting. Updated Grillmair (NEO detection blind spot, fireball context), Maiwald (orbital surveillance blind spot), Loureiro (plasma physics / fireball entry dynamics), and all cluster profiles with Blind Spot source.*
 
 **Suspicious deaths documented in this investigation: 125** — researchers, whistleblowers, pilots, and scientists who died under circumstances rated Moderate Suspicion or higher, connected to UAP/UFO programs, advanced propulsion, or disclosure efforts.
+
+---
+
+## Background
+
+In July 2023, former intelligence officer David Grusch told Congress under oath that he had "personal knowledge" of people being harmed or killed to conceal the U.S. government's possession of non-human technology. When asked directly whether assassinations had occurred, he said he could only answer in a classified setting. He confirmed he feared for his own life.
+
+Grusch is not the first to make this claim. As early as 1971, researcher Otto Binder documented 137 UFO researchers, scientists, and witnesses who had died under mysterious circumstances in the preceding decade. G. Cope Schellhorn has tabulated deaths of ufologists from "unusual cancers, heart attacks, questionable suicides, and all manner of strange happenings" since 1997. Author Nick Redfern's 2014 book *Close Encounters of the Fatal Kind* catalogued suspicious deaths, murders, and disappearances throughout UFO history.
+
+The killings — if that is what they are — follow a pattern: researchers or insiders who threaten to go public about UAP technology, classified programs, or reverse-engineering efforts die shortly before testimony, publication, or disclosure. The methods mirror intelligence-service tradecraft: staged suicides, car accidents, sudden illnesses, and professional destruction preceding death.
+
+There is a documented history of the U.S. military and intelligence community engaging in deception, misconduct, and, in documented cases, serious criminal activity. Allegations have also been made that individuals have been threatened or harmed in connection with classified UFO programs. The pattern of ethical failures within the federal government is sufficient reason for every mysterious death to receive a thorough, independent investigation.
+
+This project documents deaths, disappearances, and cases of extreme retaliation against individuals connected to UAP/UFO research, classified aerospace programs, exotic energy technology, and government disclosure efforts. **170 profiles documented.** The focus is on people who were allegedly silenced to protect the secrecy of:
+
+- **Recovered non-human craft and reverse-engineering programs**
+- **Classified aerospace and defense technology (SDI/Star Wars, black projects)**
+- **Zero-point energy, antigravity, and other suppressed physics**
+- **Government knowledge of non-human intelligence**

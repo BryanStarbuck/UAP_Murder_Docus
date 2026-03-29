@@ -7,19 +7,13 @@ sidebar_position: 1
 
 # Suppressed Science: Classified Breakthroughs & Scientists Who Threatened Powerful Interests
 
-This project investigates scientists, physicists, doctors, and researchers who made breakthroughs the government or powerful industries didn't want to happen — and who paid for it with their careers, their freedom, or their lives. This includes **UAP physics and propulsion**, **alternative energy**, **medical breakthroughs threatening pharmaceutical profits**, and **any scientific discovery that powerful interests sought to suppress**.
+Classified physics behind UAP propulsion — gravity manipulation, warp drives, exotic metamaterials, and the scientists killed for knowing too much.
 
-The core claim: **public science effectively stopped advancing in key areas around 1950** — when the US military recovered UAPs (Unidentified Aerial Phenomena), they discovered physics so fundamentally different from mainstream science that breakthroughs were classified and public physics was allowed to stagnate. But suppression extends beyond physics. Researchers investigating alternative cancer treatments, vaccine injuries, and other challenges to mainstream medicine have also died under suspicious circumstances. The pattern is the same: a scientist makes a threatening discovery, and the scientist is silenced.
-
-According to statements made by senior military officials — including a top general's disclosure to venture capitalist Marc Andreessen, as discussed on the Joe Rogan Experience — the classified world has made massive breakthroughs in physics that the public has never seen. During the Cold War, "entire branches of physics" were classified. The public was left with string theory and the Standard Model while classified programs allegedly leapt decades ahead in understanding energy, gravity, and spacetime. Meanwhile, the pharmaceutical industry generates over $600 billion annually in the US alone — creating enormous financial incentives to suppress cheap cures or alternative treatments.
-
-This project catalogs and evaluates the different **theses** for what suppressed science might include. For physics, each thesis addresses core questions: What powers UAPs? How do they achieve impossible flight characteristics? Can gravity be manipulated locally? Is faster-than-light travel possible? What do recovered materials tell us about the physics? For medical research, we ask: What treatments were researchers developing when they died? Who benefited from their silence? Each thesis is rated by evidence strength so readers can assess credibility for themselves.
-
-The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **FDA enforcement actions**, **whistleblower accounts**, and **investigative journalism**. We document all credible cases and let readers evaluate the evidence. **71 profiles documented.**
+71 people likely murdered.
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 
-**For suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, and other suppressed energy breakthroughs, see [UAP Energy Systems Murders](/energy/).**
+**For suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, and other suppressed breakthroughs, see [UAP Energy Systems Murders](/energy/).**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](https://intelligencemurders.com/epstein-murders).**
 
@@ -447,3 +441,17 @@ People who appear in both this project and sibling directories:
 ## Related Video
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/PNR0Q97TtRU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+
+---
+
+## Background
+
+This project investigates scientists, physicists, doctors, and researchers who made breakthroughs the government or powerful industries didn't want to happen — and who paid for it with their careers, their freedom, or their lives. This includes **UAP physics and propulsion**, **alternative energy**, **medical breakthroughs threatening pharmaceutical profits**, and **any scientific discovery that powerful interests sought to suppress**.
+
+The core claim: **public science effectively stopped advancing in key areas around 1950** — when the US military recovered UAPs (Unidentified Aerial Phenomena), they discovered physics so fundamentally different from mainstream science that breakthroughs were classified and public physics was allowed to stagnate. But suppression extends beyond physics. Researchers investigating alternative cancer treatments, vaccine injuries, and other challenges to mainstream medicine have also died under suspicious circumstances. The pattern is the same: a scientist makes a threatening discovery, and the scientist is silenced.
+
+According to statements made by senior military officials — including a top general's disclosure to venture capitalist Marc Andreessen, as discussed on the Joe Rogan Experience — the classified world has made massive breakthroughs in physics that the public has never seen. During the Cold War, "entire branches of physics" were classified. The public was left with string theory and the Standard Model while classified programs allegedly leapt decades ahead in understanding energy, gravity, and spacetime. Meanwhile, the pharmaceutical industry generates over $600 billion annually in the US alone — creating enormous financial incentives to suppress cheap cures or alternative treatments.
+
+This project catalogs and evaluates the different **theses** for what suppressed science might include. For physics, each thesis addresses core questions: What powers UAPs? How do they achieve impossible flight characteristics? Can gravity be manipulated locally? Is faster-than-light travel possible? What do recovered materials tell us about the physics? For medical research, we ask: What treatments were researchers developing when they died? Who benefited from their silence? Each thesis is rated by evidence strength so readers can assess credibility for themselves.
+
+The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **FDA enforcement actions**, **whistleblower accounts**, and **investigative journalism**. We document all credible cases and let readers evaluate the evidence. **71 profiles documented.**

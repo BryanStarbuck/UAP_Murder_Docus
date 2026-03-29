@@ -7,15 +7,9 @@ sidebar_position: 1
 
 # Suppressed Energy Breakthroughs: Suspicious Deaths of Inventors, Physicists, and Investors
 
-For over a century, inventors and researchers who have claimed breakthroughs in energy technology — zero-point energy, cold fusion, water fuel cells, radiant energy, and other systems that go beyond conventional combustion, batteries, and grid power — have died under circumstances that range from clearly natural to deeply suspicious. Labs have been raided. Patents have been seized under national security orders. Funding has been cut overnight. Careers have been destroyed.
+Inventors and physicists working on zero-point energy, cold fusion, water fuel cells, and other suppressed breakthroughs — killed for what they built.
 
-The pattern is consistent: an inventor or physicist announces or demonstrates a device that allegedly produces energy beyond what conventional physics says is possible. Then one or more of the following happens: government agencies issue gag orders or seize the technology, the inventor's lab is destroyed or ransacked, the inventor dies suddenly — often just before securing funding, publishing results, or going public — and the research disappears.
-
-Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
-
-This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **130 profiles documented.**
-
-**[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.
+130 people likely murdered.
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 
@@ -395,3 +389,15 @@ Social media posts documenting these cases have reached large audiences. While s
 ## Related Video
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/PNR0Q97TtRU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+
+---
+
+## Background
+
+For over a century, inventors and researchers who have claimed breakthroughs in energy technology — zero-point energy, cold fusion, water fuel cells, radiant energy, and other systems that go beyond conventional combustion, batteries, and grid power — have died under circumstances that range from clearly natural to deeply suspicious. Labs have been raided. Patents have been seized under national security orders. Funding has been cut overnight. Careers have been destroyed.
+
+The pattern is consistent: an inventor or physicist announces or demonstrates a device that allegedly produces energy beyond what conventional physics says is possible. Then one or more of the following happens: government agencies issue gag orders or seize the technology, the inventor's lab is destroyed or ransacked, the inventor dies suddenly — often just before securing funding, publishing results, or going public — and the research disappears.
+
+Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
+
+**[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.
