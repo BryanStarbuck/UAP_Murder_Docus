@@ -82,6 +82,11 @@ The Kecksburg UFO incident gained renewed attention when:
 - [Frank Edwards](Frank_Edwards.md) — UFO researcher who died the same year as the Kecksburg incident
 - [Todd Sees](Todd_Sees.md) — another Pennsylvania resident found dead after an alleged UAP encounter
 - [Karl Wolfe](Karl_Wolfe.md) — military witness who died before giving full testimony
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist found dead after investigating classified matters, all notes vanished
+- [Danny Casolaro](Danny_Casolaro.md) — investigative journalist found dead in hotel, research files disappeared
+- [Thomas Mantell](Thomas_Mantell.md) — military pilot killed during a UFO pursuit in 1948
+- [Felix Moncla](Felix_Moncla.md) — Air Force pilot who disappeared while pursuing a UFO over Lake Superior
+- [Frederick Valentich](Frederick_Valentich.md) — pilot who disappeared while reporting a UFO encounter
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning audiences he'd be killed for exposing underground bases

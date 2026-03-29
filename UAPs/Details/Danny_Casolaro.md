@@ -95,6 +95,10 @@ He told associates that the PROMIS software theft was connected to the same netw
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist found dead while investigating classified matters, notes disappeared
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose "suicide" has been challenged for decades
 - [James Forrestal](James_Forrestal.md) — Secretary of Defense who allegedly knew about Roswell, fell from hospital window
+- [Bob Lazar](Bob_Lazar.md) — Area 51 whistleblower who claimed to work on reverse-engineering alien craft
+- [Philip Corso](Philip_Corso.md) — Army colonel who wrote about Roswell technology being seeded to defense contractors
+- [Mae Brussell](Mae_Brussell.md) — conspiracy researcher who died of fast-acting cancer while investigating covert operations
+- [Jim Keith](Jim_Keith.md) — conspiracy author who died after knee surgery under suspicious circumstances
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases

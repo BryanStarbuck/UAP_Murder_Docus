@@ -96,8 +96,23 @@ The default Docusaurus table-of-contents (right sidebar) is replaced with a cura
 
 Entries are sorted by these criteria (in priority order):
 
-1. **Recency by decade** (highest priority) — people who died/disappeared in more recent decades sort above older decades. 2020s > 2010s > 2000s > 1990s > earlier. Within the same decade, use the remaining criteria to break ties.
-2. **Audience impact** — most shocking/suspicious deaths first, prioritizing highly suspicious cases, gruesome or unmistakable methods, and people whose knowledge or actions made them high-priority targets.
+1. **Americans killed on American soil** (highest priority) — US citizens who died on US soil sort above all others. Within this group, use the remaining criteria to break ties.
+2. **Victim role** — sort higher based on who the person was (highest to lowest):
+   - **Civilians / whistleblowers / insiders** — ordinary citizens, government/corporate whistleblowers, or insiders who knew too much. Highest priority.
+   - **Scientists / weapons researchers / UAP researchers** — researchers in UAP, zero-point energy, antigravity, advanced weapons, or related fields.
+   - **Political activists** — people targeted for political speech or activism. Lower than the above categories but still above general entries.
+3. **Child trafficking connection** — anyone linked to a child trafficking investigation, network, or whose death may have silenced knowledge of trafficking gets boosted above others at the same level.
+4. **Recency by decade** — people who died/disappeared in more recent decades sort above older decades. 2020s > 2010s > 2000s > 1990s > earlier. Within the same decade, use the remaining criteria to break ties.
+5. **Audience impact** — most shocking/suspicious deaths first, prioritizing highly suspicious cases, gruesome or unmistakable methods, and people whose knowledge or actions made them high-priority targets.
+6. **Everything else** — entries that don't fit the above categories sort to the bottom.
+
+## Content Ordering: Americans First + Role Priority
+
+This priority applies globally across all sections (UAPs, Energy, Physics), all content types, the right sidebar people list, and all main investigation page tables:
+
+- **Tables** on main investigation pages (index.md files) should list Americans killed on American soil first, followed by Americans killed abroad, then international cases. Within each group, apply the victim role and child trafficking criteria above.
+- **Heavily international tables** should be moved lower on main investigation pages, below tables that are predominantly American.
+- **Detail files** and sidebar entries follow the same sort: Americans on US soil → Americans abroad → international, then by victim role, child trafficking connection, recency, and audience impact within each group.
 
 The sidebar appears on all doc pages (desktop only, hidden below 996px). It is sticky and scrolls independently.
 
@@ -109,6 +124,37 @@ The data is in `src/theme/TOC/index.tsx` in the `people` array. Each entry has:
 - `blurb` — 28-word-max description
 
 To add/remove/reorder people, edit the array. All 80 link to the UAPs section since it has the most comprehensive profiles (152 files).
+
+## Cross-Investigation Links
+
+Every investigation's `index.md` must include a block of cross-links near the introduction (after the intro paragraphs, before the first table). Each link is a bold sentence with a short description of what the other investigation covers.
+
+### Internal links (within this Docusaurus site)
+
+Each section links to the other two sections using internal Docusaurus paths:
+- UAPs → `/energy/` and `/physics/`
+- Energy → `/uaps/` and `/physics/`
+- Physics → `/uaps/` and `/energy/`
+
+### External links (to other Docusaurus sites)
+
+Each section also links to the two investigations on https://intelligencemurders.com/:
+- **Epstein Kill List** → `https://intelligencemurders.com/epstein-murders`
+- **Intel Murders** → `https://intelligencemurders.com/intelligence-service-murders`
+
+### Link format
+
+Each cross-link is a bold paragraph with a few descriptive words and a hyperlink:
+```
+**For [short description of what the investigation covers], see [Investigation Name](URL).**
+```
+
+### Source site reference
+
+| Site | Public URL | Local Repo |
+|------|-----------|------------|
+| UAP Murders | https://uapmurders.com/ | `~/BGit/Bryan/UAP_Murder_Docus` |
+| Intelligence Murders | https://intelligencemurders.com/ | `~/BGit/Bryan/Intel_Murder_Docus` |
 
 ## Last Sync
 

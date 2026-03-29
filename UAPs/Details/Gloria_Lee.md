@@ -66,6 +66,17 @@ When Lee presented her blueprints to government officials in Washington, she was
 - [George Adamski](George_Adamski.md) — most famous UFO contactee, died under debated circumstances
 - [Paul Bennewitz](Paul_Bennewitz.md) — UFO researcher driven to breakdown by AFOSI disinformation campaign
 - [Don Elkins](Don_Elkins.md) — UFO researcher whose death was connected to channeling activities
+- [Frank Edwards](Frank_Edwards.md) — UFO author who died of a heart attack during the peak of 1960s UFO research
+- [Morris Jessup](Morris_Jessup.md) — UFO researcher who died by apparent suicide in 1959, three years before Lee
+- [Coral Lorenzen](Coral_Lorenzen.md) — co-founded APRO the same decade Lee was active in the contactee movement
+- [Otto Binder](Otto_Binder.md) — documented 137 UFO researcher deaths including contactee-era figures
+
+## Other Shocking Stories
+
+- [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases
+- [Karla Turner](Karla_Turner.md) — alien abduction researcher struck down by fast-acting cancer at 48
+- [Todd Sees](Todd_Sees.md) — found dead and emaciated after being seen pulled into a craft by beam of light
+- [Max Spiers](Max_Spiers.md) — vomited black fluid and died after texting mother "if anything happens, investigate"
 
 ## Sources
 

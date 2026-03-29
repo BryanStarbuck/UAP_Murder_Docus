@@ -62,6 +62,10 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Floyd Sweet](Floyd_Sweet.md) — VTA inventor who received death threats before his death
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who relocated and died mysteriously
+- [Mark Tomion](Mark_Tomion.md) — "Star Drive" zero-point energy inventor who died of unexpected cardiac event after developing prototype
+- [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly after years of demonstrating electromagnetic devices
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneer whose advanced energy research was seized by the government after his death
+- [Troy Reed](Troy_Reed.md) — Magnetic motor inventor who died after demonstrating technology to investors
 
 ## Other Shocking Stories
 

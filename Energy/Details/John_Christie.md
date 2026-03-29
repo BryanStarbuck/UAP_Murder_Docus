@@ -1,6 +1,6 @@
 
 # John Christie
-Australian inventor who co-developed the Lutec 1000 over-unity electromagnetic device with Lou Britz. According to alternative energy community sources and social media posts, Christie reportedly "vanished" at some point and was later confirmed dead in 2017, under circumstances that remain poorly documented.
+Australian inventor who co-developed the Lutec 1000 over-unity electromagnetic device with [Lou Britz](Lou_Britz.md). According to alternative energy community sources and social media posts, Christie reportedly "vanished" at some point and was later confirmed dead in 2017, under circumstances that remain poorly documented.
 
 | Field | Details |
 |-------|---------|
@@ -67,6 +67,11 @@ No mainstream media quotes about Christie's death or the circumstances of his di
 - [Lou Britz](Lou_Britz.md) — Co-inventor of the Lutec 1000; reportedly died under mysterious circumstances
 - [John Bedini](John_Bedini.md) — Another over-unity electromagnetic device inventor who died in 2016
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Inventor of an electromagnetic "energy machine" who faced decades of patent suppression
+- [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats; research materials confiscated after death
+- [Edwin Gray](Edwin_Gray.md) — EMA motor inventor found dead alone; all motors vanished; two associates also died mysteriously
+- [Troy Reed](Troy_Reed.md) — Magnetic motor inventor who demonstrated over-unity device before dying under suspicious circumstances
+- [Thomas Bearden](Thomas_Bearden.md) — Over-unity researcher who documented electromagnetic energy extraction from the vacuum
+- [Bill Yelon](Bill_Yelon.md) — Over-unity device inventor who died suddenly in 2018 shortly after announcing his technology was ready for market
 
 ## Other Shocking Stories
 

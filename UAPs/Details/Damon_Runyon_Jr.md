@@ -29,7 +29,7 @@ Damon Runyon Jr. was the son of Damon Runyon, one of America's most famous journ
 
 ### UFO Writing
 
-Runyon Jr. wrote about UFO topics among other subjects. He appeared on G. Cope Schellhorn's and Otto Binder's lists of UFO-connected individuals who died under suspicious or unusual circumstances.
+Runyon Jr. wrote about UFO topics among other subjects. He appeared on G. Cope Schellhorn's and [Otto Binder](Otto_Binder.md)'s lists of UFO-connected individuals who died under suspicious or unusual circumstances.
 
 ## Why This Death Possibly Raises Questions
 
@@ -50,6 +50,16 @@ Runyon Jr. wrote about UFO topics among other subjects. He appeared on G. Cope S
 - [James Forrestal](James_Forrestal.md) — Secretary of Defense who fell from a hospital window
 - [Morris Jessup](Morris_Jessup.md) — UFO researcher whose death was ruled suicide
 - [James McDonald](James_McDonald.md) — atmospheric physicist and UFO researcher who died by suicide
+- [Otto Binder](Otto_Binder.md) — documented 137 UFO researcher deaths in his 1971 article, including Runyon
+- [Frank Edwards](Frank_Edwards.md) — UFO author who died of a heart attack during the same era
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist investigating UFOs and JFK, found dead with notes missing
+
+## Other Shocking Stories
+
+- [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases
+- [Karl Wolfe](Karl_Wolfe.md) — Air Force analyst killed in hit-and-run after revealing moon base photographs
+- [Mark McCandlish](Mark_McCandlish.md) — shotgun death ruled suicide days before testimony on anti-gravity craft
+- [William Cooper](William_Cooper.md) — shot dead by authorities after years of exposing government UFO secrets
 
 ## Sources
 

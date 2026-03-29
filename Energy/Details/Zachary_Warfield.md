@@ -15,7 +15,7 @@ Former CIA science and weapons analyst with MIT propulsion credentials, killed i
 
 ## Assessment: SUSPICIOUS
 
-A former CIA science, technology, and weapons analyst with a perfect 5.0 GPA from MIT in jet propulsion engineering dies in a "boating accident" on the Potomac River on July 4, 2011 — the same year he had been visiting plasma battery inventors, including Dimitri Petronov (who also disappeared under suspicious circumstances). Warfield co-founded a defense and intelligence consulting firm after leaving the CIA. His background suggests deep access to classified energy and propulsion technologies.
+A former CIA science, technology, and weapons analyst with a perfect 5.0 GPA from MIT in jet propulsion engineering dies in a "boating accident" on the Potomac River on July 4, 2011 — the same year he had been visiting plasma battery inventors, including [Dimitri Petronov](Dimitri_Petronov.md) (who also disappeared under suspicious circumstances). Warfield co-founded a defense and intelligence consulting firm after leaving the CIA. His background suggests deep access to classified energy and propulsion technologies.
 
 ## Circumstances of Death
 
@@ -29,14 +29,14 @@ Warfield had an exceptional academic and professional background:
 - **CIA Science, Technology, and Weapons Analyst** (2003-2005) — analyzed foreign weapons systems and emerging technologies
 - **Co-founder of Omnis Inc.** — a McLean, Virginia-based strategic consulting firm serving intelligence, defense, and national security clients
 
-In 2010, Warfield reportedly visited plasma battery inventor Dimitri Petronov and at least one other American plasma battery inventor, claiming to represent "investors" interested in their technology. Petronov himself disappeared under suspicious circumstances.
+In 2010, Warfield reportedly visited plasma battery inventor [Dimitri Petronov](Dimitri_Petronov.md) and at least one other American plasma battery inventor, claiming to represent "investors" interested in their technology. Petronov himself disappeared under suspicious circumstances.
 
 ## Why This Death Possibly Raises Questions
 
 - Former CIA analyst with weapons and technology expertise dies at age 35
 - His MIT specialization was in jet propulsion — directly relevant to advanced energy and propulsion research
 - He had visited plasma battery inventors in 2010, claiming to represent investors
-- Dimitri Petronov, one of the inventors he visited, also disappeared under suspicious circumstances
+- [Dimitri Petronov](Dimitri_Petronov.md), one of the inventors he visited, also disappeared under suspicious circumstances
 - His company Omnis served intelligence and national security clients — raising questions about whether his "investor" visits were intelligence operations
 - Died on July 4 (holiday weekend) — a time when incidents receive less media scrutiny
 - Boating accidents on the Potomac have been used in other suspicious deaths in the D.C. intelligence community
@@ -53,6 +53,13 @@ In 2010, Warfield reportedly visited plasma battery inventor Dimitri Petronov an
 ## See Also
 
 - [Dimitri Petronov](Dimitri_Petronov.md) — Plasma battery inventor visited by Warfield, who also disappeared under suspicious circumstances
+- [Alexander Chernetsky](Alexander_Chernetsky.md) — Soviet plasma generator researcher who also died in a suspicious accident
+- [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding for his quantum energy generator
+- [Mark McCandlish](Mark_McCandlish.md) — Documented classified antigravity craft; found dead before congressional testimony
+- [Amy Eskridge](Amy_Eskridge.md) — NASA Marshall antigravity researcher found dead after reporting threats and surveillance
+- [Ning Li](Ning_Li.md) — Antigravity physicist who received DoD funding, then vanished from public life
+- [Paulo Correa](Paulo_Correa.md) — Researcher who developed plasma-based energy devices with anomalous energy output
+- [Phil Schneider](/uaps/Details/Phil_Schneider) — Claimed knowledge of deep underground bases with advanced technology; found dead with piano wire around his neck
 
 ## Other Shocking Stories
 

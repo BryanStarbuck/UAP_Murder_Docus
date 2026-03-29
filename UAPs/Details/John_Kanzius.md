@@ -61,6 +61,10 @@ The Kanzius water-splitting phenomenon is real and verified, but mainstream scie
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Andrija Puharich](Andrija_Puharich.md) — Medical inventor with US patent for water-splitting method
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Paul Pantone](Paul_Pantone.md) — GEET plasma reactor inventor committed to mental hospital after demonstrating water-fuel technology
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneer of electromagnetic technology whose research was seized after death
+- [Rudolf Diesel](Rudolf_Diesel.md) — Inventor who disappeared from a ship after developing efficient engine technology
+- [Tom Ogle](Tom_Ogle.md) — Fuel efficiency inventor shot and poisoned before age 26
 
 ## Other Shocking Stories
 

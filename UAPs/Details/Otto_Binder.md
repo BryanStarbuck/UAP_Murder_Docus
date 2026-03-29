@@ -83,6 +83,11 @@ Binder's documentation of 137 deaths in a single decade remains one of the most 
 - [J. Allen Hynek](J_Allen_Hynek.md) — leading UFO researcher who died of a brain tumor
 - [Ivan Sanderson](Ivan_Sanderson.md) — UFO researcher who died of cancer
 - [Stanton Friedman](Stanton_Friedman.md) — nuclear physicist and UFO researcher
+- [Coral Lorenzen](Coral_Lorenzen.md) — APRO co-founder listed on Binder's compilation, died 1988
+- [Jim Lorenzen](Jim_Lorenzen.md) — APRO co-founder listed on Binder's compilation, died 1986
+- [Morris Jessup](Morris_Jessup.md) — UFO researcher whose 1959 death was among those Binder documented
+- [Damon Runyon Jr.](Damon_Runyon_Jr.md) — UFO writer listed on Binder's compilation of suspicious deaths
+- [George Adamski](George_Adamski.md) — most famous contactee whose death Binder documented
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for underground base revelations

@@ -77,6 +77,11 @@ Tiwari was well-known in India as a media personality, appearing on television p
 - [Max Spiers](Max_Spiers.md) — young UFO researcher who died under suspicious circumstances after warning his mother
 - [Dean Warwick](Dean_Warwick.md) — collapsed dead mid-lecture at a UFO conference
 - [Ron Bonds](Ron_Bonds.md) — UFO publisher who died of statistically improbable food poisoning
+- [Paul Vigay](Paul_Vigay.md) — UFO and crop circle researcher found dead in the sea, ruled suicide
+- [Jim Keith](Jim_Keith.md) — conspiracy author who died after routine knee surgery
+- [Fred Bell](Fred_Bell.md) — died hours after filming a UFO-related TV interview
+- [Karla Turner](Karla_Turner.md) — abduction researcher struck down by fast-acting cancer at 48
+- [Don Elkins](Don_Elkins.md) — UFO researcher whose death was connected to paranormal activities
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases

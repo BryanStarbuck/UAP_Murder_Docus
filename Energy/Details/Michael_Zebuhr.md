@@ -52,6 +52,11 @@ While Wood's WTC theories are controversial, the directed energy research itself
 ## See Also
 
 - [James Allen](James_Allen.md) — Documentary filmmaker who died while making a film about zero-point energy technology
+- [Karen Silkwood](Karen_Silkwood.md) — Nuclear whistleblower killed en route to meet a journalist with evidence
+- [Fred Bell](Fred_Bell.md) — Physicist and inventor who died hours after filming an interview about suppressed technology
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion researcher beaten to death days after announcing a major breakthrough
+- [Mark McCandlish](Mark_McCandlish.md) — Documented antigravity craft; found dead of shotgun wound ruled suicide before congressional testimony
+- [Amy Eskridge](Amy_Eskridge.md) — NASA antigravity researcher found dead of gunshot ruled suicide after reporting threats
 
 ## Other Shocking Stories
 

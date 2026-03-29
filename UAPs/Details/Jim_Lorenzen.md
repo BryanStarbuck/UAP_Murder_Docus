@@ -61,6 +61,11 @@ Jim co-authored several books with Coral:
 - [J. Allen Hynek](J_Allen_Hynek.md) — leading UFO researcher who died of a brain tumor
 - [Karla Turner](Karla_Turner.md) — UFO researcher who died of fast-acting cancer
 - [Otto Binder](Otto_Binder.md) — documented 137 UFO researcher deaths
+- [Frank Edwards](Frank_Edwards.md) — UFO author and broadcaster who died of a heart attack
+- [Ivan Sanderson](Ivan_Sanderson.md) — UFO researcher who died of cancer, contemporary of the Lorenzens
+- [Stanton Friedman](Stanton_Friedman.md) — nuclear physicist and UFO researcher
+- [Edward Ruppelt](Edward_Ruppelt.md) — former head of Project Blue Book who died young
+- [Leonard Stringfield](Leonard_Stringfield.md) — UFO crash retrieval researcher who worked in the same era as APRO
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed

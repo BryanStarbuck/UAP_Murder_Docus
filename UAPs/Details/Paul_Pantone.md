@@ -67,6 +67,11 @@ Pantone was released from the Utah State Mental Hospital in May 2009, but his he
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Energy Machine inventor who fought the US Patent Office for 7+ years
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
+- [John Kanzius](John_Kanzius.md) — RF water-splitting inventor whose research stalled after his death from cancer
+- [Tom Ogle](Tom_Ogle.md) — 100+ MPG fuel system inventor shot and poisoned before age 26
+- [Paul Bennewitz](Paul_Bennewitz.md) — UFO researcher driven to breakdown by government disinformation, another case of institutional targeting
+- [Andrija Puharich](Andrija_Puharich.md) — Medical inventor with water-splitting patent whose lab was burned down
+- [John Bedini](John_Bedini.md) — Free energy device inventor who died in 2016
 
 ## Other Shocking Stories
 

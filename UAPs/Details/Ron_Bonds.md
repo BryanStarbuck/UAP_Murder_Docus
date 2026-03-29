@@ -83,6 +83,11 @@ Bonds died in April 2001 — just months before the September 11 attacks. His de
 - [Dean Warwick](Dean_Warwick.md) — researcher who collapsed dead mid-lecture at a UFO conference
 - [Max Spiers](Max_Spiers.md) — researcher who died after vomiting black fluid, just before a UFO conference presentation
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating government conspiracies, found dead in hotel
+- [William Cooper](William_Cooper.md) — UFO author shot dead after years of exposing government secrets
+- [Jim Keith](Jim_Keith.md) — conspiracy author who died after routine knee surgery
+- [Mae Brussell](Mae_Brussell.md) — conspiracy researcher who died of fast-acting cancer
+- [Benito Que](Benito_Que.md) — microbiologist found beaten near his lab in November 2001, months after Bonds died in April 2001
+- [Frank Scully](Frank_Scully.md) — early UFO author who documented crash retrievals
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases

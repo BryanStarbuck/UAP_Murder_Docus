@@ -62,6 +62,10 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Floyd Sweet](Floyd_Sweet.md) — VTA inventor who received death threats before his death
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who relocated and died mysteriously
+- [Zachary Warfield](Zachary_Warfield.md) — Former CIA analyst who visited plasma battery inventors including Petronov; died in boating accident at age 35
+- [Alexander Chernetsky](Alexander_Chernetsky.md) — Soviet physicist who demonstrated a plasma generator producing 5x energy output; died in car accident after traveling to the US
+- [Ning Li](Ning_Li.md) — Antigravity physicist who received DoD funding and top secret clearance, then vanished from public life
+- [Paulo Correa](Paulo_Correa.md) — Researcher who developed plasma-based energy devices with anomalous energy output
 
 ## Other Shocking Stories
 

@@ -61,6 +61,11 @@ The Kanzius water-splitting phenomenon is real and verified, but mainstream scie
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Andrija Puharich](Andrija_Puharich.md) — Medical inventor with US patent for water-splitting method
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Daniel Dingel](Daniel_Dingel.md) — Filipino inventor who demonstrated a water-powered car for decades before dying in prison
+- [Francisco Pacheco](Francisco_Pacheco.md) — Inventor of a hydrogen generator using sea water; technology suppressed after his death
+- [Bob Boyce](Bob_Boyce.md) — Electrolyzer inventor who achieved high-efficiency hydrogen production; survived multiple attacks
+- [Yull Brown](Yull_Brown.md) — Inventor of Brown's Gas (HHO) hydrogen-oxygen technology; died under disputed circumstances
+- [Aaron Salter Jr.](Aaron_Salter_Jr.md) — Invented a water-powered engine; killed in the 2022 Buffalo mass shooting
 
 ## Other Shocking Stories
 

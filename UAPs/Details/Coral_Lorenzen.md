@@ -77,6 +77,10 @@ APRO's dissolution after the Lorenzens' deaths left a significant gap in civilia
 - [J. Allen Hynek](J_Allen_Hynek.md) — leading UFO researcher who died of a brain tumor
 - [Stanton Friedman](Stanton_Friedman.md) — nuclear physicist and UFO researcher
 - [Otto Binder](Otto_Binder.md) — documented 137 UFO researcher deaths
+- [Frank Edwards](Frank_Edwards.md) — UFO author and broadcaster who died during the same era of civilian UFO research
+- [Ivan Sanderson](Ivan_Sanderson.md) — UFO researcher who died of cancer, another early civilian investigator
+- [Edward Ruppelt](Edward_Ruppelt.md) — former head of Project Blue Book who died young of a heart attack
+- [Leonard Stringfield](Leonard_Stringfield.md) — UFO crash retrieval researcher who corresponded with APRO
 
 ## Other Shocking Stories
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases

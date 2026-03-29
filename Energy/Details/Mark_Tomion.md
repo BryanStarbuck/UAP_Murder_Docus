@@ -57,6 +57,11 @@ In 2009, Tomion allegedly developed a working prototype of his technology. Detai
 - [Floyd Sweet](Floyd_Sweet.md) — VTA inventor whose research materials were allegedly confiscated after death
 - [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneered radiant energy and vacuum energy concepts; research seized by government after death
+- [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor shot at multiple times; lab partner destroyed his device
+- [Ning Li](Ning_Li.md) — Antigravity physicist who received DoD funding, then vanished from public life entirely
+- [Ken Shoulders](Ken_Shoulders.md) — Researcher studying exotic vacuum objects and charge clusters with energy implications
+- [Zero-Point Energy](/physics/Details/Zero_Point_Energy) — Overview of vacuum energy extraction and its suppression history
 
 ## Other Shocking Stories
 

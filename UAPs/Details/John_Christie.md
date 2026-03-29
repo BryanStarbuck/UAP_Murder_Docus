@@ -65,6 +65,10 @@ No mainstream media quotes about Christie's death or the circumstances of his di
 - [Lou Britz](Lou_Britz.md) — Co-inventor of the Lutec 1000; reportedly died under mysterious circumstances
 - [John Bedini](John_Bedini.md) — Another over-unity electromagnetic device inventor who died in 2016
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Inventor of an electromagnetic "energy machine" who faced decades of patent suppression
+- [Floyd Sweet](Floyd_Sweet.md) — VTA over-unity device inventor who received death threats
+- [Troy Reed](Troy_Reed.md) — Magnetic motor inventor who died after demonstrating his technology
+- [Thomas Bearden](Thomas_Bearden.md) — Electromagnetic energy researcher and over-unity technology advocate
+- [John Searl](John_Searl.md) — SEG magnetic generator inventor who faced repeated suppression
 
 ## Other Shocking Stories
 

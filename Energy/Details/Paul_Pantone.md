@@ -67,6 +67,11 @@ Pantone was released from the Utah State Mental Hospital in May 2009, but his he
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Energy Machine inventor who fought the US Patent Office for 7+ years
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
+- [Daniel Dingel](Daniel_Dingel.md) — Filipino water-powered car inventor who died in prison after conviction
+- [Gerald Schaflander](Gerald_Schaflander.md) — Energy inventor imprisoned on questionable charges related to his technology
+- [Tom Ogle](Tom_Ogle.md) — 100+ MPG engine inventor who was shot and poisoned before age 26
+- [John Kanzius](John_Kanzius.md) — Discovered RF-induced salt water dissociation; research stalled after his death
+- [Bob Boyce](Bob_Boyce.md) — Electrolyzer inventor who survived multiple attacks related to his hydrogen technology
 
 ## Other Shocking Stories
 

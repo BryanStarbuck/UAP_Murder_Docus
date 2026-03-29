@@ -49,6 +49,12 @@ Chernetsky published papers on his research and the device was examined by other
 
 - [Nikola Tesla](Nikola_Tesla.md) — Another researcher working on vacuum energy extraction
 - [Thomas Bearden](Thomas_Bearden.md) — American researcher who also worked on vacuum energy theories
+- [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who also claimed to extract energy from the vacuum
+- [Ken Shoulders](Ken_Shoulders.md) — Researcher who studied charge clusters and exotic vacuum objects with energy implications
+- [Dimitri Petronov](Dimitri_Petronov.md) — Russian plasma battery inventor who disappeared after demonstrating his technology to military officials
+- [Paulo Correa](Paulo_Correa.md) — Researcher who developed plasma-based energy devices and reported anomalous energy output
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who researched rotational inertial field effects
+- [Paramahamsa Tewari](Paramahamsa_Tewari.md) — Indian physicist who developed a space vortex theory and over-unity generator
 
 ## Other Shocking Stories
 

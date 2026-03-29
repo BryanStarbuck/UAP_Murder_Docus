@@ -57,6 +57,11 @@ In 2009, Tomion allegedly developed a working prototype of his technology. Detai
 - [Floyd Sweet](Floyd_Sweet.md) — VTA inventor whose research materials were allegedly confiscated after death
 - [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Dimitri Petronov](Dimitri_Petronov.md) — Plasma battery inventor who vanished after military demonstrations
+- [Ning Li](Ning_Li.md) — Anti-gravity physicist who vanished after receiving DOD funding
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who collapsed and died at a restaurant
+- [Bruce DePalma](Bruce_DePalma.md) — N-machine inventor who died under disputed circumstances
+- [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who documented anti-gravity craft before his death
 
 ## Other Shocking Stories
 

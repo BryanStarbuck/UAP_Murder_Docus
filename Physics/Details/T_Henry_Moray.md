@@ -34,7 +34,7 @@ The Moray Radiant Energy Device was the central invention of Moray's career and 
 
 Moray demonstrated his device on several hundred occasions throughout the 1930s and early 1940s. Witnesses included electrical engineering professors, US congressmen, government dignitaries, and independent investigators. In one notable demonstration, Moray transported the device several miles outside Salt Lake City, far from any power lines, and allowed independent observers to completely disassemble and reassemble it before operation. The device reportedly lit a bank of 35 light bulbs during these demonstrations.
 
-In 1973, Lt. Col. Thomas Bearden, a nuclear engineer with the US Army Missile Command, wrote of a Moray demonstration he had witnessed: "It was not mumbo-jumbo, or mythology, or some kind of trick, but a legitimate, widely recognized demonstration that got electricity out of thin air."
+In 1973, Lt. Col. [Thomas Bearden](/uaps/Details/Thomas_Bearden), a nuclear engineer with the US Army Missile Command, wrote of a Moray demonstration he had witnessed: "It was not mumbo-jumbo, or mythology, or some kind of trick, but a legitimate, widely recognized demonstration that got electricity out of thin air."
 
 ### Patent Struggles
 
@@ -81,7 +81,7 @@ Moray's work is significant to UAP physics research for several reasons:
 ## Key Quotes
 
 > "It was not mumbo-jumbo, or mythology, or some kind of trick, but a legitimate, widely recognized demonstration that got electricity out of thin air."
-> -- Lt. Col. Thomas Bearden, US Army Missile Command nuclear engineer, 1973
+> -- Lt. Col. [Thomas Bearden](/uaps/Details/Thomas_Bearden), US Army Missile Command nuclear engineer, 1973
 
 > "The sea of energy in which the earth floats -- energy which is as much in a vacuum as in the matter of the earth."
 > -- T. Henry Moray, describing his theory of ambient radiant energy
@@ -111,6 +111,14 @@ Moray's story remains one of the most extensively documented cases of an alterna
 - [Paul Brown](Paul_Brown.md) -- Alternative energy inventor (Resonant Nuclear Battery) who was killed after years of harassment; similar pattern of sustained intimidation
 - [Hal Puthoff](Hal_Puthoff.md) -- Physicist who has published theoretical work on zero-point energy extraction; provides the modern theoretical framework that connects to Moray's experimental claims
 - [Arie DeGeus](Arie_DeGeus.md) -- Inventor of a claimed zero-point energy battery who died under suspicious circumstances while seeking commercialization funding
+- [Stanley Meyer](Stanley_Meyer.md) -- Inventor of a water fuel cell who died suddenly in 1998 after claiming his invention could replace fossil fuels; another energy inventor whose death followed sustained threats and intimidation
+- [Floyd Sweet](Floyd_Sweet.md) -- Inventor of the Vacuum Triode Amplifier who claimed to extract energy from the quantum vacuum; his solid-state approach parallels Moray's use of specialized semiconductor-like tubes
+- [John Bedini](John_Bedini.md) -- Inventor who built devices allegedly tapping into radiant energy, directly inspired by Moray's and Tesla's work on ambient energy extraction
+- [Bruce DePalma](Bruce_DePalma.md) -- Physicist and inventor of the N-Machine homopolar generator who claimed over-unity energy output; another researcher who faced suppression while pursuing unconventional energy generation
+- [Viktor Schauberger](Viktor_Schauberger.md) -- Austrian inventor whose implosion-based energy and propulsion work was seized by US authorities after WWII; represents the same pattern of government confiscation of revolutionary energy technology that Moray experienced
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) -- Physicist who researched electrogravitics and whose work on electromagnetic propulsion intersects with Moray's research on radiant energy and electromagnetic phenomena
+- [Rory Johnson](Rory_Johnson.md) -- Inventor who claimed to develop a magnetic motor producing excess energy and died under suspicious circumstances; another alternative energy inventor whose death followed a pattern of intimidation
+- [Ken Shoulders](/energy/Details/Ken_Shoulders) -- Inventor who researched charge clusters (EVOs) and exotic vacuum objects; his work on extracting energy from the quantum vacuum represents a modern continuation of Moray's experimental approach
 
 ## Sources
 
