@@ -70,6 +70,8 @@ Key innovations:
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died at dinner with investors; his last words: "They poisoned me"
 - [Ken Rasmussen](Ken_Rasmussen.md) — Water-to-energy researcher whose associate was intercepted by four suited men with automatic weapons
 - [Bill Williams](Bill_Williams.md) — Joe Cell experimenter threatened with weapon; destroyed all research
+- [Daniel Dingel](Daniel_Dingel.md) — Filipino water-powered car inventor convicted of fraud at 82, died in custody; another water/hydrogen inventor neutralized through legal rather than physical means
+- [Yull Brown](Yull_Brown.md) — HHO gas inventor whose Brown's Gas technology is the foundation of the hydrogen-on-demand field Boyce works in; died penniless despite holding patents
 
 ## Other Shocking Stories
 

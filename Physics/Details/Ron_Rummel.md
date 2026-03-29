@@ -97,6 +97,7 @@ Rummel's death is frequently cited alongside the deaths of other UFO researchers
 - [Gravity_Manipulation](Gravity_Manipulation.md) — Anti-gravity research was among the topics addressed in the newsletter
 - [Electromagnetic_Propulsion](Electromagnetic_Propulsion.md) — Rummel's publication discussed electromagnetic and exotic propulsion concepts
 - [Exotic_Metamaterials](Exotic_Metamaterials.md) — The Alien Digest addressed claims of advanced materials associated with non-human technology
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) — 25+ British defense scientists who died under suspicious circumstances during the SDI era; Rummel's Alien Digest was published during the same period that these defense industry deaths were occurring, representing the broader pattern of suppression of classified program knowledge
 
 ## Sources
 

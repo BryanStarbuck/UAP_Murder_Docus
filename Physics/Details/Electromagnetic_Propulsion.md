@@ -231,6 +231,7 @@ The most significant scientific objection is that the Biefeld-Brown effect is fu
 - [Zero Point Energy](Zero_Point_Energy.md) — Closely related thesis on quantum vacuum energy extraction; shares theoretical foundations with electrogravitics through ZPF-inertia connection
 - [Deep State: Classification and Suppression]# — The parent project documenting how classification systems can suppress transformative technologies from public knowledge
 - [UAP Deaths and Silenced Witnesses](/uaps/) — Mark McCandlish's death in 2021 under disputed circumstances, shortly before scheduled Senate testimony
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) — 25+ British defense scientists working on SDI directed energy weapons, electronic warfare, and electromagnetic systems died under suspicious circumstances in the 1980s; their work on electromagnetic propulsion-adjacent technologies connects directly to this thesis
 
 ### Media Resources
 - [Books on UAP Physics](Books.md) — Key texts include LaViolette's *Secrets of Antigravity Propulsion*, Valone's *Electrogravitics Systems*, and Cook's *The Hunt for Zero Point*

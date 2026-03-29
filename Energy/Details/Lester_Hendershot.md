@@ -117,6 +117,7 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Thomas Bearden](Thomas_Bearden.md) — MEG inventor whose collaborator John Bedini also died suddenly
+- [Andrii Slobodian](Andrii_Slobodian.md) — Magnetic motor inventor also died of CO poisoning — part of the CO death pattern among energy researchers
 
 ## Other Shocking Stories
 

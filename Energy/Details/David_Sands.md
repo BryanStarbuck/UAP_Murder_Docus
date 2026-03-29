@@ -79,6 +79,7 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
 - [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Avtar Singh-Gida](Avtar_Singh_Gida.md) — MoD/Marconi researcher who vanished in 1987 with amnesia. Reappeared in Paris under assumed name
 - [David Sands (UAP Deaths project)](/uaps/Details/David_Sands) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

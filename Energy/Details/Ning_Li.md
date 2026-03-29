@@ -94,7 +94,9 @@ From approximately 2004 to 2021, the physics and UAP communities widely believed
 - [Amy Eskridge](Amy_Eskridge.md) — Anti-gravity researcher who died in 2022 in Huntsville, Alabama
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Eric Wang](Eric_Wang.md) — Defense scientist at Wright-Patterson, alleged UFO reverse-engineering
-- [William Neil McCasland](/uaps/Details/William_McCasland) — AFRL commander linked to UAP programs, missing since 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — AFRL commander linked to UAP programs, missing since 2026
+- [Otis T. Carr](Otis_T_Carr.md) — Tesla protege who claimed antigravity breakthrough. Arrested before demonstration. Equipment seized, died penniless
+- [John Rossi](John_Rossi.md) — Two-star general found hanged at Redstone Arsenal two days before his three-star promotion; commanded the same U.S. Army Space and Missile Defense operations at the Huntsville installation where Ning Li conducted her DOD-funded anti-gravity research
 - [Ning Li (UAP Deaths project)](/uaps/Details/Ning_Li) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

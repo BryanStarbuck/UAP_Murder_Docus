@@ -156,6 +156,7 @@ No claims for extraction of zero-point energy have been validated by the mainstr
 - [Electromagnetic Propulsion](Electromagnetic_Propulsion.md) — Potential engineering implementation
 - [Exotic Metamaterials](Exotic_Metamaterials.md) — Materials that may enable ZPE interaction
 - [Interdimensional Hypothesis](Interdimensional_Hypothesis.md) — Alternative framework; some ZPE researchers (Davis, Puthoff) also investigate dimensional phenomena
+- [T. Henry Moray](T_Henry_Moray.md) — 1920s inventor whose "radiant energy" device is now understood as an early zero-point energy extraction prototype; demonstrated up to 50,000 watts of output, faced laboratory destruction and gunfire for his work
 - [Deep State — Classification as Concealment]# — The classification regime that may keep ZPE breakthroughs from the public
 
 ### Media Resources

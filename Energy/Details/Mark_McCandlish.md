@@ -81,6 +81,7 @@ McCandlish was also a witness in Dr. Steven Greer's Disclosure Project, where he
 - [Bruce DePalma](Bruce_DePalma.md) -- MIT physicist who developed the N-Machine and claimed over-unity effects
 - [Dean Warwick](Dean_Warwick.md) -- Alternative energy researcher who collapsed and died on stage at a conference moments before disclosing information
 - [Floyd Sweet](Floyd_Sweet.md) -- Inventor of the Vacuum Triode Amplifier who received death threats over his energy research
+- [Michael Zebuhr](Michael_Zebuhr.md) -- Graduate student researching directed energy, shot execution-style. Advisor received threatening email: "We've done it before"
 
 ## Other Shocking Stories
 

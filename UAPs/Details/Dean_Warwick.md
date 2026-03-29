@@ -44,6 +44,7 @@ Warwick was reportedly preparing to reveal information about the identity of the
 - [Max Spiers](Max_Spiers.md) — UFO researcher who died in Warsaw after sending "if anything happens to me, investigate"
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing publicly about classified programs
 - [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died before planned Senate testimony
+- [Dean Stonier](Dean_Stonier.md) — Global Sciences Congress founder who died of heart attack two days after his conference — another death linked to UFO events
 
 ## Other Shocking Stories
 

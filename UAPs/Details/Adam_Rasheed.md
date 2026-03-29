@@ -87,6 +87,8 @@ Adam Rasheed's mainstream career is well documented through GE press releases, M
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate, beaten to death in 2004
 - [Philo Farnsworth](Philo_Farnsworth.md) — Television inventor whose fusion research was defunded
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
+- [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024, same New Mexico defense corridor
+- [Philip Leonard](Philip_Leonard.md) — LANL high-explosives chemist killed in a head-on crash on the road to Los Alamos in February 2024
 
 ## Other Shocking Stories
 

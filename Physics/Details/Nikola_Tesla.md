@@ -117,6 +117,7 @@ The UAP physics significance of Tesla's work rests partly on what is known and p
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics research that built on Tesla-era electromagnetic experiments
 - [Floyd Sweet](Floyd_Sweet.md) — GE/MIT researcher who claimed to tap vacuum energy using conditioned magnets, citing Tesla as inspiration
 - [Bruce DePalma](Bruce_DePalma.md) — Homopolar generator research connecting to Tesla's work on rotating electromagnetic fields
+- [T. Henry Moray](T_Henry_Moray.md) — Utah inventor who developed a radiant energy device inspired by Tesla's ambient energy concepts; Moray's work in the 1920s-1940s directly continued Tesla's vision of extracting energy from the environment
 
 ## See Also
 

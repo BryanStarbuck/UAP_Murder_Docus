@@ -49,6 +49,7 @@ In his deathbed video, Bushman claimed:
 - [Bob Lazar](Bob_Lazar.md) -- Another Area 51 insider who claimed reverse-engineering of alien craft
 - [David Grusch](David_Grusch.md) -- Testified before Congress about UAP retrieval programs
 - [Phil Schneider](Phil_Schneider.md) -- Another defense industry insider who made extraordinary claims before dying
+- [James Ryder](James_Ryder.md) — Fellow senior Lockheed Martin figure who proposed transferring UAP crash retrieval materials and died unexpectedly in 2018
 
 ## Other Shocking Stories
 

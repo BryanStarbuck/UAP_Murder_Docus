@@ -90,6 +90,8 @@ Edwards' death, regardless of its cause, had a measurable impact on the UFO rese
 
 - [Electromagnetic Propulsion](Electromagnetic_Propulsion.md) — Edwards documented cases involving electromagnetic effects associated with UFO encounters
 - [Bob Lazar](Bob_Lazar.md) — Like Edwards, faced professional consequences for publicly discussing UFO-related subjects
+- [John Murphy](John_Murphy.md) — Radio journalist who was the first reporter at the 1965 Kecksburg UFO crash site, had his documentary censored by government officials, and was killed in an unsolved hit-and-run in 1969; another broadcast journalist who died after investigating UFO events
+- [William Colby](William_Colby.md) — Former CIA Director found dead under disputed circumstances in 1996 after allegedly preparing to disclose classified UAP materials; represents the pattern of insiders dying before disclosure
 
 ## Sources
 

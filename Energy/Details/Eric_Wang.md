@@ -69,7 +69,7 @@ When researchers submitted requests through the National Archives' History Hub, 
 - [Viktor Schauberger](Viktor_Schauberger.md) — Austrian inventor of "implosion" vortex energy, allegedly Wang's associate
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Nikola Tesla](Nikola_Tesla.md) — Papers seized by FBI after death
-- [William Neil McCasland](/uaps/Details/William_McCasland) — USAF Research Lab commander who went missing in 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — USAF Research Lab commander who went missing in 2026
 
 ## Other Shocking Stories
 

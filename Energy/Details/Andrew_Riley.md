@@ -63,6 +63,9 @@ Riley's death at age 33 cut short the career of one of the few researchers who h
 ## See Also
 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Joseph Papp](Joseph_Papp.md) — Noble gas engine inventor whose demonstration exploded, killing one observer. Richard Feynman was a witness
+- [John Mullen](John_Mullen.md) — Nuclear physicist at McDonnell Douglas/Boeing poisoned with arsenic in a health supplement; another scientist with nuclear research connections who was confirmed murdered
+- [Ken Shoulders](Ken_Shoulders.md) — Vacuum microelectronics pioneer whose charge cluster research connects to LENR/cold fusion phenomena; his EVO discoveries overlap with observations in cold fusion experiments like Riley's
 
 ## Other Shocking Stories
 

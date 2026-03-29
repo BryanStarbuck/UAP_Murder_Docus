@@ -67,6 +67,7 @@ The documented evidence overwhelmingly supports the official explanation. The co
 - [Frank Roberts](Frank_Roberts.md) — Water car inventor whose van was burned and papers taken
 - [John Andrews](John_Andrews.md) — Water-to-gasoline additive inventor who disappeared
 - [Tom Ogle](Tom_Ogle.md) — High-MPG inventor who was shot, drugged, and died of overdose
+- [Francisco Pacheco](Francisco_Pacheco.md) — Seawater hydrogen generator inventor. Demonstrated to U.S. Vice President in 1942. Suppressed for 50 years
 
 ## Other Shocking Stories
 

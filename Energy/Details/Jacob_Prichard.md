@@ -78,7 +78,7 @@ Wright-Patterson Air Force Base is:
 
 - [Jaymee Prichard](Jaymee_Prichard.md) — Wife, victim. AFLCMC finance specialist
 - [Jaime Gustitus](Jaime_Gustitus.md) — Colleague, victim. AFRL 711th HPW, TS/SCI cleared
-- [William Neil McCasland](/uaps/Details/William_McCasland) — Former AFRL Commander, vanished Feb 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — Former AFRL Commander, vanished Feb 2026
 - [Dallis Hardwick](Dallis_Hardwick.md) — Senior AFRL civilian scientist, died 2014
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — AFRL-funded inventor, vanished June 2025
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech scientist, shot dead Feb 2026

@@ -101,6 +101,7 @@ Ogle's work occurred during the 1970s energy crisis, when OPEC oil embargoes had
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
+- [Henry Smolinski](Henry_Smolinski.md) — Flying car inventor killed in test flight crash. Previously inspected welds failed. Project died with him
 
 ## Other Shocking Stories
 

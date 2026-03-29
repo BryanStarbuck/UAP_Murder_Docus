@@ -56,6 +56,7 @@ Around the same time, McDonald's marriage deteriorated. Colleagues described a r
 - [Edward Ruppelt](Edward_Ruppelt.md) — Ruppelt ran Project Blue Book, whose files McDonald examined
 - [Morris Jessup](Morris_Jessup.md) — Another UFO researcher whose death was ruled suicide
 - [Paul Bennewitz](Paul_Bennewitz.md) — Another case of career destruction preceding death
+- [Damon Runyon Jr.](Damon_Runyon_Jr.md) — UFO writer whose 1968 death by bridge fall was also ruled suicide
 
 ## Other Shocking Stories
 

@@ -83,6 +83,7 @@ In his later years, Pogue denied having ever claimed that his carburetor achieve
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant in 1998
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Rory Johnson](Rory_Johnson.md) — Magnetic motor inventor targeted by DOE gag and grab orders
+- [Henry Smolinski](Henry_Smolinski.md) — Flying car inventor killed in 1973 crash. Welds failed despite prior inspection. Both inventor and partner killed
 
 ## Other Shocking Stories
 

@@ -55,6 +55,8 @@ Chernetsky published papers on his research and the device was examined by other
 - [Paulo Correa](Paulo_Correa.md) — Researcher who developed plasma-based energy devices and reported anomalous energy output
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who researched rotational inertial field effects
 - [Paramahamsa Tewari](Paramahamsa_Tewari.md) — Indian physicist who developed a space vortex theory and over-unity generator
+- [Joseph Papp](Joseph_Papp.md) — Noble gas engine inventor. Demonstration exploded, killing one observer. Died of cancer after decades of obstruction
+- [Zachary Warfield](Zachary_Warfield.md) — Former CIA analyst with MIT propulsion credentials who visited plasma battery inventors. Died in boating accident at 35
 
 ## Other Shocking Stories
 

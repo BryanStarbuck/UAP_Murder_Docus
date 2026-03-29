@@ -59,6 +59,9 @@ In 2000, Dingel entered into a partnership with a Taiwanese investor to develop 
 
 - [Stanley Meyer](Stanley_Meyer.md) — American water fuel cell inventor who died under suspicious circumstances
 - [Yull Brown](Yull_Brown.md) — HHO gas inventor who died penniless despite holding patents
+- [Francisco Pacheco](Francisco_Pacheco.md) — Seawater hydrogen generator inventor. Demonstrated to VP Wallace in 1942. Never commercialized in 50 years
+- [Bob Boyce](Bob_Boyce.md) — Hydrogen electrolysis inventor who found a VeriChip RFID implant in his shoulder; his open-source approach to sharing hydrogen technology designs made him a target
+- [John Kanzius](John_Kanzius.md) — Inventor who demonstrated burning salt water using radio frequencies; another water-energy inventor whose work was suppressed after his death
 
 ## Other Shocking Stories
 

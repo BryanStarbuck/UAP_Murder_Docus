@@ -47,6 +47,7 @@ Sanderson authored numerous books, including *Invisible Residents* (1970), which
 - [Tony Dodd](Tony_Dodd.md) — British UFO investigator who died of an inoperable brain tumor
 - [Ann Livingston](Ann_Livingston.md) — MUFON researcher who died of fast-acting ovarian cancer
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting breast cancer at 48
+- [Jim Lorenzen](Jim_Lorenzen.md) — APRO co-founder who also died of cancer, listed on Schellhorn's compilation
 
 ## Other Shocking Stories
 

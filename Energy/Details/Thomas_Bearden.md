@@ -119,6 +119,8 @@ Bedini died suddenly on November 5, 2016 — only 4 hours after his brother Gary
 - [Nikola Tesla](Nikola_Tesla.md) — Pioneer whose work Bearden built upon
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Energy Machine inventor who also fought the patent office
+- [Jim Watson](Jim_Watson.md) — Demonstrated overunity motor at 1984 Tesla Conference. Bearden documented the demonstration. Watson and family vanished
+- [Paramahamsa Tewari](Paramahamsa_Tewari.md) — Indian nuclear executive who built reactionless generator. Independently tested at 250%+ efficiency
 
 ## Other Shocking Stories
 

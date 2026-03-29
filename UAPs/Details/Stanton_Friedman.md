@@ -43,6 +43,8 @@ He authored several books including *Crash at Corona* (1992), *TOP SECRET/MAJIC*
 - [John Mack](John_Mack.md) — Harvard psychiatrist and alien abduction researcher killed in London
 - [Leonard Stringfield](Leonard_Stringfield.md) — Pioneer crash-retrieval researcher who died of cancer
 - [Frank Edwards](Frank_Edwards.md) — Radio broadcaster and UFO author who died of a heart attack in 1967
+- [Coral Lorenzen](Coral_Lorenzen.md) — APRO co-founder who died in 1988, fellow pioneering civilian UFO researcher
+- [Jim Lorenzen](Jim_Lorenzen.md) — APRO co-founder who died of cancer in 1986, two years before Coral
 
 ## Other Shocking Stories
 

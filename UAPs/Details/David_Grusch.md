@@ -57,6 +57,8 @@ His testimony was corroborated in part by two other witnesses at the hearing: re
 - [Dylan Borland](Dylan_Borland.md) — Air Force veteran and UAP whistleblower facing career retaliation
 - [Tim Burchett](Tim_Burchett.md) — Congressman who organized the 2023 UAP hearing and received death threats
 - [George Knapp](George_Knapp.md) — Investigative journalist who testified before Congress in 2025
+- [James Ryder](James_Ryder.md) — Lockheed Martin VP who proposed transferring UAP crash retrieval material to AAWSAP, named in Grusch's DOPSR-cleared statements
+- [Mr. 35-Year-Old Murdered Whistleblower](Mr_35_Year_Old_Murdered_Whistleblower.md) — Unnamed whistleblower connected to Grusch, found dead with suicide note before coming forward
 
 ## Other Shocking Stories
 

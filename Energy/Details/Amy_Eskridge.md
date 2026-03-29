@@ -112,11 +112,13 @@ Her work in anti-gravity in this location, her father's decades of propulsion re
 - [Ning Li](Ning_Li.md) — Anti-gravity physicist in Huntsville, DOD-funded, classified work
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher, work allegedly classified
 - [Mark Tomion](Mark_Tomion.md) — Star Drive inventor, sudden cardiac death, research missing
-- [William Neil McCasland](/uaps/Details/William_McCasland) — AFRL commander linked to UAP programs, missing since 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — AFRL commander linked to UAP programs, missing since 2026
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Part of the same pattern of researchers touching forbidden hardware being removed
 - [Nuno Loureiro](Nuno_Loureiro.md) — Plasma physicist, part of the 2025-2026 scientist cluster
+- [Michael Zebuhr](Michael_Zebuhr.md) — Directed energy researcher shot execution-style during "robbery." Another researcher killed by gunshot
 - [Carl Grillmair](Carl_Grillmair.md) — Astronomer, part of the 2025-2026 scientist cluster
 - [Jason Thomas]# — Part of the same sanitization pattern of suppressed researchers
+- [John Rossi](John_Rossi.md) — Two-star general found hanged at Redstone Arsenal two days before his three-star promotion to lead U.S. Army Space and Missile Defense Command; died at the same Huntsville installation where Eskridge and her father worked
 - [Amy Eskridge (UAP Deaths project)](/uaps/Details/Amy_Eskridge) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

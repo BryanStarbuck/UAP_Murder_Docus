@@ -70,6 +70,8 @@ In the week before her death, Silkwood herself was contaminated with plutonium. 
 ## See Also
 
 - [Eugene Mallove](Eugene_Mallove.md) — Another energy whistleblower beaten to death before a major public appearance
+- [Michael Zebuhr](Michael_Zebuhr.md) — Graduate student shot execution-style during a "robbery" while researching directed energy. Advisor received death threat after
+- [Gilbert N. Lewis](Gilbert_N_Lewis.md) — Chemist who isolated heavy water (key to nuclear reactors). Found dead near hydrogen cyanide in his Berkeley lab
 
 ## Other Shocking Stories
 

@@ -101,6 +101,7 @@ Tom Bearden has written that Sweet was genuinely terrified in the period before 
 - [Nikola Tesla](Nikola_Tesla.md) — Inventor whose papers were seized after his death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose devices were destroyed
+- [Georges Lakhovsky](Georges_Lakhovsky.md) — Multi-Wave Oscillator inventor who built his device with Tesla's assistance; struck by a limousine in 1942, equipment removed from hospitals after death; another electromagnetic frequency researcher whose work was suppressed
 - [Floyd Sweet (UAP Deaths project)](/uaps/Details/Floyd_Sweet) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

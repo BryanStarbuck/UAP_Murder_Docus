@@ -64,6 +64,7 @@ No mainstream media quotes about Reed's death or his technology have been identi
 - [Rory Johnson](Rory_Johnson.md) — Inventor of a magnetic motor who died under suspicious circumstances. His prototype reportedly disappeared after his death.
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Inventor of an electromagnetic "Energy Machine" who fought a decades-long battle with the U.S. Patent Office for recognition of his device.
 - [Thomas Bearden](Thomas_Bearden.md) — Physicist and researcher who advocated for zero-point energy extraction and magnetic motor technologies, and who reportedly faced threats and suppression.
+- [Andrii Slobodian](Andrii_Slobodian.md) — Ukrainian magnetic motor generator inventor. Died of CO poisoning in Seoul apartment fire. Company ceased operations after his death.
 
 ## Other Shocking Stories
 

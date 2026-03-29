@@ -66,6 +66,7 @@ Dodd authored *Alien Investigator: The Case Files of Britain's Leading UFO Detec
 - [Ann Livingston](Ann_Livingston.md) — MUFON researcher who died of fast-acting ovarian cancer
 - [Wilbert Smith](Wilbert_Smith.md) — Canadian UFO researcher who died of cancer
 - [Olavo Fontes](Olavo_Fontes.md) — Brazilian UFO researcher who died of cancer at 43
+- [Gaurav Tiwari](Gaurav_Tiwari.md) — India's leading UFO investigator, found dead at 32, ruled suicide — family disputes the ruling
 
 ## Other Shocking Stories
 

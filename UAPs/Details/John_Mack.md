@@ -50,6 +50,7 @@ Mack continued his research and published a second book, *Passport to the Cosmos
 - [Don Elkins](Don_Elkins.md) — Physicist and Ra Material researcher who died of a gunshot wound in 1984
 - [Stanton Friedman](Stanton_Friedman.md) — Nuclear physicist and pioneering UFO researcher
 - [John Ford](John_Ford.md) — UFO investigator institutionalized since 1996
+- [Gaurav Tiwari](Gaurav_Tiwari.md) — India's most prominent UFO investigator, found dead at 32 under disputed circumstances
 
 ## Other Shocking Stories
 

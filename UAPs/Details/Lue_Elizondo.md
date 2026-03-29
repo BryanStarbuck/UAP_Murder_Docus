@@ -46,6 +46,8 @@ He is a graduate of the University of Miami, where he studied microbiology and i
 - [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP whistleblowing
 - [George Knapp](George_Knapp.md) — Investigative journalist covering UAP for over 35 years
 - [Mark McCandlish](Mark_McCandlish.md) — Disclosure witness who died before planned Senate testimony
+- [James Ryder](James_Ryder.md) — Lockheed Martin VP named in Elizondo's DOPSR-cleared statements about UAP material divestment
+- [Mr. 35-Year-Old Murdered Whistleblower](Mr_35_Year_Old_Murdered_Whistleblower.md) — Unnamed Grusch-connected whistleblower found dead before coming forward
 
 ## Other Shocking Stories
 

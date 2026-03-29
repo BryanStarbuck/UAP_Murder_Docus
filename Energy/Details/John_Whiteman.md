@@ -54,6 +54,8 @@ His death occurred during 1987, the peak year of the Marconi scientist death clu
 - [David Sands](David_Sands.md) — Marconi scientist, drove car into empty restaurant at speed
 - [Stuart Gooding](Stuart_Gooding.md) — Marconi scientist, killed in Cyprus
 - [Shani Warren](Shani_Warren.md) — Marconi-connected, found drowned with gag and bound hands
+- [Avtar Singh-Gida](Avtar_Singh_Gida.md) — MoD/Marconi researcher who vanished in 1987 with amnesia. Found in Paris under assumed name
+- [Jonathan Moyle](Jonathan_Moyle.md) — Defense journalist investigating Marconi-linked arms deals. Found hanged in Santiago hotel, 1990. Ruled murder
 
 ## Other Shocking Stories
 

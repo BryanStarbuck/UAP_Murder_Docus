@@ -87,6 +87,8 @@ Bonds died in April 2001 — just months before the September 11 attacks. His de
 - [Jim Keith](Jim_Keith.md) — conspiracy author who died after routine knee surgery
 - [Mae Brussell](Mae_Brussell.md) — conspiracy researcher who died of fast-acting cancer
 - [Benito Que](Benito_Que.md) — microbiologist found beaten near his lab in November 2001, months after Bonds died in April 2001
+- [Dean Stonier](Dean_Stonier.md) — Global Sciences Congress founder who died of heart attack in August 2001, same year as Bonds
+- [Don Wiley](Don_Wiley.md) — Harvard microbiologist who vanished November 2001 and was found in the Mississippi River — part of the 2001 death cluster
 - [Frank Scully](Frank_Scully.md) — early UFO author who documented crash retrievals
 
 ## Other Shocking Stories

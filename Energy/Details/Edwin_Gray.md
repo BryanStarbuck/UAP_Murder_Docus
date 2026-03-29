@@ -66,6 +66,7 @@ Gray's companies faced repeated legal and regulatory interference:
 - [John Bedini](John_Bedini.md) — Studied Gray's cold electricity principles, also died suddenly
 - [Thomas Bearden](Thomas_Bearden.md) — Collaborated with Bedini on related pulsed motor technology
 - [Nikola Tesla](Nikola_Tesla.md) — Tesla's radiant energy research preceded Gray's cold electricity work
+- [Joseph Papp](Joseph_Papp.md) — Another inventor with patented device (noble gas engine) who died after decades of obstruction
 
 ## Other Shocking Stories
 

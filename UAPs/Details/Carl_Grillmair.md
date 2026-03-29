@@ -104,6 +104,8 @@ Grillmair's murder is one of nine scientist deaths, disappearances, or attacks b
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace materials scientist missing since June 2025; same IPAC-JPL institutional family
 - [William McCasland](William_McCasland.md) — Retired USAF Major General missing since February 2026
 - [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of scientist deaths and disappearances with AFRL connections
+- [Philip Leonard](Philip_Leonard.md) — LANL chemist killed February 2024, possible precursor to the 2025 scientist cluster
+- [Christopher Fallen](Christopher_Fallen.md) — AFRL/HAARP physicist murdered February 2024, same month as Leonard
 
 ## Other Shocking Stories
 

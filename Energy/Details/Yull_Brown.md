@@ -68,6 +68,8 @@ Brown spent decades attempting to commercialize his technology. He gave public d
 
 - [Stanley Meyer](Stanley_Meyer.md) — Another water fuel cell inventor who died under suspicious circumstances
 - [Tom Ogle](Tom_Ogle.md) — Automotive fuel efficiency inventor who was killed
+- [Bob Boyce](Bob_Boyce.md) — Hydrogen electrolysis inventor who achieved high-efficiency HHO systems using frequency-tuned electrolysis; his work on Brown's Gas-related technology directly continues the HHO research Brown pioneered
+- [Daniel Dingel](Daniel_Dingel.md) — Filipino inventor who demonstrated a water-powered car for decades; convicted of fraud at 82 and died in custody, representing the legal suppression path for water fuel inventors
 
 ## Other Shocking Stories
 

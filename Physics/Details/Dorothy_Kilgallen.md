@@ -82,6 +82,7 @@ Author Mark Shaw documented the case in his 2016 book *The Reporter Who Knew Too
 - [Hal Puthoff](Hal_Puthoff.md) -- Physicist who has investigated exotic physics through government-connected programs, part of the broader pattern of classified UAP research
 - [Eugene Mallove](Eugene_Mallove.md) -- Another researcher investigating unconventional physics who was killed under suspicious circumstances
 - [Amy Eskridge](Amy_Eskridge.md) -- Scientist whose death was alleged to be connected to her antigravity research; represents the pattern of suppressed researchers
+- [John Murphy](John_Murphy.md) -- Radio journalist who documented the 1965 Kecksburg UFO crash, had his documentary censored by government officials, and was killed in an unsolved hit-and-run; another journalist who died after investigating sensitive topics
 
 ## Sources
 

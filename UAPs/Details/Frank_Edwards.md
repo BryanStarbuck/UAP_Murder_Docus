@@ -58,6 +58,8 @@ Edwards had reportedly received threats related to his UFO broadcasts and writin
 - [Morris Jessup](Morris_Jessup.md) — UFO author who died under disputed circumstances in 1959
 - [James McDonald](James_McDonald.md) — UFO researcher who died in 1971
 - [Frank Scully](Frank_Scully.md) — Earlier UFO author who also died on June 24 (1964)
+- [Gloria Lee](Gloria_Lee.md) — Contactee who died in 1962 during the same peak era of UFO research
+- [Peter Jennings](Peter_Jennings.md) — ABC News anchor who died of fast-acting cancer months after airing a major UFO special
 
 ## Other Shocking Stories
 

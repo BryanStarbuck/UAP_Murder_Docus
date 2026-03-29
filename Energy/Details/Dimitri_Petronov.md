@@ -66,6 +66,7 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - [Alexander Chernetsky](Alexander_Chernetsky.md) — Soviet physicist who demonstrated a plasma generator producing 5x energy output; died in car accident after traveling to the US
 - [Ning Li](Ning_Li.md) — Antigravity physicist who received DoD funding and top secret clearance, then vanished from public life
 - [Paulo Correa](Paulo_Correa.md) — Researcher who developed plasma-based energy devices with anomalous energy output
+- [Jim Watson](Jim_Watson.md) — Overunity motor inventor who vanished with his entire family after demonstrating at 1984 Tesla Conference
 
 ## Other Shocking Stories
 

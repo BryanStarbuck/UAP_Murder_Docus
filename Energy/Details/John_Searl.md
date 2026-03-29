@@ -98,6 +98,7 @@ After Searl's death in 2018, Fernando Morris and SEG Magnetics, Inc. continue to
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
 - [Troy Reed](Troy_Reed.md) — Tulsa inventor of permanent magnet motor; died 2007 under poorly documented circumstances
+- [John Hutchison](John_Hutchison.md) — Lab seized by Canadian PM, government defied court order to return it. Equipment also seized in 2010
 
 ## Other Shocking Stories
 

@@ -179,7 +179,7 @@ Six separate jurisdictions. Zero cross-referencing mandate. Nobody is looking at
 
 ## See Also
 
-- [William Neil McCasland](/uaps/Details/William_McCasland) — Former AFRL commander who funded Mondaloy. Missing since Feb 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — Former AFRL commander who funded Mondaloy. Missing since Feb 2026
 - [Dallis Hardwick](Dallis_Hardwick.md) — Co-inventor of Mondaloy, Reza's mentor. Died 2014
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astronomer in same institutional family as JPL. Shot dead Feb 2026
 - [Melissa Casias](Melissa_Casias.md) — LANL employee who vanished 4 days after Reza

@@ -105,7 +105,7 @@ After Hardwick's death, Reza said publicly: "I hope she understood that my accom
 ## See Also
 
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Co-inventor of Mondaloy. Vanished June 2025
-- [William Neil McCasland](/uaps/Details/William_McCasland) — Commander who funded Mondaloy. Vanished Feb 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — Commander who funded Mondaloy. Vanished Feb 2026
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astronomer in JPL institutional family. Shot dead Feb 2026
 - [Jacob Prichard](Jacob_Prichard.md) — AFRL Sensors Directorate. Dead Oct 2025
 - [Jaime Gustitus](Jaime_Gustitus.md) — AFRL 711th Human Performance Wing. Dead Oct 2025

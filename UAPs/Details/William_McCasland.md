@@ -116,6 +116,8 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist killed February 2026; part of the same cluster
 - [Jason Thomas](Jason_Thomas.md) — Novartis scientist found dead; part of the same cluster
 - [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of defense scientist deaths and disappearances
+- [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024, same New Mexico defense corridor
+- [John Rossi](John_Rossi.md) — Major General commanding Space and Missile Defense at Redstone Arsenal, found hanged two days before promotion
 
 ## Other Shocking Stories
 

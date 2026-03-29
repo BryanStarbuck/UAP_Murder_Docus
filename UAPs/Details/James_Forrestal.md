@@ -68,6 +68,8 @@ In UFO lore, Forrestal is alleged to have been a member of MJ-12 (Majestic 12), 
 - [Edward Ruppelt](Edward_Ruppelt.md) — Director of Project Blue Book during the early 1950s
 - [Thomas Mantell](Thomas_Mantell.md) — Military pilot who died pursuing a UFO one year before Forrestal's death
 - [Frank Edwards](Frank_Edwards.md) — News commentator who discussed the Forrestal case in his UFO writings
+- [Damon Runyon Jr.](Damon_Runyon_Jr.md) — UFO writer who also fell from a bridge, ruled suicide — same method as Forrestal's disputed fall
+- [John Rossi](John_Rossi.md) — Major General commanding Space and Missile Defense, found hanged two days before promotion to three-star general
 
 ## Other Shocking Stories
 

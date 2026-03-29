@@ -87,6 +87,9 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 - [Aaron Salter Jr.](Aaron_Salter_Jr.md) — Buffalo officer who demonstrated water-powered car on TV; killed in 2022 mass shooting
 - [Frank Roberts](Frank_Roberts.md) — Water car inventor whose van was burned and suffered chemically induced stroke
 - [John Andrews](John_Andrews.md) — Water-to-gasoline additive inventor who disappeared; lab ransacked
+- [Francisco Pacheco](Francisco_Pacheco.md) — Seawater hydrogen generator inventor. Demonstrated to VP Henry Wallace in 1942. Technology suppressed for 50 years
+- [Bob Boyce](Bob_Boyce.md) — Hydrogen electrolysis inventor who discovered a VeriChip RFID implant surgically embedded in his shoulder without consent; another water/hydrogen energy inventor targeted for his work
+- [Daniel Dingel](Daniel_Dingel.md) — Filipino inventor who demonstrated a water-powered car for decades before being convicted of fraud at age 82 and dying in custody; represents the legal suppression path for water fuel inventors
 - [Stanley Meyer (UAP Deaths project)](/uaps/Details/Stanley_Meyer) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

@@ -87,6 +87,7 @@ A 2002 U.S. Army Research Laboratory paper by Thomas Bahder and Chris Fazi studi
 - [Philo Farnsworth](Philo_Farnsworth.md) — Television and fusion inventor whose fusor research was defunded by ITT
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose lab was ransacked
 - [John Bedini](John_Bedini.md) — Free energy inventor who died of an apparent heart attack
+- [Otis T. Carr](Otis_T_Carr.md) — Tesla protege who claimed to build antigravity craft. Arrested before demonstration, equipment confiscated, died penniless
 - [Thomas Townsend Brown (UAP Deaths project)](/uaps/Details/Thomas_Townsend_Brown) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

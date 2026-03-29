@@ -74,6 +74,8 @@ The most advanced fusor was reportedly constructed in 1965, just before the fund
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose lab was ransacked and device destroyed
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Gilbert N. Lewis](Gilbert_N_Lewis.md) — Pioneering chemist found dead near hydrogen cyanide in his Berkeley lab. Another inventor whose credit was taken by rivals
+- [Nathan Stubblefield](Nathan_Stubblefield.md) — Earth battery inventor whose credit for wireless telephone was stolen. Starved to death in isolation
 
 ## Other Shocking Stories
 

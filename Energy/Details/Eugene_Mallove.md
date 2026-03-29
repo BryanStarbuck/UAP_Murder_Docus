@@ -105,6 +105,9 @@ The official explanation — that Mallove was killed by angry former tenants in 
 - [B. Stanley Pons]# — Co-discoverer of cold fusion; Epstein claimed to have "killed" his career
 - Martin Fleischmann — Co-discoverer of cold fusion; career destroyed
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
+- [Brian O'Leary](Brian_OLeary.md) — NASA astronaut and New Energy Movement co-founder. Moved to Ecuador after Mallove's murder. Died of rapid-onset cancer 6 days after diagnosis
+- [John Mullen](John_Mullen.md) — Nuclear physicist fatally poisoned with arsenic placed in a health supplement; sole suspect died days before arrest, another confirmed murder of a scientist with energy-adjacent research
+- [Ken Shoulders](Ken_Shoulders.md) — Father of vacuum microelectronics whose charge cluster research connects to the LENR phenomena Mallove championed; Shoulders' work was institutionally ignored despite validation from Richard Feynman
 - [Eugene Mallove (UAP Deaths project)](/uaps/Details/Eugene_Mallove) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

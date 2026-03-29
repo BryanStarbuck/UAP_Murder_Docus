@@ -70,6 +70,7 @@ Bell studied Eastern philosophy, trained with Himalayan teachers, and received a
 - [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died after offering to testify before the Senate
 - [Max Spiers](Max_Spiers.md) — UFO researcher who died mysteriously in Warsaw after warning his mother
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
+- [Dean Stonier](Dean_Stonier.md) — Global Sciences Congress founder who died of a heart attack two days after organizing a major UFO conference
 - [Frank Olson](Frank_Olson.md) — CIA scientist connected to MKULTRA who fell from a hotel window
 
 ## Other Shocking Stories

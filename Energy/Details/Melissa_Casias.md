@@ -134,7 +134,7 @@ The family reportedly believes she left voluntarily under severe personal and fi
 ## See Also
 
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Vanished 4 days earlier, 800 miles away. AFRL-funded inventor
-- [William Neil McCasland](/uaps/Details/William_McCasland) — Vanished from Albuquerque, other end of NM defense corridor
+- [William Neil McCasland](William_Neil_McCasland.md) — Vanished from Albuquerque, other end of NM defense corridor
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech scientist shot dead in LA County, Feb 2026
 
 ## Other Shocking Stories

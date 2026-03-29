@@ -110,6 +110,12 @@ Tesla's wireless power transmission work was particularly threatening to the ele
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Brian O'Leary](Brian_OLeary.md) — NASA astronaut who became a zero-point energy advocate. Died of rapid cancer six days after diagnosis
+- [Otis T. Carr](Otis_T_Carr.md) — Claimed to be Tesla's protege. Arrested before demonstration, died penniless. FBI maintained file on him
+- [John Hutchison](John_Hutchison.md) — Replicated Tesla equipment. Lab seized by Canadian PM, government defied court order to return it
+- [Nathan Stubblefield](Nathan_Stubblefield.md) — Earth battery inventor and wireless telephone pioneer. Defrauded by partners, credit stolen. Starved to death
+- [George Taylor Fulford](George_Taylor_Fulford.md) — Major GE shareholder killed in a car crash one week after announcing his intention to fund Tesla's Wardenclyffe Tower wireless energy project; the Fulford family has maintained for over a century that the crash was arranged
+- [Georges Lakhovsky](Georges_Lakhovsky.md) — Built the Multi-Wave Oscillator with assistance from Tesla; struck by a limousine in New York in 1942 just as his electromagnetic therapy device was producing hospital results
 - [Nikola Tesla (UAP Deaths project)](/uaps/Details/Nikola_Tesla) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

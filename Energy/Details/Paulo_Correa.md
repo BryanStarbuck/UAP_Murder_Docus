@@ -77,6 +77,7 @@ Mallove was beaten to death on May 14, 2004, in Norwich, Connecticut. Chad Schaf
 - [Trevor Constable](Trevor_Constable.md) — Another researcher who extended Reich's orgone work
 - [Nikola Tesla](Nikola_Tesla.md) — Pioneer of the aether motor concept the Correas claim to have realized
 - [Thomas Bearden](Thomas_Bearden.md) — Another inventor with valid US patents for overunity claims
+- [Zachary Warfield](Zachary_Warfield.md) — Former CIA analyst with MIT propulsion credentials who visited plasma battery inventors. Died in boating accident at 35
 
 ## Other Shocking Stories
 

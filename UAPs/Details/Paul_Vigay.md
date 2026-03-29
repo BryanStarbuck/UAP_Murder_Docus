@@ -88,6 +88,7 @@ Vigay's crop circle research was not merely observational — it engaged with fu
 - [Dean Warwick](Dean_Warwick.md) — Died mid-speech at a UK conference moments before revealing classified information about underground bases
 - [Tony Dodd](Tony_Dodd.md) — Former British police sergeant and leading UK UFO investigator who died of a brain tumor he believed was "engineered in retaliation"
 - [Morris Jessup](Morris_Jessup.md) — UFO researcher and antigravity investigator found dead in his car, ruled suicide, 1959; similar pattern of researcher death during active investigation
+- [Gaurav Tiwari](Gaurav_Tiwari.md) — India's top paranormal and UFO investigator found dead at 32 from asphyxiation, ruled suicide, family disputes ruling
 
 ## Other Shocking Stories
 

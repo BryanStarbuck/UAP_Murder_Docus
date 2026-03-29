@@ -77,6 +77,8 @@ Dajibhai's death, along with that of [Arshad Sharif](Arshad_Sharif.md) two month
 - [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
 - [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Ernest Doyle](Ernest_Doyle.md) — GEC scientist found dead March 1982, ruled suicide. One of the earliest Marconi cluster deaths
+- [Avtar Singh-Gida](Avtar_Singh_Gida.md) — MoD/Marconi researcher who vanished in 1987 with amnesia. Case raised in Parliament
 - [Vimal Dajibhai (UAP Deaths project)](/uaps/Details/Vimal_Dajibhai) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

@@ -59,6 +59,7 @@ Allen was reportedly planning a follow-up film that would dig deeper into Lockhe
 ## See Also
 
 - [Mark McCandlish](Mark_McCandlish.md) — Subject of Allen's documentary, later found dead of apparent gunshot wound in 2021
+- [Brian O'Leary](Brian_OLeary.md) — NASA astronaut and zero-point energy advocate. Also died of rapid-onset cancer, six days after diagnosis
 
 ## Other Shocking Stories
 

@@ -64,6 +64,7 @@ Friedman also argued that interstellar travel was achievable without violating k
 - [Philip Corso](Philip_Corso.md) -- Military insider who claimed Roswell debris was seeded to defense contractors; Friedman's Roswell research provided the evidentiary foundation for Corso's claims
 - [David Grusch](David_Grusch.md) -- Congressional testimony on retrieval programs decades after Friedman first documented Roswell evidence
 - [Stanton Friedman (UAP Deaths)](/uaps/Details/Stanton_Friedman) -- Profile emphasizing the circumstances of his death
+- [John Murphy](John_Murphy.md) -- Radio journalist who was the first reporter at the 1965 Kecksburg UFO crash site; his confiscated materials and censored documentary represent the kind of primary evidence suppression that Friedman documented throughout his career
 
 ## Sources
 

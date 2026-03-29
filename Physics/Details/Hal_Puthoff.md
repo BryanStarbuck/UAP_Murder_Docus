@@ -125,6 +125,7 @@ On the Joe Rogan Experience (#2314, May 2025), Puthoff stated his belief that th
 - [Electromagnetic Propulsion](Electromagnetic_Propulsion.md) — Related propulsion thesis connected to Puthoff's work on inertial mass reduction
 - [Exotic Metamaterials](Exotic_Metamaterials.md) — Materials analysis program Puthoff directed through EarthTech and TTSA's ADAM project
 - [Interdimensional Hypothesis](Interdimensional_Hypothesis.md) — Connects to Puthoff's recent discussion of the ultraterrestrial hypothesis
+- [T. Henry Moray](T_Henry_Moray.md) — 1920s radiant energy inventor whose experimental claims align with Puthoff's theoretical work on zero-point energy extraction; Moray's device represents a historical precursor to the vacuum energy concepts Puthoff has formalized
 - [Books on UAP Physics](Books.md) — *Frontiers of Propulsion Science* and related publications
 - [Deep State overview]# — Intelligence community classification and suppression of UAP physics research
 

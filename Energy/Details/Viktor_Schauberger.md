@@ -93,6 +93,8 @@ According to Schauberger's letters and his son's testimony, the reality was very
 - [Nikola Tesla](Nikola_Tesla.md) — Inventor whose papers were seized by the FBI and Office of Alien Property after his death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor subjected to repeated suppression
+- [George Taylor Fulford](George_Taylor_Fulford.md) — Major GE shareholder killed in a car crash one week after announcing his intention to fund Tesla's wireless energy project; like Schauberger, his death ended financial support for revolutionary energy technology
+- [Justin Christofleau](Justin_Christofleau.md) — French electroculture inventor whose technology harnessing atmospheric electromagnetic energy was suppressed by the fertilizer industry; like Schauberger, he worked with natural forces that the scientific establishment dismissed
 
 ## Other Shocking Stories
 

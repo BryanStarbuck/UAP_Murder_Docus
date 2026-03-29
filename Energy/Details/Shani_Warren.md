@@ -78,6 +78,8 @@ While Warren's murder was ultimately solved and attributed to a sex attacker unr
 - [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
 - [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Jonathan Moyle](Jonathan_Moyle.md) — Defense journalist found hanged in Santiago hotel, 1990. Investigating Marconi-linked arms deals. Ruled murder by British inquest
+- [Ernest Doyle](Ernest_Doyle.md) — GEC scientist found dead March 1982, ruled suicide. One of the earliest deaths in the Marconi cluster
 - [Shani Warren (UAP Deaths project)](/uaps/Details/Shani_Warren) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

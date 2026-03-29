@@ -44,6 +44,7 @@ Wolfe held a top-secret crypto clearance during his time in the Air Force and st
 - [David Grusch](David_Grusch.md) — UAP whistleblower who testified about recovered non-human craft
 - [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+- [John Murphy](John_Murphy.md) — Journalist at the 1965 Kecksburg UFO crash, killed in hit-and-run after being warned by Men in Black
 
 ## Other Shocking Stories
 

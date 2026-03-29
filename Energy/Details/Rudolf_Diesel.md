@@ -87,6 +87,8 @@ The diesel engine's ability to run on vegetable oils threatened the petroleum in
 - [Nikola Tesla](Nikola_Tesla.md) — Another inventor whose technology threatened incumbent energy industries
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Tom Ogle](Tom_Ogle.md) — Fuel efficiency inventor who died of overdose in 1981
+- [Gilbert N. Lewis](Gilbert_N_Lewis.md) — Chemist who coined "photon" and isolated heavy water. Found dead near hydrogen cyanide in his lab
+- [Henry Smolinski](Henry_Smolinski.md) — Flying car inventor killed when wing strut detached during test flight. Welds had been inspected
 
 ## Other Shocking Stories
 

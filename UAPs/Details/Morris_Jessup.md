@@ -53,6 +53,7 @@ After his first book, Jessup's subsequent publications sold poorly. His publishe
 - [James McDonald](James_McDonald.md) — Another UFO researcher whose death was ruled suicide
 - [Frank Edwards](Frank_Edwards.md) — UFO author who died the same decade
 - [Edward Ruppelt](Edward_Ruppelt.md) — Project Blue Book director who died young in 1960
+- [Damon Runyon Jr.](Damon_Runyon_Jr.md) — UFO writer who fell from a bridge in D.C. in 1968, ruled suicide
 
 ## Other Shocking Stories
 

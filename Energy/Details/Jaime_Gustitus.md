@@ -81,7 +81,7 @@ Lt. Gen. Linda Hurry, Deputy Commander of Air Force Materiel Command: "We are de
 
 - [Jacob Prichard](Jacob_Prichard.md) — Colleague and perpetrator. AFRL Sensors Directorate
 - [Jaymee Prichard](Jaymee_Prichard.md) — Also murdered by Jacob Prichard
-- [William Neil McCasland](/uaps/Details/William_McCasland) — Former AFRL Commander, vanished Feb 2026
+- [William Neil McCasland](William_Neil_McCasland.md) — Former AFRL Commander, vanished Feb 2026
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — AFRL-funded inventor, vanished June 2025
 - [Jaime Gustitus (UAP Deaths project)](/uaps/Details/Jaime_Gustitus)
 

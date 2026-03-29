@@ -55,6 +55,7 @@ Elkins also co-authored *Secrets of the UFO* with Carla Rueckert and published *
 - [John Mack](John_Mack.md) — Harvard psychiatrist and alien abduction researcher killed in London in 2004
 - [Brian Lynch](Brian_Lynch.md) — Young contactee who died of an alleged drug overdose after involvement with intelligence-linked PSI research
 - [Morris Jessup](Morris_Jessup.md) — UFO researcher who died of apparent suicide in 1959
+- [Gloria Lee](Gloria_Lee.md) — Contactee whose death was connected to channeling activities, paralleling Elkins' involvement with channeled material
 
 ## Other Shocking Stories
 

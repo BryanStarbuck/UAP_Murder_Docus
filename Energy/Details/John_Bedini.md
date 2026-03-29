@@ -65,6 +65,7 @@ Mainstream physics considers Bedini's claims of overunity (more energy output th
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly
+- [Jim Watson](Jim_Watson.md) — Demonstrated 8-kW overunity motor at 1984 Tesla Conference, witnessed by Bedini. Vanished with entire family
 
 ## Other Shocking Stories
 

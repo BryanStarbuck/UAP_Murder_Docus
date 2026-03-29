@@ -136,6 +136,8 @@ Within the UAP research community, Forrestal's death is frequently cited as one 
 - [Luis Elizondo](Luis_Elizondo.md) -- Former Pentagon official who ran the modern AATIP program, the institutional descendant of the classified UAP efforts Forrestal allegedly oversaw
 - [David Grusch](David_Grusch.md) -- Intelligence officer whose 2023 congressional testimony about UAP crash retrieval programs echoes the core claims of the MJ-12 narrative
 - [Gravity Manipulation](Gravity_Manipulation.md) -- The physics behind the alleged recovered craft that Forrestal's MJ-12 committee was purportedly formed to study
+- [William Colby](William_Colby.md) -- Former CIA Director whose 1996 death under disputed circumstances parallels Forrestal's case; both held apex national security positions, allegedly possessed classified UAP knowledge, and died under officially mundane circumstances that remain contested
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) -- 25+ British defense scientists who died suspiciously during the 1980s SDI program; represents the broader pattern of defense insiders dying under contested circumstances that began with Forrestal's 1949 death
 
 ## Sources
 

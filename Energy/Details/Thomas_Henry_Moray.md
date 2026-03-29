@@ -113,6 +113,7 @@ Moray's case is notable as a pre-Vesperman era example that established the temp
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who died of overdose in 1981
+- [Nathan Stubblefield](Nathan_Stubblefield.md) — Earth battery inventor who drew power from the ground. Another early energy pioneer defrauded and left destitute
 
 ## Other Shocking Stories
 

@@ -58,6 +58,7 @@ Eskridge was based in Huntsville, Alabama -- a city with deep connections to the
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead in car at airport
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing his device
+- [Mr. 35-Year-Old Murdered Whistleblower](Mr_35_Year_Old_Murdered_Whistleblower.md) — Unnamed whistleblower found dead at age 35 before coming forward — same pattern of young insiders dying before disclosure
 
 ## Other Shocking Stories
 

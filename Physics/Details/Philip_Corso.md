@@ -69,6 +69,7 @@ Corso stated that the seeding was done through Army R&D contracts, with contract
 - [Exotic Metamaterials](Exotic_Metamaterials.md) -- The materials science implications of Corso's claims about recovered craft structural materials
 - [Electromagnetic Propulsion](Electromagnetic_Propulsion.md) -- Particle beam devices Corso described may relate to electromagnetic propulsion frameworks
 - [Philip Corso (UAP Deaths)](/uaps/Details/Philip_Corso) -- Profile emphasizing the circumstances of his death one year after publication
+- [William Colby](William_Colby.md) -- Former CIA Director who died under disputed circumstances in 1996, the year before Corso published; Colby's demonstrated willingness to disclose classified programs as DCI parallels Corso's decision to go public about reverse-engineering programs
 
 ## Sources
 

@@ -44,6 +44,7 @@ He is buried in Arlington National Cemetery due to his service in the U.S. Army.
 
 - [Frank Edwards](Frank_Edwards.md) — UFO author who died two years later
 - [Morris Jessup](Morris_Jessup.md) — UFO author who died six years earlier
+- [Gloria Lee](Gloria_Lee.md) — Prominent contactee who died during a 66-day hunger strike in 1962, three years before Adamski
 
 ## Other Shocking Stories
 

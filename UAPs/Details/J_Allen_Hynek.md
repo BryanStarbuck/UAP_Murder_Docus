@@ -48,6 +48,7 @@ In 1973, Hynek founded the Center for UFO Studies (CUFOS) in Chicago, which beca
 - [James McDonald](James_McDonald.md) — McDonald and Hynek were the two most prominent scientist-ufologists of the 1960s
 - [Ivan Sanderson](Ivan_Sanderson.md) — Another prominent paranormal researcher who died of brain cancer
 - [Edward Ruppelt](Edward_Ruppelt.md) — Ruppelt ran Project Blue Book, on which Hynek served as consultant
+- [Coral Lorenzen](Coral_Lorenzen.md) — APRO co-founder and contemporary of Hynek in civilian UFO research
 
 ## Other Shocking Stories
 

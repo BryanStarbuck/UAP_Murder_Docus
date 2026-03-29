@@ -76,6 +76,8 @@ Casolaro's death at 44 -- while reportedly on the verge of completing his invest
 - [Bob Lazar](Bob_Lazar.md) -- Claimed firsthand knowledge of classified technology programs at Area 51, the type of program Casolaro's Octopus allegedly protected
 - [Eugene Mallove](Eugene_Mallove.md) -- Another researcher killed while pursuing unconventional science and challenging institutional narratives
 - [Paul Brown](Paul_Brown.md) -- Alternative energy inventor killed after years of harassment; similar pattern of researcher suppression
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) -- 25+ British defense scientists died under suspicious circumstances during the same era Casolaro was investigating covert government programs; the SDI "Star Wars" connection represents another facet of the black-budget infrastructure
+- [William Colby](William_Colby.md) -- Former CIA Director who died under disputed circumstances in 1996; his willingness to disclose classified programs parallels the kind of insider sources Casolaro sought for his Octopus investigation
 
 ## Sources
 

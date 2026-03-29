@@ -82,6 +82,8 @@ Gary Vesperman's *Energy Invention Suppression Cases* poses the question: "Have 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car crash after repeated harassment
+- [John Mullen](John_Mullen.md) — Nuclear physicist poisoned with arsenic in a health supplement; sole suspect found dead before arrest, another confirmed murder of a scientist working in nuclear-adjacent research
+- [Ken Shoulders](Ken_Shoulders.md) — Vacuum microelectronics pioneer whose charge cluster research connects to LENR phenomena; his EVOs exhibit properties including element transmutation that overlap with Bass's nuclear transmutation work
 
 ## Other Shocking Stories
 

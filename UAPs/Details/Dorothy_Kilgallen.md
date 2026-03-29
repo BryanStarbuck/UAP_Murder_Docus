@@ -67,6 +67,8 @@ In 1964, Kilgallen became the only journalist to secure a private interview with
 - [Dorothy Kilgallen (Intel Murders)]# — This case also appears in the Intelligence Service Murders project
 - [James Forrestal](James_Forrestal.md) — Government insider who allegedly knew about recovered craft, died under suspicious circumstances (1949)
 - [Frank Edwards](Frank_Edwards.md) — UFO journalist who died under suspicious circumstances (1967)
+- [John Murphy](John_Murphy.md) — Radio journalist killed in a hit-and-run after Men in Black warned him to stop investigating the Kecksburg UFO crash
+- [Peter Jennings](Peter_Jennings.md) — ABC News anchor who died of fast-acting cancer months after airing a major primetime UFO special
 
 ## Other Shocking Stories
 

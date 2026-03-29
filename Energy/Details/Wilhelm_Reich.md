@@ -88,6 +88,9 @@ On May 7, 1956, Reich was found guilty of contempt of court for violating the in
 - [Nikola Tesla](Nikola_Tesla.md) — Inventor whose papers were seized by the FBI after his death
 - [Paul Pantone](Paul_Pantone.md) — Inventor committed to a mental institution after developing an alternative fuel processor
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [John Hutchison](John_Hutchison.md) — Lab seized by Canadian PM, government defied court order to return it. Another case of government seizing researcher's equipment
+- [Georges Lakhovsky](Georges_Lakhovsky.md) — Multi-Wave Oscillator inventor struck by a limousine in New York in 1942; his equipment was removed from hospitals after his death, paralleling the government destruction of Reich's orgone accumulators
+- [Justin Christofleau](Justin_Christofleau.md) — Electroculture inventor whose electromagnetic agricultural technology was suppressed by industry lobbying and government concealment of favorable reports; another case of institutional destruction of electromagnetic energy research
 
 ## Other Shocking Stories
 

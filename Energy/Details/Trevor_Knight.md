@@ -66,6 +66,9 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
 - [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Avtar Singh-Gida](Avtar_Singh_Gida.md) — MoD/Marconi researcher who vanished in 1987 with amnesia, found in Paris. Case raised in Parliament
+- [Ernest Doyle](Ernest_Doyle.md) — GEC scientist found dead March 1982, one of the earliest Marconi cluster deaths. Ruled suicide
+- [Jonathan Moyle](Jonathan_Moyle.md) — Defense journalist found hanged in Santiago hotel, 1990. Investigating Marconi-linked arms deals. Ruled murder by British inquest
 - [Trevor Knight (UAP Deaths project)](/uaps/Details/Trevor_Knight) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories

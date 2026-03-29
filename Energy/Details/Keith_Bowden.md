@@ -68,6 +68,7 @@ Some investigators have suggested KGB or Eastern Bloc involvement, theorizing th
 - [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
 - [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Ernest Doyle](Ernest_Doyle.md) — GEC scientist who died the same month as Bowden in March 1982. Together they mark the start of the Marconi cluster
 - [Keith Bowden (UAP Deaths project)](/uaps/Details/Keith_Bowden) — Parallel profile in UAP Deaths project
 
 ## Other Shocking Stories
