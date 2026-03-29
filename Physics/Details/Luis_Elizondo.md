@@ -123,6 +123,8 @@ Elizondo's role at AATIP has been the subject of institutional pushback. In 2019
 - [Zero Point Energy](Zero_Point_Energy.md) — A candidate energy source for the spacetime-warping mechanism Elizondo describes
 - [Interdimensional Hypothesis](Interdimensional_Hypothesis.md) — Elizondo's statements about UAPs being "just as likely" interdimensional as extraterrestrial directly support this thesis
 - [Exotic Metamaterials](Exotic_Metamaterials.md) — Elizondo's claims about recovered materials connect to ongoing analysis of anomalous metamaterials
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) — 25+ British defense scientists who died under suspicious circumstances while working on SDI programs; represents the historical pattern of defense insiders dying under contested circumstances that Elizondo's disclosure work aims to expose
+- [William Colby](William_Colby.md) — Former CIA Director whose 1996 death under disputed circumstances allegedly occurred while he was preparing to disclose classified UAP materials; the most senior intelligence official whose case parallels the institutional secrecy Elizondo has challenged
 
 ## See Also
 

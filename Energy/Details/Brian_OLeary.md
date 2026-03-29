@@ -64,6 +64,7 @@ He relocated to Ecuador after his colleague and fellow New Energy Movement advoc
 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death; O'Leary's colleague in the New Energy Movement
 - [James Allen](James_Allen.md) — Documentary filmmaker who also died of rapid-onset cancer while working on zero-point energy
+- [George Taylor Fulford](George_Taylor_Fulford.md) — Major GE shareholder killed in a car crash one week after announcing his intention to fund Tesla's wireless energy project; like O'Leary, a prominent supporter whose financial backing of revolutionary energy made him a target
 
 ## Other Shocking Stories
 

@@ -84,6 +84,7 @@ In his later years, Pogue denied having ever claimed that his carburetor achieve
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Rory Johnson](Rory_Johnson.md) — Magnetic motor inventor targeted by DOE gag and grab orders
 - [Henry Smolinski](Henry_Smolinski.md) — Flying car inventor killed in 1973 crash. Welds failed despite prior inspection. Both inventor and partner killed
+- [Justin Christofleau](Justin_Christofleau.md) — Electroculture inventor whose atmospheric electromagnetic energy device was suppressed by the fertilizer industry through legal persecution; another inventor whose workshop break-ins and industry lobbying parallel Pogue's suppression
 
 ## Other Shocking Stories
 
