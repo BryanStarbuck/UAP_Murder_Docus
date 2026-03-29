@@ -13,7 +13,7 @@ According to statements made by senior military officials — including a top ge
 
 This project catalogs and evaluates the different **theses** for what that classified physics might be. Each thesis addresses core questions: What powers UAPs? How do they achieve impossible flight characteristics? Can gravity be manipulated locally? Is faster-than-light travel possible? What do recovered materials tell us about the physics? Each thesis is rated by evidence strength so readers can assess credibility for themselves.
 
-The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **whistleblower accounts**, and **investigative journalism**. We document all credible theses and let readers evaluate the evidence.
+The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **whistleblower accounts**, and **investigative journalism**. We document all credible theses and let readers evaluate the evidence. **60 profiles documented.**
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 

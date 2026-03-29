@@ -13,7 +13,7 @@ The pattern is consistent: an inventor or physicist announces or demonstrates a 
 
 Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
 
-This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **131 profiles documented.**
+This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **130 profiles documented.**
 
 **[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.
 

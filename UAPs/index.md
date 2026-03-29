@@ -15,7 +15,7 @@ The killings — if that is what they are — follow a pattern: researchers or i
 
 There is a documented history of the U.S. military and intelligence community engaging in deception, misconduct, and, in documented cases, serious criminal activity. Allegations have also been made that individuals have been threatened or harmed in connection with classified UFO programs. The pattern of ethical failures within the federal government is sufficient reason for every mysterious death to receive a thorough, independent investigation.
 
-This project documents deaths, disappearances, and cases of extreme retaliation against individuals connected to UAP/UFO research, classified aerospace programs, exotic energy technology, and government disclosure efforts. The focus is on people who were allegedly silenced to protect the secrecy of:
+This project documents deaths, disappearances, and cases of extreme retaliation against individuals connected to UAP/UFO research, classified aerospace programs, exotic energy technology, and government disclosure efforts. **170 profiles documented.** The focus is on people who were allegedly silenced to protect the secrecy of:
 
 - **Recovered non-human craft and reverse-engineering programs**
 - **Classified aerospace and defense technology (SDI/Star Wars, black projects)**
