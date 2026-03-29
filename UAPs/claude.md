@@ -218,7 +218,7 @@ Cross-link when: person mentioned by name, similar death circumstances, worked t
 
 1. **Research** — web search for name + "death," "murder," "suicide," "UFO," "UAP," "classified," "whistleblower." Check news, Wikipedia, court docs, family statements, books, congressional testimony, UAP research communities.
 2. **Create profile** — `Details/FirstName_LastName.md`, appropriate template, 3-5+ sources, cross-links. Include all required sections, plus any additional sections with extra information.
-3. **Add to index.md** — correct category table, ordered by suspicion level then year
+3. **Add to index.md** — correct category table, ordered by recency by decade first (2020s above 2010s above 2000s, etc.), then by suspicion level within the same decade, then by year
 4. **Update patterns** — add to relevant pattern lists; add new patterns if needed
 5. **Cross-link** — link from/to related profiles and other site sections
 

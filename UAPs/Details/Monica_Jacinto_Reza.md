@@ -16,6 +16,12 @@ The disappearance of Monica Jacinto Reza has moved well beyond a routine hiking 
 
 ## Circumstances of Disappearance
 
+### Last Known Video
+
+The last known video of Monica Jacinto Reza was recorded on March 22, 2025 — exactly three months to the day before she vanished on June 22, 2025. The footage shows her appearing healthy and in good spirits.
+
+### The Disappearance
+
 On June 22, 2025, at approximately 9:10 a.m., Monica Jacinto Reza was hiking on the Upper West Ridge Trail near Mount Waterman in the Angeles National Forest, California. According to the Los Angeles County Sheriff's Department, she was hiking with a companion. The companion reported that Reza was approximately 30 feet behind, smiling and waving. The companion turned around, and Reza had vanished.
 
 Search-and-rescue operations were launched immediately and continued for over a week. The initial search phase involved dozens of agencies, including teams from San Bernardino County and Tulare County, as well as helicopter support, K-9 units, and drones. According to The Sentinel Network's "THE LONG COUNT" investigation (March 18, 2026), the FLIR (forward-looking infrared) search was negative — thermal imaging found nothing. The scent trail ended at a misplaced beanie. The initial phase concluded on June 30, 2025.

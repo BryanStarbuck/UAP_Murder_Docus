@@ -556,7 +556,7 @@ Search for the person's name + "death," "murder," "suicide," "suspicious," "supp
 
 - Add a row to the appropriate category table in index.md
 - Place it in the correct table based on the person's technology area
-- Within each table, order by suspicion level (highest first), then by year
+- Within each table, order by recency by decade first (2020s above 2010s above 2000s, etc.), then by suspicion level (highest first) within the same decade, then by year
 - Deceased go in the relevant technology table
 - Living/missing/at-risk go in the appropriate table with status noted
 - Include the one-line summary in the Details column

@@ -94,7 +94,10 @@ The default Docusaurus table-of-contents (right sidebar) is replaced with a cura
 - **Name** — hyperlinked to their detail page in the UAPs section (`/uaps/Details/...`)
 - **Blurb** — 28 words or less describing how they died, why they were likely targeted, and personal details (age, location, family)
 
-Entries are sorted by audience impact: most shocking/suspicious deaths first, prioritizing highly suspicious cases, gruesome or unmistakable methods, and people whose knowledge or actions made them high-priority targets.
+Entries are sorted by these criteria (in priority order):
+
+1. **Recency by decade** (highest priority) — people who died/disappeared in more recent decades sort above older decades. 2020s > 2010s > 2000s > 1990s > earlier. Within the same decade, use the remaining criteria to break ties.
+2. **Audience impact** — most shocking/suspicious deaths first, prioritizing highly suspicious cases, gruesome or unmistakable methods, and people whose knowledge or actions made them high-priority targets.
 
 The sidebar appears on all doc pages (desktop only, hidden below 996px). It is sticky and scrolls independently.
 
