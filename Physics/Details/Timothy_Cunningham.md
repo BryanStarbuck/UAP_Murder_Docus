@@ -1,0 +1,331 @@
+# Timothy Cunningham
+Commander in the U.S. Public Health Service Commissioned Corps and epidemiologist at the CDC. Disappeared February 12, 2018, after leaving work early. His body was found seven weeks later in the Chattahoochee River in Atlanta, in an area police said was not accessible by walking. Ruled suicide by drowning despite numerous unexplained circumstances. His death fits the pattern of government scientists dying under suspicious conditions with key details that authorities cannot explain.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Timothy Jerrell Cunningham |
+| **Born** | December 21, 1982, Montgomery, Alabama |
+| **Died** | Approximately February 12, 2018 (body found April 3, 2018) |
+| **Age at Death** | 35 |
+| **Location of Death** | Chattahoochee River, northwest Atlanta, Georgia, USA |
+| **Cause of Death** | Suicide by drowning (Fulton County Medical Examiner) |
+| **Official Ruling** | Suicide |
+| **Role** | Epidemiologist / Commander, U.S. Public Health Service Commissioned Corps |
+| **Employer** | Centers for Disease Control and Prevention (CDC), Atlanta, GA |
+| **Education** | Morehouse College (B.A. Biology, 2004); Harvard T.H. Chan School of Public Health (S.M., Sc.D. Social Epidemiology, 2004-2010) |
+| **Evidence Rating** | **SUSPICIOUS** |
+
+## Assessment: UNCERTAIN (UAP Physics Link)
+
+Timothy Cunningham's work at the CDC focused on chronic disease epidemiology and health disparities — not aerospace, propulsion, energy, or physics. There is no documented connection to UAP programs, classified physics, or Department of Defense research. His inclusion here is based on the pattern of government scientists dying under highly suspicious circumstances where official explanations leave critical questions unanswered, and where the scientist left behind all personal belongings and identification before dying in a body of water under conditions authorities admitted they could not explain. The case parallels other scientist deaths in this project where the official ruling does not account for key physical evidence.
+
+## Circumstances of Death
+
+### Detailed Timeline
+
+| Date | Event |
+|------|-------|
+| **February 5, 2018** | Cunningham learned he was being passed over for a promotion to branch manager |
+| **February 6-7, 2018** | Came into work at the CDC as normal |
+| **February 8-9, 2018** | Called in sick and did not come to work |
+| **February 10, 2018 (Saturday)** | Called over to his neighbor Chris Torry from across the way and told him to delete Cunningham's phone number from Torry's wife's phone — described as "a bit strange" |
+| **February 12, 2018 (5:21 a.m.)** | Sent a text message to his mother: "Are you awake?" — she did not respond because her phone was on silent |
+| **February 12, 2018 (9:12 a.m.)** | Called his mother; she did not answer; he did not leave a message |
+| **February 12, 2018 (morning)** | Arrived at CDC; met with supervisor Janet Croft, who explained why he did not receive the promotion. Coworkers described him as "obviously disappointed" |
+| **February 12, 2018** | Left work early, telling colleagues he felt unwell |
+| **February 12, 2018** | Last spoke to his sister Tiana by phone; she told police he sounded "paranoid." He told her: "You have to figure things out for yourself" |
+| **February 14, 2018** | Parents reported him missing after two days of failed attempts to reach him |
+| **February 14, 2018** | Parents drove through the night from Waldorf, Maryland to Atlanta |
+| **April 3, 2018** | Two fishermen spotted a body on the banks of the Chattahoochee River in northwest Atlanta |
+| **April 3, 2018** | Body identified via dental records; approximately four miles from his home |
+| **May 22, 2018** | Medical examiner officially ruled cause of death as suicide by drowning |
+
+### What Was Found at His Home
+
+When Cunningham's parents arrived at his Atlanta home using a spare key, they found:
+
+- **Keys, cell phone, credit cards, debit cards, wallet, all forms of identification, and passport** — all left behind inside the home
+- **His dog, Mr. Bojangles** — left alone and unattended. His father told police, "Tim never leaves Beau unattended," indicating this was highly unusual behavior. (Note: sources refer to the dog by both "Mr. Bojangles" and "Beau")
+- **His car** — still parked at the home
+- **Two windows open** (one bathroom, one laundry room) — his parents said this was completely out of character because Cunningham was environmentally conscious and always kept windows closed
+- **Nothing else appeared disturbed or out of place** — no signs of a struggle, no indication of forced entry
+
+Major Michael O'Connor of the Atlanta Police Department stated: *"The most unusual fact, in this case, is that every single belonging that we are aware of was located in the residence. So his keys, cell phone, credit cards, debit cards, wallet, all of his identification, passports — anything you can think of we've been able to locate."*
+
+### The "Delete My Number" Incident
+
+The neighbor interaction is one of the most puzzling details. Chris Torry, Cunningham's next-door neighbor, told CBS News and other outlets that on Saturday, February 10, two days before the disappearance:
+
+> "My wife and him had swapped phone numbers. Saturday, Tim called over to me from across the way and told me to take his number out of her phone. It seemed a bit strange." — **Chris Torry, neighbor**
+
+Torry's wife also recounted the interaction: *"He told my husband to tell his wife — me — to erase his cellphone number from my cell phone."*
+
+This interaction was never explained. There is no documentation of Cunningham making similar requests to other people, making the specificity of this request — directed only at one neighbor's wife — particularly unusual.
+
+### The Search Effort
+
+The search for Cunningham involved substantial resources over seven weeks:
+
+- **Atlanta Police Department** — processed his home, conducted interviews, reviewed financial records and text messages, compiled 600+ pages of investigative documents
+- **K9 teams** — the Alpha Team K9 Search and Rescue Team, a professional volunteer search organization, searched wooded areas
+- **Helicopter searches** — aerial scanning of the area surrounding his home and nearby parks
+- **Ground searches** — police, volunteers, friends, and family searched on foot through local parks, cemeteries, and wooded areas near a CDC office and the Mercer University Atlanta campus
+- **Reward money** — Cunningham's family, in partnership with Crime Stoppers of Greater Atlanta, offered a **$15,000 reward** for information leading to an arrest and indictment. A separate GoFundMe campaign raised over **$24,000**, bringing the total reward pool to nearly **$40,000**
+
+Despite weeks of organized searching, Cunningham's body was ultimately found not by search teams but by two fishermen.
+
+### The Fishermen and the Reward
+
+The two fishermen who found Cunningham's body on April 3 were **not awarded any reward money**. Atlanta police stated that the Crime Stoppers reward was specifically for "information leading to an arrest and indictment in the case" — finding the body did not meet that condition. This became a point of public controversy.
+
+### Discovery of the Body
+
+The body was found by two fishermen on the banks of the Chattahoochee River, approximately **400 yards upstream from where Donald Lee Hollowell Parkway crosses the river**. The body was partially submerged in water and mud on the west bank, found face-up and stuck in a lot of mud. The location was approximately four miles from his home.
+
+Police noted the area where the body was found **was not easily accessible from land**. The recovery team had to enter the water 200 yards downstream and navigate upstream to reach the remains because they could not find a place to launch a boat near the body's location.
+
+He was wearing a **jogging suit and his "favorite jogging shoes."** Three small crystals were found in his pockets. Cunningham was known to be an avid collector of crystals, rocks, and rare stones — friends and police confirmed the three crystals were consistent with items he regularly collected and carried. The specific type of crystal was not publicly identified.
+
+### Phone and Digital Trail
+
+With his cell phone left at his home, **there was no digital trail to track his movements** after he left. His phone showed:
+
+- **5:21 a.m. text to his mother** — "Are you awake?" (she did not see it until later because her phone was on silent)
+- **9:12 a.m. call to his mother** — she did not answer; he did not leave a message
+- **Phone call with his sister Tiana** — the last known phone conversation, during which she said he sounded "paranoid"
+- **No further phone activity** — the phone was left at the home along with all other electronics
+
+Because all devices were left behind, investigators had no GPS data, cell tower pings, or digital records to determine how Cunningham traveled four miles to the river or when he entered the water. His mother later said: *"I wish I had that opportunity to answer that text."*
+
+### Autopsy Results
+
+- **Ruling:** Suicide by drowning (Fulton County Chief Medical Examiner Dr. Jan Gorniak)
+- **Toxicology:** Marijuana found in his system but did not contribute to death; no other drugs or significant alcohol
+- **Physical examination:** No signs of trauma — no bruises, wounds, or injuries
+- **Chronic illness:** Medical examiner noted Cunningham had a chronic disease for which he was taking medication, but stated it was unrelated to his death. The specific illness was never publicly disclosed
+- **Body condition:** Consistent with approximately seven weeks of submersion/exposure; identified by dental records
+- Police stated: *"We have no indication of foul play"* but also acknowledged *"There is a lot that I cannot explain"* and *"We may never be able to tell you how he got into the river"*
+
+## Background
+
+### Early Life
+
+Timothy Jerrell Cunningham was born December 21, 1982, in Montgomery, Alabama. His parents, Tia-Juana ("Tia") and Terrell Cunningham, both had military careers. The family lived in the Philippines from when Timothy was age 3 to 5, due to his parents' military postings. The family later settled in Waldorf, Maryland, where Timothy grew up.
+
+### Education
+
+Timothy Cunningham was one of the most accomplished young scientists at the CDC:
+
+- **Morehouse College** (August 2000 - May 2004) — Bachelor's degree in Biology. Member of Phi Beta Kappa honor society. Served as editor of the student newspaper, *The Maroon Tiger*. Belonged to several campus organizations. Graduated Class of 2004
+- **Harvard T.H. Chan School of Public Health** (September 2004 - May 2010) — Master of Science (S.M.) and Doctor of Science (Sc.D.) in Social Epidemiology
+- Pre-doctoral fellow at the Harvard University Prevention Research Center on Nutrition and Physical Activity
+- Editor-in-Chief of the *Harvard Journal of African American Public Policy* at the John F. Kennedy School of Government
+- Research assistant at the Dana-Farber Cancer Institute
+- After Harvard, taught undergraduate public health classes at Morehouse College, Spelman College, and Clark Atlanta University — all for free, as volunteer work
+
+### CDC Career
+
+- Joined CDC in 2010 as part of the **Epidemic Intelligence Service (EIS)** — the elite "disease detective" corps that responds to outbreaks and public health emergencies
+- Initially worked in the Division of Reproductive Health
+- Became Team Lead for the State Chronic Disease Epidemiology Assignee Program in the Epidemiology and Surveillance Branch of the Division of Population Health
+- Commander in the U.S. Public Health Service Commissioned Corps — received an exceptional early proficiency promotion to Commander effective July 1, 2017
+- Co-author of **28 publications** on topics including sleep deprivation, pulmonary disease, and health disparities
+- Associate Editor for the CDC's journal *Preventing Chronic Disease* (PCD)
+- **Deployed to major public health emergencies:** Superstorm Sandy (2012), Ebola virus outbreak (2014-2015), and Zika virus outbreak (2015-2016)
+
+### EIS and Deployments
+
+The Epidemic Intelligence Service is the CDC's frontline outbreak response force. EIS officers are deployed to investigate disease outbreaks, bioterrorism threats, and public health emergencies both domestically and internationally. Cunningham's deployments to Superstorm Sandy, Ebola, and Zika placed him at the center of some of the most significant public health crises of the decade. While none of these deployments are known to have involved classified or defense-related work, the EIS has historically operated in areas that overlap with national security concerns, particularly during bioterrorism-related investigations.
+
+### The Promotion Dispute
+
+A significant and unresolved contradiction surrounds the promotion issue:
+
+- **Atlanta Police** stated that Cunningham was told on February 5 that he was not getting a promotion to **branch manager**, and that his supervisor Janet Croft explained the reasons on February 12. Police said their information "came directly from the CDC"
+- **CDC Acting Director Dr. Anne Schuchat** publicly contradicted the police, stating: *"As many of his colleagues... have pointed out, this information is incorrect."* Schuchat noted that Cunningham had been promoted to Commander effective July 1, 2017, "in recognition of his exemplary performance"
+- **Atlanta Police Sgt. John Chafee** responded by standing behind their statements, telling CBS News the department maintained every statement it had given about Cunningham's employment
+
+The contradiction was never resolved. The promotion to Commander in July 2017 was a separate matter from the branch manager position Cunningham was reportedly denied in February 2018. The CDC appeared to be emphasizing the earlier promotion to counter the narrative that Cunningham was professionally frustrated, while police were reporting what they were told about a more recent, different position.
+
+### Awards and Recognition
+
+- **LEAD Atlanta** (Class of 2014) — a leadership development program for emerging Atlanta leaders
+- **Outstanding Atlanta Award** (2014) — one of ten Atlantans recognized for service, leadership, and achievements
+- **Atlanta Business Chronicle's 40 Under 40** (2017) — recognized as one of Atlanta's top young professionals
+- After his death, the CDC's journal *Preventing Chronic Disease* dedicated a **Tim Cunningham Memorial Collection on Eliminating Health Disparities** — a collection of research articles on the subject he was most passionate about
+
+### Community Involvement and Organizations
+
+Cunningham was deeply embedded in Atlanta's civic and professional community:
+
+- **President of the Atlanta Commissioned Officers Association** — supporting approximately 1,000 officers in the U.S. Public Health Service
+- **Member of the American Public Health Association**
+- **Member of the American College of Epidemiology**
+- **Member of the Junior Officer Advisory Group**
+- **Member of the Black Commissioned Officers Advisory Group**
+- **Liaison to the Minority Officers Liaison Council**
+- **Atlanta First United Methodist Church** — involved with the church's homeless ministry. Pastor Jasmine Smothers, a close friend, was the lead pastor. Donations in Cunningham's memory were directed to the church's homeless ministry
+- **Morehouse College volunteer** — donated regularly to his alma mater and taught public health classes at Morehouse, Spelman, and Clark Atlanta for free
+- **Constant donor** — described by colleagues as someone who gave generously of both his time and resources
+
+### Personal Life and Family
+
+- **Parents:** Tia-Juana ("Tia") and Terrell Cunningham, both with military careers. Resided in Waldorf, Maryland
+- **Sister:** Tiana Cunningham — the two were extremely close. They spoke **multiple times daily**, according to family and police reports. At his memorial service, Tiana told the audience that Timothy was "her best friend, the one whom she confided in and adored"
+- **Dog:** Mr. Bojangles (also referred to as "Beau" in some reports)
+- **Unmarried;** lived alone in his northwest Atlanta home
+- **Avid jogger and crystal collector** — regularly ran and collected crystals, rocks, and rare stones
+- **Described as:** loyal, passionate about his work, generous with his time and money, and deeply connected to his community
+
+The family was close-knit. Cunningham's parents and sister maintained near-constant contact with him. When he failed to respond to calls and texts for two days — behavior completely out of character — his parents immediately drove through the night from Maryland to Atlanta, a roughly 10-hour drive.
+
+### The 2010 "Breakdown" and Personal Struggles
+
+The 600+ page police case file revealed that Cunningham had experienced significant personal struggles, based on interviews with friends and family:
+
+**The 2010 Breakdown:**
+Cunningham's best friend, Nell Reed (also identified in some reports as Nell Bradley), who lived in Texas, told police that Cunningham had experienced a "breakdown" in 2010. During this period, according to Reed, "Tim talked to her about his feelings toward men and that he didn't consider himself gay." Reed described Cunningham as struggling with his sexual identity — he had feelings toward men but did not identify as gay.
+
+**The Morehouse Classmate:**
+In the weeks before his disappearance, Cunningham had reconnected with a former Morehouse College classmate. According to Reed, "the person had been coming to Tim's house and that Tim began to question whether the person was playing with his feelings." When police interviewed the classmate, the man told investigators that Cunningham had "come on to him in recent months." Approximately two weeks before Cunningham's disappearance, the classmate **blocked Cunningham's phone number**.
+
+**Best Friend's Assessment:**
+Reed told police she believed the combination of being passed over for the promotion and the failed reconnection with the classmate triggered another breakdown: *"She thinks something at his job, combined with the person he had tried to reconnect with caused a mental breakdown."*
+
+**Chronic Illness:**
+Cunningham's parents told police he had a chronic disease for which he was taking medication. The specific illness was never publicly identified. The medical examiner stated it was unrelated to his cause of death.
+
+## The 600+ Page Police Case File
+
+Atlanta Police compiled more than 600 pages of investigative documents, which were later released publicly. The file included:
+
+- **Financial documents** — reviewed for any unusual transactions or patterns
+- **Text messages** — analyzed for communications in the days and weeks before his disappearance
+- **Statements from friends and family** — detailed interviews with his parents, sister Tiana, best friend Nell Reed, the Morehouse classmate, neighbors, and coworkers
+- **Statements from tipsters** — numerous tips came in during the seven-week search
+- **Supervisor Janet Croft's account** — described Cunningham's reaction to being passed over for the promotion
+- **Neighbor Chris Torry's account** — documented the "delete my number" request
+- **The Morehouse classmate's interview** — confirmed Cunningham's romantic interest and the blocking of his phone number
+- **Medical records** — confirmed the chronic illness and medication
+
+The case file painted a picture of a highly accomplished man dealing with converging personal and professional pressures. Investigators concluded these pressures led to suicide, though they acknowledged they could not explain the physical circumstances of how he ended up in the river.
+
+## Suspicious Indicators
+
+1. **All belongings left behind** — keys, phone, wallet, ID, credit cards, passport — no way to trace his movements. Major O'Connor called this "the most unusual fact in this case"
+2. **Inaccessible body location** — police acknowledged they could not explain how his body got to the riverbank, which was not accessible by walking. The recovery team had to enter the river 200 yards downstream
+3. **Four miles from home** — with no phone, wallet, car, or digital trail to explain how he traveled that distance
+4. **No digital trail whatsoever** — with all electronics left at home, investigators had zero data about his movements after he was last seen
+5. **Sister said he sounded "paranoid"** in their last phone conversation — and his cryptic final words to her: "You have to figure things out for yourself"
+6. **Odd neighbor interaction** — told a neighbor to delete his phone number from the neighbor's wife's phone. This request was specific, targeted, and never explained
+7. **Two windows open** — family said this was completely out of character for the environmentally conscious Cunningham
+8. **Dog left alone and unfed** — his father stated "Tim never leaves Beau unattended," suggesting Cunningham did not plan to be away
+9. **Early morning text to mother** — "Are you awake?" at 5:21 a.m. suggests he was in distress and reaching out; the failed connection may be significant
+10. **Jogging clothes and crystals** — found wearing jogging attire with three crystals in his pocket, suggesting he may have gone for a run, yet the river location was not on any known jogging route
+11. **Police admitted they could not explain key facts** — even while ruling out foul play, investigators said "there is a lot that I cannot explain" and "we may never be able to tell you how he got into the river"
+12. **CDC contradicted police on promotion** — the conflicting accounts between Atlanta Police and CDC leadership about whether Cunningham was denied a promotion remain unresolved
+13. **Pattern match** — government scientist, all belongings left behind, body found in water weeks later, ruled suicide despite unexplained circumstances; this pattern appears in multiple cases documented in this project
+
+## Parents' Public Statements and Advocacy
+
+### During the Search
+
+Terrell Cunningham described the family's experience as "heart-wrenching agony." During the seven-week search, the family was told **four separate times** that a body had been found, only to learn each time it was not Timothy. Terrell said: *"It takes you to a place that the light is not shining in."*
+
+Terrell also expressed concern about the tone of recent communications with his son: *"The tone and the numerous exchanges gave us reason to be concerned about Tim."*
+
+### Combating Misinformation
+
+The family was forced to publicly combat the flu vaccine whistleblower conspiracy theory. Terrell Cunningham stated firmly: *"I must address this issue. It is a lie... It is not factual."* The family was clear that Timothy had no connection to flu vaccine research and worked in chronic disease.
+
+### After the Body Was Found
+
+Timothy's mother Tia reflected: *"We tried to recall the words we may have misunderstood and the meaningful looks we didn't notice and the words we imagined that were on the tip of Tim's tongue."*
+
+When the police case file was released, the parents' response was that they simply wanted their son "to rest in peace."
+
+### Memorial Donations
+
+In lieu of flowers, the family requested donations to **Morehouse College** in Cunningham's name or to the **homeless ministry at Atlanta First United Methodist Church**. Friends also began work on a scholarship fund at Cunningham's high school in Maryland.
+
+## Memorial and Legacy
+
+### Memorial Service
+
+Approximately **600 people** attended the memorial service on April 21, 2018, held at **King Chapel on the Morehouse College campus**. Colleagues, friends, and his sister shared stories about Cunningham, focusing on his accomplishments and loyalty to others.
+
+Captain Marcella Law of the National Center for Chronic Disease told the gathered crowd: *"It wasn't just a career or job for him. Tim felt that it was his calling to use his gift and change lives."*
+
+### Lasting Legacy
+
+- The CDC's journal *Preventing Chronic Disease* dedicated the **Tim Cunningham Memorial Collection on Eliminating Health Disparities** — a collection of research articles on the subject he was most passionate about
+- Friends organized a scholarship at his high school in Maryland
+- Donations to Morehouse College were made in his name
+- His story brought national attention to the mental health challenges facing high-achieving professionals, particularly in government service
+
+## The Flu Vaccine Whistleblower Theory (Debunked)
+
+An article on YourNewsWire.com in January 2018 quoted an anonymous "CDC doctor" claiming the flu vaccine was causing the flu epidemic. After Cunningham disappeared, internet speculation connected him to this anonymous source.
+
+This has been thoroughly debunked: Cunningham worked in the Division of Population Health (chronic disease), not the infectious disease unit. He had no access to flu vaccine data. His father Terrell Cunningham publicly disputed the whistleblower claims as false. Multiple news outlets (11Alive, Snopes, CBS) verified he was not the anonymous source.
+
+## Connections to Other Suspicious Scientist Deaths
+
+Cunningham's death fits a documented pattern that has drawn attention from researchers and even members of Congress:
+
+- **The "body in water" pattern** — multiple government-connected scientists have been found dead in bodies of water after disappearing, with all personal belongings left behind. [Jason Thomas](Jason_Thomas.md), a Novartis scientist whose employer had DoD contracts, was found in a Massachusetts lake under nearly identical circumstances
+- **Republican Tennessee Rep. Tim Burchett** stated publicly that he believes there may be a pattern emerging of researchers throughout the nation "disappearing under suspicious circumstances"
+- **The "all belongings left behind" signature** — leaving phone, wallet, keys, and ID behind eliminates any digital trail, a pattern that appears in multiple cases in this project
+- **Government scientist deaths** — Cunningham's case contributed to growing public awareness and concern about the frequency of government-connected scientists dying under unexplained circumstances
+
+## Counterarguments Against Foul Play
+
+- Cunningham was reportedly struggling with personal issues including questions about sexual identity, a prior "breakdown" in 2010, and a recent romantic rejection by a Morehouse classmate who blocked his phone number
+- He had just been passed over for a promotion to branch manager and was "obviously disappointed"
+- His best friend told police she believed the combination of professional disappointment and personal rejection caused a mental breakdown
+- He had a chronic illness requiring medication (unspecified)
+- The medical examiner found no signs of physical trauma
+- Toxicology showed only marijuana
+- Police conducted a thorough investigation with 600+ pages of documents
+- His research in chronic disease epidemiology and health disparities has no apparent connection to aerospace, propulsion, UAP, or classified physics
+- No evidence he possessed classified information or was involved in defense research
+
+## See Also
+
+- [Jason Thomas](Jason_Thomas.md) — Novartis scientist with DoD-contracted employer, body found in Massachusetts lake after winter disappearance; similar pattern of all belongings left behind
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist, part of the recent scientist death cluster
+- [GEC-Marconi Scientists](GEC_Marconi_Scientists.md) — Largest documented cluster of suspicious defense scientist deaths
+
+## Sources
+
+- [NPR: CDC Epidemiologist Found Dead Weeks After Going Missing](https://www.npr.org/sections/thetwo-way/2018/04/05/599846489/cdc-epidemiologist-found-dead-weeks-after-going-missing-drowning-suspected)
+- [CNN: Missing CDC worker's death ruled suicide by drowning](https://www.cnn.com/2018/05/23/health/cdc-worker-timothy-cunningham-cause-of-death)
+- [Washington Post: Body of missing CDC epidemiologist found in river](https://www.washingtonpost.com/news/to-your-health/wp/2018/04/05/timothy-cunningham-the-cdc-researcher-who-mysteriously-vanished-in-february-has-been-found-dead/)
+- [11Alive: Cause of death released for CDC scientist](https://www.11alive.com/article/news/local/cause-of-death-released-for-cdc-scientist-timothy-cunningham/85-557119486)
+- [11Alive: Missing CDC scientist file — a 'highly driven' man struggling with personal, professional issues](https://www.11alive.com/article/news/local/missing-in-georgia/tim-cunningham-case-file-a-highly-driven-man-struggling-with-personal-professional-issues/85-561369761)
+- [11Alive: One year since Timothy Cunningham went missing, his legacy quietly builds](https://www.11alive.com/article/news/local/outreach/untold-atlanta/one-year-since-timothy-cunningham-went-missing-his-legacy-in-atlanta-quietly-builds/85-0957dab9-b267-4500-8ff2-cd991f281e54)
+- [11Alive: Why we may never know the whole story](https://www.11alive.com/article/news/local/missing-in-georgia/timothy-cunningham-why-we-may-never-know-the-whole-story-of-cdc-scientists-disappearance/85-535595584)
+- [11Alive: No reward money for fishermen who found body](https://www.11alive.com/article/news/local/missing-in-georgia/no-reward-money-for-fishermen-who-found-body-of-missing-cdc-worker-tim-cunningham/85-535952341)
+- [11Alive: Search resumed Saturday for missing CDC worker](https://www.11alive.com/article/news/local/search-resumed-saturday-for-missing-cdc-worker/85-525209657)
+- [CBS News: CDC scientist made odd comment to neighbor](https://www.cbsnews.com/news/cdc-employee-timothy-cunningham-odd-message-to-neighbor-day-he-disappeared/)
+- [CBS News: Medical examiner says suicide by drowning](https://www.cbsnews.com/news/timothy-cunningham-medical-examiner-reveals-cdc-researcher-suicide-by-drowning-2018-05-22/)
+- [CBS News: Missing CDC worker received promotion last summer](https://www.cbsnews.com/news/missing-cdc-worker-timothy-cunningham-promotion-last-summer/)
+- [Atlanta Journal-Constitution: CDC researcher had personal struggles](https://www.ajc.com/news/breaking-news/exclusive-cdc-researcher-had-personal-struggles-before-suicide/3mQZiVKVpaAztG7GqPzy7L/)
+- [AJC: Hundreds attend memorial service](https://www.ajc.com/news/local/hundreds-expected-service-for-cdc-researcher-cunningham/lBVaEnSEEgLSdEMYyYLHFP/)
+- [AJC: CDC researcher remembered for work ethic, passion](https://www.ajc.com/news/local/cdc-researcher-cunningham-remembered-for-work-ethic-passion/xE7eAfvxvKoUXRw6chqO7J/)
+- [ABC News: Missing CDC employee said he was trying to 'help the lives of others'](https://abcnews.go.com/US/missing-cdc-employee-fall-lives/story?id=53422388)
+- [ABC News: Reward rises to $15,000, sister adjusts to 'new normal'](https://abcnews.go.com/US/reward-missing-cdc-worker-timothy-cunningham-climbs-15000/story?id=53528385)
+- [Newsweek: Missing CDC Employee: Everything We Know](https://www.newsweek.com/cdc-timothy-cunningham-missing-821392)
+- [Newsweek: CDC acting director speaks out](https://www.newsweek.com/missing-cdc-employee-timothy-cunningham-update-cdc-director-speaks-out-840827)
+- [NBC News: CDC employee went missing more than a week ago](https://www.nbcnews.com/news/us-news/cdc-employee-timothy-cunningham-went-missing-more-week-ago-n850721)
+- [Fox News: Missing CDC employee denied promotion, told neighbor to delete phone number](https://www.foxnews.com/us/missing-cdc-employee-was-denied-promotion-told-neighbor-to-delete-phone-number-reports-say)
+- [WSB-TV: Hundreds pay respects to CDC worker](https://www.wsbtv.com/news/local/atlanta/hundreds-pay-respects-to-cdc-worker-found-dead-weeks-after-disappearning/736097164/)
+- [WSB-TV: Documents reveal CDC researcher had personal struggles](https://www.wsbtv.com/news/local/documents-cdc-researcher-had-personal-struggles-before-suicide/762696005/)
+- [WABE: Hundreds attend memorial service for CDC worker found dead](https://www.wabe.org/hundreds-attend-memorial-service-cdc-worker-found-dead/)
+- [Inside Edition: Reward reaches nearly $40,000](https://www.insideedition.com/timothy-cunningham-case-cdc-scientist-missing-more-month-reward-reaches-nearly-40000-41467)
+- [Morehouse College: Morehouse Remembers Timothy Cunningham '04](https://news.morehouse.edu/inside-morehouse/morehouse-remembers-dr-cheryl-allen-and-timothy-cunningham-04)
+- [CDC: Tim Cunningham Memorial Collection on Eliminating Health Disparities](https://www.cdc.gov/pcd/collections/Health_Disparities_Collection_2018.htm)
+- [Snopes: Was the Body of a CDC Doctor Who 'Exposed' the Flu Shot Found?](https://www.snopes.com/fact-check/cdc-doctor-flu-shot-dead/)
+- [Wikipedia: Timothy J. Cunningham](https://en.wikipedia.org/wiki/Timothy_J._Cunningham)
+
+*This information was compiled by Claude AI research.*

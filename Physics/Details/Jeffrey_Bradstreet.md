@@ -1,0 +1,190 @@
+# Dr. Jeffrey Bradstreet
+Anti-vaccine autism researcher and GcMAF advocate found dead in a river with a gunshot wound to the chest, three days after the FDA raided his clinic and seized his research. Officially ruled suicide. His death became the catalyst for the broader "holistic doctor deaths" narrative.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | James Jeffrey "Jeff" Bradstreet |
+| **Born** | July 6, 1954, South Bend, Indiana |
+| **Died** | June 19, 2015 (age 60), Rocky Broad River, Chimney Rock, Rutherford County, North Carolina |
+| **Cause of Death** | Gunshot wound to the chest |
+| **Official Ruling** | Suicide (Rutherford County Sheriff's Office) |
+| **Role** | Physician / Autism Researcher / Alternative Medicine Practitioner |
+| **Education** | B.S. Natural Sciences, University of South Florida (1976); M.D., University of South Florida; Postgraduate training in aerospace medicine, Wilford Hall USAF Medical Center |
+| **Credentials** | Fellow, American Academy of Family Physicians (F.A.A.F.P.); Licensed in Georgia, Florida, California, Arizona |
+| **Platform** | Private practice, congressional testimony, published research |
+| **Notable Works** | Congressional testimony on vaccine safety and autism; GcMAF/nagalase research publications; treated over 2,000 autistic children |
+| **Evidence Rating** | **SUSPICIOUS** |
+
+## Overview
+
+Dr. Jeffrey Bradstreet was a physician who operated the Bradstreet Wellness Center in Buford, Georgia and the International Child Development Resource Center (ICDRC) in Melbourne, Florida. He specialized in treating autistic children using alternative therapies including chelation, hyperbaric oxygen, GcMAF injections, and stem cell therapy. His son Matthew was diagnosed with autism, which Bradstreet attributed to a vaccination received at 15 months of age — this personal experience drove his career-long investigation into vaccines and autism.
+
+Bradstreet's most consequential research involved **GcMAF** (Gc protein-derived Macrophage Activating Factor) and **nagalase** (alpha-N-acetylgalactosaminidase). He claimed that autistic children had elevated nagalase levels suppressing their immune function, and that GcMAF injections could normalize immune response. He published research showing GcMAF lowered nagalase levels in 40 autistic children and claimed an 85% improvement rate across his patient population.
+
+Three days after the FDA raided his Buford clinic and seized his research materials, patient records, and GcMAF supplies, Bradstreet was found dead in the Rocky Broad River near Chimney Rock, North Carolina — approximately 250 miles from his clinic — with a single gunshot wound to the chest. A handgun was recovered from the river, lodged beneath rocks on the shallow riverbed. No suicide note was found. The death was ruled a self-inflicted gunshot wound.
+
+## The GcMAF and Nagalase Research
+
+### What Bradstreet Claimed
+
+**GcMAF** is a protein naturally produced in the body that binds with vitamin D to activate macrophages — white blood cells that kill bacteria and cancer cells. **Nagalase** is an enzyme that prevents the body from producing GcMAF, effectively suppressing macrophage activation. Cancer cells and some viruses produce nagalase.
+
+Bradstreet's key claims:
+- Autistic children had elevated nagalase levels in their blood
+- GcMAF injections could normalize immune function in autistic children
+- He treated 600+ children (some sources say 2,000+) with GcMAF and reported an 85% improvement rate
+- The broader conspiracy theory — not necessarily from Bradstreet himself — claimed nagalase was being deliberately introduced into the body via vaccines
+
+### Publications
+
+- **"The in vitro GcMAF effects on endocannabinoid system transcriptionomics, receptor formation, and cell activity of autism-derived macrophages"** — published April 2014 in the *Journal of Neuroinflammation* (PMC3996516). Co-authored with Dario Siniscalco, Alessandra Cirillo, and Nicola Antonucci
+- **"A Case-Control Study of Mercury Burden in Children with Autistic Spectrum Disorders"** (2003) — 134 citations
+- **"Biomarker-guided interventions of clinically relevant conditions associated with autism spectrum disorders and attention deficit hyperactivity disorder"** (2010)
+- **"Efficacy of fetal stem cell transplantation in autism spectrum disorders: an open-labeled pilot study"** (2014)
+- Several publications appeared in the *Journal of American Physicians and Surgeons*, which critics describe as a fringe publication not indexed by PubMed
+
+### Congressional Testimony
+
+Bradstreet testified before the **U.S. House of Representatives, Government Reform Committee** on vaccine safety and autism on at least two occasions:
+- **April 2001** — testified alongside Andrew Wakefield
+- **June 19, 2002** — submitted written testimony on the status of vaccine safety research
+
+### Connection to Andrew Wakefield
+
+Bradstreet worked closely with Andrew Wakefield, the British physician whose since-retracted *Lancet* paper claiming a link between MMR vaccines and autism launched the modern anti-vaccine movement. Wakefield served as Research Director at Bradstreet's ICDRC in Melbourne, Florida. Both claimed to have found measles RNA in the cerebrospinal fluid of autistic children.
+
+## The FDA Raid
+
+| Detail | Information |
+|--------|-------------|
+| **Date** | Search warrant issued June 16, 2015; raid executed approximately June 16-18, 2015 |
+| **Agencies** | FDA agents accompanied by the Georgia Drugs and Narcotics Agency |
+| **Location** | Bradstreet Wellness Center, Buford, Georgia |
+| **Purpose** | To shut down the illegal use of GcMAF and gather information about its use with patients |
+| **Items seized** | Patient records, laboratory notebooks, vials of GcMAF, computer equipment |
+| **Potential consequences** | Had he been convicted, Bradstreet faced up to 20 years in prison for distributing unapproved drugs |
+
+Bradstreet obtained his GcMAF from **First Immune / Immuno Biotech Ltd.**, a Guernsey-based company run by David Noakes. Noakes was later convicted: sentenced to 15 months in the UK (November 2018) for money laundering and manufacturing/supplying unlicensed medicine, and 4 years in France (April 2021) for manufacturing/selling fake medicinal products. The First Immune clinic in Bussigny, Switzerland was shut down by Swissmedic after five patient deaths since opening in October 2013.
+
+## Circumstances of Death
+
+### Timeline
+
+| Date | Event |
+|------|-------|
+| **June 16, 2015** | Search warrant issued by U.S. District Court for Northern Georgia |
+| **June 16-18, 2015** | FDA raids Bradstreet Wellness Center in Buford, GA; seizes records, GcMAF, equipment |
+| **June 19, 2015** | Bradstreet's body found by a fisherman in the Rocky Broad River near Chimney Rock, NC — approximately 250 miles from his clinic |
+
+### Death Details
+
+- A local fisherman discovered his body floating in a deep pool of the Rocky Broad River
+- Single gunshot wound to the chest
+- A handgun was recovered from the river, lodged beneath rocks on the shallow riverbed near the shore
+- Clothing showed no signs of a struggle
+- No suicide note was found
+- Ruled a self-inflicted gunshot wound by the Rutherford County Sheriff's Office
+- According to Science-Based Medicine, his death occurred "hours after learning of" the First Immune clinic shutdown in Switzerland where five patients had died
+
+### Why the Timing Raises Questions
+
+- The death occurred **three days** after the FDA raid on his clinic
+- He was facing potential federal charges carrying up to **20 years in prison**
+- His entire life's work — research, patient records, GcMAF supplies — had just been seized
+- He was found 250 miles from his clinic in a remote area of North Carolina
+- A gunshot wound to the chest is an uncommon method of suicide
+- No suicide note was left
+
+### Alternative Explanation
+
+Skeptics note that Bradstreet had strong reasons for suicide: the FDA raid had likely destroyed his career, he faced up to 20 years in federal prison, his GcMAF supplier's clinic had just been shut down after patient deaths, and his life's work was being dismantled. The lack of evidence of foul play and the presence of a clear motive for suicide support the official ruling.
+
+## Family
+
+- **Wife at time of death:** Jennifer Bradstreet (Braselton, Georgia)
+- **Daughter:** Elizabeth Harris (married to Steve Harris), Titusville, Florida
+- **Son:** Matthew Bradstreet, Melbourne, Florida — diagnosed with autism, attributed by Bradstreet to vaccination at 15 months
+- **Stepson:** Aaron Lackey, Braselton, Georgia — also had autism
+- **Brothers:** David Bradstreet (Windermere, FL) and Thomas Bradstreet (Swartz Creek, MI)
+
+## Family Response and Independent Investigation
+
+The Bradstreet family refused to accept the suicide ruling and launched a **GoFundMe campaign** that raised approximately $20,000. The funds were used to hire independent forensic experts, ballistic analysts, and homicide investigators to:
+- Reconstruct the timeline of his final days
+- Re-examine ballistic trajectories
+- Test river sediment samples for trace evidence
+
+His sister-in-law **Candice Bradstreet** has continued to publicly advocate that it was murder, running a Substack titled "The Murder of Dr. Jeff Bradstreet."
+
+The independent investigation has not produced publicly available findings that overturn the suicide ruling.
+
+## The Broader Pattern: Holistic Doctor Deaths
+
+Bradstreet's death became the catalyst for a broader conspiracy narrative alleging a wave of suspicious deaths among holistic and alternative medicine practitioners beginning in 2015. For the full pattern documentation, see [Holistic Doctor Deaths (2015-Present)](Holistic_Doctor_Deaths.md).
+
+Other deaths cited in close proximity to Bradstreet's:
+- **Dr. Bruce Hedendal** (age 67, died June 21, 2015) — chiropractor, died after strenuous physical activity
+- **[Dr. Nicholas Gonzalez](Nicholas_Gonzalez.md)** (died July 21, 2015) — enzyme-based alternative cancer therapy developer, apparent cardiac event at age 67
+- **[Dr. Mitchell Gaynor](Mitchell_Gaynor.md)** (died September 15, 2015) — Weill Cornell integrative oncologist, found dead in woods near his home, ruled suicide
+- **Dr. Teresa Sievers** (murdered June 29, 2015) — actually killed by a hitman hired by her husband (solved, unrelated to medicine)
+
+## The Counterargument
+
+### On the Suicide Ruling
+
+- Bradstreet was facing potential federal charges carrying up to 20 years in prison
+- His career and research had been effectively destroyed by the raid
+- His GcMAF supplier's clinic had been shut down after patient deaths
+- No physical evidence of foul play was found by law enforcement
+- A gunshot wound to the chest, while uncommon, accounts for approximately 3-5% of firearm suicides
+
+### On His Scientific Claims
+
+- A **2009 federal court** found his autism-vaccine research "unconvincing and unsupported by evidence" during the Omnibus Autism Proceeding
+- Scientific consensus holds there is no link between vaccines and autism
+- His research appeared in low-quality journals and lacked rigorous methodology — no proper controls, no blinding
+- The British government warned against purchasing GcMAF as it is unlicensed and not manufactured under standard conditions
+- Nagalase is naturally produced by the body and is not known to be contained in any vaccine, according to CDC and Oxford University fact-sheets
+- His GcMAF supplier David Noakes was criminally convicted in both the UK and France
+- Pediatrician Peter Hotez characterized chelation therapy (which Bradstreet used on autistic children) as "dangerous"
+
+### On the Conspiracy Narrative
+
+- Of the early "holistic doctor deaths," Bradstreet was the only one actually involved in GcMAF/nagalase research
+- Dr. Teresa Sievers' murder was solved — her husband hired hitmen for personal reasons, completely unrelated to her medical practice
+- Snopes found the conspiracy "failed to coherently articulate the conspiracy, consistently utilize the same list of victims, or demonstrate any connection between the victims whatsoever"
+- PolitiFact rated claims that the doctors' deaths were connected as false
+
+## Key Quotes
+
+> "My son was born normal. He developed normally for 15 months. After a vaccination, he changed. I have devoted my career to understanding what happened to him and helping other children."
+> — **Dr. Jeffrey Bradstreet**, paraphrased from multiple interviews
+
+> "If I ever 'die under mysterious circumstances,' look into it."
+> — **Attributed to Dr. Bradstreet** by family members (unverified, widely repeated in conspiracy communities)
+
+## See Also
+
+- [Holistic Doctor Deaths (2015-Present)](Holistic_Doctor_Deaths.md) — The broader pattern Bradstreet's death catalyzed
+- [Dr. Nicholas Gonzalez](Nicholas_Gonzalez.md) — Enzyme cancer therapy developer, died one month after Bradstreet
+- [Dr. Mitchell Gaynor](Mitchell_Gaynor.md) — Weill Cornell integrative oncologist, died three months after Bradstreet
+- [Timothy Cunningham](Timothy_Cunningham.md) — CDC epidemiologist who disappeared under suspicious circumstances in 2018
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate murdered in 2004, similar pattern of researcher killed after challenging scientific establishment
+- [Royal Raymond Rife](Royal_Raymond_Rife.md) — Historical precedent: frequency device inventor whose lab was destroyed and career dismantled
+- [Dr. Stanislaw Burzynski](Stanislaw_Burzynski.md) — Antineoplastons developer who survived decades of FDA suppression
+
+## Sources
+
+- [Jeff Bradstreet — Wikipedia](https://en.wikipedia.org/wiki/Jeff_Bradstreet)
+- [Authorities: Anti-vaccine doctor dead in apparent suicide — CBS News](https://www.cbsnews.com/news/authorities-anti-vaccine-doctor-dead-in-apparent-suicide/)
+- [GcMAF and the life and death of an autism quack — Science-Based Medicine](https://sciencebasedmedicine.org/gcmaf-and-the-life-and-death-of-an-autism-quack/)
+- [Anti-Vaccine Doctor Jeff Bradstreet in Apparent Suicide — NBC News](https://www.nbcnews.com/news/us-news/anti-vaccine-doctor-jeff-bradstreet-apparent-suicide-officials-n382981)
+- [Family Claims Foul Play After Anti-Vaccine 'Autism Specialist' Found Dead — Vice](https://vice.com/en/article/xw3xxj/family-claims-foul-play-after-anti-vaccine-autism-specialist-found-dead)
+- [PolitiFact — Doctors' deaths were not connected](https://www.politifact.com/factchecks/2017/apr/04/blog-posting/doctors-deaths-were-not-connected-fake-news-websit/)
+- [Five Holistic Doctors Dead — Snopes](https://www.snopes.com/news/2015/07/21/five-holistic-doctors-dead/)
+- [Bradstreet et al. — "GcMAF effects on endocannabinoid system" — Journal of Neuroinflammation (2014)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3996516/)
+- [Congressional Hearing Transcript — GovInfo (2002)](https://www.govinfo.gov/content/pkg/CHRG-107hhrg82358/html/CHRG-107hhrg82358.htm)
+- [Death of Gwinnett autism doctor spawns mystery — Atlanta Journal-Constitution](https://www.ajc.com/news/local-govt--politics/death-gwinnett-autism-doctor-spawns-mystery-for-some/qSjvKrxZPOGNxdkY5W5vsJ/)
+- [Private eyes hired to probe death of Buford autism researcher — Gwinnett Daily Post](https://www.gwinnettdailypost.com/archive/private-eyes-hired-to-probe-death-of-buford-autism-researcher-dr-jeff-bradstreet/article_6aace419-148c-51fb-b97d-33cd4c480005.html)
+
+*This information was compiled by Claude AI research.*

@@ -146,5 +146,6 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 - [The Sentinel Network: THE GREEN BURIAL — She Was Declared Dead Four Days After She Vanished](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
 - [Daily Mail: Mystery of five missing scientists sends chill across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
 - [THE LONG COUNT: We Started With Two Names. The List Didn't Stop. — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*

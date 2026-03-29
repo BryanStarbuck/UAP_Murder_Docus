@@ -54,6 +54,7 @@ She was married to Jacob Prichard, an Acquisition Project Manager in the Air For
 - [FOX19: Wright-Patterson employee kills colleague, wife in apparent double murder-suicide](https://www.fox19.com/2025/10/29/wright-patterson-employee-kills-colleague-wife-double-murder-suicide/)
 - [Dayton Daily News: Timeline: Double murder, suicide involving 3 WPAFB workers under investigation](https://www.daytondailynews.com/local/timeline-double-murder-suicide-involving-3-wpafb-workers-under-investigation/RG3N5RJR3FCHHDFCSV6YMI3FUY/)
 - [WHIO: 'Deeply saddened;' WPAFB reacts to double murder-suicide](https://www.whio.com/news/local/deeply-saddened-wpafb-reacts-double-murder-suicide-involving-base-personnel/4HUGLX6G6VFNVOS23JRVUC3ZJY/)
-- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*

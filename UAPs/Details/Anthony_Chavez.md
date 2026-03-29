@@ -9,6 +9,8 @@ Former Los Alamos National Laboratory employee who vanished from his Los Alamos 
 | **Status** | **MISSING since May 4, 2025** |
 | **Age at Disappearance** | 78 |
 | **Last Known Location** | 37th Street, Denver Steels neighborhood, Los Alamos, New Mexico |
+| **Physical Description** | 5'6", 135 lbs, bald, wears glasses; described as "very fit and slender, healthy and clearheaded" |
+| **Case Number** | LAPD 2025-0254 |
 | **Category** | Disappeared |
 
 ## Assessment: SUSPICIOUS
@@ -34,7 +36,9 @@ The Los Alamos Police Department conducted extensive searches:
 - Reviewed hours of surveillance footage
 - Followed up on every tip received
 
-On June 18, 2025, volunteers with trained cadaver-detection dogs from Sandia Search Dogs and Mountain Canine Corps searched his home, his sister's nearby house, and Pueblo Canyon bench trails. All searches returned negative.
+Police received unverified reports that Chavez had been seen **at the Albuquerque train station** and **at the airport "with a lot of baggage"** — but these leads "led to nothing concrete" and were never confirmed or debunked.
+
+On June 18, 2025, volunteers with trained cadaver-detection dogs from Sandia Search Dogs and Mountain Canine Corps searched his home, his sister's nearby house (she lives nearby in Los Alamos), and Pueblo Canyon bench trails. All searches returned negative. The rugged canyon bottom below the trails remains unsearched.
 
 The LAPD issued two missing-person announcements in mid-May 2025. According to The Sentinel Network, after May 20, all media coverage ceased. A single local Substack article from Boomtown Los Alamos, published June 25, 2025, remains the most detailed public account of the case until The Sentinel Network investigation in March 2026.
 
@@ -112,6 +116,7 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 - [Search Continues for Missing Person, Anthony Chavez — Los Alamos County](https://www.losalamosnm.us/News-articles/Search-Continues-Anthony-Chavez)
 - [Los Alamos Police Continue Search For Anthony Chavez — LA Daily Post](https://ladailypost.com/los-alamos-police-continue-search-for-anthony-chavez/)
 - [Los Alamos Police Department Continues Search — Los Alamos Reporter](https://losalamosreporter.com/2025/05/20/los-alamos-police-department-continues-search-for-anthony-chavez/)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 
 *This information was built by Grok and Claude AI research.*

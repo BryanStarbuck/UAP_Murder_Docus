@@ -60,6 +60,7 @@ She and Jacob Prichard were colleagues through their work at AFRL.
 - [Dayton Daily News: Timeline: Double murder, suicide involving 3 WPAFB workers](https://www.daytondailynews.com/local/timeline-double-murder-suicide-involving-3-wpafb-workers-under-investigation/RG3N5RJR3FCHHDFCSV6YMI3FUY/)
 - [WDTN: 'Beyond shocking': Communities reeling from double murder-suicide](https://www.wdtn.com/news/three-wright-patterson-employees-dead-officals-investigating/)
 - [Dayton Daily News: Investigation continues into murder, suicide of 3 Wright-Patterson workers](https://www.daytondailynews.com/crime/police-huber-heights-man-murdered-wife-coworker-before-driving-wifes-body-to-west-milton/I4XKL53DCBDTJBXMAH5IN5MKIE/)
-- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*

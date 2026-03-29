@@ -389,3 +389,9 @@ Social media posts documenting these cases have reached large audiences. While s
 *Last Updated: March 27, 2026 — Added 3 new profiles from X.com social media research: Royal Rife (electromagnetic frequency inventor, AMA suppression campaign), Georges Lakhovsky (Multi-Wave Oscillator inventor, struck by limousine 1942), Justin Christofleau (electroculture inventor, fertilizer industry persecution). Added electromagnetic frequency suppression and corporate agricultural suppression pattern sections. Updated social media coverage with additional X posts. Profile count updated from 92 to 95.*
 
 **Suspicious deaths documented in this investigation: 86** — inventors, physicists, and researchers who died under circumstances rated Moderate Suspicion or higher, connected to zero-point energy, cold fusion, water fuel cells, and other suppressed energy technologies.
+
+---
+
+## Related Video
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/PNR0Q97TtRU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>

@@ -73,6 +73,7 @@ Wright-Patterson AFB issued a statement saying they were "deeply saddened" by th
 - [WHIO: 'Deeply saddened;' WPAFB reacts to double murder-suicide involving base personnel](https://www.whio.com/news/local/deeply-saddened-wpafb-reacts-double-murder-suicide-involving-base-personnel/4HUGLX6G6VFNVOS23JRVUC3ZJY/)
 - [WCPO: PD investigating murder-suicide involving 3 Wright-Patt Air Force Base personnel](https://www.wcpo.com/news/state/state-ohio/3-personnel-at-wright-patterson-air-force-base-found-dead-ohio-bci-investigating)
 - [FOX8: Details emerge about double murder-suicide across 2 Ohio counties](https://fox8.com/news/details-emerge-about-double-murder-suicide-across-2-ohio-counties/)
-- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*

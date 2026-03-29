@@ -1,0 +1,369 @@
+---
+title: "Starlight Scopes"
+sidebar_label: "Starlight Scopes"
+sidebar_position: 10
+---
+
+# Starlight Scopes: The Night Vision That Revealed Too Much
+
+In the jungles of Vietnam, American soldiers were issued a revolutionary weapon accessory — the **AN/PVS-2 Starlight Scope**, a first-generation passive night vision device that amplified ambient starlight and moonlight by 1,000x, turning pitch-black jungle into a phosphorescent green landscape. The technology gave U.S. forces a devastating tactical advantage in night combat. But according to numerous veteran accounts, the scopes revealed more than just the enemy — soldiers reported seeing **entities, shadowy figures, winged creatures, and demonic forms** moving through the jungle and alongside helicopters.
+
+The military replaced the original scopes, reports of entities ceased, and the story was buried. Decades later, researchers connected the phenomenon to **dicyanin dye**, a coal-tar derivative that Dr. Walter Kilner had used in 1911 to make the "human aura" visible — a dye that became virtually impossible to obtain after World War II.
+
+**The question isn't just what the scopes showed. It's why the soldiers only saw entities during the extreme stress of combat — and what that tells us about the nature of perception itself.**
+
+---
+
+## How Starlight Scopes Work
+
+### Technical Specifications (AN/PVS-2)
+
+| Specification | Details |
+|---|---|
+| **Designation** | AN/PVS-2 (Individual Weapon Night Sight) |
+| **Type** | First-generation passive night vision |
+| **Magnification** | 4x fixed |
+| **Weight** | 6 lbs (2.7 kg) |
+| **Light Amplification** | ~1,000x |
+| **Photocathode** | S-20 multialkali |
+| **Power** | Battery-operated (~100 hrs) |
+| **Mount** | Standard Picatinny/Weaver rail (M-16, M-14) |
+| **Entered Service** | 1964 (development), 1967 (field deployment) |
+| **Manufacturer** | Various U.S. defense contractors |
+
+### How Image Intensification Works
+
+Unlike earlier "active" infrared scopes that projected an IR beam (detectable by the enemy), the Starlight Scope was **passive** — it amplified whatever ambient light existed:
+
+1. **Photocathode (S-20)**: Incoming photons (from starlight, moonlight, or ambient sources) strike the S-20 photocathode, a multialkali compound sensitive to a broad spectrum including near-infrared. Each photon releases electrons via the photoelectric effect.
+
+2. **Image Intensifier Tube**: The released electrons are accelerated through a high-voltage electrostatic field (~15,000 volts). The accelerated electrons strike a phosphor screen, where each electron produces multiple photons — amplifying the original signal roughly 1,000x.
+
+3. **Phosphor Screen Output**: The phosphor screen emits visible green light (P-20 or P-43 phosphor), creating the characteristic green image. Earlier experimental models reportedly used **red-spectrum phosphors**, producing a reddish image.
+
+4. **Eyepiece**: The amplified image is viewed through an optical eyepiece. A rubber eyeshield with an internal "flapper" prevents light from escaping the rear of the scope.
+
+### Key Limitation
+
+The scopes are called "starlight" scopes because they require **ambient light** to function. On a clear night with stars or moonlight, they perform well. On a cloudy, moonless night deep in jungle canopy, they are nearly useless. They emit no light of any kind (IR, UV, or visible), making the user undetectable.
+
+### The Image Distortion Factor
+
+A known problem with first-generation image intensifiers was that the **acceleration of electrons distorted the image**, particularly at the edges. Objects could appear elongated, stretched, or warped. In the writhing, shadow-filled environment of a Vietnamese jungle at night, these distortions took on a life of their own.
+
+---
+
+## What Soldiers Reported Seeing
+
+### The Accounts
+
+Multiple Vietnam veterans have described seeing things through Starlight Scopes that had no conventional explanation:
+
+- **Dragons and supernatural creatures** appearing from within "the writhing phosphorescent murk of the starlight scope landscape"
+- **Shadowy figures with elongated or distorted limbs** moving through jungle terrain that did not correspond to known enemy positions
+- **Glowing eyes and monstrous forms** described as having animalistic features
+- **Winged creatures** that helicopter gunners reported flying alongside their aircraft, described as having "bat-like wings, long tails, and piercing eyes"
+- One former medic reported using a starlight scope to monitor what appeared to be **hundreds of dead enemy bodies** after an intense firefight — only to discover at dawn that the corpses were a complete hallucination
+- Helicopter door gunners began **opening fire into the air at seemingly random targets** that other crew members without scopes could not see
+
+> *"It was like seeing things that shouldn't exist. I opened fire on what I thought was a threat, but no one else saw it."*
+> — Vietnam veteran account
+
+### The Pattern
+
+The reports share common features:
+
+1. **Only visible through the scope** — entities were not seen with the naked eye
+2. **Only during combat or high-stress situations** — soldiers on routine patrols or base duty didn't report the same phenomena
+3. **Multiple independent witnesses** — reports came from different units, different locations, different time periods
+4. **Consistent descriptions** — winged creatures, elongated limbs, shadowy humanoid forms, glowing eyes
+5. **Psychological impact** — soldiers who reported sightings showed behavioral changes, paranoia, and symptoms later recognized as combat-related PTSD
+
+### The Military Response
+
+By 1971, the U.S. military replaced the original scopes with **green-tinted models** offering what was described as "superior clarity." After this switch, **reports of supernatural entities ceased almost entirely**. The military offered no public explanation for why the original scopes were discontinued beyond routine technological upgrades.
+
+---
+
+## The Dicyanin Dye Connection
+
+### Dr. Walter Kilner (1847–1920)
+
+In 1911, Dr. Walter John Kilner — a physician at St. Thomas' Hospital in London — published *"The Human Atmosphere, or the Aura Made Visible by the Aid of Chemical Screens."* Kilner claimed that by looking through glass screens treated with **dicyanin**, a blue coal-tar dye used in infrared sensitization of photographic plates, observers could see a luminous envelope surrounding the human body — what he called the "aura."
+
+Kilner developed what became known as **"Kilner Screens"** — glass plates treated with alcoholic solutions of dicyanin dye. He reported three distinct layers of aura:
+
+1. **The Etheric Double** — a narrow, dark band close to the skin
+2. **The Inner Aura** — a denser layer extending several inches
+3. **The Outer Aura** — a faint, wider field extending up to two feet
+
+Kilner claimed these layers changed in response to disease, emotional states, and mental conditions, and proposed their use in **medical diagnosis**.
+
+### The Scientific Response
+
+Scientists from the *British Medical Journal* attempted to replicate Kilner's experiments. The results were negative. His work was largely dismissed as an artifact of the observer's own optical process — essentially, the dye was fatiguing the eye's cones in a way that created the *illusion* of seeing additional light bands.
+
+However, Kilner's defenders argued that the dismissal was premature and that the medical establishment was unwilling to investigate phenomena that didn't fit existing frameworks.
+
+### What Is Dicyanin?
+
+- **Chemical name**: 1,1'-Diethyl-4,4'-carbocyanine iodide (or related compounds)
+- **Appearance**: Deep blue dye
+- **Original use**: Sensitizing photographic plates to infrared light
+- **Key property**: Absorbs visible light while potentially transmitting near-UV and near-IR wavelengths
+- **Toxicity**: Moderately toxic coal-tar derivative
+
+### The "Forbidden" Claim
+
+A persistent claim circulates that dicyanin was **"made illegal" by the U.S. government around 1945**, at the end of World War II — meaning that for approximately 40 years (1905–1945), the dye was freely available before being restricted.
+
+**The reality is more nuanced**: Dicyanin is not explicitly illegal to possess or purchase in the United States. However, it is:
+- Extremely difficult to manufacture
+- Not commercially produced in significant quantities
+- Lacking any modern industrial application for which better alternatives don't exist
+- Effectively unavailable through normal chemical supply chains
+
+Whether this scarcity is the result of deliberate suppression or simple market economics is a matter of ongoing debate. The *effect* is the same: you cannot easily obtain genuine dicyanin dye.
+
+### The Connection to Starlight Scopes
+
+The theory connecting dicyanin to starlight scopes proposes that:
+
+1. Early starlight scope image intensifier tubes may have used **dye-sensitized photocathodes** that included dicyanin or related cyanine dyes in their spectral sensitization
+2. The S-20 multialkali photocathode is sensitive to a broad spectrum including near-infrared — the same region dicyanin is used to sensitize
+3. The red-tinted phosphor output of early experimental models may have interacted with the viewer's visual system in ways similar to Kilner's screens
+4. When the military switched to green phosphor screens, the phenomenon stopped
+
+This remains **speculative** — no declassified military documents confirm dicyanin was used in starlight scope components.
+
+---
+
+## The Stress Factor: Why Combat Matters
+
+This is perhaps the most critical and overlooked element of the entire phenomenon.
+
+### The Pattern That Everyone Misses
+
+Soldiers **only reported seeing entities during active combat or extreme stress**. The same scopes, used by the same soldiers during routine base security or non-combat patrols, produced no anomalous sightings. This eliminates a purely technological explanation — if the scopes themselves created the images, they would do so regardless of the user's psychological state.
+
+### The Stress-Perception Hypothesis
+
+The theory proposes that **extreme physiological stress alters human perception in ways that interact with specific optical technologies**:
+
+1. **Adrenaline and cortisol flooding** — combat triggers massive stress hormone release
+2. **Pupil dilation** — extreme stress causes maximum pupil dilation, allowing more light (including near-UV and near-IR) to reach the retina
+3. **Neurological hyperactivation** — the brain enters a survival state where pattern recognition becomes hypersensitive
+4. **Altered electromagnetic sensitivity** — the human body's bioelectric field changes dramatically under stress
+5. **Combined effect** — the stressed body, viewing through a scope that amplifies and shifts the light spectrum, may perceive phenomena that are invisible under normal conditions
+
+### MK-Ultra Confirms the Mechanism
+
+The CIA's **MK-Ultra program** (1953–1973) — running concurrently with the Vietnam War — extensively documented how extreme stress alters human perception:
+
+- **Sensory deprivation** produced hallucinations and altered states of consciousness
+- **Extreme stress, sleep deprivation, and psychological torture** created states where subjects reported perceiving things that weren't visible to unstressed observers
+- **Psychedelics combined with stress** produced consistent reports of entity contact across independent subjects
+- The program specifically explored the **limits of human perception** and whether it could be expanded beyond normal boundaries
+
+The CIA's own **Gateway Process** document (declassified 1983/2003) described techniques for achieving altered states of consciousness through brain hemisphere synchronization — acknowledging that human perception could be expanded beyond its normal operating range.
+
+**The convergence is striking**: MK-Ultra proved that extreme stress and specific stimuli can fundamentally alter what humans perceive. The starlight scope reports from Vietnam describe exactly that phenomenon occurring spontaneously in combat conditions.
+
+### The Veil Theory
+
+Some researchers propose that what we call "normal perception" is actually a **filtered, limited view of reality** — and that certain conditions can thin or pierce this filter:
+
+- **Extreme physical stress** (combat, near-death experiences)
+- **Specific optical technologies** (dicyanin screens, certain light spectra)
+- **Altered brain chemistry** (psychedelics, extreme meditation, sensory deprivation)
+- **Electromagnetic anomalies** (which frequently accompany UAP encounters)
+
+Under this theory, the entities soldiers saw were not hallucinations — they were **always there**, and the combination of optical technology and extreme stress temporarily removed the perceptual filter that normally prevents humans from seeing them.
+
+This would explain why:
+- The entities were consistent across independent observers
+- They only appeared during high-stress situations
+- The phenomenon stopped when the optical technology was changed
+- Similar entities are reported in UAP encounters, near-death experiences, psychedelic states, and deep meditation — all conditions involving altered perception
+
+---
+
+## The *They Live* Parallel
+
+The 1988 John Carpenter film ***They Live*** depicts a construction worker who discovers special sunglasses that reveal alien entities hidden among the human population. Without the glasses, the aliens appear as normal humans. With them, their true form is visible.
+
+While a fictional film, *They Live* mirrors the core claim about dicyanin glasses and starlight scopes: that **specific optical technology can reveal beings that are otherwise invisible to normal human perception**. Carpenter has stated the film was a critique of consumer culture, but the parallel to Kilner's research and the Vietnam starlight scope reports is striking.
+
+---
+
+## Where to Buy Starlight Scopes Today
+
+Vintage AN/PVS-2 Starlight Scopes are available through military surplus dealers, auction sites, and collectors. Note that these are **Generation 1 devices** — functional but primitive compared to modern night vision. Many are sold as non-functional collectibles.
+
+### eBay
+
+- **[eBay: "Starlite Scope" search](https://www.ebay.com/shop/starlite-scope?_nkw=starlite+scope)** — Multiple listings for vintage PVS-2 components and complete units
+- **[Vintage US Army PVS-2 Night Vision Sight MX-7833 Starlight Scope](https://www.ebay.com/itm/167877370503)** — Used surplus
+- **[AN/PVS-2 Daylight lens night vision starlight scope Vietnam](https://www.ebay.com/itm/335966655005)** — Accessories and lenses
+- **[Night Vision Sight Starlight US Army Vintage PVS-2](https://www.ebay.com/itm/306562922255)** — Complete units (30-day returns)
+- **[Vintage 1st Generation US Army AN PVS-2 star light scope](https://www.ebay.com/itm/376535989650)**
+
+### Military Surplus Dealers
+
+| Dealer | URL | Notes |
+|---|---|---|
+| **International Military Antiques (IMA)** | [ima-usa.com](https://www.ima-usa.com/products/original-u-s-army-an-pvs-2b-starlight-night-vision-scope-with-transit-chest) | Vietnam-era AN/PVS-2B with transit chest |
+| **Misty Mountain Supply** | [mistymountainsupply.com](https://mistymountainsupply.com/shop/p/us-anpvs-2-starlight-scope) | Working, tested unit with manual and transit case |
+| **What A Country** | [whatacountry.com](https://whatacountry.com/anpvs-2nightvisionscope.aspx) | AN/PVS-2 Night Vision Scope |
+| **Go Army Navy** | [go-armynavy.com](https://go-armynavy.com/us-army-an-pvs-night-vision-weapon-sight/) | Billings Army Navy Surplus, Fort Worth, TX |
+
+### Auction Houses
+
+- **[LiveAuctioneers](https://www.liveauctioneers.com/price-result/anpvs-2b-vietnam-era-starlight-scope/)** — Past auction results for AN/PVS-2B scopes (useful for price reference)
+- **WorthPoint** — Tracks historical sale prices for PVS-2 scopes
+
+### Pricing
+
+Prices vary significantly based on condition, completeness, and functionality:
+- **Non-functional / display only**: $200–$800
+- **Functional with transit case**: $1,000–$3,000+
+- **Complete with matching serial numbers and documentation**: $3,000–$5,000+
+- **Museum-quality / rare variants**: $5,000+
+
+---
+
+## Where to Buy Dicyanin Dye Glasses
+
+Finding genuine dicyanin-treated optics is far more difficult than finding starlight scopes. The dye is scarce, the manufacturing process is specialized, and there are many counterfeits.
+
+### Claimed Authentic Sources
+
+| Source | URL | Notes |
+|---|---|---|
+| **Museum of Tarot** | [museumoftarot.com](https://www.museumoftarot.com/product-page/dicyanin-aura-goggles) | Claims to be "the world's ONLY supplier of authentic Kilner-style Dicyanin Aura Goggles." Small batches, frequent sellouts, restocks take months. Made from treated scientific optical glass. |
+| **eBay seller "auraglasses"** | [ebay.com/usr/auraglasses](https://www.ebay.com/usr/auraglasses) | Specializes in dicyanin-style aura glasses and goggles |
+| **eBay: "Dicyanin" search** | [ebay.com](https://www.ebay.com/shop/dicyanin?_nkw=dicyanin) | Various listings — verify authenticity carefully |
+| **Amazon** | [amazon.com: Dicyanin Goggles](https://www.amazon.com/dicyanin-goggles/s?k=dicyanin+goggles) | Multiple sellers offering "Dicyanin Dye Style AURA GOGGLES" |
+| **Amazon Canada** | [amazon.ca](https://www.amazon.ca/Dicyanin-Dye-Style-AURA-GOGGLES%C2%AE/dp/B0C9R842F6) | Dicyanin Dye Style Aura Goggles |
+| **Faire (wholesale)** | [faire.com](https://www.faire.com/brand/b_2yvpwhg5jd) | Wholesale orders for retailers |
+
+### Important Warnings
+
+- **Counterfeits are rampant** — many products labeled "dicyanin" are simply blue-tinted glass with no special dye treatment
+- **"Dicyanin-style"** is not the same as actual dicyanin — read product descriptions carefully
+- **Genuine dicyanin is toxic** — handle treated glass with care, do not touch the dye surfaces
+- The Museum of Tarot appears to be the most cited source in the research community, but verify current availability as stock is limited
+
+### The Raw Dye
+
+Obtaining raw dicyanin dye is extremely difficult:
+- It is **not stocked** by major chemical suppliers (Sigma-Aldrich, Fisher Scientific, etc.)
+- Custom synthesis is possible through specialty chemical companies but expensive
+- Some researchers report success sourcing related cyanine dyes (pinacyanol, Dyson dye) through photographic supply channels
+- Historical supplies occasionally surface in estate sales of old photography labs
+
+---
+
+## Related Phenomena
+
+### Russian Reports
+
+Similar accounts exist from Russian military sources. Reports describe **UAP fragments** that were only visible through specific optical materials, suggesting "a pattern in anomalous sightings" connected to particular light spectra.
+
+### Near-Death Experiences
+
+People who have undergone near-death experiences — an extreme physiological stress event — frequently report seeing **beings, entities, and landscapes** that are invisible under normal conditions. The stress-perception connection is consistent.
+
+### UAP Encounter Reports
+
+Many UAP encounter witnesses report seeing **entities or beings** associated with craft sightings, particularly during high-stress close encounters. The overlap between UAP entity descriptions and Vietnam starlight scope reports has been noted by multiple researchers.
+
+### Skinwalker Ranch
+
+The phenomena reported at Skinwalker Ranch — entities visible in specific conditions, electromagnetic anomalies, and beings that appear and disappear — parallel the starlight scope reports. NIDS and later AAWSAP investigations documented similar themes.
+
+---
+
+Once I knew someone who was stationed in Vietnam as a Marine officer guarding Da Nang Airport back in 1971.
+
+He didn’t know anything about dicyanin, but he told me that while on duty he was issued two sets of night‑vision goggles.
+
+One was a huge Starlight scope that required fresh batteries; the other was a device that looked just like the one Charlie Sheen uses at the beginning of Platoon (1986).
+
+He said the latter was smaller and didn’t need any batteries. According to him, it could detect people at night because anything living glowed in the pitch‑black darkness.
+
+He also claimed that he had been given other “spec‑ops” equipment that resembled eagle’s claws (something I’ve never heard mentioned by any Vietnam veterans) that was used to listen to people’s footsteps and to detect movement in total darkness.
+
+When I asked whether the second night‑vision scope showed only red, he said it did not.
+
+He mentioned a few strange incidents after getting drunk one night, but he refused to go into further detail.
+
+One such incident involved another Marine officer he had met in Saigon.
+
+That officer was using the same battery‑less scope at night, stepped outside the perimeter to chase something he saw, and then watched his entire platoon get wiped out by enemy sappers armed only with knives.
+
+The lone survivor could not explain why he didn’t at least fire a pistol to warn his men; he simply stood there and watched the whole thing happen.
+
+
+---
+
+The demons are likely loosh eaters. They feed on negative emotions like fear, anger, depression.
+
+---
+
+I had a pair for about 2 weeks. not impressed. when i took them off, it felt like a super weak shroom trip with no insight
+
+---
+
+Datura will do the same
+
+---
+
+I disagree.  They are seeing demons of war.  You wont see them if you are not in the middle of a battle field full of death.
+
+---
+
+Someone saying this isn't an issue.
+
+Look deeper into this; the older scopes were zorching the soldier’s brains with radiation of some sort which is why they saw “entities”. Newer technology is safer and fixes this so the fictitious visions went away. The old technology was hazardous.
+
+---
+
+## The Uncomfortable Questions
+
+1. **Why did the military replace the scopes so quickly** after entity reports began, rather than simply treating the reports as combat stress?
+2. **Why did entity reports stop completely** after switching to green phosphor screens, if they were purely psychological?
+3. **Why did independent observers in different units, locations, and time periods** describe the same types of entities?
+4. **Why is dicyanin dye effectively unavailable** when it has no legal restriction?
+5. **Why did the CIA simultaneously run MK-Ultra** (exploring stress-induced perceptual changes) while soldiers in Vietnam were spontaneously experiencing exactly those changes?
+6. **Why does the CIA's Gateway Process document** acknowledge that human perception can be expanded beyond its normal operating range?
+
+---
+
+## Sources
+
+- [Museum of Tarot: Seeing Demons in the Dark — Red Night Vision in Vietnam](https://www.museumoftarot.com/post/seeing-demons-in-the-dark-red-night-vision-in-vietnam)
+- [MysteryLores: Vietnam's Red Night Vision and the Haunting Truth](https://mysterylores.com/news/vietnam-red-night-vision-dicyanin-glasses-haunting-truth/)
+- [MysteryLores: Vietnam's Red Night Vision — Unseen Entities in Combat](https://mysterylores.com/news/vietnam-red-night-vision-dicyanin-glasses/)
+- [Alainn Library: The Red Night Vision Goggles and Winged Demons of Vietnam](https://alainnlibrary.com/the-red-night-vision-goggles/)
+- [Secret Projects Forum: Claims about Vietnam War Night Vision Devices](https://www.secretprojects.co.uk/threads/claims-about-vietnam-war-night-vision-devices.45975/)
+- [The Firearm Blog: Early Night Vision — Vietnam Era AN/PVS-2 Starlight Scope](https://www.thefirearmblog.com/blog/2017/09/20/early-night-vision-vietnam-era-anpvs-2-starlight-scope/)
+- [Night Vision Wiki: AN/PVS-2](https://www.nv-intl.com/wiki/index.php?title=AN/PVS-2)
+- [OTN Shop: AN/PVS-2 Historical Overview](https://otn-shop.com/blogs/night-vision-devices-a-historic-overview/an-pvs-2)
+- [Peak Nano: The Evolution of U.S. Night Vision](https://www.peaknano.com/blog/the-evolution-of-u.s.-night-vision)
+- [Wikipedia: Walter John Kilner](https://en.wikipedia.org/wiki/Walter_John_Kilner)
+- [Rex Research: Walter J. Kilner — Aura Lens](http://www.rexresearch.com/kilner/kilner.html)
+- [Wellcome Collection: The Human Atmosphere by Walter J. Kilner](https://wellcomecollection.org/works/t94es3zc)
+- [Quora: What is Dicyanin, and why is it illegal in the US?](https://www.quora.com/What-is-Dicyanin-and-why-is-it-illegal-in-the-US)
+- [ECHEMI: What is Dicyanin, and what is it used for?](https://www.echemi.com/community/what-is-dicyanin-and-what-is-it-used-for_mjart2204122378_316.html)
+- [CIA Reading Room: Analysis and Assessment of Gateway Process](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf)
+- [Wikipedia: MKUltra](https://en.wikipedia.org/wiki/MKUltra)
+- [Defense Technical Information Center: Night Vision Research](https://apps.dtic.mil/sti/citations/AD0377920)
+- [Quora: Original Night Vision Goggles and Demon Reports](https://www.quora.com/How-were-the-original-night-vision-goggles-made-The-ones-that-used-a-different-spectrum-of-light-than-the-green-ones-today-It-was-reported-by-dozens-of-Vietnam-era-pilots-that-they-saw-demons-when-wearing-them-and)
+- [Coast to Coast AM: Red Light Demons (July 8, 2023)](https://www.coasttocoastam.com/show/2023-07-08-show/)
+- [IFL Science: CIA Gateway Report on Transcending Spacetime](https://www.iflscience.com/in-1983-the-cia-wrote-a-bizarre-report-about-transcending-spacetime-with-your-mind-59016)
+- [Don Shift: Vietnam Red Night Vision and Demons Myth](https://www.donshift.com/blog/vietnam-red-night-vision-and-demons-myth)
+
+---
+
+*This information was built by Claude AI research. Last Updated: March 29, 2026.*

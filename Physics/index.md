@@ -1,23 +1,25 @@
 ---
-title: "UAP Physics Murders"
-sidebar_label: "UAP Physics"
+title: "Suppressed Science & UAP Physics"
+sidebar_label: "Suppressed Science"
 sidebar_position: 1
 ---
 
 
-# UAP Physics: Classified Breakthroughs & The Stagnation of Public Science
+# Suppressed Science: Classified Breakthroughs & Scientists Who Threatened Powerful Interests
 
-This project investigates the claim that **public physics effectively stopped advancing around 1950** — that when the US military recovered UAPs (Unidentified Aerial Phenomena), they discovered physics so fundamentally different from mainstream science that breakthroughs were classified and public physics was allowed to stagnate.
+This project investigates scientists, physicists, doctors, and researchers who made breakthroughs the government or powerful industries didn't want to happen — and who paid for it with their careers, their freedom, or their lives. This includes **UAP physics and propulsion**, **alternative energy**, **medical breakthroughs threatening pharmaceutical profits**, and **any scientific discovery that powerful interests sought to suppress**.
 
-According to statements made by senior military officials — including a top general's disclosure to venture capitalist Marc Andreessen, as discussed on the Joe Rogan Experience — the classified world has made massive breakthroughs in physics that the public has never seen. During the Cold War, "entire branches of physics" were classified. The public was left with string theory and the Standard Model while classified programs allegedly leapt decades ahead in understanding energy, gravity, and spacetime.
+The core claim: **public science effectively stopped advancing in key areas around 1950** — when the US military recovered UAPs (Unidentified Aerial Phenomena), they discovered physics so fundamentally different from mainstream science that breakthroughs were classified and public physics was allowed to stagnate. But suppression extends beyond physics. Researchers investigating alternative cancer treatments, vaccine injuries, and other challenges to mainstream medicine have also died under suspicious circumstances. The pattern is the same: a scientist makes a threatening discovery, and the scientist is silenced.
 
-This project catalogs and evaluates the different **theses** for what that classified physics might be. Each thesis addresses core questions: What powers UAPs? How do they achieve impossible flight characteristics? Can gravity be manipulated locally? Is faster-than-light travel possible? What do recovered materials tell us about the physics? Each thesis is rated by evidence strength so readers can assess credibility for themselves.
+According to statements made by senior military officials — including a top general's disclosure to venture capitalist Marc Andreessen, as discussed on the Joe Rogan Experience — the classified world has made massive breakthroughs in physics that the public has never seen. During the Cold War, "entire branches of physics" were classified. The public was left with string theory and the Standard Model while classified programs allegedly leapt decades ahead in understanding energy, gravity, and spacetime. Meanwhile, the pharmaceutical industry generates over $600 billion annually in the US alone — creating enormous financial incentives to suppress cheap cures or alternative treatments.
 
-The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **whistleblower accounts**, and **investigative journalism**. We document all credible theses and let readers evaluate the evidence. **60 profiles documented.**
+This project catalogs and evaluates the different **theses** for what suppressed science might include. For physics, each thesis addresses core questions: What powers UAPs? How do they achieve impossible flight characteristics? Can gravity be manipulated locally? Is faster-than-light travel possible? What do recovered materials tell us about the physics? For medical research, we ask: What treatments were researchers developing when they died? Who benefited from their silence? Each thesis is rated by evidence strength so readers can assess credibility for themselves.
+
+The evidence comes from multiple categories: **peer-reviewed papers**, **US military patents**, **congressional testimony under oath**, **declassified Defense Intelligence Reference Documents (DIRDs)**, **military sensor data**, **laboratory experiments**, **FDA enforcement actions**, **whistleblower accounts**, and **investigative journalism**. We document all credible cases and let readers evaluate the evidence. **71 profiles documented.**
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 
-**For suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, and other suppressed breakthroughs, see [UAP Energy Systems Murders](/energy/).**
+**For suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, and other suppressed energy breakthroughs, see [UAP Energy Systems Murders](/energy/).**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](https://intelligencemurders.com/epstein-murders).**
 
@@ -133,6 +135,7 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | Name | Role | Platform | Evidence Rating | Details |
 |------|------|----------|-----------------|---------|
 | [Nuno Loureiro](Details/Nuno_Loureiro.md) | Plasma Physicist | MIT, papers | **EMERGING** | Director of MIT Plasma Science and Fusion Center. Shot at his home in Brookline, MA, December 2025. Killer was a former classmate who later died by suicide. Rep. Tim Burchett cited this as part of a concerning pattern of scientist deaths. |
+| [Jason Thomas](Details/Jason_Thomas.md) | Scientist — Chemical Biology | Novartis / DOD contracts | **EMERGING** | Assistant director of chemical biology at Novartis (active DOD contracts). Vanished December 12, 2025, three days before [Nuno Loureiro](Details/Nuno_Loureiro.md) was killed 10 miles away. Body recovered from Lake Quannapowitt after ice thawed, March 17, 2026. Left without phone, wallet, or coat. |
 | [Karl Wolfe](Details/Karl_Wolfe.md) | Former USAF Sergeant | Disclosure Project testimony | **SUSPICIOUS** | Testified at 2001 National Press Club Disclosure Project that he saw NASA photos showing artificial structures on the far side of the Moon while working at a classified facility at Langley AFB. Struck and killed by tractor-trailer while cycling, October 2018. |
 | [Todd Sees](Details/Todd_Sees.md) | Civilian | UFO encounter | **SUSPICIOUS** | Found dead on Montour Ridge, PA, August 2002. Body emaciated and white (not bloated) after only two days missing. Expression of horror, wearing only underwear. Official cause "cocaine toxicity" disputed by family. Multiple UFO sightings reported in the area at the time. |
 | [Ron Johnson](Details/Ron_Johnson.md) | MUFON Deputy Director | Research, NATO meetings | **SUSPICIOUS** | Commissioned by Institute of Advanced Studies to work on UFO propulsion. Attended secret NATO meetings on extraterrestrial communication. Collapsed at Society of Scientific Exploration meeting, June 1994, age 43. Face turned purple, blood from nose. Autopsy inconclusive. |
@@ -154,6 +157,24 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 | [Rory Johnson](Details/Rory_Johnson.md) | Inventor | Patents, contracts | **SPECULATIVE** | Created the Magnatron cold-fusion laser-activated magnetic motor producing 525 HP on deuterium and gallium. Greyhound Bus Lines contracted to use his motors. DOE placed gag order and seized his technology. |
 | [Arie DeGeus](Details/Arie_DeGeus.md) | Inventor | Patents | **SPECULATIVE** | Developed a claimed zero-point energy battery using three-stage conversion (ZPE to magnetic to electrochemical to DC). Held patents NL1029488 and EP1602161A2. Found dead in his car en route to secure European funding. |
 | [Dean Warwick](Details/Dean_Warwick.md) | Free Energy Researcher | Lectures | **SPECULATIVE** | Researched free energy and directed energy weapons. Claimed knowledge of directed energy weapons operational since the 1970s. Collapsed and died on stage at a UFO conference moments before revealing classified information. |
+
+### Medical & Health Researchers (Suppressed / Killed)
+
+| Name | Role | Platform | Evidence Rating | Details |
+|------|------|----------|-----------------|---------|
+| [Dr. Jeffrey Bradstreet](Details/Jeffrey_Bradstreet.md) | Physician / Autism-GcMAF Researcher | Private practice, congressional testimony | **SUSPICIOUS** | Researched GcMAF protein therapy and nagalase enzyme in relation to autism and cancer. Found dead in Rocky Broad River, NC, with gunshot wound to chest three days after FDA raided his clinic and seized his research. Ruled suicide. Family hired independent investigators. |
+| [Timothy Cunningham](Details/Timothy_Cunningham.md) | CDC Epidemiologist | CDC, U.S. Public Health Service | **SUSPICIOUS** | Commander in the U.S. Public Health Service, Harvard-trained epidemiologist at the CDC. Disappeared February 12, 2018, leaving all belongings behind. Body found seven weeks later in the Chattahoochee River in an area police said was not accessible by walking. Ruled suicide. |
+| [Dr. Nicholas Gonzalez](Details/Nicholas_Gonzalez.md) | Physician / Alternative Cancer Researcher | Private practice, clinical trials, books | **SUSPICIOUS** | Developed the Gonzalez Protocol — enzyme-based alternative cancer therapy building on Dr. William Donald Kelley's work. Claimed superior outcomes to chemotherapy. Died July 21, 2015, of apparent cardiac event at his Manhattan home at age 67 with allegedly no prior heart issues. Part of the 2015 holistic doctor death wave. |
+| [Dr. Mitchell Gaynor](Details/Mitchell_Gaynor.md) | Integrative Oncologist | Weill Cornell, books, private practice | **SUSPICIOUS** | Leading integrative oncologist at Weill Cornell who pioneered sound frequency therapy for cancer healing. Author of *The Healing Power of Sound*. Found dead in woods near his upstate New York home in September 2015. Ruled suicide. Had just published a new book on his methods. Part of the 2015 wave. |
+| [Royal Raymond Rife](Details/Royal_Raymond_Rife.md) | Inventor / Microscopist | Laboratory research, patents | **DEBATED** | Built a "universal microscope" in the 1930s and developed frequency devices claimed to cure cancer by destroying pathogens at resonant frequencies. Lab raided and equipment destroyed; career systematically dismantled by AMA. Not killed but represents the template case for medical research suppression. |
+| [Dr. Stanislaw Burzynski](Details/Stanislaw_Burzynski.md) | Physician / Cancer Researcher | Burzynski Clinic, clinical trials | **DEBATED** | Discovered "antineoplastons" — peptides he claimed could non-toxically cure cancer by restoring tumor-suppressor genes. Endured multiple FDA raids, two federal trials, and decades of regulatory suppression since the 1970s. Still alive — called "the one who got away." |
+| [Dr. Eugene Chellis Glover](Details/Eugene_Chellis_Glover.md) | Cancer Researcher | Boston City Hospital | **HISTORICAL — UNCERTAIN** | Young Harvard-trained cancer researcher working on a lipoid serum for cancer treatment in 1932. Died from cyanide poisoning in his lab while reportedly on the "threshold of an important discovery." NYT: "Young Cancer Expert Victim of Science." Officially accidental. |
+
+### Medical Research Suppression Clusters
+
+| Name | Scope | Time Period | Evidence Rating | Details |
+|------|-------|-------------|-----------------|---------|
+| [Holistic Doctor Deaths](Details/Holistic_Doctor_Deaths.md) | 80-100+ Alternative Medicine Practitioners | 2015–present | **DEBATED** | Since [Bradstreet's](Details/Jeffrey_Bradstreet.md) death in June 2015, over 80 holistic doctors and alternative medicine practitioners have allegedly died under suspicious circumstances. Cataloged by Health Nut News. Fact-checkers found no coordinated pattern; individual cases range from genuinely suspicious to clearly unrelated. The base rate problem is significant, but specific cases like Bradstreet's remain unexplained. |
 
 ### Military Witnesses & Pilots
 
@@ -194,6 +215,8 @@ The evidence comes from multiple categories: **peer-reviewed papers**, **US mili
 **Material Evidence as Ground Truth:** Unlike theoretical theses, the [exotic metamaterials](Details/Exotic_Metamaterials.md) thesis offers physical evidence that can be independently analyzed. Materials have been examined at Stanford University by [Garry Nolan](Details/Garry_Nolan.md) and other institutions. If isotopic ratios conclusively prove non-terrestrial manufacturing, it would validate that something real is behind the other theses. This is the most falsifiable and therefore the most scientifically valuable line of investigation.
 
 **Sensor Data Matching Theory:** Military sensor data from encounters like the USS Nimitz (2004) and USS Roosevelt (2015) show objects performing maneuvers consistent with [inertial mass reduction](Details/Zero_Point_Energy.md) and [local gravity manipulation](Details/Gravity_Manipulation.md) — instantaneous acceleration from hovering to hypersonic speeds, right-angle turns, trans-medium travel, absence of sonic booms. [Ryan Graves](Details/Ryan_Graves.md) testified before Congress about directly observing these characteristics. The observed performance envelope matches what these physics theses predict.
+
+**Medical Researchers Who Died After Challenging Pharmaceutical Interests:** A parallel pattern to UAP/energy suppression emerges in medical research. [Dr. Jeffrey Bradstreet](Details/Jeffrey_Bradstreet.md) was found dead in a river with a gunshot wound to the chest three days after the FDA raided his clinic and seized his GcMAF research — research he claimed showed an 85% improvement rate in autistic children. [Timothy Cunningham](Details/Timothy_Cunningham.md), a Harvard-trained CDC epidemiologist, disappeared in 2018 leaving all belongings behind; his body was found seven weeks later in a river in an area police said was not reachable by walking. The [broader holistic doctor deaths pattern](Details/Holistic_Doctor_Deaths.md) — 80-100+ practitioners since 2015 — is statistically debatable due to base rate issues, but the template matches other suppression patterns in this project: researcher threatens powerful interests, researcher dies, research disappears or is seized. The pharmaceutical industry's $600+ billion annual revenue provides a financial motive comparable to the national security motive in UAP suppression.
 
 **Inventors Who Died or Disappeared:** A striking pattern emerges among inventors working on exotic energy and propulsion: [Stanley Meyer](Details/Stanley_Meyer.md) (water fuel cell — died suddenly, reportedly poisoned), [Eugene Mallove](Details/Eugene_Mallove.md) (cold fusion — beaten to death), [Arie DeGeus](Details/Arie_DeGeus.md) (ZPE battery — found dead), [Paul Brown](Details/Paul_Brown.md) (nuclear battery — killed in car accident after harassment), [Floyd Sweet](Details/Floyd_Sweet.md) (vacuum energy — death threats, materials seized), [Bruce DePalma](Details/Bruce_DePalma.md) (N-Machine — died before scheduled testing), [Amy Eskridge](Details/Amy_Eskridge.md) (exotic science — suspicious death at 34), [Dean Warwick](Details/Dean_Warwick.md) (free energy — collapsed on stage before disclosure), [Rory Johnson](Details/Rory_Johnson.md) (magnetic motor — technology seized by DOE). Whether coincidence or suppression, the concentration of premature deaths and seizures among exotic energy inventors is statistically notable.
 
@@ -278,6 +301,15 @@ Based on the convergence of congressional testimony, insider statements, books, 
 - [John Murphy](Details/John_Murphy.md) — Kecksburg UFO journalist, documentary censored, hit-and-run 1969
 - [Jim Keith](Details/Jim_Keith.md) — "The Octopus" co-author, blood clot during surgery, 1999
 
+### New Profiles (Medical Research Suppression)
+- [Dr. Jeffrey Bradstreet](Details/Jeffrey_Bradstreet.md) — GcMAF/autism researcher, found dead after FDA raid, 2015
+- [Dr. Nicholas Gonzalez](Details/Nicholas_Gonzalez.md) — Enzyme-based cancer therapy developer, cardiac death at 67, 2015
+- [Dr. Mitchell Gaynor](Details/Mitchell_Gaynor.md) — Integrative oncologist, sound frequency therapy, found dead 2015
+- [Royal Raymond Rife](Details/Royal_Raymond_Rife.md) — Frequency device inventor, lab destroyed, career dismantled 1930s-1940s
+- [Dr. Stanislaw Burzynski](Details/Stanislaw_Burzynski.md) — Antineoplastons discoverer, decades of FDA suppression, still alive
+- [Dr. Eugene Chellis Glover](Details/Eugene_Chellis_Glover.md) — Harvard cancer researcher, cyanide death in lab, 1932
+- [Holistic Doctor Deaths](Details/Holistic_Doctor_Deaths.md) — 80-100+ alternative medicine practitioners, 2015-present
+
 ### Key Overlapping Profiles
 People who appear in both this project and sibling directories:
 - [Bob Lazar](Details/Bob_Lazar.md) — UAP Physics (gravity amplification, Element 115) and potentially UAP Deaths (threatened)
@@ -352,11 +384,11 @@ People who appear in both this project and sibling directories:
 
 ---
 
-*Last Updated: 2026-03-27 — Added 25 new profiles: James Forrestal, James McDonald, Viktor Schauberger, Karl Wolfe, Ron Johnson, Dorothy Kilgallen, John Mack, Karla Turner, T. Henry Moray, Danny Casolaro, Max Spiers, William Colby, Frank Edwards, Nuno Loureiro, Ron Rummel, Paul Bennewitz, GEC-Marconi Scientists (group), Thomas Mantell, J. Allen Hynek, William Cooper, Edward Ruppelt, John Bedini, Todd Sees, John Murphy, Jim Keith. Added new sections: Journalists & Investigators, Government & Intelligence Insiders, UAP Physics Researchers (Recent Deaths), Confirmed Government Targeting, Defense Scientist Clusters. Expanded suspicious deaths table from 18 to 42.*
+*Last Updated: 2026-03-29 — Added 6 new medical research suppression profiles: Dr. Nicholas Gonzalez (enzyme cancer therapy, cardiac death 2015), Dr. Mitchell Gaynor (sound frequency oncology, found dead 2015), Royal Raymond Rife (frequency device inventor, lab destroyed 1930s), Dr. Stanislaw Burzynski (antineoplastons, FDA suppression, still alive), Dr. Eugene Chellis Glover (Harvard cancer researcher, cyanide death 1932). Expanded Holistic Doctor Deaths with named cases from 2015 wave (Holt, Riley, Schwartz, Karim, De Silva, Paas) and recent/historical cases. Updated Jason Thomas with cancer research context. Expanded suspicious deaths table to 49+. 71 profiles documented.*
 
 ---
 
-## Suspicious or Disputed Deaths in This Investigation: 40+
+## Suspicious or Disputed Deaths in This Investigation: 49+
 
 | # | Name | Circumstances | Suspicion Level |
 |---|------|--------------|-----------------|
@@ -402,3 +434,16 @@ People who appear in both this project and sibling directories:
 | 40 | [Todd Sees](Details/Todd_Sees.md) | Found dead on Montour Ridge UFO hotspot, Aug 2002; emaciated/white body after 2 days missing; expression of horror; "cocaine toxicity" disputed by family; UFO sightings reported at the time | **SUSPICIOUS** |
 | 41 | [John Bedini](Details/John_Bedini.md) | Free energy/overunity motor inventor; died Nov 2016 same day as his brother Gary, four hours apart; both deaths sudden and unexpected | **SUSPICIOUS** |
 | 42 | [Edward Ruppelt](Details/Edward_Ruppelt.md) | First Project Blue Book director; added debunking chapters contradicting his pro-UFO book, believed under government pressure; heart attack at 37 in 1960 | **LIGHTLY SUSPICIOUS** |
+| 43 | [Dr. Jeffrey Bradstreet](Details/Jeffrey_Bradstreet.md) | GcMAF/autism researcher; found dead in river with gunshot to chest three days after FDA raided clinic and seized research; 250 miles from home; no suicide note; family hired independent investigators | **SUSPICIOUS** |
+| 44 | [Holistic Doctor Deaths](Details/Holistic_Doctor_Deaths.md) | 80-100+ alternative medicine practitioners allegedly died under suspicious circumstances since June 2015; fact-checkers found no coordinated pattern but specific cases like [Bradstreet](Details/Jeffrey_Bradstreet.md) remain unexplained | **DEBATED (PATTERN)** |
+| 45 | [Dr. Nicholas Gonzalez](Details/Nicholas_Gonzalez.md) | Enzyme-based alternative cancer therapy developer; died July 21, 2015, of apparent cardiac event at age 67; wife reported no prior heart issues; part of the 2015 holistic doctor death wave | **SUSPICIOUS** |
+| 46 | [Dr. Mitchell Gaynor](Details/Mitchell_Gaynor.md) | Weill Cornell integrative oncologist; pioneered sound frequency cancer therapy; found dead in woods near home Sept 2015; ruled suicide; had just published new book | **SUSPICIOUS** |
+| 47 | [Royal Raymond Rife](Details/Royal_Raymond_Rife.md) | Built universal microscope and frequency devices claimed to cure cancer in the 1930s; lab raided and equipment destroyed; career systematically dismantled by AMA; died 1971 | **SUPPRESSED** |
+| 48 | [Dr. Stanislaw Burzynski](Details/Stanislaw_Burzynski.md) | Discovered antineoplastons for cancer treatment; multiple FDA raids, two federal trials, decades of regulatory suppression since 1970s; still alive — survived suppression | **SUPPRESSED (ALIVE)** |
+| 49 | [Dr. Eugene Chellis Glover](Details/Eugene_Chellis_Glover.md) | Harvard cancer researcher; died from cyanide poisoning in his Boston City Hospital lab in 1932 while on "threshold of important discovery"; NYT headline called him "Victim of Science" | **HISTORICAL — UNCERTAIN** |
+
+---
+
+## Related Video
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/PNR0Q97TtRU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>

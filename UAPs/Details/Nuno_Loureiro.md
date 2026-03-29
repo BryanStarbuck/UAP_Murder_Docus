@@ -67,6 +67,10 @@ According to The Sentinel Network, MIT's Plasma Science and Fusion Center conduc
 
 The Sentinel Network states: "We are not asserting Loureiro belongs in the AFRL cluster. We are noting that within the same nine-month window, another defense-adjacent physicist was killed by a perpetrator whose operational planning exceeded what personal grievance typically produces."
 
+### Plasma Physics and the Fireball/3I/ATLAS Context
+
+The Sentinel Network's March 25, 2026 article "The Blind Spot: Rocks Are Falling Through Our Roofs" placed Loureiro's murder in a broader context: plasma physics is critical for understanding the behavior of objects entering Earth's atmosphere at extreme velocities (fireballs produce plasma sheaths), the physics of exotic propulsion systems that UAP witnesses and some theorists tie to plasma dynamics, and the analysis of interstellar objects like 3I/ATLAS. The article identified Loureiro as part of the talent pipeline being removed — the plasma physics expertise needed to independently model and explain anomalous atmospheric entries, geomagnetic effects, and the behavior of 3I/ATLAS's gas venting (which defies conventional comet models). His magnetohydrodynamics work — the same equations governing plasma sheaths around hypersonic vehicles above Mach 5 — would be directly applicable to characterizing both fireball entry physics and any non-natural propulsion signatures.
+
 ## Why This Death Possibly Raises Questions (UAP Context)
 
 - Directed MIT's Plasma Science and Fusion Center — plasma physics is theoretically relevant to some proposed UAP propulsion mechanisms
@@ -118,5 +122,6 @@ Loureiro's murder is one of five scientist deaths or disappearances between June
 - Daniel Liszt (Dark Journalist) — independent investigator commentary on Loureiro's neutron star merger research and advanced propulsion/UFO technology speculation
 - [Daily Mail: Mystery of five missing scientists sends chill across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
 - [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*

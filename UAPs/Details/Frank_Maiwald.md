@@ -25,11 +25,12 @@ No entry has been located in the Los Angeles County Medical Examiner public data
 
 ## Background
 
-Maiwald was educated at the University of Cologne, Germany. He built a career at JPL spanning radiometry, terahertz spectroscopy, and orbital remote sensing. According to his publication trail on the NASA Technical Reports Server (NTRS), he managed the development of multiple major instruments:
+Maiwald earned his Ph.D. in Applied Physics from the University of Cologne, Germany, and joined JPL as a Post-Doctoral Fellow in April 1999. Over 25 years, he rose to **Technical Group Supervisor** in the Instrument Division, building a career spanning radiometry, terahertz spectroscopy, and orbital remote sensing. His early work included developing a 2.7-THz solid-state frequency-tripler source and leading a team that built a space-qualified multiplier chain in the 1.25-THz range — foundational technology for space-based spectroscopy. According to his publication trail on the NASA Technical Reports Server (NTRS), he managed the development of multiple major instruments:
 
-- **SBG-VSWIR** — A visible shortwave infrared spectrometer designed for the Surface Biology and Geology mission
-- **AMR-C** — Advanced Microwave Radiometer for Climate, which he had successfully delivered
-- Contributed to **AMR/SWOT**, **COWVR**, **AMR/Jason 3**, and **HIFI** programs
+- **SBG-VSWIR** — A visible shortwave infrared spectrometer designed for the Surface Biology and Geology mission (his final project, planned launch ~2028)
+- **AMR-C** — Advanced Microwave Radiometer for Climate, which he had successfully delivered (two instruments for the Sentinel-6 mission)
+- **Juno MWR** — He served as **receiver lead** for the microwave radiometer currently orbiting Jupiter
+- Contributed to **AMR/SWOT**, **COWVR**, **AMR/Jason 3**, and **HIFI** (Herschel Space Observatory) programs
 
 As The Sentinel Network noted, these are not obscure academic instruments. Visible shortwave infrared spectroscopy detects anomalous surface emissions and identifies materials from orbit. Advanced microwave radiometry enables all-weather target tracking and maritime domain awareness. The civilian applications are climate monitoring and oceanography. The defense applications are intelligence, surveillance, and reconnaissance. The technology is inherently dual-use, and Maiwald managed programs on both sides of that line.
 
@@ -43,6 +44,10 @@ He is survived by his wife of 25 years, YeonJae Maiwald, his father, and his sib
 - **Dual-use technology:** His instruments had direct defense ISR applications alongside their civilian missions.
 - **JPL/Caltech corridor:** JPL is where Monica Reza was working when she vanished eleven months later. Caltech/IPAC, where Carl Grillmair ran quality assurance on NEOWISE, is the same institutional family. According to The Sentinel Network: "Three people from the Southern California aerospace corridor. Reza invented the alloy. Grillmair validated the sensor pipeline. Maiwald managed the instruments. All three are gone."
 - **Timeline:** If the 2024-2026 scientist cluster has a beginning, The Sentinel Network suggests it may be here: Independence Day, 2024.
+
+## The Fireball Blind Spot and 3I/ATLAS Context
+
+The Sentinel Network's March 25, 2026 article "The Blind Spot: Rocks Are Falling Through Our Roofs" placed Maiwald's death in the context of a documented March 2026 spike in bright fireballs causing real-world damage — meteorites through roofs in Houston, sonic booms in Ohio, multiple events across Germany, California, and Michigan. The article argued that the scientist cluster represents the systematic removal of the talent pipeline that could detect, characterize, or publicly explain either incoming NEO threats or anomalous interstellar activity centered on 3I/ATLAS (the third confirmed interstellar object, discovered 2025). Maiwald's orbital surveillance instruments — which watch payloads and launches from orbit — are positioned by The Sentinel Network as part of the detection infrastructure being blinded. His SBG-VSWIR spectrometer detects anomalous surface emissions and identifies materials from orbit; his advanced microwave radiometry enables all-weather target tracking. The civilian applications are climate monitoring; the defense applications are the ability to independently verify what is entering Earth's atmosphere and from where.
 
 ## The Counterargument
 
@@ -79,6 +84,7 @@ He is survived by his wife of 25 years, YeonJae Maiwald, his father, and his sib
 - [The Blind Spot — The Sentinel Network](https://thesentinel.network/) (March 2026)
 - [Frank Werner Maiwald Obituary — Legacy.com](https://www.legacy.com/) (July 2024)
 - [NASA Technical Reports Server — NTRS](https://ntrs.nasa.gov/) (Maiwald publication trail)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 
 *This information was built by Grok and Claude AI research.*

@@ -94,6 +94,7 @@ According to The Sentinel Network's investigation, Casias's disappearance shares
 - [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [The Blind Spot — The Sentinel Network](https://thesentinel.network/) (March 2026)
 - [The Taos News — Melissa Casias disappearance coverage](https://www.taosnews.com/) (2025)
+- [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 
 *This information was built by Grok and Claude AI research.*

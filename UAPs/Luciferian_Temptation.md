@@ -1,0 +1,156 @@
+---
+title: "The Luciferian Temptation"
+sidebar_label: "The Luciferian Temptation"
+sidebar_position: 11
+---
+
+# The Luciferian Temptation: Why Pentagon Officials Believe UAPs Are Demonic
+
+A powerful faction within the U.S. defense and intelligence establishment views the UAP phenomenon through a religious lens — believing that non-human intelligences are not extraterrestrials but **demonic entities**, and that engaging with them represents a satanic temptation. This belief has directly obstructed UAP disclosure for decades and contributed to the climate of secrecy that has gotten people killed.
+
+**Daniel Sheehan**, the Harvard-trained constitutional attorney who represents [Lue Elizondo](Details/Lue_Elizondo.md) and formerly served as legal counsel for Steven Greer's Disclosure Project, brought this conflict into public view through his New Paradigm Institute — then removed the most controversial material after backlash from the UFO community.
+
+---
+
+## The Core Conflict
+
+The UAP disclosure movement is split by a fundamental question: **What are these beings?**
+
+Three competing frameworks:
+
+| Framework | Proponents | View of NHI |
+|-----------|-----------|-------------|
+| **Extraterrestrial Hypothesis** | Greer, most civilian researchers | Physical beings from other star systems; largely benevolent |
+| **Interdimensional Hypothesis** | Vallee, Keel, Sheehan, some insiders | Beings from other dimensions/frequencies that can materialize into physical reality |
+| **Demonic Hypothesis** | Collins Elite, Pentagon religious faction | Fallen angels or demons deceiving humanity through a technological guise |
+
+The "Luciferian Temptation" framing comes from the third camp — officials who believe that pursuing UAP knowledge is itself the temptation, that these beings offer forbidden knowledge to lure humanity away from God, and that reverse-engineering their technology is trafficking with evil.
+
+---
+
+## The Collins Elite
+
+Attorney Daniel Sheehan has described a network of high-ranking Pentagon officials he calls the **Collins Elite** — a group that believes the UFO phenomenon is demonic in nature and that all UAP information should be permanently buried.
+
+According to Sheehan:
+- Physicist **Dr. Eric Davis** was physically confronted by a member of this group in Pentagon hallways and told that his work on UFOs was "satanic"
+- The group actively works to prevent disclosure, not for national security reasons, but because they believe contact with these beings endangers humanity's souls
+- This religious opposition was a significant factor in [Lue Elizondo](Details/Lue_Elizondo.md)'s 2017 resignation from the Department of Defense
+
+Nick Redfern's book *Final Events* documented the Collins Elite and their conviction that UFOs are "deceptive demons and fallen angels."
+
+[Lue Elizondo](Details/Lue_Elizondo.md) confirmed the scale of this opposition, stating that it was "not just a little voice in the Pentagon... but a huge group of people thought the phenomenon that was being witnessed was demons." Former Senate Majority Leader Harry Reid confirmed that some pushback against UAP investigation was due to "religious views" held by key intelligence officials.
+
+---
+
+## The MJ-12 Documents and EMEs
+
+In the **MJ-12 (Majestic-12) documents** — purported classified materials describing a secret committee formed in 1947 to manage recovered alien spacecraft — the beings were referenced as **EMEs: Extraterrestrial Materialized Entities**.
+
+The term "materialized" is significant. Unlike "Extraterrestrial Biological Entity" (EBE), which implies a physical creature from another planet, "Extraterrestrial Materialized Entity" implies a being that **transitions into physical reality from somewhere else** — an interdimensional being that can take material form.
+
+Sheehan believes this terminology reflects the true nature of the phenomenon: that these beings exist in higher-dimensional states and can "rheostat down into a lower vibrational frequency" to "come into material manifestation here on our planet." He has stated that **we will one day be able to materialize anything we can imagine with our thoughts** — that consciousness and physical reality are far more interconnected than mainstream science acknowledges, and that the NHI have already mastered this relationship.
+
+This view places consciousness at the center of the UAP phenomenon — a position that both the strict materialists and the religious fundamentalists reject for different reasons.
+
+---
+
+## Sheehan's Removal of Content
+
+Daniel Sheehan removed the material about the Luciferian Temptation from his **New Paradigm Institute** website after significant backlash from the UFO community.
+
+**The UFO community is not ready for the interdimensional hypothesis** or the involvement of consciousness and religion in the phenomenon. The community broadly splits into:
+
+- **Nuts-and-bolts researchers** who want physical evidence, recovered craft, and material analysis — and who view interdimensional or consciousness-based frameworks as undermining their credibility
+- **Disclosure advocates** who fear that associating UAPs with religion or demons will be weaponized to justify continued secrecy ("we can't tell the public because it would cause religious panic")
+- **Religious opponents** who want the topic buried entirely
+
+Sheehan's discussion of the Luciferian Temptation touched all three nerve endings simultaneously. By publicly acknowledging that powerful officials hold the demonic view, he gave ammunition to those who want to keep UAP information classified. By framing it within a consciousness-based paradigm, he alienated the materialist wing. And by treating the demonic interpretation as a political obstacle rather than a theological truth, he offended the religious faction.
+
+The removal of the content demonstrates the **political minefield** that UAP disclosure has become — where even the attorneys representing whistleblowers must self-censor to maintain coalition support.
+
+---
+
+## The Interdimensional Hypothesis
+
+The idea that UAP beings are interdimensional rather than interstellar has deep roots in UAP research:
+
+- **Jacques Vallee** — French astrophysicist who argued that UFO behavior (instantaneous acceleration, shape-shifting, apparent telepathy) is inconsistent with physical spacecraft but consistent with interdimensional phenomena
+- **John Keel** — proposed "ultraterrestrials," beings that have always coexisted alongside humanity in adjacent dimensions
+- **[J. Allen Hynek](Details/J_Allen_Hynek.md)** — former Air Force consultant who moved toward this view later in his career after decades of investigating cases that defied physical explanation
+- **[Andrija Puharich](Details/Andrija_Puharich.md)** — physician and parapsychologist who researched the intersection of consciousness and non-human intelligence
+
+The interdimensional hypothesis explains features of UAP encounters that the extraterrestrial hypothesis struggles with:
+- Objects appearing and disappearing rather than arriving and departing
+- Beings communicating telepathically
+- Encounters that have psychological and spiritual effects on witnesses
+- The phenomenon's apparent ability to respond to human consciousness and attention
+- Historical accounts across all cultures that describe similar beings using the language of their era (angels, demons, faeries, djinn, gods)
+
+---
+
+## Why This Matters for the Kill List
+
+The Luciferian Temptation framework directly connects to why people have been killed:
+
+1. **If powerful officials believe UAP contact is literally satanic**, they have theological justification — not just national security justification — for silencing witnesses. A person who believes they are fighting Satan will go further than a person protecting classified programs.
+
+2. **The consciousness connection** means that some victims may have been killed not just for knowing about craft or programs, but for understanding the **nature of the beings** — knowledge that threatens both the materialist scientific establishment and organized religion.
+
+3. **The self-censorship Sheehan demonstrated** by removing content shows that even prominent figures in the disclosure movement are subject to pressure. Lesser-known figures with the same knowledge but without Sheehan's public profile have far less protection.
+
+4. **[Phil Schneider](Details/Phil_Schneider.md)** explicitly discussed underground encounters with beings he described in terms that bridge the extraterrestrial and interdimensional frameworks. He was killed.
+
+5. **[Dean Warwick](Details/Dean_Warwick.md)** collapsed and died on stage at a UFO conference moments before he was about to reveal what he called the "ultimate secret" about the phenomenon. Multiple researchers believe this secret related to the interdimensional/consciousness nature of the beings.
+
+---
+
+## Key Figures
+
+| Person | Role | Status |
+|--------|------|--------|
+| **Daniel Sheehan** | Attorney for Elizondo; founder of New Paradigm Institute; Harvard Law & Divinity | Active — removed Luciferian Temptation content after backlash |
+| **[Lue Elizondo](Details/Lue_Elizondo.md)** | Former AATIP head; Sheehan's client | [AT RISK](Details/Lue_Elizondo.md) |
+| **Steven Greer** | Disclosure Project founder; former Sheehan client | Active — split with Sheehan over Elizondo |
+| **Dr. Eric Davis** | Physicist; confronted by Collins Elite member in Pentagon | Active |
+| **[Jacques Vallee](Details/Jacques_Vallee.md)** | Astrophysicist; interdimensional hypothesis pioneer | Active |
+| **[J. Allen Hynek](Details/J_Allen_Hynek.md)** | Former Air Force consultant; moved toward interdimensional view | Died 1986 |
+
+---
+
+## The Sheehan-Greer-Elizondo Triangle
+
+Sheehan's position at the intersection of the disclosure movement's two most prominent — and feuding — figures is significant:
+
+- **Sheehan represented Greer** and the Disclosure Project, which organized the landmark 2001 National Press Club event with military and government witnesses
+- **Sheehan now represents Elizondo** in his legal case against the Department of Defense
+- **Greer has called Elizondo a "professional disinformation agent"** and used footage of Sheehan in his documentary *The Great Hoax* in a way Sheehan said was taken out of context
+- **Sheehan publicly rebuked Greer**, stating he "most emphatically disagreed" with Greer's characterization and that he is "firmly convinced that both Lue Elizondo and Chris Mellon are engaged in an entirely good-faith effort"
+
+This split mirrors the broader fracture in the disclosure community between those who see the government-linked disclosure effort as genuine whistleblowing and those who see it as controlled opposition designed to push a false "threat narrative."
+
+---
+
+## See Also
+
+- [Lue Elizondo](Details/Lue_Elizondo.md) — Sheehan's client; confirmed Pentagon religious opposition to UAP research
+- [David Grusch](Details/David_Grusch.md) — Whistleblower whose testimony referenced recovered non-human craft
+- [Phil Schneider](Details/Phil_Schneider.md) — Described underground encounters with beings; murdered
+- [Dean Warwick](Details/Dean_Warwick.md) — Died on stage before revealing the "ultimate secret"
+- [J. Allen Hynek](Details/J_Allen_Hynek.md) — Air Force consultant who moved toward interdimensional hypothesis
+- [Andrija Puharich](Details/Andrija_Puharich.md) — Researched consciousness and non-human intelligence
+- [Starlight Scopes](Starlight_Scopes.md) — Vietnam-era night vision that revealed entities invisible to the naked eye
+- [Mark McCandlish](Details/Mark_McCandlish.md) — Disclosure witness who died before planned Senate testimony
+
+## Sources
+
+- [New Paradigm Institute](https://newparadigminstitute.org/)
+- [Daniel Sheehan (attorney) — Wikipedia](https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney))
+- [Demonic UFO Hypothesis — Wikipedia](https://en.wikipedia.org/wiki/Demonic_UFO_hypothesis)
+- [Interdimensional UFO Hypothesis — Wikipedia](https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis)
+- [Majestic 12 — Wikipedia](https://en.wikipedia.org/wiki/Majestic_12)
+- [Christian Pentagon Officials Halted UFO Research Over Fear That Aliens Are Demons — Relevant Magazine](https://relevantmagazine.com/current/world/christian-pentagon-officials-halted-ufo-research-over-fear-that-aliens-are-demons/)
+- Nick Redfern, *Final Events and the Secret Government Group on Demonic UFOs and the Afterlife* (2010)
+- [Danny Sheehan's Public Statement About Lue Elizondo And Chris Mellon — Spaced Out Radio](https://spacedoutradio.com/danny-sheehans-public-statement-about-lue-elizondo-and-chris-mellon/)
+
+*This information was built by Grok and Claude AI research.*

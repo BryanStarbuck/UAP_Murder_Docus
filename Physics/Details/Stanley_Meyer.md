@@ -97,6 +97,7 @@ Meyer's work connects to UAP physics through the resonance principle. If resonan
 
 - [Stanley Meyer (UAP Deaths)](/uaps/Details/Stanley_Meyer) — Profile emphasizing the suspicious circumstances of his death
 - [Stanley Meyer (Zero Point Energy)](/energy/Details/Stanley_Meyer) — Profile in the suppressed energy technology project
+- [Royal Raymond Rife](Royal_Raymond_Rife.md) — Frequency device inventor whose career was systematically destroyed by the AMA after claiming to cure cancer with resonant frequencies; mirrors Meyer's suppression pattern with resonance-based technology
 
 ## Sources
 

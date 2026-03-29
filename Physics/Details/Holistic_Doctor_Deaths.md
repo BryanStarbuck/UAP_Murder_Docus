@@ -1,0 +1,145 @@
+# Holistic Doctor Deaths (2015-Present)
+Since June 2015, over 80 alternative medicine practitioners, holistic doctors, and health researchers have allegedly died under suspicious or unexplained circumstances across the United States. While fact-checkers have found no coordinated pattern, the sheer volume of cases — and the specific circumstances of several key deaths — continues to fuel claims of a systematic campaign to suppress alternative cancer treatments, vaccine injury research, and other challenges to mainstream pharmaceutical medicine.
+
+| Field | Details |
+|-------|---------|
+| **Category** | Medical / Health Research Suppression |
+| **Time Period** | June 2015 – present |
+| **Claimed Death Count** | 80-100+ (varies by source) |
+| **Primary Chronicler** | Erin Elizabeth / Health Nut News |
+| **First Catalyst Case** | [Dr. Jeffrey Bradstreet](Jeffrey_Bradstreet.md) — found dead June 19, 2015 |
+| **Common Alleged Motive** | Suppression of alternative cancer cures, GcMAF research, vaccine-autism link research |
+| **Key Claims** | Doctors researching cancer cures and vaccine injuries are being systematically murdered |
+| **Evidence Rating** | **DEBATED** |
+
+## Overview
+
+Beginning with the death of [Dr. Jeffrey Bradstreet](Jeffrey_Bradstreet.md) on June 19, 2015 — found in a river with a gunshot wound to the chest three days after an FDA raid seized his GcMAF research — a narrative emerged that holistic doctors and alternative medicine practitioners were being systematically killed to protect pharmaceutical industry profits. The website Health Nut News, run by Erin Elizabeth (partner of prominent alternative medicine figure Dr. Joseph Mercola), began cataloging these deaths in what became the "Unintended Holistic Doctor Death Series," eventually documenting over 80 cases.
+
+The claims typically center on one or more of these motives:
+- **GcMAF and nagalase** — Doctors researching GcMAF (a protein that activates cancer-fighting macrophages) and nagalase (an enzyme that suppresses this activation) were allegedly silenced because their work threatened the cancer treatment industry
+- **Vaccine-autism link** — Researchers allegedly discovering connections between vaccines and autism or cancer were eliminated
+- **Alternative cancer cures** — Practitioners offering effective alternative cancer treatments (often cheap, simple compounds) were killed to protect the $200+ billion cancer treatment industry
+- **Ivermectin and parasites** — More recent claims (2025) allege doctors discovering cancer is parasite-driven and treatable with ivermectin were silenced
+
+## Key Cases Cited
+
+### Confirmed Deaths (Circumstances Disputed)
+
+| Name | Date | Circumstances | Official Ruling |
+|------|------|--------------|-----------------|
+| **[Dr. Jeffrey Bradstreet](Jeffrey_Bradstreet.md)** | June 19, 2015 | Found in Rocky Broad River, NC, with gunshot to chest; three days after FDA raid; 250 miles from clinic | Suicide |
+| **[Dr. Nicholas Gonzalez](Nicholas_Gonzalez.md)** | July 21, 2015 | Developer of enzyme-based alternative cancer therapy (the Gonzalez Protocol); died of apparent cardiac event at his Manhattan home at age 67; wife reported no prior heart issues; had been in good health | Natural causes (cardiac-related) |
+| **[Dr. Mitchell Gaynor](Mitchell_Gaynor.md)** | September 15, 2015 | Prominent integrative oncologist at Weill Cornell; pioneered sound frequency therapy for cancer; found dead in woods near his home in upstate New York; had just published a new book on his methods | Suicide |
+| **Dr. Bruce Hedendal** | June 21, 2015 | Chiropractor found dead in his car in Boca Raton, FL; had completed a 5K race earlier that day; age 67 | Natural causes (heart attack after exertion) |
+| **Dr. Baron Holt** | June 21, 2015 | Florida chiropractor; found dead in his car on Father's Day 2015 — the same day as Hedendal; linked to alternative health research including cancer connections | Under investigation |
+| **Dr. Lisa Riley** | July 2015 | Osteopath in Lee County, Georgia; found with a gunshot wound to the head with a gun nearby; circumstances called suspicious by family | Suicide |
+| **Dr. Ronald Schwartz** | June 2015 | Retired OBGYN with holistic medicine ties; shot to death in his Jupiter, FL home | Homicide (unsolved) |
+
+### Additional Named Cases from the 2015 Cluster
+
+Viral X threads (February–March 2026) listing "12 doctors who exposed the truth… now dead" and posts from @HealthRanger (2018) naming "a wave of Florida-based natural health doctors found dead or missing linked to cancer cure" include these additional names:
+
+- **Dr. Abdul Karim** — Named in 2026 X threads as part of the 90-day 2015 cluster; allegedly tied to alternative cancer/autism research and nagalase discovery. No further mainstream details are available.
+- **Dr. Nadeera De Silva** — Named alongside Karim in 2026 X threads as part of the 2015 cluster; allegedly connected to nagalase research. No mainstream verification of circumstances.
+- **Dr. Marie Paas** — Listed in 2026 X threads as part of the 2015 cluster alongside the others; described as tied to alternative cancer research. No further mainstream details.
+
+These three names appear repeatedly in social media compilations but have minimal independently verifiable information. They are included here for completeness as they appear in the same viral lists as the verified cases above.
+
+### Solved Cases (No Conspiracy Connection)
+
+| Name | Date | Circumstances | Resolution |
+|------|------|--------------|------------|
+| **Dr. Teresa Sievers** | June 29, 2015 | Prominent holistic MD in Bonita Springs, FL; bludgeoned to death with a hammer in her home | Husband Mark Sievers hired hitmen Curtis Wayne Wright and Jimmy Rodgers; Mark Sievers sentenced to death (2019); purely domestic murder with no connection to her medical practice |
+
+### Unverified or Fabricated Cases
+
+- **"Dr. Karen Ruthman"** (circulated September 2025) — Allegedly a 30+ year physician who discovered cancer is parasite-driven and treatable with ivermectin, died before publishing. No medical license records, obituary, publications, or institutional affiliation can be found. Appears to be entirely fabricated, following the standard template of the genre.
+- **"Dr. Malik Henderson" / "Dr. Elijah Carter"** (circulated on Facebook/YouTube) — Story of a Black physician in Atlanta who allegedly discovered a cancer cure in 1988 and was found locked in a vault 10 years later. No mainstream verification; reads as urban legend/clickbait.
+- **"60 Cancer Scientists/Researchers" cluster** (circulated 2024–2026 on YouTube) — A viral YouTube short claims "more than sixty cancer researchers across the world have been reported dead under unusual or sudden circumstances." No specific names are provided in the clip. Shared alongside the 2015 wave as evidence of an "ongoing pattern."
+
+### Recent Cases (2025–2026)
+
+| Name | Date | Circumstances | Official Ruling |
+|------|------|--------------|-----------------|
+| **[Jason Thomas](Jason_Thomas.md)** | December 2025 – March 2026 | Novartis chemical biologist (Assistant Director of Chemical Biology) working on cutting-edge cancer treatments including chemogenetics, small-molecule drugs, targeted protein degradation, and pre-mRNA inhibitors for AML, Ewing's sarcoma, breast, and ovarian cancers (some with DoD contracts). Vanished December 12, 2025, from Wakefield, MA. Body recovered March 17, 2026, from Lake Quannapowitt after ice thaw. Left keys, wallet, phone, Apple Watch in mailbox; didn't feed dogs. X posts (March 2026) speculate he "figured out the cure for cancer" while at a major pharma company | No foul play suspected (pending) |
+
+### Historical Suppression Cases
+
+These historical figures are cited in suppression narratives as earlier examples of the same pattern — researchers who threatened powerful medical interests and paid for it:
+
+- **[Royal Raymond Rife](Royal_Raymond_Rife.md)** (1888–1971) — Built a "universal microscope" and developed frequency devices claimed to cure cancer by destroying pathogens at resonant frequencies. Lab raided and destroyed; work suppressed by the AMA. Not killed, but his career and research were systematically dismantled. Viral Facebook/YouTube posts say "He Discovered a Possible Cancer Cure, Then Vanished."
+- **[Dr. Stanislaw Burzynski](Stanislaw_Burzynski.md)** (1943–present, still alive) — Discovered "antineoplastons" (peptides in blood/urine) as a non-toxic cancer treatment allegedly restoring tumor-suppressor genes. Endured multiple FDA raids, two federal trials, Texas Medical Board actions, and decades of regulatory suppression. Posts call him "the one who got away" — the doctor who survived suppression attempts.
+- **[Dr. Eugene Chellis Glover](Eugene_Chellis_Glover.md)** (1932) — Young Harvard-trained cancer researcher at Boston City Hospital working on a lipoid serum for cancer treatment. Died from cyanide poisoning in his lab while reportedly on the "threshold of an important discovery." NYT headline: "Young Cancer Expert Victim of Science." Officially accidental; some modern posts frame it as early suppression.
+
+## The Pattern Narrative
+
+Proponents of the conspiracy claim these patterns:
+
+1. **FDA raids precede deaths** — Bradstreet's raid-then-death sequence is presented as a template
+2. **GcMAF researchers targeted** — Multiple doctors using or researching GcMAF allegedly died in close succession
+3. **Suicides are actually murders** — Official suicide rulings are systematically disputed
+4. **Research and notes disappear** — Echoing patterns seen in UAP and energy inventor deaths where research materials vanish
+5. **Timing clusters** — Multiple deaths in short periods are presented as evidence of coordinated action
+
+## Statistical Analysis
+
+### The Base Rate Problem
+
+The conspiracy narrative suffers from a fundamental statistical issue:
+
+- There are approximately **1 million physicians** in the United States
+- There are hundreds of thousands of additional practitioners in chiropractic, naturopathic, acupuncture, and other alternative health fields
+- With a population of this size, **hundreds of practitioners die every year** from all causes — heart attacks, cancer, accidents, suicides, and occasionally homicide
+- Selectively collecting a subset of deaths from this large population and presenting them as a pattern is a form of **selection bias** (also called the "clustering illusion")
+- The definition of "holistic doctor" used in the lists is extremely broad — including chiropractors, nutritionists, acupuncturists, and anyone tangentially connected to alternative health
+
+### What Fact-Checkers Found
+
+- **Snopes** (multiple articles, 2015-2017): Found the conspiracy "failed to coherently articulate the conspiracy, consistently utilize the same list of victims, or demonstrate any connection between the victims whatsoever"
+- **PolitiFact** (April 2017): Rated claims that the doctors' deaths were connected as **false**
+- **No law enforcement agency** — federal, state, or local — has identified a pattern of targeted killings of holistic practitioners
+- **The FBI** has not opened any investigation into a pattern of holistic doctor murders
+
+## Why It Persists
+
+Despite debunking, the narrative persists for several reasons:
+
+1. **Real distrust of pharmaceutical companies** — documented cases of pharmaceutical fraud, price gouging, and suppression of unfavorable research provide a foundation for suspicion
+2. **Dr. Bradstreet's case is genuinely unusual** — a gunshot to the chest ruled suicide, days after an FDA raid, 250 miles from home, with no suicide note, is objectively suspicious regardless of one's views on his research
+3. **Confirmation bias** — once the pattern is proposed, every subsequent practitioner death "confirms" it
+4. **Historical precedents** — documented cases of government and corporate suppression of researchers in other fields (UAP, energy) make the narrative plausible by analogy
+5. **Social media amplification** — the narrative fits the shareability requirements of conspiracy content on X, Facebook, and YouTube
+
+## Connection to Broader Suppression Patterns
+
+This project documents similar patterns in other fields:
+
+- **[GEC-Marconi Scientists](GEC_Marconi_Scientists.md)** — 25+ UK defense scientists died 1982-1990; odds calculated at 1 in 100 billion
+- **Energy inventor deaths** — [Stanley Meyer](Stanley_Meyer.md) (poisoned), [Eugene Mallove](Eugene_Mallove.md) (beaten to death), [Arie DeGeus](Arie_DeGeus.md) (found dead), [Paul Brown](Paul_Brown.md) (car accident after harassment)
+- **[Timothy Cunningham](Timothy_Cunningham.md)** — CDC epidemiologist who disappeared in 2018, body found in river, ruled suicide
+- **UAP researchers** — Multiple researchers died before planned testimony or disclosure
+
+The question is whether the holistic doctor deaths represent a similar pattern of suppression or whether selection bias creates the appearance of a pattern where none exists. The answer likely varies case by case — [Bradstreet's](Jeffrey_Bradstreet.md) death has genuinely suspicious elements, while Dr. Sievers' murder was conclusively solved as a domestic crime.
+
+## The Counterargument
+
+- The list conflates deaths from clearly different causes (heart attacks, car accidents, solved homicides, natural causes) into a single "suspicious" category
+- The practitioners had no common research focus — they worked in different fields, different locations, and on different topics
+- The primary source (Health Nut News) is run by the romantic partner of Dr. Joseph Mercola, one of the most prominent anti-vaccine figures in the US, creating a potential conflict of interest
+- Several "mysterious deaths" on the list were later solved as domestic violence, drug overdoses, or clearly natural causes
+- The GcMAF treatment itself has not been validated in clinical trials, and the European Medicines Agency and FDA have not approved it
+- Bradstreet's GcMAF supplier, David Noakes, was criminally convicted in both the UK and France for manufacturing and selling unlicensed medicines
+- Five patients died at Noakes' clinic in Switzerland
+
+## Sources
+
+- [Five Holistic Doctors Dead — Snopes (July 2015)](https://www.snopes.com/news/2015/07/21/five-holistic-doctors-dead/)
+- [Have Sixty Holistic Doctors Died Suspicious Deaths — Snopes Fact Check](https://www.snopes.com/fact-check/holistic-doctor-death-conspiracy/)
+- [PolitiFact — Doctors' deaths were not connected (April 2017)](https://www.politifact.com/factchecks/2017/apr/04/blog-posting/doctors-deaths-were-not-connected-fake-news-websit/)
+- [GcMAF and the life and death of an autism quack — Science-Based Medicine](https://sciencebasedmedicine.org/gcmaf-and-the-life-and-death-of-an-autism-quack/)
+- [Jeff Bradstreet — Wikipedia](https://en.wikipedia.org/wiki/Jeff_Bradstreet)
+- [David Noakes — Wikipedia (GcMAF supplier, convicted)](https://en.wikipedia.org/wiki/David_Noakes)
+- [Ivermectin antitumor activity — Pharmacological Research (2020)](https://pubmed.ncbi.nlm.nih.gov/32871846/) — Legitimate in-vitro research on ivermectin's anti-cancer properties
+
+*This information was compiled by Claude AI research.*

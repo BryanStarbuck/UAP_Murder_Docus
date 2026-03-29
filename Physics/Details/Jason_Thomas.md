@@ -1,0 +1,119 @@
+# Jason Thomas
+Assistant director of chemical biology at Novartis Institutes for BioMedical Research (NIBR) in Cambridge, Massachusetts. Disappeared from his Wakefield, MA home on December 12, 2025. His body was recovered from Lake Quannapowitt on March 17, 2026, after the ice thawed. Part of a cluster of five American scientists who died or vanished between June 2025 and March 2026. Novartis holds active contracts with the U.S. Department of Defense.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Jason R. Thomas |
+| **Born** | c. 1980–1981 |
+| **Died** | Body recovered March 17, 2026 (missing since December 12, 2025) |
+| **Age at Death** | 45 |
+| **Location of Death** | Lake Quannapowitt, Wakefield, Massachusetts, USA |
+| **Cause of Death** | Pending — medical examiner has not released cause/manner of death |
+| **Official Ruling** | "No foul play suspected" (Wakefield Police Department) |
+| **Role** | Scientist — Chemical Biology / Pharmaceutical Research |
+| **Employer** | Novartis Institutes for BioMedical Research (NIBR), Cambridge, MA |
+| **Education** | University of Illinois at Urbana-Champaign |
+| **Evidence Rating** | **EMERGING** |
+
+## Assessment: UNCERTAIN (UAP Physics Link)
+
+Jason Thomas's work at Novartis focused on chemical biology, drug discovery, and high-throughput screening — not aerospace, propulsion, or energy technology. The primary basis for inclusion in the UAP Physics section is the clustering pattern: he vanished three days before MIT plasma physicist [Nuno Loureiro](Nuno_Loureiro.md) was shot dead in nearby Brookline, Massachusetts. His body was found during the same period that the [William McCasland](William_McCasland.md) and [Monica Jacinto Reza](Monica_Jacinto_Reza.md) disappearances were gaining national attention. Congressman Tim Burchett (R-TN) explicitly named Thomas as one of five scientists in a concerning pattern.
+
+Novartis holds active contracts with the U.S. Department of Defense, and Thomas's specific involvement in any defense-related work has not been publicly reported. His research on cancer treatments, targeted protein degradation, and chemical biology could potentially have dual-use defense applications, though this remains speculative.
+
+## Circumstances of Death
+
+On the evening of December 12, 2025, Jason Thomas left his home on Murray Street in Wakefield, Massachusetts, sometime around midnight. He and his wife Kristen had gone out socializing earlier that evening — one of the first times since his parents' deaths in November 2025.
+
+His wife found his Apple Watch in the mailbox. His phone and wallet were left on the bathroom counter. He departed without a coat, gloves, or hat — in December in Massachusetts.
+
+Surveillance footage captured Thomas walking near Murray Street and Chestnut Street, near train tracks on North Avenue. A train conductor who passed through shortly after midnight did not see him board. The footage trail ends there.
+
+Despite extensive searches by Wakefield police, Massachusetts state police, K-9 units, drones, and volunteers, no trace of Thomas was found for three months. A GoFundMe campaign ("Help Us Bring Jason Home") raised over $58,000.
+
+On March 17, 2026, a Wakefield police detective searching around Lake Quannapowitt spotted a body in the previously frozen water. Police used a drone to confirm the discovery, and fire crews recovered the body. Preliminary identification based on clothing suggested it was Thomas.
+
+The Wakefield Police Department stated that "no foul play is suspected," though the medical examiner had not yet determined the cause and manner of death as of late March 2026.
+
+## Background
+
+### Career and Expertise
+
+Jason Thomas was the assistant director of chemical biology in the Developmental and Molecular Pathways (DMP) Group at Novartis Institutes for BioMedical Research (NIBR) in Cambridge, Massachusetts. His work focused on:
+
+- **Chemical biology and chemoproteomics** — using chemistry and biology to discover and create new medicines
+- **Phenotypic screening** — developing cellular models for drug discovery
+- **Target identification and elucidation** — identifying novel drug targets
+- **High-throughput screening (HTS)** — rapidly evaluating potential drug compounds
+- **Targeted protein degradation** — using PROTACs and molecular glues
+- **Potential cancer treatments** — according to the Daily Mail, including work on pre-mRNA inhibitors for AML (acute myeloid leukemia), Ewing's sarcoma, breast cancer, and ovarian cancers
+- **Chemogenetics** — using engineered proteins and small molecules for precise cellular control
+- **Small-molecule drug discovery** — developing novel compounds for targeted therapies
+
+X posts (March 2026) speculated that Thomas had "figured out the cure for cancer" while working at a major pharmaceutical company. His work on targeted protein degradation — using PROTACs and molecular glues to selectively eliminate disease-causing proteins — represents one of the most promising frontiers in cancer drug development. Some of Novartis's cancer research programs carry Department of Defense contracts, though Thomas's specific involvement in defense-related work has not been confirmed.
+
+### Key Publications
+
+- "Chemoproteomics Enabled Discovery of Selective Probes for NuA4 Factor BRD8" — ACS Chemical Biology (2021). Identified a new interaction with the NuA4 complex through bromodomain subunit BRD8 and developed first-in-class selective probes.
+- Work on photoaffinity labeling-based chemoproteomics for unbiased target deconvolution of small molecule drug candidates.
+- Cheminformatics approach to identify compounds with novel mechanisms of action from HTS data.
+
+### Novartis Defense Connections
+
+According to the Daily Mail, Novartis has active contracts with the U.S. Department of Defense (referred to in the article as the "Department of War") and has previously worked with the Department of Health and Human Services. The specific nature of Thomas's involvement with any defense-related work, if any, has not been publicly reported.
+
+### Personal Circumstances
+
+Thomas experienced devastating personal loss shortly before his disappearance. In November 2025, his mother died in hospice care from dementia. According to NBC News/Dateline reporting, approximately one hour later, as Jason and his father were arranging funeral details, his father collapsed in Jason's arms and died of a massive heart attack. Both parents died within roughly 90 minutes of each other.
+
+Thomas was an only child. Friends and family described him as deeply struggling with the double loss. He was married to Kristen Bartoli — they had been together 24 years and married 10 years, having met in college. He was described as a "devoted fur dad to his five pups" and "a wonderful uncle."
+
+## The Five-Scientist Cluster
+
+Rep. Tim Burchett (R-TN) named Thomas as one of five scientists who died or vanished between June 2025 and March 2026, telling the Daily Mail: *"The numbers seem very high in these certain areas of research."*
+
+Key timeline overlaps:
+
+- Thomas vanished December 12, 2025 — **three days before** [Nuno Loureiro](Nuno_Loureiro.md), director of the MIT Plasma Science and Fusion Center, was shot dead at his home in Brookline, MA (approximately 10 miles away)
+- [William McCasland](William_McCasland.md), retired USAF Major General and former commander of the Air Force Research Laboratory, went missing in February 2026
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md), aerospace materials scientist and co-inventor of the Mondaloy superalloy, vanished without trace in 2025
+
+## Suspicious Indicators
+
+- Left home without phone, wallet, Apple Watch (found in mailbox), coat, gloves, or hat — in December in Massachusetts
+- Surveillance footage ends abruptly near train tracks; no trace found between that point and the lake
+- Body found in Lake Quannapowitt three months later after ice thawed — raises questions about whether the lake was adequately searched initially
+- Part of a cluster of five American scientists who died or went missing within a nine-month window
+- Employer holds active Department of Defense contracts
+- Vanished three days before an MIT physicist was killed ten miles away
+
+## Counterarguments Against Foul Play
+
+- Thomas was reportedly in severe emotional distress after losing both parents within hours of each other, just weeks before his disappearance
+- Police stated no foul play is suspected
+- His work in chemical biology and drug discovery has no apparent connection to aerospace, propulsion, UAP, or energy technology
+- Bodies found in frozen New England lakes after winter disappearances, while tragic, are not uncommon
+- No evidence Thomas possessed classified information or was involved in defense research beyond his employer's general DoD contracts
+- The UAP connection is based primarily on timing and Rep. Burchett's pattern identification
+
+## See Also
+
+- [Jason Thomas](/uaps/Details/Jason_Thomas) — Full profile in the UAPs Murders section
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist shot dead three days after Thomas vanished, ten miles away
+- [William McCasland](William_McCasland.md) — USAF Major General, missing since February 2026
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace materials scientist, vanished 2025
+- [Holistic Doctor Deaths](Holistic_Doctor_Deaths.md) — Pattern of alternative medicine practitioners and cancer researchers dying under suspicious circumstances since 2015
+- [Timothy Cunningham](Timothy_Cunningham.md) — CDC epidemiologist, similar pattern: all belongings left behind, body found in water weeks later
+
+## Sources
+
+- [NBC News/Dateline: Missing husband Jason Thomas](https://www.nbcnews.com/dateline/missing-in-america/jason-thomas-missing-wakefield-massachusetts-rcna263785)
+- [Boston.com: Body pulled from Wakefield lake](https://www.boston.com/news/local-news/2026/03/17/body-pulled-from-wakefield-lake-believed-to-be-that-of-missing-man/)
+- [NBC Boston: Body recovered from lake](https://www.nbcboston.com/news/local/wakefield-body-lake/3917208/)
+- [Daily Voice: Body Of Wakefield Man Found In Lake](https://dailyvoice.com/ma/wakefield/body-of-jason-thomas-found-in-wakefield-lake-3-months-later/)
+- [CrimeOnline: Scientist Still Missing](https://www.crimeonline.com/2026/01/05/he-literally-vanished-scientist-still-missing-weeks-after-hes-seen-walking-near-train-tracks/)
+- [Boston 25 News: He literally vanished](https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/)
+- [Daily Caller: High-Profile Scientists Dead or Missing](https://dailycaller.com/2026/03/23/high-profile-scientists-dead-missing-gop-rep-suggestsconspiracy-play/)
+- [GoFundMe: Help Us Bring Jason Home](https://www.gofundme.com/f/samu3c-help-us-bring-jason-home)
+
+*This information was compiled by Claude AI research.*

@@ -26,6 +26,8 @@ In 2017, Elizondo resigned from the Department of Defense in protest, citing exc
 
 He is a graduate of the University of Miami, where he studied microbiology and immunology.
 
+Elizondo is represented by constitutional attorney **Daniel Sheehan** (Harvard Law, Harvard Divinity School), founder of the New Paradigm Institute, who also formerly served as legal counsel for Steven Greer's Disclosure Project. Elizondo has stated that a major obstacle to UAP transparency within the Pentagon was a "huge group of people" who believed the phenomenon was demonic — a [theological opposition](../Luciferian_Temptation.md) that contributed to his resignation.
+
 ## Why This Person Matters
 
 - Led the Pentagon's only known official UAP investigation program (AATIP) from within the Department of Defense
@@ -39,6 +41,7 @@ He is a graduate of the University of Miami, where he studied microbiology and i
 
 ## See Also
 
+- [The Luciferian Temptation](../Luciferian_Temptation.md) — How Pentagon officials' belief that UAPs are demonic obstructed Elizondo's work; his attorney Daniel Sheehan's clash with this faction
 - [David Grusch](David_Grusch.md) — UAP whistleblower who made similar claims before Congress in 2023
 - [Ryan Graves](Ryan_Graves.md) — Navy pilot and founder of Americans for Safe Aerospace
 - [Bob Lazar](Bob_Lazar.md) — Earlier whistleblower who claimed to work on alien craft at S-4
