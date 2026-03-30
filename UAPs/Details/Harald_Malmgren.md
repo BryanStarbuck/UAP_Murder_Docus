@@ -2,6 +2,12 @@
 # Harald Malmgren
 Economist and diplomatic advisor who served under Presidents Kennedy, Johnson, Nixon, and Ford. In the final months of his life, he made dramatic public claims about handling UFO debris and witnessing a craft shoot-down in 1962. However, FBI files declassified in May 2025 proved he fabricated key claims about his security clearances and role. Died of natural causes at age 89.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Harald Malmgren](images/Harald_Malmgren.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Harald B. Malmgren |

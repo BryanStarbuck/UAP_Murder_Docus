@@ -2,6 +2,12 @@
 # Philip Leonard
 LANL high-explosives synthesis chemist killed February 27, 2024 in a head-on car crash on the road to Los Alamos National Laboratory at age 44. The other driver crossed the double yellow line; officially ruled a traffic accident. Some X theorists include Leonard's death as a possible precursor to the 2025 New Mexico defense-corridor scientist cluster. McCasland disappeared exactly two years to the day after Leonard's crash.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Leonard](images/Philip_Leonard.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dr. Philip William Leonard |

@@ -2,6 +2,12 @@
 # Karl Wolfe
 Former US Air Force sergeant with a top secret crypto clearance who worked as a precision electronics photographic repairman at Langley Air Force Base, and who testified at the 2001 National Press Club Disclosure Project that he was shown NASA Lunar Orbiter photographs depicting artificial structures on the far side of the Moon. Wolfe was killed on October 10, 2018, at age 74, when he was struck by a tractor-trailer while riding his bicycle in Lansing, New York.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Karl Wolfe](images/Karl_Wolfe.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Karl Robert Wolfe |

@@ -2,6 +2,12 @@
 # Amy Catherine Eskridge
 Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide at age 34 in Huntsville, Alabama — the same city where [Ning Li](Ning_Li.md) conducted DOD-funded anti-gravity research.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Amy Catherine Eskridge](images/Amy_Eskridge.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Amy Catherine Eskridge (married name: Pettigrew) |

@@ -2,6 +2,12 @@
 # Trevor James Constable
 New Zealand-born merchant marine officer, orgone energy researcher, and etheric weather engineer who spent decades developing and demonstrating Reich-inspired weather modification technology at sea.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Trevor James Constable](images/Trevor_Constable.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Trevor James Constable |

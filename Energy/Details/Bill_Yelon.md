@@ -2,6 +2,12 @@
 # Bill Yelon
 Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his device.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Bill Yelon](images/Bill_Yelon.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Bill Yelon |

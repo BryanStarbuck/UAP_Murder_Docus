@@ -2,6 +2,12 @@
 # Nuno Loureiro
 MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center. Shot at his Brookline, Massachusetts residence on December 15, 2025; died December 16, 2025 at age 47. His killer, Claudio Manuel Neves Valente, was linked to the Brown University shooting two days earlier and was motivated by a personal grudge from their university years in Portugal. MIT has stated Loureiro did no classified work. X/social media theorists have alleged a fusion/UAP propulsion connection, but no evidence supports this.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nuno Loureiro](images/Nuno_Loureiro.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nuno Filipe Lopes Loureiro |

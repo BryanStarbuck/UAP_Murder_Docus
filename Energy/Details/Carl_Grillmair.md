@@ -2,6 +2,12 @@
 # Dr. Carl Johann Grillmair
 Caltech astrophysicist at IPAC. Instrument characterization specialist for NEO Surveyor — the first space telescope built to find objects that could hit Earth. Ran QA on the NEOWISE Science Data Center. 147 peer-reviewed papers. Shot dead on his front porch at 6:10 a.m. on February 16, 2026, in Llano, California. The suspect, Freddy Snyder, had been arrested on Grillmair's property two months earlier with a loaded, unregistered rifle — but the charges were dismissed eleven days before the killing. Snyder has been charged with murder and is awaiting trial.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Dr. Carl Johann Grillmair](images/Carl_Grillmair.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Carl Johann Grillmair |

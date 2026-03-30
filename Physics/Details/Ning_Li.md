@@ -2,6 +2,12 @@
 # Ning Li
 Chinese-American physicist who published peer-reviewed theoretical work on generating gravitational fields using rotating superconductors, received a $448,970 DoD grant, then vanished from public science — her research apparently classified and her cognitive capacity destroyed by a 2014 vehicle accident.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ning Li](images/Ning_Li.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ning Li |

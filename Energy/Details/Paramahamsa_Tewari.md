@@ -1,6 +1,12 @@
 # Paramahamsa Tewari
 Retired Executive Director of Nuclear Projects at the Nuclear Power Corporation of India (NPCIL) — one of the most senior nuclear energy officials in India. Developed Space Vortex Theory and built the Tewari Reactionless Generator (T-RLG), which he claimed operated at over 250% efficiency by extracting energy from the structure of space itself. His work received early commendation from Nobel Laureates. According to alternative media sources, India permitted development of his technology despite alleged threats from the UK, US, and Saudi Arabia. Died November 27, 2017, at age 80.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Paramahamsa Tewari](images/Paramahamsa_Tewari.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Paramahamsa Tewari |

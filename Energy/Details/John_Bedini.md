@@ -2,6 +2,12 @@
 # John Bedini
 American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 — only four hours after his brother Gary also died.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Bedini](images/John_Bedini.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John C. Bedini |

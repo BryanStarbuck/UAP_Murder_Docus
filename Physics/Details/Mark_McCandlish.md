@@ -2,6 +2,12 @@
 # Mark McCandlish
 Aerospace illustrator with three decades of experience who produced the most detailed technical illustrations and engineering analysis of the Alien Reproduction Vehicle (ARV) / Flux Liner — an electrogravitic craft allegedly displayed at Norton Air Force Base in 1988 — and who died of a gunshot wound in 2021 reportedly after offering to testify before the Senate Intelligence Committee.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Mark McCandlish](images/Mark_McCandlish.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Mark McCandlish |

@@ -2,6 +2,12 @@
 # Thomas E. Bearden
 Retired U.S. Army Lieutenant Colonel and inventor of the Motionless Electromagnetic Generator (MEG), who spent decades advocating for zero-point energy extraction and scalar electromagnetics. Held US Patent 6,362,718 for the MEG. Collaborated with [John Bedini](John_Bedini.md) for over 20 years.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Thomas E. Bearden](images/Thomas_Bearden.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Thomas Eugene Bearden |

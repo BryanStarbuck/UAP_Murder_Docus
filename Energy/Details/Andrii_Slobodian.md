@@ -1,6 +1,12 @@
 # Andrii Slobodian
 Ukrainian inventor of the MG10 perpetual magnet generator. Died of carbon monoxide poisoning in a small apartment fire in Seoul, South Korea, on August 21, 2020. He was the founder of Infinity SAV, a Korean company developing magnetic motor generators claiming 10 kW output with no conventional energy input. The company ceased operations after his death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Andrii Slobodian](images/Andrii_Slobodian.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Andrii Slobodian |

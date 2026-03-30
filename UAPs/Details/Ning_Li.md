@@ -2,6 +2,12 @@
 # Ning Li
 Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published no results, was struck by a vehicle in 2014 causing permanent brain damage, and died in 2021 after years of decline from Alzheimer's disease.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ning Li](images/Ning_Li.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ning Li |

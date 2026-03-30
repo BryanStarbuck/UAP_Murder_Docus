@@ -2,6 +2,12 @@
 # John Searl
 British inventor of the Searl Effect Generator (SEG), a claimed free-energy and anti-gravity device. Spent decades facing suppression, arson, equipment seizure, imprisonment, and financial ruin. Died of pneumonia on December 4, 2018, at age 86.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Searl](images/John_Searl.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Roy Robert Searl |

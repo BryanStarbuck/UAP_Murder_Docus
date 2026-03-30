@@ -2,6 +2,12 @@
 # Stanton Friedman
 Nuclear physicist who worked on classified fission and fusion rocket programs, later became the world's foremost scientific UFO researcher, and proposed magnetohydrodynamic (MHD) propulsion as the physics behind UFO flight characteristics.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Stanton Friedman](images/Stanton_Friedman.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Stanton Terry Friedman |

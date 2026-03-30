@@ -2,6 +2,12 @@
 # Gaurav Tiwari
 India's foremost paranormal and UFO investigator found dead at home from asphyxiation, ruled suicide — family disputes ruling, he had told wife a "negative force" was pulling him.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gaurav Tiwari](images/Gaurav_Tiwari.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gaurav Tiwari |

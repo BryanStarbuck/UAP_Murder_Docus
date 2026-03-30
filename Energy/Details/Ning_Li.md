@@ -2,6 +2,12 @@
 # Dr. Ning Li
 Chinese-American physicist who published groundbreaking anti-gravity research, received DOD funding, obtained top secret clearance, then vanished from public life for 17 years before dying of Alzheimer's disease.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Dr. Ning Li](images/Ning_Li.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ning Li |

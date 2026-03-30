@@ -2,6 +2,12 @@
 # Amy Eskridge
 Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who was found dead from a gunshot wound at age 34 in June 2022; officially ruled a suicide, but retired UK intelligence officer Franc Milburn alleged to Congress that she was murdered because of her antigravity and advanced propulsion research.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Amy Eskridge](images/Amy_Eskridge.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Amy Catherine Eskridge |

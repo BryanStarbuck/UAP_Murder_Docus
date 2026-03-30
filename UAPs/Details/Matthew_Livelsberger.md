@@ -2,6 +2,12 @@
 # Matthew Livelsberger
 Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the Trump International Hotel in Las Vegas. Cause of death was a self-inflicted gunshot wound to the head before the detonation. Some X/social media theorists alleged he was a UAP/drone whistleblower who was silenced; the FBI investigation concluded it was a PTSD-related suicide with political protest intent. Livelsberger left notes describing the act as a "wakeup call."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Matthew Livelsberger](images/Matthew_Livelsberger.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Matthew Alan Livelsberger |

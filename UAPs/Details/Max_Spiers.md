@@ -2,6 +2,12 @@
 # Max Spiers
 British UFO researcher and conspiracy theorist who died mysteriously in Warsaw, Poland in 2016 after sending his mother a text warning: "If anything happens to me, investigate."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Max Spiers](images/Max_Spiers.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Max Spiers |

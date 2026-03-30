@@ -2,6 +2,12 @@
 # Amy Eskridge
 Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who researched gravity modification, metamaterials, and advanced propulsion, and whose death at age 34 was alleged by a retired UK intelligence officer to be connected to her antigravity research.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Amy Eskridge](images/Amy_Eskridge.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Amy Catherine Eskridge |

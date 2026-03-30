@@ -2,6 +2,12 @@
 # Jacob Prichard
 Acquisition Project Manager in AFRL's Sensors Directorate at Wright-Patterson Air Force Base. On October 25, 2025, he killed his wife [Jaymee Prichard](Jaymee_Prichard.md) by strangulation, broke into the apartment of his colleague [1st Lt. Jaime Gustitus](Jaime_Gustitus.md) and shot her to death, then killed himself at the West Milton Municipal Building. Three Wright-Patterson employees dead in one night. AFOSI is investigating. No motive has been established.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Jacob Prichard](images/Jacob_Prichard.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Jacob E. Prichard |

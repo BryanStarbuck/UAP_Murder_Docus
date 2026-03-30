@@ -2,6 +2,12 @@
 # Stanton Friedman
 Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart attack at Toronto airport in 2019 at age 84.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Stanton Friedman](images/Stanton_Friedman.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Stanton Terry Friedman |

@@ -2,6 +2,12 @@
 # Aaron Salter Jr.
 Retired Buffalo police officer and security guard who had demonstrated water-powered car prototypes on local television, killed in the Tops supermarket mass shooting in Buffalo, New York on May 14, 2022.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Aaron Salter Jr.](images/Aaron_Salter_Jr.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Aaron W. Salter Jr. |

@@ -2,6 +2,12 @@
 # Max Spiers
 British UFO and conspiracy researcher who investigated secret military programs, mind control, and alleged "super soldier" experiments, and who died under disputed circumstances in Warsaw, Poland, at age 39 after reportedly vomiting liters of black liquid -- days after texting his mother, "If anything happens to me, investigate."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Max Spiers](images/Max_Spiers.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Maxwell Lindsay Herbert Bates-Spiers |

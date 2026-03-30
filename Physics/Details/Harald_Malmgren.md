@@ -2,6 +2,12 @@
 # Harald Malmgren
 Economist and diplomat who served four U.S. presidents, then made dramatic late-life claims about handling UFO debris and witnessing a craft shoot-down in 1962. His claims gained traction in UAP physics communities before being debunked by declassified FBI files proving he fabricated key assertions about his security clearances and role.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Harald Malmgren](images/Harald_Malmgren.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Harald B. Malmgren |

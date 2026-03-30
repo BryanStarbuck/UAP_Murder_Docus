@@ -3,6 +3,12 @@
 
 American inventor, audio engineer, and free energy researcher who spent over four decades developing electromagnetic motor-generators and battery charging systems that allegedly produced more energy output than input, collaborating extensively with retired Army lieutenant colonel Tom Bearden on scalar electromagnetics and vacuum energy extraction theory.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Bedini](images/John_Bedini.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Charles Bedini |

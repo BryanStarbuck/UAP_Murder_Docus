@@ -2,6 +2,12 @@
 # Karl Wolfe
 Former US Air Force sergeant and Disclosure Project witness who claimed he saw NASA photos of alien structures on the far side of the Moon; killed when struck by a tractor trailer while cycling in 2018.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Karl Wolfe](images/Karl_Wolfe.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Karl Wolfe |

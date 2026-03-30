@@ -2,6 +2,12 @@
 # Mark McCandlish
 Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly after offering to testify before the Senate Intelligence Committee about the Alien Reproduction Vehicle (ARV) / Flux Liner.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Mark McCandlish](images/Mark_McCandlish.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Mark McCandlish |

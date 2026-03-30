@@ -2,6 +2,12 @@
 # Jason Thomas
 Assistant director of chemical biology at Novartis Institutes for BioMedical Research (NIBR) in Cambridge, Massachusetts. Disappeared from his Wakefield, MA home on December 12, 2025, three days before MIT fusion physicist Nuno Loureiro was assassinated in nearby Brookline. His body was recovered from Lake Quannapowitt on March 17, 2026. Thomas, 45, had recently lost both parents within hours of each other in November 2025. Novartis holds active contracts with the U.S. Department of Defense and has previously worked with the Department of Health and Human Services. His death is part of a cluster of five scientists who died or vanished between June 2025 and March 2026.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Jason Thomas](images/Jason_Thomas.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Jason Thomas |

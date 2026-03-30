@@ -2,6 +2,12 @@
 # Philip Haney
 Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound in 2020, officially ruled a suicide two years later, under circumstances that many colleagues and supporters have disputed.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Haney](images/Philip_Haney.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Philip B. Haney |

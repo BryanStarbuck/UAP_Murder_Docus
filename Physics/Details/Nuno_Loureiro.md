@@ -2,6 +2,12 @@
 # Nuno Loureiro
 Portuguese-born plasma physicist, Herman Feshbach Professor of Physics at MIT, and director of the MIT Plasma Science and Fusion Center, who was fatally shot at his home in Brookline, Massachusetts on December 15, 2025, at the age of 47.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nuno Loureiro](images/Nuno_Loureiro.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nuno Filipe Gomes Loureiro |

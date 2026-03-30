@@ -2,6 +2,12 @@
 # Carl Grillmair
 Caltech/IPAC astrophysicist with nearly 30 years at the Infrared Processing and Analysis Center, 147 peer-reviewed papers, and instrument characterization work on NEO Surveyor — the first space telescope built specifically to detect objects that could hit Earth. Shot and killed on the porch of his home in Llano, California on February 16, 2026, at age 67. Suspect Freddy Snyder, 29, was arrested and charged with murder. According to The Sentinel Network's investigation, Snyder had been found on Grillmair's property with an unregistered loaded rifle 58 days earlier, was arrested on two felonies, had both charges dismissed 11 days before the killing, and then returned to shoot Grillmair dead. Detectives say the two men did not know each other. No motive has been publicly disclosed.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Carl Grillmair](images/Carl_Grillmair.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Carl Johann Grillmair |

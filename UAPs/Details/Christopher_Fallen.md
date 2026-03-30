@@ -2,6 +2,12 @@
 # Christopher Fallen
 Former HAARP chief scientist and AFRL senior research physicist specializing in ionospheric plasma physics and directed energy. Murdered February 6, 2024 in Albuquerque, New Mexico at age 46. Found bound and asphyxiated in his home. Officially ruled a robbery-murder — one suspect convicted and sentenced to life; the other died of a drug overdose before trial. X theorists flag the AFRL/HAARP ties and geographic overlap with the later New Mexico defense-corridor scientist cluster.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Christopher Fallen](images/Christopher_Fallen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dr. Christopher Thomas Fallen |

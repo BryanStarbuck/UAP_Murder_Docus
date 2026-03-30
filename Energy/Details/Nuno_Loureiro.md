@@ -2,6 +2,12 @@
 # Nuno Filipe Gomes Loureiro
 Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nuno Filipe Gomes Loureiro](images/Nuno_Loureiro.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nuno Filipe Gomes Loureiro |

@@ -2,6 +2,12 @@
 # Major General William Neil McCasland (USAF, Ret.)
 Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program Oversight Committee (SAPOC) — the body with full purview of every SAP in the Department of Defense. Named in WikiLeaks Podesta emails coordinating UAP disclosure meeting with Clinton campaign and Lockheed Martin Skunk Works head. Vanished from his Albuquerque home on February 27, 2026. His phone, glasses, and wearable devices were left behind. FBI searching. His disappearance occurred eight months after the inventor of the superalloy his budget funded — [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — vanished from a ridgeline 800 miles away.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Major General William Neil McCasland (USAF, Ret.)](images/William_Neil_McCasland.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | William Neil McCasland |
