@@ -2,6 +2,13 @@
 # Philip J. Corso
 Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D, author of *The Day After Roswell* (1997), in which he claimed he oversaw the seeding of recovered alien technology to American defense contractors.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philip Corso](images/Philip_Corso.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Philip James Corso |

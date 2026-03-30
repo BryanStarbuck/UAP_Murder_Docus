@@ -2,6 +2,12 @@
 # Boyd Bushman
 Lockheed Martin senior scientist with 26 patents and a 40-year defense aerospace career who recorded a deathbed video claiming direct involvement in antigravity research and reverse-engineering of exotic propulsion technology at Area 51.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Boyd Bushman](images/Boyd_Bushman.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Boyd Bushman |

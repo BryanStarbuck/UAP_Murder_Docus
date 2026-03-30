@@ -2,6 +2,13 @@
 # George Knapp
 Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35 years investigating UAP, testified before Congress in 2025, and has reported that his sources have been surveilled and burglarized.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![George Knapp](images/George_Knapp.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | George T. Knapp |

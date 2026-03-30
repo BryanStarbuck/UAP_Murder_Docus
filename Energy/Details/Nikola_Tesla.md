@@ -2,6 +2,12 @@
 # Nikola Tesla
 Pioneer of alternating current, wireless energy transmission, and directed energy weapons, whose papers were seized by the FBI and Office of Alien Property immediately after his death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nikola Tesla](images/Nikola_Tesla.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nikola Tesla |

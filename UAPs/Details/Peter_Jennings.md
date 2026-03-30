@@ -2,6 +2,13 @@
 # Peter Jennings
 ABC World News Tonight anchor who produced and hosted a major primetime UFO special featuring extensive whistleblower interviews, then was diagnosed with aggressive lung cancer and died within months of its airing.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Peter Jennings](images/Peter_Jennings.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Peter Charles Jennings |

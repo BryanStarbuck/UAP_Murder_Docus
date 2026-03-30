@@ -2,6 +2,13 @@
 # Frederick Valentich
 Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an unidentified craft hovering above his Cessna 182; neither he nor his aircraft were ever found.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Frederick Valentich](images/Frederick_Valentich.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Frederick Valentich |

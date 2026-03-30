@@ -2,6 +2,13 @@
 # Philo Taylor Farnsworth
 Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion reactions, only to have his fusion research defunded by ITT and abandoned after his death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Philo Farnsworth](images/Philo_Farnsworth.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Philo Taylor Farnsworth |

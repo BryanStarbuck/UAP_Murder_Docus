@@ -2,6 +2,13 @@
 # Dorothy Kilgallen
 Journalist who broke the British military UFO investigation story and was investigating the JFK assassination, found dead under circumstances the medical examiner called "undetermined."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Dorothy Kilgallen](images/Dorothy_Kilgallen.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dorothy Mae Kilgallen |

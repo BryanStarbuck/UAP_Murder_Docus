@@ -2,6 +2,13 @@
 # Don Elkins
 Physics professor, Boeing 727 captain, and co-author of the Ra Material (Law of One), who died of a self-inflicted gunshot wound in Louisville, Kentucky in 1984 after a year of severe mental deterioration.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Don Elkins](images/Don_Elkins.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Donald Tully Elkins |

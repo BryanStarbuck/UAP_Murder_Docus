@@ -2,6 +2,12 @@
 
 Nuclear energy safety whistleblower killed in a single-car crash while driving to meet a New York Times journalist with documents about safety violations and missing plutonium at the Kerr-McGee nuclear plant.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Karen Silkwood](images/Karen_Silkwood.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Karen Gay Silkwood |

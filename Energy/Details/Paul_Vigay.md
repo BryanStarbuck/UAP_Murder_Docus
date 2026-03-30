@@ -2,6 +2,12 @@
 # Paul Vigay
 British computer scientist and leading UFO and crop circle researcher who was found drowned off the coast of Portsmouth, UK. The coroner officially called his death "a mystery" — no suicide note, no clear cause.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Paul Vigay](images/Paul_Vigay.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Paul Vigay |

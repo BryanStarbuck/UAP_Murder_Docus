@@ -2,6 +2,13 @@
 # John E. Mack
 Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in 2004.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Mack](images/John_Mack.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Edward Mack |

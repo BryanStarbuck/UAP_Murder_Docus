@@ -2,6 +2,12 @@
 # Tom Ogle
 El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded, reported being drugged, and died of a Darvon and alcohol overdose ruled suicide.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Tom Ogle](images/Tom_Ogle.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Thomas Hans Werner Peter "Tom" Ogle |

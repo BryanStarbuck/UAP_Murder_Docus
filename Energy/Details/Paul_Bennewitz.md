@@ -2,6 +2,12 @@
 # Paul Bennewitz
 Electrical engineer and precision instrument manufacturer who founded Thunder Scientific Corporation — deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign after he intercepted classified military signals near Kirtland Air Force Base.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Paul Bennewitz](images/Paul_Bennewitz.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Paul Frederic Bennewitz Jr. |

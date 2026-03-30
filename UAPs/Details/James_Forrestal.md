@@ -2,6 +2,13 @@
 # James V. Forrestal
 First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances in 1949.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![James Forrestal](images/James_Forrestal.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | James Vincent Forrestal |

@@ -2,6 +2,13 @@
 # Nikola Tesla
 Legendary inventor of AC electricity and wireless power transmission who died alone in a New York hotel room in 1943; the FBI and Office of Alien Property immediately seized approximately 80 trunks of his papers, many of which remain unaccounted for.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nikola Tesla](images/Nikola_Tesla.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nikola Tesla |

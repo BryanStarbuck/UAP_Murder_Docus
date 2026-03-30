@@ -1,6 +1,12 @@
 # Ken Shoulders
 Internationally recognized as the "father of vacuum microelectronics." Discovered Exotic Vacuum Objects (EVOs) — compact clusters of millions of electrons that should repel each other but form stable structures. His charge cluster research implied revolutionary energy generation potential. Richard Feynman initially dismissed his findings, then acknowledged Shoulders was correct. Worked under CIA contract and self-censored knowing his discoveries would be suppressed. Died June 7, 2013, at age 86.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ken Shoulders](images/Ken_Shoulders.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Kenneth Radford Shoulders |

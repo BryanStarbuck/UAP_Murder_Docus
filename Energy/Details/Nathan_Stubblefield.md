@@ -2,6 +2,12 @@
 
 Earth battery inventor and wireless telephone pioneer who was systematically defrauded by business partners, stripped of his patents, and found dead alone in his shack — starved to death, his body gnawed by his starving cat.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nathan Stubblefield](images/Nathan_Stubblefield.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nathan Beverly Stubblefield |

@@ -2,6 +2,13 @@
 # Don C. Wiley
 One of America's foremost microbiologists who vanished after a banquet and was found in the Mississippi River — FBI declared he "fell from a bridge" despite six-foot fences making accidental falls nearly impossible.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Don Wiley](images/Don_Wiley.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Don Cleveland Wiley |

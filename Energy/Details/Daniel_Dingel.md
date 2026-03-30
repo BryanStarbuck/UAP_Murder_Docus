@@ -2,6 +2,12 @@
 
 Filipino inventor who demonstrated a water-powered car for decades, then was convicted of fraud at age 82 and sentenced to 20 years in prison. Died shortly after imprisonment.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Daniel Dingel](images/Daniel_Dingel.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Daniel Dingel |

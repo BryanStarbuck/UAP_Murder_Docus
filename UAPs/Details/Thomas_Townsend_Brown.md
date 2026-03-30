@@ -2,6 +2,13 @@
 # Thomas Townsend Brown
 American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985 after decades of semi-retirement.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Thomas Townsend Brown](images/Thomas_Townsend_Brown.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Thomas Townsend Brown |

@@ -2,6 +2,13 @@
 # Edward J. Ruppelt
 First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of a heart attack at 37.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Edward Ruppelt](images/Edward_Ruppelt.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Edward James Ruppelt |

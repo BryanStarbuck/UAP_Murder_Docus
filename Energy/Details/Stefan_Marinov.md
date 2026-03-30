@@ -2,6 +2,12 @@
 # Stefan Marinov
 Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of Graz library in Austria under disputed circumstances.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Stefan Marinov](images/Stefan_Marinov.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Stefan Marinov |

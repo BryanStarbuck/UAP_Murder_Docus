@@ -2,6 +2,12 @@
 # Wilbert B. Smith
 Canadian government engineer who ran Project Magnet -- Canada's official program to investigate whether Earth's magnetic field could be exploited as a propulsion and energy source, possibly inspired by UFO propulsion systems. Died of cancer at 52 after instructing his wife to hide all research files.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Wilbert Smith](images/Wilbert_Smith.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Wilbert Brockhouse Smith |

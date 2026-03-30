@@ -2,6 +2,12 @@
 # Morris K. Jessup
 Astronomer and author who investigated antigravity propulsion and unified field theory, found dead of carbon monoxide poisoning the day after calling a friend in high spirits about a breakthrough in his research. The Office of Naval Research had taken an unusual interest in his annotated book discussing antigravity technology.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Morris Jessup](images/Morris_Jessup.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Morris Ketchum Jessup |

@@ -2,6 +2,13 @@
 # Stanley Meyer
 Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at a restaurant in 1998, reportedly exclaiming "They poisoned me" before collapsing.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Stanley Meyer](images/Stanley_Meyer.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Stanley Allen Meyer |

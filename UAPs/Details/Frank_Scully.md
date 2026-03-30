@@ -2,6 +2,13 @@
 # Frank Scully
 American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery, died of a heart attack on June 23, 1964.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Frank Scully](images/Frank_Scully.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Frank Scully |

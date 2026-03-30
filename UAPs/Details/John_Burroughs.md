@@ -2,6 +2,13 @@
 # John Burroughs
 U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from the encounter and won an unprecedented VA disability settlement acknowledging UAP-related injuries.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Burroughs](images/John_Burroughs.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Burroughs |

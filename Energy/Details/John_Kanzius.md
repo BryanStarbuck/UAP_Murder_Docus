@@ -2,6 +2,12 @@
 # John S. Kanzius
 American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and whose research stalled after his death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Kanzius](images/John_Kanzius.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John S. Kanzius |

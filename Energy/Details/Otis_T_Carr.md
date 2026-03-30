@@ -2,6 +2,12 @@
 
 Protege of Nikola Tesla who claimed to have built an antigravity spacecraft, arrested on fraud charges just before a public demonstration, and died penniless in a Pittsburgh slum.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Otis T Carr](images/Otis_T_Carr.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Otis T. Carr |

@@ -2,6 +2,13 @@
 # Andrija Puharich
 Medical inventor, physician, and parapsychological researcher who patented a method for splitting water molecules. His home was destroyed by arson in 1979, and he died in 1995 after falling down a flight of stairs.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Andrija Puharich](images/Andrija_Puharich.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Andrija Karel Puharich (born Henry Karel Puharich) |

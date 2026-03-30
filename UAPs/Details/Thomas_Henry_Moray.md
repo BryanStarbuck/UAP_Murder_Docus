@@ -2,6 +2,13 @@
 # Thomas Henry Moray
 Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg, and whose device was destroyed by his own assistant with an ax.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Thomas Henry Moray](images/Thomas_Henry_Moray.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Thomas Henry Moray |

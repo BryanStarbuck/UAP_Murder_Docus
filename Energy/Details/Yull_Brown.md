@@ -2,6 +2,12 @@
 
 Bulgarian-born inventor of "Brown's Gas" (HHO) — a water-derived fuel demonstrated to cut through metals and neutralize radioactive waste — who died penniless despite holding valuable patents.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Yull Brown](images/Yull_Brown.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Yull Brown (born Ilya Velbov) |

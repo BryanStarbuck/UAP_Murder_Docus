@@ -2,6 +2,12 @@
 
 Former NASA astronaut and zero-point energy advocate who died of aggressive intestinal cancer just six days after diagnosis, after becoming one of the most credible public voices for free energy technology.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Brian OLeary](images/Brian_OLeary.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Brian Todd O'Leary |

@@ -2,6 +2,13 @@
 # Viktor Schauberger
 Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs during WWII, then was brought to the United States in 1958 where he was coerced into signing over all rights to his work — and died five days after returning to Austria.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Viktor Schauberger](images/Viktor_Schauberger.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Viktor Schauberger |

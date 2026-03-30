@@ -2,6 +2,12 @@
 # Floyd Sweet
 American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned barium ferrite magnets that reportedly produced 500 watts of output from 33 microwatts of input. Received death threats, and his wife reported that men visited their home shortly before he was found dead.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Floyd Sweet](images/Floyd_Sweet.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Floyd "Sparky" Sweet |

@@ -2,6 +2,13 @@
 # Phil Schneider
 Ex-government geologist and structural engineer who claimed involvement in building deep underground military bases (DUMBs) and an alleged firefight with aliens at Dulce, New Mexico. Found dead in his apartment with a catheter tube wrapped around his neck.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Phil Schneider](images/Phil_Schneider.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Philip Schneider |

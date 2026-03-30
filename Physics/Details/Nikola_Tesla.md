@@ -2,6 +2,12 @@
 # Nikola Tesla
 Inventor of alternating current, wireless power transmission, and directed-energy weapons whose 300+ patents laid the groundwork for modern electrical engineering — and whose seized papers may contain physics breakthroughs that were classified by the US government in 1943 and have never been released.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Nikola Tesla](images/Nikola_Tesla.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Nikola Tesla |

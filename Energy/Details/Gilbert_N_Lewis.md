@@ -2,6 +2,12 @@
 
 Pioneering chemist who coined the word "photon" and did foundational work on thermodynamics, found dead in his Berkeley laboratory near a broken line of liquid hydrogen cyanide after lunching with his longtime rival.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gilbert N Lewis](images/Gilbert_N_Lewis.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gilbert Newton Lewis |

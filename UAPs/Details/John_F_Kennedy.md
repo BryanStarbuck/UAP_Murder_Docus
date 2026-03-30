@@ -2,6 +2,13 @@
 # John F. Kennedy
 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven Greer, claim UFO disclosure was among the motives for his killing, citing a disputed memo allegedly sent to the CIA ten days before his death. The UFO connection remains highly speculative; mainstream assassination theories center on Cold War politics, the CIA, organized crime, and Cuba.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John F Kennedy](images/John_F_Kennedy.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Fitzgerald Kennedy |

@@ -2,6 +2,13 @@
 # Paul Bennewitz
 Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign after he inadvertently intercepted classified military signals near Kirtland Air Force Base.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Paul Bennewitz](images/Paul_Bennewitz.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Paul Frederic Bennewitz Jr. |

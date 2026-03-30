@@ -2,6 +2,12 @@
 # Fred Bell
 Nuclear physicist, high-temperature fusion researcher, and inventor who died within 48 hours of filming an interview with Jesse Ventura in which he discussed classified directed-energy beam weapon technology. His early career included work on fusion experiments, magnetic disintegration, and nuclear particle bombardment.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Fred Bell](images/Fred_Bell.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dr. Fred Bell |

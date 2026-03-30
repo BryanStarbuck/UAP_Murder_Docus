@@ -2,6 +2,12 @@
 # Eugene Mallove
 Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich, Connecticut.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Eugene Mallove](images/Eugene_Mallove.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Eugene Franklin Mallove |

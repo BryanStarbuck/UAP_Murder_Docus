@@ -2,6 +2,12 @@
 # Bruce DePalma
 American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved to New Zealand after "a lifetime of resistance" in the US and died weeks before official testing of his device was to take place.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Bruce DePalma](images/Bruce_DePalma.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Bruce Eldridge DePalma |

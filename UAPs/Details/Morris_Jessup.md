@@ -2,6 +2,13 @@
 # Morris K. Jessup
 Astronomer and UFO author who investigated antigravity and the Philadelphia Experiment, found dead in his car under disputed circumstances.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Morris Jessup](images/Morris_Jessup.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Morris Ketchum Jessup |

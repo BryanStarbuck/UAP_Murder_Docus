@@ -2,6 +2,12 @@
 # Paul Brown
 Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear decay directly into AC electricity without nuclear reaction or radioactive waste — killed in an automobile accident after years of documented harassment including robberies, vandalism, false drug accusations, and a pipe bombing.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Paul Brown](images/Paul_Brown.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Paul Maurice Brown |

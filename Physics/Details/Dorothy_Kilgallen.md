@@ -2,6 +2,12 @@
 # Dorothy Kilgallen
 Pioneering American journalist, syndicated columnist, and television personality on CBS's *What's My Line?*, who investigated both the JFK assassination and UFO phenomena, and whose death at age 52 from a combination of barbiturates and alcohol was ruled "circumstances undetermined" by the New York City medical examiner.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Dorothy Kilgallen](images/Dorothy_Kilgallen.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Dorothy Mae Kilgallen |

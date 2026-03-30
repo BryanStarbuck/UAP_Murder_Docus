@@ -2,6 +2,13 @@
 # Frank Olson
 CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to his death from a 13th-floor hotel window nine days later, in a case that has been variously classified as suicide, misadventure, and possible homicide.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Frank Olson](images/Frank_Olson.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Frank Rudolph Emmanuel Olson |

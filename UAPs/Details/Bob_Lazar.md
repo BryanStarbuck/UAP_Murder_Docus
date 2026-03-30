@@ -2,6 +2,13 @@
 # Bob Lazar
 Physicist who claims he reverse-engineered alien spacecraft at the S-4 facility near Area 51, and has faced ongoing government harassment, raids, and credibility attacks since going public in 1989.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Bob Lazar](images/Bob_Lazar.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Robert Scott Lazar |

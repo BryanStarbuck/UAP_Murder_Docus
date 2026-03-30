@@ -2,6 +2,13 @@
 # Ivan T. Sanderson
 British-born biologist and founder of the Society for the Investigation of the Unexplained (SITU), died of fast-acting brain cancer at 62.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ivan Sanderson](images/Ivan_Sanderson.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ivan Terence Sanderson |

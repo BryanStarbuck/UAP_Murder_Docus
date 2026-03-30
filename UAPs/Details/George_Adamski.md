@@ -2,6 +2,13 @@
 # George Adamski
 The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![George Adamski](images/George_Adamski.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | George Adamski |

@@ -2,6 +2,13 @@
 # Luis "Lue" Elizondo
 Former head of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), UAP whistleblower, author of *Imminent*, and the most prominent government insider advocating for UAP disclosure.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Lue Elizondo](images/Lue_Elizondo.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Luis Elizondo |

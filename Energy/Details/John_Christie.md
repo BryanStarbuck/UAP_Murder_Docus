@@ -2,6 +2,12 @@
 # John Christie
 Australian inventor who co-developed the Lutec 1000 over-unity electromagnetic device with [Lou Britz](Lou_Britz.md). According to alternative energy community sources and social media posts, Christie reportedly "vanished" at some point and was later confirmed dead in 2017, under circumstances that remain poorly documented.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Christie](images/John_Christie.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Christie |

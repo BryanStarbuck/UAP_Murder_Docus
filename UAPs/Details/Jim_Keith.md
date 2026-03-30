@@ -2,6 +2,13 @@
 # Jim Keith
 Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following knee surgery after a fall at the Burning Man festival in 1999.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Jim Keith](images/Jim_Keith.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | James Patrick Keith |

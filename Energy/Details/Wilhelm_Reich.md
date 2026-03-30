@@ -2,6 +2,12 @@
 # Wilhelm Reich
 Austrian-born psychiatrist and psychoanalyst who developed "orgone energy" theory and accumulator devices, imprisoned after FDA injunction, and died in federal prison one day before he was eligible to apply for parole — following the only government-sanctioned book burning in United States history.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Wilhelm Reich](images/Wilhelm_Reich.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Wilhelm Reich |

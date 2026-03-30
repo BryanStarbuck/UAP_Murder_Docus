@@ -2,6 +2,13 @@
 # Jim Sullivan
 Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien abduction, then disappeared without a trace in the New Mexico desert in 1975 under circumstances that remain unexplained.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Jim Sullivan](images/Jim_Sullivan.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Jim Sullivan |

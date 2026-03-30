@@ -2,6 +2,13 @@
 # Eugene Mallove
 Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004 while cleaning a rental property; his murder was eventually linked to a robbery rather than his research.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Eugene Mallove](images/Eugene_Mallove.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Eugene Franklin Mallove |

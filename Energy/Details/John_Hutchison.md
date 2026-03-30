@@ -1,6 +1,12 @@
 # John Hutchison
 Canadian inventor whose laboratory was seized by the Canadian government on direct orders from Prime Minister Brian Mulroney in 1990 — and retained despite a Supreme Court of British Columbia order to return it. His lab contained priceless replications of Nikola Tesla equipment and was the site of the "Hutchison Effect" — levitation, fusion of dissimilar materials, and spontaneous fracturing of metals via interacting electromagnetic fields. U.S. military officials including Lt. Col. John B. Alexander visited his lab. Evicted again in 2010 by mayoral order.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![John Hutchison](images/John_Hutchison.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | John Kenneth Hutchison |

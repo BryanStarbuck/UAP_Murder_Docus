@@ -2,6 +2,13 @@
 # Leonard H. Stringfield
 Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft, former military intelligence officer, and founder of CRIFO -- one of the world's largest civilian UFO research organizations in the 1950s.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Leonard Stringfield](images/Leonard_Stringfield.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Leonard H. Stringfield |

@@ -2,6 +2,13 @@
 # David Grusch
 Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S. government possesses retrieved non-human craft and biologics, and who reported severe retaliation for his whistleblowing.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![David Grusch](images/David_Grusch.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | David Charles Grusch |

@@ -2,6 +2,13 @@
 # Coral Lorenzen
 Co-founder of APRO, one of the oldest civilian UFO research organizations, died of health complications after both she and her husband were struck down within two years of each other.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Coral Lorenzen](images/Coral_Lorenzen.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Coral E. Lorenzen |

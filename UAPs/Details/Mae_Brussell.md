@@ -2,6 +2,13 @@
 # Mae Brussell
 Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death threats while investigating the Presidio military base child abuse scandal.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Mae Brussell](images/Mae_Brussell.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Mae Magnin Brussell |

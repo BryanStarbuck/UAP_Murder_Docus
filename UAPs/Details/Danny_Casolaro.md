@@ -2,6 +2,13 @@
 # Danny Casolaro
 Investigative journalist found dead in a hotel bathtub with wrists slashed 12 times while investigating "The Octopus" — a network connecting PROMIS software, Iran-Contra, Area 51, and Majestic 12.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Danny Casolaro](images/Danny_Casolaro.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Joseph Daniel Casolaro |

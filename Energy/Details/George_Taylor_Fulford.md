@@ -2,6 +2,12 @@
 
 Major General Electric shareholder killed in a car crash one week after announcing his intention to fund Nikola Tesla's wireless energy transmission project. Canada's first automobile fatality.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![George Taylor Fulford](images/George_Taylor_Fulford.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | George Taylor Fulford |

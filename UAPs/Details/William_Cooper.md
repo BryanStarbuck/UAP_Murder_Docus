@@ -2,6 +2,13 @@
 # William Cooper
 Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and predicted a 9/11-type event. Shot and killed by sheriff's deputies during a nighttime tactical operation at his home two months after 9/11.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![William Cooper](images/William_Cooper.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Milton William Cooper |

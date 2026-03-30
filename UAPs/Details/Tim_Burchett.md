@@ -2,6 +2,13 @@
 # Tim Burchett
 U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army Special Forces and intelligence community personnel that "they'd have no problem having you killed" for pursuing UAP disclosure.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Tim Burchett](images/Tim_Burchett.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Timothy Floyd Burchett |

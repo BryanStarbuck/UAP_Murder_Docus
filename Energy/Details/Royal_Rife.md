@@ -1,6 +1,12 @@
 # Royal Raymond Rife
 American inventor and microscopist who developed frequency-based electromagnetic devices for destroying pathogens. His laboratory was raided, equipment was destroyed, his business partner was imprisoned, and Rife fled to Mexico after a decades-long campaign by the AMA to suppress his technology.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Royal Rife](images/Royal_Rife.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Royal Raymond Rife Jr. |

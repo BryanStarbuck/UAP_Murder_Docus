@@ -2,6 +2,13 @@
 # Rudolf Diesel
 Inventor of the diesel engine, disappeared from the SS Dresden while crossing the English Channel en route to meet the British Royal Navy about powering submarines with his engine.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Rudolf Diesel](images/Rudolf_Diesel.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Rudolf Christian Karl Diesel |

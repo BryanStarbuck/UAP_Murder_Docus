@@ -2,6 +2,13 @@
 # Walter Haut
 USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release announcing the recovery of a "flying disc," and who left a sealed affidavit — opened after his death — claiming he personally saw alien bodies and a craft in a base hangar.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Walter Haut](images/Walter_Haut.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Walter G. Haut |

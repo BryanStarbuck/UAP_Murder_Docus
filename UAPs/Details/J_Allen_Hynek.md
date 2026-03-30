@@ -2,6 +2,13 @@
 # J. Allen Hynek
 Astronomer who served as scientific consultant to Project Blue Book, evolved from UFO skeptic to the field's most credible scientific advocate, died of brain tumor at 75.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![J Allen Hynek](images/J_Allen_Hynek.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Josef Allen Hynek |

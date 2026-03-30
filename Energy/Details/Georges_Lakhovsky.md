@@ -1,6 +1,12 @@
 # Georges Lakhovsky
 Russian-born French engineer and inventor of the Multi-Wave Oscillator, struck and killed by a limousine in New York in 1942 just as his electromagnetic therapy device was producing reported results in hospital trials. His equipment was immediately removed from hospitals after his death.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Georges Lakhovsky](images/Georges_Lakhovsky.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Georges Lakhovsky (born Georgei Lakhovsky) |

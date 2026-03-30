@@ -2,6 +2,13 @@
 # James E. McDonald
 Senior atmospheric physicist whose career and marriage were systematically destroyed before he was found dead in the Arizona desert.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![James McDonald](images/James_McDonald.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | James Edward McDonald |

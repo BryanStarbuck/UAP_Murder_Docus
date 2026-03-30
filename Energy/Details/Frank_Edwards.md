@@ -2,6 +2,12 @@
 # Frank Edwards
 Prominent 1950s–60s UFO author and radio broadcaster who died of a heart attack on the exact 20th anniversary of Kenneth Arnold's June 24, 1947 sighting — the event that launched the modern UFO era.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Frank Edwards](images/Frank_Edwards.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Frank Allyn Edwards |

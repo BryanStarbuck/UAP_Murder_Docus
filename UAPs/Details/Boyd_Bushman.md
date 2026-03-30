@@ -2,6 +2,13 @@
 # Boyd Bushman
 Lockheed Martin senior scientist with a 40-year career in defense aerospace, holder of 26 patents, who recorded a deathbed video in 2014 claiming he had direct contact with aliens and reverse-engineered technology at Area 51.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Boyd Bushman](images/Boyd_Bushman.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Boyd Bushman |

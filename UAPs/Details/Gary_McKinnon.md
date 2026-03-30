@@ -2,6 +2,13 @@
 # Gary McKinnon
 Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups, found references to "non-terrestrial officers," and faced 70 years in prison before the UK blocked his extradition on human rights grounds.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Gary McKinnon](images/Gary_McKinnon.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Gary McKinnon |

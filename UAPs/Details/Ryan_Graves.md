@@ -2,6 +2,13 @@
 # Ryan Graves
 Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about UAP encounters, and founder of Americans for Safe Aerospace.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Ryan Graves](images/Ryan_Graves.jpg)
+
+</div>
+
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Ryan Graves |

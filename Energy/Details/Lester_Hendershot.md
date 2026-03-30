@@ -2,6 +2,12 @@
 # Lester Hendershot
 Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in 1928, was hospitalized after being shocked by his own device, and died under disputed circumstances in 1961.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Lester Hendershot](images/Lester_Hendershot.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Lester Jennings Hendershot |
