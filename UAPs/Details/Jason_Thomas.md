@@ -6,6 +6,8 @@ Assistant director of chemical biology at Novartis Institutes for BioMedical Res
 
 ![Jason Thomas](images/Jason_Thomas.jpg)
 
+![Jason Thomas](images/Foo.jpg)
+
 </div>
 
 | Field | Details |

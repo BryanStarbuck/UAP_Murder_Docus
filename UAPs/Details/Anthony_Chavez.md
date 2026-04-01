@@ -2,6 +2,12 @@
 # Anthony "Tony" Chavez
 Former Los Alamos National Laboratory employee who vanished from his Los Alamos home in May 2025 — the first disappearance in what would become the New Mexico defense corridor cluster. Wallet, keys, and cigarettes left on the living room table. Car locked in the driveway. No cell phone to track. No forced entry. No blood. No signs of struggle. Cadaver dogs found nothing. He disappeared six weeks before Melissa Casias and seven weeks before Monica Reza.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Anthony Chavez](images/Foo.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Anthony "Tony" Chavez |

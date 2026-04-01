@@ -2,6 +2,12 @@
 # Frank Werner Maiwald
 Senior technical group supervisor at NASA's Jet Propulsion Laboratory who died suddenly on July 4, 2024, at age 61. No cause of death was disclosed. No press release from JPL. No memorial from NASA. No acknowledgment from Caltech. No news coverage. His obituary is the only public record of his death. He managed dual-use remote sensing instruments — civilian climate monitoring and defense ISR capabilities — including the SBG-VSWIR spectrometer and AMR-C advanced microwave radiometer. His death, identified by The Sentinel Network, extends the 2024-2026 scientist cluster timeline backward by nearly a year.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Frank Maiwald](images/Foo.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Frank Werner Maiwald |

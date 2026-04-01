@@ -2,6 +2,12 @@
 # Melissa Casias
 DOE advisory board member connected to Los Alamos National Laboratory whose husband is a Superintendent III at the laboratory. Vanished from Taos, New Mexico, on June 26, 2025 — four days after Monica Reza disappeared in California and seven weeks after Anthony Chavez vanished from Los Alamos. Both of her phones were factory-reset. Surveillance footage captured her staggering across a road. Her husband says she is not a drinker. She has never been found.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Melissa Casias](images/Foo.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Melissa Casias |

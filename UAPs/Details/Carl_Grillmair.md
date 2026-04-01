@@ -6,6 +6,8 @@ Caltech/IPAC astrophysicist with nearly 30 years at the Infrared Processing and 
 
 ![Carl Grillmair](images/Carl_Grillmair.jpg)
 
+![Carl Grillmair](images/Foo.jpg)
+
 </div>
 
 | Field | Details |

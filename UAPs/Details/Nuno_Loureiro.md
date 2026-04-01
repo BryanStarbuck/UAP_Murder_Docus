@@ -6,6 +6,8 @@ MIT professor of nuclear science and engineering, physics, and director of the M
 
 ![Nuno Loureiro](images/Nuno_Loureiro.jpg)
 
+![Nuno Loureiro](images/Foo.jpg)
+
 </div>
 
 | Field | Details |

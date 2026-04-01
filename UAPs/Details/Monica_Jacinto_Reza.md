@@ -2,6 +2,12 @@
 # Monica Jacinto Reza
 Aerospace materials scientist, co-inventor of the Mondaloy nickel superalloy critical to U.S. national security rocket engines, and former Technical Fellow at Aerojet Rocketdyne. Vanished on June 22, 2025, while hiking near Mount Waterman in the Angeles National Forest. She was last seen smiling and waving approximately 30 feet behind her hiking companion before she simply disappeared. No trace of her has ever been found despite months of extensive search operations. She was declared dead and given a "green burial" just four days after vanishing — while search-and-rescue helicopters were still in the air. Her research was directly funded under the Air Force Research Laboratory budget overseen by Maj. Gen. William McCasland, who himself disappeared eight months later under similarly mysterious circumstances.
 
+<div style={{float: 'right', marginLeft: '1em', marginBottom: '0.5em', maxWidth: '18%'}}>
+
+![Monica Jacinto Reza](images/Foo.jpg)
+
+</div>
+
 | Field | Details |
 |-------|---------|
 | **Full Name** | Monica Jacinto Reza |
