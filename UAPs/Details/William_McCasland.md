@@ -105,6 +105,8 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 
 ## See Also
 
+- [Robert Herbert](Robert_Herbert.md) — Major General and Reid's AAWSAP point man, #4 on Bigoted Access List; killed in solo desert crash 2021
+- [James Ryder](James_Ryder.md) — Lockheed VP who proposed the UAP material transfer to AAWSAP; died unexpectedly in 2018
 - [David Grusch](David_Grusch.md) — UAP whistleblower who testified about recovered craft programs
 - [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
 - [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have worked on alien craft near Area 51
@@ -147,5 +149,6 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 - [Daily Mail: Mystery of five missing scientists sends chill across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
 - [THE LONG COUNT: We Started With Two Names. The List Didn't Stop. — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
+- [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*

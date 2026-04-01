@@ -167,6 +167,7 @@ The parallel is notable: Ryder, the Lockheed VP who allegedly tried to divest UA
 
 ## See Also
 
+- [Robert Herbert](Robert_Herbert.md) — Major General and Reid's AAWSAP point man, #4 on Bigoted Access List; killed in solo desert crash 2021
 - [Boyd Bushman](Boyd_Bushman.md) — Another senior Lockheed Martin scientist who made deathbed UAP claims
 - [Karl Wolfe](Karl_Wolfe.md) — Disclosure Project witness also killed in 2018
 - [Mark McCandlish](Mark_McCandlish.md) — Disclosure witness who died under disputed circumstances
@@ -213,5 +214,6 @@ The parallel is notable: Ryder, the Lockheed VP who allegedly tried to divest UA
 - [EU2012 Speakers — Thunderbolts Project](https://www.thunderbolts.info/wp/2011/10/13/eu2012-speakers/)
 - [James Ryder — Science to Sage Magazine](https://sciencetosagemagazine.com/james-ryder/)
 - [Pedro (@uapdog) on Ryder's Lucis Trust talks — X/Twitter](https://x.com/uapdog/status/1850653496347181491)
+- [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*
