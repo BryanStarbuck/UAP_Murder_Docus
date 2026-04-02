@@ -32,11 +32,15 @@ On June 22, 2025, at approximately 9:10 a.m., Monica Jacinto Reza was hiking on 
 
 Search-and-rescue operations were launched immediately and continued for over a week. The initial search phase involved dozens of agencies, including teams from San Bernardino County and Tulare County, as well as helicopter support, K-9 units, and drones. According to The Sentinel Network's "THE LONG COUNT" investigation (March 18, 2026), the FLIR (forward-looking infrared) search was negative — thermal imaging found nothing. The scent trail ended at a misplaced beanie. The initial phase concluded on June 30, 2025.
 
-The case was transferred to the Los Angeles County Sheriff's Homicide Bureau: Missing Persons Unit for continued investigation. Additional searches were conducted, including on August 8, 2025. Volunteers and authorities searched the area for months using helicopters, radar, large numbers of hikers, and dogs — but found no trace of Reza.
+The case was transferred to the Los Angeles County Sheriff's Homicide Bureau: Missing Persons Unit (Detectives Rincon and Sanchez) for continued investigation. Additional searches were conducted, including on August 8, 2025. Volunteers and authorities searched the area for months using helicopters, radar, large numbers of hikers, and dogs — but found no trace of Reza.
+
+### Telemetric Void
+
+Cell-phone data was obtained by investigators but, according to forensic substack analysis, showed a "telemetric void" — an absence of expected location data. Analysts have noted that NASA/JPL mobile-device security protocols may account for the unusual data profile.
 
 ### The Green Burial
 
-According to investigative reporting by The Sentinel Network, Reza was declared legally dead just four days after she vanished, and a "green burial" was recorded in the Angeles National Forest. As journalist Ross Coulthart noted: "Someone declared Monica Jacinto Reza dead and buried four days into the search. While SAR teams from half the state were still looking." No public reports indicate her remains were ever recovered. No obituary was published. No funeral announcement was issued. The Homicide Bureau Missing Persons Unit has not announced a resolution to the case. As of March 2026, she is still officially listed as a missing person.
+According to investigative reporting by The Sentinel Network (whose "THE GREEN BURIAL" thread received 18,000+ likes), Reza was declared legally dead just four days after she vanished, and a "green burial" was recorded in the Angeles National Forest. As journalist Ross Coulthart noted: "Someone declared Monica Jacinto Reza dead and buried four days into the search. While SAR teams from half the state were still looking." No public reports indicate her remains were ever recovered. No obituary was published. No funeral announcement was issued. The Homicide Bureau Missing Persons Unit has not announced a resolution to the case. As of March 2026, she is still officially listed as a missing person.
 
 ## Background
 
@@ -48,7 +52,7 @@ Monica Jacinto Reza was an aerospace materials scientist with a distinguished ca
 - **Associate Fellow of the American Institute of Aeronautics and Astronautics (AIAA)**
 - **Co-inventor of the Mondaloy superalloy** — a family of nickel-based superalloys designed to withstand extreme heat and oxygen-rich environments inside rocket engines. Mondaloy is now built into the engines replacing Russian-made RD-180 rockets for American national security launches. She held the patent.
 - Previously held roles as a **Fellow in Structural Alloys at Pratt & Whitney** (later part of Raytheon Technologies / RTX)
-- After Aerojet Rocketdyne was acquired by L3Harris Technologies for $4.7 billion in 2023, Reza joined **NASA's Jet Propulsion Laboratory (JPL)** as **Director of the Materials Processing Group**
+- After Aerojet Rocketdyne was acquired by L3Harris Technologies for $4.7 billion in 2023, Reza joined **NASA's Jet Propulsion Laboratory (JPL)** as **Director of the Materials Processing Group**, reportedly moving to JPL under a different professional name (she used the name "Jacinto" professionally)
 
 She held a Bachelor's degree from Columbia University and a Master of Science in Materials Engineering from UCLA (1994-1997).
 
@@ -81,7 +85,10 @@ Grillmair's IPAC and Reza's JPL are the same institutional family — the same c
 - **National security expertise** — co-inventor of a superalloy critical to U.S. national security rocket launches; holder of the patent
 - **Connection to McCasland** — her research was funded under McCasland's AFRL budget. He vanished eight months later under similarly mysterious circumstances
 - **Two people connected to the same defense research program missing** — both Reza and McCasland had connections to advanced aerospace research funded through AFRL
-- **Case transferred to Homicide Bureau** — the LASD moved the case from missing persons to the Homicide Bureau's Missing Persons Unit, suggesting investigators did not treat this as a routine hiking accident
+- **Burchett questions UFO-tech origin** — according to the Daily Mail, Congressman Tim Burchett has questioned whether the materials Reza worked on originated from UFO technology
+- **Case transferred to Homicide Bureau** — the LASD moved the case from missing persons to the Homicide Bureau's Missing Persons Unit (Detectives Rincon and Sanchez), suggesting investigators did not treat this as a routine hiking accident
+- **Telemetric void** — cell-phone data obtained by investigators showed an absence of expected location data, potentially due to NASA/JPL mobile-device security protocols
+- **Congressional attention** — Rep. Eric Burlison posted "I am not suicidal" under a Reza/McCasland graphic on social media, signaling congressional awareness of the pattern
 
 ## The Counterargument
 

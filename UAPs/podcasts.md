@@ -1,3 +1,4 @@
+[< Back to UAP Deaths List](index.md) | [Books](books.md) | [YouTube Channels](youtube_channels.md)
 
 # UAP Podcasts — Disclosure, Whistleblowers, and Suspicious Deaths
 
@@ -241,7 +242,7 @@ Richard Dolan is one of the most respected UAP historians and researchers alive.
 - Historical treatment of [J. Allen Hynek](Details/J_Allen_Hynek.md), [James Forrestal](Details/James_Forrestal.md), and Project Blue Book
 - Analysis of the Majestic-12 documents and their connection to [Stanton Friedman](Details/Stanton_Friedman.md)'s research
 
-**Profiled People Covered:** [James Forrestal](Details/James_Forrestal.md), [J. Allen Hynek](Details/J_Allen_Hynek.md), [David Grusch](Details/David_Grusch.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Frank Olson](Details/Frank_Olson.md), [Philip Corso](Details/Philip_Corso.md)
+**Profiled People Covered:** [James Forrestal](Details/James_Forrestal.md), [J. Allen Hynek](Details/J_Allen_Hynek.md), [David Grusch](Details/David_Grusch.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Philip Corso](Details/Philip_Corso.md)
 
 ---
 
@@ -531,13 +532,12 @@ The granddaddy of all paranormal radio shows. Art Bell created the format in 198
 **Notable Coverage Relevant to This Project:**
 - Art Bell's original interviews with [Bob Lazar](Details/Bob_Lazar.md) in the 1990s, bringing his Area 51 claims to national attention
 - [Phil Schneider](Details/Phil_Schneider.md) gave interviews in the mid-1990s on similar late-night radio shows discussing underground bases and alien encounters before his suspicious death in 1996
-- [William Cooper](Details/William_Cooper.md)'s appearances during the Art Bell era discussing government UFO programs
 - [Stanton Friedman](Details/Stanton_Friedman.md)'s decades of appearances discussing Roswell and MJ-12
 - [Fred Bell](Details/Fred_Bell.md) appeared on the show shortly before his death in 2011
 - Richard Dolan discussing underwater UFOs and the current state of disclosure
 - Danny Sheehan on UAP Disclosure Act advocacy
 
-**Profiled People Covered:** [George Knapp](Details/George_Knapp.md) (regular host), [Bob Lazar](Details/Bob_Lazar.md), [Phil Schneider](Details/Phil_Schneider.md), [William Cooper](Details/William_Cooper.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Fred Bell](Details/Fred_Bell.md), [J. Allen Hynek](Details/J_Allen_Hynek.md) (historical references)
+**Profiled People Covered:** [George Knapp](Details/George_Knapp.md) (regular host), [Bob Lazar](Details/Bob_Lazar.md), [Phil Schneider](Details/Phil_Schneider.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Fred Bell](Details/Fred_Bell.md), [J. Allen Hynek](Details/J_Allen_Hynek.md) (historical references)
 
 ---
 
@@ -659,7 +659,7 @@ A comedy-horror podcast that has covered numerous true crime and paranormal case
 - **Episode 582 — [Phil Schneider](Details/Phil_Schneider.md)**: "Aliens Attack Part I" — detailed coverage of Schneider's life, claims, lectures, and suspicious death (July 19, 2024).
 - Coverage of government conspiracies, MKUltra, and intelligence operations that overlap with cases in this project.
 
-**Profiled People Covered:** [Phil Schneider](Details/Phil_Schneider.md), [Frank Olson](Details/Frank_Olson.md) (MKUltra episodes)
+**Profiled People Covered:** [Phil Schneider](Details/Phil_Schneider.md)
 
 ---
 
@@ -749,17 +749,6 @@ These are not active podcasts but represent historically significant audio recor
 | **Platform** | Various YouTube and archive uploads |
 
 Audio and video recordings of [Phil Schneider](Details/Phil_Schneider.md)'s public lectures from 1995-96 about underground bases (DUMBs), the alleged 1979 Dulce firefight with alien beings, and government black projects. Schneider stated in multiple lectures that if he were found dead, it should not be considered suicide. He was found dead in his apartment in Wilsonville, Oregon in January 1996, officially ruled a suicide.
-
----
-
-### William Cooper's Hour of the Time (1993-2001)
-
-| Field | Details |
-|-------|---------|
-| **Host** | [William Cooper](Details/William_Cooper.md) |
-| **Platform** | hourofthetime.com, various archives |
-
-Cooper's shortwave radio show where he discussed government UFO programs, secret societies, and classified documents. Cooper was killed by Apache County Sheriff's deputies in November 2001. His radio archives remain one of the most extensive collections of claims about government UFO secrecy from the pre-internet era.
 
 ---
 
@@ -859,13 +848,6 @@ The most prolific podcast guest in UAP disclosure history. Following his August 
 - Her death and UAP investigations are discussed on Richard Dolan Intelligent Disclosure and various true crime/conspiracy podcasts
 - She reportedly interviewed a Roswell crash survivor and was investigating the JFK assassination before her death
 
-### [William Cooper](Details/William_Cooper.md) — Killed 2001
-- His own radio show Hour of the Time ran from 1993-2001
-- Called into Coast to Coast AM during the Art Bell era
-- His claims and death are discussed across multiple shows
-
----
-
 ## Patterns Across Podcasts
 
 **The "Grusch Effect"**: [David Grusch](Details/David_Grusch.md)'s July 2023 congressional testimony created an explosion of UAP podcast content. Virtually every show listed here produced multiple episodes analyzing his claims. His statement that he had "personal knowledge" of people being harmed or killed to conceal UAP technology is directly relevant to this project's scope and is referenced across dozens of episodes.
@@ -878,7 +860,7 @@ The most prolific podcast guest in UAP disclosure history. Following his August 
 
 **George Knapp as the Common Thread**: [George Knapp](Details/George_Knapp.md) connects the old era and the new. He broke the [Bob Lazar](Details/Bob_Lazar.md) story in 1989, hosted Coast to Coast AM, and now co-hosts Weaponized. His journalism spans the entire modern UAP era and he has interviewed or investigated many of the people profiled in this project.
 
-**Last Interviews Before Death**: Several people profiled in this project gave what turned out to be their last public statements on podcasts or radio shows. [Phil Schneider](Details/Phil_Schneider.md)'s 1995 lectures, [William Cooper](Details/William_Cooper.md)'s Hour of the Time broadcasts, and [Fred Bell](Details/Fred_Bell.md)'s Coast to Coast AM appearance are all examples. These recordings serve as primary source material for understanding what these individuals claimed to know.
+**Last Interviews Before Death**: Several people profiled in this project gave what turned out to be their last public statements on podcasts or radio shows. [Phil Schneider](Details/Phil_Schneider.md)'s 1995 lectures and [Fred Bell](Details/Fred_Bell.md)'s Coast to Coast AM appearance are examples. These recordings serve as primary source material for understanding what these individuals claimed to know.
 
 ---
 
@@ -896,12 +878,12 @@ These podcasts serve as both primary sources (when they feature interviews with 
 
 ## See Also
 
-- [UAP Deaths Master List]#
+- [UAP Deaths Master List](index.md)
 - [Books](books.md) — Published investigations and insider accounts
 - [YouTube Channels](youtube_channels.md) — Video coverage and interviews
-- [Epstein Kill List]# — Parent project
+- [Epstein Kill List](https://intelligencemurders.com/epstein-murders) — Parent project
 - [Energy Suppression](/energy/) — Suppressed energy research deaths
-- [Intel Murders]# — Intelligence service killings
+- [Intel Murders](https://intelligencemurders.com/intelligence-service-murders) — Intelligence service killings
 
 ---
 

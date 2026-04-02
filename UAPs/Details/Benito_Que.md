@@ -86,7 +86,6 @@ The connection between the microbiologist deaths and UAP research is considered 
 
 - [Don Wiley](Don_Wiley.md) — Harvard microbiologist who disappeared three days after Que's death
 - [Danny Casolaro](Danny_Casolaro.md) — journalist found dead investigating government programs
-- [Frank Olson](Frank_Olson.md) — CIA scientist whose death was connected to biological weapons programs
 - [Ron Bonds](Ron_Bonds.md) — UFO publisher who died of statistically improbable food poisoning months before Que in April 2001
 - [Dean Warwick](Dean_Warwick.md) — collapsed dead mid-lecture, another case of sudden unexpected death connected to classified knowledge
 

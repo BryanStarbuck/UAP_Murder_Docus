@@ -52,7 +52,7 @@ The initial ruling of suicide was challenged by Casolaro's family and by journal
 - The **House Judiciary Committee** investigated the Inslaw affair, and in a 1992 report stated that the committee had "received allegations that several persons who have been combative with the Department of Justice on Inslaw and related matters have died under suspicious circumstances."
 - An **FBI task force** that examined Casolaro's death reportedly included members who "questioned the conclusion of suicide" and recommended further investigation. It was later revealed that the FBI had misled Congress about the extent of its investigation into Casolaro's death.
 - Casolaro's surviving research notes were passed by his family to **ABC News** and **Time** magazine, both of which investigated the case but did not publish definitive findings about the manner of death.
-- In **2024**, Netflix released a four-part documentary series titled *American Conspiracy: The Octopus Murders*, directed by Zachary Treitz, which re-examined Casolaro's investigation and death, bringing renewed public attention to the case.
+- In **2024**, Netflix released a four-part documentary series titled [*American Conspiracy: The Octopus Murders*](https://www.netflix.com/title/81168725), directed by Zachary Treitz, which re-examined Casolaro's investigation and death, bringing renewed public attention to the case.
 
 ## The Counterargument
 
@@ -89,7 +89,7 @@ Casolaro's death at 44 -- while reportedly on the verge of completing his invest
 - [The Strange Death of Daniel Casolaro - Project Censored](https://www.projectcensored.org/11-the-strange-death-of-daniel-casolaro/)
 - [FBI Cites Mystery FOIA Exemption to Withhold Danny Casolaro Death Video - MuckRock](https://www.muckrock.com/news/archives/2018/feb/08/casolaro-reenactment/)
 - [The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal - Cheri Seymour (Book)](https://www.amazon.com/Last-Circle-Casolaros-Investigation-Software/dp/1936296004)
-- [American Conspiracy: The Octopus Murders - Netflix Documentary Series (2024)](https://www.netflix.com/tudum/articles/american-conspiracy-octopus-murders-release-date-trailer-news)
+- [American Conspiracy: The Octopus Murders - Netflix (2024)](https://www.netflix.com/title/81168725)
 - [Inslaw - Wikipedia](https://en.wikipedia.org/wiki/Inslaw)
 
 *This information was compiled by Claude AI research.*

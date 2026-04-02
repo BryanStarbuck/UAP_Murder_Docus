@@ -36,7 +36,7 @@ The connection between UFO contact experiences and government psychic research p
 - A note referencing "Project Scanate" and Pentagon funding was found in his personal effects after death — Project Scanate was a real classified CIA/DIA remote viewing program
 - His sister testified that he was approached by intelligence operatives from a PSI-tech company in Austin, Texas, approximately one year before his death
 - The operatives allegedly told him they were experimenting with "psychic warfare techniques"
-- Drug overdoses have been used as a cover for intelligence-related deaths in documented cases (e.g., Frank Olson's MKULTRA connection)
+- Drug overdoses have been used as a cover for intelligence-related deaths in documented cases
 - Lynch's death fits a broader pattern of young contactees and psychics dying under questionable circumstances after contact with intelligence programs
 - However, very little publicly verifiable information exists about Lynch, making independent confirmation of these claims difficult
 - Drug overdoses among young people, while tragic, are not inherently suspicious without additional context
@@ -44,7 +44,6 @@ The connection between UFO contact experiences and government psychic research p
 ## See Also
 
 - [Don Elkins](Don_Elkins.md) — UFO researcher and channeler who died of a gunshot wound in 1984
-- [Frank Olson](Frank_Olson.md) — CIA scientist dosed with LSD under MKULTRA who fell from a hotel window
 - [Jim Sullivan](Jim_Sullivan.md) — Musician who disappeared in the New Mexico desert in 1975
 
 ## Other Shocking Stories

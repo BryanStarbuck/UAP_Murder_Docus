@@ -79,7 +79,6 @@ However, these claims are contradicted by:
 ## See Also
 
 - [Philip Haney](Philip_Haney.md) — Government whistleblower found dead from gunshot wound, ruled suicide
-- [William Cooper](William_Cooper.md) — Military veteran and whistleblower killed in 2001
 
 ## Other Shocking Stories
 

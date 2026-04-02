@@ -10,9 +10,9 @@ Port: **3847** — run `npm start -- --port 3847` to serve at http://localhost:3
 
 | Top Bar Label                | Local Docs Dir | Content Source                                              |
 |------------------------------|----------------|-------------------------------------------------------------|
-| UAPs Murders (General)       | `UAPs/`        | `~/BGit/Bryan/Epstein_Kull_List/other/UAPs`                 |
-| UAP Energy Systems Murders   | `Energy/`      | `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy`    |
-| UAP Physics Murders          | `Physics/`     | `~/BGit/Bryan/Deep_State/other/UAP_Physics`                 |
+| UAPs Murders (General)       | `UAPs/`        | `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs`                 |
+| UAP Energy Systems Murders   | `Energy/`      | `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy`    |
+| UAP Physics Murders          | `Physics/`     | `~/BGit/Bryan_git/Deep_State/other/UAP_Physics`                 |
 
 ## Content Sync
 
@@ -23,29 +23,29 @@ Content flows one direction: **external source → local docs dirs**. Local form
 ### Source → Local File Mapping
 
 **UAPs Murders (General)** (`UAPs/`):
-- `~/BGit/Bryan/Epstein_Kull_List/other/UAPs/README.md` → `UAPs/index.md` (with frontmatter added, nav links replaced)
-- `~/BGit/Bryan/Epstein_Kull_List/other/UAPs/books.md` → `UAPs/books.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/UAPs/podcasts.md` → `UAPs/podcasts.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/UAPs/youtube_channels.md` → `UAPs/youtube_channels.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/UAPs/Details/*.md` → `UAPs/Details/*.md` (back-nav links removed)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs/README.md` → `UAPs/index.md` (with frontmatter added, nav links replaced)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs/books.md` → `UAPs/books.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs/podcasts.md` → `UAPs/podcasts.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs/youtube_channels.md` → `UAPs/youtube_channels.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/UAPs/Details/*.md` → `UAPs/Details/*.md` (back-nav links removed)
 
 **UAP Energy Systems Murders** (`Energy/`):
-- `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy/README.md` → `Energy/index.md` (with frontmatter added, nav links replaced)
-- `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy/other/books.md` → `Energy/books.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy/other/podcasts.md` → `Energy/podcasts.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy/other/youtube_channels.md` → `Energy/youtube_channels.md`
-- `~/BGit/Bryan/Epstein_Kull_List/other/Zero_Point_Energy/Details/*.md` → `Energy/Details/*.md` (back-nav links removed)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy/README.md` → `Energy/index.md` (with frontmatter added, nav links replaced)
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy/other/books.md` → `Energy/books.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy/other/podcasts.md` → `Energy/podcasts.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy/other/youtube_channels.md` → `Energy/youtube_channels.md`
+- `~/BGit/Bryan_git/Epstein_Kull_List/other/Zero_Point_Energy/Details/*.md` → `Energy/Details/*.md` (back-nav links removed)
 
 **UAP Physics Murders** (`Physics/`):
-- `~/BGit/Bryan/Deep_State/other/UAP_Physics/README.md` → `Physics/index.md` (with frontmatter added, nav links replaced)
-- `~/BGit/Bryan/Deep_State/other/UAP_Physics/Details/*.md` → `Physics/Details/*.md` (back-nav links removed)
+- `~/BGit/Bryan_git/Deep_State/other/UAP_Physics/README.md` → `Physics/index.md` (with frontmatter added, nav links replaced)
+- `~/BGit/Bryan_git/Deep_State/other/UAP_Physics/Details/*.md` → `Physics/Details/*.md` (back-nav links removed)
 
 ### Sync Procedure
 
 1. Record the current commit hash of each source repo.
 2. Compare against the `last_synced_commit` below to find what changed:
-   - `git -C ~/BGit/Bryan/Epstein_Kull_List log --name-only <last_synced_commit>..HEAD -- other/UAPs other/Zero_Point_Energy`
-   - `git -C ~/BGit/Bryan/Deep_State log --name-only <last_synced_commit>..HEAD -- other/UAP_Physics`
+   - `git -C ~/BGit/Bryan_git/Epstein_Kull_List log --name-only <last_synced_commit>..HEAD -- other/UAPs other/Zero_Point_Energy`
+   - `git -C ~/BGit/Bryan_git/Deep_State log --name-only <last_synced_commit>..HEAD -- other/UAP_Physics`
 3. For **new files**: copy them in and apply local formatting (remove nav links, add frontmatter if needed).
 4. For **modified files**: check if we have local formatting changes. If yes, merge only the content changes from the source — do NOT overwrite local formatting or frontmatter.
 5. For **deleted files**: remove the corresponding local file.
@@ -153,15 +153,15 @@ Each cross-link is a bold paragraph with a few descriptive words and a hyperlink
 
 | Site | Public URL | Local Repo |
 |------|-----------|------------|
-| UAP Murders | https://uapmurders.com/ | `~/BGit/Bryan/UAP_Murder_Docus` |
-| Intelligence Murders | https://intelligencemurders.com/ | `~/BGit/Bryan/Intel_Murder_Docus` |
+| UAP Murders | https://uapmurders.com/ | `~/BGit/Bryan_git/UAP_Murder_Docus` |
+| Intelligence Murders | https://intelligencemurders.com/ | `~/BGit/Bryan_git/Intel_Murder_Docus` |
 
 ## Last Sync
 
-**Source: `~/BGit/Bryan/Epstein_Kull_List/`** (UAPs, Energy):
+**Source: `~/BGit/Bryan_git/Epstein_Kull_List/`** (UAPs, Energy):
 - **Last synced commit**: `9cd1feefc1547020c87d332109983c2ce3988882`
 - **Last synced date**: 2026-03-26
 
-**Source: `~/BGit/Bryan/Deep_State/`** (Physics):
+**Source: `~/BGit/Bryan_git/Deep_State/`** (Physics):
 - **Last synced commit**: `e01c2404628eee833bec601678fc028bd703748d`
 - **Last synced date**: 2026-03-26

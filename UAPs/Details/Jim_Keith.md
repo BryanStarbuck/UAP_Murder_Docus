@@ -64,7 +64,6 @@ Keith's work frequently intersected with intelligence agency operations, mind co
 ## See Also
 
 - [Mae Brussell](Mae_Brussell.md) — Conspiracy researcher who died of fast-acting cancer after death threats
-- [William Cooper](William_Cooper.md) — Conspiracy author and Naval intelligence veteran shot in 2001
 - [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died mid-sentence at a conference
 - [Max Spiers](Max_Spiers.md) — UFO researcher who died mysteriously in Warsaw after warning his mother
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who died while investigating classified information

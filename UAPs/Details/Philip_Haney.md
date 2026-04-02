@@ -65,14 +65,11 @@ Haney was also reportedly engaged to be married at the time of his death, which 
 - [Philip Haney (Epstein List)]# — This case also appears in the main Epstein Kill List
 - [Philip Haney (Intel Murders)]# — This case also appears in the Intelligence Service Murders project
 - [James Forrestal](James_Forrestal.md) — Government insider who fell from a hospital window in 1949
-- [Frank Olson](Frank_Olson.md) — CIA scientist who fell from a hotel window in 1953
-- [William Cooper](William_Cooper.md) — Government whistleblower shot by sheriff's deputies in 2001
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
 
 ## Other Shocking Stories
 
 - [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
-- [Frank Olson](Frank_Olson.md): CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to...
 - [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
 - [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
 

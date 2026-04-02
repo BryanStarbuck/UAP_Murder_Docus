@@ -27,9 +27,9 @@ Jason Thomas's death is tragic but the UAP connection is speculative. His work a
 
 ## Circumstances of Death
 
-On the evening of December 12, 2025, Jason Thomas left his home on Murray Street in Wakefield, Massachusetts, sometime around midnight. According to his wife Kristen, the couple had gone out socializing earlier that evening — one of the first times they had gone out since Jason's parents both died in November 2025.
+On the evening of December 12, 2025, Jason Thomas left his home on Murray Street in Wakefield, Massachusetts. He was last seen at approximately 11:53 p.m. walking in the area of Murray Street and Chestnut Street. According to his wife Kristen Bartoli, the couple had gone out socializing earlier that evening with friends — the first social outing since Jason's parents both died in November 2025. Thomas told his wife he was going for a "late-night walk."
 
-Thomas's wife found his Apple Watch in the mailbox he had opened earlier that night. His phone and wallet were left on the bathroom counter. He was last seen on surveillance footage walking in the area of Murray Street and Chestnut Street.
+Thomas's wife found his Apple Watch in the mailbox he had opened earlier that night. His phone and wallet were left on the bathroom counter.
 
 Despite extensive searches by Wakefield police, state police, and volunteer groups, no trace of Thomas was found for three months. On March 17, 2026, a Wakefield police detective searching around Lake Quannapowitt spotted a body in the previously frozen water. Police used a drone to confirm the discovery, and fire crews recovered the body. Preliminary identification based on clothing suggested it was Thomas.
 
@@ -47,7 +47,7 @@ Jason Thomas was the assistant director of chemical biology at Novartis Institut
 - **High-throughput screening** — developing methods to rapidly evaluate potential drug compounds
 - According to the Daily Mail, his work included potential treatments for cancer
 
-He co-authored publications in ACS Chemical Biology and other journals on topics including targeted protein degradation using PROTACs and molecular glues, and novel approaches to identifying chemical starting points for drug discovery.
+He held an ACS (American Chemical Society) fellowship early in his career. He co-authored publications in ACS Chemical Biology and other journals on topics including targeted protein degradation using PROTACs and molecular glues, and novel approaches to identifying chemical starting points for drug discovery.
 
 ### Novartis Defense Connections
 
@@ -57,7 +57,7 @@ According to the Daily Mail, Novartis has active contracts with the U.S. Departm
 
 Thomas had experienced devastating personal loss shortly before his disappearance. In November 2025, his mother died in hospice care. According to NBC News/Dateline reporting, just one hour later, as Jason and his father were preparing funeral details, his father collapsed in his arms and died of a heart attack. Both parents died within hours of each other.
 
-His wife told reporters that Jason was struggling with the sudden loss of both parents when he vanished.
+His wife told reporters that Jason was struggling with the sudden loss of both parents when he vanished. She said: "This isn't like him." Thomas was described as a devoted husband, "fur dad" to five dogs, and beloved uncle.
 
 ## Why This Death Possibly Raises Questions
 

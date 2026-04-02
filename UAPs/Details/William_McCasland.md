@@ -22,13 +22,15 @@ The disappearance of Major General McCasland is deeply concerning on multiple le
 
 ## Current Situation
 
-On February 27, 2026, at approximately 11:00 a.m., William Neil McCasland left his Albuquerque home on foot and has not been in contact with family or friends since. The Bernalillo County Sheriff's Office issued a Silver Alert the following day, which remains in effect.
+On February 27, 2026, William Neil McCasland left his home near Quail Run Court NE in Albuquerque, New Mexico, on foot and has not been in contact with family or friends since. A repairman saw him at approximately 10:00 a.m. His wife Susan left for an appointment at approximately 11:10 a.m.; when she returned at 12:04 p.m., he was gone. He was reported missing at approximately 3:07 p.m. The Bernalillo County Sheriff's Office issued a Silver Alert the following day, which remains in effect.
 
-McCasland left behind his phone, prescription glasses, and wearable devices. Investigators believe his hiking boots, wallet, and a .38-caliber revolver with a leather holster are missing from the residence. Authorities have noted he has an unspecified "medical issue" that has added urgency to the search.
+McCasland left behind his phone, prescription glasses, and wearable devices. Investigators believe his hiking boots, wallet, and a .38-caliber revolver with a leather holster are missing from the residence. Authorities have noted he has an unspecified "medical issue" that has added urgency to the search. According to subsequent reporting, "mental fog" had been reported in the weeks prior to his disappearance.
 
-Search efforts have included drones, helicopter support, ground searches with search-and-rescue teams and K-9 units. The Bernalillo County Sheriff's Office is coordinating with the FBI Albuquerque Field Office and Kirtland Air Force Base. Despite extensive searching, investigators have not identified any confirmed sightings or footage showing McCasland leaving the area or indicating a direction of travel.
+Search efforts have included drones, helicopter support, ground searches with search-and-rescue teams, K-9 units, and volunteer horses. The Bernalillo County Sheriff's Office is coordinating with the FBI Albuquerque Field Office and Kirtland Air Force Base. Searches initially focused on the Sandia Mountains foothills near his Albuquerque home, but have since been extended to McCasland's Pagosa Springs, Colorado home, where clothing was found inside. Independent searchers have noted minimal law enforcement visibility in the desert search areas. A new photo was released showing the clothing McCasland was likely wearing when he disappeared. Despite extensive searching over approximately four weeks, investigators have not identified any confirmed sightings or footage showing McCasland leaving the area or indicating a direction of travel.
 
 According to Ross Coulthart in a March 2026 update, McCasland was **never seen leaving his home** — no security camera footage, no witness sightings, no confirmed direction of travel. For a 68-year-old man walking on foot through a residential neighborhood, this absence of any visual trail is unusual.
+
+An ex-colleague commented on an Instagram reel about the case: "I worked for General McCasland… this is all clickbait silliness."
 
 McCasland's wife, Susan McCasland Wilkerson, has disputed characterizations that he was "confused and disoriented" when he went missing, according to reporting by the Albuquerque Journal. She stated in a Facebook post: "It is true that Neil had a brief association with the UFO community. This connection is not a reason for someone to abduct Neil. Neil does not have any special knowledge about the ET bodies and debris from the Roswell crash stored at Wright-Patt."
 
@@ -49,7 +51,7 @@ McCasland held an extraordinary series of sensitive positions during his militar
 - **Commander, Air Force Research Laboratory** at Wright-Patterson AFB, Ohio — overseeing a total $4.4 billion portfolio ($2.2 billion annual science and technology budget plus $2.2 billion in customer-funded R&D) and the Air Force's entire science and technology portfolio. When he took command in May 2011, [Dallis Hardwick](Dallis_Hardwick.md) was still one of his senior civilian scientists.
 - **Commander, Phillips Research Site** at Kirtland AFB, New Mexico — home of AFRL's Directed Energy Directorate. According to The Sentinel Network's "THE LONG COUNT" investigation, Kirtland and Los Alamos National Laboratory, 100 miles apart, share joint programs in directed energy, weapons physics, and advanced materials. The New Mexico defense corridor is one continuous pipeline.
 - **Chief Engineer** on the Department of Defense's Global Positioning System (GPS) program
-- **System Program Director** of the Space Based Laser Project Office
+- **System Program Director** of the Space Based Laser Project Office — particle-beam and space-weapons background
 - **Director of Special Programs** at the Pentagon
 
 He holds degrees from the U.S. Air Force Academy, the Massachusetts Institute of Technology, and the John F. Kennedy School of Government at Harvard University. He is an astronautical engineer by training. According to The Sentinel Network, at the time of his disappearance he had approximately $450 million in active defense contracts across institutions he built and advised.
@@ -88,6 +90,7 @@ President Trump had announced the release of UFO-related government files approx
 
 - Held some of the most sensitive advanced aerospace research positions in the U.S. military
 - Commanded the Air Force Research Laboratory at Wright-Patterson AFB — a base central to UFO crash-retrieval narratives — and the Phillips Research Site at Kirtland AFB, home of the Directed Energy Directorate
+- According to the Daily Mail, possessed nuclear secrets and worked with recovered UFO technology
 - Was reportedly a primary source for Tom DeLonge's To The Stars Academy
 - An anonymous X account with technical content matching his career went silent the same day he vanished
 - Left without phone or wearable devices, making tracking impossible
@@ -109,6 +112,10 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 - **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
 - **William McCasland** (this profile) — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
 
+### X Discourse and OSINT Coverage
+
+The case has generated intense discussion on X (formerly Twitter). The Sentinel Network (@thesentinelnet) published an OSINT investigation titled "THE GHOST GENERAL" mapping the AFRL funding chain connecting McCasland to Reza. Viral threads list all five scientists together under the framing "5 Dead/Missing Scientists" tied to UFO/advanced technology. Additional names have surfaced in X discourse — including a reported Wright-Patterson triple death and Los Alamos National Laboratory scientist Melissa Casias — but these have not been verified in mainstream reporting. No evidence of a coordinated plot has emerged; most cases have partial official explanations except the two hikers (McCasland and Reza). Investigations remain active where unsolved. As of March 26, 2026, McCasland has been missing for approximately four weeks.
+
 ## See Also
 
 - [Robert Herbert](Robert_Herbert.md) — Major General and Reid's AAWSAP point man, #4 on Bigoted Access List; killed in solo desert crash 2021
@@ -123,7 +130,7 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist murdered December 2025; part of the same five-scientist cluster
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist killed February 2026; part of the same cluster
 - [Jason Thomas](Jason_Thomas.md) — Novartis scientist found dead; part of the same cluster
-- [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of defense scientist deaths and disappearances
+- [AFRL Scientist Cluster (2025-2029)](../../groups/afrl_cluster_2025_2029.md) — The broader pattern of defense scientist deaths and disappearances
 - [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024, same New Mexico defense corridor
 - [John Rossi](John_Rossi.md) — Major General commanding Space and Missile Defense at Redstone Arsenal, found hanged two days before promotion
 

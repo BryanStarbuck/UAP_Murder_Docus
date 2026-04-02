@@ -108,7 +108,7 @@ The official explanation — that Mallove was killed by angry former tenants in 
 
 ## See Also
 
-- [B. Stanley Pons]# — Co-discoverer of cold fusion; Epstein claimed to have "killed" his career
+- [B. Stanley Pons](https://intelligencemurders.com/epstein-murders/Details/B_Stanley_Pons) — Co-discoverer of cold fusion; Epstein claimed to have "killed" his career
 - Martin Fleischmann — Co-discoverer of cold fusion; career destroyed
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Brian O'Leary](Brian_OLeary.md) — NASA astronaut and New Energy Movement co-founder. Moved to Ecuador after Mallove's murder. Died of rapid-onset cancer 6 days after diagnosis

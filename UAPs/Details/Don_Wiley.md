@@ -97,7 +97,6 @@ Wiley's death was the second in the 2001-2002 cluster:
 ## See Also
 
 - [Benito Que](Benito_Que.md) — microbiologist found dead three days before Wiley disappeared
-- [Frank Olson](Frank_Olson.md) — CIA scientist who "fell" from a window in 1953
 - [James Forrestal](James_Forrestal.md) — Secretary of Defense who "fell" from a hospital window
 
 ## Other Shocking Stories
