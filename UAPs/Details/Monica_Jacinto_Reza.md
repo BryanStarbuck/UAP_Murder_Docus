@@ -120,6 +120,23 @@ Reza's disappearance is the first in a cluster of five scientist deaths or disap
 - **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
 - **[William McCasland](William_McCasland.md)** — Retired USAF Major General, AFRL commander. Missing since February 27, 2026. Oversaw the AFRL budget that funded Reza's Mondaloy research.
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+Reza is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **Monica Jacinto Reza** (this profile) — Co-inventor of Mondaloy superalloy. Missing since June 22, 2025. No trace found.
+- **[Jason Thomas](Jason_Thomas.md)** — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **[Nuno Loureiro](Nuno_Loureiro.md)** — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **[William McCasland](William_McCasland.md)** — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Dallis Hardwick](Dallis_Hardwick.md) — Co-inventor of Mondaloy and Reza's mentor at Rockwell Science Center; died of cancer 2014; completes the custody chain

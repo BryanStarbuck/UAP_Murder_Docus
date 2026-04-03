@@ -88,6 +88,23 @@ Since June 2019, McCasland has served on the Board of Trustees at Riverside Rese
 - [David Grusch](David_Grusch.md) — UAP whistleblower who testified about compartmented programs of the type McCasland would have had access to as Director of Special Programs
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace materials scientist whose Mondaloy research was funded under McCasland's AFRL budget; also missing
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+McCasland is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **[Monica Jacinto Reza](Monica_Jacinto_Reza.md)** — Co-inventor of Mondaloy superalloy, funded under McCasland's AFRL budget. Missing since June 22, 2025. No trace found.
+- **[Jason Thomas](Jason_Thomas.md)** — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **[Nuno Loureiro](Nuno_Loureiro.md)** — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](/energy/Details/Carl_Grillmair)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **William McCasland** (this profile) — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Electromagnetic_Propulsion](Electromagnetic_Propulsion.md) — The @TMBSPACESHIPS account's focus on electric propulsion and ionized helium propulsion maps to this thesis

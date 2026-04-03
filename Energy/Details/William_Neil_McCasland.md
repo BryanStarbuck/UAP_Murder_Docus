@@ -154,6 +154,23 @@ His command history extends beyond Ohio. Before AFRL headquarters, he ran the Ph
 - No evidence of foul play at this time
 - The disappearance may be unrelated to his military career or UAP associations
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+McCasland is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **[Monica Jacinto Reza](Monica_Jacinto_Reza.md)** — Co-inventor of Mondaloy superalloy, funded under McCasland's AFRL budget. Missing since June 22, 2025. No trace found.
+- **[Jason Thomas](/uaps/Details/Jason_Thomas)** — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **[Nuno Loureiro](Nuno_Loureiro.md)** — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **William McCasland** (this profile) — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Co-inventor of Mondaloy, AFRL-funded. Vanished June 2025
