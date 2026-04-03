@@ -72,3 +72,5 @@ His death occurred during 1987, the peak year of the Marconi scientist death clu
 - [The Truth Files — The Marconi Scientists](https://www.thetruthfiles.com/the-marconi-scientists/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

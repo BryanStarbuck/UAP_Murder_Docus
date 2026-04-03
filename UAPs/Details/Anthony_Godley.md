@@ -64,3 +64,5 @@ Godley's position gave him access to sensitive defense work. Notably, at least t
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing, presumed deceased (1983)

@@ -85,3 +85,5 @@ Tinsley published in *Infinite Energy*, the journal founded and edited by [Eugen
 - [Infinite Energy Magazine Archives](https://www.newenergytimes.com/v2/archives/fic/N/N199602.PDF)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1997)

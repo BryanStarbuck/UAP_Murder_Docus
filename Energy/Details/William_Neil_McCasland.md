@@ -201,3 +201,6 @@ McCasland's disappearance has been widely discussed on X.com:
 - @rogue185263 (March 22, 2026) — "UFO-Linked Defense Figures Disappear as Pattern of Deaths Raises Alarm"
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Unknown (missing since February 2026)

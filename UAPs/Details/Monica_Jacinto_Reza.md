@@ -155,3 +155,5 @@ Reza's disappearance is the first in a cluster of five scientist deaths or disap
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing (2025)

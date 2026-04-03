@@ -55,3 +55,5 @@ Frank Jennings was a 60-year-old electronic weapons engineer employed by Plessey
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

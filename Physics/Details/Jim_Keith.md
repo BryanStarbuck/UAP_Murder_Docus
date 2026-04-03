@@ -102,3 +102,5 @@ Keith's argument that UFO phenomena were connected to classified terrestrial tec
 - [The Strange Death of a Conspiracy Theorist Jim Keith - Infinity Explorers](https://www.infinityexplorers.com/jim-keith/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1999)

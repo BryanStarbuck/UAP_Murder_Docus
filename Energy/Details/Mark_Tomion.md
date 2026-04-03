@@ -77,3 +77,5 @@ In 2009, Tomion allegedly developed a working prototype of his technology. Detai
 - Note: Mainstream sources on Mark Tomion are extremely limited; most information circulates within alternative energy forums and cannot be independently verified
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

@@ -96,3 +96,5 @@ In UFO lore, Forrestal is alleged to have been a member of MJ-12 (Majestic 12), 
 - [The Assassination of James Forrestal — David Martin](https://www.amazon.com/Assassination-James-Forrestal-David-Martin/dp/0967352126)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1949)

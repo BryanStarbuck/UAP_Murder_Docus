@@ -56,3 +56,5 @@ Kountis worked as a systems analyst at Bristol Polytechnic on defence-related co
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

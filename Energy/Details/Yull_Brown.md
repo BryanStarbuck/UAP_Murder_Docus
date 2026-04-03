@@ -91,3 +91,6 @@ Brown spent decades attempting to commercialize his technology. He gave public d
 - [Foreigner.bg — The Bulgarian Inventor That Made Fire from Water](https://www.foreigner.bg/the-bulgarian-inventor-that-made-fire-from-water/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1998)

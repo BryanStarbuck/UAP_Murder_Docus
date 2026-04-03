@@ -98,3 +98,6 @@ Marinov's supporters point out that even if some of his claims were wrong, he ha
 - [Stefan Marinov — Alchetron](https://alchetron.com/Stefan-Marinov)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1997)

@@ -80,3 +80,5 @@ His disappearance occurred during 1987, the peak year of the GEC-Marconi scienti
 - [Grokipedia — GEC-Marconi Scientist Deaths](https://grokipedia.com/page/GEC-Marconi_scientist_deaths)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Unknown

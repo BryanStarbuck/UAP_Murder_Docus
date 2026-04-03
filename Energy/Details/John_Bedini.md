@@ -90,3 +90,5 @@ Mainstream physics considers Bedini's claims of overunity (more energy output th
 - [Bedini — Grokipedia](https://grokipedia.com/page/bedini)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

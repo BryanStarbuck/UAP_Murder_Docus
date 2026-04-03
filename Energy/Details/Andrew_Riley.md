@@ -82,3 +82,5 @@ Riley's death at age 33 cut short the career of one of the few researchers who h
 - [New Energy Times — SRI International Cold Fusion Research](https://newenergytimes.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1992)

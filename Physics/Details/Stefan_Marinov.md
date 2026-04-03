@@ -79,3 +79,5 @@ Marinov pursued the construction of devices intended to generate energy from unc
 - [Stefan Marinov — Alchetron](https://alchetron.com/Stefan-Marinov)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1997)

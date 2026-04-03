@@ -129,3 +129,5 @@ After Searl's death in 2018, Fernando Morris and SEG Magnetics, Inc. continue to
 - John A. Thomas, *Antigravity: The Dream Made Reality — The Story of John R.R. Searl*
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

@@ -78,3 +78,5 @@ Corso stated that these technologies were seeded into the private sector through
 - [Biography: Philip J. Corso - HandWiki](https://handwiki.org/wiki/Biography:Philip_J._Corso)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1998)

@@ -109,3 +109,5 @@ Newman continued to advocate for his Energy Machine for the rest of his life. He
 - [Joseph Westley Newman — Find a Grave](https://www.findagrave.com/memorial/177276514/joseph-westley-newman)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2015)

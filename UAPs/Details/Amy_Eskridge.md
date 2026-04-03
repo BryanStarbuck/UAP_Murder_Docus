@@ -83,3 +83,5 @@ Eskridge was based in Huntsville, Alabama -- a city with deep connections to the
 - [Franc Milburn claims on Amy Eskridge - X/Twitter](https://x.com/inspiredcreatv/status/1926318370577633674)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

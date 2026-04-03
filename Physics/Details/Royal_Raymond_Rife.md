@@ -267,3 +267,5 @@ The truth likely lies somewhere between "Rife cured cancer and the AMA destroyed
 - [Royal Raymond Rife — Find a Grave](https://www.findagrave.com/memorial/74163580/royal-raymond-rife)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1971)

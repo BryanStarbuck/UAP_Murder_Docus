@@ -80,3 +80,6 @@ Other researchers in the LENR community raised concerns that the Cincinnati Grou
 - [Robert W. Bass — Natural Philosophy Wiki](https://wiki.naturalphilosophy.org/index.php?title=Robert_W_Bass)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased

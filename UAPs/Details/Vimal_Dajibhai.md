@@ -69,3 +69,5 @@ Dajibhai's death, along with that of [Ashad Sharif](Ashad_Sharif.md) just two mo
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

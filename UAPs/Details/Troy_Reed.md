@@ -81,3 +81,5 @@ No mainstream media quotes about Reed's death or his technology have been identi
 **Note on sourcing**: Mainstream journalistic, academic, or court sources documenting Troy Reed's work, death, or the Reed Magnetic Motor have not been identified. The information in this profile is drawn primarily from alternative energy community sources and social media. Readers should weigh this limited sourcing accordingly.
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2007)

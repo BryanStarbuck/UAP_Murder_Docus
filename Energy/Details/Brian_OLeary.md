@@ -87,3 +87,5 @@ He relocated to Ecuador after his colleague and fellow New Energy Movement advoc
 - Brian O'Leary, *The Energy Solution Revolution*, 2009
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2011)

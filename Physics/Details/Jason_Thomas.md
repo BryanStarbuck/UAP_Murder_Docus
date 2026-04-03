@@ -117,3 +117,5 @@ Key timeline overlaps:
 - [GoFundMe: Help Us Bring Jason Home](https://www.gofundme.com/f/samu3c-help-us-bring-jason-home)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2026)

@@ -115,3 +115,5 @@ Davis was a key witness for David Grusch's UAP whistleblower complaints to the I
 - [Lifeboat Foundation — Dr. Eric W. Davis Bio](https://lifeboat.com/ex/bios.eric.w.davis) — Professional biography and credentials
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

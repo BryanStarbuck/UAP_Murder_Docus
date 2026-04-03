@@ -144,3 +144,6 @@ Loureiro's assassination has been widely discussed on X.com:
 - @ahlberto (March 22, 2026) — "Connect the dots on MIT team of scientists assassinations working on plasma energy"
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2025)

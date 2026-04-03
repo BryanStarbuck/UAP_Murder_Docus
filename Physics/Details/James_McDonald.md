@@ -121,3 +121,5 @@ His warnings about ozone depletion from supersonic aircraft, the very testimony 
 - [FBI File of Dr. James E. McDonald - CUFON](https://www.cufon.org/cufon/fbimcdon.htm)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1971)

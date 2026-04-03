@@ -81,3 +81,5 @@ Corso stated that the seeding was done through Army R&D contracts, with contract
 - [The Day After Roswell Anthology - Internet Archive](https://archive.org/details/the-day-after-roswell-anthology-a-collective-history-of-a-great-american-1999-philip-corso)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1998)

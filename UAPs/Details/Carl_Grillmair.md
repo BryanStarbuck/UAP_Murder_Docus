@@ -180,3 +180,5 @@ Grillmair's murder is one of nine scientist deaths, disappearances, or attacks b
 - [Carl Grillmair — Google Scholar](https://scholar.google.com/citations?user=skWK5ssAAAAJ&hl=en)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

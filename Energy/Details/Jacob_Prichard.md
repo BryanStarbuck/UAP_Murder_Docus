@@ -107,3 +107,5 @@ Wright-Patterson Air Force Base is:
 - [WHIO: WPAFB reacts to double murder-suicide](https://www.whio.com/news/local/deeply-saddened-wpafb-reacts-double-murder-suicide-involving-base-personnel/4HUGLX6G6VFNVOS23JRVUC3ZJY/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

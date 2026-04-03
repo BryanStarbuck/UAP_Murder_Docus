@@ -86,3 +86,5 @@ The 9th Circuit Court of Appeals upheld the conviction in 1984 (*United States v
 - [Gerald Schaflander — Geni Genealogy](https://www.geni.com/people/Gerald-Schaflander/6000000006158400422)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

@@ -62,3 +62,5 @@ Warwick was reportedly preparing to reveal information about the identity of the
 - [From The Ashes - The Sudden Death of a Whistleblower](https://fromtheashes2.com/2024/02/10/the-sudden-death-of-a-whistleblower/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2006)

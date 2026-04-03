@@ -83,3 +83,5 @@ Gray's companies faced repeated legal and regulatory interference:
 - [eMediaPress — The Real History of the Ed Gray Motor](https://emediapress.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1989)

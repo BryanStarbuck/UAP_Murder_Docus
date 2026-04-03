@@ -68,3 +68,5 @@ He authored several books including *Crash at Corona* (1992), *TOP SECRET/MAJIC*
 - [ExoNews - UFO Researcher Stanton Friedman Dies After Half-Century Effort](https://exonews.org/ufo-researcher-stanton-friedman-dies-after-half-century-effort-to-prove-alien-life/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2019)

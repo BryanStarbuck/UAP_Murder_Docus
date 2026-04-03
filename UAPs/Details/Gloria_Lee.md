@@ -86,3 +86,5 @@ When Lee presented her blueprints to government officials in Washington, she was
 - Biblioteca Pleyades — compilations of UFO-connected deaths
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1962)

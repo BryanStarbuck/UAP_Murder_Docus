@@ -92,3 +92,5 @@ His work on heavy water characterization and thermodynamics had direct relevance
 - Patrick Coffey, *Cathedrals of Science: The Personalities and Rivalries That Made Modern Chemistry*, 2008
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1946)

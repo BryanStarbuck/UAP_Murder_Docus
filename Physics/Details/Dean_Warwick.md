@@ -86,3 +86,5 @@ Warwick claimed knowledge of underground military facilities that he connected t
 - [From The Ashes — The Sudden Death of a Whistleblower](https://fromtheashes2.com/2024/02/10/the-sudden-death-of-a-whistleblower/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2006)

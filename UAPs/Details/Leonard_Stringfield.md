@@ -73,3 +73,5 @@ His 60 volumes of research documented what researcher John Ventre described as "
 - [Leonard H. Stringfield - Kook Science](https://hatch.kookscience.com/wiki/Leonard_H._Stringfield)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1994)

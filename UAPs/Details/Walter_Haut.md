@@ -105,3 +105,5 @@ The affidavit is significant for several reasons:
 - ["My father saw the bodies": chasing the truth about Roswell — SBS](https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2005)

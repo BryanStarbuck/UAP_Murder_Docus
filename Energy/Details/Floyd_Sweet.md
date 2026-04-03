@@ -126,3 +126,5 @@ Tom Bearden has written that Sweet was genuinely terrified in the period before 
 - [The Sweet VTA: Background and History — Practical Guide to Free Energy Devices](http://www.free-energy-info.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

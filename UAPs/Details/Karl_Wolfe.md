@@ -68,3 +68,5 @@ Wolfe held a top-secret crypto clearance during his time in the Air Force and st
 - [HowAndWhys - This US Airman Claimed To See Top Secret NASA Photos Of Giant Alien Moon Base](https://howandwhys.com/former-us-airman-claimed-there-is-top-secret-alien-structure-on-moon/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

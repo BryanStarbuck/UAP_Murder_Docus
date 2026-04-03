@@ -103,3 +103,5 @@ Dotto had several units operating at Sloan-Kettering Hospital in New York City f
 - [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

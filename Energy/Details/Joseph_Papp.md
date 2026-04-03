@@ -77,3 +77,5 @@ Papp received US Patent 4,428,193 for the device. He demonstrated it multiple ti
 - Richard Feynman, "Mr. Papf's Perpetual Motion Machine" (essay, collected in *Surely You're Joking, Mr. Feynman!*)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1989)

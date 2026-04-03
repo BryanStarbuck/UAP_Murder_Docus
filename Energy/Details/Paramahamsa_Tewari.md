@@ -101,3 +101,6 @@ These claims come primarily from alternative media sources rather than mainstrea
 - [We Are Change — India Permits Free Energy Technology](https://wearechange.org/india-permits-free-energy-technology-despite-threats-from-uk-us-saudi-arabia/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2017)

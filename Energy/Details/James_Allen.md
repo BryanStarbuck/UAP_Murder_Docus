@@ -76,3 +76,5 @@ Allen was reportedly planning a follow-up film that would dig deeper into Lockhe
 - [Open Minds TV — Documentary on Top Secret Antigravity Vehicle Released](https://openminds.tv/documentary-on-top-secret-antigravity-vehicle-released/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2013)

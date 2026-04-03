@@ -126,3 +126,5 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing (2025)

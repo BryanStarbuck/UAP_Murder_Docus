@@ -94,3 +94,5 @@ In March 2025, Representative Eric Burlison (R-MO) appointed Grusch as a Special
 - [Joe Rogan Experience #2065 — David Grusch — Spotify](https://open.spotify.com/episode/6D6otpHwnaAc86SS1M8yHm)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

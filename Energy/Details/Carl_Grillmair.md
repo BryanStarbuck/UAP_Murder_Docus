@@ -134,3 +134,5 @@ He lived in the desert because the nighttime darkness was better for watching th
 - [The Sentinel Briefing: THE LONG COUNT](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2026)

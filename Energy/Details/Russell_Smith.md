@@ -83,3 +83,6 @@ While Smith's specific role as a laboratory technician may not have given him di
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1988)

@@ -83,3 +83,5 @@ Wright-Patterson AFB issued a statement saying they were "deeply saddened" by th
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

@@ -116,3 +116,5 @@ Smith claimed to have received a fragment of a recovered UFO from the U.S. Navy,
 - [Wilbert B Smith, Project Magnet, and his Claims of UFO Debris — Metabunk](https://www.metabunk.org/threads/wilbert-b-smith-project-magnet-and-his-claims-of-ufo-debris.13011/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1962)

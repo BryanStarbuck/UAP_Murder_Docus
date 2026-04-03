@@ -58,3 +58,5 @@ Victor Moore was a 46-year-old defense engineer employed by Marconi, working on 
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

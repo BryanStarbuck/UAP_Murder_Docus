@@ -134,3 +134,5 @@ However, even skeptics acknowledge that certain elements of Lazar's story remain
 - [JRE #1315 — Bob Lazar & Jeremy Corbell — Spotify](https://creators.spotify.com/pod/profile/joeroganexperience/episodes/1315---Bob-Lazar--Jeremy-Corbell-eilfeh) — The Joe Rogan Experience episode with over 57 million views.
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

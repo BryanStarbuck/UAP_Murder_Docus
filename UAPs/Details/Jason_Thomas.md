@@ -114,3 +114,5 @@ His wife told reporters that Jason was struggling with the sudden loss of both p
 - [Tampa Free Press: Tennessee Rep. Tim Burchett Warns Of Pattern As More U.S. Scientists Die Or Vanish](https://www.tampafp.com/scary-tennessee-rep-tim-burchett-warns-of-pattern-as-more-u-s-scientists-die-or-vanish/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

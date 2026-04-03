@@ -120,3 +120,5 @@ Her work anticipated several themes that have become central to modern UAP disco
 - [Karla Turner -- Goodreads Author Page](https://www.goodreads.com/author/show/358439.Karla_Turner)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1996)

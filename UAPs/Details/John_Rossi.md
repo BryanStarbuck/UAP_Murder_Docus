@@ -99,3 +99,5 @@ These claims remain unverified but fit the pattern described by David Grusch and
 - Congressional testimony of David Grusch regarding harm to individuals connected to classified UAP programs (July 2023)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

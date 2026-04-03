@@ -82,3 +82,5 @@ This entry is included because the Lovette-Cunningham incident is widely referen
 - [Project Grudge/Blue Book — Internet Sacred Text Archive](https://sacred-texts.com/ufo/bluebook.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1956)

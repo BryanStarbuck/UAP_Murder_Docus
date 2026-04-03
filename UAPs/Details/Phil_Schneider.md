@@ -114,3 +114,5 @@ His father, Oscar Schneider, was reportedly a U.S. Navy captain, which some rese
 - [Phil Schneider — Documentary Tube](https://www.documentarytube.com/articles/phil-schneider--the-man-behind-the-alien-agenda/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

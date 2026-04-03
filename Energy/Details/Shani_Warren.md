@@ -98,3 +98,6 @@ While Warren's murder was ultimately solved and attributed to a sex attacker unr
 - [GEC-Marconi Scientist Deaths Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1987)

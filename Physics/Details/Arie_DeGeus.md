@@ -82,3 +82,5 @@ If DeGeus's technology functioned as claimed, the implications for UAP physics w
 - [In Tribute: Arie DeGeus - Project Camelot](https://projectcamelot.org/degeus.html)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased

@@ -115,3 +115,5 @@ Wiley's death was the second in the 2001-2002 cluster:
 - Don C. Wiley — Harvard University memorial records
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2001)

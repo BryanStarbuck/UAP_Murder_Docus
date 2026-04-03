@@ -66,3 +66,5 @@ Sharif's death, occurring just two months after [Vimal Dajibhai](Vimal_Dajibhai.
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

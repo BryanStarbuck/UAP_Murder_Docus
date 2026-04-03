@@ -68,3 +68,5 @@ U.S. District Judge Philip Pro initially rejected the government's argument, but
 - [Mystery in the Desert: The Shadow of Area 51 - Swarthmore Phoenix](https://swarthmorephoenix.com/2017/09/22/mystery-in-the-desert-the-shadow-of-area-51/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

@@ -105,3 +105,5 @@ McCandlish was also a witness in Dr. Steven Greer's Disclosure Project, where he
 - [WikiDisc - Mark McCandlish](https://www.wikidisc.org/wiki/Mark_McClandlish)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

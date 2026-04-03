@@ -97,3 +97,6 @@ Dajibhai's death, along with that of [Arshad Sharif](Arshad_Sharif.md) two month
 - [The Many Real Life Deaths Surrounding the Star Wars Defense Initiative — CrimeReads](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1986)

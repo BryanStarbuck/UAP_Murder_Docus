@@ -106,3 +106,5 @@ Bell studied Eastern philosophy, received a Ph.D. in Homeopathic Medicine, and i
 - [The Mysterious Death of Dr. Fred Bell -- UFO Digest](https://www.ufodigest.com/article/the-mysterious-death-of-dr-fred-bell/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2011)

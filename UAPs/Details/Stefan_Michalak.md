@@ -100,3 +100,5 @@ His son, Stan Michalak, co-authored a book with UFO researcher Chris Rutkowski t
 - [UFOs at LAC: The Falcon Lake Incident — Canada.ca](https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1999)

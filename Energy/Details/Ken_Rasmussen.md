@@ -98,3 +98,5 @@ The threat against Rasmussen's associate occurred on May 16, 2006 — just weeks
 - [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

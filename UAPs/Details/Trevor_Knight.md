@@ -59,3 +59,5 @@ Trevor Knight was a 52-year-old senior computer engineer employed at Marconi Spa
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

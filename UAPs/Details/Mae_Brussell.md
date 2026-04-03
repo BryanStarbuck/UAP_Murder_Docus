@@ -87,3 +87,5 @@ Brussell received death threats during her investigation of the Presidio case. S
 - [Mae Brussell — Spartacus Educational](https://spartacus-educational.com/JFKbrussel.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

@@ -98,3 +98,5 @@ At the time of his death, DeGeus was reportedly traveling to Europe to meet with
 - [Another Breakthrough Energy Inventor Murdered? — Rense.com](https://rense.com/general79/murder.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2007)

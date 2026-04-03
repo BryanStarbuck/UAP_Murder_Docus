@@ -83,3 +83,5 @@ Between February 2001 and March 2002, McKinnon accessed 97 military and NASA com
 - [The biggest military hack ever exposes NASA secret 'UFO Files' - Sott.net](https://www.sott.net/article/296082-The-biggest-military-hack-ever-exposes-NASA-secret-UFO-Files)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

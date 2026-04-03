@@ -86,3 +86,5 @@ No mainstream media quotes about Christie's death or the circumstances of his di
 **Note on sourcing**: This profile has significantly weaker sourcing than most entries in this project. The claims about John Christie's death and disappearance originate primarily from social media posts and alternative energy community discussions. No mainstream news articles, obituaries, coroner's reports, or official records have been identified to corroborate the claims. This profile is included because the case fits the broader pattern documented in this project, but readers should weigh the evidence accordingly. The UNCERTAIN rating reflects this limited documentation.
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2017)

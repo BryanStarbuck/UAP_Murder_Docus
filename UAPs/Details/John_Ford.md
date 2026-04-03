@@ -61,3 +61,5 @@ Ford was charged with illegal possession of radioactive materials, three counts 
 - [Wrongfully arrested UFO investigator, John Ford, still in mental hospital - Steemit](https://steemit.com/ufos/@rebelskum/wrongfully-arrested-ufo-investigator-john-ford-still-in-mental-hospital-for-21-years)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive (institutionalized)

@@ -109,3 +109,6 @@ Vigay collaborated with other researchers in the crop circle and UFO communities
 - *Signs* (2002, dir. M. Night Shyamalan) — Vigay was consulted as a technical expert
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2009)

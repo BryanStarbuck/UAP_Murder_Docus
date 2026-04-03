@@ -75,3 +75,6 @@ Multiple other RCMS-connected individuals died or disappeared during the broader
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1987)

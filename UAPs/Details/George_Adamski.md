@@ -67,3 +67,5 @@ He is buried in Arlington National Cemetery due to his service in the U.S. Army.
 - [George Adamski — Encyclopedia.com](https://www.encyclopedia.com/people/literature-and-arts/asian-literature-biographies/george-adamski)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1965)

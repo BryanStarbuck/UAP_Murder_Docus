@@ -114,3 +114,5 @@ Because Christofleau was not a scientist or member of scientific societies, "he 
 - @Earstohearyou (May 28, 2024) — "In the 1920's Justin Christofleau developed ELECTROTROCULTURE. After his death a year later his whole operation was shut down." (867 likes, 52,263 views) — *Note: the post's timeline is incorrect; Christofleau died in 1938, not in the 1920s, and his operation continued for over a decade after development.*
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1938)

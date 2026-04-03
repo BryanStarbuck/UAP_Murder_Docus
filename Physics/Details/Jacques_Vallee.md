@@ -114,3 +114,5 @@ This combination of credentials — astronomer, computer scientist, Internet pio
 - [Stanford Professor Garry Nolan Is Analyzing Anomalous Materials From UFO Crashes — Vice](https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/) — Coverage of Nolan-Vallee material analysis work
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

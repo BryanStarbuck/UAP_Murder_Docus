@@ -94,3 +94,5 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 - [Park City Prospector - The Mystery Of Stanley Meyer and his Water-Powered Car](https://parkcityprospector.us/3527/opinions/conspiracy-column-volume-two-the-mystery-of-stanley-meyer-and-his-water-powered-car/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1998)

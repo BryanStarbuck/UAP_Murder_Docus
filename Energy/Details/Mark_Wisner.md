@@ -83,3 +83,5 @@ Wisner died during the deadliest month of the GEC-Marconi cluster — April 1987
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

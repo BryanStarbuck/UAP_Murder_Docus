@@ -93,3 +93,5 @@ McKinnon was indicted in November 2002 on seven counts of computer-related crime
 - [UFO Hacker, Non-Terrestrial Officers & NASA's Hidden Craft — The Galactic Mind](https://www.thegalacticmind.com/the-ufo-hacker-gary-mckinnon/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

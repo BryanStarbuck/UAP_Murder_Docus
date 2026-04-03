@@ -82,3 +82,5 @@ Sullivan's music, especially *U.F.O.*, was rediscovered and reissued by Light in
 - [Jim Sullivan | U.F.O. - Light in the Attic Records](https://lightintheattic.net/releases/502-u-f-o)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing, presumed deceased (1975)

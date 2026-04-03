@@ -165,3 +165,5 @@ The case has generated intense discussion on X (formerly Twitter). The Sentinel 
 - [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing (2026)

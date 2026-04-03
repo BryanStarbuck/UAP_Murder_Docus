@@ -62,3 +62,5 @@ Borland is a federal whistleblower who has testified to both the ICIG and AARO w
 - [Dylan Borland - UAP.GG](https://uap.gg/sources/people/kEFHKYtINk/dylan-borland)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

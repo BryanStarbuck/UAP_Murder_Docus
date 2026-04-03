@@ -88,3 +88,5 @@ New Jersey journalist **Karin Westdyk** interviewed Pacheco before his death and
 - [Energy Freedom Project — Pacheco Hydrogen Generator](http://energyfreedomproject.blogspot.com/2014/03/pacheco-hydrogen-generator.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1992)

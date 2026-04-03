@@ -106,3 +106,5 @@ Vigay's crop circle research was not merely observational — it engaged with fu
 - Documentary appearances and television interviews (various, 2000s)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

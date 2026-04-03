@@ -148,3 +148,5 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 - [Lester J. Hendershot — Natural Philosophy Wiki](https://www.wiki.naturalphilosophy.org/index.php?title=Lester_J_Hendershot)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1961)

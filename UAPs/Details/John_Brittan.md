@@ -61,3 +61,5 @@ His death occurred during the most intense phase of the GEC-Marconi scientist de
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

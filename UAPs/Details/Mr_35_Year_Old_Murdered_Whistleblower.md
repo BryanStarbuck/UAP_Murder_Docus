@@ -99,3 +99,5 @@ David Grusch himself has testified under oath that he had "personal knowledge of
 - [House Oversight: Restoring Public Trust Through UAP Transparency and Whistleblower Protection](https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

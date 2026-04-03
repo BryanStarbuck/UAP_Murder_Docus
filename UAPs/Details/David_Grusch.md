@@ -84,3 +84,5 @@ His testimony was corroborated in part by two other witnesses at the hearing: re
 - [David Grusch Congressional Testimony - House Oversight Committee](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

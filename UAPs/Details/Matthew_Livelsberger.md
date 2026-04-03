@@ -98,3 +98,5 @@ However, these claims are contradicted by:
 - [Fox News: Questions grow about soldier's Tesla Cybertruck attack](https://www.foxnews.com/us/questions-grow-about-soldiers-tesla-cybertruck-attack-trump-las-vegas-hotel)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

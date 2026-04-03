@@ -82,3 +82,5 @@ Friedman also argued that interstellar travel was achievable without violating k
 - [Science? Fiction? - University of Chicago Magazine](https://mag.uchicago.edu/science-medicine/science-fiction)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2019)

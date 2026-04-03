@@ -74,3 +74,5 @@ In his deathbed video, Bushman claimed:
 - [Scientist Boyd Bushman: Did He Publish Evidence Before His Death? - Medium](https://medium.com/@markeetafrydrychova/scientist-boyd-bushman-did-he-publish-evidence-of-the-existence-of-ufos-before-his-death-432f715d4b2f)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

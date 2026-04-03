@@ -133,3 +133,5 @@ Loureiro's murder is one of five scientist deaths or disappearances between June
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

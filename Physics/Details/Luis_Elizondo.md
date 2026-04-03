@@ -147,3 +147,5 @@ Elizondo's role at AATIP has been the subject of institutional pushback. In 2019
 - [Luis Elizondo Offers Window into US Government's Hunt for UFOs — ABC News](https://abcnews.com/US/luis-elizondo-offers-window-us-governments-hunt-ufos/story?id=113152292)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

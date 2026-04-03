@@ -74,3 +74,5 @@ In 1973, Hynek founded the Center for UFO Studies (CUFOS) in Chicago, which beca
 - [Hynek archival records — Northwestern University](https://findingaids.library.northwestern.edu/agents/people/1473)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

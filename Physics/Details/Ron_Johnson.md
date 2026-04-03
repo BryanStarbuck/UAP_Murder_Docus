@@ -76,3 +76,5 @@ His passing represented a significant loss for MUFON's investigative capabilitie
 - [UFO Researchers' Mysterious Deaths - The Free Dictionary Encyclopedia](https://encyclopedia2.thefreedictionary.com/UFO+Researchers'+Mysterious+Deaths)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1994)

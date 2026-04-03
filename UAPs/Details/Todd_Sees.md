@@ -78,3 +78,5 @@ Todd Sees was a 39-year-old resident of Point Township, Northumberland County, P
 - [The Disappearance of Todd Sees — ABW Radio](https://abwradio.com/2021/03/16/the-disappearance-of-todd-sees-in-the-woods-of-pennsylvania/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2002)

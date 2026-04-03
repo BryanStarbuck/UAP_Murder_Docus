@@ -61,3 +61,5 @@ Mark Wisner was a 24-year-old software engineer employed by the Ministry of Defe
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

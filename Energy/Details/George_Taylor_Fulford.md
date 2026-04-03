@@ -95,3 +95,5 @@ Fulford's willingness to fund the project without requiring a metered business m
 - [Willow House Chronicles — George Taylor Fulford](https://willowhousechronicles.wordpress.com/tag/george-taylor-fulford/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1905)

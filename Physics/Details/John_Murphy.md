@@ -94,3 +94,5 @@ Murphy's case illustrates a recurring pattern in UAP history: a local journalist
 - [The Kecksburg UFO Crash - UFO Casebook](https://ufocasebook.com/Kecksburg.html)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1969)

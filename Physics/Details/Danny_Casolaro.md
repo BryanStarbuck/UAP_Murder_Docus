@@ -93,3 +93,5 @@ Casolaro's death at 44 -- while reportedly on the verge of completing his invest
 - [Inslaw - Wikipedia](https://en.wikipedia.org/wiki/Inslaw)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1991)

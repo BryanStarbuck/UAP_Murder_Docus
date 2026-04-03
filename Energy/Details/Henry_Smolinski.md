@@ -72,3 +72,5 @@ If successful, the concept would have:
 - [The Drive — Tragic Story of the Flying Ford Pinto](https://www.thedrive.com/news/43549/the-tragic-story-of-the-flying-ford-pinto-ended-exactly-how-youd-expect)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1973)

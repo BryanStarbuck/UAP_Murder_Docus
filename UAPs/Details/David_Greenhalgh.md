@@ -64,3 +64,5 @@ His death occurred near the same location where, one week later, [Shani Warren](
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

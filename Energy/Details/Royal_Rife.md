@@ -136,3 +136,6 @@ Royal Rife's suppression case is frequently cited on X.com as a foundational exa
 - @Earstohearyou (May 28, 2024) — "George Lakovsky and Royal Rife figured out how to use FREQUENCIES to increase CELL HEALTH and target pathogens. Their work was also shut down under extreme opposition by the Rockefeller installed AMA." (867 likes, 52,263 views)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1971)

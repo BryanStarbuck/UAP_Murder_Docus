@@ -88,3 +88,5 @@ Moyle's investigation put him at the intersection of British defense contracting
 - [CrimeReads — The Many Real-Life Deaths Surrounding the Star Wars Defense Initiative](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1990)

@@ -87,3 +87,5 @@ Infinity SAV had been attracting international attention and investment interest
 - [YTScribe — Slobodian's Free Energy Infinity Generator and His Mysterious Death](https://ytscribe.com/v/sL7MiRxoobA)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

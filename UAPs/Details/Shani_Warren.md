@@ -71,3 +71,5 @@ The 2022 DNA conviction of Donald Robertson conclusively established that Warren
 - [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

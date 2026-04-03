@@ -103,3 +103,5 @@ Tiwari was well-known in India as a media personality, appearing on television p
 - ParaNexus Anomalous Research Association records
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

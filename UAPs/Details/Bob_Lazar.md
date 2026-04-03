@@ -77,3 +77,5 @@ Notably, a Los Alamos National Laboratory phone directory from the late 1980s di
 - [Bob Lazar: Area 51 & Flying Saucers - IMDb](https://www.imdb.com/name/nm1331678/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

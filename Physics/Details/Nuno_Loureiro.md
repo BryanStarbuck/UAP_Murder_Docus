@@ -124,3 +124,5 @@ Loureiro's death occurred during a period of heightened Congressional interest i
 - [Professor Nuno Loureiro (1977-2025) - MIT](https://orgchart.mit.edu/letters/professor-nuno-loureiro-1977-2025)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2025)

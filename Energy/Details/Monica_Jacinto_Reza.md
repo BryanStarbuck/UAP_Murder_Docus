@@ -224,3 +224,6 @@ Reza's disappearance has been widely discussed on X.com as part of the AFRL clus
 - @rogue185263 (March 22, 2026) — "At least six individuals tied to a U.S. defense research network are now dead or missing within a year, including aerospace engineer Monica Jacinto Reza"
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Unknown (missing since June 2025)

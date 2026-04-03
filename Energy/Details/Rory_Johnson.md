@@ -112,3 +112,6 @@ When Johnson learned of the seizure order, he reportedly moved all motors, proto
 - [Invention Secrecy Act of 1951 — Federation of American Scientists](https://fas.org/sgp/othergov/invention/index.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased

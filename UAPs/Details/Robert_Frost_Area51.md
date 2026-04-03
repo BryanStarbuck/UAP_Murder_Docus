@@ -70,3 +70,5 @@ Helen Frost later recalled that lawyers in Las Vegas told her "there was nothing
 - [Feds Investigating Burning of Hazardous Waste at Area 51 - Las Vegas Sun](https://lasvegassun.com/news/1996/aug/08/feds-investigating-burning-of-hazardous-waste-at-a/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1989)

@@ -104,3 +104,5 @@ Bonds died in April 2001 — just months before the September 11 attacks. His de
 - UFO researcher death compilations by G. Cope Schellhorn
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2001)

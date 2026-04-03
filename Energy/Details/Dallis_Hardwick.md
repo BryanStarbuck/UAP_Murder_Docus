@@ -129,3 +129,5 @@ After Hardwick's death, Reza said publicly: "I hope she understood that my accom
 - [Reddit r/SubIntel: Who is Pat Martin?](https://www.reddit.com/r/SubIntel/comments/1rvi4rx/who_is_pat_martin_he_is_alive_in_ohio_and_may/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

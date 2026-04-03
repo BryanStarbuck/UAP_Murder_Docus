@@ -68,3 +68,5 @@ In 1958, Fontes prepared a detailed briefing paper on UFOs for the Brazilian gov
 - [UFO Researchers' Mysterious Deaths — The Free Dictionary](https://encyclopedia2.thefreedictionary.com/UFO+Researchers'+Mysterious+Deaths)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1968)

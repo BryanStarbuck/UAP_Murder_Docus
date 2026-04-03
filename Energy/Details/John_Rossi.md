@@ -90,3 +90,5 @@ Rossi's command portfolio would have given him direct oversight of classified nu
 - [U.S. Army Space and Missile Defense Command](https://www.smdc.army.mil/) — background on the command Rossi was about to lead
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

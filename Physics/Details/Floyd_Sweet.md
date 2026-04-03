@@ -126,3 +126,5 @@ This connection between energy extraction and weight reduction is the single mos
 - Tom Bearden, *Energy from the Vacuum: Concepts and Principles* (Cheniere Press, 2002)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1995)

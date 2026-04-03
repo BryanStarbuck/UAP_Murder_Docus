@@ -107,3 +107,6 @@ A 2002 U.S. Army Research Laboratory paper by Thomas Bahder and Chris Fazi studi
 - [Thomas Townsend Brown — Stephen M. Walker II Research](https://smw.ai/research/townsend-brown)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1985)

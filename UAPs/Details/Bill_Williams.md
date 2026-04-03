@@ -133,3 +133,5 @@ Whether these incidents were coordinated, or whether they reflect independent ac
 - [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

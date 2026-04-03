@@ -112,3 +112,6 @@ The diesel engine's ability to run on vegetable oils threatened the petroleum in
 - [Rudolf Diesel: The Disappearance of the Man Who Invented the Modern Engine — BBC](https://www.bbc.com/future/article/20131001-the-death-of-mr-diesel)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1913)

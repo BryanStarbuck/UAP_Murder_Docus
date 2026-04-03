@@ -113,3 +113,5 @@ McCasland disappeared from his Albuquerque home on February 27, 2026 — approxi
 - [We Got This Covered: Super alloy could end American dependence on Russian rockets](https://wegotthiscovered.com/fyi/this-super-alloy-could-end-american-dependence-on-russian-rockets-now-two-officials-involved-in-its-development-are-missing/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Missing (2025)

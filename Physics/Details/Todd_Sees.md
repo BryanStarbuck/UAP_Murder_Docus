@@ -128,3 +128,5 @@ Montour Ridge in Northumberland County, Pennsylvania, has been the site of numer
 - [Cause of Death Unknown — The Daily Item](https://www.dailyitem.com/cause-of-death-unknown/article_1ad15aed-4062-5e0a-bc51-aca530f77cab.html)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2002)

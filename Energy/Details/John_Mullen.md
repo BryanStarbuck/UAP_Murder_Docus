@@ -77,3 +77,5 @@ His research focused on nuclear physics with implications for energy production 
 - [Deseret News — Slain Physicist's Girlfriend Dies as Police Close In](https://www.deseret.com/2005/11/2/19920461/slain-physicist-s-girlfriend-dies-as-police-close-in/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

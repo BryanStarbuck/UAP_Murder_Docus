@@ -113,3 +113,5 @@ The case is included in this project because it fits a documented pattern — a 
 - [Thorndike Memorial Laboratory Archives (City of Boston)](https://archives.boston.gov/subjects/684) — Archival records related to the Thorndike Memorial Laboratory
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1932)

@@ -136,3 +136,5 @@ Whether one views Spiers's death as a tragic medical event exacerbated by substa
 - [Maxwell Lindsay Herbert Bates-Spiers - Find a Grave](https://www.findagrave.com/memorial/181091344/maxwell-lindsay_herbert_bates-spiers)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2016)

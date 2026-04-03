@@ -117,3 +117,5 @@ The arson destroyed much of his research materials, equipment, and records.
 - [Why the United States Government Embraced the Occult — The New Republic](https://newrepublic.com/article/142268/united-states-government-embraced-occult)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

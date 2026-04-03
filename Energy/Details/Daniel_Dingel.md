@@ -83,3 +83,5 @@ In 2000, Dingel entered into a partnership with a Taiwanese investor to develop 
 - [Philippine Star — Various Coverage of Dingel Case](https://www.philstar.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2010)

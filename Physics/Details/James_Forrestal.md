@@ -153,3 +153,5 @@ Within the UAP research community, Forrestal's death is frequently cited as one 
 - [Was the 1949 "Suicide" of Defense Secretary James Forrestal the First Major Domestic Political Assassination? -- CovertAction Magazine](https://covertactionmagazine.com/2021/10/27/was-the-1949-suicide-of-defense-secretary-james-forrestal-the-first-major-domestic-political-assassination-of-the-emerging-u-s-deep-state-after-wwii/) -- Investigation into the assassination hypothesis
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1949)

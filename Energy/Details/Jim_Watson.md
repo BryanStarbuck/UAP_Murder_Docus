@@ -69,3 +69,5 @@ Watson was reportedly backed financially by R.J. Reynolds III, heir to the Reyno
 - [Energetic Forum — Watson Machine Discussion](https://www.energeticforum.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Unknown (missing since ~1984)

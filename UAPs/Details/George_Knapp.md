@@ -72,3 +72,5 @@ Knapp has reported being under surveillance: "They were listening to my phone. T
 - [George Knapp: Investigative Journalist & UFO Researcher - Sky Daily News](https://skydailynews.com/actualities/george-knapp)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

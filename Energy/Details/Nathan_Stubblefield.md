@@ -91,3 +91,6 @@ Despite these documented public demonstrations, Stubblefield lost credit for bot
 - Gerry Vassilatos, *Lost Science*, 1999 (covers Stubblefield's earth battery)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1928)

@@ -69,3 +69,5 @@ The U.S. Department of Energy placed a restraining order -- commonly referred to
 - [The History of Free Energy Suppression - Free Energy Community](https://freeenergycommunity.wordpress.com/2011/08/19/the-history-of-free-energy-suppression/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1979)

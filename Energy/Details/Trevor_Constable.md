@@ -107,3 +107,6 @@ Some social media posts have incorrectly stated that Constable "disappeared in t
 - [UFOs, MIB, the Occult, and Trevor James Constable — Mysterious Universe](https://mysteriousuniverse.org/2016/04/ufos-mib-the-occult-and-trevor-james-constable/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2016)

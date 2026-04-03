@@ -124,3 +124,5 @@ John Bedini was survived by his wife Jeannie and other family members. He was bu
 - [R.I.P. John Bedini — ZPEnergy.com](https://www.zpenergy.com/modules.php?name=News&file=article&sid=3718)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2016)

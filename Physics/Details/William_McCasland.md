@@ -107,3 +107,5 @@ Since June 2019, McCasland has served on the Board of Trustees at Riverside Rese
 - [Daily Mail: Mystery of five missing scientists sends chill across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Missing (2026)

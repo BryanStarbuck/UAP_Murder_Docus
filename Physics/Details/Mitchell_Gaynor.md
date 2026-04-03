@@ -173,3 +173,5 @@ While Gaynor's work was primarily medical rather than physics-oriented, his rese
 - [Mitchell L. Gaynor (1956-2015) — Find a Grave](https://www.findagrave.com/memorial/152610055/mitchell-l.-gaynor)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2015)
