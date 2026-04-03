@@ -71,13 +71,11 @@ Bell studied Eastern philosophy, trained with Himalayan teachers, and received a
 - [Max Spiers](Max_Spiers.md) — UFO researcher who died mysteriously in Warsaw after warning his mother
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
 - [Dean Stonier](Dean_Stonier.md) — Global Sciences Congress founder who died of a heart attack two days after organizing a major UFO conference
-- [Frank Olson](Frank_Olson.md) — CIA scientist connected to MKULTRA who fell from a hotel window
 
 ## Other Shocking Stories
 
 - [John F. Kennedy](John_F_Kennedy.md): 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven...
 - [Peter Peapell](Peter_Peapell.md): RCMS scientist found dead from carbon monoxide poisoning jammed underneath his car in his garage — police were...
-- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
 - [Andrew Hall](Andrew_Hall.md): 33-year-old British Aerospace engineering manager found dead from carbon monoxide poisoning with a hosepipe connected to his car...
 
 ## Sources

@@ -96,7 +96,6 @@ His father, Oscar Schneider, was reportedly a U.S. Navy captain, which some rese
 
 - [Ron Rummel](Ron_Rummel.md) — Close friend and collaborator, found dead in 1993 with similar forensic anomalies
 - [Karla Turner](Karla_Turner.md) — Died the same month (January 1996) of fast-acting cancer
-- [William Cooper](William_Cooper.md) — Another government insider making extraordinary claims who died violently
 
 ## Other Shocking Stories
 

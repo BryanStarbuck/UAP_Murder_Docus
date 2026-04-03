@@ -63,7 +63,7 @@ Dotto had several units operating at Sloan-Kettering Hospital in New York City f
 ## Why This Death Possibly Raises Questions
 
 - **Pattern of suppression before death:** Dotto's devices were allegedly physically destroyed by FDA agents at Sloan-Kettering, and he was ordered to cease all medical use by the Ohio Medical Board. This follows the suppression-then-death pattern seen with other inventors
-- **Fled the country:** Like [B. Stanley Pons]# who fled to France after cold fusion suppression, Dotto reportedly fled the United States after regulatory action — suggesting he perceived a genuine threat
+- **Fled the country:** Like [B. Stanley Pons](https://intelligencemurders.com/epstein-murders/Details/B_Stanley_Pons) who fled to France after cold fusion suppression, Dotto reportedly fled the United States after regulatory action — suggesting he perceived a genuine threat
 - **Method of alleged murder:** Being run over multiple times is a method designed to ensure death and could be made to appear as an accident — similar to how [Paul Brown](Paul_Brown.md)'s fatal car crash may have been staged
 - **Credentialed inventor:** Unlike many free energy claimants, Dotto held advanced degrees in nuclear physics and mechanical engineering, held a granted US patent, and had devices operating in a major cancer research hospital. This made him more threatening to established interests than an unverified claimant
 - **Technology disappeared:** After Dotto's suppression and death, the Dotto Ring effectively disappeared from medical and scientific use. Modern replicas exist in the alternative health community, but no mainstream institution has pursued the research

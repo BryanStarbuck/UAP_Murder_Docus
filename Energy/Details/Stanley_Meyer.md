@@ -13,9 +13,9 @@ Inventor of a "water fuel cell" who claimed his car could run on water, died sud
 | **Official Ruling** | Natural causes (cerebral aneurysm / high blood pressure) |
 | **Category** | Energy Inventor |
 
-## Assessment: SUSPICIOUS
+## Assessment: HIGHLY SUSPICIOUS
 
-Stanley Meyer spent over a decade developing and promoting a "water fuel cell" that he claimed could power an automobile using only water as fuel. He died suddenly on March 20, 1998, while dining at a Cracker Barrel restaurant in Grove City, Ohio with his brother and two Belgian investors. According to his brother Stephen, Stanley ran outside after taking a drink of cranberry juice, shouting "They poisoned me" before collapsing in the parking lot. The Franklin County coroner ruled the cause of death as a cerebral aneurysm complicated by high blood pressure. No toxicology results pointing to poisoning were publicly released. While an Ohio court had found Meyer's water fuel cell claims to be "gross and egregious fraud" in 1996, supporters insist his technology was genuine and that his death was engineered by interests threatened by a water-powered vehicle.
+Stanley Meyer spent over a decade developing and promoting a "water fuel cell" that he claimed could power an automobile using only water as fuel. The Pentagon took the technology seriously enough to fly a lieutenant colonel to Ohio to evaluate it, with reported discussion of using it for the Star Wars defense program and to power army tanks. Meyer died suddenly on March 20, 1998, while dining at a Cracker Barrel restaurant in Grove City, Ohio with his brother and two Belgian investors. According to his brother Stephen, Stanley ran outside after taking a drink of cranberry juice, shouting "They poisoned me" before collapsing in the parking lot. The Franklin County coroner ruled the cause of death as a cerebral aneurysm complicated by high blood pressure. No toxicology results pointing to poisoning were publicly released. His demonstration dune buggy was reportedly stolen from his garage within a week of his death. While an Ohio court had found Meyer's water fuel cell claims to be "gross and egregious fraud" in 1996, the combination of Pentagon interest, dying words alleging poisoning, stolen prototype, and death during an international investor meeting makes this one of the most suspicious energy inventor deaths on record.
 
 ## Circumstances of Death
 
@@ -31,13 +31,17 @@ Approximately one week after Meyer's death, his water fuel cell dune buggy — t
 
 ### The Water Fuel Cell
 
-Stanley Meyer was a self-taught inventor from Columbus, Ohio who claimed to have developed a device that could split water into hydrogen and oxygen using far less energy than conventional electrolysis — effectively allowing a car to run on water. He called the device a "water fuel cell" and said it used a process involving voltage pulsing and resonance rather than brute-force electrolysis.
+Stanley Meyer was a self-taught inventor from Columbus, Ohio — not a scientist or chemist, and he never graduated from college — who claimed to have developed a device that could split water into hydrogen and oxygen using far less energy than conventional electrolysis, effectively allowing a car to run on water. He called the device a "water fuel cell" and said it used a process involving voltage pulsing and resonance rather than brute-force electrolysis. According to Meyer, the fuel cell could operate on any water source: "rainwater, well water, city water, ocean water," snow, or salt water with "no adverse effect to the fuel cell."
 
 Meyer received several U.S. patents for his water fuel cell technology, including:
 - U.S. Patent 4,936,961 — "Method for the Production of a Fuel Gas"
 - U.S. Patent 5,149,407 — "Process and Apparatus for the Production of Fuel Gas and the Enhanced Release of Thermal Energy from Such Gas"
 
-Meyer demonstrated his device publicly on multiple occasions, including media demonstrations where a dune buggy allegedly ran on water. He attracted significant attention from investors, media, and the alternative energy community.
+Meyer demonstrated his device publicly on multiple occasions, including media demonstrations where a dune buggy allegedly ran on water. He claimed to have calculated that the dune buggy could travel from Los Angeles to New York on roughly 22 gallons of water. He attracted significant attention from investors, media, and the alternative energy community.
+
+### Pentagon Interest
+
+According to a contemporaneous television news report, **the Pentagon flew a lieutenant colonel to Ohio to evaluate Meyer's water fuel cell**. There was reportedly talk of using the technology in the **Strategic Defense Initiative ("Star Wars") program** and to **power U.S. Army tanks**. This military interest — documented in broadcast media before Meyer's death — indicates that the U.S. Department of Defense took the technology seriously enough to send a senior officer for an in-person evaluation. The Pentagon's interest significantly raises the stakes of Meyer's invention beyond a civilian curiosity: it placed his work squarely in the sights of defense and energy establishment interests.
 
 ### The Fraud Ruling
 
@@ -53,6 +57,7 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 
 - **Last words:** Meyer's reported final words — "They poisoned me" — are striking. If he was experiencing a cerebral aneurysm, it would be an unusual self-diagnosis; aneurysm victims typically experience sudden headache, confusion, or loss of consciousness, not the sensation of poisoning
 - **Timing with investors:** Meyer died during a dinner meeting with Belgian investors who had traveled internationally to fund his technology. If his device worked (or if powerful interests believed it might), this was the worst possible moment for those interests
+- **Pentagon military interest:** According to a contemporaneous TV news report, the Pentagon flew a lieutenant colonel to Ohio to evaluate Meyer's invention, with discussion of using it for the Star Wars defense program and to run army tanks. This confirms the U.S. military took the technology seriously — and that Meyer's work had attracted the attention of defense and intelligence establishments before his death
 - **Threat to petroleum industry:** A vehicle that runs on water would threaten the global petroleum industry — one of the largest and most powerful industries in the world. Multiple other inventors claiming alternative fuel breakthroughs have died under suspicious circumstances
 - **No independent toxicology verification:** Meyer's supporters argue that standard autopsy toxicology panels do not test for all possible poisons, and that certain agents can induce symptoms resembling cerebral aneurysm
 - **Pattern of inventor deaths:** Meyer's death fits a broader pattern of energy inventors dying suddenly before securing funding or going public — similar to [Arie DeGeus](Arie_DeGeus.md) (2007) and [Tom Ogle](Tom_Ogle.md) (1981)
@@ -74,6 +79,12 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 
 > Stanley ran outside after taking a drink of cranberry juice, shouting "They poisoned me" before collapsing in the parking lot.
 > — **Stephen Meyer**, Stanley's twin brother, describing the events at the Cracker Barrel restaurant in Grove City, Ohio
+
+> The Pentagon flew a lieutenant colonel in last week to look at Meyer's invention. There's talk of possibly using it in the Star Wars defense program and to run army tanks.
+> — **Television news report**, contemporaneous broadcast covering Meyer's water fuel cell demonstration
+
+> I don't care if you use rainwater, well water, city water, ocean water. If you don't have any fresh water, go ahead and use snow. If you don't have any snow available to you, then use salt water because there's no adverse effect to the fuel cell.
+> — **Stanley Meyer**, television interview
 
 > The court found Meyer guilty of "gross and egregious fraud."
 > — **Ohio Court Ruling**, 1996, after expert witnesses testified that Meyer's device performed ordinary electrolysis

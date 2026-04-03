@@ -1,3 +1,4 @@
+[< Back to UAP Deaths List](index.md) | [Books](books.md) | [Podcasts](podcasts.md)
 
 # YouTube Channels — UAP Deaths, Disclosure & Government Secrecy
 
@@ -51,11 +52,10 @@ A curated guide to YouTube channels that cover UAP/UFO disclosure, suspicious de
   - Analysis of the GEC-Marconi scientist deaths cluster (one of the few channels to do comprehensive coverage)
   - Coverage of [Phil Schneider](Details/Phil_Schneider.md)'s claims and suspicious death
   - Historical analysis of [James Forrestal](Details/James_Forrestal.md)'s death and MJ-12 connections
-  - Discussion of [William Cooper](Details/William_Cooper.md)'s claims and death
   - Analysis of military pilot encounters and disappearances
   - Coverage of [Mark McCandlish](Details/Mark_McCandlish.md)'s death and the Flux Liner testimony
   - Series on the history of UFO cover-ups spanning decades
-- **Profiled People Covered:** [James Forrestal](Details/James_Forrestal.md), [Phil Schneider](Details/Phil_Schneider.md), [William Cooper](Details/William_Cooper.md), [Mark McCandlish](Details/Mark_McCandlish.md), [David Grusch](Details/David_Grusch.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Frank Olson](Details/Frank_Olson.md), [Bob Lazar](Details/Bob_Lazar.md)
+- **Profiled People Covered:** [James Forrestal](Details/James_Forrestal.md), [Phil Schneider](Details/Phil_Schneider.md), [Mark McCandlish](Details/Mark_McCandlish.md), [David Grusch](Details/David_Grusch.md), [Stanton Friedman](Details/Stanton_Friedman.md), [Bob Lazar](Details/Bob_Lazar.md)
 
 ---
 
@@ -106,10 +106,9 @@ A curated guide to YouTube channels that cover UAP/UFO disclosure, suspicious de
   - Coverage of Project Blue Book and historical government UAP investigations
   - Investigation into the [Todd Sees](Details/Todd_Sees.md) case
   - Analysis of [J. Allen Hynek](Details/J_Allen_Hynek.md)'s work and legacy
-  - Document analysis related to [Frank Olson](Details/Frank_Olson.md) and CIA programs
   - Document-by-document analysis of AATIP/AAWSAP programs
   - Coverage of the GEC-Marconi scientist deaths
-- **Profiled People Covered:** [J. Allen Hynek](Details/J_Allen_Hynek.md), [Frank Olson](Details/Frank_Olson.md), [Edward Ruppelt](Details/Edward_Ruppelt.md), [Todd Sees](Details/Todd_Sees.md), [David Grusch](Details/David_Grusch.md), [Lue Elizondo](Details/Lue_Elizondo.md)
+- **Profiled People Covered:** [J. Allen Hynek](Details/J_Allen_Hynek.md), [Edward Ruppelt](Details/Edward_Ruppelt.md), [Todd Sees](Details/Todd_Sees.md), [David Grusch](Details/David_Grusch.md), [Lue Elizondo](Details/Lue_Elizondo.md)
 
 ---
 
@@ -237,7 +236,7 @@ A curated guide to YouTube channels that cover UAP/UFO disclosure, suspicious de
   - *MJ-12: The Secret Government and UFO Cover-Up*
   - *Nikola Tesla: The Man Who Invented the 20th Century* — [Nikola Tesla](Details/Nikola_Tesla.md)
   - Coverage of the Rendlesham Forest incident — connected to [John Burroughs](Details/John_Burroughs.md)
-- **Profiled People Covered:** [Phil Schneider](Details/Phil_Schneider.md), [Bob Lazar](Details/Bob_Lazar.md), [James Forrestal](Details/James_Forrestal.md), [Nikola Tesla](Details/Nikola_Tesla.md), [William Cooper](Details/William_Cooper.md), [John Burroughs](Details/John_Burroughs.md)
+- **Profiled People Covered:** [Phil Schneider](Details/Phil_Schneider.md), [Bob Lazar](Details/Bob_Lazar.md), [James Forrestal](Details/James_Forrestal.md), [Nikola Tesla](Details/Nikola_Tesla.md), [John Burroughs](Details/John_Burroughs.md)
 
 ---
 
@@ -361,18 +360,6 @@ A curated guide to YouTube channels that cover UAP/UFO disclosure, suspicious de
   - Appearances in UFO documentaries and news programs
   - Multiple appearances on Larry King Live
 - **Profiled People Covered:** [Stanton Friedman](Details/Stanton_Friedman.md), [James Forrestal](Details/James_Forrestal.md)
-
----
-
-### William Cooper Lectures & Hour of the Time (Various Channels)
-- **Subject:** [William Cooper](Details/William_Cooper.md)
-- **Description:** [William Milton Cooper](Details/William_Cooper.md), former U.S. Naval Intelligence briefing team member and author of *Behold a Pale Horse*, gave numerous lectures in the early 1990s claiming knowledge of government UFO cover-ups, secret societies, and classified programs. His shortwave radio show "The Hour of the Time" reached millions of listeners. Cooper was shot and killed by Apache County sheriff's deputies on November 5, 2001, in what officials called an attempt to serve an arrest warrant. His supporters dispute the circumstances of his death. Many of his lectures and radio broadcasts have been preserved on YouTube across various archive channels.
-- **Notable Videos:**
-  - Lectures on government UFO secrecy and alleged alien treaties
-  - "The Hour of the Time" radio broadcast recordings
-  - Presentations on MJ-12 and secret government operations
-  - Lectures connecting intelligence operations to UAP cover-ups
-- **Profiled People Covered:** [William Cooper](Details/William_Cooper.md)
 
 ---
 
@@ -523,7 +510,7 @@ Several important UAP documentaries are available in full or in part on YouTube 
 
 Several patterns emerge when examining YouTube coverage of UAP-related deaths and suppression:
 
-**Coverage concentration on recent whistleblowers.** Channels overwhelmingly focus on living figures like [David Grusch](Details/David_Grusch.md), [Lue Elizondo](Details/Lue_Elizondo.md), and [Ryan Graves](Details/Ryan_Graves.md). Historical deaths like [Phil Schneider](Details/Phil_Schneider.md), [James Forrestal](Details/James_Forrestal.md), and [William Cooper](Details/William_Cooper.md) receive less frequent but more in-depth treatment, typically in documentary-style long-form content.
+**Coverage concentration on recent whistleblowers.** Channels overwhelmingly focus on living figures like [David Grusch](Details/David_Grusch.md), [Lue Elizondo](Details/Lue_Elizondo.md), and [Ryan Graves](Details/Ryan_Graves.md). Historical deaths like [Phil Schneider](Details/Phil_Schneider.md) and [James Forrestal](Details/James_Forrestal.md) receive less frequent but more in-depth treatment, typically in documentary-style long-form content.
 
 **The GEC-Marconi scientist deaths remain underexplored.** Despite being one of the most striking clusters — 25 defense scientists dying in 8 years during the SDI/"Star Wars" era — few major channels have produced comprehensive coverage of the Marconi deaths. Richard Dolan, The Why Files, The Black Vault, and Cristina Gomez are notable exceptions.
 
@@ -546,19 +533,19 @@ Several patterns emerge when examining YouTube coverage of UAP-related deaths an
 - **For mainstream-accessible introductions:** Joe Rogan interviews and NewsNation coverage are the most accessible entry points for people new to the topic.
 - **For archival and historical footage:** Eyes on Cinema is the primary resource for rare, vintage UFO footage and broadcasts.
 - **For legal and legislative analysis:** New Paradigm Institute and Disclosure Team focus on the legal and congressional dimensions.
-- **For first-person testimony:** Check lecture archives of [Phil Schneider](Details/Phil_Schneider.md), [William Cooper](Details/William_Cooper.md), [Stanton Friedman](Details/Stanton_Friedman.md), and [Boyd Bushman](Details/Boyd_Bushman.md) for their own words before their deaths.
+- **For first-person testimony:** Check lecture archives of [Phil Schneider](Details/Phil_Schneider.md), [Stanton Friedman](Details/Stanton_Friedman.md), and [Boyd Bushman](Details/Boyd_Bushman.md) for their own words before their deaths.
 - **For sourcing profiles in Details/:** YouTube interviews count as primary sources when the profiled person is speaking. Note specific video titles and dates.
 
 ---
 
 ## See Also
 
-- [UAP Deaths Master List]#
+- [UAP Deaths Master List](index.md)
 - [Books](books.md) — Published investigations and insider accounts
 - [Podcasts](podcasts.md) — Audio coverage and interviews
-- [Epstein Kill List]# — Parent project
+- [Epstein Kill List](https://intelligencemurders.com/epstein-murders) — Parent project
 - [Energy Suppression](/energy/) — Suppressed energy research deaths
-- [Intel Murders]# — Intelligence service killings
+- [Intel Murders](https://intelligencemurders.com/intelligence-service-murders) — Intelligence service killings
 
 ---
 

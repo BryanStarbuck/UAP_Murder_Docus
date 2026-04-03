@@ -66,7 +66,7 @@ The year 2005 was significant for several reasons:
 - **GE researcher with advanced detonation physics expertise:** Rasheed's publicly documented skills in pulsed detonation — controlling extreme pressure and energy release — are directly relevant to fusion ignition research
 - **2005 timing:** The alleged stroke and threats occurred in the same year as major visibility (TR35 award) and during a period of intense controversy over tabletop fusion
 - **Proprietary/classified research at GE:** Major industrial labs like GE Global Research routinely conduct work that does not appear in public records
-- **Pattern of threats against fusion/energy researchers:** [Nuno Loureiro](Nuno_Loureiro.md) (MIT fusion director, shot dead 2025), [Eugene Mallove](Eugene_Mallove.md) (cold fusion advocate, beaten to death 2004), [B. Stanley Pons]# (career destroyed by Epstein's network)
+- **Pattern of threats against fusion/energy researchers:** [Nuno Loureiro](Nuno_Loureiro.md) (MIT fusion director, shot dead 2025), [Eugene Mallove](Eugene_Mallove.md) (cold fusion advocate, beaten to death 2004), [B. Stanley Pons](https://intelligencemurders.com/epstein-murders/Details/B_Stanley_Pons) (career destroyed by Epstein's network)
 
 ## The Counterargument
 

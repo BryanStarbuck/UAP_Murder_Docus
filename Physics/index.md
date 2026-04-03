@@ -120,7 +120,6 @@ Classified physics behind UAP propulsion — gravity manipulation, warp drives, 
 
 | Name | Role | Platform | Evidence Rating | Details |
 |------|------|----------|-----------------|---------|
-| [William Cooper](Details/William_Cooper.md) | Former Navy Intelligence | Books, radio (*Hour of the Time*) | **DEBATED** | Author of *Behold a Pale Horse* (1991). Claimed to have seen classified Navy documents on extraterrestrial craft and antigravity technology. Shot and killed by sheriff's deputies at his Arizona home, November 2001. Notably predicted a major attack blamed on bin Laden 11 weeks before 9/11. |
 | [William Colby](Details/William_Colby.md) | Former CIA Director | Government | **SUSPICIOUS** | CIA Director 1973-1976. Steven Greer alleges Colby was about to transfer classified extraterrestrial technology knowledge. Drowned after canoe trip, April 1996. Dinner left uneaten, canoe on sandbar. Many associates did not believe the official account. |
 | [James Forrestal](Details/James_Forrestal.md) | First Secretary of Defense | Government | **SUSPICIOUS** | First US Secretary of Defense (1947-1949). Allegedly connected to MJ-12 UAP recovery committee. Fell from 16th floor window at Bethesda Naval Hospital, May 1949. Investigation classified for 55 years; Willcutts Review Board notably did not conclude suicide. |
 
@@ -291,7 +290,6 @@ Based on the convergence of congressional testimony, insider statements, books, 
 - [GEC-Marconi Scientists](Details/GEC_Marconi_Scientists.md) — 25+ UK defense scientists, SDI/directed energy, 1982-1990
 - [Thomas Mantell](Details/Thomas_Mantell.md) — First military pilot killed pursuing UFO, 1948
 - [J. Allen Hynek](Details/J_Allen_Hynek.md) — Project Blue Book advisor, coined "close encounter," brain tumor 1986
-- [William Cooper](Details/William_Cooper.md) — "Behold a Pale Horse," Navy UFO claims, shot by police 2001
 - [Edward Ruppelt](Details/Edward_Ruppelt.md) — First Blue Book director, coined "UFO," heart attack at 37, 1960
 - [John Bedini](Details/John_Bedini.md) — Free energy motor inventor, died same day as brother, 2016
 - [Todd Sees](Details/Todd_Sees.md) — Found dead near UFO hotspot, emaciated body, 2002
@@ -430,7 +428,6 @@ People who appear in both this project and sibling directories:
 | 36 | [Thomas Mantell](Details/Thomas_Mantell.md) | First military pilot killed pursuing UFO; P-51 crashed Jan 1948 near Fort Knox; WWII D-Day veteran; Air Force explanations (Venus, then Skyhook balloon) never fully satisfied witnesses | **SUSPICIOUS** |
 | 37 | [John Murphy](Details/John_Murphy.md) | Kecksburg UFO journalist; documentary censored after government agents confiscated tapes; killed in unsolved hit-and-run, Feb 1969; driver never identified | **SUSPICIOUS** |
 | 38 | [Jim Keith](Details/Jim_Keith.md) | Investigated classified tech and "the Octopus" (same investigation that got [Danny Casolaro](Details/Danny_Casolaro.md) killed); fatal blood clot during knee surgery 1999; told friends "if they put me under, I'm not coming back" | **SUSPICIOUS** |
-| 39 | [William Cooper](Details/William_Cooper.md) | Navy intel, *Behold a Pale Horse* author; claimed access to UFO/antigravity documents; shot by police at his home Nov 2001; predicted 9/11 attack 11 weeks before it happened | **DEBATED** |
 | 40 | [Todd Sees](Details/Todd_Sees.md) | Found dead on Montour Ridge UFO hotspot, Aug 2002; emaciated/white body after 2 days missing; expression of horror; "cocaine toxicity" disputed by family; UFO sightings reported at the time | **SUSPICIOUS** |
 | 41 | [John Bedini](Details/John_Bedini.md) | Free energy/overunity motor inventor; died Nov 2016 same day as his brother Gary, four hours apart; both deaths sudden and unexpected | **SUSPICIOUS** |
 | 42 | [Edward Ruppelt](Details/Edward_Ruppelt.md) | First Project Blue Book director; added debunking chapters contradicting his pro-UFO book, believed under government pressure; heart attack at 37 in 1960 | **LIGHTLY SUSPICIOUS** |

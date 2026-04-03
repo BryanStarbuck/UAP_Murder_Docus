@@ -1,3 +1,4 @@
+[< Back to UAP Deaths List](index.md) | [Podcasts](podcasts.md) | [YouTube Channels](youtube_channels.md)
 
 # Books: UAP Deaths, Disclosure, and Government Cover-Ups
 
@@ -10,7 +11,6 @@ Essential reading for understanding the pattern of suspicious deaths, silenced w
 | Title | Author | Year | Description |
 |-------|--------|------|-------------|
 | *Imminent: Inside the Pentagon's Hunt for UFOs* | Luis Elizondo | 2024 | Former AATIP director's account of running the Pentagon's UAP investigation program, the bureaucratic resistance he faced, and the retaliation against him and others who pushed for transparency. Connects to [Lue Elizondo](Details/Lue_Elizondo.md). |
-| *Behold a Pale Horse* | William Cooper | 1991 | Former Naval intelligence officer's explosive claims about government UFO programs, secret societies, and cover-ups. Cooper was shot dead by sheriff's deputies in 2001. Connects to [William Cooper](Details/William_Cooper.md). |
 | *The Day After Roswell* | Philip Corso | 1997 | Lt. Col. Corso claims he personally oversaw the seeding of recovered alien technology to U.S. defense contractors. He suffered heart attacks shortly after publication and died in 1998. Connects to [Philip Corso](Details/Philip_Corso.md). |
 | *Behind the Flying Saucers* | Frank Scully | 1950 | One of the first books to allege UFO crash retrievals, based on testimony from scientist Silas Newton. Scully was later discredited in a campaign some researchers consider deliberate. Connects to [Frank Scully](Details/Frank_Scully.md). |
 | *Dreamland: An Autobiography* | Bob Lazar with George Knapp | 2019 | Lazar's first-person account of allegedly working on recovered alien craft at S-4 near Area 51 in the late 1980s. Details government intimidation and surveillance he endured. Connects to [Bob Lazar](Details/Bob_Lazar.md), [George Knapp](Details/George_Knapp.md). |
@@ -18,7 +18,7 @@ Essential reading for understanding the pattern of suspicious deaths, silenced w
 | *PHILIP SCHNEIDER: One of the Bravest Whistleblowers of the 20th Century* | Arthur Berkeley | 2018 | Documents Phil Schneider's claims about deep underground military bases (DUMBs), alleged alien encounters during the Dulce base construction, and his lecture tour warning the public before his death by apparent suicide in 1996. Connects to [Phil Schneider](Details/Phil_Schneider.md). |
 | *UFO Whistleblowers: The History of Explosive Revelations* | Conrad Bauer | 2023 | Surveys the history of UFO whistleblowers from early military insiders to modern witnesses like David Grusch. Covers the personal costs of disclosure — career destruction, threats, and suspicious deaths. |
 
-**Key Connections:** [Lue Elizondo](Details/Lue_Elizondo.md) | [William Cooper](Details/William_Cooper.md) | [Philip Corso](Details/Philip_Corso.md) | [Frank Scully](Details/Frank_Scully.md) | [Bob Lazar](Details/Bob_Lazar.md) | [George Knapp](Details/George_Knapp.md) | [Phil Schneider](Details/Phil_Schneider.md) | [David Grusch](Details/David_Grusch.md)
+**Key Connections:** [Lue Elizondo](Details/Lue_Elizondo.md) | [Philip Corso](Details/Philip_Corso.md) | [Frank Scully](Details/Frank_Scully.md) | [Bob Lazar](Details/Bob_Lazar.md) | [George Knapp](Details/George_Knapp.md) | [Phil Schneider](Details/Phil_Schneider.md) | [David Grusch](Details/David_Grusch.md)
 
 ---
 
@@ -27,18 +27,16 @@ Essential reading for understanding the pattern of suspicious deaths, silenced w
 | Title | Author | Year | Description |
 |-------|--------|------|-------------|
 | *Close Encounters of the Fatal Kind: Suspicious Deaths, Mysterious Murders, and UFO Cover-Ups* | Nick Redfern | 2014 | Comprehensive catalog of suspicious deaths, murders, and disappearances throughout UFO history. Covers many people profiled in this project. Essential reference. |
-| *A Terrible Mistake: The Murder of Frank Olson and the CIA's Secret Cold War Experiments* | H.P. Albarelli Jr. | 2009 | Exhaustive investigation into [Frank Olson](Details/Frank_Olson.md)'s 1953 death, connecting it to MKULTRA, biological weapons, and the CIA's covert operations. 826 pages of documented evidence. |
 | *Open Verdict: An Account of 25 Mysterious Deaths in the Defence Industry* | Tony Collins | 1990 | Investigative journalist's book on the GEC-Marconi scientist deaths (1982-1990). 25 defense scientists working on SDI/Star Wars-related projects died under suspicious circumstances. Connects to [Alistair Beckham](Details/Alistair_Beckham.md), [Ashad Sharif](Details/Ashad_Sharif.md), [Vimal Dajibhai](Details/Vimal_Dajibhai.md), [David Sands](Details/David_Sands.md), [Keith Bowden](Details/Keith_Bowden.md), and others. |
 | *The Killers* | Otto Binder | 1971 | Documented 137 UFO researchers, scientists, and witnesses who died mysteriously in the preceding decade. Pioneering work that established the pattern this project continues to document. |
 | *Liquidation of the UFO Investigators* | G. Cope Schellhorn | 1997 | Tabulated deaths of ufologists from "unusual cancers, heart attacks, questionable suicides, and all manner of strange happenings." Available as PDF. |
 | *Body Snatchers in the Desert: The Horrible Truth at the Heart of the Roswell Story* | Nick Redfern | 2005 | Proposes that Roswell was a cover for secret human experimentation programs. Examines how witnesses and investigators were silenced. |
 | *The FBI-CIA-UFO Connection* | Bruce Maccabee | 2014 | Documents how U.S. intelligence agencies monitored, infiltrated, and suppressed UFO research. Reveals FBI and CIA files on UFO investigators, some of whom died under suspicious circumstances. |
-| *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control* | Stephen Kinzer | 2019 | Biography of Sidney Gottlieb, head of MKUltra. Covers the Frank Olson case within the broader context of CIA chemical and biological experiments on unwitting subjects. Essential for understanding the institutional culture that murders and covers up. Connects to [Frank Olson](Details/Frank_Olson.md). |
+| *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control* | Stephen Kinzer | 2019 | Biography of Sidney Gottlieb, head of MKUltra. Covers the Frank Olson case within the broader context of CIA chemical and biological experiments on unwitting subjects. Essential for understanding the institutional culture that murders and covers up. |
 | *The Death of James Forrestal* | Cornell Simpson | 1966 | One of the earliest books to question the official suicide ruling of America's first Secretary of Defense. Divided into "Suicide or Murder?" and "Who Could Have Murdered Forrestal — and Why?" Connects to [James Forrestal](Details/James_Forrestal.md). |
-| *The Coldest Warrior* | Paul Vidich | 2020 | A historical spy novel inspired by the Frank Olson case. Written by the nephew of Olson's widow, the book imagines what really happened when a CIA scientist was murdered to protect classified programs. Connects to [Frank Olson](Details/Frank_Olson.md). |
 | *The Reporter Who Knew Too Much* | Mark Shaw | 2016 | Investigates journalist Dorothy Kilgallen's 1965 death, connecting it to her JFK assassination and UFO research. She was found dead from a "barbiturate overdose" while investigating the JFK case and had separately published a column about interviewing a British government source about UFOs. Connects to [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md). |
 
-**Key Connections:** [Frank Olson](Details/Frank_Olson.md) | [James Forrestal](Details/James_Forrestal.md) | [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | [Alistair Beckham](Details/Alistair_Beckham.md) | [Ashad Sharif](Details/Ashad_Sharif.md) | [Vimal Dajibhai](Details/Vimal_Dajibhai.md) | [David Sands](Details/David_Sands.md) | [Keith Bowden](Details/Keith_Bowden.md) | [Peter Peapell](Details/Peter_Peapell.md) | [Trevor Knight](Details/Trevor_Knight.md) | [Victor Moore](Details/Victor_Moore.md)
+**Key Connections:** [James Forrestal](Details/James_Forrestal.md) | [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | [Alistair Beckham](Details/Alistair_Beckham.md) | [Ashad Sharif](Details/Ashad_Sharif.md) | [Vimal Dajibhai](Details/Vimal_Dajibhai.md) | [David Sands](Details/David_Sands.md) | [Keith Bowden](Details/Keith_Bowden.md) | [Peter Peapell](Details/Peter_Peapell.md) | [Trevor Knight](Details/Trevor_Knight.md) | [Victor Moore](Details/Victor_Moore.md)
 
 ---
 
@@ -216,7 +214,6 @@ Many of these books are themselves evidence in this investigation — their auth
 - Rendlesham Forest: Pope, Burroughs & Penniston, *Encounter in Rendlesham Forest*
 - Government disinformation: Greg Bishop, *Project Beta*
 - Reverse engineering and exotic technology: Nick Cook, *The Hunt for Zero Point*
-- Frank Olson and CIA programs: H.P. Albarelli, *A Terrible Mistake*
 - James Forrestal: David Martin, *The Assassination of James Forrestal*
 - Congressional disclosure: U.S. Congress, *Transcript of the Congressional Hearing on UAPs*
 
@@ -224,11 +221,11 @@ Many of these books are themselves evidence in this investigation — their auth
 
 ## See Also
 
-- [UAP Deaths Master List]#
+- [UAP Deaths Master List](index.md)
 - [Podcasts](podcasts.md) — Audio coverage of these cases
 - [YouTube Channels](youtube_channels.md) — Video coverage and interviews
-- [Epstein Kill List]# — Parent project
+- [Epstein Kill List](https://intelligencemurders.com/epstein-murders) — Parent project
 - [Energy Suppression](/energy/) — Suppressed energy research deaths
-- [Intel Murders]# — Intelligence service killings
+- [Intel Murders](https://intelligencemurders.com/intelligence-service-murders) — Intelligence service killings
 
 *This information was built by Grok and Claude AI research.*

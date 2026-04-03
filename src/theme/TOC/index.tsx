@@ -65,11 +65,6 @@ const people: Person[] = [
     blurb: "Age 57. First U.S. Secretary of Defense. Fell from 16th-floor window with bathrobe cord around neck. Navy never ruled it suicide. Bethesda, Maryland.",
   },
   {
-    name: "Frank Olson",
-    path: "/uaps/Details/Frank_Olson",
-    blurb: "Age 43. CIA bioweapons scientist fell from 13th floor. Secretly dosed with LSD nine days prior. Skull fracture inconsistent with fall. New York.",
-  },
-  {
     name: "Richard Pugh",
     path: "/uaps/Details/Richard_Pugh",
     blurb: "Plastic bag on head, feet bound, rope around body. MOD consultant. Ruled \u2018sexual misadventure.\u2019 Death method repeated three months later. England.",
@@ -128,11 +123,6 @@ const people: Person[] = [
     name: "Zigmund Adamski",
     path: "/uaps/Details/Zigmund_Adamski",
     blurb: "Age 56. Missing five days, only one day\u2019s beard growth. Unexplained burns, unidentified ointment on skin, shirt gone. Coal miner buying potatoes. Yorkshire, England.",
-  },
-  {
-    name: "William Cooper",
-    path: "/uaps/Details/William_Cooper",
-    blurb: "Age 58. Author of Behold a Pale Horse. Predicted 9/11-style attack on radio three months before it happened. Shot by deputies at his Arizona home.",
   },
   {
     name: "Max Spiers",

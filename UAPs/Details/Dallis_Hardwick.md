@@ -102,7 +102,7 @@ While Hardwick's death predates the cluster by a decade, The Sentinel Network in
 - [Jacob Prichard](Jacob_Prichard.md) — Wright-Patterson AFRL employee; double murder-suicide October 2025
 - [Anthony Chavez](Anthony_Chavez.md) — Former LANL employee; vanished May 2025
 - [Melissa Casias](Melissa_Casias.md) — DOE advisory board member connected to LANL; vanished June 2025
-- [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of defense scientist deaths and disappearances
+- [AFRL Scientist Cluster (2025-2029)](../../groups/afrl_cluster_2025_2029.md) — The broader pattern of defense scientist deaths and disappearances
 
 ## Other Shocking Stories
 

@@ -45,7 +45,7 @@ If a thesis, person, or piece of evidence addresses any aspect of UAP physics â€
 
 ## Docusaurus Site Structure
 
-This directory is rendered by the Docusaurus site at https://UAPMurders.com/. The site is configured in the parent directory at `~/BGit/Bryan/UAP_Murder_Docus/`.
+This directory is rendered by the Docusaurus site at https://UAPMurders.com/. The site is configured in the parent directory at `~/BGit/Bryan_git/UAP_Murder_Docus/`.
 
 ### Directory Layout
 
@@ -81,7 +81,7 @@ Physics/
 
 ## Content Sync
 
-The authoritative content source for this section is `~/BGit/Bryan/Deep_State/other/UAP_Physics/`. See the parent `CLAUDE.md` for sync procedures. Local formatting (frontmatter, Docusaurus-specific links) is preserved during syncs.
+The authoritative content source for this section is `~/BGit/Bryan_git/Deep_State/other/UAP_Physics/`. See the parent `CLAUDE.md` for sync procedures. Local formatting (frontmatter, Docusaurus-specific links) is preserved during syncs.
 
 ---
 

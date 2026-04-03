@@ -31,7 +31,6 @@ Researchers, whistleblowers, and military insiders killed or disappeared for wha
 | [Jaymee Prichard](Details/Jaymee_Prichard.md) | 2025 | Strangled (victim of murder-suicide) | **UNCERTAIN (UAP link)** | AFLCMC finance specialist, Wright-Patterson AFB, age 33. Killed by husband Jacob Prichard. Was earning MBA while working full-time. Part of AFRL Scientist Cluster. |
 | [1st Lt. Jaime Gustitus](Details/Jaime_Gustitus.md) | 2025 | Shot (victim of murder-suicide) | **UNCERTAIN (UAP link)** | Operations Research Analyst, AFRL 711th Human Performance Wing, TS/SCI cleared, age 25. Air Force Academy 2022, MS Operations Research from AFIT. Specialized in mathematical/quantitative modeling for aerospace. Shot by Jacob Prichard at her Sugarcreek Township condo. No motive established. Part of AFRL Scientist Cluster. |
 | [John Rossi](Details/John_Rossi.md) | 2016 | Hanging, ruled suicide | **HIGHLY SUSPICIOUS** | U.S. Army Major General, commanding general of Space and Missile Defense Command at Redstone Arsenal (Huntsville, AL). Found hanged two days before three-star promotion. Army cited stress/sleep deprivation. Anonymous X accounts claim he was killed for refusing to transfer nuclear material to private contractors; incident allegedly filed with Pentagon IG. Highest-ranking Army officer to die by suicide at the time. Redstone Arsenal is a key hub for classified space/nuclear/UAP-adjacent research. |
-| [William Cooper](Details/William_Cooper.md) | 2001 | Shot by sheriff's deputies | **SUSPICIOUS** | Author of *Behold a Pale Horse*. Former Naval intelligence. Made UAP disclosure claims. Predicted 9/11-type attack months before. Killed in nighttime tactical operation two months after 9/11. |
 | [Phil Schneider](Details/Phil_Schneider.md) | 1996 | Found dead, catheter wrapped around neck | **HIGHLY SUSPICIOUS** | Ex-government geologist who claimed involvement in building DUMBs and alleged firefight with aliens at Dulce base. Found dead in apartment. Ex-wife believes murder. Lectured publicly for two years before death. |
 | [Robert Frost (Area 51)](Details/Robert_Frost_Area51.md) | ~1990s | Toxic exposure | **SUSPICIOUS** | Civilian contractor at Groom Lake. Died at 57. Biopsies showed tissues filled with dioxin, dibenzofuran, and trichloroethylene -- industrial toxins rarely seen in humans. Widow's lawsuit blocked by "state secrets privilege." Supreme Court refused appeal. |
 | [Walter Kasza (Area 51)](Details/Walter_Kasza_Area51.md) | ~1990s | Toxic exposure | **SUSPICIOUS** | Civilian contractor at Groom Lake. Died at 73 from toxic waste burned in open trenches. Widow joined lawsuit. Air Force classified all information about Area 51 to avoid liability. EPA failed to enforce hazardous materials laws at the site. |
@@ -39,7 +38,6 @@ Researchers, whistleblowers, and military insiders killed or disappeared for wha
 | [Leonard Stringfield](Details/Leonard_Stringfield.md) | 1994 | Lung cancer | **MODERATE SUSPICION** | Pioneer crash-retrieval researcher. Published seven Status Reports on UFO crash recoveries. Threatened twice before first 1978 MUFON talk; escorted away by plainclothes security. Government interference documented throughout career. Died of cancer at 74 in Cincinnati. |
 | [Robert F. Kennedy](Details/Robert_F_Kennedy.md) | 1968 | Assassinated by gunshot | **UNCERTAIN (UFO link)** | U.S. Senator. Some theorists claim killed to prevent continuation of JFK's alleged UFO disclosure efforts. No direct evidence links RFK assassination to UAPs. Mainstream conspiracy theories center on second-gunman and CIA involvement for other reasons. |
 | [John F. Kennedy](Details/John_F_Kennedy.md) | 1963 | Assassinated by gunshot | **UNCERTAIN (UFO link)** | U.S. President. Theorists (incl. Steven Greer) claim he was killed over plans to disclose UFO info. A memo dated Nov 12, 1963 allegedly shows JFK requesting CIA UFO files — 10 days before assassination. Memo's authenticity disputed by historians. UFO connection is a fringe theory; mainstream assassination theories center on other motives. |
-| [Frank Olson](Details/Frank_Olson.md) | 1953 | Fell from hotel window | **HIGHLY SUSPICIOUS** | CIA scientist (MKULTRA). 1994 exhumation found cranial injuries consistent with being knocked unconscious before fall. Overlaps with both UAP and intelligence murder lists. |
 | [James Forrestal](Details/James_Forrestal.md) | 1949 | Fell from hospital window | **HIGHLY SUSPICIOUS** | First U.S. Secretary of Defense. Allegedly knew about recovered craft. Institutionalized after "breakdown." Fell from 16th floor of Bethesda Naval Hospital. Bathrobe sash tied around neck. Seymour Hersh implied CIA assassination. |
 | [Harald Malmgren](Details/Harald_Malmgren.md) | 2025 | Natural causes (age 89) | **NOT SUSPICIOUS** | Economist/diplomat who served four presidents. Made deathbed claims of handling UFO debris and witnessing craft shoot-down in 1962. However, FBI files declassified May 2025 proved he fabricated key claims about his security clearances and roles. Died Feb 13, 2025. |
 | [Capt. Uyrange Hollanda](Details/Uyrange_Hollanda.md) | 1997 | Hanging, ruled suicide | **HIGHLY SUSPICIOUS** | Brazilian Air Force captain who commanded Operation Saucer (Operação Prato), 1977-78 investigation of UFO attacks on Colares island. Gave detailed interview to ufologists in 1997. Found hanged with bathrobe belt three months later. |
@@ -132,7 +130,7 @@ These deaths have been connected to UAP cover-ups by theorists on social media p
 
 ## Scientists and Energy Researchers (Suppressed Technology)
 
-This section is a superset of the directory. UAP disclosure advocates — including David Grusch, Steven Greer, and multiple congressional witnesses — assert that breakthrough energy technology is derived from or connected to recovered non-human craft. The suppression of energy inventors and the suppression of UAP information share the same methods (staged suicides, seized research, classified patents, career destruction) and often the same institutional actors.
+This section is a superset of the [UAP Energy Systems Murders](/energy/) directory. UAP disclosure advocates — including David Grusch, Steven Greer, and multiple congressional witnesses — assert that breakthrough energy technology is derived from or connected to recovered non-human craft. The suppression of energy inventors and the suppression of UAP information share the same methods (staged suicides, seized research, classified patents, career destruction) and often the same institutional actors.
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
@@ -263,7 +261,7 @@ Between 1982 and 1990, at least 25 British scientists and engineers working for 
 
 **"Suicide" before testimony or disclosure:** [James Forrestal](Details/James_Forrestal.md) died before he could speak publicly about what he knew as Defense Secretary. [Mark McCandlish](Details/Mark_McCandlish.md) died reportedly before scheduled Senate testimony on UAPs. [Ron Rummel](Details/Ron_Rummel.md) died after publishing sensitive material in *Alien Digest*. [Phil Schneider](Details/Phil_Schneider.md) died after two years of public lectures about classified underground bases. An [unnamed 35-year-old whistleblower](Details/Mr_35_Year_Old_Murdered_Whistleblower.md) connected to David Grusch was reportedly found dead with a suicide note while preparing to come forward (~2026). The pattern mirrors the Epstein network: people who threaten to disclose classified information die before they can.
 
-**Staged suicides with forensic anomalies:** [Ron Rummel](Details/Ron_Rummel.md) — no blood on gun barrel, no fingerprints on handle, suicide note written by wrong hand. [Phil Schneider](Details/Phil_Schneider.md) — found with catheter wrapped around neck, ex-wife disputes suicide. [Mark McCandlish](Details/Mark_McCandlish.md) — associates contest suicide ruling. These mirror the pattern seen in Epstein, Mark Middleton, and David Kelly.
+**Staged suicides with forensic anomalies:** [Ron Rummel](Details/Ron_Rummel.md) — no blood on gun barrel, no fingerprints on handle, suicide note written by wrong hand. [Phil Schneider](Details/Phil_Schneider.md) — found with catheter wrapped around neck, ex-wife disputes suicide. [Mark McCandlish](Details/Mark_McCandlish.md) — associates contest suicide ruling. These mirror the pattern seen in [Epstein](https://intelligencemurders.com/epstein-murders/Details/Jeffrey_Epstein), [Mark Middleton](https://intelligencemurders.com/epstein-murders/Details/Mark_Middleton), and [David Kelly](https://intelligencemurders.com/intelligence-service-murders/Details/David_Kelly).
 
 **The Marconi cluster (1982–1990):** Twenty-five defense scientists working on SDI/Star Wars projects died within eight years. Most deaths were ruled suicide. Methods included: driving into buildings with petrol cans, tying rope to tree and driving off, electrocution with electrical leads, being found bound and gagged in a lake (ruled "suicide"). The statistical probability of this cluster occurring naturally has been questioned in British Parliament.
 
@@ -271,7 +269,7 @@ Between 1982 and 1990, at least 25 British scientists and engineers working for 
 
 **Disclosure Project witnesses:** [Karl Wolfe](Details/Karl_Wolfe.md) (2001 Disclosure Project witness, killed by truck while cycling, 2018) and [Mark McCandlish](Details/Mark_McCandlish.md) (2001 Disclosure Project witness, shotgun death ruled suicide, 2021) both participated in Steven Greer's 2001 National Press Club event where 20+ military/intelligence witnesses went public. Two of those witnesses are now dead under disputed circumstances.
 
-**Suppressed energy technology deaths:** [Stanley Meyer](Details/Stanley_Meyer.md) (water fuel cell, died saying "they poisoned me"), [Eugene Mallove](Details/Eugene_Mallove.md) (cold fusion advocate, beaten to death), and the Epstein file's own B. Stanley Pons (cold fusion, Epstein emailed "I killed Pons years ago"). Researchers working on breakthrough energy technology — which UAP disclosure advocates say is derived from recovered craft — die or have their careers destroyed.
+**Suppressed energy technology deaths:** [Stanley Meyer](Details/Stanley_Meyer.md) (water fuel cell, died saying "they poisoned me"), [Eugene Mallove](Details/Eugene_Mallove.md) (cold fusion advocate, beaten to death), and the Epstein file's own [B. Stanley Pons](https://intelligencemurders.com/epstein-murders/Details/B_Stanley_Pons) (cold fusion, Epstein emailed "I killed Pons years ago"). Researchers working on breakthrough energy technology — which UAP disclosure advocates say is derived from recovered craft — die or have their careers destroyed.
 
 **Congressional testimony on killings:** David Grusch testified in July 2023 that he had "personal knowledge of people who've been harmed or injured" in efforts to conceal non-human technology. He confirmed people had gone missing or been killed. He would only provide details in a classified setting (SCIF). Multiple whistleblowers have testified to "administrative terrorism" — career destruction, blacklisting, and threats.
 
@@ -317,20 +315,21 @@ Senate Majority Leader Chuck Schumer introduced the UAP Disclosure Act as part o
 
 ## Cross-References
 
-**Epstein Kill List (sex-trafficking blackmail deaths):** Epstein Kill List
-* B. Stanley Pons — Epstein claimed to have "killed" his cold fusion career
-* [Bill Cooper](Details/William_Cooper.md) — appears on both lists (Intel Murders and UAP)
+**Epstein Kill List (sex-trafficking blackmail deaths):** [Epstein Kill List](https://intelligencemurders.com/epstein-murders)
+* [B. Stanley Pons](https://intelligencemurders.com/epstein-murders/Details/B_Stanley_Pons) — Epstein claimed to have "killed" his cold fusion career
 
-**Intelligence Service Murders:** Intel Murders
-* [Frank Olson](Details/Frank_Olson.md) — CIA scientist, MKULTRA, fell from window (overlaps both lists)
-* Karen Silkwood — nuclear whistleblower pattern parallels UAP whistleblower deaths
-* David Kelly — weapons scientist "suicide" pattern
+**Intelligence Service Murders:** [Intel Murders](https://intelligencemurders.com/intelligence-service-murders)
+* [Karen Silkwood](https://intelligencemurders.com/intelligence-service-murders/Details/Karen_Silkwood) — nuclear whistleblower pattern parallels UAP whistleblower deaths
+* [David Kelly](https://intelligencemurders.com/intelligence-service-murders/Details/David_Kelly) — weapons scientist "suicide" pattern
 
-**Groups directory:** Groups
-* [AFRL Scientist Cluster (2025-2029)]# — nine AFRL-connected casualties/disappearances in nine months, documented by The Sentinel Network
+**UAP Energy Systems Murders:** [Energy Suppression](/energy/)
+* Covers zero-point energy, cold fusion, water fuel cells, and other suppressed breakthroughs with UAP overlap
+
+**Groups:**
+* AFRL Scientist Cluster (2025-2029) — eleven AFRL-connected casualties/disappearances in nineteen months, documented by The Sentinel Network
 * GEC-Marconi Scientists (1982-1990) — ~25 British defense scientists dead in eight years; structural parallel to AFRL cluster
-* [CIA]# — alleged UAP crash retrieval and cover-up programs
-* [Kroll Associates]# — private intelligence with defense contractor ties
+* CIA — alleged UAP crash retrieval and cover-up programs
+* Kroll Associates — private intelligence with defense contractor ties
 
 ---
 
@@ -377,7 +376,6 @@ Primary references include:
 - [Anomalien: UFO Investigators Murdered — Who Is Killing Them and Why](https://anomalien.com/ufo-investigators-murdered-who-is-killing-them-and-why/)
 - G. Cope Schellhorn, "Liquidation of the UFO Investigators" (1997, PDF)
 - Philip Corso, *The Day After Roswell* (1997)
-- H.P. Albarelli Jr., *A Terrible Mistake: The Murder of Frank Olson and the CIA's Secret Cold War Experiments* (2009)
 
 David Grusch, under oath, July 26, 2023: *"I was informed, in the course of my official duties, of a multi-decade UAP crash retrieval and reverse engineering program, to which I was denied access."*
 

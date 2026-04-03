@@ -59,7 +59,6 @@ Runyon Jr. wrote about UFO topics among other subjects. He appeared on G. Cope S
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases
 - [Karl Wolfe](Karl_Wolfe.md) — Air Force analyst killed in hit-and-run after revealing moon base photographs
 - [Mark McCandlish](Mark_McCandlish.md) — shotgun death ruled suicide days before testimony on anti-gravity craft
-- [William Cooper](William_Cooper.md) — shot dead by authorities after years of exposing government UFO secrets
 
 ## Sources
 

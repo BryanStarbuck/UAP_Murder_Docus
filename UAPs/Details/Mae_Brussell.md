@@ -66,7 +66,6 @@ Brussell received death threats during her investigation of the Presidio case. S
 
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who died while investigating classified information
 - [Jim Keith](Jim_Keith.md) — Conspiracy author who died of a blood clot following knee surgery in 1999
-- [William Cooper](William_Cooper.md) — Author of *Behold a Pale Horse* who was shot by sheriff's deputies in 2001
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting cancer at 48
 - [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference in 2006
 

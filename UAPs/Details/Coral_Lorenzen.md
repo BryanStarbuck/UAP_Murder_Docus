@@ -93,7 +93,6 @@ APRO's dissolution after the Lorenzens' deaths left a significant gap in civilia
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases
 - [Karla Turner](Karla_Turner.md) — alien abduction researcher struck down by fast-acting cancer at 48
 - [Mark McCandlish](Mark_McCandlish.md) — shotgun death ruled suicide days before testimony on anti-gravity craft
-- [William Cooper](William_Cooper.md) — shot dead after years of exposing government UFO secrets
 
 ## Sources
 

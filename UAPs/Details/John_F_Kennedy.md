@@ -63,7 +63,6 @@ Steven Greer and authors such as Michael Salla (*Kennedy's Last Stand*) and Kenn
 
 - [Robert F. Kennedy](Robert_F_Kennedy.md) — Brother, also assassinated; some theorists extend the UFO theory to his killing
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating the JFK assassination who died under suspicious circumstances
-- [Frank Olson](Frank_Olson.md) — CIA scientist whose death illustrates patterns of intelligence agency cover-ups
 
 ## Other Shocking Stories
 

@@ -90,9 +90,12 @@ He told associates that the PROMIS software theft was connected to the same netw
 
 > "The investigation into Casolaro's death was inadequate." — House Judiciary Committee review
 
+## Netflix Documentary
+
+In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https://www.netflix.com/title/81168725), a four-part documentary series directed by Zachary Treitz. The series follows photojournalist Christian Hansen as he picks up Danny Casolaro's investigation decades later, re-examining the PROMIS software theft, the Octopus network, and the circumstances of Casolaro's death. The documentary brought renewed public attention to the case and introduced a new generation to the questions surrounding his death.
+
 ## Legacy and Ongoing Investigation
 
-- The 2024 Netflix documentary *American Conspiracy: The Octopus Murders* brought renewed attention to the case
 - INSLAW's founders, Bill and Nancy Hamilton, have maintained that the PROMIS theft was real and that Casolaro was murdered for getting too close
 - Multiple FOIA requests related to Casolaro's investigation have been filed with limited results
 - His death has become a landmark case in the study of journalist deaths connected to national security investigations
@@ -100,7 +103,6 @@ He told associates that the PROMIS software theft was connected to the same netw
 ## See Also
 
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — journalist found dead while investigating classified matters, notes disappeared
-- [Frank Olson](Frank_Olson.md) — CIA scientist whose "suicide" has been challenged for decades
 - [James Forrestal](James_Forrestal.md) — Secretary of Defense who allegedly knew about Roswell, fell from hospital window
 - [Bob Lazar](Bob_Lazar.md) — Area 51 whistleblower who claimed to work on reverse-engineering alien craft
 - [Philip Corso](Philip_Corso.md) — Army colonel who wrote about Roswell technology being seeded to defense contractors
@@ -111,7 +113,6 @@ He told associates that the PROMIS software theft was connected to the same netw
 - [Phil Schneider](Phil_Schneider.md) — strangled with catheter tube after warning he'd be killed for exposing underground bases
 - [Karl Wolfe](Karl_Wolfe.md) — Air Force analyst killed in hit-and-run after revealing moon base photographs
 - [Mark McCandlish](Mark_McCandlish.md) — shotgun death ruled suicide days before testimony on classified anti-gravity craft
-- [William Cooper](William_Cooper.md) — shot dead by authorities after years of exposing government UFO secrets
 
 ## Sources
 

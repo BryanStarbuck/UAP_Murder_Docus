@@ -7,9 +7,15 @@ sidebar_position: 1
 
 # Suppressed Energy Breakthroughs: Suspicious Deaths of Inventors, Physicists, and Investors
 
-Inventors and physicists working on zero-point energy, cold fusion, water fuel cells, and other suppressed breakthroughs — killed for what they built.
+For over a century, inventors and researchers who have claimed breakthroughs in energy technology — zero-point energy, cold fusion, water fuel cells, radiant energy, and other systems that go beyond conventional combustion, batteries, and grid power — have died under circumstances that range from clearly natural to deeply suspicious. Labs have been raided. Patents have been seized under national security orders. Funding has been cut overnight. Careers have been destroyed.
 
-130 people likely murdered.
+The pattern is consistent: an inventor or physicist announces or demonstrates a device that allegedly produces energy beyond what conventional physics says is possible. Then one or more of the following happens: government agencies issue gag orders or seize the technology, the inventor's lab is destroyed or ransacked, the inventor dies suddenly — often just before securing funding, publishing results, or going public — and the research disappears.
+
+Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
+
+This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **130 people likely murdered.**
+
+**[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 
@@ -42,7 +48,7 @@ Inventors and physicists working on zero-point energy, cold fusion, water fuel c
 | [Ken Rasmussen](Details/Ken_Rasmussen.md) | Living | N/A | **SUPPRESSED** | Water-to-energy pulsed electrolysis researcher. Associate intercepted by four suited men with automatic weapons who threatened death (May 2006). Research ceased. |
 | [Bill Williams](Details/Bill_Williams.md) | Living | N/A | **SUPPRESSED** | Joe Cell (water/orgone-powered truck) experimenter. Threatened with weapon and files (April 2006). Destroyed all research — cell, drawings, and lab journals. Connected to [Wilhelm Reich](Details/Wilhelm_Reich.md)'s orgone theory. |
 | [Aaron Salter Jr.](Details/Aaron_Salter_Jr.md) | 2022 | Gunshot (mass shooting) | **UNCERTAIN** | Retired Buffalo police officer who had demonstrated water-powered car prototypes on local TV. Killed in racially motivated Tops supermarket mass shooting. Social media posts note timing — demo was ~2 months before shooting. Official motive overwhelmingly documented as racial hatred; energy connection is social media speculation only. |
-| [Stanley Meyer](Details/Stanley_Meyer.md) | 1998 | Cerebral aneurysm at restaurant | **SUSPICIOUS** | Inventor of "water fuel cell" — claimed car could run on water. Died suddenly at dinner with Belgian investors. His last words: "They poisoned me." Coroner ruled cerebral aneurysm. Ohio court had found his claims fraudulent in 1996, but supporters insist the technology worked. |
+| [Stanley Meyer](Details/Stanley_Meyer.md) | 1998 | Cerebral aneurysm at restaurant | **HIGHLY SUSPICIOUS** | Inventor of "water fuel cell" — Pentagon flew a lieutenant colonel to evaluate his invention; talk of Star Wars defense and army tanks. Died suddenly at dinner with Belgian investors. Last words: "They poisoned me." Dune buggy stolen from garage within a week. |
 | [Andrija Puharich](Details/Andrija_Puharich.md) | 1995 | Fall down stairs | **SUSPICIOUS** | Medical inventor with US patent for water-splitting method. Home destroyed by arson in 1979 — attributed to threats from CIA. Fled to Mexico. Died after falling down stairs, age 76. Associates suspected foul play. |
 | [Francisco Pacheco](Details/Francisco_Pacheco.md) | 1992 | Not well documented | **SUPPRESSED** | Bolivian-born inventor of Bi-Polar Auto Electrolytic Hydrogen Generator (US Patents #3,892,653 and #5,089,107). U.S. Vice President Henry Wallace personally witnessed device running an automobile in 1942. Patents in 4 countries. Journalist confirmed device worked. Spent 50 years unable to commercialize. |
 | [Karen Silkwood](Details/Karen_Silkwood.md) | 1974 | Single-car crash | **HIGHLY SUSPICIOUS** | Nuclear energy safety whistleblower killed driving to meet NYT reporter with documents on safety violations and missing plutonium at Kerr-McGee. Rear bumper showed she was forced off road. Documents vanished. Had been contaminated with plutonium days before. Family settled for $1.38M. |
@@ -282,18 +288,18 @@ Jeffrey Epstein's email to Al Seckel (October 1, 2009) — *"regarding cold fusi
 **UAP Deaths (suspicious deaths of UFO/UAP researchers):** [UAP Deaths](/uaps/)
 * 41 people appear in both projects — Marconi/SDI scientists (Keith Bowden, Vimal Dajibhai, Arshad Sharif, Richard Pugh, David Sands, Shani Warren, Alistair Beckham, Peter Ferry, David Greenhalgh, Trevor Knight, Andrew Hall, Anthony Godley, David Skeels, Frank Jennings, John Brittan, Jonathan Walsh, Michael Baker, Peter Peapell, Roger Hill, Russell Smith, Stuart Gooding, Victor Moore, George Kountis, Mark Wisner), plus Tesla, Stanley Meyer, Eugene Mallove, Thomas Townsend Brown, Floyd Sweet, Bruce DePalma, Arie DeGeus, Stefan Marinov, Paul Brown, Rory Johnson, Ning Li, Amy Eskridge, Dean Warwick, Boyd Bushman, Mark McCandlish, Morris Jessup, Wilbert Smith, Fred Bell, Gary McKinnon, Paul Bennewitz, and others
 
-**Epstein Kill List (sex-trafficking blackmail deaths):** Epstein Kill List
+**Epstein Kill List (sex-trafficking blackmail deaths):** [Epstein Kill List](https://intelligencemurders.com/epstein-murders)
 * B. Stanley Pons — Epstein claimed to have "killed" his cold fusion career
 
-**Intelligence Service Murders:** Intel Murders
+**Intelligence Service Murders:** [Intel Murders](https://intelligencemurders.com/intelligence-service-murders)
 * [GEC-Marconi Deaths](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory) — 25 defense scientists dead in 8 years
 
-**Groups directory:** Groups
+**Groups directory:** [Groups](https://intelligencemurders.com/epstein-murders/groups/)
 
 **Media Resources:**
-* Books on Suppressed Energy — 40+ books covering cold fusion, zero-point energy, Tesla, antigravity, Marconi deaths, orgone energy, and energy suppression
-* Podcasts — Dedicated shows and 40+ notable episodes covering these cases, from Crime Waves' 8-part series on Eugene Mallove to Joe Rogan interviews on zero-point energy
-* YouTube Channels and Documentaries — 20+ channels and 30+ documentaries including *Free Energy: The Race to Zero Point*, *Energy from the Vacuum*, *The Lost Century*, and *GasHole*
+* [Books on Suppressed Energy](/energy/books) — 40+ books covering cold fusion, zero-point energy, Tesla, antigravity, Marconi deaths, orgone energy, and energy suppression
+* [Podcasts](/energy/podcasts) — Dedicated shows and 40+ notable episodes covering these cases, from Crime Waves' 8-part series on Eugene Mallove to Joe Rogan interviews on zero-point energy
+* [YouTube Channels and Documentaries](/energy/youtube_channels) — 20+ channels and 30+ documentaries including *Free Energy: The Race to Zero Point*, *Energy from the Vacuum*, *The Lost Century*, and *GasHole*
 
 ---
 
@@ -390,14 +396,3 @@ Social media posts documenting these cases have reached large audiences. While s
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/PNR0Q97TtRU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
----
-
-## Background
-
-For over a century, inventors and researchers who have claimed breakthroughs in energy technology — zero-point energy, cold fusion, water fuel cells, radiant energy, and other systems that go beyond conventional combustion, batteries, and grid power — have died under circumstances that range from clearly natural to deeply suspicious. Labs have been raided. Patents have been seized under national security orders. Funding has been cut overnight. Careers have been destroyed.
-
-The pattern is consistent: an inventor or physicist announces or demonstrates a device that allegedly produces energy beyond what conventional physics says is possible. Then one or more of the following happens: government agencies issue gag orders or seize the technology, the inventor's lab is destroyed or ransacked, the inventor dies suddenly — often just before securing funding, publishing results, or going public — and the research disappears.
-
-Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
-
-**[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.

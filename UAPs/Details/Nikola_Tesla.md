@@ -57,7 +57,6 @@ Tesla made direct appeals to multiple governments, including the United States, 
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor whose research materials were confiscated after death
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing
-- [Frank Olson](Frank_Olson.md) — Government scientist whose death was concealed by the CIA for 22 years
 
 ## Other Shocking Stories
 

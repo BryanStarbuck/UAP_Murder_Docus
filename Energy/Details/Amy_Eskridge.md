@@ -27,7 +27,7 @@ Amy Eskridge was a 34-year-old anti-gravity researcher who co-founded the Instit
 
 On June 11, 2022, Amy Eskridge was found dead at her home in Huntsville, Alabama, at age 34, officially ruled a gunshot suicide. No autopsy details were released. Her body was rapidly cremated, eliminating the possibility of independent forensic examination. Afterward, the "chronic pain" narrative was floated — the usual sanitization pattern.
 
-The timing hits hard: her death came right after she pressed for open anti-gravity work, faced NASA pushback, and started naming the suppression machinery. It echoes the same pattern seen with [William Neil McCasland](/uaps/Details/William_McCasland), [Monica Jacinto Reza](Monica_Jacinto_Reza.md), [Nuno Loureiro](Nuno_Loureiro.md), [Carl Grillmair](Carl_Grillmair.md), and [Jason Thomas]# — brilliant minds touching the forbidden hardware (inertial dampening, exotic materials, plasma interfaces) getting removed right when the ledger starts flipping.
+The timing hits hard: her death came right after she pressed for open anti-gravity work, faced NASA pushback, and started naming the suppression machinery. It echoes the same pattern seen with [William Neil McCasland](/uaps/Details/William_McCasland), [Monica Jacinto Reza](Monica_Jacinto_Reza.md), [Nuno Loureiro](Nuno_Loureiro.md), [Carl Grillmair](Carl_Grillmair.md), and [Jason Thomas](/uaps/Details/Jason_Thomas) — brilliant minds touching the forbidden hardware (inertial dampening, exotic materials, plasma interfaces) getting removed right when the ledger starts flipping.
 
 Someone described as "very close to Amy" who spoke with her four hours before her death reportedly does not believe she committed suicide.
 
@@ -90,7 +90,7 @@ Her work in anti-gravity in this location, her father's decades of propulsion re
 - **Close contact disputes suicide:** Someone described as "very close to Amy" who spoke with her four hours before her death reportedly does not believe she committed suicide
 - **Congressional testimony:** Michael Shellenberger included Milburn's allegations in written testimony submitted to the U.S. House of Representatives during UAP oversight hearings in November 2024
 - **Warned about being targeted:** In her talks and interviews, Eskridge warned about "men in black" / adjustment-bureau style forces that would come for anyone trying to crack the veil too wide. Her warnings about being taken out weren't paranoia — they were from a woman who saw the adjustment bureau up close and called it by name before the shot
-- **Pattern:** Eskridge's death follows the pattern of anti-gravity/exotic energy researchers who die before publishing their most significant findings — similar to [Ning Li](Ning_Li.md) (classified, then brain-damaged), [Thomas Townsend Brown](Thomas_Townsend_Brown.md) (classified), and [Mark Tomion](Mark_Tomion.md) (sudden cardiac event, research missing). It also echoes the same sanitization pattern seen with [William Neil McCasland](/uaps/Details/William_McCasland), [Monica Jacinto Reza](Monica_Jacinto_Reza.md), [Nuno Loureiro](Nuno_Loureiro.md), [Carl Grillmair](Carl_Grillmair.md), and [Jason Thomas]# — brilliant minds touching the forbidden hardware (inertial dampening, exotic materials, plasma interfaces) getting removed right when the ledger starts flipping
+- **Pattern:** Eskridge's death follows the pattern of anti-gravity/exotic energy researchers who die before publishing their most significant findings — similar to [Ning Li](Ning_Li.md) (classified, then brain-damaged), [Thomas Townsend Brown](Thomas_Townsend_Brown.md) (classified), and [Mark Tomion](Mark_Tomion.md) (sudden cardiac event, research missing). It also echoes the same sanitization pattern seen with [William Neil McCasland](/uaps/Details/William_McCasland), [Monica Jacinto Reza](Monica_Jacinto_Reza.md), [Nuno Loureiro](Nuno_Loureiro.md), [Carl Grillmair](Carl_Grillmair.md), and [Jason Thomas](/uaps/Details/Jason_Thomas) — brilliant minds touching the forbidden hardware (inertial dampening, exotic materials, plasma interfaces) getting removed right when the ledger starts flipping
 - **Institute ceased operations:** The Institute for Exotic Science apparently stopped functioning after her death, ending whatever research was in progress
 
 ## The Counterargument
@@ -123,7 +123,7 @@ Her work in anti-gravity in this location, her father's decades of propulsion re
 - [Nuno Loureiro](Nuno_Loureiro.md) — Plasma physicist, part of the 2025-2026 scientist cluster
 - [Michael Zebuhr](Michael_Zebuhr.md) — Directed energy researcher shot execution-style during "robbery." Another researcher killed by gunshot
 - [Carl Grillmair](Carl_Grillmair.md) — Astronomer, part of the 2025-2026 scientist cluster
-- [Jason Thomas]# — Part of the same sanitization pattern of suppressed researchers
+- [Jason Thomas](/uaps/Details/Jason_Thomas) — Part of the same sanitization pattern of suppressed researchers
 - [John Rossi](John_Rossi.md) — Two-star general found hanged at Redstone Arsenal two days before his three-star promotion to lead U.S. Army Space and Missile Defense Command; died at the same Huntsville installation where Eskridge and her father worked
 - [Amy Eskridge (UAP Deaths project)](/uaps/Details/Amy_Eskridge) — Parallel profile in UAP Deaths project
 
