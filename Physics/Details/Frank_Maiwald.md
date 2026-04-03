@@ -1,0 +1,145 @@
+# Frank Maiwald
+NASA Jet Propulsion Laboratory senior engineer and technical group supervisor who managed development of advanced space instruments across a 25-year career. Died in Los Angeles on July 4, 2024, at age 61. Cause of death was never made public. No autopsy was performed.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Frank Werner Maiwald |
+| **Born** | June 24, 1964, Ratingen, Germany |
+| **Died** | July 4, 2024, Los Angeles, California (age 61) |
+| **Role** | Senior Radio Frequency Engineer / Technical Group Supervisor |
+| **Platform** | NASA JPL, scientific publications, instrumentation programs |
+| **Notable Works** | SBG-VSWIR instrument, COWVR radiometer (DoD), AMR-C for Sentinel-6, HIFI for Herschel Space Observatory, biosignature detection research; 76 publications, 3,243+ citations |
+
+## Biography
+
+Frank Werner Maiwald was born on June 24, 1964, in Ratingen, Germany. He earned his PhD in Applied Physics from the I. Physikalisches Institut at the University of Cologne (Universität zu Köln), where his doctoral work focused on terahertz frequency multiplier technology.
+
+In April 1999, Maiwald joined NASA's Jet Propulsion Laboratory as a Post-Doctoral Fellow. Over the next 25 years, he rose to the rank of Technical Group Supervisor and Senior Radio Frequency Engineer, managing increasingly complex and strategically important instrumentation programs. He was married to YeonJae Maiwald for 25 years and is survived by his father Bernhard Maiwald (with wife Marianne), siblings Ralph, Berndt, and Anja Maiwald, and sisters-in-law Soohee and Yunsu Chang.
+
+## Career at NASA JPL (1999–2024)
+
+### Early Career — Terahertz Instrumentation
+
+Maiwald's early work at JPL focused on terahertz and submillimeter-wave technology:
+
+- Developed a 2.7-THz solid-state frequency-tripler source for the **Herschel Space Observatory's HIFI instrument** (Heterodyne Instrument for Far Infrared)
+- Led development of a space-qualified multiplier chain in the 1.25-THz range for HIFI
+- Co-authored papers on THz frequency multiplier chains based on planar Schottky diodes
+- Contributed to development of 200-GHz to 2.7-THz multiplier chains for submillimeter-wave heterodyne receivers
+- The HIFI instrument launched aboard ESA's Herschel Space Observatory in May 2009
+
+### Mid-Career — Microwave Radiometry
+
+Maiwald managed development of critical Earth-observation and defense instruments:
+
+- **COWVR** (Compact Ocean Wind Vector Radiometer) — a low-cost, fully-polarimetric imaging radiometer operating at 18.7, 23.8, and 33.9 GHz, developed as a proof-of-concept for the Air Force/Department of Defense. Now installed on the International Space Station as part of STP-H8
+- **AMR/Jason 3** — Advanced Microwave Radiometer for the Jason-3 ocean altimetry mission
+- **AMR-C for Sentinel-6** — Oversaw successful delivery of two instruments for the AMR-C program (ESA/NASA collaboration)
+- **AMR/SWOT** — Microwave radiometer for the Surface Water and Ocean Topography mission
+- **Juno** — Contributed to instruments for the Jupiter orbiter
+
+### Late Career — Spectroscopy and Life Detection
+
+In his final years at JPL, Maiwald's work expanded into areas directly relevant to the search for extraterrestrial life:
+
+- **SBG-VSWIR** — Managed development of the Surface Biology and Geology Visible to Short-Wave Infrared instrument, a wide-swath imaging spectrometer
+- **Biosignature Detection Research** — Collaborated on research using cryogenic ion vibrational spectroscopy to unambiguously detect molecular biosignatures (amino acids, fatty acids, nucleobases, sugars) on ocean worlds like Europa, Enceladus, and Titan. This technique addresses a critical limitation of mass spectrometry: the inability to distinguish biological markers from non-biogenic isomers with identical atomic compositions. The action spectroscopy approach adds infrared structural identification to mass identification, enabling unambiguous biosignature detection for future missions.
+
+This research was conducted in collaboration with JILA (University of Colorado Boulder/NIST). A related paper on cryogenic ion vibrational spectroscopy of protonated amino acids (specifically valine) was published in the Journal of Physical Chemistry A in 2024.
+
+## Their Claims
+
+Maiwald was not a public figure in UAP discourse. His significance lies in his work at the intersection of advanced instrumentation, defense applications, and life-detection technology:
+
+- His instruments had documented **dual-use applications** spanning climate monitoring and intelligence, surveillance, and reconnaissance (ISR)
+- The COWVR radiometer was specifically developed for the Air Force/Department of Defense
+- His SBG-VSWIR imaging spectrometer uses visible-shortwave-infrared spectrometry applicable to both Earth science and defense
+- His late-career pivot to biosignature detection put him at the forefront of research that could confirm extraterrestrial life on ocean worlds within our solar system
+
+## Death Circumstances
+
+Frank Maiwald died on July 4, 2024, in Los Angeles, California, at age 61.
+
+**What is known:**
+- The cause of death was never made public
+- Authorities confirmed that **no autopsy was performed**
+- NASA and JPL issued no press release, no official statement, and no institutional acknowledgment
+- Caltech (which manages JPL) issued no acknowledgment
+- No local news coverage documented the death at the time
+
+**What colleagues said:**
+Memorial comments from JPL colleagues on Legacy.com suggest the death was unexpected. None of the memorial messages mention illness, prior health decline, or circumstances of death — they focus on celebrating his character and contributions. Colleague Alan Mazer praised his work on MWR and other instruments; colleague Bill Hatch referenced his contributions to the Juno mission.
+
+**What is suspicious:**
+- A 61-year-old scientist at America's premier space research laboratory dies and no cause of death is released
+- No autopsy was performed despite the unexplained death
+- JPL, NASA, and Caltech — institutions that typically honor their researchers — issued no statements
+- The death occurred just 13 months after he led breakthrough biosignature detection research
+- His instruments had dual-use defense and intelligence applications
+
+## Key Quotes
+
+> "He was always available and always willing to provide help and guidance."
+> — **Alan Mazer**, JPL colleague, Legacy.com memorial, 2024
+
+## Key Arguments & Evidence They Cite
+
+- Maiwald's 25-year career at JPL involved increasingly sensitive instrumentation with dual-use civilian and military applications
+- The COWVR radiometer was a DoD program, not purely scientific
+- His biosignature detection research could fundamentally alter the search for extraterrestrial life
+- His death fits the pattern of unexplained deaths among scientists connected to defense and space research programs (2024-2026)
+- The absence of an autopsy and the silence from JPL/NASA/Caltech is anomalous for a senior researcher
+
+## Connection to the 2024-2026 Scientist Death Pattern
+
+Maiwald is the **first chronological case** in a pattern of eight or more deaths and disappearances involving scientists connected to sensitive U.S. government research between July 2024 and early 2026:
+
+1. **Frank Maiwald** (JPL) — died July 4, 2024, cause undisclosed, no autopsy
+2. **Anthony Chavez** (Los Alamos) — vanished May 4, 2025, never found
+3. [Monica Jacinto Reza](Monica_Jacinto_Reza.md) (JPL) — vanished June 22, 2025, never found
+4. **Melissa Casias** (Los Alamos) — vanished June 26, 2025, phones wiped, never found
+5. [Nuno Loureiro](Nuno_Loureiro.md) (MIT) — shot December 2025
+6. [Jason Thomas](Jason_Thomas.md) (Novartis/DoD) — vanished December 2025, body found March 2026
+7. Carl Grillmair (Caltech/IPAC) — shot February 2026
+8. [William McCasland](William_McCasland.md) (AFRL) — vanished February 2026, never found
+
+Maiwald and [Monica Jacinto Reza](Monica_Jacinto_Reza.md) form a **JPL cluster** — both worked at the same laboratory and both died or disappeared within 12 months of each other. Maiwald also worked on instruments that could advance the very biosignature detection capabilities that might eventually confirm extraterrestrial origins of recovered UAP materials.
+
+Rep. Tim Burchett (R-TN) stated regarding the broader pattern: *"Something dark is going on. I know these scientists and researchers. They have testified. We've got to get to the bottom of it."*
+
+## The Counterargument
+
+- Maiwald was 61 years old; sudden death from natural causes (heart attack, stroke, aneurysm) occurs at this age
+- The absence of an autopsy could reflect family wishes rather than a cover-up
+- JPL's silence could reflect family privacy requests rather than institutional suppression
+- There is no documented direct connection between Maiwald and UAP research or classified programs beyond the dual-use nature of his instruments
+- The biosignature detection research was publicly published, not classified — suggesting it was not being suppressed
+- Correlation with other scientist deaths does not prove causation; law enforcement has not linked these cases
+
+## Related Perspectives
+
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Fellow JPL researcher who vanished 12 months after Maiwald's death; both worked at the same laboratory
+- [William McCasland](William_McCasland.md) — Retired AFRL commander who disappeared February 2026; part of the same pattern of scientist deaths/disappearances
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist shot December 2025; part of the same pattern
+- [Jason Thomas](Jason_Thomas.md) — Novartis chemical biologist who vanished December 2025; part of the same pattern
+
+## See Also
+
+- [Exotic_Metamaterials](Exotic_Metamaterials.md) — Maiwald's biosignature detection techniques could theoretically be applied to analysis of recovered exotic materials
+- [Zero_Point_Energy](Zero_Point_Energy.md) — Advanced energy research overlaps with JPL's dual-use instrumentation portfolio
+
+## Sources
+
+- [Frank Maiwald Obituary — Legacy.com](https://www.legacy.com/us/obituaries/legacyremembers/frank-maiwald-obituary?id=55630404)
+- [Frank Maiwald Memorial — Legacy.com](https://www.legacy.com/us/obituaries/legacyremembers/frank-maiwald-memorial?id=55630404)
+- [Frank Maiwald — ResearchGate Profile](https://www.researchgate.net/profile/Frank-Maiwald)
+- [Frank Maiwald — Google Scholar](https://scholar.google.com/citations?user=PPfNthEAAAAJ&hl=en)
+- [JPL Technical Reports — Frank Maiwald](https://trs-new.jpl.nasa.gov/dspace/items-by-author?author=Maiwald%252C+Frank)
+- [JILA — Unambiguous Detection of Biosignatures by Action Spectroscopy](https://jila.colorado.edu/weberlabs/research/unambiguous-detection-biosignatures-action-spectroscopy)
+- [The Sentinel Network — "The Blind Spot"](https://thesentinel.network/p/the-blind-spot-rocks-are-falling)
+- [CLG News — Mystery of Scientists Dead or Missing Rises to 8](https://legitgov.org/mystery-of-scientists-dead-or-missing-rises-to-8-as-2-more-men-tied-to-americas-most-coveted-secrets-join-the-list/)
+- [ZeroHedge — Nine Top-Level Scientists Die or Go Missing in Past Year](https://www.zerohedge.com/political/something-dark-going-nine-top-level-scientists-die-or-go-missing-past-year)
+- [BroBible — Scientists Involved in Secret Research Dead or Missing](https://brobible.com/culture/article/american-scientists-secret-research-dead-missing/)
+- [American Greatness — Nine Scientists](https://amgreatness.com/2026/03/30/something-dark-is-going-on-nine-top-level-scientists-die-or-go-missing-in-past-year/)
+
+*This information was compiled by Claude AI research.*

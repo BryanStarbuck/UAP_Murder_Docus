@@ -1,0 +1,127 @@
+# Melissa Casias
+Administrative assistant at Los Alamos National Laboratory with security clearance for sensitive data. Vanished on June 26, 2025, from Talpa, New Mexico — just seven weeks after fellow LANL retiree Anthony Chavez disappeared from Los Alamos. Her phones were found factory-reset. She has never been found.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Melissa Casias |
+| **Age** | 53-54 at disappearance |
+| **Last Seen** | June 26, 2025, walking on NM-518 near Talpa, New Mexico |
+| **Status** | Missing — never found |
+| **Role** | Administrative Assistant, Los Alamos National Laboratory |
+| **Platform** | N/A — Casias was not a public figure |
+| **Notable Works** | Held security clearance for sensitive data at LANL |
+
+## Biography
+
+Melissa Casias worked as an administrative assistant at Los Alamos National Laboratory, where she held security clearance for sensitive data. She and her husband, Mark Casias, both worked at LANL. They lived near Taos, New Mexico, approximately 90 miles from Los Alamos.
+
+## Disappearance
+
+### Last Known Movements — June 26, 2025
+
+- **~6:15 AM:** Casias drove her husband Mark to Los Alamos National Laboratory for work
+- She realized she had **forgotten her badge** and decided to work from home instead
+- She stopped at the **post office** on the return trip
+- She **dropped off lunch** for her daughter
+- **~2:18 PM:** Last seen on surveillance footage **walking eastbound on NM-518 from Talpa, New Mexico, toward Pot Creek** — approximately three miles from her home
+
+### What Was Left Behind
+
+- Her **vehicle** was found at home
+- Her **wallet, phone, and ID** were all found at home
+- Both of her phones were found at home — **with their data completely wiped after someone performed a factory reset**
+- She left without any personal identification or communication devices
+
+The factory reset of her phones is one of the most alarming details of the case. Someone — either Casias herself or another person — deliberately wiped both devices of all data, eliminating call logs, messages, photos, location history, and any other digital evidence.
+
+### The Search
+
+- New Mexico State Police took over the investigation
+- Extensive searches of the area around NM-518 and Pot Creek were conducted
+- A **$2,500 reward** was offered for information
+- **NBC Dateline** covered her case in its "Missing in America" segment
+- As of early 2026, New Mexico State Police reported **"no breakthroughs"** — neither ruling out foul play nor the possibility she left of her own accord
+
+### Current Status
+
+Melissa Casias has never been found.
+
+## Parallels to Anthony Chavez
+
+Casias disappeared just **seven to eight weeks** after [Anthony Chavez](Anthony_Chavez.md), a retired LANL employee, vanished from Los Alamos on May 4, 2025. The parallels are striking:
+
+| Detail | Anthony Chavez | Melissa Casias |
+|--------|---------------|----------------|
+| **LANL Connection** | Former employee, retired ~2017 | Active administrative assistant |
+| **Date** | May 4, 2025 | June 26, 2025 |
+| **Location** | Los Alamos, NM | Talpa/Taos, NM |
+| **Left Behind** | Wallet, keys, cigarettes | Wallet, phone, ID |
+| **Digital Evidence** | No cell phone to track | Phones factory-reset |
+| **Car** | In driveway | At home |
+| **Signs of Struggle** | None | None |
+| **Found** | Never | Never |
+| **Police Status** | Ongoing, no leads | No breakthroughs |
+
+Both individuals connected to Los Alamos National Laboratory vanished within weeks of each other in the same geographic area, left personal belongings behind, showed no signs of struggle, and have never been found.
+
+## Connection to the 2024-2026 Scientist Death Pattern
+
+Casias is part of a documented pattern of eight or more deaths and disappearances involving scientists and defense-connected personnel between July 2024 and early 2026:
+
+1. [Frank Maiwald](Frank_Maiwald.md) (NASA JPL) — died July 4, 2024, cause undisclosed, no autopsy
+2. [Anthony Chavez](Anthony_Chavez.md) (Los Alamos) — vanished May 4, 2025, never found
+3. [Monica Jacinto Reza](Monica_Jacinto_Reza.md) (NASA JPL) — vanished June 22, 2025, never found
+4. **Melissa Casias** (Los Alamos) — vanished June 26, 2025, phones wiped, never found
+5. [Nuno Loureiro](Nuno_Loureiro.md) (MIT) — shot December 2025
+6. [Jason Thomas](Jason_Thomas.md) (Novartis/DoD) — vanished December 2025, body found March 2026
+7. Carl Grillmair (Caltech/IPAC) — shot February 2026
+8. [William McCasland](William_McCasland.md) (AFRL) — vanished February 2026, never found
+
+### The New Mexico Cluster
+
+Three of the missing individuals vanished from the **New Mexico defense corridor**:
+
+- [Anthony Chavez](Anthony_Chavez.md) — Los Alamos, May 2025
+- **Melissa Casias** — Taos/Los Alamos, June 2025
+- [William McCasland](William_McCasland.md) — Albuquerque, February 2026
+
+Casias was reportedly connected to McCasland, "who worked closely with LANL on national security projects at Kirtland Air Force Base." The institutional and geographic proximity of these three disappearances is notable.
+
+### The June 2025 Week
+
+Casias vanished on June 26, 2025 — just **four days** after [Monica Jacinto Reza](Monica_Jacinto_Reza.md) disappeared while hiking in Angeles National Forest, California, on June 22, 2025. Reza, a JPL aerospace engineer and co-inventor of the Mondaloy superalloy, was funded through the Air Force Research Laboratory that McCasland had commanded. Two women connected to defense research vanished within the same week.
+
+## Key Quotes
+
+> "Something dark is going on. I know these scientists and researchers. They have testified. We've got to get to the bottom of it."
+> — **Rep. Tim Burchett (R-TN)**, regarding the broader pattern of scientist deaths and disappearances, Daily Mail, March 2026
+
+## The Counterargument
+
+- Casias was an administrative assistant, not a scientist or researcher — her role may not have involved exposure to classified research content
+- Administrative staff at national laboratories, while security-cleared, typically handle procedural rather than technical information
+- The factory reset of her phones could indicate she intended to leave voluntarily and wanted to prevent being tracked
+- Her walking along a highway could suggest she was meeting someone or attempting to leave the area on foot
+- New Mexico State Police have not ruled out the possibility she left of her own accord
+- The connection to Chavez may be coincidental — Los Alamos is a small community where many residents have LANL connections
+- Law enforcement has not linked her case to the other scientist deaths or disappearances
+
+## Related Perspectives
+
+- [Anthony Chavez](Anthony_Chavez.md) — Retired LANL employee who vanished seven weeks before Casias; both connected to LANL, both left belongings behind, neither found
+- [William McCasland](William_McCasland.md) — Retired AFRL commander who vanished from Albuquerque eight months after Casias; part of the New Mexico cluster
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — JPL aerospace engineer who vanished four days before Casias; funded through AFRL
+- [Frank Maiwald](Frank_Maiwald.md) — JPL scientist who died 12 months before Casias vanished; first case in the 2024-2026 pattern
+
+## Sources
+
+- [NBC Dateline — Melissa Casias Missing in America](https://www.nbcnews.com/dateline/missing-in-america/melissa-casias-new-mexico-missing-rcna219956)
+- [Taos News — State Police Report No Breakthroughs in Casias Case](https://www.taosnews.com/public-safety/state-police-report-no-breakthroughs-in-melissa-casias-case/article_0cfb4a66-9422-5e23-9040-74378e898ee8.html)
+- [Santa Fe New Mexican — Melissa Casias Missing](https://www.santafenewmexican.com)
+- [American Wire News — Dead or Vanished Scientists Count Rises to Eight](https://americanwirenews.com/dead-or-vanished-american-scientists-count-rises-to-eight-sparking-suspicions-of-foul-play/)
+- [ZeroHedge — Nine Top-Level Scientists Die or Go Missing in Past Year](https://www.zerohedge.com/political/something-dark-going-nine-top-level-scientists-die-or-go-missing-past-year)
+- [Daily Mail — Mystery of Five Missing Scientists Sends Chill Across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [The Sentinel Network — The Blind Spot](https://thesentinel.network/p/the-blind-spot-rocks-are-falling)
+- [RedState — Missing Scientists, Congress Demands Answers](https://redstate.com/wardclark/2026/03/30/missing-scientists-classified-programs-advanced-tech-congress-demands-answers-now-n2200776)
+
+*This information was compiled by Claude AI research.*

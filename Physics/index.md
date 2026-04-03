@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Classified physics behind UAP propulsion — gravity manipulation, warp drives, exotic metamaterials, and the scientists killed for knowing too much.
 
-71 people likely murdered.
+74 people likely murdered.
 
 **For UAP researchers, whistleblowers, and military insiders killed or disappeared for what they knew about non-human technology, see [UAPs Murders (General)](/uaps/).**
 
@@ -128,6 +128,9 @@ Classified physics behind UAP propulsion — gravity manipulation, warp drives, 
 
 | Name | Role | Platform | Evidence Rating | Details |
 |------|------|----------|-----------------|---------|
+| [Frank Maiwald](Details/Frank_Maiwald.md) | Senior RF Engineer / Technical Group Supervisor | NASA JPL, publications | **SUSPICIOUS** | 25-year NASA JPL career managing advanced instruments with dual-use defense applications (COWVR for DoD, SBG-VSWIR). Led breakthrough biosignature detection research for Europa/Enceladus in 2023. Died July 4, 2024, age 61. Cause of death never released. No autopsy performed. JPL and NASA issued no statements. First case in the 2024-2026 scientist death pattern. |
+| [Anthony Chavez](Details/Anthony_Chavez.md) | Former LANL Employee | N/A | **SUSPICIOUS** | Retired from Los Alamos National Laboratory ~2017. Vanished May 4, 2025, age 78, from Los Alamos on foot. Wallet, keys, and cigarettes left on table. Car in driveway. No cell phone. No signs of struggle. Cadaver dogs found nothing. Never found. Seven weeks later, LANL assistant [Melissa Casias](Details/Melissa_Casias.md) also vanished. |
+| [Melissa Casias](Details/Melissa_Casias.md) | LANL Administrative Assistant | N/A | **SUSPICIOUS** | Administrative assistant at Los Alamos National Laboratory with security clearance for sensitive data. Vanished June 26, 2025 — seven weeks after [Anthony Chavez](Details/Anthony_Chavez.md) and four days after [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md). Last seen walking on NM-518 near Talpa, NM. Left wallet, phone, ID at home. Both phones factory-reset. Never found. |
 | [Nuno Loureiro](Details/Nuno_Loureiro.md) | Plasma Physicist | MIT, papers | **EMERGING** | Director of MIT Plasma Science and Fusion Center. Shot at his home in Brookline, MA, December 2025. Killer was a former classmate who later died by suicide. Rep. Tim Burchett cited this as part of a concerning pattern of scientist deaths. |
 | [Jason Thomas](Details/Jason_Thomas.md) | Scientist — Chemical Biology | Novartis / DOD contracts | **EMERGING** | Assistant director of chemical biology at Novartis (active DOD contracts). Vanished December 12, 2025, three days before [Nuno Loureiro](Details/Nuno_Loureiro.md) was killed 10 miles away. Body recovered from Lake Quannapowitt after ice thawed, March 17, 2026. Left without phone, wallet, or coat. |
 | [Karl Wolfe](Details/Karl_Wolfe.md) | Former USAF Sergeant | Disclosure Project testimony | **SUSPICIOUS** | Testified at 2001 National Press Club Disclosure Project that he saw NASA photos showing artificial structures on the far side of the Moon while working at a classified facility at Langley AFB. Struck and killed by tractor-trailer while cycling, October 2018. |
@@ -330,6 +333,9 @@ People who appear in both this project and sibling directories:
 - [Gary McKinnon](Details/Gary_McKinnon.md) — UAP Physics (found UFO tech evidence) and [UAP Deaths](/uaps/Details/Gary_McKinnon) (prosecuted)
 - [William McCasland](Details/William_McCasland.md) — UAP Physics (AFRL commander) and [UAP Deaths](/uaps/Details/William_McCasland) (missing)
 - [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) — UAP Physics (aerospace materials) and [UAP Deaths](/uaps/Details/Monica_Jacinto_Reza) (vanished)
+- [Frank Maiwald](Details/Frank_Maiwald.md) — UAP Physics (JPL instrumentation, biosignature detection) — died July 2024, no autopsy
+- [Anthony Chavez](Details/Anthony_Chavez.md) — UAP Physics (LANL employee) — vanished May 2025, never found
+- [Melissa Casias](Details/Melissa_Casias.md) — UAP Physics (LANL administrative assistant) — vanished June 2025, phones wiped, never found
 
 ---
 
