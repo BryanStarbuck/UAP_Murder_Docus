@@ -69,3 +69,5 @@ The Society of Scientific Exploration conference he was attending brings togethe
 - [10 UFO Investigators Who Died Mysteriously — Infinity Explorers](https://www.infinityexplorers.com/10-ufo-investigators-who-died-mysteriously-under-suspicious-circumstances-killed-to-hide-the-truth/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1994)

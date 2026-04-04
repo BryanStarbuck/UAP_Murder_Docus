@@ -67,3 +67,5 @@ Runyon Jr. wrote about UFO topics among other subjects. He appeared on G. Cope S
 - Otto Binder's "Liquidation of the UFO Investigators" (1971)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1968)

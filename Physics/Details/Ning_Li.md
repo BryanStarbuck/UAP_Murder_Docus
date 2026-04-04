@@ -122,3 +122,5 @@ If Li's mechanism could be scaled up, it would provide a laboratory-achievable p
 - Li, N. & Torr, D.G., "Gravitational Effects on the Magnetic Attenuation of Superconductors," *Physical Review B*, Vol. 46, No. 9 (1992)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2021)

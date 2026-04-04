@@ -89,6 +89,23 @@ His wife told reporters that Jason was struggling with the sudden loss of both p
 > "No foul play is suspected."
 > — **Wakefield Police Department**, press release, March 17, 2026
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+Thomas is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **[Monica Jacinto Reza](Monica_Jacinto_Reza.md)** — Co-inventor of Mondaloy superalloy. Missing since June 22, 2025. No trace found.
+- **Jason Thomas** (this profile) — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **[Nuno Loureiro](Nuno_Loureiro.md)** — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **[William McCasland](William_McCasland.md)** — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist murdered three days after Thomas vanished, approximately 10 miles away
@@ -114,3 +131,5 @@ His wife told reporters that Jason was struggling with the sudden loss of both p
 - [Tampa Free Press: Tennessee Rep. Tim Burchett Warns Of Pattern As More U.S. Scientists Die Or Vanish](https://www.tampafp.com/scary-tennessee-rep-tim-burchett-warns-of-pattern-as-more-u-s-scientists-die-or-vanish/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

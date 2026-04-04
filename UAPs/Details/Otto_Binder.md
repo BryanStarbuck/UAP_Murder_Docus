@@ -104,3 +104,5 @@ Binder's documentation of 137 deaths in a single decade remains one of the most 
 - Church Committee hearings on CIA assassination methods (1975)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1974)

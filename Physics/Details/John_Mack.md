@@ -130,3 +130,5 @@ His career arc -- from Pulitzer Prize-winning biographer to Harvard department h
 - [Biography of John E. Mack, M.D. - John Mack Institute](http://johnemackinstitute.org/biography-of-john-e-mack/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2004)

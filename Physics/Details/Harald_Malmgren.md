@@ -94,3 +94,5 @@ Despite being debunked, Malmgren's case is relevant to UAP physics documentation
 - [Above The Norm News: Final Testimony from Harald Malmgren](https://www.abovethenormnews.com/2025/04/23/final-testimony-malmgren-says-u-s-shot-down-ufo/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2025)

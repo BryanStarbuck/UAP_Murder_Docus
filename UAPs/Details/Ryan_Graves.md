@@ -71,3 +71,5 @@ On July 26, 2023, Graves testified before the House Oversight Subcommittee on Na
 - [Who is Ryan Graves? - Yahoo News](https://www.yahoo.com/news/ryan-graves-former-navy-pilot-182125964.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

@@ -133,3 +133,5 @@ Moray's story remains one of the most extensively documented cases of an alterna
 - [Suppressed Inventions and Other Discoveries - Bibliotecapleyades](https://www.bibliotecapleyades.net/ciencia/supressed_inventions/suppressed_inventions39.htm)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1974)

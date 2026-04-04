@@ -102,3 +102,5 @@ Lt. Gen. Linda Hurry, Deputy Commander of Air Force Materiel Command: "We are de
 - [WDTN: Communities reeling from double murder-suicide](https://www.wdtn.com/news/three-wright-patterson-employees-dead-officals-investigating/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

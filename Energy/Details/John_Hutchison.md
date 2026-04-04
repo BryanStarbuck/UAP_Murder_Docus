@@ -116,3 +116,5 @@ The effects were allegedly first observed in 1979 when Hutchison was running mul
 - Vancouver Sun, February 22, 1990 — Front page coverage of laboratory seizure
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

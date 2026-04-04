@@ -73,3 +73,6 @@ Marconi Underwater Systems also worked on torpedo guidance and submarine detecti
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1985)

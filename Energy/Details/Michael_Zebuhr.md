@@ -72,3 +72,5 @@ While Wood's WTC theories are controversial, the directed energy research itself
 - Minneapolis Star Tribune coverage of the robbery-homicide, 2006
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2006)

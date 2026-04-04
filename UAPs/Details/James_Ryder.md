@@ -217,3 +217,5 @@ The parallel is notable: Ryder, the Lockheed VP who allegedly tried to divest UA
 - [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

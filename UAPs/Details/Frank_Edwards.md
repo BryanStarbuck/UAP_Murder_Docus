@@ -77,3 +77,5 @@ Edwards had reportedly received threats related to his UFO broadcasts and writin
 - [Are You Still Alive? UFO Deaths, Revisited — Twilight Language](http://copycateffect.blogspot.com/2014/05/ufo-deaths-rev.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1967)

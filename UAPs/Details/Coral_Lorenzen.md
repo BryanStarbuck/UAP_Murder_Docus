@@ -102,3 +102,5 @@ APRO's dissolution after the Lorenzens' deaths left a significant gap in civilia
 - Biblioteca Pleyades — scientist death compilations: https://www.bibliotecapleyades.net/sociopolitica/sociopol_scientistkilling03.htm
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

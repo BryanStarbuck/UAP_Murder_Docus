@@ -122,3 +122,5 @@ While Hardwick's death predates the cluster by a decade, The Sentinel Network in
 - [THE MISSING GENERAL AND HIS COLLEAGUES — Dick Russell](https://dickrussell.substack.com/p/the-missing-general-and-his-colleagues)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2014)

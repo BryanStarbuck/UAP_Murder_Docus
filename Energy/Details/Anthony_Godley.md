@@ -80,3 +80,5 @@ Godley's position as Head of the Work Study Unit gave him broad oversight of res
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1983, presumed)

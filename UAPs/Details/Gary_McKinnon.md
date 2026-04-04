@@ -73,3 +73,5 @@ McKinnon was diagnosed with Asperger syndrome during the extradition proceedings
 - [UFO Hacker, Non-Terrestrial Officers & NASA's Hidden Craft - The Galactic Mind](https://www.thegalacticmind.com/the-ufo-hacker-gary-mckinnon/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

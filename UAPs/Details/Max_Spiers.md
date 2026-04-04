@@ -72,3 +72,5 @@ Days before his death, Spiers texted his mother, Vanessa Bates, with the warning
 - [UFO Insight - Project Mannequin and the Mysterious Death of Max Spiers](https://www.ufoinsight.com/aliens/agendas/project-mannequin-max-spiers)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2016)

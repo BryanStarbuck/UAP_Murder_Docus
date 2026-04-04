@@ -104,3 +104,5 @@ Edwards' death, regardless of its cause, had a measurable impact on the UFO rese
 - [Broadcaster Frank Edwards on UFO/UAP Censorship — Medium](https://medium.com/@richgel99/broadcaster-frank-edwards-on-ufo-uap-censorship-and-the-1952-washington-dc-incident-c5e3e39155ad)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1967)

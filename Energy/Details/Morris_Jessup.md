@@ -106,3 +106,6 @@ Jessup's death by carbon monoxide poisoning connects to a documented cluster of 
 - [Morris K Jessup -- UFOs & Death -- Imperidox](https://www.imperidox.com/ufos-the-strange-death-of-morris-k-jessup/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1959)

@@ -124,3 +124,5 @@ The criminal case is strong and straightforward:
 - [Christopher Fallen — City of Albuquerque Always Remembered](https://www.cabq.gov/police/always-remembered/2024-homicide-investigations/christopher-fallen)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2024)

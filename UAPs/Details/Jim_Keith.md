@@ -85,3 +85,5 @@ Keith's work frequently intersected with intelligence agency operations, mind co
 - [Jim Keith — Prabook](https://prabook.com/web/jim.keith/2210559)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1999)

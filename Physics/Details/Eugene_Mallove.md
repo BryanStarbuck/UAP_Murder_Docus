@@ -83,3 +83,5 @@ If LENR is real, it has profound implications for UAP physics:
 - [Death of a Cold Fusion Proponent - MIT Technology Review](https://www.technologyreview.com/2004/05/17/101669/death-of-a-cold-fusion-proponent/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2004)

@@ -104,3 +104,5 @@ The connection between the microbiologist deaths and UAP research is considered 
 - Multiple media reports documenting the 2001-2002 microbiologist death cluster
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2001)

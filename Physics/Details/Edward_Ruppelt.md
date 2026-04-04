@@ -127,3 +127,5 @@ Edward Ruppelt's contributions to the study of unidentified flying objects were 
 - [Edward J. Ruppelt -- Military Wiki](https://military-history.fandom.com/wiki/Edward_J._Ruppelt)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1960)

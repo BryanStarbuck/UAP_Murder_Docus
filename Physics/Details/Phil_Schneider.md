@@ -92,3 +92,5 @@ Phil Schneider's claims, while highly controversial and unverified, describe spe
 - [Phil Schneider — Find a Grave](https://www.findagrave.com/memorial/146890828/phil-schneider)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1996)

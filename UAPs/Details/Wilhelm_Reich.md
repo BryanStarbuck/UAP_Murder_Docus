@@ -113,3 +113,5 @@ On May 7, 1956, Reich was found guilty of contempt of court for violating the in
 - [FDA v. Wilhelm Reich — Court Records and Injunction History](https://www.fda.gov/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1957)

@@ -63,3 +63,5 @@ Bowden's death predated the main cluster of Marconi deaths by several years and 
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1982)

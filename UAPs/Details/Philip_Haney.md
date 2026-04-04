@@ -83,3 +83,5 @@ Haney was also reportedly engaged to be married at the time of his death, which 
 - [Philip B Haney (1953-2020) - Find a Grave](https://www.findagrave.com/memorial/207340755/philip-b-haney)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2020)

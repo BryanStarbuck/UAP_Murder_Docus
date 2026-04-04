@@ -99,3 +99,5 @@ Mallove was beaten to death on May 14, 2004, in Norwich, Connecticut. Chad Schaf
 - [Free Energy Suppression — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

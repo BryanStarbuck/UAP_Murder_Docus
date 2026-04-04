@@ -126,3 +126,5 @@ While Edwards was not an energy inventor or physicist, his role as a public-faci
 - Jerome Clark, *The UFO Encyclopedia* — reference on Edwards' role in UFO history
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1967)

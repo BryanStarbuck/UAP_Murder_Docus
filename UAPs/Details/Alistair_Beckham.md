@@ -67,3 +67,5 @@ Plessey had been purchased by GEC-Marconi in 1987. Within a year of the acquisit
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

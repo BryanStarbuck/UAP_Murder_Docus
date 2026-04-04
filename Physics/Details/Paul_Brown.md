@@ -97,3 +97,5 @@ If Brown's energy conversion efficiency claims are accurate, the Nucell represen
 - [US Patent 4,835,433 - Justia Patents](https://patents.justia.com/patent/4835433)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased

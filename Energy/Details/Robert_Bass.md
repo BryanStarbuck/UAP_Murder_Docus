@@ -104,3 +104,6 @@ Gary Vesperman's *Energy Invention Suppression Cases* poses the question: "Have 
 - [Dr. Robert W. Bass — BYU Photo Archives](https://contentdm.lib.byu.edu/digital/collection/BYUPhotos/id/963)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2013)

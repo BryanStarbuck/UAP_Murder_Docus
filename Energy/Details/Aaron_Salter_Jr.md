@@ -90,3 +90,5 @@ The documented evidence overwhelmingly supports the official explanation. The co
 - Social media posts connecting Salter's water-car demonstrations to the shooting (multiple X accounts, 2022–2026) — unverified alternative theory
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

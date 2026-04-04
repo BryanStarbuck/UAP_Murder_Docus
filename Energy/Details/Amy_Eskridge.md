@@ -147,3 +147,5 @@ Her work in anti-gravity in this location, her father's decades of propulsion re
 - [Amy Eskridge MuckRock FOIA request](https://www.muckrock.com/foi/united-states-of-america-10/amy-eskridge-150178/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2022)

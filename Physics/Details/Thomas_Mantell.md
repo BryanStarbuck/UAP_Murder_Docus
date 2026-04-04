@@ -126,3 +126,5 @@ Within the UAP research community, the Mantell incident is regarded as a foundat
 - [What Was Pilot Thomas Mantell Chasing When His Plane Crashed in 1948? -- The Debrief](https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/) -- Investigative analysis reviewing the evidence and competing explanations
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1948)

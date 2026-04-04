@@ -69,3 +69,5 @@ Brown founded Nuclear Solutions, Inc. to commercialize both the Nucell battery a
 - [US Patent 4,835,433 - Apparatus for direct conversion of radioactive decay energy to electrical energy](https://patents.google.com/patent/US4835433A/en)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2002)

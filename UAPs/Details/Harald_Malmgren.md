@@ -85,3 +85,5 @@ The debunking was described by Johnson as a case study in how a person with legi
 - [Above The Norm News: Final Testimony from Harald Malmgren](https://www.abovethenormnews.com/2025/04/23/final-testimony-malmgren-says-u-s-shot-down-ufo/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

@@ -70,3 +70,5 @@ In the early 1990s, DePalma left the United States and eventually settled in New
 - [The Home of Primordial Energy - Bruce DePalma Legacy](https://bruce-depalma-legacy.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1997)

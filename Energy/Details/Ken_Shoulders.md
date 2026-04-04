@@ -101,3 +101,5 @@ Shoulders worked under a **CIA contract** during part of his career. He was awar
 - [4sci.org — Kenneth Radford Shoulders](https://wp.4sci.org/2025/04/kenneth-radford-shoulders-charge-clusters-electrum-validum-exotic-vacuum-objects-evos-cold-fusion-teleportation-electron-cluster-gun/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2013)

@@ -82,3 +82,5 @@ Three months after the interview, Hollanda was found dead. The abrupt transition
 - [Wikipedia: UFO sightings in Brazil](https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1997)

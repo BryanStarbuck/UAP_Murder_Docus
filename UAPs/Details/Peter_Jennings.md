@@ -106,3 +106,5 @@ The special that aired was titled *Peter Jennings Reporting: UFOs -- Seeing Is B
 - Nick Redfern, *Close Encounters of the Fatal Kind* (2014)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2005)

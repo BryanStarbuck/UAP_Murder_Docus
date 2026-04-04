@@ -143,3 +143,5 @@ On the Joe Rogan Experience (#2314, May 2025), Puthoff stated his belief that th
 - [The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and TTSA](https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

@@ -151,3 +151,5 @@ Hynek's intellectual journey -- from confident skeptic to cautious advocate to v
 - [Hynek, J(oseph) Allen (1910-1986) -- Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hynek-joseph-allen-1910-1986)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1986)

@@ -81,3 +81,5 @@ Around the same time, McDonald's marriage deteriorated. Colleagues described a r
 - [James Edward McDonald — UAP Wiki](https://uap-wiki.org/wiki/James_Edward_McDonald)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1971)

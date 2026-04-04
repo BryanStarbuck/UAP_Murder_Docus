@@ -158,3 +158,5 @@ The family reportedly believes she left voluntarily under severe personal and fi
 - [The Sentinel Briefing: THE LONG COUNT](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Unknown (missing since June 2025)

@@ -94,3 +94,5 @@ The Australian Department of Transport investigation concluded that "the reason 
 - [Unsolved Mysteries - UFO Disappearance](https://unsolved.com/gallery/ufo-disappearance/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing, presumed deceased (1978)

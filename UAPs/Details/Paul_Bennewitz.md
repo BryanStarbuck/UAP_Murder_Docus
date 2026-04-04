@@ -74,3 +74,5 @@ William Moore publicly confessed his role in the operation at the 1989 MUFON (Mu
 - [Conspiracy Theory and the "Bodyguard of Lies": The Bennewitz Matter - Social Epistemology](https://social-epistemology.com/2023/08/10/conspiracy-theory-and-the-bodyguard-of-lies-the-bennewitz-matter-mark-d-west/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2003)

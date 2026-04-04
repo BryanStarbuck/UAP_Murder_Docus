@@ -70,3 +70,5 @@ No documents, testimony, or credible sources link RFK to any interest in UFOs or
 - [Live Science: CIA Cover-up Alleged in JFK's 'Secret UFO Inquiry'](https://www.livescience.com/33224-new-declassified-memos-jfk-kennedy-ufos-assassination.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1968)

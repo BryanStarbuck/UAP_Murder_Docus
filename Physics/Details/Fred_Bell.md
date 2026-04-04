@@ -101,3 +101,5 @@ In 1975, Bell founded Pyradyne, a company focused on pyramid-based technology. H
 - [The Mysterious Death of Dr. Fred Bell — UFO Digest](https://www.ufodigest.com/article/the-mysterious-death-of-dr-fred-bell/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2011)

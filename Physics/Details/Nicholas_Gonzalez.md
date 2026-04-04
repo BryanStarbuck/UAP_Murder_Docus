@@ -217,3 +217,5 @@ The Gonzalez Protocol continues to have adherents among alternative medicine pra
 - [The Gonzalez Trial for Pancreatic Cancer: Outcome Revealed — Science-Based Medicine](https://sciencebasedmedicine.org/the-gonzalez-trial-for-pancreatic-cancer-outcome-revealed/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2015)

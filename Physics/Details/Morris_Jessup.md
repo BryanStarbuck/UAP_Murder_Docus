@@ -112,3 +112,5 @@ Regardless of the motivation, the Varo Edition demonstrates that Jessup's antigr
 - [The Philadelphia Experiment — Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/philadelphia-experiment)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1959)

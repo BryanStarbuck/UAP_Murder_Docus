@@ -100,3 +100,5 @@ None of these theories adequately explain all the anomalies: the burns, the unid
 - [The Mysterious Death of Zigmund Adamski — Historic Mysteries](https://www.historicmysteries.com/unexplained-mysteries/zigmund-adamski/1935/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1980)

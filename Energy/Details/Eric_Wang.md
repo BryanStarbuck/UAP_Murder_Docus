@@ -89,3 +89,5 @@ When researchers submitted requests through the National Archives' History Hub, 
 - Nick Cook, *The Hunt for Zero Point: Inside the Classified World of Antigravity Technology* (2001)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1960)

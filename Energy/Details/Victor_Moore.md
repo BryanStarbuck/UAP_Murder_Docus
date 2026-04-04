@@ -78,3 +78,6 @@ Moore's expertise placed him at the intersection of some of the most classified 
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1987)

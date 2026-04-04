@@ -149,3 +149,5 @@ Within the UAP research community, Colby's case is cited as an example of a seni
 - [Surprise, Kill, Vanish: The Legend of the Jedburghs -- CIA.gov](https://www.cia.gov/stories/story/surprise-kill-vanish-the-legend-of-the-jedburghs/) -- Official CIA account of the Jedburgh program in which Colby served
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1996)

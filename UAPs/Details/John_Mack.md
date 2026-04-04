@@ -75,3 +75,5 @@ Mack continued his research and published a second book, *Passport to the Cosmos
 - [Los Angeles Review of Books - John E. Mack and the Unbelievable UFO Truth](https://lareviewofbooks.org/article/john-e-mack-and-the-unbelievable-ufo-truth/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

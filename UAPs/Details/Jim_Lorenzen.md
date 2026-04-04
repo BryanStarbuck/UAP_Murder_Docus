@@ -80,3 +80,5 @@ Jim co-authored several books with Coral:
 - G. Cope Schellhorn — compilation of UFO researcher deaths
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

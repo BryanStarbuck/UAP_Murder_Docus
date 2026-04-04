@@ -95,3 +95,5 @@ In the week before her death, Silkwood herself was contaminated with plutonium. 
 - Richard Rashke, *The Killing of Karen Silkwood*, 1981
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1974)

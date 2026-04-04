@@ -91,3 +91,5 @@ Extensive web searches across news archives, patent databases, academic database
 - [Too Many Free Energy Inventors Suddenly Dropping Dead — Peak Oil](https://peakoil.com/alternative-energy/too-many-free-energy-inventors-suddenly-dropping-dead-disappearing)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2018)

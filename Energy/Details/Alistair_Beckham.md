@@ -93,3 +93,5 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [State Secrets and Death — Maclean's (April 25, 1988)](https://archive.macleans.ca/article/1988/4/25/state-secrets-and-death)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

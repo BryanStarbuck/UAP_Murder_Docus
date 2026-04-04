@@ -87,3 +87,5 @@ Larson's physics — which proposes that the universe is fundamentally composed 
 - [Epilogue to the Law of One Books — LawOfOne.info](https://www.lawofone.info/results.php?s=Epilogue)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1984)

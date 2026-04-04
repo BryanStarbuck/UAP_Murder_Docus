@@ -119,3 +119,5 @@ Associates and biographers have noted that DePalma struggled with alcohol and su
 - [Paramahansa Tewari and the Space Power Generator — tewari.org](http://www.tewari.org/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1997)

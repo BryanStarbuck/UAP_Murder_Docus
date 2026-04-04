@@ -83,3 +83,5 @@ Dodd authored *Alien Investigator: The Case Files of Britain's Leading UFO Detec
 - [Alien Investigator by Tony Dodd — Goodreads](https://www.goodreads.com/book/show/7725388-alien-investigator)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

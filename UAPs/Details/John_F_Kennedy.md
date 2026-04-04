@@ -80,3 +80,5 @@ Steven Greer and authors such as Michael Salla (*Kennedy's Last Stand*) and Kenn
 - [SPYSCAPE: JFK Files Reveal CIA Spy With Odd Links to Oswald & UFOs](https://spyscape.com/article/jfk-files-reveal-cia-spy-with-odd-links-to-oswald-ufos)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1963)

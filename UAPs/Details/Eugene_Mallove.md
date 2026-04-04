@@ -74,3 +74,5 @@ At the time of his death, Mallove was one of the most vocal and credentialed adv
 - [Bulletin of the Atomic Scientists - The life and brutal death of a cold fusion crusader](https://thebulletin.org/2016/07/the-life-and-brutal-death-of-a-cold-fusion-crusader/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

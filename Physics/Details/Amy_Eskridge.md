@@ -85,3 +85,5 @@ In 2020, Eskridge reportedly stated she was planning to present novel foundation
 - [Amy Eskridge - Anomaly Archives](https://anomalyarchives.org/collections/file/pettigrew-amy-eskridge/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased

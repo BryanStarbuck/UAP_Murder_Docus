@@ -75,3 +75,5 @@ Tesla made direct appeals to multiple governments, including the United States, 
 - [Nikola Tesla - Inventions, Facts & Death - HISTORY](https://www.history.com/articles/nikola-tesla)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1943)

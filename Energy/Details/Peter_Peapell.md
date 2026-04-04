@@ -82,3 +82,6 @@ Three other RCMS-connected individuals -- [John Brittan](John_Brittan.md), [Stua
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1987)

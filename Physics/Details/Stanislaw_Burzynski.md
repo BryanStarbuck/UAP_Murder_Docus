@@ -350,3 +350,5 @@ The pattern is consistent: researchers who develop non-pharmaceutical cancer tre
 - [Where Is the Burzynski Clinic Doctor Now? — ScienceInsights](https://scienceinsights.org/where-is-the-burzynski-clinic-doctor-now/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

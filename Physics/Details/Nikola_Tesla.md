@@ -143,3 +143,5 @@ The UAP physics significance of Tesla's work rests partly on what is known and p
 - Marc Seifer, *Wizard: The Life and Times of Nikola Tesla* (Citadel Press, 1996)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1943)

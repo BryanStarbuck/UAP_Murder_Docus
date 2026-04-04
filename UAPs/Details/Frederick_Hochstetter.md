@@ -91,3 +91,5 @@ A different narrative circulates in social media and alternative energy forums. 
 - [From the Archives of Lester J. Hendershot by Mark Hendershot — Scribd](https://www.scribd.com/document/19041370/From-the-Archives-of-Lester-J-Hendershot-by-Mark-Hendershot)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

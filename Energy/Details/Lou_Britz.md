@@ -84,3 +84,5 @@ No mainstream media quotes regarding Britz's death have been identified. The abo
 - Note: No mainstream Australian news coverage, court documents, coroner's reports, or academic references documenting Lou Britz's death or the circumstances surrounding it have been identified. This profile relies almost entirely on alternative energy community sources and social media, which represents the lowest tier of source reliability per this project's standards.
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

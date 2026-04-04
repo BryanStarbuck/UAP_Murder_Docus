@@ -80,3 +80,5 @@ Smith claimed to have received a fragment of a recovered UFO from the U.S. Navy,
 - [Wilbert Smith and the Canadian UFO Research — Angelic Visions](https://comfortinaninstant.typepad.com/angelic_visions/2018/01/wilbert-smith-and-the-canadian-ufo-research.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1962)

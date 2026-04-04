@@ -75,3 +75,5 @@ However, in 1960, a revised edition was published with three additional chapters
 - [CPT Edward James Ruppelt — Find a Grave](https://www.findagrave.com/memorial/116480535/edward_james-ruppelt)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1960)

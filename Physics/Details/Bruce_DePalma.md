@@ -123,3 +123,5 @@ DePalma's work connects to UAP physics in several ways:
 - [DePalma, Free Energy and the N-Machine (PDF)](https://ce-ma-s.net/lib/exe/fetch.php?media=projekty/inspirace/bruce_depalma/DePalma,+Free+Energy+and+the+N-Machine+-+2003.pdf)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1997)

@@ -101,3 +101,5 @@ The Bennewitz case is one of the most thoroughly documented instances of the U.S
 - [Thunder Scientific Corporation](https://www.thunderscientific.com/about_thunder/) — The company Bennewitz founded, still operating in Albuquerque.
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2003)

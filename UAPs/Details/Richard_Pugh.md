@@ -59,3 +59,5 @@ Richard Pugh was a 37-year-old computer expert who worked as a consultant for th
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

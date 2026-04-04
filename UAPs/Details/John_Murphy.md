@@ -103,3 +103,5 @@ The Kecksburg UFO incident gained renewed attention when:
 - *Unsolved Mysteries* segment on the Kecksburg UFO crash
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1969)

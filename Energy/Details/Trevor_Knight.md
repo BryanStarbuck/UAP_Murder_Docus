@@ -87,3 +87,6 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1988)

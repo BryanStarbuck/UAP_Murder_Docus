@@ -64,3 +64,5 @@ Peter Peapell was a 46-year-old scientist at the Royal College of Military Scien
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

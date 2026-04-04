@@ -75,3 +75,6 @@ In 2010, Warfield reportedly visited plasma battery inventor [Dimitri Petronov](
 - [Forbidden Knowledge TV — People Found Dead After Discovering Free Renewable Energy](https://forbiddenknowledgetv.net/people-found-dead-after-discovering-free-renewable-energy/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2011)

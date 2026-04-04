@@ -89,3 +89,5 @@ The Kanzius water-splitting phenomenon is real and verified, but mainstream scie
 - Major media coverage (2007–2009) of the salt water burning demonstration
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2009)

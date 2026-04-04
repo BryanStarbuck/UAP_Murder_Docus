@@ -72,3 +72,5 @@ Sanderson authored numerous books, including *Invisible Residents* (1970), which
 - [Sanderson, Ivan T(erence) — Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence-1911-1973)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1973)

@@ -142,3 +142,6 @@ Tesla's wireless power transmission work was particularly threatening to the ele
 - Marc Seifer, *Wizard: The Life and Times of Nikola Tesla* (Citadel Press, 1996)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1943)

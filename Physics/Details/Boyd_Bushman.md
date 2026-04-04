@@ -88,3 +88,5 @@ Shortly before his death in August 2014, Bushman recorded a video interview with
 - [Area 51 Scientist's Deathbed Confession - The Mirror](https://www.themirror.com/news/weird-news/area-51-scientists-deathbed-confession-1541081)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2014)

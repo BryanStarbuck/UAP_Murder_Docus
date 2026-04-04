@@ -133,3 +133,5 @@ There is no public evidence that Wolfe's death was anything other than a traffic
 - [Dr Karl Robert Wolfe (1944-2018) — Find a Grave](https://www.findagrave.com/memorial/193944918/karl-robert-wolfe)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2018)

@@ -67,3 +67,5 @@ Despite the hoax exposure, Scully maintained his belief in the Aztec crash. In h
 - [Frank Scully — Wyoming History Day](https://www.wyominghistoryday.org/theme-topics/collections/frank-scully)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1964)

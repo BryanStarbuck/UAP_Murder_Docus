@@ -99,3 +99,6 @@ The most advanced fusor was reportedly constructed in 1965, just before the fund
 - [The Farnsworth Fusion — Borderland Sciences](https://borderlandsciences.org/journal/vol/51/n02/Vassilatos_on_Philos_Farnsworth_Fusor.html)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1971)

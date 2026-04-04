@@ -149,3 +149,6 @@ Bedini died suddenly on November 5, 2016 — only 4 hours after his brother Gary
 - [Energy from the Vacuum — Internet Archive](https://archive.org/details/energy-vacuum-bearden)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2022)

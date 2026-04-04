@@ -107,3 +107,6 @@ Despite the harassment, Brown continued his work through Nuclear Solutions Inc. 
 - [Resonant Nuclear Battery Overview — Alternative Energy Research](https://www.infinite-energy.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2002)

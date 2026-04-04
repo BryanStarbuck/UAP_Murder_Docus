@@ -72,3 +72,5 @@ Chernetsky published papers on his research and the device was examined by other
 - Soviet physics publications on self-generating discharge experiments
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

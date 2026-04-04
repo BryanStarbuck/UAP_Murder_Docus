@@ -58,3 +58,5 @@ West Milton Police Chief Doyle Wright confirmed that the couple's three children
 - [The Sentinel Briefing: THE LONG COUNT](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

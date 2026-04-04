@@ -78,3 +78,5 @@ After his first book, Jessup's subsequent publications sold poorly. His publishe
 - [Morris K Jessup – UFOs & Death — Imperidox](https://www.imperidox.com/ufos-the-strange-death-of-morris-k-jessup/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1959)

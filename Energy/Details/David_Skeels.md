@@ -77,3 +77,5 @@ Marconi's avionics division worked on the electronic systems that would detect, 
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

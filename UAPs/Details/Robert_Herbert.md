@@ -159,3 +159,5 @@ Three of the key figures in the AAWSAP/AATIP material transfer chain are now dea
 - [@MvonRen on X: AAWSAP chain of deaths](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

@@ -80,3 +80,5 @@ Kountis was one of at least 25 scientists and engineers connected to GEC-Marconi
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

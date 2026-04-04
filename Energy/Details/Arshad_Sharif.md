@@ -94,3 +94,5 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Project Camelot: 25 Marconi Scientists](https://projectcamelot.org/marconi.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1986)

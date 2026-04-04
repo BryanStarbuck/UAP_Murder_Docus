@@ -79,3 +79,5 @@ The mystery deepened when Li was struck by a vehicle in 2014 on the UAH campus, 
 - [The Mystery of Ning Li - Vulkan's Musings](https://agreenfield7.substack.com/p/the-mystery-of-ning-li)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2021)

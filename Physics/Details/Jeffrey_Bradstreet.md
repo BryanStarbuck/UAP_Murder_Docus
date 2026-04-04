@@ -188,3 +188,5 @@ Other deaths cited in close proximity to Bradstreet's:
 - [Private eyes hired to probe death of Buford autism researcher — Gwinnett Daily Post](https://www.gwinnettdailypost.com/archive/private-eyes-hired-to-probe-death-of-buford-autism-researcher-dr-jeff-bradstreet/article_6aace419-148c-51fb-b97d-33cd4c480005.html)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2015)

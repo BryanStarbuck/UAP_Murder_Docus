@@ -68,3 +68,5 @@ Sweet's claims were never validated by mainstream scientific peer review and rem
 - [Floyd Sweet's VTA: Free Energy Insights - Scribd](https://www.scribd.com/document/796806948/Floyd-Sweet-s-VTA)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1995)

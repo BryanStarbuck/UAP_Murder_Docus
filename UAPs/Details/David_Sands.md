@@ -68,3 +68,5 @@ At the time of his death, Sands had just returned from a family holiday in Venic
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

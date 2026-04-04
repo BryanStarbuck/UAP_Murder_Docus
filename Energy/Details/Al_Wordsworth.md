@@ -88,3 +88,5 @@ Al Wordsworth is one of the least-documented individuals in the energy suppressi
 - [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

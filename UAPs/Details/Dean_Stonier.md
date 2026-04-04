@@ -82,3 +82,5 @@ Stonier's death in August 2001 occurred during a particularly deadly period for 
 - Global Sciences Congress archives and participant accounts
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2001)

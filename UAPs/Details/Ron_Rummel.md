@@ -72,3 +72,5 @@ One of Rummel's close friends and collaborators was [Phil Schneider](Phil_Schnei
 - [Liquidation of the UFO Investigators — Prof. G. Cope Schellhorn](https://www.sunrisepage.com/ufo/files/scientific/Liquidation_of_the_UFO_Investigators_by_Professor_Schellburn.pdf)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1993)

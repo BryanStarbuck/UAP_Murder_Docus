@@ -64,3 +64,5 @@ She and Jacob Prichard were colleagues through their work at AFRL.
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2025)

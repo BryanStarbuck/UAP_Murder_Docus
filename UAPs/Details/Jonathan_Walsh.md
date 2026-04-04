@@ -61,3 +61,5 @@ Walsh's death occurred during the early phase of the GEC-Marconi death cluster, 
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

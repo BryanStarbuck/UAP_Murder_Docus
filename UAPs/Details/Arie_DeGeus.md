@@ -71,3 +71,5 @@ At the time of his death, DeGeus was reportedly close to securing the funding ne
 - [Another Breakthrough Energy Inventor Murdered? - Rense](https://rense.com/general79/murder.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2007)

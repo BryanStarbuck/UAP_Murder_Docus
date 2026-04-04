@@ -109,3 +109,5 @@ In 2019, Dan Plazak published "Making Gasoline from Water: John Andrews and the 
 - [1947 Apr 2 — John Andrews, Inventor of Substitute for Gasoline Disappears — Newspapers.com](https://www.newspapers.com/article/the-courier-journal-1947-apr-2-john-an/17880568/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

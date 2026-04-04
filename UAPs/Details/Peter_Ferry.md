@@ -64,3 +64,5 @@ As a marketing director, Ferry would have had detailed knowledge of Marconi's de
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1988)

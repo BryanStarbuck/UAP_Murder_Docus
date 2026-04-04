@@ -130,3 +130,6 @@ Stanley Meyer remains the single most discussed energy suppression case on socia
 - [U.S. Patent 4,936,961 — Method for the Production of a Fuel Gas](https://patents.google.com/patent/US4936961A/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1998)

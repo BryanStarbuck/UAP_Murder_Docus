@@ -98,3 +98,5 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Strange Scientist Deaths of GEC-Marconi in the 1980s — ISGP Studies](https://isgp-studies.com/misc/death-list/articles/1980s-marconi-general-electric-strange-deaths-scientists)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

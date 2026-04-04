@@ -81,3 +81,5 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - Note: Mainstream media coverage of Petronov is extremely limited; most information originates from alternative energy community sources
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing (c. 2010)

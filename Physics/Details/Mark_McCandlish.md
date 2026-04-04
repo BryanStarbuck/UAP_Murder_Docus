@@ -146,3 +146,5 @@ The ARV design predicts several commonly reported UAP characteristics:
 - [Review of Electrogravitics & Electrokinetics Propulsion — SCIRP](https://file.scirp.org/Html/11-2800956_55806.htm)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2021)

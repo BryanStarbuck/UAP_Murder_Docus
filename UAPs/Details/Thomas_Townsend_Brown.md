@@ -72,3 +72,5 @@ For most of his later life, Brown lived in semi-retirement in California, contin
 - [Grokipedia - Thomas Townsend Brown](https://grokipedia.com/page/Thomas_Townsend_Brown)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

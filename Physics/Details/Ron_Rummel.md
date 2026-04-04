@@ -110,3 +110,5 @@ Rummel's death is frequently cited alongside the deaths of other UFO researchers
 - [Strange Deaths and Disappearances Haunt Ufology — UFO Digest](https://www.ufodigest.com/article/strange-deaths-and-disappearances-haunt-ufology/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1993)

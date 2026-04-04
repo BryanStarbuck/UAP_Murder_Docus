@@ -104,3 +104,5 @@ Author Mark Shaw documented the case in his 2016 book *The Reporter Who Knew Too
 - [The Reporter Who Knew Too Much - Mark Shaw (2016)](http://www.thereporterwhoknewtoomuch.com/)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1965)

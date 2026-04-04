@@ -54,3 +54,5 @@ Roger Hill, aged 49, was a radar designer employed at Marconi Underwater Systems
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

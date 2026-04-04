@@ -58,3 +58,5 @@ His death occurred in the same month as those of [Victor Moore](Victor_Moore.md)
 - Tony Collins, *Open Verdict* (1990)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1987)

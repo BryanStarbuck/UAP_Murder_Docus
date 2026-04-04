@@ -85,3 +85,5 @@ Marinov was survived by his son, Marin Marinov, who at the time of his father's 
 - [Harassment and Premature Deaths 1989-2004 — Perpetual Motion in the 21st Century](https://perpetualmotion21.blogspot.com/2015/08/harassment-and-premature-deaths-1989_22.html)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1997)

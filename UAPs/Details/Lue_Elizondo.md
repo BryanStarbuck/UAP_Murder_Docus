@@ -75,3 +75,5 @@ Elizondo is represented by constitutional attorney **Daniel Sheehan** (Harvard L
 - [UFO whistleblower says he's 'not suicidal' - Irish Star](https://www.irishstar.com/news/us-news/ufo-whistleblowers-protection-tim-burchett-33078333)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

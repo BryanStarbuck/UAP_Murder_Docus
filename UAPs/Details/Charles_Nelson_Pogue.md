@@ -104,3 +104,5 @@ In his later years, Pogue denied having ever claimed that his carburetor achieve
 - [Charles Nelson Pogue — Alchetron](https://alchetron.com/Charles-Nelson-Pogue)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

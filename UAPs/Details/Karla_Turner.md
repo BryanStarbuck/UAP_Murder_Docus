@@ -89,3 +89,5 @@ Some researchers interpret the "metallic sphere" described by Turner's abductees
 - [BIO — Karla Turner official site](https://eltonturner.wixsite.com/karlaturner/bio)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1996)

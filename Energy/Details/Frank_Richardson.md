@@ -104,3 +104,5 @@ A prototype bladeless turbine rated at 1,000 horsepower was also reportedly cons
 - [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased

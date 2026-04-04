@@ -93,3 +93,5 @@ In 1964, Kilgallen became the only journalist to secure a private interview with
 - [Reporter's Mysterious Death / Nightmare UFO Encounter — Coast to Coast AM](https://www.coasttocoastam.com/show/2017-05-17-show/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1965)

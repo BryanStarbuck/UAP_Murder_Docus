@@ -81,3 +81,6 @@ The FBI maintained a file on Carr (available in the FBI Vault), documenting thei
 - [HowStuffWorks — Otis Carr](https://science.howstuffworks.com/space/aliens-ufos/otis-carr.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1982)

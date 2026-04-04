@@ -92,3 +92,6 @@ He claimed that his decision to speak publicly was motivated by the murder of 11
 - [Eastern Sierra Now — Phil Schneider Article](https://easternsierranow.com/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1996)

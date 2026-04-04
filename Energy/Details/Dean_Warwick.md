@@ -108,3 +108,5 @@ Beyond his energy invention work, Warwick was deeply involved in researching gov
 - [History of New Energy Invention Suppression Cases — Critical Unity](https://criticalunity.org/news/energy/283-history-of-new-energy-invention-suppression-cases)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2006)

@@ -329,3 +329,5 @@ Cunningham's death fits a documented pattern that has drawn attention from resea
 - [Wikipedia: Timothy J. Cunningham](https://en.wikipedia.org/wiki/Timothy_J._Cunningham)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (2018)

@@ -114,3 +114,5 @@ Graves's testimony directly supports what UAP researchers call "the Five Observa
 - [Ryan Graves Congressional Bio](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GravesR-20230726.pdf)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Alive

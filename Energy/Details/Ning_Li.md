@@ -123,3 +123,6 @@ From approximately 2004 to 2021, the physics and UAP communities widely believed
 - [The Role of Superconductors in Gravity Research — DIA FOIA Reading Room](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2021)

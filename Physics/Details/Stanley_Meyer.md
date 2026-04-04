@@ -110,3 +110,5 @@ Meyer's work connects to UAP physics through the resonance principle. If resonan
 - [Stanley Meyer: Water Fuel Cell — Rex Research](http://rexresearch.com/meyerhy/meyerhy.htm)
 
 *This information was compiled by Claude AI research.*
+
+**Status:** Deceased (1998)

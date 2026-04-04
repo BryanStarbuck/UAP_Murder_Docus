@@ -69,3 +69,5 @@ His threat disclosures are significant because they came from a sitting member o
 - [Burchett: Classified UFO Briefing Energized Congress - The Hill](https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Alive

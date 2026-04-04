@@ -87,3 +87,5 @@ Bell studied Eastern philosophy, trained with Himalayan teachers, and received a
 - [The Mysterious Death of Dr. Fred Bell — UFO Digest](https://www.ufodigest.com/article/the-mysterious-death-of-dr-fred-bell/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2011)

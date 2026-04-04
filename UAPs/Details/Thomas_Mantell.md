@@ -68,3 +68,5 @@ Thomas Mantell was a decorated World War II veteran who had received the Disting
 - [The Thomas Mantell UFO Incident — HowStuffWorks](https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1948)

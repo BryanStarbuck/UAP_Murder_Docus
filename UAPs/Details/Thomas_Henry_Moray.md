@@ -137,3 +137,5 @@ Moray's case is notable as a pre-Vesperman era example that established the temp
 - T.H. Moray, *The Sea of Energy in Which the Earth Floats* (Cosray Research Institute, 1960)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1974)

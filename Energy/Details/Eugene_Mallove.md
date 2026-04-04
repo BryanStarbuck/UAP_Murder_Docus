@@ -145,3 +145,5 @@ Mallove's case remains one of the most widely discussed energy suppression death
 - Eugene Mallove, *Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor* (1991)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2004)

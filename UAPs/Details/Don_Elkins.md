@@ -81,3 +81,5 @@ Elkins also co-authored *Secrets of the UFO* with Carla Rueckert and published *
 - [Regarding the Death/Suicide of Don Elkins — Jade Norby Substack](https://jadenorby.substack.com/p/regarding-the-deathsuicide-of-don)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1984)

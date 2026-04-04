@@ -104,6 +104,23 @@ The Sentinel Briefing includes Loureiro with a clear caveat: his connection to t
 
 What makes his case worth flagging is that within the same nine-month window (June 2025 – February 2026), another defense-adjacent physicist was killed by a perpetrator whose operational planning exceeded what personal grievance typically produces.
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+Loureiro is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **[Monica Jacinto Reza](Monica_Jacinto_Reza.md)** — Co-inventor of Mondaloy superalloy. Missing since June 22, 2025. No trace found.
+- **[Jason Thomas](/uaps/Details/Jason_Thomas)** — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **Nuno Loureiro** (this profile) — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **[William Neil McCasland](/uaps/Details/William_McCasland)** — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
@@ -144,3 +161,6 @@ Loureiro's assassination has been widely discussed on X.com:
 - @ahlberto (March 22, 2026) — "Connect the dots on MIT team of scientists assassinations working on plasma energy"
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (2025)

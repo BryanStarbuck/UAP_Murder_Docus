@@ -75,3 +75,5 @@ Second Lieutenant Robert L. Wilson, the radar operator who also disappeared, has
 - [Felix Eugene "Gene" Moncla Jr. — Find a Grave](https://www.findagrave.com/memorial/27943536/felix_eugene-moncla)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing, presumed deceased (1953)

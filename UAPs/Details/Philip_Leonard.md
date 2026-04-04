@@ -103,3 +103,5 @@ Philip Leonard was a distinguished chemist specializing in high-explosives synth
 - [Philip Leonard — ResearchGate](https://www.researchgate.net/profile/Philip-Leonard)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2024)

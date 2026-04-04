@@ -85,3 +85,6 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [The Guardian, August 25, 1988 — Peter Ferry (via Newspapers.com)](https://www.newspapers.com/article/12469361/the_guardian_25_august_1988_peter_ferry/)
 
 *This information was built by Grok and Claude AI research.*
+
+
+**Status:** Deceased (1988)

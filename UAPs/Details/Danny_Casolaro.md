@@ -124,3 +124,5 @@ In 2024, Netflix released [**American Conspiracy: The Octopus Murders**](https:/
 - INSLAW case documentation — U.S. Senate Judiciary Committee
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1991)

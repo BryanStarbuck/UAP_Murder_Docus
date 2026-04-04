@@ -117,3 +117,5 @@ According to Schauberger's letters and his son's testimony, the reality was very
 - [The Schauberger Archives — PKS (Pythagoras Kepler System)](https://www.pks.or.at/)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1958)

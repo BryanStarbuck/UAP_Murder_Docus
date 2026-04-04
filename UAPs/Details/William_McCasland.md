@@ -116,6 +116,23 @@ McCasland's disappearance is the latest in a cluster of five scientist deaths or
 
 The case has generated intense discussion on X (formerly Twitter). The Sentinel Network (@thesentinelnet) published an OSINT investigation titled "THE GHOST GENERAL" mapping the AFRL funding chain connecting McCasland to Reza. Viral threads list all five scientists together under the framing "5 Dead/Missing Scientists" tied to UFO/advanced technology. Additional names have surfaced in X discourse — including a reported Wright-Patterson triple death and Los Alamos National Laboratory scientist Melissa Casias — but these have not been verified in mainstream reporting. No evidence of a coordinated plot has emerged; most cases have partial official explanations except the two hikers (McCasland and Reza). Investigations remain active where unsolved. As of March 26, 2026, McCasland has been missing for approximately four weeks.
 
+## Congressional Demands for Witness Protection
+
+Former Congressman Matt Gaetz has publicly demanded witness protection for key UFO scientists, citing the pattern of deaths and disappearances in this cluster. Gaetz stated:
+
+> "I would have witnesses protection for key witnesses right now. And Congress has the ability to get that done in concert with the Department of Justice."
+> — **Matt Gaetz**, demanding witness protection for UFO scientists after researchers were found dead or missing
+
+McCasland is one of five scientists whose deaths or disappearances between June 2025 and March 2026 prompted this unprecedented congressional call for protection:
+
+- **[Monica Jacinto Reza](Monica_Jacinto_Reza.md)** — Co-inventor of Mondaloy superalloy, funded under McCasland's AFRL budget. Missing since June 22, 2025. No trace found.
+- **[Jason Thomas](Jason_Thomas.md)** — Novartis chemical biology director. Vanished December 12, 2025. Body found March 17, 2026.
+- **[Nuno Loureiro](Nuno_Loureiro.md)** — MIT Plasma Science and Fusion Center director. Shot and killed December 15, 2025.
+- **[Carl Grillmair](Carl_Grillmair.md)** — Caltech astrophysicist. Shot on his porch February 16, 2026.
+- **William McCasland** (this profile) — Retired USAF Major General, AFRL commander. Missing since February 27, 2026.
+
+The fact that a former member of Congress is calling for DOJ witness protection for scientists connected to UAP research represents an extraordinary escalation — an acknowledgment at the federal level that these deaths and disappearances may not be coincidental and that surviving witnesses may be in danger.
+
 ## See Also
 
 - [Robert Herbert](Robert_Herbert.md) — Major General and Reid's AAWSAP point man, #4 on Bigoted Access List; killed in solo desert crash 2021
@@ -165,3 +182,5 @@ The case has generated intense discussion on X (formerly Twitter). The Sentinel 
 - [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Missing (2026)

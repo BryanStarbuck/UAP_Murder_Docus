@@ -60,3 +60,5 @@ The connection between UFO contact experiences and government psychic research p
 - [UFO Researchers' Mysterious Deaths — The Free Dictionary](https://encyclopedia2.thefreedictionary.com/UFO+Researchers'+Mysterious+Deaths)
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (1985)

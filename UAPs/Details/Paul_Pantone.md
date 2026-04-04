@@ -88,3 +88,5 @@ Pantone was released from the Utah State Mental Hospital in May 2009, but his he
 - Alternative energy forums and documentary coverage of Pantone's case
 
 *This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2015)
