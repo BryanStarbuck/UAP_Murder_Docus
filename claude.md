@@ -156,6 +156,63 @@ Each cross-link is a bold paragraph with a few descriptive words and a hyperlink
 | UAP Murders | https://uapmurders.com/ | `~/BGit/Bryan_git/UAP_Murder_Docus` |
 | Intelligence Murders | https://intelligencemurders.com/ | `~/BGit/Bryan_git/Intel_Murder_Docus` |
 
+## Hosting & Deployment
+
+### Architecture
+
+The site is hosted on **AWS S3 + CloudFront** (NOT GitHub Pages):
+- **S3 Bucket**: `uapmurders-com` (us-east-1, static website hosting enabled)
+- **CloudFront Distribution**: `EB7H1RCLH09U2` (domain: `du5bfei5fsw2y.cloudfront.net`)
+- **Custom Domains**: `uapmurders.com` and `www.uapmurders.com` (both via CloudFront)
+- **AWS Account**: `068493425108`
+
+S3 website hosting config: `IndexDocument: index.html`, `ErrorDocument: 404.html`.
+
+### Critical: trailingSlash must be true
+
+`docusaurus.config.ts` must have `trailingSlash: true`. S3 static website hosting resolves `/uaps/` → `uaps/index.html`. With `trailingSlash: false`, Docusaurus generates `uaps.html` instead of `uaps/index.html`, causing all subpages to 404.
+
+### CI/CD Pipeline
+
+GitHub Actions workflow (`.github/workflows/pages.yml`) runs on push to `main`:
+1. Builds the Docusaurus site (`npm run build`)
+2. Syncs build output to S3 (`aws s3 sync ./build s3://uapmurders-com/ --delete`)
+3. Invalidates CloudFront cache (`aws cloudfront create-invalidation --distribution-id ... --paths "/*"`)
+
+**GitHub Secrets required** (set via `gh secret set`):
+- `AWS_ACCESS_KEY_ID` — IAM user `uapmurders-deploy`
+- `AWS_SECRET_ACCESS_KEY` — IAM user `uapmurders-deploy`
+- `CLOUDFRONT_DISTRIBUTION_ID` — `EB7H1RCLH09U2`
+
+The `uapmurders-deploy` IAM user has minimal permissions: S3 read/write on `uapmurders-com` bucket + CloudFront invalidation on the distribution.
+
+### Manual Deploy (from local machine)
+
+```bash
+npm run build
+aws s3 sync ./build s3://uapmurders-com/ --delete
+aws cloudfront create-invalidation --distribution-id EB7H1RCLH09U2 --paths "/*"
+```
+
+### Diagnosing Issues
+
+1. **Check if site is up**: `curl -sI https://uapmurders.com/` — should return 200 with `server: AmazonS3`
+2. **Check subpages**: `curl -s -o /dev/null -w "%{http_code}" https://uapmurders.com/uaps/` — should return 200
+3. **Test S3 directly** (bypass CloudFront): `curl -s -o /dev/null -w "%{http_code}" http://uapmurders-com.s3-website-us-east-1.amazonaws.com/uaps/`
+4. **Check S3 contents**: `aws s3 ls s3://uapmurders-com/ --recursive | head -20`
+5. **Check CloudFront status**: `aws cloudfront get-distribution --id EB7H1RCLH09U2 --query "Distribution.Status"`
+6. **Check GitHub Actions**: `gh run list --limit 5`
+
+**Common issues**:
+- **All subpages 404 but root works**: `trailingSlash` is set to `false` in `docusaurus.config.ts` — change to `true` and redeploy
+- **Stale content after deploy**: CloudFront cache not invalidated — run `aws cloudfront create-invalidation --distribution-id EB7H1RCLH09U2 --paths "/*"`
+- **GitHub Actions deploys but site unchanged**: Check that the workflow deploys to S3, not GitHub Pages. The site does NOT use GitHub Pages.
+- **GitHub account downgraded to free**: This does NOT affect the site since it uses S3/CloudFront, not GitHub Pages. However, if the Actions workflow was previously configured for GitHub Pages (using `actions/deploy-pages`), it would deploy to the wrong target.
+
+### Note on GitHub Pages
+
+This site does **not** use GitHub Pages. The domain DNS points to CloudFront, not GitHub Pages. If GitHub Pages shows as "not configured" (`gh api repos/BryanStarbuck/UAP_Murder_Docus/pages` returns 404), that is expected and correct.
+
 ## Last Sync
 
 **Source: `~/BGit/Bryan_git/Epstein_Kull_List/`** (UAPs, Energy):

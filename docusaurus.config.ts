@@ -16,7 +16,7 @@ const config: Config = {
 
   url: siteUrl,
   baseUrl,
-  trailingSlash: false,
+  trailingSlash: true,
 
   organizationName: "BryanStarbuck",
   projectName: "UAP_Murder_Docus",
