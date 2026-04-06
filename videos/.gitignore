@@ -1,0 +1,6 @@
+# Videos are large files — tracked via IPFS, not git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm

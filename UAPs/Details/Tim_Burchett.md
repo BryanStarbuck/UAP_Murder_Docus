@@ -51,6 +51,7 @@ His threat disclosures are significant because they came from a sitting member o
 - [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified at the hearing Burchett organized
 - [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP testimony
 - [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
+- [Rep. Eric Burlison](Eric_Burlison.mdx) — Fellow Missouri/Tennessee congressman who received near-identical death warning in March 2026, naming CIA's Glenn Gaffney
 
 ## Other Shocking Stories
 

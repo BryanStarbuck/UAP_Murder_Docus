@@ -120,6 +120,7 @@ These deaths have been connected to UAP cover-ups by theorists on social media p
 | [Ryan Graves](Details/Ryan_Graves.md) | — | **ALIVE** | **AT RISK** | Former F-18 Navy pilot. Founded Americans for Safe Aerospace. Testified before Congress July 2023. In contact with 1,000+ pilots who reported UAP encounters. |
 | [John Burroughs](Details/John_Burroughs.md) | — | **ALIVE** | Radiation-injured witness | USAF witness to Rendlesham Forest UFO (1980). Permanent heart/vision damage from electromagnetic radiation. Fought decades for VA benefits. VA implicitly acknowledged UAP encounter caused injuries. |
 | [Rep. Tim Burchett](Details/Tim_Burchett.md) | — | **ALIVE** | **THREATENED** | Congressman leading UAP hearings. Warned by Army/IC staff: "They'd have no problem having you killed." Called whistleblower protections "a joke." |
+| [Rep. Eric Burlison](Details/Eric_Burlison.mdx) | — | **ALIVE** | **THREATENED** | Missouri Congressman pursuing UAP disclosure. Warned by Army Special Forces and IC personnel to remove two names from his list or be killed. One name reportedly identified as former CIA DS&T Director Glenn Gaffney, who allegedly blocked UAP materials transfer from Lockheed. Threat disclosed March 2026. |
 | [George Knapp](Details/George_Knapp.md) | — | **ALIVE** | Surveilled | Chief investigative reporter, KLAS-TV. Broke Bob Lazar story (1989). Testified before Congress September 2025. Sources burglarized. Surveilled in Russia. |
 | [Mark McCandlish](Details/Mark_McCandlish.md) | 2021 | Shotgun blast to head, ruled suicide | **HIGHLY SUSPICIOUS** | Aerospace illustrator who testified about the Alien Reproduction Vehicle (ARV/Flux Liner) at the 2001 Disclosure Project. Reportedly scheduled to provide Senate testimony on UAPs around time of death. Associates dispute suicide ruling. |
 | [Mr. 35-Year-Old Murdered Whistleblower](Details/Mr_35_Year_Old_Murdered_Whistleblower.md) | ~2026 | Found dead with suicide note | **SUSPICIOUS** | Unnamed potential whistleblower connected to David Grusch. Was preparing to come forward. Age 35, father of two. According to James Fox, an IC source notified Fox and former Senate intelligence staffer Kirk McConnell simultaneously. Identity withheld. |
@@ -395,7 +396,7 @@ This documentary is in 3 parts. All are over 2 hours in length. It covers the ma
 
 ---
 
-*Last Updated: March 29, 2026 — Added Sentinel Network "THE BLIND SPOT" (March 25, 2026) fireball spike and 3I/ATLAS interstellar object context across all cluster profiles. Expanded cluster count to 11 names / 19 months. Added fireball/3I/ATLAS pattern to Patterns Worth Noting. Updated Grillmair (NEO detection blind spot, fireball context), Maiwald (orbital surveillance blind spot), Loureiro (plasma physics / fireball entry dynamics), and all cluster profiles with Blind Spot source.*
+*Last Updated: April 6, 2026 — Added Rep. Eric Burlison (R-MO): Congressman threatened with death for naming CIA and Lockheed figures in UAP investigation; includes embedded video of threat disclosure, March 2026.*
 
 **Suspicious deaths documented in this investigation: 125** — researchers, whistleblowers, pilots, and scientists who died under circumstances rated Moderate Suspicion or higher, connected to UAP/UFO programs, advanced propulsion, or disclosure efforts.
 

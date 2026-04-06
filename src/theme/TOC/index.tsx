@@ -399,6 +399,11 @@ const people: Person[] = [
     path: "/uaps/Details/Wilbert_Smith",
     blurb: "Age 52. Canadian government engineer who ran official UFO program. Classified memo confirmed U.S. programs. Cancer. Told wife to hide all files. Three nations sought them.",
   },
+  {
+    name: "Rep. Eric Burlison",
+    path: "/uaps/Details/Eric_Burlison",
+    blurb: "Missouri Congressman warned he\u2019d be killed for naming CIA and Lockheed figures in his UAP investigation. \u2018They\u2019d have no problem having you killed.\u2019 Washington, D.C., 2026.",
+  },
 ];
 
 export default function TOC(): React.ReactElement {
@@ -414,7 +419,7 @@ export default function TOC(): React.ReactElement {
         </div>
       ))}
       <div className={styles.count}>
-        80 profiles from 290+ documented cases
+        81 profiles from 290+ documented cases
       </div>
     </div>
   );
