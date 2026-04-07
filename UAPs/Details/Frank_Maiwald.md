@@ -21,7 +21,7 @@ Senior technical group supervisor at NASA's Jet Propulsion Laboratory who died s
 
 ## Assessment: SUSPICIOUS
 
-A senior JPL technical group supervisor managing cutting-edge dual-use remote sensing instruments died suddenly at 61 with no cause of death disclosed. No institutional acknowledgment exists from JPL, NASA, or Caltech. The same silence that met the deaths and disappearances of [Monica Reza](Monica_Jacinto_Reza.md), [Carl Grillmair](Carl_Grillmair.md), and the Wright-Patterson personnel met Maiwald nearly a year earlier. According to The Sentinel Network, colleague entries in the public memorial guest book make clear the death was sudden — the language of shock, not a long illness. JPL is where Monica Reza was working when she vanished eleven months later.
+A senior JPL technical group supervisor managing cutting-edge dual-use remote sensing instruments died suddenly at 61 with no cause of death disclosed. No institutional acknowledgment exists from JPL, NASA, or Caltech. The same silence that met the deaths and disappearances of [Monica Reza](Monica_Jacinto_Reza.md), [Carl Grillmair](Carl_Grillmair.md), and the Wright-Patterson personnel met Maiwald nearly a year earlier. According to The Sentinel Network, colleague entries in the public memorial guest book make clear the death was sudden — the language of shock, not a long illness. JPL is where Monica Reza was working when she vanished eleven months later. And one year before Maiwald's death, JPL research scientist [Michael David Hicks](Michael_David_Hicks.md) — also a longtime colleague — died at 59 with no cause of death disclosed and no autopsy record found, making Maiwald the second JPL scientist lost in two years.
 
 ## Circumstances of Death
 
@@ -73,6 +73,7 @@ The Sentinel Network's March 25, 2026 article "The Blind Spot: Rocks Are Falling
 > — The Sentinel Network, March 2026
 
 ## See Also
+- [Michael David Hicks](Michael_David_Hicks.md) — JPL research scientist (1998-2022), DART Project, died July 2023 — no cause disclosed; precedes Maiwald's death by one year from the same corridor
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — JPL contractor, Mondaloy inventor, vanished June 2025
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astrophysicist, NEOWISE pipeline QA, shot February 2026
 - [Maj. Gen. William Neil McCasland](William_McCasland.md) — Former AFRL commander, vanished February 2026

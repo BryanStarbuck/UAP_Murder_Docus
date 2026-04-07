@@ -145,6 +145,7 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [Monica Jacinto Reza (Zero Point Energy)](/energy/Details/Monica_Jacinto_Reza) — This case also appears in the Zero Point Energy project
 - [Ning Li](Ning_Li.md) — Antigravity researcher who disappeared from public life after receiving DOD grant; struck by vehicle on campus
 - [Amy Eskridge](Amy_Eskridge.md) — Co-founded Institute for Exotic Science; ruled suicide, alleged murder by private aerospace company
+- [Michael David Hicks](Michael_David_Hicks.md) — JPL research scientist (DART Project), died July 2023 — no cause disclosed; the Daily Mail identified him as the ninth in the broader cluster, one year before Maiwald
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist murdered December 2025; part of the same five-scientist cluster
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist killed February 2026; part of the same cluster
 - [Jason Thomas](Jason_Thomas.md) — Novartis scientist found dead; part of the same cluster

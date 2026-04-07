@@ -152,6 +152,7 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [Carl Grillmair (Zero Point Energy)](/energy/Details/Carl_Grillmair) — This case also appears in the Zero Point Energy project
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist murdered two months earlier, also subject of UAP speculation
 - [Jason Thomas](Jason_Thomas.md) — Novartis scientist found dead; part of the same scientist cluster
+- [Michael David Hicks](Michael_David_Hicks.md) — JPL research scientist (DART Project), died July 2023 with no cause disclosed; extends JPL corridor losses to four scientists in three years
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace materials scientist missing since June 2025; same IPAC-JPL institutional family
 - [William McCasland](William_McCasland.md) — Retired USAF Major General missing since February 2026
 - [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of scientist deaths and disappearances with AFRL connections
