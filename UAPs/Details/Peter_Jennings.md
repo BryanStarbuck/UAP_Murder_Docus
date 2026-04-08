@@ -89,6 +89,7 @@ The special that aired was titled *Peter Jennings Reporting: UFOs -- Seeing Is B
 - [Ann Livingston](Ann_Livingston.md) -- MUFON investigator who died of fast-acting ovarian cancer in 1994
 - [Tony Dodd](Tony_Dodd.md) -- British UFO investigator who believed his brain tumor was "engineered in retaliation"
 - [Karl Wolfe](Karl_Wolfe.md) -- Disclosure Project witness killed by tractor trailer while cycling
+- [Robert Monroe](Robert_Monroe.md) -- Monroe Institute founder whose "loosh farm" framework describes fast-acting cancer as one tool non-human entities use to kill prominent people; the CIA used his institute for classified remote viewing
 
 ## Other Shocking Stories
 
@@ -104,6 +105,7 @@ The special that aired was titled *Peter Jennings Reporting: UFOs -- Seeing Is B
 - [Peter Jennings, Urbane News Anchor, Dies at 67 -- New York Times](https://www.nytimes.com/2005/08/08/business/media/peter-jennings-urbane-news-anchor-dies-at-67.html)
 - [ABC News anchor Peter Jennings dead at 67 -- CNN](https://www.cnn.com/2005/US/08/07/jennings/)
 - Nick Redfern, *Close Encounters of the Fatal Kind* (2014)
+- Video: [@D4rk_n3ws on X, April 8, 2026](https://x.com/D4rk_n3ws/status/2041749170772451823) — UAP researcher discusses Jennings' UFO special, the 90% cut, and the pattern of fast-acting cancers among UAP journalists
 
 *This information was built by Grok and Claude AI research.*
 

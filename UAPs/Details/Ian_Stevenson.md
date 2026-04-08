@@ -1,0 +1,111 @@
+---
+title: Ian Stevenson
+---
+
+# Ian Stevenson
+Psychiatrist at the University of Virginia who spent 40 years rigorously studying approximately 3,000 cases of children with spontaneous memories of past lives — producing the most methodologically credible scientific evidence for reincarnation, and whose data on the average interval between death and reincarnation (6 months to 3 years) directly challenges the authenticity of near-death experience encounters with deceased relatives.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Ian Pretyman Stevenson |
+| **Born** | October 31, 1918, Montreal, Quebec, Canada |
+| **Died** | February 8, 2007 |
+| **Age at Death** | 88 |
+| **Location of Death** | Charlottesville, Virginia |
+| **Cause of Death** | Pneumonia |
+| **Official Ruling** | Natural causes |
+| **Nationality** | Canadian-American |
+| **Killed on US Soil** | Yes |
+| **Category** | Scientist / Consciousness Researcher |
+| **Investigation** | UAPs |
+
+## Assessment: NOT SUSPICIOUS
+
+Stevenson died at age 88 from pneumonia after a long illness. No suspicious circumstances have been documented. His inclusion in this investigation is not because his death was suspicious but because his research provides the most scientifically rigorous evidence that human consciousness survives death and is recycled — directly intersecting with the claims of UAP whistleblowers, abductees, and remote viewers who describe non-human entities managing or manipulating the human soul recycling process (the "loosh farm" or "soul trap" framework documented elsewhere in this investigation).
+
+## Background
+
+Ian Stevenson was born in Montreal and raised in Ottawa. His father was a Scottish lawyer working as the Canadian correspondent for the *Times of London*. His mother had an interest in theosophy and maintained an extensive library on the paranormal — Stevenson credited this with sparking his early interest in the field.
+
+He studied medicine at St. Andrews University in Scotland (1937–1939), then completed his degree in Canada due to World War II, graduating from McGill University with a B.Sc. (1942) and M.D. (1943). He became a U.S. citizen in 1949.
+
+Stevenson spent 50 years at the **University of Virginia**:
+- Chair of the Department of Psychiatry (1957–1967)
+- Carlson Professor of Psychiatry (1967–2001)
+- Research Professor of Psychiatry (2002–2007)
+- Founded the **Division of Perceptual Studies (DOPS)** at UVA in 1967 — the first academic unit in America dedicated to studying consciousness survival, near-death experiences, out-of-body experiences, and reincarnation cases
+
+He co-founded the Society for Scientific Exploration in 1982.
+
+## The Reincarnation Research
+
+Over 40 years of international fieldwork, Stevenson amassed approximately **3,000 cases** of children who spontaneously claimed memories of previous lives. His methodology was unusually rigorous for this field:
+- Cases were investigated before the previous life could be identified, eliminating after-the-fact fitting
+- Physical verification of claimed memories was required (specific names, locations, events unknown to the child's family)
+- Children's birthmarks and birth defects were documented alongside claimed previous-life injuries or wounds at the same anatomical locations
+- Cross-cultural consistency was documented across cultures with no contact with each other
+
+Stevenson authored approximately 300 papers and 14 books, including:
+- *Twenty Cases Suggestive of Reincarnation* (1966)
+- *Reincarnation and Biology* (1997) — documenting birth defects matching wounds in claimed previous lives (2,268 cases)
+- *Where Reincarnation and Biology Intersect* (1997, simplified version)
+- *European Cases of the Reincarnation Type* (2003)
+
+## The Reincarnation Interval — Intersection With the Loosh Farm Framework
+
+Stevenson's research found that the **average interval between death and reincarnation** is typically:
+- General average: approximately **16–18 months** between death and the child's subsequent birth
+- In Druze community cases: median approximately **8 months**
+- Cases involving suicide in a prior life: median only approximately **3 months**
+- The commonly referenced range of "6 months to 3 years" reflects cases where rebirth into the same family is expected
+
+This data creates a significant problem for the standard interpretation of near-death experiences. As noted in UAP consciousness research discussions:
+
+> "If you look at Dr. Ian Stevenson's extremely rigorous research on reincarnation that he did at the University of Virginia for decades on children, spontaneous memories of past lives — all the cases show that the average interval between death and reincarnation is something like six months to three years maximum. So when you are having a near-death experience and your grandmother who died when you were in your 20s comes to greet you — that's bullshit. You are being shown an artificially generated simulacrum of your dead relatives to manipulate you."
+> — UAP researcher, April 8, 2026 (video posted by @D4rk_n3ws on X)
+
+If Stevenson's data is accurate, then:
+1. The deceased relatives appearing to dying persons in near-death experiences **cannot be the actual souls** of those relatives — they would have already reincarnated
+2. What appears to be a welcoming committee of deceased loved ones may instead be a **psychotronically generated simulation** designed to manipulate the dying person
+3. This is consistent with [Robert Monroe's](Robert_Monroe.md) loosh framework, which describes the post-death experience as managed by a control system using simulated versions of deceased relatives to guide souls into the recycling process
+
+## Connection to UAP Consciousness Research
+
+Stevenson's research contributes to the convergent picture being built by UAP investigation:
+
+- **Monroe's loosh farm** — describes deliberate management of human souls by non-human entities
+- **Karla Turner's abductee research** — describes abductees being taken to places where the soul is handled "as some kind of an informational matrix and or energy source"
+- **Remote viewing of "Moksha"** — independently finds a grid around Earth that captures souls after death, part of energy-extraction machinery
+- **Stevenson's reincarnation intervals** — provide scientific evidence that souls do recycle rapidly, and that the deceased relatives appearing in NDEs are likely simulations
+
+The Division of Perceptual Studies at UVA, which Stevenson founded, continues this research and has been cited in academic literature on consciousness science and non-local mind.
+
+## The University of Virginia Connection
+
+The Monroe Institute and Stevenson's UVA Division of Perceptual Studies operated in the same geographic area (both in Charlottesville/Nelson County, Virginia) during the same era, yet Stevenson's academic rigor and Monroe's experiential research reached convergent conclusions through entirely different methodologies. The CIA's documented use of the Monroe Institute for remote viewing, and the institutional support Stevenson received at UVA, suggests that the U.S. government was monitoring and potentially benefiting from research into consciousness survival through multiple parallel channels.
+
+## See Also
+
+- [Robert Monroe](Robert_Monroe.md) — Monroe Institute founder whose loosh framework intersects with Stevenson's reincarnation interval data
+- [John Lear](John_Lear.md) — Claimed soul catcher apparatus on Moon managing human soul recycling
+- [Karla Turner](Karla_Turner.md) — Abduction researcher whose interviewees described souls being handled as energy sources
+
+## Other Shocking Stories
+
+- [Karla Turner](Karla_Turner.md): Ph.D. abduction researcher died of fast-acting cancer at 48 after receiving threats, her publisher halted printing of her work, and her abductees described souls being processed as energy sources.
+- [Ron Johnson](Ron_Johnson.md): MUFON deputy director collapsed with purple face and blood from nose after sipping from a soda can at a UAP conference.
+- [Danny Casolaro](Danny_Casolaro.md): Journalist found dead in a hotel bathtub with wrists slashed 12 times after warning his brother not to believe it was an accident.
+- [Peter Jennings](Peter_Jennings.md): ABC anchor died of fast-acting lung cancer within months of airing a UFO special where 90% of recorded whistleblower footage was cut before broadcast.
+
+## Sources
+
+- [Ian Stevenson — Wikipedia](https://en.wikipedia.org/wiki/Ian_Stevenson)
+- [Division of Perceptual Studies — University of Virginia](https://med.virginia.edu/perceptual-studies/)
+- [Twenty Cases Suggestive of Reincarnation — Ian Stevenson (1966)](https://www.amazon.com/Twenty-Cases-Suggestive-Reincarnation-Second/dp/0813908728)
+- [Reincarnation and Biology — Ian Stevenson (1997)](https://www.amazon.com/Reincarnation-Biology-2-vol-set/dp/0275952835)
+- [Society for Scientific Exploration](https://www.scientificexploration.org/)
+- Video: [@D4rk_n3ws on X, April 8, 2026](https://x.com/D4rk_n3ws/status/2041749170772451823)
+
+*This information was built by Grok and Claude AI research.*
+
+**Status:** Deceased (2007)

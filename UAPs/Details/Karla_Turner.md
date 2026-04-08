@@ -71,6 +71,9 @@ Some researchers interpret the "metallic sphere" described by Turner's abductees
 - [Phil Schneider](Phil_Schneider.md) -- Died the same month as Turner (January 1996)
 - [Ron Rummel](Ron_Rummel.md) -- Died in 1993; moved in overlapping research circles
 - [Peter Jennings](Peter_Jennings.md) -- ABC News anchor who died of fast-acting lung cancer months after airing a major UFO special
+- [Robert Monroe](Robert_Monroe.md) -- Monroe Institute founder whose loosh farm framework Turner's abductees independently corroborated; CIA used his institute for classified remote viewing
+- [John Lear](John_Lear.md) -- CIA pilot whose "soul catcher" moon theory parallels the control system Turner's abductees described
+- [Ian Stevenson](Ian_Stevenson.md) -- UVA researcher whose reincarnation interval data supports the soul-recycling framework Turner's abductees described
 
 ## Other Shocking Stories
 
@@ -87,6 +90,7 @@ Some researchers interpret the "metallic sphere" described by Turner's abductees
 - [Karla Turner — Project Camelot](https://projectcamelot.org/turner.html)
 - [Karla Turner Tribute — Alien Resistance](https://www.alienresistance.org/karla-turner-tribute-abductee-resister/)
 - [BIO — Karla Turner official site](https://eltonturner.wixsite.com/karlaturner/bio)
+- Video: [@D4rk_n3ws on X, April 8, 2026](https://x.com/D4rk_n3ws/status/2041749170772451823) — UAP researcher discusses Turner's abductee research and its convergence with Robert Monroe's loosh farm framework (Turner referred to as "Carl Aterner" — transcription artifact for "Karla Turner")
 
 *This information was built by Grok and Claude AI research.*
 
