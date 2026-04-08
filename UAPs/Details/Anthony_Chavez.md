@@ -101,6 +101,8 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 > — The Sentinel Network, March 2026
 
 ## See Also
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [Los Alamos National Laboratory](Los_Alamos_National_Laboratory.md) — Organization: Chavez worked at LANL until ~2017; lived in its company town
 - [Melissa Casias](Melissa_Casias.md) — DOE advisory board member connected to LANL, vanished from Taos ~6 weeks after Chavez
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace engineer who vanished hiking ~7 weeks after Chavez, June 22, 2025
 - [Frank Maiwald](Frank_Maiwald.md) — JPL technical group supervisor who died July 4, 2024; extends the timeline backward

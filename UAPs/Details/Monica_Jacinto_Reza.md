@@ -139,9 +139,11 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 
 ## See Also
 
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [NASA JPL](NASA_JPL.md) — Organization: Reza's employer at time of disappearance
+- [AFRL Wright-Patterson AFB](AFRL_Wright_Patterson.md) — Organization: funded Reza's Mondaloy research under McCasland's command
 - [Dallis Hardwick](Dallis_Hardwick.md) — Co-inventor of Mondaloy and Reza's mentor at Rockwell Science Center; died of cancer 2014; completes the custody chain
 - [William McCasland](William_McCasland.md) — Retired USAF Major General who oversaw the AFRL budget funding Reza's research; disappeared eight months later
-- [AFRL Scientist Cluster (2025-2029)]# — The broader pattern of defense scientist deaths and disappearances
 - [Monica Jacinto Reza (Zero Point Energy)](/energy/Details/Monica_Jacinto_Reza) — This case also appears in the Zero Point Energy project
 - [Ning Li](Ning_Li.md) — Antigravity researcher who disappeared from public life after receiving DOD grant; struck by vehicle on campus
 - [Amy Eskridge](Amy_Eskridge.md) — Co-founded Institute for Exotic Science; ruled suicide, alleged murder by private aerospace company

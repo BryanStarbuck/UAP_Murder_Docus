@@ -419,3 +419,19 @@ This project documents deaths, disappearances, and cases of extreme retaliation 
 - **Classified aerospace and defense technology (SDI/Star Wars, black projects)**
 - **Zero-point energy, antigravity, and other suppressed physics**
 - **Government knowledge of non-human intelligence**
+
+---
+
+## The 2023–2026 NASA / LANL / AFRL Scientist Cluster
+
+Nine scientists and defense insiders connected to NASA JPL, Los Alamos National Laboratory, and the Air Force Research Laboratory died or vanished between July 2023 and February 2026. According to the Daily Mail and The Sentinel Network, nearly all of them worked together — or their research was funded through the same institutional chain. Tennessee Congressman Tim Burchett warned the public not to trust the government.
+
+**[→ Full cluster investigation: JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster)**
+
+<img
+  src="/images/2041793972776136893_1.jpg"
+  alt="RT: Multiple scientists tied to NASA and Los Alamos found dead or missing — Nearly all of them worked together and died or vanished within the last two years. Congressman Burchett warned the public not to trust the government."
+  style={{maxHeight: '40vh', width: 'auto', display: 'block', margin: '1rem 0'}}
+/>
+
+*Source: [@RT_com on X](https://x.com/RT_com/status/2041793972776136893), April 8, 2026.*

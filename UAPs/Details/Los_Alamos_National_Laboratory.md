@@ -1,0 +1,65 @@
+---
+title: "Los Alamos National Laboratory (LANL)"
+---
+
+# Los Alamos National Laboratory (LANL)
+
+Los Alamos National Laboratory is a U.S. Department of Energy national security laboratory in Los Alamos, New Mexico, managed by Triad National Security, LLC. Founded in 1943 as the home of the Manhattan Project, LANL is the primary U.S. facility for nuclear weapons research, development, and stewardship. It also operates advanced physics programs in directed energy, plasma physics, materials science, and computational modeling — areas with significant overlap with classified aerospace and UAP-adjacent research.
+
+Two people connected to LANL vanished in 2025, both from the New Mexico defense corridor. They are part of the [JPL / LANL / AFRL Scientist Cluster](/uaps/JPL_LANL_AFRL_Scientist_Cluster).
+
+---
+
+## LANL-Connected People in the 2023–2026 Cluster
+
+| Name | Outcome | Date | Connection |
+|------|---------|------|------------|
+| [Anthony Chavez](Anthony_Chavez.md) | **Missing** | May 4, 2025 | Former LANL employee until ~2017; longtime Los Alamos resident |
+| [Melissa Casias](Melissa_Casias.md) | **Missing** | Jun 26, 2025 | DOE NNMCAB advisory board member; husband Mark Casias is Superintendent III at LANL |
+
+---
+
+## The New Mexico Defense Corridor
+
+LANL sits at the center of a dense web of defense-research institutions in New Mexico:
+
+- **Los Alamos** (LANL) — nuclear weapons, advanced physics, materials science
+- **Albuquerque** — Kirtland Air Force Base and the AFRL's Directed Energy Directorate, 100 miles south
+- **Sandia National Laboratories** — also in Albuquerque, focused on nuclear weapons engineering and national security systems
+
+According to The Sentinel Network, LANL and the Air Force Research Laboratory (AFRL) at Kirtland AFB share extensive programmatic overlap in advanced materials, directed energy, and weapons physics. The command corridor connecting LANL and AFRL Kirtland was within [Maj. Gen. William McCasland's](William_McCasland.md) institutional sphere when he commanded the Phillips Research Site at Kirtland — and McCasland himself vanished from Albuquerque on February 27, 2026, 100 miles from LANL.
+
+---
+
+## The Denver Steels: A Company Town for Secrets
+
+Anthony Chavez lived in the Denver Steels neighborhood of Los Alamos — prefabricated homes assembled from kits in the late 1940s by the Atomic Energy Commission to house workers at the nuclear weapons complex. According to The Sentinel Network: "The neighborhood exists because the laboratory exists." His vanishing without a trace from a town built around secrecy was the first disappearance in the New Mexico cluster.
+
+---
+
+## LANL and AFRL Kirtland Connection
+
+According to The Sentinel Network, LANL and AFRL Kirtland collaborate on:
+- **Advanced materials** (overlapping with Monica Reza's materials work at JPL/Aerojet)
+- **Directed energy** (AFRL Kirtland is home of the Directed Energy Directorate)
+- **Weapons physics** (LANL's primary mission)
+
+McCasland commanded the Phillips Research Site at Kirtland AFB before commanding Wright-Patterson. His disappearance from Albuquerque — between LANL and Kirtland — is noted by The Sentinel Network as geographically significant.
+
+---
+
+## See Also
+
+- [Anthony Chavez](Anthony_Chavez.md) — former LANL employee, missing May 2025
+- [Melissa Casias](Melissa_Casias.md) — LANL-connected, missing June 2025
+- [William Neil McCasland](William_McCasland.md) — former AFRL commander, Kirtland connection, missing Feb 2026
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster)
+- [AFRL Kirtland AFB](AFRL_Kirtland.md) — shares programs with LANL
+- [AFRL Wright-Patterson AFB](AFRL_Wright_Patterson.md) — McCasland's command headquarters
+
+## Sources
+
+- [The Sentinel Network: THE LONG COUNT (Mar 18, 2026)](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [Daily Mail: Mystery of five missing scientists (Mar 22, 2026)](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [LANL About](https://www.lanl.gov/about/index.php)
+- [Boomtown Los Alamos — Anthony Chavez disappearance coverage (June 2025)](https://www.boomtownlosalamos.com)

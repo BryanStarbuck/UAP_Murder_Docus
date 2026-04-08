@@ -83,12 +83,13 @@ According to The Sentinel Network's investigation, Casias's disappearance shares
 > — The Sentinel Network, March 2026
 
 ## See Also
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [Los Alamos National Laboratory](Los_Alamos_National_Laboratory.md) — Organization: Casias's institutional connection through her DOE advisory board role and husband's employment
 - [Anthony Chavez](Anthony_Chavez.md) — Former LANL employee, vanished from Los Alamos ~7 weeks before Casias
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace engineer who vanished 4 days before Casias
 - [Maj. Gen. William Neil McCasland](William_McCasland.md) — Retired USAF Major General, vanished February 2026
 - [Frank Maiwald](Frank_Maiwald.md) — JPL technical group supervisor, died July 4, 2024
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot on porch, February 2026
-- [AFRL Scientist Cluster (2025-2029)]# — The Sentinel Network's investigation into defense-connected deaths and disappearances
 
 ## Other Shocking Stories
 - [Todd Sees](Todd_Sees.md) — Hunter vanished from ridge where UFO was reported; body found with impossible toxicology

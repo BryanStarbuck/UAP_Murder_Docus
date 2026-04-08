@@ -73,6 +73,8 @@ The Sentinel Network's March 25, 2026 article "The Blind Spot: Rocks Are Falling
 > — The Sentinel Network, March 2026
 
 ## See Also
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [NASA JPL](NASA_JPL.md) — Organization overview: four JPL-corridor scientists gone in three years
 - [Michael David Hicks](Michael_David_Hicks.md) — JPL research scientist (1998-2022), DART Project, died July 2023 — no cause disclosed; precedes Maiwald's death by one year from the same corridor
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — JPL contractor, Mondaloy inventor, vanished June 2025
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astrophysicist, NEOWISE pipeline QA, shot February 2026

@@ -1,0 +1,62 @@
+---
+title: "NASA Jet Propulsion Laboratory (JPL)"
+---
+
+# NASA Jet Propulsion Laboratory (JPL)
+
+NASA's Jet Propulsion Laboratory, managed by Caltech in Pasadena, California, is the lead U.S. center for robotic exploration of the solar system. JPL designs and operates spacecraft and scientific instruments for NASA missions — from Mars rovers to deep-space telescopes to near-Earth object surveillance. It sits at the intersection of civilian space science and national security dual-use technology.
+
+Between 2023 and 2026, four scientists from the JPL and Caltech/IPAC corridor died or vanished with no explanation. They are the core of the [JPL / LANL / AFRL Scientist Cluster](/uaps/JPL_LANL_AFRL_Scientist_Cluster).
+
+---
+
+## JPL Scientists in the 2023–2026 Cluster
+
+| Name | Outcome | Date | Role |
+|------|---------|------|------|
+| [Michael David Hicks](Michael_David_Hicks.md) | **Dead** | Jul 30, 2023 | Research scientist; asteroid deflection, DART Project, NEAT; 80+ peer-reviewed papers |
+| [Frank Maiwald](Frank_Maiwald.md) | **Dead** | Jul 4, 2024 | Senior Technical Group Supervisor; SBG-VSWIR spectrometer, AMR-C radiometer, Juno MWR receiver lead |
+| [Monica Jacinto Reza](Monica_Jacinto_Reza.md) | **Missing** | Jun 22, 2025 | Director of Materials Processing Group; formerly Aerojet Rocketdyne Technical Fellow; co-inventor of Mondaloy superalloy |
+| [Carl Grillmair](Carl_Grillmair.md) | **Dead (shot)** | Feb 16, 2026 | Caltech/IPAC astrophysicist; 147 peer-reviewed papers; NEO Surveyor instrument characterization; found water on exoplanet |
+
+---
+
+## About JPL's Dual-Use Significance
+
+JPL produces technology that is simultaneously civilian and defense-critical:
+
+- **Near-Earth Object surveillance:** The DART Project, NEAT, and NEO Surveyor are framed as planetary defense. The tracking algorithms, infrared detection physics, and impact-prediction mathematics have direct applications to missile defense and hypersonic threat tracking.
+- **Infrared telescopes:** Carl Grillmair's work on infrared detection algorithms for finding dark, cold objects in space is described by The Sentinel Network as dual-use: the same math that finds asteroids can locate adversary satellites or hypersonic glide vehicles.
+- **Orbital remote sensing:** Frank Maiwald's SBG-VSWIR spectrometer detects anomalous surface emissions and identifies materials from orbit. His advanced microwave radiometry enables all-weather target tracking. Civilian use: climate monitoring. Defense use: intelligence, surveillance, reconnaissance (ISR).
+- **Advanced materials:** Monica Reza's Mondaloy superalloy is now built into the rocket engines replacing Russian RD-180 motors for U.S. national security launches. JPL is where she worked when she vanished.
+
+---
+
+## Institutional Silence
+
+According to The Sentinel Network's investigation:
+- No press release from JPL when Hicks died (2023)
+- No press release from JPL when Maiwald died (2024)
+- No NASA memorial for either
+- No Caltech acknowledgment for either
+- No news coverage for weeks or months after each death
+
+This institutional silence is itself documented as a pattern — unusual for senior technical group supervisors managing major national programs.
+
+---
+
+## See Also
+
+- [Michael David Hicks](Michael_David_Hicks.md) — JPL research scientist, died Jul 2023
+- [Frank Maiwald](Frank_Maiwald.md) — JPL senior technical group supervisor, died Jul 2024
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — JPL Director of Materials Processing Group, missing Jun 2025
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astrophysicist, shot dead Feb 2026
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster)
+- [AFRL Wright-Patterson AFB](AFRL_Wright_Patterson.md) — linked via Monica Reza's funded research
+
+## Sources
+
+- [The Sentinel Network: THE LONG COUNT (Mar 18, 2026)](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [The Sentinel Network: THE BLIND SPOT (Mar 25, 2026)](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling)
+- [Daily Mail: Mystery of five missing scientists (Mar 22, 2026)](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [JPL About Page](https://www.jpl.nasa.gov/about)

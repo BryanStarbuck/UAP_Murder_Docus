@@ -1,0 +1,69 @@
+---
+title: "Air Force Research Laboratory — Wright-Patterson AFB"
+---
+
+# Air Force Research Laboratory — Wright-Patterson AFB
+
+Wright-Patterson Air Force Base in Dayton, Ohio is home to the headquarters of the Air Force Research Laboratory (AFRL) — the primary scientific research and development organization for the U.S. Air Force and Space Force. AFRL manages a combined portfolio of approximately $4.4 billion annually, including $2.2 billion in direct science and technology funding and an additional $2.2 billion in customer-funded R&D. It oversees research in propulsion, directed energy, materials, sensors, information, human performance, munitions, and aerospace vehicles.
+
+Wright-Patterson has long been associated in UAP lore with crash retrieval, reverse engineering, and Project Blue Book. At least three people connected to AFRL Wright-Patterson died or disappeared between 2025 and 2026. They are part of the [JPL / LANL / AFRL Scientist Cluster](/uaps/JPL_LANL_AFRL_Scientist_Cluster).
+
+---
+
+## AFRL Wright-Patterson People in the 2023–2026 Cluster
+
+| Name | Outcome | Date | Role |
+|------|---------|------|------|
+| [William Neil McCasland](William_McCasland.md) | **Missing** | Feb 27, 2026 | Retired Maj. Gen.; former AFRL commander ($2.2B science budget); oversaw research and funding including Reza's Mondaloy program; former source for Tom DeLonge's To The Stars Academy |
+| [Monica Jacinto Reza](Monica_Jacinto_Reza.md) | **Missing** | Jun 22, 2025 | Director, JPL Materials Processing Group; her Mondaloy superalloy research was funded under AFRL budget overseen by McCasland |
+
+**Also part of the broader AFRL Scientist Cluster (Wright-Patterson):**
+
+| Name | Outcome | Date | Role |
+|------|---------|------|------|
+| [Jacob Prichard](Jacob_Prichard.md) | **Dead (perpetrator)** | Oct 2025 | AFRL Sensors Directorate acquisition project manager; killed colleague and wife in murder-suicide; no motive established; AFOSI investigating |
+| [Jaymee Prichard](Jaymee_Prichard.md) | **Dead (victim)** | Oct 2025 | AFLCMC finance specialist; killed by husband Jacob Prichard |
+| [1st Lt. Jaime Gustitus](Jaime_Gustitus.md) | **Dead (victim)** | Oct 2025 | AFRL 711th Human Performance Wing operations research analyst, TS/SCI; shot by Jacob Prichard; no motive established |
+
+---
+
+## UAP Significance of Wright-Patterson
+
+Wright-Patterson AFB has been at the center of UAP history since the 1940s:
+
+- **Project Blue Book** — The Air Force's official UAP investigation (1947–1969) was headquartered at Wright-Patterson. The project's files, and its closure, are documented as part of the broader institutional pattern of UAP suppression.
+- **Crash retrieval claims** — Persistent claims, including by Maj. Gen. McCasland's wife in her Facebook statement, reference the allegation that "ET bodies and debris from the Roswell crash [are] stored at Wright-Patt."
+- **AFRL's science portfolio** — Advanced materials, directed energy, propulsion, and sensors research at Wright-Patterson spans exactly the domains that The Sentinel Network identifies as connected to UAP reverse-engineering programs.
+- **Tom DeLonge connection** — McCasland was reportedly a primary source and advisor for Tom DeLonge's To The Stars Academy, the organization that obtained and publicly released the FLIR1, Gimbal, and GoFast UAP videos that triggered the 2017 Congressional UAP investigations.
+
+---
+
+## The Funding Chain: Reza → McCasland
+
+According to reporting by The Sentinel Network:
+
+- Monica Reza co-invented the Mondaloy superalloy — a family of nickel-based superalloys critical to U.S. national security rocket engines replacing Russian-made RD-180 motors
+- Her research received AFRL funding
+- That AFRL budget was overseen by Maj. Gen. McCasland during his command of AFRL Wright-Patterson
+- McCasland vanished eight months after Reza
+
+The Bernalillo County Sheriff's Department confirmed to Newsweek that detectives were "looking into this to see if there is any connection at all" between the two disappearances.
+
+---
+
+## See Also
+
+- [William Neil McCasland](William_McCasland.md) — former AFRL commander, missing Feb 2026
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — AFRL-funded researcher, missing Jun 2025
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster)
+- [AFRL Kirtland AFB](AFRL_Kirtland.md) — McCasland also commanded Phillips Research Site there
+- [NASA JPL](NASA_JPL.md) — Reza's employer at time of disappearance
+- [LANL](Los_Alamos_National_Laboratory.md) — AFRL Kirtland shares programs with LANL; Chavez and Casias disappeared from the same corridor
+
+## Sources
+
+- [The Sentinel Network: THE LONG COUNT (Mar 18, 2026)](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [The Sentinel Network: THE GHOST GENERAL](https://thesentinelnetwork.substack.com/p/the-ghost-general)
+- [Daily Mail: Mystery of five missing scientists (Mar 22, 2026)](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [Newsweek: McCasland/Reza connection coverage (2026)](https://www.newsweek.com)
+- [AFRL: About the Air Force Research Laboratory](https://www.afrl.af.mil/About-AFRL/)

@@ -1,0 +1,130 @@
+---
+title: "JPL / LANL / AFRL Scientist Cluster (2023–2026)"
+sidebar_label: "Scientist Cluster 2023–2026"
+sidebar_position: 2
+---
+
+# JPL / LANL / AFRL Scientist Cluster (2023–2026)
+
+Nine scientists and defense insiders connected to NASA, Los Alamos National Laboratory, and the Air Force Research Laboratory died or vanished between July 2023 and February 2026. According to the Daily Mail (April 7, 2026) and The Sentinel Network, nearly all of them worked together — or their research funded by the same institutional chain.
+
+Tennessee Congressman Tim Burchett warned the public: *"The numbers seem very high in these certain areas of research. I think we'd better be paying attention, and I don't think we should trust our government."*
+
+<img
+  src="/images/2041793972776136893_1.jpg"
+  alt="RT headline: Multiple scientists tied to NASA and Los Alamos found dead or missing"
+  style={{maxHeight: '40vh', width: 'auto', display: 'block', margin: '1rem 0'}}
+/>
+
+*Source: [@RT_com on X](https://x.com/RT_com/status/2041793972776136893), April 8, 2026.*
+
+---
+
+## The Nine: Who They Were and What Happened
+
+| Name | Outcome | Date | Institution | Role |
+|------|---------|------|-------------|------|
+| [Michael David Hicks](Details/Michael_David_Hicks.md) | **Dead** | Jul 30, 2023 | [NASA JPL](Details/NASA_JPL.md) | Research scientist; asteroid deflection, DART Project |
+| [Frank Maiwald](Details/Frank_Maiwald.md) | **Dead** | Jul 4, 2024 | [NASA JPL](Details/NASA_JPL.md) | Senior technical group supervisor; dual-use remote sensing |
+| [Anthony Chavez](Details/Anthony_Chavez.md) | **Missing** | May 4, 2025 | [LANL](Details/Los_Alamos_National_Laboratory.md) | Former employee until 2017 |
+| [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | **Missing** | Jun 22, 2025 | [NASA JPL](Details/NASA_JPL.md) / [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) | Director, Materials Processing Group; Mondaloy co-inventor |
+| [Melissa Casias](Details/Melissa_Casias.md) | **Missing** | Jun 26, 2025 | [LANL](Details/Los_Alamos_National_Laboratory.md) | DOE NNMCAB advisory board member; husband is LANL Superintendent III |
+| [Carl Grillmair](Details/Carl_Grillmair.md) | **Dead (shot)** | Feb 16, 2026 | [NASA JPL](Details/NASA_JPL.md) | Caltech/IPAC astrophysicist; infrared detection, NEO Surveyor |
+| [William Neil McCasland](Details/William_McCasland.md) | **Missing** | Feb 27, 2026 | [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) / [AFRL Kirtland](Details/AFRL_Kirtland.md) | Retired Maj. Gen.; former AFRL commander; oversaw research and funding |
+
+---
+
+## Institutional Map
+
+The cluster spans three overlapping defense-research institutions connected by funding chains, personnel, and classified programs:
+
+**[NASA Jet Propulsion Laboratory](Details/NASA_JPL.md)** (Pasadena, California)
+— Hicks, Maiwald, Grillmair (Caltech/IPAC), Reza
+
+**[Los Alamos National Laboratory](Details/Los_Alamos_National_Laboratory.md)** (Los Alamos, New Mexico)
+— Chavez, Casias
+
+**[Air Force Research Laboratory — Wright-Patterson AFB](Details/AFRL_Wright_Patterson.md)** (Dayton, Ohio)
+— McCasland (commander), Reza (her research funded through McCasland's AFRL budget)
+
+**[Air Force Research Laboratory — Kirtland AFB](Details/AFRL_Kirtland.md)** (Albuquerque, New Mexico)
+— McCasland (former commander of Phillips Research Site); LANL and AFRL Kirtland share joint programs in directed energy, weapons physics, and advanced materials
+
+---
+
+## The Shared Signature
+
+According to The Sentinel Network's "THE LONG COUNT" investigation, the disappearances in this cluster share a precise physical signature:
+
+- **Anthony Chavez** (May 2025, Los Alamos): Wallet, keys, cigarettes on table. No cell phone. No forced entry, no blood. "It was just like he left." Cadaver dogs negative.
+- **Monica Reza** (June 2025, Angeles National Forest): Was 30 feet behind companion, smiling and waving, then ceased to exist. FLIR-negative. Scent trail ended at a misplaced beanie.
+- **Melissa Casias** (June 2025, Taos): Both phones factory-reset. Staggering on surveillance camera. Husband says not a drinker. Keys, wallet, purse left.
+- **William McCasland** (February 2026, Albuquerque): Phone, prescription glasses, wearable devices left behind. No confirmed surveillance footage of departure despite 700+ homes canvassed.
+
+*Personal effects abandoned in every case. Negative searches in every case. Zero confirmed sightings. Zero bodies recovered. Two states. One hundred miles of New Mexico desert and one California ridgeline. The same outcome every time.*
+
+---
+
+## The Funding Chain
+
+According to The Sentinel Network's investigation, the cluster is not simply a coincidence of geography:
+
+- Monica Reza's Mondaloy superalloy research received AFRL funding
+- That AFRL budget was overseen by Maj. Gen. William McCasland during his command of Wright-Patterson
+- McCasland also commanded the Phillips Research Site at Kirtland AFB, 100 miles from LANL
+- LANL and AFRL Kirtland share joint programs in advanced materials, directed energy, and weapons physics
+
+As The Sentinel Network documented: *"Reza invented the alloy. Grillmair validated the sensor pipeline. Maiwald managed the instruments. All three are gone."*
+
+---
+
+## The JPL Sub-Cluster: Four Scientists, Three Years
+
+Within the broader cluster, four scientists shared the Southern California aerospace corridor:
+
+1. **Michael David Hicks** died July 30, 2023 — no cause disclosed, no autopsy found
+2. **Frank Maiwald** died July 4, 2024 — no cause disclosed, no autopsy, no institutional acknowledgment
+3. **Monica Jacinto Reza** vanished June 22, 2025 — declared dead with "green burial" four days later while SAR teams still searched
+4. **Carl Grillmair** shot dead February 16, 2026 — suspect had been caught on his property with an unregistered rifle 58 days earlier; both felony charges dismissed 11 days before killing
+
+The Daily Mail on April 7, 2026 identified Michael David Hicks as the **ninth person** with ties to America's space or nuclear secrets to have died or mysteriously vanished in recent years.
+
+---
+
+## Why This Pattern Raises Questions
+
+- **Institutional silence:** No press releases from JPL for Hicks or Maiwald. No NASA memorials. No media coverage for weeks or months. Complete institutional silence in every case.
+- **No autopsies:** No autopsy records found for Hicks or Maiwald, both of whom died suddenly.
+- **The funding chain:** Monica Reza's research was funded through the AFRL budget that McCasland oversaw. Both vanished.
+- **Geographic clustering:** New Mexico defense corridor (LANL, AFRL Kirtland) produced three of the missing within ten months.
+- **Dual-use technology:** Each person's work sits at the intersection of civilian science and national security: asteroid deflection, infrared space telescopes, advanced rocket alloys, orbital remote sensing.
+- **Congressional alarm:** Congressman Tim Burchett (R-TN) publicly called the pattern alarming and warned the public not to trust government assurances.
+- **Ross Coulthart:** Investigative journalist Ross Coulthart called McCasland's disappearance a "grave national security crisis" and raised "grave new questions" about the connection to Reza's disappearance.
+
+---
+
+## The Counterargument
+
+- Each death and disappearance has a plausible non-conspiratorial explanation (natural causes, random crime, hiking accident, voluntary departure under personal stress).
+- The "ninth person" framing by the Daily Mail comes from a broad count that spans years and multiple unrelated institutions.
+- The Sentinel Network acknowledges on Casias: "We are not yet asserting Casias belongs on the same list as the AFRL cluster."
+- Proximity and institutional overlap exist throughout the defense-science community — the Southern California aerospace corridor alone employs tens of thousands.
+
+---
+
+## See Also
+
+- **Organizations:** [NASA JPL](Details/NASA_JPL.md) | [LANL](Details/Los_Alamos_National_Laboratory.md) | [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) | [AFRL Kirtland](Details/AFRL_Kirtland.md)
+- **Individual profiles:** [Michael David Hicks](Details/Michael_David_Hicks.md) | [Frank Maiwald](Details/Frank_Maiwald.md) | [Carl Grillmair](Details/Carl_Grillmair.md) | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | [Melissa Casias](Details/Melissa_Casias.md) | [Anthony Chavez](Details/Anthony_Chavez.md) | [William Neil McCasland](Details/William_McCasland.md)
+- **Related (AFRL cluster):** [Jacob Prichard](Details/Jacob_Prichard.md) | [Nuno Loureiro](Details/Nuno_Loureiro.md) | [Christopher Fallen](Details/Christopher_Fallen.md)
+
+## Sources
+
+- [RT: Multiple scientists tied to NASA and Los Alamos found dead or missing (Apr 8, 2026)](https://x.com/RT_com/status/2041793972776136893)
+- [Daily Mail: Mystery of five missing scientists sends chill across America (Mar 22, 2026)](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [Daily Mail: NASA JPL scientist identified as ninth space/nuclear secrets death (Apr 7, 2026)](https://www.dailymail.co.uk)
+- [The Sentinel Network: THE LONG COUNT (Mar 18, 2026)](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [The Sentinel Network: THE GHOST GENERAL](https://thesentinelnetwork.substack.com/p/the-ghost-general)
+- [The Sentinel Network: THE GREEN BURIAL](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
+- [The Sentinel Network: THE BLIND SPOT (Mar 25, 2026)](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling)
+- [Tampa Free Press: Tennessee Rep. Tim Burchett Warns Of Pattern As More U.S. Scientists Die Or Vanish](https://www.tampafp.com/scary-tennessee-rep-tim-burchett-warns-of-pattern-as-more-u-s-scientists-die-or-vanish/)

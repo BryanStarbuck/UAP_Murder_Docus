@@ -147,7 +147,9 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist murdered December 2025; part of the same five-scientist cluster
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist killed February 2026; part of the same cluster
 - [Jason Thomas](Jason_Thomas.md) — Novartis scientist found dead; part of the same cluster
-- [AFRL Scientist Cluster (2025-2029)](../../groups/afrl_cluster_2025_2029.md) — The broader pattern of defense scientist deaths and disappearances
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [AFRL Wright-Patterson AFB](AFRL_Wright_Patterson.md) — Organization: McCasland's command headquarters; oversee the research budgets that funded Reza's work
+- [AFRL Kirtland AFB](AFRL_Kirtland.md) — Organization: McCasland's earlier command; 100 miles from LANL; vanished from this city
 - [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024, same New Mexico defense corridor
 - [John Rossi](John_Rossi.md) — Major General commanding Space and Missile Defense at Redstone Arsenal, found hanged two days before promotion
 

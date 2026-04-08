@@ -99,6 +99,8 @@ As The Sentinel Network noted: "Three people from the Southern California aerosp
 
 ## See Also
 
+- [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
+- [NASA JPL](NASA_JPL.md) — Organization overview: four JPL-corridor scientists gone in three years
 - [Frank Maiwald](Frank_Maiwald.md) — Longtime JPL coworker; died July 2024; no cause disclosed; Hicks's death extends the JPL cluster back to 2023
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — JPL Director of Materials Processing Group; vanished June 2025
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astrophysicist; shot February 2026; same institutional family as Hicks
