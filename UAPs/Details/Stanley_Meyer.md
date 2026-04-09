@@ -68,6 +68,29 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 
 > "I told people about this, what I had accomplished, and they'd say, 'Oh no, they'll kill you.'" — Stanley Meyer, in a 1995 interview
 
+## Greer Testimony: The Engineering Team in Michigan (2026)
+
+In a video posted on April 9, 2026, Dr. Steven Greer — founder of the Disclosure Project — gave a detailed public account of what allegedly happened to Meyer's technology after his death:
+
+- After Meyer's death, his heirs invited Greer's team to bid for the equipment. Greer's team was outbid by a group funded by "someone in the House of Lords from the United Kingdom who was very wealthy."
+- That group took all of Meyer's equipment — including a toroidal ("donut") shaped free energy device — to Michigan.
+- The equipment had already been "slapped with a national security order."
+- The engineering group in Michigan successfully got the devices to work.
+- They were then threatened. A UK Lord called Greer urgently saying: "Dr. Greer, we need your help. That entire engineering team in Michigan have gotten these things to work, but they're being threatened. And we're concerned they're going to be killed."
+- Greer gave a two-page strategy they didn't follow. They asked about fleeing to the Amazon; Greer said they'd "have to go to another star system to escape the reach of this organization."
+- "The next thing you know, I think it was 18 or 19. All of them were killed except one."
+
+**Source:** [@PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
+
+<video controls width="100%" style={{maxWidth: '720px'}}>
+  <source src="/videos/2042044832760344769.mp4" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Dr. Steven Greer recounts the fate of Stan Meyer's technology and the engineering team allegedly killed after replicating his free energy devices. Source: [@PlanetTyrusPod on X](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20), April 9, 2026.*
+
 ## See Also
 
 - [Stanley Meyer (Zero Point Energy)](/energy/Details/Stanley_Meyer) — This case also appears in the Zero Point Energy project
@@ -92,6 +115,7 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 - [Historic Mysteries - Stanley Meyer's Murder and the Water-Powered Car](https://www.historicmysteries.com/science/stanley-meyer/31661/)
 - [PolitiFact - Stanley Meyer was not killed by the Pentagon](https://www.politifact.com/factchecks/2021/jun/03/facebook-posts/no-stanley-meyer-was-not-assassinated-pentagon/)
 - [Park City Prospector - The Mystery Of Stanley Meyer and his Water-Powered Car](https://parkcityprospector.us/3527/opinions/conspiracy-column-volume-two-the-mystery-of-stanley-meyer-and-his-water-powered-car/)
+- [Dr. Steven Greer on Stan Meyer and the engineering team killed in Michigan — @PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
 
 *This information was built by Grok and Claude AI research.*
 

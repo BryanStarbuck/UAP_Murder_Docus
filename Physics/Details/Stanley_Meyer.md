@@ -74,6 +74,29 @@ Meyer's work connects to UAP physics through the resonance principle. If resonan
 - 1995 interview discussing his work and the threats he received
 - Presentations to investors and alternative energy conferences throughout the 1990s
 
+## Greer Testimony: The Torroid Device and the Michigan Engineering Team (2026)
+
+In a video posted on April 9, 2026, Dr. Steven Greer — founder of the Disclosure Project — described what allegedly happened to Meyer's technology after his death, including details directly relevant to UAP physics:
+
+- Among Meyer's equipment was a device Greer described as "something that looked like a donut, a Torroy" — a toroidal (donut-shaped) device described as "a free energy device that would run your house or car or whatever."
+- This Torroid device had already been "slapped with a national security order" — indicating that classified authorities had formally identified the technology as sensitive before it was even acquired.
+- A UK House of Lords-funded engineering group acquired all of Meyer's equipment and took it to Michigan.
+- The engineering team in Michigan successfully replicated the devices — demonstrating that Meyer's technology was not simply fraudulent but reproducible.
+- The team was then threatened, and according to Greer, approximately 18 or 19 members of the engineering team were subsequently killed, with only one surviving.
+
+The toroidal geometry is significant in the physics context: toroidal field configurations appear repeatedly in classified propulsion and zero-point energy hypotheses, including in descriptions of UAP propulsion mechanisms. The fact that this device received a national security classification order suggests government awareness of its potential well beyond conventional electrolysis.
+
+**Source:** [@PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
+
+<video controls width="100%" style={{maxWidth: '720px'}}>
+  <source src="/videos/2042044832760344769.mp4" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Dr. Steven Greer describes a toroidal free energy device from Stan Meyer's collection — already under a national security order — and the engineering team that successfully replicated it before allegedly being killed. Source: [@PlanetTyrusPod on X](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20), April 9, 2026.*
+
 ## The Counterargument
 
 - In 1996, an Ohio court found Meyer guilty of "gross and egregious fraud" after investors filed suit; the court determined the water fuel cell performed conventional electrolysis, not the breakthrough process Meyer described, and ordered him to repay $25,000
@@ -108,6 +131,7 @@ Meyer's work connects to UAP physics through the resonance principle. If resonan
 - [Historic Mysteries — Stanley Meyer's Murder and the Water-Powered Car](https://www.historicmysteries.com/science/stanley-meyer/31661/)
 - [PolitiFact — Stanley Meyer Was Not Killed by the Pentagon](https://www.politifact.com/factchecks/2021/jun/03/facebook-posts/no-stanley-meyer-was-not-assassinated-pentagon/)
 - [Stanley Meyer: Water Fuel Cell — Rex Research](http://rexresearch.com/meyerhy/meyerhy.htm)
+- [Dr. Steven Greer on Stan Meyer's Torroid device and the engineering team killed in Michigan — @PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
 
 *This information was compiled by Claude AI research.*
 

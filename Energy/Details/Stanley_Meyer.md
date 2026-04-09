@@ -63,6 +63,8 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 - **Pattern of inventor deaths:** Meyer's death fits a broader pattern of energy inventors dying suddenly before securing funding or going public — similar to [Arie DeGeus](Arie_DeGeus.md) (2007) and [Tom Ogle](Tom_Ogle.md) (1981)
 - **Dune buggy stolen:** Approximately one week after Meyer's death, his water fuel cell dune buggy — the demonstration vehicle central to his technology claims — was reportedly stolen from his garage, along with other equipment and research materials
 - **Brother's consistent account:** Stephen Meyer has maintained for decades that his brother was poisoned, never wavering from the account of Stanley's final words and behavior
+- **Engineering team killed after successful replication:** According to Dr. Steven Greer (April 2026), a UK House of Lords-funded engineering group acquired Meyer's equipment, took it to Michigan, successfully replicated the free energy devices, and was then allegedly killed — with Greer claiming 18 or 19 members of the team died, with only one surviving. This would represent the broadest alleged suppression action in the Meyer case, extending beyond Meyer's death to the systematic elimination of anyone who could replicate his work
+- **National security order on the Torroid:** Greer stated that among Meyer's equipment was a "Torroid" (toroidal/donut-shaped) device described as a free energy device that "would run your house or car or whatever," and that this device had already been placed under a national security order before it was acquired by the UK group
 
 ## The Counterargument
 
@@ -110,10 +112,40 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 - [Mark Tomion](Mark_Tomion.md): Patented "Star Drive" zero-point energy technology. Died shortly after developing a working prototype.
 - [Paulo Correa](Paulo_Correa.md): Holds 12 patents for overunity energy device. Chief advocate Eugene Mallove was beaten to death.
 
+## Greer Testimony: The Engineering Team in Michigan
+
+In a video posted on April 9, 2026, Dr. Steven Greer — founder of the Disclosure Project and a prominent UAP/free energy whistleblower — gave one of the most detailed and disturbing public accounts of what allegedly happened to Stanley Meyer's technology after his death.
+
+According to Greer's statement:
+
+- Shortly after Meyer's death, his heirs invited Greer's team to bid for all of Meyer's equipment. Greer's team was unable to outbid a rival group.
+- An engineering group funded by "someone in the House of Lords from the United Kingdom who was very wealthy" outbid Greer's team and took all of Meyer's equipment — including a device Greer described as resembling a donut or "Torroid" — to Michigan.
+- Greer stated that this equipment had already "been slapped with a national security order" and that the Torroid was described as "a free energy device that would run your house or car or whatever."
+- The engineering group in Michigan then successfully got the devices to work.
+- The group was subsequently threatened. A "Lord" (whose identity Greer declined to reveal) called Greer in a "frantic" state, saying: "Dr. Greer, we need your help. That entire engineering team in Michigan have gotten these things to work, but they're being threatened. And we're concerned they're going to be killed."
+- Greer provided a two-page written strategy of protective measures, which the team declined to follow. The team reportedly asked whether they could flee to the Amazon; Greer replied that "you'd have to go to another star system to escape the reach of this organization that wants you to stop."
+- According to Greer: "The next thing you know, I think it was 18 or 19. All of them were killed except one."
+
+Greer made these claims on the Planet Tyrus podcast, posted to X on April 9, 2026. This account — if accurate — would represent one of the most significant documented cases of energy suppression, implicating an international organized effort to prevent replication of Meyer's technology, with nearly an entire engineering team allegedly killed.
+
+**Source:** [@PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
+
+### Greer Video: Planet Tyrus Podcast (April 9, 2026)
+
+<video controls width="100%" style={{maxWidth: '720px'}}>
+  <source src="/videos/2042044832760344769.mp4" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Dr. Steven Greer recounts the fate of Stan Meyer's technology: a UK House of Lords-funded engineering team took Meyer's equipment to Michigan, successfully replicated the free energy devices, then were allegedly killed — "18 or 19. All of them were killed except one." Source: [@PlanetTyrusPod on X](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20), April 9, 2026.*
+
 ## Social Media Coverage
 
 Stanley Meyer remains the single most discussed energy suppression case on social media. Notable X.com posts include:
 
+- @PlanetTyrusPod (April 9, 2026) — Dr. Steven Greer reveals that Meyer's technology was acquired by a UK House of Lords-funded group, successfully replicated by an engineering team in Michigan, and that team was then allegedly killed — "18 or 19. All of them were killed except one." (372 likes, 13,883 views)
 - @ErinnFL (July 28, 2025) — "Stanley Meyer: Inventor of a water-powered car, died mysteriously in 1998, allegedly poisoned after a public demo, with his technology vanishing" (456 likes, 56,853 views)
 - @k0k1eth (December 19, 2025) — "Stanley Meyer his crime was water fuel cars... Reportedly his last words were 'They poisoned me' but the official death case was ruled as aneurysm" (290 likes)
 - @mistersplice (February 22, 2026) — Listed Meyer as "water fuel cell/water-powered car" among suppressed inventors (378 likes)
@@ -128,6 +160,7 @@ Stanley Meyer remains the single most discussed energy suppression case on socia
 - [The Mysterious Death of Stanley Meyer — The Classic Car Trust](https://tcct.com/news/2020/11/the-mysterious-death-of-stanley-meyer-and-his-water-powered-car/)
 - [Water Fuel Cell Inventor Stanley Meyer — Free Energy Conspiracy](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
 - [U.S. Patent 4,936,961 — Method for the Production of a Fuel Gas](https://patents.google.com/patent/US4936961A/)
+- [Dr. Steven Greer on Stan Meyer and the engineering team killed in Michigan — @PlanetTyrusPod on X, April 9, 2026](https://x.com/PlanetTyrusPod/status/2042044832760344769?s=20)
 
 *This information was built by Grok and Claude AI research.*
 
