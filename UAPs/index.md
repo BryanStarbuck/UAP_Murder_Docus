@@ -336,6 +336,13 @@ Senate Majority Leader Chuck Schumer introduced the UAP Disclosure Act as part o
 * CIA — alleged UAP crash retrieval and cover-up programs
 * Kroll Associates — private intelligence with defense contractor ties
 
+**Related Resources:**
+* [Books on UAP Research](books.md) — Recommended books covering UAP deaths, whistleblowers, and classified programs
+* [Podcasts](podcasts.md) — Recommended podcasts and key episodes on UAP-related deaths and disclosure
+* [YouTube Channels](youtube_channels.md) — Recommended channels and documentaries
+* [The Luciferian Temptation](Luciferian_Temptation.md) — Analysis of the Pentagon theological faction opposing UAP disclosure
+* [Starlight Scopes and Night Vision Suppression](Starlight_Scopes.md) — Suppression of advanced optical technology with UAP overlap
+
 ---
 
 ## Sources
@@ -430,6 +437,12 @@ This project documents deaths, disappearances, and cases of extreme retaliation 
 Nine scientists and defense insiders connected to NASA JPL, Los Alamos National Laboratory, and the Air Force Research Laboratory died or vanished between July 2023 and February 2026. According to the Daily Mail and The Sentinel Network, nearly all of them worked together — or their research was funded through the same institutional chain. Tennessee Congressman Tim Burchett warned the public not to trust the government.
 
 **[→ Full cluster investigation: JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster)**
+
+**Facility profiles for the institutions at the center of this cluster:**
+* [NASA Jet Propulsion Laboratory (JPL)](Details/NASA_JPL.md) — Pasadena; four scientists from the JPL/Caltech corridor died or vanished 2023–2026
+* [Los Alamos National Laboratory (LANL)](Details/Los_Alamos_National_Laboratory.md) — New Mexico; two LANL-connected persons vanished in 2025
+* [AFRL Wright-Patterson AFB](Details/AFRL_Wright_Patterson.md) — Dayton, Ohio; AFRL HQ; at least three connected personnel died or disappeared 2025–2026
+* [AFRL Kirtland AFB (Phillips Research Site)](Details/AFRL_Kirtland.md) — Albuquerque; Directed Energy Directorate; links the Wright-Patterson command structure to the New Mexico defense corridor
 
 <img
   src="/images/2041793972776136893_1.jpg"

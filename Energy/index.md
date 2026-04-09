@@ -37,7 +37,7 @@ This project documents suspicious deaths, suppression events, and destroyed care
 | [Stan Gleeson](Details/Stan_Gleeson.md) | ~1997 | Stroke at age 48 | **SUSPICIOUS** | Co-authored LENR/CF research with Robert Bass. Published through OSTI. One of three deaths associated with the Cincinnati Group's LENT discovery. |
 | [Andrew Riley](Details/Andrew_Riley.md) | 1992 | Explosion of electrochemical cell | **SUSPICIOUS** | Cold fusion researcher killed at age 33 when a palladium-deuterium cell exploded at SRI International. Hydrocarbon contamination found inside sealed cell. Lead researcher McKubre injured. Explosion derailed one of the most promising institutional LENR programs. |
 | Martin Fleischmann | 2012 | Natural causes (Parkinson's) | **Career destroyed** | Co-discoverer of cold fusion (1989). Driven out of mainstream science. Fled to France, then UK. Died after years of illness. Epstein emailed "i killed pons years ago." |
-| B. Stanley Pons | Living | Career destroyed | **Career destroyed** | Co-discoverer of cold fusion. Fled to France, renounced U.S. citizenship, hasn't been heard from in ~30 years. Epstein claimed credit for destroying him. |
+| [B. Stanley Pons](Details/B_Stanley_Pons.md) | Living | Career destroyed | **Career destroyed** | Co-discoverer of cold fusion. Fled to France, renounced U.S. citizenship, hasn't been heard from in ~30 years. Epstein claimed credit for destroying him. |
 | [Chris Tinsley](Details/Chris_Tinsley.md) | 1997 | Sudden death at ~50 | **SUSPICIOUS** | UK-based energy researcher. Published in *Infinite Energy* magazine months before death. Seven-page memorial published: "The Death of a Very Good Man." Connected to Cincinnati Group LENT work. |
 
 ## Water Fuel Cell and Hydrogen Technology
