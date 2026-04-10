@@ -1,6 +1,6 @@
 
 # William McCasland
-Retired USAF Major General who commanded the Air Force Research Laboratory (AFRL) — overseeing a $4.4 billion research portfolio spanning plasma science, pulsed power, directed energy, and advanced propulsion — and who served as a primary source for Tom DeLonge's To The Stars Academy. Disappeared from his Albuquerque home on February 27, 2026. An anonymous X account posting about electric propulsive spacecraft and ionized helium propulsion went silent the same day.
+Retired USAF Major General who commanded the Air Force Research Laboratory (AFRL) — overseeing a $4.4 billion research portfolio spanning plasma science, pulsed power, directed energy, and advanced propulsion — and who served as a primary source for Tom DeLonge's To The Stars Academy. Disappeared from his Albuquerque home on February 27, 2026. Changed clothes before leaving. Gone in under an hour. An anonymous X account posting about electric propulsive spacecraft, ionized helium propulsion, and fusion technology went silent the same day.
 
 | Field | Details |
 |-------|---------|
@@ -23,9 +23,9 @@ McCasland himself made few public claims about UAP physics — his significance 
 
 ### The @TMBSPACESHIPS Connection
 
-An anonymous X account called @TMBSPACESHIPS (display name "ELECTRIC PROPULSIVE SPACECRAFT SYSTEMS"), active since November 2022, posted over 1,600 technical entries on exotic electric propulsion, plasma physics, and ionized gas flight mechanics. The account's bio described the author as a "38 year Active Duty USAF PhD Engineer" affiliated with "AFIT/AETC/AFMC - UT/OU." The technical topics discussed — ionized helium propulsion, directed energy, pulsed power systems, electric field propulsion — map directly to AFRL research domains.
+An anonymous X account called @TMBSPACESHIPS (display name "ELECTRIC PROPULSIVE SPACECRAFT SYSTEMS"), active since November 2022, posted over 1,600 technical entries on exotic electric propulsion, plasma physics, ionized gas flight mechanics, and fusion technology. The account's bio described the author as a "38 year Active Duty USAF PhD Engineer" affiliated with "AFIT/AETC/AFMC - UT/OU." The technical topics discussed — ionized helium propulsion, directed energy, pulsed power systems, electric field propulsion, fusion tech — map directly to AFRL research domains.
 
-The account's last post was published on February 27, 2026, approximately 30 minutes before McCasland was last seen. It has not been confirmed whether McCasland operated this account, but researchers have noted significant overlap between the account's technical profile and McCasland's documented career.
+The account's last post was published on February 27, 2026, approximately 30 minutes before McCasland was last seen. It has not been confirmed whether McCasland operated this account, but researchers have noted significant overlap between the account's technical profile and McCasland's documented career. He had changed clothes and disappeared in under an hour before the account went dark.
 
 The @TMBSPACESHIPS account's content described propulsion concepts based on:
 - **Ionized helium as a propulsive medium** — using electrically charged gas to generate thrust without combustion

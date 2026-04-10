@@ -32,13 +32,14 @@ Items left behind:
 - Cell phone
 - Prescription glasses
 - Wearable electronic devices
+- Indoor clothing (he changed clothes before leaving)
 
 Items believed missing:
 - Hiking boots
 - Wallet
 - .38-caliber revolver with leather holster
 
-BCSO now believes McCasland left on foot. They are asking anyone in the Sandia Mountains on February 27–28 to check GoPro footage.
+He was gone in under an hour — his wife left for an appointment at approximately 11:10 a.m. and returned at 12:04 p.m. to find him missing. BCSO now believes McCasland left on foot. They are asking anyone in the Sandia Mountains on February 27–28 to check GoPro footage.
 
 ### Search Efforts
 
