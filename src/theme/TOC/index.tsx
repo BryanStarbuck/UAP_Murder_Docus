@@ -285,6 +285,11 @@ const people: Person[] = [
     blurb: "Anti-gravity physicist, DOD grant, top secret clearance. Emailed \u2018successful experiments\u2019 then went silent. Car accident destroyed her brain. Husband died witnessing it. Alabama.",
   },
   {
+    name: "Steven Garcia",
+    path: "/uaps/Details/Steven_Garcia",
+    blurb: "Age 48. Nuclear weapons facility contractor with top secret clearance. Walked into the desert with a handgun\u2014no phone, keys, or wallet. Fifth to vanish in the pattern. Albuquerque.",
+  },
+  {
     name: "Melissa Casias",
     path: "/uaps/Details/Melissa_Casias",
     blurb: "Age 53. LANL employee on DOE advisory board. Factory-reset both personal and government phones before vanishing\u2014four days after Monica Reza disappeared. Talpa, New Mexico.",
@@ -419,7 +424,7 @@ export default function TOC(): React.ReactElement {
         </div>
       ))}
       <div className={styles.count}>
-        81 profiles from 290+ documented cases
+        82 profiles from 290+ documented cases
       </div>
     </div>
   );

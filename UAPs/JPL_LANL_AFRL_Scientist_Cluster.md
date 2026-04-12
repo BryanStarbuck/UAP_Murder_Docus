@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # JPL / LANL / AFRL Scientist Cluster (2023–2026)
 
-Nine scientists and defense insiders connected to NASA, Los Alamos National Laboratory, and the Air Force Research Laboratory died or vanished between July 2023 and February 2026. According to the Daily Mail (April 7, 2026) and The Sentinel Network, nearly all of them worked together — or their research funded by the same institutional chain.
+Ten scientists and defense insiders connected to NASA, Los Alamos National Laboratory, the Kansas City National Security Campus, and the Air Force Research Laboratory died or vanished between July 2023 and February 2026. According to the Daily Mail (April 11, 2026) and The Sentinel Network, nearly all of them worked together — or their research funded by the same institutional chain.
 
 Tennessee Congressman Tim Burchett warned the public: *"The numbers seem very high in these certain areas of research. I think we'd better be paying attention, and I don't think we should trust our government."*
 
@@ -20,7 +20,7 @@ Tennessee Congressman Tim Burchett warned the public: *"The numbers seem very hi
 
 ---
 
-## The Nine: Who They Were and What Happened
+## The Ten: Who They Were and What Happened
 
 | Name | Outcome | Date | Institution | Role |
 |------|---------|------|-------------|------|
@@ -29,6 +29,7 @@ Tennessee Congressman Tim Burchett warned the public: *"The numbers seem very hi
 | [Anthony Chavez](Details/Anthony_Chavez.md) | **Missing** | May 4, 2025 | [LANL](Details/Los_Alamos_National_Laboratory.md) | Former employee until 2017 |
 | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | **Missing** | Jun 22, 2025 | [NASA JPL](Details/NASA_JPL.md) / [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) | Director, Materials Processing Group; Mondaloy co-inventor |
 | [Melissa Casias](Details/Melissa_Casias.md) | **Missing** | Jun 26, 2025 | [LANL](Details/Los_Alamos_National_Laboratory.md) | DOE NNMCAB advisory board member; husband is LANL Superintendent III |
+| [Steven Garcia](Details/Steven_Garcia.md) | **Missing** | Aug 28, 2025 | KCNSC (Albuquerque) | Property custodian; top security clearance; oversaw hundreds of millions in nuclear weapons assets |
 | [Carl Grillmair](Details/Carl_Grillmair.md) | **Dead (shot)** | Feb 16, 2026 | [NASA JPL](Details/NASA_JPL.md) | Caltech/IPAC astrophysicist; infrared detection, NEO Surveyor |
 | [William Neil McCasland](Details/William_McCasland.md) | **Missing** | Feb 27, 2026 | [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) / [AFRL Kirtland](Details/AFRL_Kirtland.md) | Retired Maj. Gen.; former AFRL commander; oversaw research and funding |
 
@@ -47,8 +48,11 @@ The cluster spans three overlapping defense-research institutions connected by f
 **[Air Force Research Laboratory — Wright-Patterson AFB](Details/AFRL_Wright_Patterson.md)** (Dayton, Ohio)
 — McCasland (commander), Reza (her research funded through McCasland's AFRL budget)
 
+**Kansas City National Security Campus** (Albuquerque, New Mexico)
+— Garcia (property custodian with top security clearance); manufactures 80% of non-nuclear components for U.S. nuclear weapons
+
 **[Air Force Research Laboratory — Kirtland AFB](Details/AFRL_Kirtland.md)** (Albuquerque, New Mexico)
-— McCasland (former commander of Phillips Research Site); LANL and AFRL Kirtland share joint programs in directed energy, weapons physics, and advanced materials
+— McCasland (former commander of Phillips Research Site); LANL, KCNSC, and AFRL Kirtland share joint programs in directed energy, weapons physics, and advanced materials
 
 ---
 
@@ -59,9 +63,10 @@ According to The Sentinel Network's "THE LONG COUNT" investigation, the disappea
 - **Anthony Chavez** (May 2025, Los Alamos): Wallet, keys, cigarettes on table. No cell phone. No forced entry, no blood. "It was just like he left." Cadaver dogs negative.
 - **Monica Reza** (June 2025, Angeles National Forest): Was 30 feet behind companion, smiling and waving, then ceased to exist. FLIR-negative. Scent trail ended at a misplaced beanie.
 - **Melissa Casias** (June 2025, Taos): Both phones factory-reset. Staggering on surveillance camera. Husband says not a drinker. Keys, wallet, purse left.
+- **[Steven Garcia](Details/Steven_Garcia.md)** (August 2025, Albuquerque): KCNSC contractor. Left home with handgun and bottle of water. No phone, keys, or wallet. "He literally just walked off into the desert."
 - **William McCasland** (February 2026, Albuquerque): Phone, prescription glasses, wearable devices left behind. No confirmed surveillance footage of departure despite 700+ homes canvassed.
 
-*Personal effects abandoned in every case. Negative searches in every case. Zero confirmed sightings. Zero bodies recovered. Two states. One hundred miles of New Mexico desert and one California ridgeline. The same outcome every time.*
+*Personal effects abandoned in every case. Negative searches in every case. Zero confirmed sightings. Zero bodies recovered. Two states. One hundred miles of New Mexico desert and one California ridgeline. The same outcome every time.* Garcia's disappearance — the fifth to follow this pattern — was revealed by the Daily Mail on April 11, 2026, bringing the total cluster count to ten.
 
 ---
 
@@ -87,7 +92,7 @@ Within the broader cluster, four scientists shared the Southern California aeros
 3. **Monica Jacinto Reza** vanished June 22, 2025 — declared dead with "green burial" four days later while SAR teams still searched
 4. **Carl Grillmair** shot dead February 16, 2026 — suspect had been caught on his property with an unregistered rifle 58 days earlier; both felony charges dismissed 11 days before killing
 
-The Daily Mail on April 7, 2026 identified Michael David Hicks as the **ninth person** with ties to America's space or nuclear secrets to have died or mysteriously vanished in recent years.
+The Daily Mail on April 7, 2026 identified Michael David Hicks as the **ninth person** with ties to America's space or nuclear secrets to have died or mysteriously vanished in recent years. On April 11, 2026, the Daily Mail revealed Steven Garcia as the **tenth person** — a KCNSC contractor who vanished from Albuquerque in August 2025.
 
 ---
 
@@ -115,7 +120,7 @@ The Daily Mail on April 7, 2026 identified Michael David Hicks as the **ninth pe
 ## See Also
 
 - **Organizations:** [NASA JPL](Details/NASA_JPL.md) | [LANL](Details/Los_Alamos_National_Laboratory.md) | [AFRL Wright-Patterson](Details/AFRL_Wright_Patterson.md) | [AFRL Kirtland](Details/AFRL_Kirtland.md)
-- **Individual profiles:** [Michael David Hicks](Details/Michael_David_Hicks.md) | [Frank Maiwald](Details/Frank_Maiwald.md) | [Carl Grillmair](Details/Carl_Grillmair.md) | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | [Melissa Casias](Details/Melissa_Casias.md) | [Anthony Chavez](Details/Anthony_Chavez.md) | [William Neil McCasland](Details/William_McCasland.md)
+- **Individual profiles:** [Michael David Hicks](Details/Michael_David_Hicks.md) | [Frank Maiwald](Details/Frank_Maiwald.md) | [Carl Grillmair](Details/Carl_Grillmair.md) | [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | [Melissa Casias](Details/Melissa_Casias.md) | [Anthony Chavez](Details/Anthony_Chavez.md) | [Steven Garcia](Details/Steven_Garcia.md) | [William Neil McCasland](Details/William_McCasland.md)
 - **Related (AFRL cluster):** [Jacob Prichard](Details/Jacob_Prichard.md) | [Nuno Loureiro](Details/Nuno_Loureiro.md) | [Christopher Fallen](Details/Christopher_Fallen.md)
 
 ## Sources
@@ -128,3 +133,4 @@ The Daily Mail on April 7, 2026 identified Michael David Hicks as the **ninth pe
 - [The Sentinel Network: THE GREEN BURIAL](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
 - [The Sentinel Network: THE BLIND SPOT (Mar 25, 2026)](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling)
 - [Tampa Free Press: Tennessee Rep. Tim Burchett Warns Of Pattern As More U.S. Scientists Die Or Vanish](https://www.tampafp.com/scary-tennessee-rep-tim-burchett-warns-of-pattern-as-more-u-s-scientists-die-or-vanish/)
+- [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)

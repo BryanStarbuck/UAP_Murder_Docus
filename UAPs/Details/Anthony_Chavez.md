@@ -63,6 +63,7 @@ According to The Sentinel Network's investigation, Chavez's disappearance shares
 - **Chavez** (May 2025, Los Alamos): Wallet, keys, cigarettes left on table. No cell phone to track. Negative cadaver dogs. "It was just like he left." Never found.
 - **[Melissa Casias](Melissa_Casias.md)** (June 2025, Taos): Both phones factory-reset. Carrying a backpack. Staggering on surveillance camera. Not a drinker. Never found.
 - **[Monica Reza](Monica_Jacinto_Reza.md)** (June 2025, Angeles National Forest): Waved at her hiking companion from 30 feet, then ceased to exist. FLIR-negative search. Scent trail ended at a misplaced beanie. Never found.
+- **[Steven Garcia](Steven_Garcia.md)** (August 2025, Albuquerque): KCNSC contractor with top security clearance. Left home with handgun and bottle of water. No phone, keys, or wallet. Never found.
 - **[William McCasland](William_McCasland.md)** (February 2026, Albuquerque): Red backpack missing. Phone, glasses, wearable devices left. "Mental fog" reported but investigators say no impairment. No confirmed video of departure. Nobody witnessed him leave. Never found.
 
 As The Sentinel Network documented: "Personal effects abandoned in every case. Negative searches in every case. Zero confirmed sightings in every case. Zero bodies recovered in any case. Two states. One hundred miles of New Mexico desert and one California ridgeline. The same outcome every time."
@@ -106,6 +107,7 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 - [Melissa Casias](Melissa_Casias.md) — DOE advisory board member connected to LANL, vanished from Taos ~6 weeks after Chavez
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace engineer who vanished hiking ~7 weeks after Chavez, June 22, 2025
 - [Frank Maiwald](Frank_Maiwald.md) — JPL technical group supervisor who died July 4, 2024; extends the timeline backward
+- [Steven Garcia](Steven_Garcia.md) — KCNSC contractor who vanished from Albuquerque in August 2025; fifth in the defense-corridor disappearance pattern
 - [Maj. Gen. William Neil McCasland](William_McCasland.md) — Retired USAF Major General, vanished February 27, 2026; oversaw Reza's research
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot on porch, February 2026
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist shot at home, December 2025
@@ -126,6 +128,7 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 - [Los Alamos Police Department Continues Search — Los Alamos Reporter](https://losalamosreporter.com/2025/05/20/los-alamos-police-department-continues-search-for-anthony-chavez/)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
+- [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)
 
 *This information was built by Grok and Claude AI research.*
 

@@ -54,6 +54,7 @@ According to The Sentinel Network's investigation, Casias's disappearance shares
 - **[Anthony Chavez](Anthony_Chavez.md)** (May 2025, Los Alamos): Wallet, keys, cigarettes left on table. No cell phone to track. Negative cadaver dogs. Never found.
 - **Casias** (June 2025, Taos): Both phones factory-reset. Carrying a backpack. Staggering on camera. Not a drinker. Never found.
 - **[Monica Reza](Monica_Jacinto_Reza.md)** (June 2025, Angeles National Forest): Waved at companion from 30 feet, then vanished. FLIR-negative. Never found.
+- **[Steven Garcia](Steven_Garcia.md)** (August 2025, Albuquerque): KCNSC contractor with top security clearance. Left home with handgun. No phone, keys, or wallet. Never found.
 - **[William McCasland](William_McCasland.md)** (February 2026, Albuquerque): Phone, glasses, devices left. Red backpack missing. Nobody witnessed departure. Never found.
 
 ## Why This Disappearance Possibly Raises Questions
@@ -89,6 +90,7 @@ According to The Sentinel Network's investigation, Casias's disappearance shares
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace engineer who vanished 4 days before Casias
 - [Maj. Gen. William Neil McCasland](William_McCasland.md) — Retired USAF Major General, vanished February 2026
 - [Frank Maiwald](Frank_Maiwald.md) — JPL technical group supervisor, died July 4, 2024
+- [Steven Garcia](Steven_Garcia.md) — KCNSC contractor who vanished from Albuquerque in August 2025; fifth in the defense-corridor disappearance pattern
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot on porch, February 2026
 
 ## Other Shocking Stories
@@ -103,6 +105,7 @@ According to The Sentinel Network's investigation, Casias's disappearance shares
 - [The Taos News — Melissa Casias disappearance coverage](https://www.taosnews.com/) (2025)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
+- [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)
 
 *This information was built by Grok and Claude AI research.*
 

@@ -150,6 +150,7 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the nine scientists and defense insiders who died or vanished
 - [AFRL Wright-Patterson AFB](AFRL_Wright_Patterson.md) — Organization: McCasland's command headquarters; oversee the research budgets that funded Reza's work
 - [AFRL Kirtland AFB](AFRL_Kirtland.md) — Organization: McCasland's earlier command; 100 miles from LANL; vanished from this city
+- [Steven Garcia](Steven_Garcia.md) — KCNSC contractor who vanished from Albuquerque in August 2025; fifth disappearance sharing the defense-corridor signature
 - [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024, same New Mexico defense corridor
 - [John Rossi](John_Rossi.md) — Major General commanding Space and Missile Defense at Redstone Arsenal, found hanged two days before promotion
 
@@ -179,6 +180,7 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [Ross Coulthart on X: grave new questions about McCasland's former colleague](https://x.com/rosscoulthart/status/2033634466724450743)
 - [The Sentinel Network: THE GREEN BURIAL — She Was Declared Dead Four Days After She Vanished](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
 - [Daily Mail: Mystery of five missing scientists sends chill across America](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)
 - [THE LONG COUNT: We Started With Two Names. The List Didn't Stop. — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
