@@ -1,5 +1,5 @@
 id: '2043613389969387874'
-url: 'https://x.com/RedCollie1/status/2043613389969387874'
+url: 'https://x.com/RedCollie1/status/2043613389969387874?s=20'
 author:
   username: 'RedCollie1'
   name: 'Red Collie (Dr. Horace Drew) scientist/inventor'
@@ -14,19 +14,8 @@ public_metrics:
   like_count: 5
   quote_count: 0
   bookmark_count: 1
-  impression_count: 358
+  impression_count: 379
 has_video: false
 has_image: true
-images:
-  - url: 'https://pbs.twimg.com/media/HFxffgLbEAAACSD.jpg'
-    local: 'static/images/2043613389969387874_1.jpg'
-    width: 960
-    height: 720
-    media_key: '3_2043613325737791488'
-  - url: 'https://pbs.twimg.com/media/HFxfgtTbkAAAf7N.jpg'
-    local: 'static/images/2043613389969387874_2.jpg'
-    width: 960
-    height: 720
-    media_key: '3_2043613346440908800'
 investigation: 'Physics'
 added_date: '2026-04-13'
