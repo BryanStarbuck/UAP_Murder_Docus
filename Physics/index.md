@@ -267,9 +267,9 @@ Based on the convergence of congressional testimony, insider statements, books, 
 - Deep State — The classification regime and intelligence community structures that keep physics classified
 
 ### Sibling Directories
-- [UAP Deaths [UAP Deaths & Silenced Witnesses](/uaps/) Silenced Witnesses](/uaps/) — People killed or silenced for UAP knowledge
+- [UAP Deaths & Silenced Witnesses](/uaps/) — People killed or silenced for UAP knowledge
 - [Zero Point Energy (Suppressed Inventors)](/energy/) — Inventors of advanced energy technology who were suppressed or killed
-- Intelligence Service Murders — Intelligence community political assassinations
+- [Intelligence Service Murders](https://intelligencemurders.com/intelligence-service-murders/) — Intelligence community political assassinations
 
 ### New Profiles (This Section)
 - [James Forrestal](Details/James_Forrestal.md) — First Secretary of Defense, MJ-12 connection, fell from hospital window 1949
