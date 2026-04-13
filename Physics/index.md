@@ -35,6 +35,7 @@ Classified physics behind UAP propulsion — gravity manipulation, warp drives, 
 |--------|----------|-----------------|---------|
 | [Gravity Manipulation / Antigravity](Details/Gravity_Manipulation.md) | Propulsion / Spacetime | **STRONG EVIDENCE** | UAPs create localized gravitational distortions that pull the craft through space — the craft doesn't fly through air, it warps spacetime around itself. Most commonly described mechanism by insiders ([Lazar](Details/Bob_Lazar.md), [Grusch](Details/David_Grusch.md)). Supported by Navy patents, multiple independent witnesses, and congressional testimony. |
 | [Electromagnetic / Electrogravitics Propulsion](Details/Electromagnetic_Propulsion.md) | Propulsion | **MODERATE EVIDENCE** | High-voltage electromagnetic fields generate propulsive force that interacts with gravity. Demonstrated in laboratories in the 1950s by T.T. Brown, then classified. Supported by declassified reports, historical experiments, and whistleblower testimony (McCandlish). |
+| [Rotating Magnets Propulsion](Details/Rotating_Magnets.mdx) | Propulsion | **EMERGING** | A pulsed open/close rotating magnet cycle generates directional thrust through gravitomagnetic amplification, plasma field interaction, or vacuum energy rectification. No combustion, no reaction mass. May explain UAP silence, instant acceleration, and transmedium capability. |
 
 ### Spacetime & Gravity Manipulation
 
