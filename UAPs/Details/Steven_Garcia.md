@@ -96,6 +96,10 @@ Garcia's disappearance is the fifth to share the precise physical pattern docume
 > "I think we've even seen instances where nuclear scientists have been taken out. They've been assassinated."
 > — Chris Swecker, former FBI Assistant Director, via Daily Mail
 
+## April 2026 Viral Coverage
+
+In April 2026, the Garcia disappearance went viral on social media as the "10 scientists in 36 months" story. Posts framed the cluster as: a nuclear fusion director assassinated at home ([Nuno Loureiro](Nuno_Loureiro.md)), an astrophysicist shot on his porch ([Carl Grillmair](Carl_Grillmair.md)), a JPL scientist whose death went unannounced ([Frank Maiwald](Frank_Maiwald.md)), a 4-star general who walked out with a revolver ([William McCasland](William_McCasland.md)), and Garcia as the tenth. Former FBI Assistant Director Chris Swecker's quote — "Our scientists are being assassinated" — circulated widely alongside the narrative. Coverage appeared in BroBible, Men's Journal, Modernity, Conservative Institute, and London Mail. Mainstream outlets including Newsweek covered Garcia's case individually but did not frame it as a coordinated cluster.
+
 ## See Also
 
 - [JPL / LANL / AFRL Scientist Cluster 2023–2026](/uaps/JPL_LANL_AFRL_Scientist_Cluster) — Full overview of the scientist deaths and disappearances cluster
@@ -103,11 +107,14 @@ Garcia's disappearance is the fifth to share the precise physical pattern docume
 - [Anthony Chavez](Anthony_Chavez.md) — Former LANL employee, vanished from Los Alamos ~4 months before Garcia
 - [Melissa Casias](Melissa_Casias.md) — LANL-connected DOE advisory board member, vanished from Taos ~2 months before Garcia
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace engineer who vanished hiking ~2 months before Garcia
+- [Nuno Loureiro](Nuno_Loureiro.md) — MIT Plasma Science and Fusion Center director, shot at his Brookline home December 2025; part of the same cluster
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech/IPAC astrophysicist shot on his porch February 2026; part of the same cluster
+- [Frank Maiwald](Frank_Maiwald.md) — JPL senior technical group supervisor, died July 4, 2024; cause not disclosed; part of the same corridor cluster
+- [Michael David Hicks](Michael_David_Hicks.md) — NASA JPL research scientist, died July 2023 with no public cause of death; identified as 9th cluster victim
+- [Jason Thomas](Jason_Thomas.md) — Novartis chemist with DOD contracts, vanished December 2025, body found March 2026; part of the 10-person cluster
+- [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024; same New Mexico defense corridor
 - [AFRL Kirtland AFB](AFRL_Kirtland.md) — Organization: Kirtland works closely with KCNSC on national security projects
 - [Los Alamos National Laboratory](Los_Alamos_National_Laboratory.md) — Organization: LANL collaborates with KCNSC on nuclear capabilities
-- [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion physicist murdered December 2025; part of the same cluster
-- [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist killed February 2026; part of the same cluster
-- [Christopher Fallen](Christopher_Fallen.md) — Former HAARP chief scientist murdered in Albuquerque in 2024; same New Mexico defense corridor
 
 ## Other Shocking Stories
 
@@ -121,6 +128,10 @@ Garcia's disappearance is the fifth to share the precise physical pattern docume
 - [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)
 - [CLG News: Missing nuclear official becomes TENTH person tied to dark pattern surrounding U.S. secrets](https://legitgov.org/missing-nuclear-official-becomes-tenth-person-tied-to-dark-pattern-surrounding-u-s-secrets/)
 - [Daily Mail: Mystery of five missing scientists sends chill across America (Mar 22, 2026)](https://www.dailymail.co.uk/sciencetech/article-14607417/mystery-five-missing-scientists-three-dead-troubling-link-dc.html)
+- [BroBible: Nuclear Official Now The Tenth Person Connected To Top Secret US Research To Go Missing Or Die Mysteriously (Apr 2026)](https://brobible.com/culture/article/tenth-person-top-secret-research-die-missing/)
+- [Men's Journal: Growing List of Dead and Missing NASA Scientists Triggers New Alarm (Apr 2026)](https://www.mensjournal.com/news/missing-nasa-scientists-dead-list)
+- [Newsweek: Missing government security man compared to Neil McCasland case (Apr 2026)](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116)
+- [London Mail: Scientists are vanishing or turning up dead — ex-FBI boss reveals chilling plot (Apr 2026)](https://londonmail.co.uk/2026/04/02/scientists-are-vanishing-or-turning-up-dead-now-ex-fbi-boss-reveals-chilling-plot-likely-unfolding-and-who-he-fears-is-behind-it/)
 - [KCNSC New Mexico Operations](https://kcnsc.doe.gov/about-us/new-mexico-operations/)
 
 *This information was built by Grok and Claude AI research.*
