@@ -121,6 +121,14 @@ While Hardwick's death predates the cluster by a decade, The Sentinel Network in
 - [What is Mondaloy and why should you care? — SpaceNews](https://spacenews.com/what-is-mondaloy-and-why-should-you-care/)
 - [THE MISSING GENERAL AND HIS COLLEAGUES — Dick Russell](https://dickrussell.substack.com/p/the-missing-general-and-his-colleagues)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Hardwick's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Hardwick: AFRL Materials Directorate; died 2014 (cancer). Reza's mentor and Mondaloy co-inventor/qualifier at AFRL. Her case is the earlier link completing the "custody chain" for the superalloy program alongside Reza and McCasland.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Deceased (2014)

@@ -185,6 +185,14 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [@MvonRen on X: AAWSAP chain of deaths — Herbert, Ryder, McCasland](https://x.com/MvonRen/status/2039342213549920508)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+McCasland's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to McCasland: Retired Air Force Major General and former AFRL commander; missing since Feb 27, 2026 (age 68) from Albuquerque, NM. He left after a repairman visit around 11am; his wife returned to an empty house — his phone and glasses were left behind, but his wallet, revolver, and hiking gear were taken. He was an avid hiker; clothing was later found in Colorado. He oversaw AFRL advanced aerospace/space-vehicle programs and budgeted Reza's Mondaloy work; Wright-Patterson ties have been referenced historically in UAP discussions.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Missing (2026)

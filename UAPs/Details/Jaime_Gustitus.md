@@ -63,6 +63,14 @@ She and Jacob Prichard were colleagues through their work at AFRL.
 - [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Gustitus's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Gustitus: 1st Lt., AFRL 711th Human Performance Wing, TS/SCI cleared, age 25; died Oct 25, 2025 in the same incident.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Deceased (2025)

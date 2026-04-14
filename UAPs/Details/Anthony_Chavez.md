@@ -130,6 +130,14 @@ As The Sentinel Network documented: "Personal effects abandoned in every case. N
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 - [Daily Mail: Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets (Apr 11, 2026)](https://www.dailymail.co.uk/sciencetech/article-14696025/missing-nuclear-official-tenth-person-dark-pattern-us-secrets.html)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Chavez's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Chavez: Longtime LANL employee (age 78) who vanished ~May 5–8, 2025 from his Los Alamos, NM home. His wallet, keys, and cigarettes were left on the table; his car was locked in the driveway; there were no signs of struggle; cadaver dogs searched his home, his sister's home, and nearby trails and returned negative. He was healthy and stable; bank activity stopped and he was never found. His disappearance predates Reza's by roughly six weeks.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Missing (2025)

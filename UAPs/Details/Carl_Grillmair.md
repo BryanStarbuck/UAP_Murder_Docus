@@ -198,6 +198,14 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [Wikipedia: Carl Grillmair](https://en.wikipedia.org/wiki/Carl_Grillmair)
 - [Carl Grillmair — Google Scholar](https://scholar.google.com/citations?user=skWK5ssAAAAJ&hl=en)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Grillmair's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Grillmair: Caltech/IPAC astrophysicist shot on his porch in Llano, CA (Antelope Valley), Feb 16, 2026, at age 67. Worked on NEOWISE data quality and NEO Surveyor instruments for detecting hazardous comets, asteroids, and fireballs. Suspect Freddy Snyder (29) was charged after a linked carjacking/burglary; prior trespassing-related charges were reportedly dismissed 11 days before the killing. Research also included exoplanets and dark matter.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Deceased (2026)

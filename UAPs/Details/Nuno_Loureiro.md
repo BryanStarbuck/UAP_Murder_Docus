@@ -149,6 +149,14 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [THE LONG COUNT — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Loureiro's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Loureiro: MIT Plasma Science & Fusion Center director and LANL Ulam Scholar. Shot dead Dec 15–16, 2025 (age 47) at his Brookline, MA home with multiple gunshot wounds. Plasma/fusion physicist with defense-adjacent energy research. The suspect — a former classmate — was identified and later died by suicide; the motive remains unclear.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Deceased (2025)

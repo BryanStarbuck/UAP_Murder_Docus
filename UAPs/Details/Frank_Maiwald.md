@@ -96,6 +96,14 @@ The Sentinel Network's March 25, 2026 article "The Blind Spot: Rocks Are Falling
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 - [Six Defense Scientists Dead Or Missing In Under A Year — IBTimes UK](https://www.ibtimes.co.uk/unexplained-deaths-us-defence-research-1787733)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Maiwald's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Maiwald: JPL senior technical manager who died July 4, 2024 in Los Angeles at age 61. Oversaw next-generation orbital surveillance instruments including the SBG-VSWIR spectrometer, AMR-C, and SWOT-related radiometry/terahertz technology — dual-use for ISR/surveillance. No cause of death, no press release, and no memorial from JPL/NASA/Caltech; only an obituary confirms his death.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Deceased (2024)

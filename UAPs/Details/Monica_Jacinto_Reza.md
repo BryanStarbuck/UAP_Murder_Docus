@@ -174,6 +174,14 @@ The fact that a former member of Congress is calling for DOJ witness protection 
 - [THE LONG COUNT: We Started With Two Names. The List Didn't Stop. — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two) (March 18, 2026)
 - [THE BLIND SPOT: Rocks Are Falling Through Our Roofs — The Sentinel Network](https://thesentinelnetwork.substack.com/p/the-blind-spot-rocks-are-falling) (March 25, 2026)
 
+## Sentinel Network Cluster (March 2026 compiled list)
+
+Reza's case is included in an 11-person cluster compiled by @thesentinelnet on X (March 25, 2026) spanning July 2024–February 2026 across CA, NM, MA, OH/Wright-Patterson, connecting JPL, Caltech/IPAC, LANL, AFRL, and MIT. Shared signatures across cases include factory-reset phones, items left behind, negative scent/cadaver-dog searches, and institutional silence. The cluster emphasizes overlaps with orbital surveillance, NEO/fireball detection, rocket propulsion/alloys, plasma/fusion, and UAP-adjacent research.
+
+Specific to Reza: Aerospace engineer at JPL/Aerojet contractor and AFRL-funded Mondaloy superalloy co-inventor. Vanished June 22, 2025 (age 60) while hiking the Mount Waterman Trail in Angeles National Forest, CA. She waved to companions from ~30 feet behind, then disappeared; her phones were factory-reset; her scent trail ended at a displaced beanie; FLIR and cadaver-dog searches were negative; her body was never found. Mondaloy is a breakthrough alloy for missiles/rockets; professional ties to McCasland run through AFRL rocket-materials programs.
+
+See also: [JPL/LANL/AFRL Scientist Cluster](../JPL_LANL_AFRL_Scientist_Cluster)
+
 *This information was built by Grok and Claude AI research.*
 
 **Status:** Missing (2025)
