@@ -19,6 +19,10 @@ Classified physics behind UAP propulsion — gravity manipulation, warp drives, 
 
 **For intelligence service political assassinations, see the [Intel Murders](https://intelligencemurders.com/intelligence-service-murders).**
 
+<div style="margin-top: 1.25rem; margin-bottom: 0.5rem;">
+<a href="/physics/Details/Rotating_Magnets" class="button button--primary button--lg">UAP Propulsion: Electrogravitic Magnetic Version →</a>
+</div>
+
 ---
 
 ## Physics Theses
