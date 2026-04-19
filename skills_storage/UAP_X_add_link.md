@@ -484,25 +484,39 @@ STEP 5: DOWNLOAD VIDEO (if video present)
     ```
     If yt-dlp fails, try with cookies or inform the user.
 
-  5b. IPFS pin (optional but preferred for censorship resistance):
-    - Ensure the IPFS daemon is running (start with: ipfs daemon &)
+  5b. IPFS pin (REQUIRED — videos are served via IPFS, not from the web server):
+    - Check if IPFS daemon is running: `ipfs id 2>/dev/null`
+    - If not running, start it: `ipfs daemon &` then `sleep 5`
     - Add and pin the video:
       ```bash
-      ipfs add --pin {ROOT_DIR}/static/videos/{filename}
+      ipfs add --pin --quieter {ROOT_DIR}/static/videos/{filename}
       ```
-    - Capture the CID from the output
-    - If IPFS is not available, skip pinning and note this in the summary
+    - Capture the CID from the output — this is REQUIRED for the embed
+    - If IPFS is not available, inform the user and stop — videos MUST be pinned
+
+  5b-ii. Update manifest.yaml — append a new entry:
+    ```bash
+    # Append to {ROOT_DIR}/static/videos/manifest.yaml
+    ```
+    Add a YAML entry with: filename, ipfs_cid, ipfs_gateway_url, source_url,
+    source_author, description, investigation, added_date, pinned: true
+
+  5b-iii. Update get_videos.sh — add a new `ipfs pin add {CID}` line:
+    Add the new video to the appropriate investigation section in
+    {ROOT_DIR}/static/videos/get_videos.sh with a comment describing the video.
+    Also update the embedded SCRIPT_CONTENT in {ROOT_DIR}/src/pages/ipfs.tsx
+    to match — both files must stay in sync.
 
   5c. Embed video in the relevant investigation page:
     - Determine which Details/ file should show this video
     - If the file is .md, rename it to .mdx and update all sidebars/links to it
     - Add the video embed after the metadata table, before the first content section.
-    - If IPFS was pinned, use this pattern (multiple fallback sources):
+    - ALWAYS use IPFS URLs (never local /videos/ paths). Use the 3-gateway pattern:
       ```
       ## Video Evidence
 
-      <video controls width="100%" style={{maxWidth: '720px'}}>
-        <source src="/videos/{filename}" type="video/mp4" />
+      <video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+        <source src="http://127.0.0.1:8080/ipfs/{CID}" type="video/mp4" />
         <source src="https://ipfs.io/ipfs/{CID}" type="video/mp4" />
         <source src="https://dweb.link/ipfs/{CID}" type="video/mp4" />
         Your browser does not support the video tag.
@@ -510,17 +524,8 @@ STEP 5: DOWNLOAD VIDEO (if video present)
 
       *{Description}. Source: [@{username} on X]({original_url}), {date}.*
       ```
-    - If IPFS was NOT pinned, use only the local source:
-      ```
-      ## Video Evidence
-
-      <video controls width="100%" style={{maxWidth: '720px'}}>
-        <source src="/videos/{filename}" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
-
-      *{Description}. Source: [@{username} on X]({original_url}), {date}.*
-      ```
+    - NEVER use cloudflare-ipfs.com — that gateway shut down in 2024.
+    - NEVER use local paths like /videos/{filename} — always use IPFS CID URLs.
 
   5d. Output:
     ```
