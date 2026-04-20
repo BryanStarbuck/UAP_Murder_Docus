@@ -95,3 +95,23 @@ videos:
   investigation: Physics
   added_date: '2026-04-19'
   pinned: true
+
+- filename: 2045960606478438848.mp4
+  ipfs_cid: QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
+  source_url: https://x.com/RyushinMalone17/status/2045960606478438848
+  source_author: '@RyushinMalone17'
+  description: 'Amy Eskridge death, ultraterrestrial hypothesis, Project Looking Glass — P-47 and P-52 future human designations'
+  investigation: Physics
+  added_date: '2026-04-19'
+  pinned: true
+
+- filename: 2045757285939744844.mp4
+  ipfs_cid: Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
+  source_url: https://x.com/andreas_nigbur/status/2045757285939744844
+  source_author: '@andreas_nigbur'
+  description: 'John Christie and Lou Britz Lutec 1000 free energy device — breakthrough suppressed, both inventors died'
+  investigation: Energy
+  added_date: '2026-04-19'
+  pinned: true

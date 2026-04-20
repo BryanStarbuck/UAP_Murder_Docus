@@ -78,6 +78,16 @@ ipfs pin add QmR1CSWjrUbAka9LfbMXejjRtjGW2M7ENYpd25FRFmwWnS
 # VIDEO: MIT plasma physicist Nuno Loureiro murdered — TAE fusion deal, SPARC rivalry
 ipfs pin add QmPUTSoChvkH1XVcbpGoPR6Y2yKwcxUcxs6QPcE4FRHKEZ
 
+# VIDEO: Amy Eskridge death, ultraterrestrial hypothesis, Project Looking Glass
+ipfs pin add QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
+
+# ============================================================
+# Investigation: UAP Energy Systems Murders
+# ============================================================
+
+# VIDEO: John Christie and Lou Britz Lutec 1000 free energy device — both inventors died
+ipfs pin add Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
+
 echo "========================================"
 echo "  Done. All videos fetched and pinned."
 echo "========================================"`;
