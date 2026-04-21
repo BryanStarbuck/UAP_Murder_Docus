@@ -1,0 +1,117 @@
+# UAP Murders — Video Manifest
+# https://uapmurders.com
+#
+# Videos are NOT committed to git. Each entry has an IPFS CID.
+# Run get_videos.sh to download and pin all videos locally.
+# curl -fsSL https://uapmurders.com/videos/get_videos.sh | sh
+
+videos:
+- filename: 2030365676901204133.mp4
+  ipfs_cid: QmQg1wqnejWf3yydTQHd15QUmVkMgvZ7TmdCBNC18BUx5z
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmQg1wqnejWf3yydTQHd15QUmVkMgvZ7TmdCBNC18BUx5z
+  source_url: https://x.com/UAPJames/status/2030365676901204133
+  source_author: '@UAPJames'
+  description: 'Rep. Eric Burlison warned he may be killed for pursuing UAP truth'
+  investigation: UAPs
+  added_date: '2026-03-07'
+  pinned: true
+
+- filename: 2041749170772451823.mp4
+  ipfs_cid: QmV8tjeZN7Bu33JA1KdkaK2TiB7ch9mNfcinJpCfcKt7K5
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmV8tjeZN7Bu33JA1KdkaK2TiB7ch9mNfcinJpCfcKt7K5
+  source_url: https://x.com/D4rk_n3ws/status/2041749170772451823
+  source_author: '@D4rk_n3ws'
+  description: 'Loosh farm thesis — grid around Earth catching souls, UAP journalist cancers, Karla Turner, Robert Monroe'
+  investigation: UAPs
+  added_date: '2026-04-08'
+  pinned: true
+
+- filename: 2042044832760344769.mp4
+  ipfs_cid: QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmZ7GEkrpSAgCw3wr2k4p8SQR9NuKdmCPfM64o56uB6vhp
+  source_url: https://x.com/PlanetTyrusPod/status/2042044832760344769
+  source_author: '@PlanetTyrusPod'
+  description: 'Dr. Steven Greer recounts Stanley Meyer water fuel cell technology and engineering team allegedly killed'
+  investigation: UAPs, Energy, Physics
+  added_date: '2026-04-09'
+  pinned: true
+
+- filename: 2042686155469005307.mp4
+  ipfs_cid: QmWPNCj7TqYZ98TLy66aHrQvn7TLXt3tR6dj3ev8Sq5zHK
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmWPNCj7TqYZ98TLy66aHrQvn7TLXt3tR6dj3ev8Sq5zHK
+  source_url: https://x.com/Shannon45531518/status/2042686155469005307
+  source_author: '@Shannon45531518'
+  description: '5 people who could have changed the world but disappeared — suppressed inventors and researchers'
+  investigation: UAPs
+  added_date: '2026-04-10'
+  pinned: true
+
+- filename: 2043509434383732788.mp4
+  ipfs_cid: QmeprsxqG4W4YexuHFHMwLcLEMgafNGzGvWueNZJxAskj7
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmeprsxqG4W4YexuHFHMwLcLEMgafNGzGvWueNZJxAskj7
+  source_url: https://x.com/RedCollie1/status/2043509434383732788
+  source_author: '@RedCollie1'
+  description: 'Viktor Schauberger implosion vortex propulsion concept — rotating field dynamics'
+  investigation: Physics
+  added_date: '2026-04-13'
+  pinned: true
+
+- filename: 2043717838167535986.mp4
+  ipfs_cid: Qme83xoC5KUVWFvN5PxFqhAjFSdnpY6rdFAHSuV75nwauK
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qme83xoC5KUVWFvN5PxFqhAjFSdnpY6rdFAHSuV75nwauK
+  source_url: https://x.com/RedCollie1/status/2043717838167535986
+  source_author: '@RedCollie1'
+  description: 'Dr. Horace Drew lab experiment — spinning magnet oscillates relative to flywheel, matching 2012 crop formations'
+  investigation: Physics
+  added_date: '2026-04-13'
+  pinned: true
+
+- filename: 2043979750209925538.mp4
+  ipfs_cid: QmTKV6BTy2Sa6WsrJmfykvERmvUnTZmAnXJapCW8LXouj9
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmTKV6BTy2Sa6WsrJmfykvERmvUnTZmAnXJapCW8LXouj9
+  source_url: https://x.com/RedCollie1/status/2043979750209925538
+  source_author: '@RedCollie1'
+  description: 'Dr. Drew discovery — non-spinning magnetic attraction transitions to spinning magnetic repulsion'
+  investigation: Physics
+  added_date: '2026-04-14'
+  pinned: true
+
+- filename: 2045203516499607822.mp4
+  ipfs_cid: QmXtZ3NRDPvmueEFhG2DfdxK7mTjCx3Cm3e3wGavWJ5Cjy
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmXtZ3NRDPvmueEFhG2DfdxK7mTjCx3Cm3e3wGavWJ5Cjy
+  source_url: https://x.com/caborojo/status/2045203516499607822
+  source_author: '@caborojo'
+  description: 'Matthew Sullivan UAP researcher suspicious death discussion'
+  investigation: UAPs
+  added_date: '2026-04-19'
+  pinned: true
+
+- filename: 2045807553066463643.mp4
+  ipfs_cid: QmR1CSWjrUbAka9LfbMXejjRtjGW2M7ENYpd25FRFmwWnS
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmR1CSWjrUbAka9LfbMXejjRtjGW2M7ENYpd25FRFmwWnS
+  source_url: https://x.com/RedCollie1/status/2045807553066463643
+  source_author: '@RedCollie1'
+  description: 'Dr. Drew comprehensive UFO physics presentation — device construction, crop circle encoding, non-human intelligence teaching propulsion'
+  investigation: Physics
+  added_date: '2026-04-19'
+  pinned: true
+
+- filename: 2045960606478438848.mp4
+  ipfs_cid: QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
+  source_url: https://x.com/RyushinMalone17/status/2045960606478438848
+  source_author: '@RyushinMalone17'
+  description: 'Amy Eskridge death, ultraterrestrial hypothesis, Project Looking Glass — P-47 and P-52 future human designations'
+  investigation: Physics
+  added_date: '2026-04-19'
+  pinned: true
+
+- filename: 2045757285939744844.mp4
+  ipfs_cid: Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
+  source_url: https://x.com/andreas_nigbur/status/2045757285939744844
+  source_author: '@andreas_nigbur'
+  description: 'John Christie and Lou Britz Lutec 1000 free energy device — breakthrough suppressed, both inventors died'
+  investigation: Energy
+  added_date: '2026-04-19'
+  pinned: true
