@@ -1,0 +1,64 @@
+IMAGE DESCRIPTION: 3_2005589330094620672.jpg
+
+SHAPES AND ELEMENTS:
+* Side-by-side composite of two false-color astronomical images
+* Both panels show the same or similar cometary region, processed with different color mappings
+* Scientific false-color analysis images — not natural-color photographs
+
+LEFT PANEL:
+* Octagonal (vignetted) field of view — the frame of the telescope detector is octagonal, clipped at the corners
+* Background: vivid red (false-color mapping of the outer diffuse coma)
+* Center-right: a bright point source with multi-color structure:
+  * A white-blue core at the very center (nucleus, maximum brightness)
+  * Surrounding it: blue inner zone → green → yellow → orange → red
+  * This rainbow/spectral color progression represents a continuous surface brightness gradient of the inner coma
+  * The rainbow color mapping encodes: innermost (blue) = highest surface brightness, outward (red) = lowest surface brightness — a standard logarithmic surface brightness map
+* Extending from the central bright source: a dark zone/shadow (black region) to the upper-right of the nucleus — this is the "shadow" of the nucleus behind a cometary jet or the optical-thin region downstream of the jet
+* A prominent bright streak extends diagonally upper-right from the nucleus: a cometary jet — seen as a bright narrow band of enhanced C2 or CN emission
+* A second fainter streak may be visible
+* The octagonal boundary is dark (detector vignetting)
+* A white scale bar in the lower-left: approximate length reference
+
+RIGHT PANEL:
+* Same octagonal field of view
+* Background: dark black fading to red at the outer edges
+* Center-right: a large, bright, round/oval coma — yellow-white at center (nucleus), fading to orange/red outward
+* The coma in this panel is much more prominent and symmetrical — suggesting a different wavelength filter or a different color mapping that emphasizes the dust coma over the gas coma
+* The same nucleus position (small dark spot at right side of the bright yellow zone)
+* No distinct jet visible in this panel — the symmetric round coma suggests this is the dust coma visualization
+* The color mapping: yellow-white (maximum) → orange → red → dark
+
+COMPARISON:
+* LEFT PANEL: Gas/ion coma visualization (reveals jet structure, asymmetric features)
+* RIGHT PANEL: Dust coma visualization (shows smooth symmetric envelope)
+* Together: they separate the gas and dust components of the coma
+
+TEXT: None visible.
+
+COLORS:
+* LEFT: Blue-green-yellow-orange-red (rainbow false-color)
+* RIGHT: Yellow-white-orange-red (thermal-style false-color)
+
+PHYSICS CONCEPTS:
+* COMETARY COMA IMAGING — ENHANCED PROCESSING:
+  * Professional cometary science uses multiple techniques to enhance faint structure:
+    1. ADAPTIVE LAPLACIAN / ROTATIONAL GRADIENT (Larson-Sekanina technique): highlights jet and asymmetric structures in the inner coma
+    2. DIVISION BY AZIMUTHAL AVERAGE: removes the radially symmetric background to reveal deviations (jets, fans)
+    3. FALSE-COLOR MAPPING: assigns colors to surface brightness levels; the rainbow mapping in the LEFT panel makes gradient transitions visible to the human eye
+  * The cometary jets in the LEFT panel: narrow enhanced brightness regions extending from the nucleus — produced by active sublimation areas on the rotating nucleus surface
+* JET PHYSICS:
+  * Cometary jets occur when volatile ices (H₂O, CO₂, CO) sublimate at specific "active areas" on the nucleus surface when illuminated by the sun
+  * The jet consists of gas + entrained dust ejected at ~0.5-1.5 km/s from the nucleus
+  * The jet expands and curves slightly with solar radiation pressure and the Coriolis effect from the rotating nucleus
+  * The dark "shadow" region behind the nucleus (upper-right in left panel) is the low-density region downstream from the jet — material is swept away by the jet into the fan-shaped distribution
+* DUST COMA vs GAS COMA:
+  * Dust coma (right panel): broadband reflectance — grains scatter sunlight across all wavelengths; size distribution ~10⁻⁶ to 10⁻² m; Mie scattering
+  * Gas/CN/C2 coma (left panel): specific emission at narrow wavelengths; C2 (516nm), CN (388nm), C3 (405nm); characteristic green and violet fluorescence
+  * The left panel shows a SMALLER, MORE CONCENTRATED coma than the right — confirming the gas species have shorter scale lengths than the dust (gas scale length ~10⁴-10⁵ km vs. dust tail ~10⁶-10⁷ km)
+
+SPATIAL RELATIONSHIPS:
+* LEFT PANEL: Nucleus (blue-white center-right), inner rainbow coma, jet (upper-right diagonal bright streak), shadow (dark zone upper-right of nucleus), red outer coma
+* RIGHT PANEL: Nucleus (dark center spot in yellow zone), symmetric round dust coma (yellow-orange-red gradient), no jet visible
+
+HIGH-LEVEL SUMMARY:
+A side-by-side composite of two false-color astronomical images of a comet's inner coma, processed with different color mappings to reveal separate components. The LEFT panel uses a rainbow false-color (blue=bright, red=dim) and reveals: a bright nucleus (white-blue), a narrow cometary jet (bright diagonal streak), and a dark shadow region — characteristic of the gas/CN/C2 inner coma with active jet structures. The RIGHT panel uses a thermal-style color mapping (yellow-white=bright, red=dim) and shows a large symmetric round coma — characteristic of the broader dust coma. Together the two panels demonstrate the Larson-Sekanina and azimuthal averaging techniques for separating gas jets from the symmetric dust envelope in professional cometary science.
