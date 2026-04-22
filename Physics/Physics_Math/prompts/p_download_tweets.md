@@ -1,32 +1,34 @@
 ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/
 
-TRACK_DIR is dir {ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/
+OUTPUT_BASE_DIR dir is {ROOT_DIR}/patents_intl/
+
+TRACK_DIR is dir {OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/
 
 PROMPTS_DIR is dir {ROOT_DIR}/prompts/
 
 END_DIR is the end directory of this pattern:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/
 
 LEVEL_2_DIR is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/
 
 LEVEL_2_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/knowledge/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/knowledge/
 
 LEVEL_1_TWEET_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/knowledge/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/knowledge/
 
 TOTAL_TWEET_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/
 
 CONCAT_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/concat/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/concat/
 
 TEMP_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/temp/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/temp/
 
 FINAL_KNOWLEDGE is dir:
-{ROOT_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/final/
+{OUTPUT_BASE_DIR}/1_Track/Tweets_RedCollie1/tweets/knowledge/final/
 
 X_ACCOUNT_URL is: https://x.com/chjkfddd20703
 
@@ -95,7 +97,10 @@ PHASE 1: VERIFY DOWNLOAD TOOL IS AVAILABLE
 PHASE 2: SET UP OUTPUT DIRECTORY STRUCTURE
 ====================================================================
 
-* Ensure TRACK_DIR exists. Create it if it does not.
+* Ensure OUTPUT_BASE_DIR exists. Create it if it does not. All output from
+  this prompt — tweets, images, metadata, knowledge directories — must be
+  written inside OUTPUT_BASE_DIR. Nothing is written outside of it.
+* Ensure TRACK_DIR exists inside OUTPUT_BASE_DIR. Create it if it does not.
 * The downloaded tweets will be organized under TRACK_DIR using the two-level
   directory structure: {Dir_Level_1}/{Dir_Level_2}/
 * If the download tool outputs to a flat directory, organize the output into
@@ -113,11 +118,16 @@ PHASE 3: DOWNLOAD ALL TWEETS AND IMAGES
 ====================================================================
 
 * Run the download tool targeting X_ACCOUNT_URL.
-* Download 100% of the tweet history. Do not stop at any count limit.
-  Use pagination or cursor-based iteration to fetch all pages.
-* Download all images attached to posts. Save each image to the same directory
-  as the post data it belongs to.
-* Save all post data (text + metadata + images) together per tweet.
+* Download 100% of the tweet history — every single post ever made by the
+  account. Do not stop at any count limit. Do not stop at 100, 200, or any
+  default pagination cap. Use cursor-based or page-based iteration to exhaust
+  the full account history all the way back to the first post.
+* Download all images attached to posts. Every image file on every post must
+  be downloaded. Save each image to the same directory as the post data it
+  belongs to.
+* Download all videos attached to posts where the tool supports it.
+* Save all post data (text + metadata + images) together per tweet. All output
+  goes inside OUTPUT_BASE_DIR — no files are written anywhere else.
 * If the download tool supports YAML or JSON output per post, use that format.
   If not, save the raw text and record metadata in a summary file.
 
@@ -148,7 +158,7 @@ PHASE 5: VERIFY DOWNLOAD COMPLETENESS
   * Total tweets downloaded.
   * Total images downloaded.
   * Total END_DIR directories created.
-  * Path to TRACK_DIR root.
+  * Path to OUTPUT_BASE_DIR root and TRACK_DIR root.
   * "Download complete. Ready for p_skill_one_dir.md processing."
 * If the download appears incomplete (tool reported errors, pagination stopped
   early, or total count seems too low), output a warning and describe the issue.
