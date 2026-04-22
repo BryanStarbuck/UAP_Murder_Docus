@@ -1,0 +1,45 @@
+TYPE: Vector diagram — isometric cube / wireframe cube with ball-and-stick node notation
+
+CONTENT:
+- White background, no border
+- A single large 3D cube rendered in isometric perspective
+- Black line art with sphere nodes at all vertices and at key intersection points
+
+CUBE STRUCTURE:
+
+VERTICES (corner nodes):
+- 8 solid black spheres at the 8 corners of the cube
+- The corner spheres are all approximately the same size (medium)
+
+EDGES:
+- 12 thick black lines connecting the corner spheres — representing the 12 edges of the cube
+- The lines are thick enough to have visual weight (not hairlines)
+- All visible edges are shown (front face edges, back face edges, and connecting depth edges)
+
+INTERNAL STRUCTURE:
+- Additional lines from corner vertices toward the interior of the cube
+- These lines converge toward the center-interior of the cube
+- A large solid black sphere is positioned at what appears to be the center or center-of-mass point of the cube (slightly off-center in the perspective view, visible in the lower-center area)
+- A smaller sphere is also visible at the center-top area (possibly a second internal node)
+- The internal lines create a "spider web" effect going from corners to the central sphere
+
+PERSPECTIVE:
+- The cube is drawn in isometric projection — no vanishing point, all parallel lines remain parallel
+- The cube is oriented with one corner pointing toward the viewer (not face-forward)
+- This is the standard "diamond orientation" for an isometric cube
+
+INTERPRETATION:
+This diagram may represent:
+1. A crystal structure: body-centered cubic (BCC) or face-centered cubic (FCC) unit cell with one atom per corner and central atoms
+2. A hypercube (tesseract) projection: the internal lines could be edges of an inner cube visible through the outer cube
+3. A geometric diagram for crop circle formation analysis: squares inscribed in other squares in 3D
+4. A graph theory / network topology diagram
+
+COLORS:
+- All lines and spheres: solid black
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 960 x 960 pixels, square
+
+CONTEXT:
+This isometric cube with internal node connections is a recurring element in the physics and mathematics content of this research collection. It may be used to represent: a crystal lattice structure (relevant to exotic material physics), a hyperdimensional projection (relevant to dimensional shifting theses), or a geometric template for crop circle designs that use cube-in-circle motifs (like the companion image 3_2004868493318258689.txt).

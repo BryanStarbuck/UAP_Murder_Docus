@@ -1,0 +1,53 @@
+Type: Composite diagram — false-color astronomical image of a comet or active astronomical body overlaid with annotated vector field analysis showing radial and tangential velocity/force components.
+
+Overall Image:
+* Green background — the underlying image appears to be a false-color astronomical photograph of a comet or active body.
+* A large black circle is overlaid as an analytical boundary ring.
+* Two types of vector arrows overlaid: RED arrows and BLUE arrows.
+* Labels "S" (left edge, exterior) and "O" (center, with black dot and arrow).
+
+Underlying Astronomical Image:
+* The background is a false-color composite of an astronomical object.
+* Color structure from center outward:
+  - Center/nucleus: bright YELLOW-ORANGE sphere at the geometric center — the nucleus or coma core.
+  - Inner zone: a pinkish-magenta halo or coma surrounding the yellow nucleus.
+  - Outer zone: a large bright GREEN halo extending outward from the pink zone — the extended coma or gas cloud.
+  - Extreme outer background: medium green "noise" or field — background green-filtered image.
+* At lower-left of the frame: a separate small yellow-orange dot (a comparison star or calibration object).
+
+Black Overlay Circle:
+* A large precise black circle overlaid on the image defines a measurement boundary.
+* The circle is centered on the nucleus/coma (labeled "O" at center).
+* This circle appears to be a reference aperture at a specific cometocentric distance.
+
+Red Arrows (Radial Vector Field):
+* Approximately 20-25 red arrowhead symbols arranged around the circumference of the black circle.
+* All red arrows are oriented RADIALLY OUTWARD from center "O" — pointing away from the nucleus.
+* The red arrows are of consistent size.
+* These represent: radial outflow velocity (cometary outgassing/sublimation), solar radiation pressure component, or radial gravitational force direction.
+
+Blue Arrows (Tangential/Oblique Vector Field):
+* Approximately 20-25 blue arrows arranged alternating with the red arrows around the circumference.
+* The blue arrows have a more complex orientation: they appear to point at an OBLIQUE angle (neither purely radial nor purely tangential) — possibly representing a superposition of tangential and radial components.
+* The blue arrows are generally pointing LEFT/UPPER-LEFT direction in the absolute frame, suggesting a preferred direction (e.g., solar wind direction, orbital velocity component, or magnetic field alignment).
+* Some blue arrows appear to have INWARD radial components at certain positions and outward at others.
+
+Labels:
+* "S" — at the left edge, exterior to the black circle. This likely labels the SUN direction — indicating the direction from the comet toward the Sun (left of frame = Sunward direction).
+* "O" — at the center with a black dot and short black arrow. This labels the origin/nucleus position. The arrow may indicate the direction of the comet's velocity vector (motion direction of the comet).
+
+Physics Interpretation:
+* This diagram shows the vector field analysis of a cometary coma at a fixed cometocentric distance:
+  - Red arrows (radial outward): isotropic outgassing pressure or solar radiation pressure pushing material radially outward from the nucleus.
+  - Blue arrows (oblique/tangential): likely representing the SOLAR WIND interaction — the solar wind flows in the S direction (from Sun on left); its interaction with the coma creates asymmetric pressure with a tangential/oblique component.
+  - The combination of radial outgassing (red, symmetric) + directed solar wind (blue, asymmetric) creates the observed asymmetric coma structure (antisunward tail + shorter sunward gas bow shock).
+* Alternatively: this may be an analysis of the mass ejection velocity field of a comet or interstellar object (3I/ATLAS) showing whether the activity is isotropic (natural comet-like) or anisotropic (potentially artificial/directed).
+* The asymmetry of the blue arrows relative to the red may be used to determine: the comet's rotation state, the location of active surface regions, or the magnitude of non-gravitational forces.
+
+RC's Contextual Use:
+* RC includes this diagram in the 3I/ATLAS series — likely analyzing whether 3I/ATLAS shows the expected cometary outgassing pattern of a natural interstellar object or anomalous asymmetric jetting that might indicate artificial propulsion.
+* The red/blue vector field overlay is a technical analysis RC is using to argue either: (1) this is a normal comet with standard solar-wind interaction, or (2) the jetting pattern deviates from natural expectations.
+
+Text Visible: "S" (exterior left), "O" (center with arrow).
+
+Summary: A false-color composite astronomical image of a comet or interstellar object (likely 3I/ATLAS) showing a bright yellow-orange nucleus, a pink-magenta inner coma, and a large green outer coma, all centered at "O" (nucleus). A large black analytical overlay circle defines a cometocentric aperture. Red arrows arranged around the circle all point radially outward (symmetric outgassing or radiation pressure). Blue arrows arranged alternately point in an oblique preferred direction. Label "S" (left, exterior) indicates the Sun direction. RC uses this vector-field analysis to evaluate whether 3I/ATLAS shows natural cometary outgassing or anomalous asymmetric activity consistent with artificial propulsion.

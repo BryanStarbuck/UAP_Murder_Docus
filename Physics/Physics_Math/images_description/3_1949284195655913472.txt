@@ -1,0 +1,39 @@
+CONTENT TYPE: Scientific graph — near-infrared (NIR) spectral reflectance plot of an icy or rocky body, possibly an asteroid or comet nucleus.
+
+SUBJECT: A near-infrared (NIR) spectral reflectance graph showing normalized reflectance vs. wavelength from approximately 0.9 to 4.0 micrometers, with characteristic absorption features highlighted by colored shaded areas.
+
+AXES:
+- X-axis: "Wavelength (μm)" — ranging from approximately 0.9 to 4.0 micrometers (near-infrared to mid-infrared)
+- Y-axis: "Normalized Reflectance" — ranging from approximately 0.6 to 1.05 (normalized to ~1.0 at ~1.0 μm)
+
+SPECTRAL CURVE (black line):
+- The reflectance curve begins at approximately 0.9-1.0 μm with a value near 1.0
+- At ~1.0 μm: a broad absorption feature appears (reflectance drops from ~1.0 to ~0.85), then recovers to ~0.9 around 1.8 μm
+- Several sharp, narrow absorption bands are visible superimposed on the broad features
+- The overall slope of the spectrum decreases significantly toward longer wavelengths, reaching approximately 0.65-0.70 at 4.0 μm — a RED SLOPE from short to long wavelengths... actually the opposite — a DECREASING reflectance with increasing wavelength (blue spectral slope)
+
+COLORED SHADED REGIONS:
+Three highlighted regions are marked with colored triangular/area fills:
+1. GREEN SHADED REGION: At approximately 1.0-1.5 μm — highlights the ~1.0 μm absorption band feature
+2. PINK/RED SHADED REGION: At approximately 1.8-2.5 μm — highlights a broad absorption feature centered near ~2.0 μm
+3. BLUE SHADED REGION: At approximately 2.5-4.0 μm — highlights a broad, deep absorption feature starting near 2.7-3.0 μm and extending to 4.0 μm
+
+GRAY VERTICAL SHADED BANDS: Several vertical gray rectangular bands appear at specific wavelengths — these represent atmospheric absorption/telluric contamination windows where Earth's atmosphere absorbs, making ground-based observations unreliable:
+- Around 1.35-1.45 μm
+- Around 1.8-2.0 μm
+- Around 2.5-2.6 μm
+- Around 3.5-4.0 μm
+
+SPECTRAL INTERPRETATION:
+- The deep broad absorption at ~3.0 μm is characteristic of O-H stretching vibrations — consistent with water ice, hydrated silicates, or organic compounds
+- The ~1.0 μm feature could be olivine or pyroxene absorption
+- The ~2.0 μm feature could be pyroxene or carbonates
+- This spectrum is consistent with a water-ice bearing asteroid (C-type or related), a comet nucleus, or an icy satellite
+
+COLORS: Black spectral curve on white background, green shaded absorption region (short wavelength), pink/red shaded region (mid wavelength), blue shaded region (long wavelength), gray vertical telluric bands.
+
+TEXT: "Normalized Reflectance" (y-axis label), "Wavelength (μm)" (x-axis label). Tick marks and numerical scale values.
+
+CONTEXT: This spectral plot appears to be from a peer-reviewed paper or report on the spectral properties of an asteroid, comet, or icy body — possibly related to 'Oumuamua, 3I/ATLAS, Comet 17P/Holmes, or another object of interest in the UAP/exotic physics research context.
+
+OVERALL SUMMARY: A near-infrared spectral reflectance plot (0.9-4.0 μm) showing the reflectance spectrum of an icy or hydrated rocky body, with three highlighted absorption features (green at ~1.0-1.5 μm, red at ~1.8-2.5 μm, blue at ~2.5-4.0 μm) and several gray vertical bands indicating telluric contamination. The deep ~3.0 μm absorption is characteristic of water ice or hydrated minerals. This appears to be a scientific paper figure related to compositional spectroscopy of a solar system body of interest.

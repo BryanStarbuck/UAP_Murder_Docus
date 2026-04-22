@@ -1,0 +1,285 @@
+# overall_Math.mdx
+# Mathematical Equations, Their Pieces and Relationships
+# Source: tweets/1/9/ — @RedCollie1 (Dr. Horace Drew, Caltech / MRC LMB Cambridge)
+
+---
+
+## Section: 1954454856573591595.yaml and video 13_1954454763732598784_video.mdx
+
+### Gyroscopic Precession — Classical and Magnetic-Modified
+
+Classical precession angular velocity (vector equation):
+
+    dL/dt = τ
+    Ω_p × L = τ
+    Ω_p = τ / |L| (magnitude, direction from cross products)
+
+Full expansion:
+    τ_gravity = r_cm × (m g (-ẑ))
+    L = I ω ω̂  (ω̂ = unit vector along spin axis)
+    Ω_p = |τ_gravity| / (I ω) = (r_cm m g sin θ) / (I ω)
+
+where θ is the angle of the spin axis from vertical.
+
+For a magnetic top in external field B:
+    τ_total = τ_gravity + τ_mag
+            = r_cm × mg(-ẑ) + μ × B
+
+where μ = g_s μ_B S / ℏ (classical analogue: μ = I_loop × A × n̂, magnetic
+moment of the spinning magnetized body).
+
+Reversal condition:
+    τ_total · (Ω_p direction) changes sign
+    ⟺ τ_mag dominates AND has opposite handedness relative to L
+
+Precession reversal (claimed experimental result):
+    sign(Ω_p) changes when τ_mag > τ_gravity and their cross-product orientations
+    with L are antiparallel.
+
+---
+
+## Section: 1964836963682554056.yaml
+
+### Homopolar Generator EMF
+
+Faraday (homopolar) EMF for a conducting disc of outer radius r rotating at angular
+velocity ω in uniform axial magnetic field B_z:
+
+    V_homopolar = ½ ω B_z r²
+
+Derivation: motional EMF for a radial element at radius ρ:
+    dV = (v × B) · dr = (ωρ φ̂ × B_z ẑ) · dρ r̂
+       = ωρ B_z (φ̂ × ẑ) · r̂ = ωρ B_z (-r̂) · r̂ · ... 
+
+Using φ̂ × ẑ = -r̂ in cylindrical coordinates:
+    dV = ωρ B_z dρ
+    V = ∫₀ʳ ωρ B_z dρ = ½ ω B_z r²
+
+Motor torque (when DC current I is fed from center to rim via liquid-metal brushes):
+    T_disc = B_z I r² / 2
+
+Dimensional check: [T/A · A · m²] = [N·m] ✓
+
+---
+
+## Section: 1964836963682554056.yaml — video torque asymmetry
+
+### Newton's Third Law Applied to Homopolar Motor
+
+Force on external current-carrying wire (length dl at position r from axis) in
+field B_z:
+    dF_wire = I (dl × B_z ẑ)
+
+If wire is azimuthal (φ direction): dl = dl φ̂
+    dF_wire = I B_z dl (φ̂ × ẑ) = -I B_z dl r̂
+
+This is a radially inward force on the wire — not a torque in φ. For torque on
+wire, need wire with radial component:
+    dl = dl r̂
+    dF_wire = I B_z dl (r̂ × ẑ) = I B_z dl φ̂ ... produces azimuthal force.
+
+Torque on wire at radius ρ: dτ_wire = ρ × dF_wire = ρ I B_z dl
+
+Newton's Third Law requires: τ_wire = -τ_disc ⟹ B_z I r²/2 (disc) = -τ_wire
+
+If the wires in the homopolar motor are external (outside the magnetic field region
+where the disc resides), then τ_wire ≈ 0 since B ≈ 0 at the wire location. The
+equal-and-opposite torque then resides entirely in the electromagnetic field angular
+momentum stored between disc and magnets — and this field momentum does not
+mechanically push the wires.
+
+This is the mathematical basis for the observed apparent Newton's Third Law
+violation: the reaction torque goes into the electromagnetic field (the Maxwell
+stress tensor stores angular momentum), not into the wire mass.
+
+---
+
+## Section: 2016047023557116108 (referenced tweet)
+
+### Three-Phase Rotating Magnetic Field — Mathematical Structure
+
+Three symmetric phases (balanced system), N pole pairs:
+
+    B(θ, t) = B₀ [cos(ωt - Nθ) r̂ + sin(ωt - Nθ) φ̂]
+
+This is a helical wave in (θ, t) space. The field rotates at:
+    ω_sync = ω / N  (synchronous angular velocity)
+
+For counter-rotation with reversed phase sequence:
+    B_counter(θ, t) = B₀ [cos(-ωt - Nθ) r̂ + sin(-ωt - Nθ) φ̂]
+                    = B₀ [cos(ωt + Nθ) r̂ - sin(ωt + Nθ) φ̂]
+
+Superposition of clockwise and counter-clockwise fields:
+    B_total = B_cw + B_ccw
+    B_x = 2 B₀ cos(ωt) cos(Nθ)
+    B_y = 2 B₀ sin(ωt) cos(Nθ) ... (wait, this is for equal amplitudes, same N)
+
+Actually for equal amplitude N-pole-pair fields rotating in opposite directions:
+    B_total = 2 B₀ cos(Nθ) [cos(ωt) x̂ + sin(ωt) ŷ]
+           ... this does NOT cancel — it produces a linearly polarized field whose
+    amplitude has spatial dependence 2B₀ cos(Nθ) and whose direction rotates at ω.
+
+The spatial nodes (where cos(Nθ) = 0) are at θ = π/(2N), 3π/(2N), ... — these
+are N equally spaced angular locations where B_total = 0. Between nodes the field
+is non-zero and rotating. The force on a conducting rotor placed in this field
+has a spatial dependence that concentrates torque at the antinodes (cos(Nθ) = ±1)
+and creates no torque at nodes. This asymmetric torque map in the azimuthal direction
+is qualitatively different from a single rotating field.
+
+---
+
+## Section: page_009.json — tweet 2011912305676861948 (note_tweet)
+
+### Lorentz Force — Z-Axis Component Calculation
+
+Carrier velocity in rotating disc:
+    v_carrier = v_r r̂ + ω_disc ρ φ̂
+
+Applied field with rotating transverse component:
+    B = B_z ẑ + B_⊥ cos(Ωt) x̂ + B_⊥ sin(Ωt) ŷ
+
+In cylindrical coordinates:
+    B = B_z ẑ + B_⊥ [cos(Ωt - φ) r̂ - sin(Ωt - φ) φ̂]
+
+Lorentz force on charge q with velocity v_carrier:
+    F = q (v_carrier × B)
+      = q [(v_r r̂ + ωρ φ̂) × (B_z ẑ + B_⊥r r̂ + B_⊥φ φ̂)]
+
+Expanding using cylindrical cross-product table:
+    r̂ × ẑ = -φ̂
+    φ̂ × ẑ = r̂
+    r̂ × r̂ = 0
+    r̂ × φ̂ = ẑ
+    φ̂ × r̂ = -ẑ
+    φ̂ × φ̂ = 0
+    ẑ × r̂ = φ̂
+    ẑ × φ̂ = -r̂
+
+Therefore:
+    F = q [v_r B_z (r̂ × ẑ) + v_r B_⊥φ (r̂ × φ̂) + ωρ B_z (φ̂ × ẑ) + ωρ B_⊥r (φ̂ × r̂)]
+      = q [-v_r B_z φ̂ + v_r B_⊥φ ẑ + ωρ B_z r̂ + ωρ B_⊥r (-ẑ)]
+      = q [ωρ B_z r̂ - v_r B_z φ̂ + (v_r B_⊥φ - ωρ B_⊥r) ẑ]
+
+Z-component of Lorentz force:
+    F_z = q (v_r B_⊥φ - ωρ B_⊥r)
+
+Where:
+    B_⊥r = B_⊥ cos(Ωt - φ)
+    B_⊥φ = -B_⊥ sin(Ωt - φ)
+
+Therefore:
+    F_z = q [-v_r B_⊥ sin(Ωt - φ) - ωρ B_⊥ cos(Ωt - φ)]
+        = -q B_⊥ [v_r sin(Ωt - φ) + ωρ cos(Ωt - φ)]
+
+This oscillates at the 3-phase drive frequency Ω. The time-averaged F_z = 0 for
+arbitrary phase (Ωt - φ). For non-zero time-averaged F_z, a phase-locking condition
+is required: the disc must spin at ω_disc such that the carrier's azimuthal position
+φ = ω_disc t + φ₀ tracks the rotating B field. When ω_disc = Ω (synchronous
+condition), Ωt - φ = Ωt - Ω t - φ₀ = -φ₀ = constant, and:
+    F_z(synchronous) = -q B_⊥ [v_r sin(-φ₀) + ωρ cos(-φ₀)] = constant ≠ 0
+
+This is the mathematical condition for a sustained Z-axis force: the disc must spin
+synchronously with the 3-phase rotating field (ω_disc = Ω). At synchronous speed,
+the Z-force becomes a DC (constant) value rather than AC (oscillating). The sign
+and magnitude of F_z depend on the phase offset φ₀ and can be tuned by adjusting
+the relative phase of the DC spin drive and the 3-phase field.
+
+---
+
+## Section: page_009.json — tweet 2011559461660553555 (note_tweet)
+
+### Compact Nuclear Fusion — Energy Equation
+
+E = MC² embedded in crop picture (2010, decimal ASCII encoding).
+
+Fusion collision energy enhancement:
+- Input: 40-50 kV DC radial electric field → ion kinetic energy: KE = q × V = 40-50 keV
+- After AC Lorentz modification (50-60 Hz): effective collision energy 80-100 keV
+
+Enhancement factor: ~2×
+Mechanism: two Lorentz forces alternating at mains frequency focus ions into head-on
+paths with doubled collision energy. The AC magnetic field at frequency Ω_AC acts on
+ions already possessing toroidal velocity from the DC stage:
+
+    F_AC_Lorentz = q v_toroidal × B_AC(t)
+
+Half-cycle 1: inward radial force component — focusing
+Half-cycle 2: outward radial force component — defocusing... but now the inward-
+focused ions meet head-on, effectively increasing cm energy.
+
+The physics is analogous to a linear accelerator where alternating fields
+synchronize with particle bunches to provide staged acceleration. Here the
+"acceleration" is lateral focusing that converts orbital kinetic energy into
+head-on collision energy.
+
+---
+
+## Section: 2029030819709501647.yaml and video 13_2029029446406291461_video.mdx
+
+### 16-Magnet NNSS Ring — Pole-Pair Mathematics
+
+16 magnets arranged NNSS-NNSS-... around a ring.
+Each NNSS group = 4 magnets.
+16 / 4 = 4 groups = 4-fold azimuthal symmetry.
+
+Within each NNSS quadrant:
+- NN pair: two north poles adjacent → strong repulsion zone, net B radially outward
+- SS pair: two south poles adjacent → strong repulsion zone, net B radially inward
+
+The 16-magnet NNSS ring has an effective pole-pair count of N_ring = 8 (each NN
+acts as one effective N-pole, each SS as one S-pole, giving 8 effective pole
+transitions around 360°).
+
+The 6-coil 3-phase winding has a spatial harmonic content. For 6 coils arranged
+symmetrically at 60° intervals driven as two groups of 3-phase (U, V, W, U', V',
+W' in series), the fundamental pole pair number is N_stator = 3 (for standard 3-
+phase 6-coil winding) or N_stator = 1 (for alternate winding).
+
+The synchronous interaction between the rotating field (pole pair number N_s) and
+the magnet ring (effective pole pair number N_r = 8) requires:
+    ω_ring = (N_s / N_r) × Ω_supply
+
+For N_s = 3, N_r = 8: ω_ring = (3/8) × Ω_supply
+
+For N_s = 1, N_r = 8: ω_ring = (1/8) × Ω_supply
+
+The beat frequency between field and ring rotation (at non-synchronous speeds) is:
+    f_beat = |N_s × f_supply - N_r × f_ring| / (2π)
+
+At f_beat = 0 (synchronous lock), the torque is purely DC and maximum. At non-zero
+f_beat, torque oscillates and averages to a lower value, potentially zero for
+induction machines.
+
+---
+
+## Section: 1961971033248026785.yaml
+
+### Oberth Maneuver — Energy Mathematics
+
+Vis-viva equation for orbit:
+    v² = GM(2/r - 1/a)
+
+where v = orbital speed at radius r, GM = gravitational parameter, a = semi-major
+axis.
+
+At perihelion r = r_p (minimum), v is maximum. A burn of Δv at perihelion:
+    ΔKE = ½m(v + Δv)² - ½mv² = mv Δv + ½m(Δv)²
+
+At perihelion v is large, so mv Δv dominates. This is the Oberth effect: the same
+Δv produces more kinetic energy gain at higher background speed.
+
+For a hyperbolic trajectory (interstellar object 3I/ATLAS):
+    v² = (v_∞)² + 2GM/r
+
+where v_∞ is the hyperbolic excess velocity at infinity (measured velocity of
+3I/ATLAS far from the Sun). The perihelion occurs at r_p where all excess energy is
+kinetic.
+
+A propulsive burn at perihelion would change v_∞ by:
+    Δ(v_∞²) = 2v_p Δv + (Δv)²
+
+where v_p = perihelion speed. This is directly observable as a change in the
+hyperbolic orbit's asymptotic direction after perihelion passage — the strongest
+test of artificial propulsion for an interstellar object.
+
+---

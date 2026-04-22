@@ -1,0 +1,63 @@
+TYPE: Technical physics diagram — Faraday disc / homopolar generator schematic with magnetic field, velocity, and EMF annotations (colored version)
+
+CONTENT:
+- White background with red × field symbols and green velocity arrows
+- A colored, annotated schematic of a rotating disc generator in a magnetic field
+
+DIAGRAM ELEMENTS:
+
+MAGNETIC FIELD (B):
+- Red × symbols arranged in a regular grid pattern filling the background (outside the disc)
+- Label "B" in red italic at upper-left
+- × symbols represent a magnetic field directed INTO the page (B = -B_z ẑ, into the page)
+- The field is uniform and homogeneous in the region shown
+
+ROTATING DISC:
+- A large blue circle represents the outer rim of the rotating disc
+- The circle is the outer conductor/brush contact ring
+- A small blue + symbol at the center represents the inner terminal / axle contact
+- A small black rectangle at the top of the blue ring represents a negative terminal (−)
+
+RADIAL WIRE SLICES (spoke elements):
+- Multiple gray/dark gray straight lines (spokes) radiate from center to rim
+- Approximately 12-15 spokes visible, evenly distributed angularly
+- These represent the conducting "wire slices" or radial conductor elements of the disc
+- Label: "wire slice cutting the magnetic flux" with a line arrow pointing to one of the spokes
+
+VELOCITY ARROWS (v):
+- Green arrows at the base/inner end of each spoke, pointing tangentially (circumferentially)
+- The green arrows at the outer end of each spoke point radially outward (toward the rim)
+- Label "v" in green near the center (showing the tangential velocity of the disc surface)
+- The combination of directions shows: at the rim, v is tangential; at intermediate radii, the Lorentz force F = qv × B is radially outward
+
+ROTATION INDICATOR:
+- A curved black arrow at the bottom of the disc (outside) showing clockwise rotation direction
+
+PHYSICS DESCRIPTION:
+This is a Faraday disc (homopolar generator) in plan view:
+- The disc rotates with angular velocity ω (clockwise as shown)
+- At each point on the disc, velocity v = ω × r (tangential, circumferential)
+- Magnetic field B is axial (into page)
+- Lorentz force on positive charge carriers: F = qv × B = q(ωr θ̂) × (-Bẑ) = qωrB r̂ (radially outward)
+- This creates an EMF from center to rim: ε = ∫₀ᴿ (ωrB) dr = ½ωBR²
+- Current flows radially outward through the disc and returns via the external circuit
+- The "wire slice" concept divides the disc into radial spoke elements, each cutting magnetic flux lines as the disc rotates
+
+The EMF generated per revolution is: ε = ½ωBR² = πnBR² (where n = rotations per second)
+
+COLORS:
+- Background: white
+- Magnetic field symbols (×): red
+- Magnetic field label (B): red italic
+- Disc rim: blue
+- Center terminal (+): blue
+- Velocity arrows (v): green
+- Velocity label: green
+- Spokes: gray
+- Rotation arrow: black
+- Label text: black
+
+IMAGE DIMENSIONS: Approximately 960 x 820 pixels, landscape
+
+CONTEXT:
+This colored diagram pairs with the monochrome Corbino/Faraday disc schematics in companion images (3_2004779291746435072.txt, 3_2004779613759954944.txt, 3_2007946448701394944.txt). The explicit labeling of "wire slice cutting the magnetic flux" is a pedagogical framing — each spoke element of the rotating disc cuts through magnetic flux lines, generating an EMF by Faraday's law: ε = -dΦ/dt. This is the fundamental mechanism of the Faraday disc, which is the simplest homopolar generator and generates DC voltage without commutation.

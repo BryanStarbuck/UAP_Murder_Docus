@@ -1,0 +1,75 @@
+IMAGE TYPE: Mathematical physics diagram — Kruskal-Szekeres spacetime diagram annotated with two-circle (vesica piscis) crop circle overlay
+
+CONTENT SUMMARY:
+A black-and-white diagram approximately 800 x 700 pixels (landscape), with a prominent green annotation element. This is the annotated version of the Kruskal-Szekeres spacetime diagram used in the companion composite research slide (3_1924990346553073664.txt), here showing the explicit geometric mapping between the crop circle formation and the spacetime diagram.
+
+COORDINATE SYSTEM:
+- Standard Kruskal-Szekeres orientation
+- Horizontal axis: Kruskal spatial coordinate X
+- Vertical axis: Kruskal temporal coordinate T
+- Central bifurcation point (black filled dot) at origin
+
+STRUCTURAL ELEMENTS OF THE KRUSKAL DIAGRAM:
+
+CENTRAL BIFURCATION POINT:
+- Black filled circle approximately 12-15px diameter at origin
+- All radiating null geodesics emanate from this point
+
+EVENT HORIZONS:
+- Two thick bold diagonal lines at +45° and -45° through the origin
+- Labeled "H+" (future event horizon / upper-right diagonal) and "H-" (past event horizon / lower-right diagonal)
+- These are the most visually prominent lines in the diagram
+
+SPACETIME REGIONS (labeled):
+- "I" — right exterior region (r > 2M), labeled at right-center
+- "II" — future interior (black hole, upper), labeled above center
+- "IV" — past interior (white hole, lower), labeled below center
+- Region III (left exterior, parallel universe) is not explicitly labeled but is the left quadrant
+
+SINGULARITIES:
+- Upper zigzag/sawtooth line spanning full width at top of diagram — future singularity (r = 0)
+- Lower zigzag/sawtooth line spanning full width at bottom — past singularity (r = 0)
+
+NULL GEODESICS:
+- Dense family of straight lines radiating from the central point in all directions — these are null geodesics (light rays)
+- Approximately 20-30 lines visible in each quadrant
+
+DASHED HYPERBOLAS:
+- Multiple dashed hyperbolic curves in all four quadrants
+- These represent surfaces of constant Schwarzschild radius r (in exterior) or constant Schwarzschild time t
+
+ANNOTATION CREDIT:
+- Small text "RC" at bottom-center — likely the researcher's initials who created this annotated version
+
+ANNOTATION ELEMENTS (GREEN):
+
+GREEN VESICA PISCIS OVERLAY:
+- In the left half of the diagram (Region III / left exterior), a green geometric shape is drawn
+- The shape consists of: a large filled green circle (~150px diameter) overlapping with a smaller unfilled (outline only) circle or crescent to its left
+- Together, the two circles create a vesica piscis / lens-shaped overlap region
+- The filled green circle is positioned with its center at approximately the left exterior region
+- The outline circle overlaps on the left side, creating the lens shape at the overlap zone
+
+GREEN RIGHTWARD ARROW:
+- A large green filled arrow (pointing right / eastward) extends from the right edge of the green vesica piscis shape
+- The arrow points directly toward the central bifurcation point (black dot at origin)
+- The arrow tip terminates at or near the central point
+- Arrow is approximately 120-140px long, with a standard arrowhead
+
+INTERPRETATION OF THE ANNOTATION:
+The green vesica piscis overlay represents the TWO-CIRCLE CROP FORMATION at Culliford Tree Barrow (see 3_1924618019621502978.txt). The annotation explicitly maps:
+- The two overlapping circles of the crop formation → the two exterior regions (I and III) of the Kruskal diagram, connected through the Einstein-Rosen bridge (wormhole throat) at the central point
+- The lens-shaped vesica piscis overlap zone in the crop formation → the Einstein-Rosen bridge / wormhole throat
+- The rightward green arrow → the direction of travel: from Region III (parallel exterior) through the wormhole to Region I (our exterior)
+
+The annotation argues that the crop formation at Culliford Tree Barrow geometrically encodes the topology of spacetime wormhole transit: entering from one exterior region (III), traversing the wormhole throat (central point / bifurcation surface), and emerging into our exterior region (I).
+
+MATHEMATICAL CONTENT:
+In Kruskal-Szekeres coordinates (T, X) for Schwarzschild metric ds² = -(1-2M/r)dt² + (1-2M/r)⁻¹dr² + r²dΩ²:
+- The bifurcation surface at T=0, X=0 corresponds to r=2M (event horizon radius)
+- The maximal Cauchy development shows that Region III is a causally disconnected spacetime region — no signal from Region III can reach Region I
+- A traversable wormhole connecting Region I and III would require modification of the stress-energy tensor to include exotic matter: T_μν k^μ k^ν < 0 for null k^μ, violating the weak energy condition
+- The Morris-Thorne traversable wormhole metric: ds² = -e^(2Φ(l))dt² + dl² + r²(l)(dθ² + sin²θ dφ²), where r(l) has a minimum at the throat (dr/dl=0, d²r/dl²>0)
+
+PHYSICS/UAP RELEVANCE:
+This is the annotated version of the Kruskal diagram used in the wormhole thesis research series. The explicit vesica piscis overlay directly connects the crop circle formation geometry to the spacetime wormhole topology. This image appears to be original research visualization work by the researcher ("RC"), demonstrating the geometric correspondence between the Culliford Tree Barrow May 18, 2025 formation and the Kruskal-Szekeres maximally extended Schwarzschild geometry.

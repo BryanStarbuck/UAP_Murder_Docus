@@ -1,0 +1,71 @@
+TYPE: Composite diagram — title text above two 19th-century engraving-style physics diagrams (spiral electron flow in homopolar motor)
+
+OVERALL DESCRIPTION:
+A white-background composite presenting a bold text title at the top followed by two side-by-side classical physics diagrams (engraving style). The left diagram is the same complex spiral/epicyclic trajectory diagram from 3_1964659300158345216.jpg; the right diagram is the simpler coil diagram from 3_1964659271616102401.jpg. Together with the title, this composite explicitly identifies what the two companion diagrams show: the spiral electron trajectories inside a homopolar motor (left) contrasted with the static coil geometry (right).
+
+IMAGE DIMENSIONS: Approximately 940 x 640 pixels (landscape)
+BACKGROUND: White (#FFFFFF)
+
+TITLE TEXT (verbatim):
+"Huge spiral flow of electrons
+inside of a homopolar motor"
+
+TEXT DETAILS:
+- Font: Bold black sans-serif (appears to be Arial Bold or similar), large size (~32-36pt)
+- Two lines of text at top-center
+- "Huge spiral flow of electrons" — line 1
+- "inside of a homopolar motor" — line 2
+
+LEFT DIAGRAM — Spiral Electron Flow (complex):
+- This is the same diagram as 3_1964659300158345216.jpg
+- Diameter: Approximately 380 pixels
+- Elements:
+  * Large outer ring/solenoid (S) — thick black ring with hatching on upper portion (~380px diameter)
+  * Intermediate dashed circle (d, d') — ~280px diameter
+  * Multiple overlapping spiral/epicyclic curves converging toward center — these are the "huge spiral flow of electrons"
+  * Small inner oval (C) — the center point where electrons converge
+  * Label B (diagonal line/conductor inside)
+  * Label B' (external lead exiting upper-right)
+  * Label D with arrow (lower-right lead)
+- The spiral curves inside the dashed circle represent electron trajectories in a magnetic field — electrons entering the conducting disc from the brush (B) and spiraling inward (or outward) to the center, creating the characteristic homopolar current path
+- The spirals are NOT simple circular orbits but epicyclic curves, indicating the electrons follow cycloid-like paths due to the combination of radial velocity (from the EMF driving them) and azimuthal velocity (from the Lorentz force deflecting them)
+
+RIGHT DIAGRAM — Simple Coil with Ring (simple):
+- This is the same diagram as 3_1964659271616102401.jpg
+- Diameter: Approximately 280 pixels
+- Elements:
+  * Large outer ring (multi-line, thick) — ~280px diameter
+  * Small inner circle (~90px diameter) with central dot
+  * Label B (diagonal line to inner circle)
+  * Label B' (diagonal line extending from ring to upper-right)
+- This is the static geometry — showing the coil (outer ring) and the secondary probe/brush contact (inner circle) without the dynamic electron trajectories
+- The simplicity of this diagram represents the device geometry before current flows
+
+SPATIAL ARRANGEMENT:
+- Left diagram: Approximately x=80 to 440, y=160 to 600 (offset left of center)
+- Right diagram: Approximately x=520 to 800, y=200 to 530 (right of center)
+- Gap between diagrams: approximately 80 pixels
+- Both diagrams are on the same white background, no box borders
+
+RELATIONSHIP BETWEEN DIAGRAMS:
+- LEFT = Dynamic state: what happens when the homopolar motor runs — the huge spiral electron flow
+- RIGHT = Static state: the device geometry (coil + brush) without current
+- Together they represent the device before and during operation
+
+LABELS VISIBLE (verbatim as readable in engravings):
+Left diagram: B (or B/), B', C, D (with arrow), S, d, d' (partially visible, small text)
+Right diagram: B, B' (smaller text)
+
+COLORS:
+- Background: White (#FFFFFF)
+- All diagram elements: Black (#000000)
+- Text: Black (#000000)
+
+PHYSICS/SCIENCE RELEVANCE:
+1. The title explicitly states the physics interpretation: electrons in a homopolar motor do NOT flow in straight radial lines — they follow large spiral cycloid paths. This is because the Lorentz force (F = qv × B) continuously deflects the radially-moving electrons in the azimuthal direction, while the electric field continues to accelerate them radially. The combined effect is a cycloid (straight-line drift superimposed on circular orbital motion).
+2. The "huge" spiral is quantitatively significant: in a homopolar motor with strong magnetic field and large current, the cyclotron radius of the electrons can be comparable to the disc radius, making the spiral paths macroscopically large. This is distinct from conventional conductors where electron drift is negligibly small compared to the conductor dimensions.
+3. This macroscopic spiral electron flow generates a secondary azimuthal magnetic field (from the helical current path) in addition to the primary axial field (B). This secondary field creates a toroidal magnetic field component — exactly the configuration associated with UAP propulsion models involving combined axial + toroidal field geometries (the "Woodward-Mach effect" and related proposals).
+4. The connection to crop circles: the spiral patterns seen in many crop formations (triskelion, Fibonacci spirals, pinwheel patterns) may encode this spiral electron flow — the crop circle is literally drawn as the electron would flow inside the device.
+5. This is one of the most physically precise claims in the homopolar generator/UAP propulsion thesis: identifying the specific kinematic detail (cycloid electron paths) that distinguishes a homopolar motor from a conventional motor, and connecting it to the observed geometry of crop formations.
+
+SUMMARY: White-background composite with bold black title at top: "Huge spiral flow of electrons / inside of a homopolar motor." Two 19th-century engraving-style physics diagrams below. Left (larger, ~380px): the complex diagram from 3_1964659300158345216.jpg — outer solenoid ring (S), dashed intermediate circle (d/d'), multiple overlapping epicyclic spiral curves converging on central oval (C), with labels B, B', D. Explicitly showing the cycloidal electron trajectories inside the running homopolar motor. Right (smaller, ~280px): the simple diagram from 3_1964659271616102401.jpg — outer ring, inner small circle, labels B, B'. Showing static coil geometry. Together: dynamic spiral electron flow (left) versus static device geometry (right) of a homopolar electromagnetic motor relevant to UAP propulsion hypotheses.

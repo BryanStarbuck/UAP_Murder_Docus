@@ -1,0 +1,46 @@
+TYPE: Scientific visualization — astrophysical jet / relativistic plasma beam with helical magnetic field structure and accretion disc
+
+CONTENT:
+- Deep navy/indigo background
+- Two main visual elements: (LEFT) a geometric diagram with angle annotation, and (RIGHT) a 3D rendered astrophysical jet emerging from an accretion disc
+
+LEFT DIAGRAM — Geometric Angle Schematic:
+- A red horizontal disc/plane (representing the accretion disc equatorial plane)
+- A vertical yellow arrow pointing straight up from the center (representing the rotation axis / angular momentum vector J)
+- A yellow horizontal axis line through the center of the red disc
+- A blue diagonal arrow pointing upward and to the right at an angle less than 60° from vertical
+- The angle between the blue arrow and the vertical yellow axis is labeled: "<60°"
+- A magenta/pink curved arc indicating the angle between the vertical axis and the blue arrow
+- A small yellow circular ring near the top of the vertical arrow (possibly representing angular momentum precession or a gyroscope symbol)
+- This diagram shows the jet launch angle relative to the accretion disc normal: the jet must emerge within 60° of the rotation axis
+
+RIGHT VISUALIZATION — Astrophysical Jet and Accretion Disc:
+- A glowing accretion disc at the bottom-right: orange/amber/yellow disc with a bright central region and a dark point at the very center (the compact object — black hole, neutron star, or magnetar)
+- The accretion disc glows with a warm orange-yellow thermal emission gradient (hottest/brightest at center, cooler/dimmer at edges)
+- Emerging from the center of the disc: a vertical (or near-vertical) jet extending upward
+- The jet is cylindrical/conical with a helical blue-white structure
+- The helical pattern consists of bright white diagonal bands spiraling around a blue core — representing helically wound magnetic field lines carrying plasma along the jet
+- The jet extends off the top of the image (implying it continues far beyond the shown region)
+- The jet has a slight taper (narrowing toward the bottom, widening toward the top) consistent with a collimated but slightly diverging flow
+
+PHYSICS CONTEXT:
+The image depicts a relativistic astrophysical jet from a compact object — specifically:
+1. MAGNETICALLY DOMINATED JET FORMATION: Magnetic field lines anchored in the accretion disc or ergosphere get wound by differential rotation, creating a helical magnetic structure (B_z + B_φ configuration). The helical white bands represent this wound B-field.
+2. JET LAUNCHING ANGLE CRITERION: The "<60°" annotation refers to the Blandford-Payne (1982) criterion — in magnetically driven disc winds, field lines inclined more than 60° from the disc normal centrifugally drive plasma outward. Lines at <60° from the axis confine and collimate the jet.
+3. BLANDFORD-ZNAJEK MECHANISM: Energy extracted from a rotating black hole (Kerr metric) via the ergospheric magnetic field drives the jet. The angular momentum of the Kerr black hole aligns with the jet.
+4. UAP PROPULSION ANALOGY: In classified UAP physics research, analogous jet/beam configurations powered by rotating electromagnetic fields have been proposed as propulsion mechanisms — with the helical B-field providing both confinement and thrust via the ponderomotive force.
+
+KEY PARAMETERS VISIBLE:
+- Jet inclination: <60° from rotation axis (consistent with magnetically driven outflow)
+- Helical pitch angle: approximately 30-45° from jet axis (visible in the spiral bands)
+- Accretion disc: thermally glowing, peak emission at center
+
+COLORS:
+- Background: deep navy/indigo
+- Accretion disc: orange-yellow-amber (thermal gradient)
+- Compact object center: dark point/dot
+- Jet core: bright blue-white with diagonal white helical bands
+- Angle diagram: yellow axis/arrows, blue diagonal arrow, red disc, magenta arc
+- Jet surroundings: intermediate blue (magnetic field halo)
+
+IMAGE DIMENSIONS: Approximately 560 x 720 pixels, portrait orientation

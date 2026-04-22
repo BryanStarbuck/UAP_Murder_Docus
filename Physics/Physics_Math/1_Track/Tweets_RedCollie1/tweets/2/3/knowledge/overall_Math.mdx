@@ -1,0 +1,279 @@
+# overall_Math.mdx
+## Mathematical Equations, Terms, and Relationships
+### Source batch: tweets/2/3/
+
+---
+
+## Section: 1947293588943262133.yaml + note_tweet
+### Primary Levitation Equation
+
+**Equation (received in dream, claimed as "future textbook" physics):**
+
+```
+w = h / a
+```
+
+**Variable definitions:**
+| Symbol | Physical quantity | Units |
+|--------|------------------|-------|
+| w | Angular velocity of the spinning system | rad/s |
+| h | Height (altitude, Z-axis displacement) achieved by the craft | m |
+| a | Precessional area — the area enclosed by the precession cone's base circle | m² |
+
+**Boundary conditions explicitly stated:**
+- Spinning magnet on a pole: `r = 0` (precession radius = 0)
+- Spinning gyroscope on a pole: `r = 0` (precession radius = 0)
+
+Here `r` is the precession radius (radius of the circle traced by the top of the precessing axis). When `r = 0`, precession has collapsed to purely axial spin, which corresponds to maximum `w` and maximum `h` for a given value of `w × a = h × 1` (the equation rearranges to `h = w × a`, so for fixed `w`, `h` decreases as `a` increases).
+
+**Rearranged forms:**
+
+```
+h = w × a       (height is proportional to w × a)
+a = h / w       (precessional area is proportional to h/w)
+w × a = h       (product of angular velocity and precessional area equals height)
+```
+
+**Limiting behavior:**
+- As `a → 0`: `w → ∞` for fixed `h`, OR `h → ∞` for fixed `w` — the craft rises indefinitely as precession collapses
+- As `a → ∞` (flat spin, h = 0): `w × a = 0 = h` — no altitude
+- As `w → 0` (no spin): `h = 0` — no altitude
+
+**The engineering problem stated in note_tweet:**
+Build a device where `a` (precessional area) and `r` (precession radius) decrease while `w` (angular velocity) and `h` (height) increase simultaneously. This is a dynamical stability and control problem: what feedback mechanism causes precession to self-collapse as spin rate rises?
+
+**Precessional area `a` for a simple conical precession:**
+For a precessing top with precession radius `r` (radius of the precession cone base):
+```
+a = π r²
+```
+Therefore the equation becomes:
+```
+w = h / (π r²)
+or equivalently:
+h = w π r²
+```
+As `r → 0`, `h → 0` for fixed `w`. But Drew's intent appears to be that `w` increases faster than `r²` decreases, so `h` rises overall. The exact functional form of `w(r)` that satisfies this is not given.
+
+---
+
+## Section: 1930122910464913726.yaml
+### Angular Momentum Coupling to Vertical Force
+
+**Formal observation:**
+Let `L` = angular momentum of the spin system (vector, directed along spin axis)
+Let `dL/dt` = rate of angular momentum addition (from the drive mechanism)
+
+For pure conservation of spin angular momentum:
+```
+dL_total/dt = 0   ⟹   no downward counter-spin at equilibrium
+```
+
+**Observed behavior:**
+```
+dL/dt ≠ 0   (forward spin momentum continuously added)
+⟹   Newton 3rd Law: reaction spin directed downward
+⟹   Downward counter-spin ≠ 0
+```
+
+**Coupling claim:**
+The upward levitation force `F_z` is coupled to `dL/dt`:
+```
+F_z ∝ dL/dt    (hypothesized proportionality)
+```
+
+or more precisely:
+```
+F_z = k · |dL/dt|    for some coupling constant k
+```
+
+The physical mechanism for this coupling is not specified in these tweets; it is the key unknown of Drew's theoretical program.
+
+**Contrast with standard gyroscopic precession:**
+Standard precession torque: `τ = dL/dt = Ω × L`
+where `Ω` is the precession angular velocity.
+Standard precession produces a horizontal force (it redirects L) but no net vertical force in a gravitational field. Drew's claim is that the coupling to vertical force requires the active addition of spin momentum — not just redirection.
+
+---
+
+## Section: 1964875578043203907.yaml
+### Homopolar Motor Lorentz Force Analysis
+
+**Classical homopolar motor (Faraday disc):**
+The Lorentz force on a charge carrier in the disc:
+```
+F = q (v × B)
+```
+where:
+- `q` = charge of carrier
+- `v` = velocity of carrier (combination of drift velocity from current + tangential velocity from disc rotation)
+- `B` = applied axial magnetic field
+
+For standard operation (flat disc, radial current, axial B):
+```
+v_carrier = v_drift (radial) + v_tangential (from disc rotation)
+F = q [(v_r + v_θ) × B_z]
+  = q [v_r × B_z + v_θ × B_z]
+  = q [v_r B_z θ̂ - v_θ B_z r̂]  (in cylindrical coordinates)
+```
+The `θ̂` component drives rotation (tangential force = motor action).
+The `-r̂` component is the back-reaction.
+
+**Anomaly claim:** There is a forward (tangential) reaction force without any observable backward counter-reaction. In standard theory the `-r̂` term should produce a counter-reaction. Drew's experimental claim is that this counter-reaction is absent or suppressed.
+
+**Helical modification (proposed):**
+If the current path is helical (has a `ẑ` component):
+```
+v_carrier = v_drift(radial) + v_θ(tangential) + v_z(axial, from helical path)
+F_z = q (v_r × B_z)_z term ≠ 0
+```
+A non-zero `F_z` implies upward force, producing anti-gravity thrust.
+
+---
+
+## Section: 2041257100379300097.yaml
+### Non-Newtonian Lenz Force with Spin
+
+**Standard Lenz levitation force:**
+For a conducting disc of conductivity σ, thickness t, area A, above an AC coil producing field `B = B_0 sin(ωt)`:
+
+Induced EMF:
+```
+ε = -dΦ/dt = -A · dB/dt = -A B_0 ω cos(ωt)
+```
+
+Induced eddy current density:
+```
+J_eddy = σ E_induced    (Ohm's law in conductor)
+```
+
+Levitation force (Lenz):
+```
+F_Lenz = (m_induced · ∇B)
+```
+where `m_induced` is the magnetic moment of the induced current loop.
+
+For a simple coil geometry this evaluates to a repulsive force proportional to `σ ω B_0² A²`.
+
+**Additional force term from spinning disc:**
+When the disc spins at angular velocity `Ω_disc` about its axis, each charge carrier has:
+```
+v_total = v_eddy + v_spin = v_eddy + Ω_disc × r
+```
+
+The Lorentz force on carriers is now:
+```
+F_carrier = q (v_eddy + Ω_disc × r) × B
+```
+
+The cross term `q (Ω_disc × r) × B` introduces an additional force not present in classical Lenz theory. This term creates a force with components:
+```
+F_cross = q (Ω_disc × r) × B
+```
+In cylindrical coordinates with `Ω_disc = Ω ẑ` and `B = B_z ẑ + B_r r̂`:
+```
+F_cross = q Ω r (ẑ × r̂) × (B_z ẑ + B_r r̂)
+        = q Ω r θ̂ × (B_z ẑ + B_r r̂)
+        = q Ω r [B_z (θ̂ × ẑ) + B_r (θ̂ × r̂)]
+        = q Ω r [B_z (-r̂) + B_r ẑ]
+```
+The `B_r ẑ` term is a vertical (Z-axis) force proportional to `Ω_disc × B_r` — a new upward force component arising from the disc spin in a magnetic field with radial gradient.
+
+This is Drew's "non-Newtonian" force from AC Lenz levitation with a spinning disc. It is actually derivable from Maxwell's equations and the Lorentz force in this framework, but it is not present in the simplified non-spinning Lenz analysis, hence "not in textbooks" in the sense that standard Lenz levitation treatment ignores disc spin.
+
+---
+
+## Section: 2019230497537483122.yaml
+### Coil-to-Magnet Scaling Rule
+
+**Empirical rule (from crop pictures and lab observation):**
+```
+N_coils / 3 × 4 = N_magnets
+```
+or equivalently:
+```
+N_magnets = (4/3) × N_coils
+```
+
+**Examples:**
+- `N_coils = 6`: `N_magnets = 8` ✓ (lab-verified)
+- `N_coils = 9`: `N_magnets = 12` ✓ (observed by Norman Paulson on a UAP)
+
+This is the pole-pair relationship for a 3-phase induction-motor topology: for a 3-phase machine with `p` pole pairs, the number of stator slots (coil positions) is typically `3 × 2p` and the number of rotor poles is `2p`. Here the specific ratio of 4/3 between magnets and coils defines the particular winding topology Drew uses.
+
+**Formal motor terminology:**
+- 6 coils in U-V-W-U-V-W series = 2 poles per phase × 3 phases = 6-slot stator
+- 8 magnets = 4 pole pairs on rotor
+- Slip: the rotor (magnets) runs opposite to field rotation direction (claimed; "contrary to textbook" means the rotor counter-rotates rather than following the field)
+
+In standard induction motor theory, the rotor follows the rotating field direction with slip < synchronous speed. Counter-rotation would imply the magnets are acting as a generator being driven by the field against its preferred rotation — or that the permanent magnet arrangement creates a phase relationship that enforces counter-rotation as the stable equilibrium.
+
+---
+
+## Section: page_013.json — id 1998225405799723471 (Corbino disc parameters)
+### Corbino Disc Current and Force Parameters
+
+**Operating parameters (experimental):**
+- Current: ~100 A DC
+- Conductor: liquid-metal galinstan (GaInSn eutectic, melting point ~-19°C)
+- Geometry: flat disc with radial current flow and axial B field
+
+**Body force calculation:**
+For current density `J = I / (2π r t)` in a disc of radius R and thickness t (in cylindrical coordinates, r from center):
+
+```
+f(r) = J(r) × B_z = [I / (2π r t)] × B_z    (N/m³, azimuthal direction)
+```
+
+Total azimuthal force on disc:
+```
+F_θ = ∫₀ᴿ f(r) × 2π r t dr = ∫₀ᴿ [I / (2π r t)] × B_z × 2π r t dr = I × B_z × R
+```
+
+Torque:
+```
+τ = ∫₀ᴿ f(r) × r × 2π r t dr = I B_z R² / 2    (N·m)
+```
+
+At 100 A and modest B (e.g., 0.1 T) with R = 0.1 m:
+```
+τ = 100 × 0.1 × (0.1)² / 2 = 0.005 N·m
+```
+
+This is modest but sufficient to spin liquid metal. Higher B or larger current gives proportionally higher torque.
+
+**Galinstan properties relevant to the EM force:**
+- Electrical conductivity: σ ≈ 3.46 × 10⁶ S/m (comparable to mercury)
+- Density: ρ ≈ 6440 kg/m³
+- Surface tension: ~0.6 N/m (will maintain disc shape under moderate fields)
+- Non-toxic, non-volatile (unlike mercury): suitable for extended lab operation
+
+---
+
+## Section: page_013.json — id 1998503351944884650
+### Lorentz Counter-Spin Force: Cancellation Condition
+
+**Required balance for net upward thrust:**
+
+Let `τ_upward` = driving torque from 3-phase rotating field on outer flywheel (anti-clockwise)
+Let `τ_counter` = downward Newton's 3rd Law counter-torque (reaction to spin addition)
+Let `τ_Lorentz` = counter-spin Lorentz force torque from inner flywheel (clockwise, opposing counter-torque)
+
+For net zero downward force:
+```
+τ_Lorentz = τ_counter
+```
+
+For net upward levitation:
+```
+F_z_net = F_z(outer flywheel) + F_z(inner flywheel) - mg > 0
+```
+
+The two F_z terms should add (not cancel) because the inner flywheel spins opposite but its Z-axis force contribution adds to the outer flywheel's Z-axis contribution if the geometry is correct (both pushing upward).
+
+**Design constraint:** The Lorentz force inner flywheel must be sized and positioned such that:
+1. `τ_Lorentz ≥ τ_counter` (cancels downward reaction)
+2. `F_z(inner) > 0` (contributes upward rather than downward)
+
+These two constraints jointly define the operating regime. Drew is working experimentally to find this regime.
+

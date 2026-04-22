@@ -1,0 +1,54 @@
+TYPE: Physics diagram — 3D isometric illustration of 3-phase AC motor/generator stator winding configuration with color-coded coil windings.
+
+CONTENT SUMMARY: A 3D isometric technical diagram showing a linear (unrolled) representation of a 3-phase AC motor or generator stator. The diagram depicts a series of rectangular lamination slots (gray metallic blocks) with three interleaved wire coils (blue, red, and green) passing through the slots in a specific winding pattern. This is the standard visualization used to explain how 3-phase windings are distributed in an AC machine stator.
+
+DIAGRAM ELEMENTS:
+
+STATOR LAMINATIONS (SLOTS):
+- A row of approximately 9-12 rectangular metallic blocks arranged in a linear array, viewed in isometric perspective.
+- Each block is rendered in light gray with visible 3D depth (top face, front face visible).
+- The blocks represent the silicon steel lamination stacks that form the stator teeth and slots of an AC machine.
+- Between each adjacent pair of blocks: a narrow slot gap through which the copper windings pass.
+- The slot/tooth arrangement is the unrolled cross-section of a cylindrical AC motor stator.
+
+3-PHASE WINDING COILS:
+Three separate coil windings, each rendered in a distinct color, pass through the stator slots:
+
+BLUE COIL (Phase A):
+- A wide, broad coil passing through the leftmost slots.
+- Visible as: a large blue arrow/band entering from the lower-front of the leftmost slot, passing through to the upper-back of a slot several positions to the right, then returning.
+- The blue coil tail extends as a thin blue line toward the lower-left (the external connection terminal for Phase A).
+- Represents one of the three AC phases (0° reference phase).
+
+RED COIL (Phase B):
+- A coil passing through the middle portion of the slot array.
+- Visible as: a red arrow/band threading through slots at a position offset from the blue coil by approximately 3 slot pitches (120° electrical phase shift).
+- The red coil tail extends as a thin red line toward the lower-center.
+- Represents Phase B (120° lagging relative to Phase A).
+
+GREEN COIL (Phase C):
+- A coil passing through the rightmost portion of the slot array.
+- Visible as: a green arrow/band threading through slots offset from the red coil by another 3 slot pitches (120° further electrical phase shift).
+- The green coil tail extends as a thin green line toward the lower-right.
+- Represents Phase C (240° lagging = 120° leading relative to Phase A).
+
+WINDING PATTERN:
+- Each coil passes into a slot from one side (front/bottom), travels through the slot, emerges from the back, spans across several teeth, re-enters a return slot, and comes back — forming a single concentrated or distributed coil.
+- The three coils are offset by equal angular spacing (3 slots per 120°/phase = 9 slots minimum for 3 phases), creating a balanced 3-phase winding.
+
+COLORS:
+- Gray metallic blocks (stator laminations).
+- Blue (Phase A / 0°).
+- Red (Phase B / 120°).
+- Green (Phase C / 240°).
+- White background.
+
+TEXT: None visible.
+
+PHYSICS/UAP CONTEXT: This diagram illustrates the 3-phase AC winding topology fundamental to understanding the electromagnetic configurations encoded in multiple crop formations in this archive. When the three coils carry sinusoidal currents at 120° phase offsets, they produce a ROTATING MAGNETIC FIELD in the stator — the fundamental operating principle of induction motors (Tesla's invention, 1888). In the context of UAP propulsion:
+- A 3-phase rotating field is the electromagnetic equivalent of a physical rotating magnet — it can induce currents and forces in a nearby conductor (such as an aluminum UAP hull) without physical contact.
+- The 3-phase rotating field principle may explain how UAP discs rotate (electromagnetic torque) and how they generate electromagnetic effects visible as colored light emissions (the three phases correspond to three frequency-separated EMF components).
+- Companion image 3_2027422867709898752 shows the circular cross-section version of this linear (unrolled) stator with explicit "6 wire coils," "3-phase rotating magnetic field," "magnet N/S," and "3-phase magnetism" labels.
+- This linear view and the circular cross-section view together fully describe the 3-phase electromagnetic generator/motor geometry proposed as the UAP propulsion mechanism.
+
+OVERALL COMMUNICATION: A 3D isometric diagram of a linearized 3-phase AC stator showing three interleaved wire coil windings (blue Phase A, red Phase B, green Phase C) passing through stator lamination slots at 120° electrical phase spacing — the fundamental winding configuration that produces the rotating magnetic field central to UAP electromagnetic propulsion theories.

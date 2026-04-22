@@ -1,0 +1,56 @@
+TYPE: Engineering/mechanical drawing — ball bearing cross-section with dimensional tolerances; Ø115mm outer diameter, Ø90mm inner ring.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background technical drawing (CAD-style line art). Black line weights only — no color. Horizontal dimension line at top; horizontal dimension line at bottom. Central cross-hairs (+) through the bearing center.
+
+BEARING CROSS-SECTION (front/axial view):
+* Circular concentric component showing the end-face view of a ball bearing assembly
+* Outermost ring: single thin circle defining the outer race outer diameter
+* Second ring: outer race inner diameter (a slightly smaller concentric circle)
+* Inner ring boundary: a concentric circle defining the inner race outer diameter
+* Innermost circle: inner race inner diameter (the bore, where the shaft passes through)
+* Between outer race inner diameter and inner race outer diameter: the bearing raceway region containing balls
+
+BALL ELEMENTS:
+* Approximately 8 evenly-spaced circular ball elements visible in the raceway
+* Each ball is represented as a small circle (approximately 10-15% of the total diameter)
+* The 8 balls are uniformly distributed at ~45° angular intervals around the raceway
+* Each ball appears slightly larger in its representation, with a curved "cage pocket" shape around it — indicating a ball bearing cage (retainer) is present
+* The cage pockets appear as rounded-rectangular frames around each ball element
+
+CAGE/RETAINER:
+* A ball bearing cage (retainer) is visible as two concentric arcs connecting the ball pockets
+* The cage arcs sit at approximately the pitch circle diameter of the balls
+* The cage appears to be of the "crown" or "snap" cage type based on the line art representation
+
+DIMENSIONAL ANNOTATIONS:
+* TOP: "Ø115mm⁰₋₀.₀₁₅" — Outer diameter of bearing = 115 mm, with bilateral tolerance of 0 / -0.015 mm (upper tolerance = 0 μm, lower tolerance = -15 μm); this is an ISO tolerance of h6 or similar shaft tolerance class for the outer diameter fit
+* BOTTOM: "Ø90mm⁰₋₀.₀₂" — Inner bore diameter = 90 mm (actually likely the outer race's reference or inner race diameter), with tolerance 0 / -0.020 mm (0 / -20 μm)
+
+DIMENSION LINE ARROWS:
+* Top dimension line: horizontal with left- and right-pointing arrows spanning the full outer diameter (Ø115mm)
+* Bottom dimension line: shorter horizontal with arrows spanning a smaller width (Ø90mm) — positioned below the bearing, indicating the inner component it fits with (shaft or housing)
+
+CENTERLINES:
+* Fine crosshair lines (+) at geometric center of bearing — standard engineering drafting convention for rotational symmetry
+
+BEARING IDENTIFICATION:
+* Based on dimensions: Ø115mm outer × Ø90mm bore
+* This is consistent with a large precision angular contact bearing or deep-groove ball bearing
+* Standard ISO bearing designation: approximately 6018 series (90mm bore) or similar
+* 8 balls in the raceway suggests a standard ball count for a bearing of this size class
+
+PHYSICS/ENGINEERING CONTEXT:
+* Ball bearings appear repeatedly in the generator schematics throughout this image series — specifically in the vertical cross-section generator diagrams (3_2027424867071705089, 3_2028696616115593217, 3_2028696633677053952) where "ball bearings" are labeled explicitly
+* This drawing shows the actual mechanical specification of the bearing component used in the generator design
+* Dimensional tolerances (0/-15 μm and 0/-20 μm) are precision engineering specifications typical of instrument-grade or machine-tool bearings
+* The Ø90mm bore indicates a large shaft diameter — consistent with a substantial central rotating disc or stator assembly
+* The outer race (Ø115mm) would fit into a housing machined to accept this bearing — consistent with the "stainless-steel tube" (magenta element) shown in the generator cross-sections
+
+TOLERANCE ANALYSIS:
+* Outer diameter tolerance: -0.015 mm = -15 μm — interference or transition fit for housing
+* Bore tolerance: -0.020 mm = -20 μm — for shaft interference or transition fit
+* These tight tolerances (μm-level) indicate a precision/high-accuracy bearing grade (ABEC-5 or ISO P5/P4 tolerance class)
+
+OVERALL COMMUNICATION: An engineering CAD drawing showing the axial cross-section of a precision ball bearing with 8 balls, outer diameter Ø115mm (tolerance 0/-0.015mm) and inner bore Ø90mm (tolerance 0/-0.020mm). This bearing is specified as a component of the electromagnetic generator assembly described in the Norman Paulsen UAP power-plant design — appearing in the vertical cross-section generator diagrams as the rotational support for the counter-rotating magnetic disc assembly.

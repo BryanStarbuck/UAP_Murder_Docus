@@ -1,0 +1,17 @@
+TYPE: Physics diagram — 3-phase generator schematic from crop formation (trefoil + 16 N-S magnets + 3 wire coils, U-V-W). VARIANT of 3_2027425851726585856.
+
+CONTENT SUMMARY: A labeled schematic similar to 3_2027425851726585856 (the trefoil + 18-coil diagram) but with updated labels specifying "2 × 8 = 16 N-S magnets" and "3 wire coils U-V-W" instead of "18 wire coils." The upper trefoil section is labeled "3 wire coils U-V-W" (on both sides) and "central magnet N/S" (both upper-left and upper-right). The lower circular assembly is now labeled with "2 × 8 = 16 N-S magnets" (both sides) and "3 wire coils" and "3-phase rotating magnetic field U-V-W."
+
+KEY DIFFERENCES FROM 3_2027425851726585856:
+- "3 wire coils U-V-W" (RED text, left and right of upper trefoil) — replacing "3-phase magnetism"
+- "central magnet N/S" (RED text, upper-left and upper-right) — replacing "magnet N/S"
+- "2 × 8 = 16 N-S magnets" (BLUE text, lower-left and lower-right) — NEW — explicitly calculating the magnet count as 2 sets of 8 = 16 total N-S magnets in the lower circular assembly
+- "3 wire coils" (BLUE text, lower-left, below the "2×8" label) — replacing "18 wire coils"
+- "3-phase rotating magnetic field U-V-W" (BLUE text, lower-right, below the "2×8" label) — same phrase with U-V-W added
+
+PHYSICS SIGNIFICANCE:
+- "2 × 8 = 16 N-S magnets": The lower circular ring (approximately 18 dots in previous version) is now explicitly described as 2 sets of 8 permanent magnets arranged in a ring, alternating N and S poles. 8 N + 8 S = 16 total magnets = 8 pole pairs. A generator with 8 pole pairs operated at 3600 RPM (60 Hz synchronous speed) would produce: frequency = (8 poles pairs × 60 rps) = 480 Hz per revolution = ... Actually: f = (P/2 × n)/60 where P = total poles = 16, n = RPM = 3600: f = (16/2 × 3600)/60 = 8 × 60 = 480 Hz output. This is a high-frequency generator.
+- "3 wire coils U-V-W" (upper trefoil): Confirms that the three lobes of the trefoil represent 3 individual wire coils, one per phase (U, V, W), confirming the 3-phase interpretation.
+- The formula "2 × 8" emphasizes that the design has 2 complete sets of 8-magnet rings — potentially indicating two counter-rotating discs each with 8 magnets, consistent with Norman Paulsen's "two discs" description.
+
+OVERALL COMMUNICATION: A variant of the trefoil + circular ring 3-phase generator schematic with updated labels: "3 wire coils U-V-W" for the trefoil lobes, "central magnet N/S" for the top magnet elements, and "2 × 8 = 16 N-S magnets" for the lower ring — advancing the engineering specification by explicitly calculating magnet count (16 total = 2×8) and using standard U-V-W phase notation, suggesting two counter-rotating 8-magnet discs generating a 16-pole 3-phase rotating field.

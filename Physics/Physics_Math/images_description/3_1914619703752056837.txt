@@ -1,0 +1,52 @@
+TYPE: Text slide — physics thought experiment (slide 3 of 5): dipole magnetism result
+
+CONTENT:
+- White background
+- Black bold sans-serif text, very large font (approximately 72-80pt), centered
+- The word "no" is in bold italic for emphasis
+- No images, diagrams, or other visual elements
+
+FULL TEXT (verbatim):
+"If that man lifts the
+iron ball by "dipole"
+magnetism, it will have
+no weight, while the
+man will weigh 101 kg"
+
+KEY PHYSICS CLAIM:
+When a ferromagnetic object (iron ball, 1 kg) is lifted by an external DIPOLE MAGNETIC field from above:
+- The iron ball appears to have NO WEIGHT (its gravitational force is cancelled by the upward magnetic attraction)
+- BUT the reaction force transfers entirely to the man: the man now weighs 101 kg (his own 100 kg + the 1 kg transferred force from the magnetic interaction)
+
+This is a correct application of Newton's third law and force balance in an open system:
+- The magnetic field source is external (above the man)
+- The magnetic field exerts upward force F on the iron ball
+- The iron ball exerts downward force F on the field source (reaction)
+- But the field source is external — so the man's scale reading increases by the ball's weight
+- The iron ball's scale reading (if it were on a separate scale): zero
+
+PHYSICS EXPLANATION:
+In dipole magnetism, the force on a magnetic dipole in a non-uniform field is:
+F = ∇(m·B)
+where m is the magnetic moment and B is the external field.
+This force is transmitted from the field SOURCE (the external magnet) through the field to the BALL.
+The field source bears the reaction — not the man directly.
+However, if the man is holding the field source (the magnet), he bears the load.
+The subtle point: who bears the reaction force depends on where the force originates.
+
+CONTRAST WITH VORTEX MAGNETISM:
+The next slide (3_1914620064239902722.jpg) contrasts this with "vortex magnetism," which allegedly produces a different result — the ball retains its weight and the man also retains his original weight (no transfer).
+
+SERIES CONTEXT:
+Part of a 5-slide sequence explaining dipole vs. vortex magnetism:
+- 3_1914619620738334720.jpg: Setup (100 kg man + 1 kg iron ball)
+- 3_1914619654896803840.jpg: Visual illustration (gym photo)
+- This image: Result with DIPOLE magnetism (ball has no weight; man weighs 101 kg)
+- 3_1914620064239902722.jpg: Question about VORTEX magnetism
+- 3_1914620258562007040.jpg: Result with VORTEX magnetism (ball weighs 1 kg; man weighs 100 kg)
+
+COLORS:
+- Text: black (with italic bold "no")
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 960 x 720 pixels, landscape orientation

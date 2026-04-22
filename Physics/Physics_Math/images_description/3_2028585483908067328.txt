@@ -1,0 +1,59 @@
+TYPE: Analytical composite — binary code message with Temple Mount/Jerusalem imagery and moon, labeled "CJ picture file 1."
+
+CONTENT SUMMARY: A white-background analytical composite presenting: (1) a block of binary/text code at the top (multi-line sequence of 0s and 1s with some colored digits), (2) below the code: three photographs showing the Dome of the Rock (Temple Mount, Jerusalem) and an Islamic crescent-moon/star finial, plus a kneeling figure silhouette icon, and a full moon photograph. This appears to be a follow-on to the Emerthers message analysis (3_2028585396213530624), decoding the pictorial content of the message described as "CJ picture file 1."
+
+TITLE TEXT (top):
+"'CJ' picture file 1 (light squares 0, filled squares 1) (lines of 68)"
+"0111-0001 ASCII 'q', repeat 17 bits, start after duplication"
+
+BINARY CODE BLOCK:
+- Approximately 15-16 lines of binary-like text.
+- Each line consists predominantly of "0" characters with scattered "1" characters.
+- The "1" digits appear in three distinct colors: RED (1), BLUE (1), and BLACK (1) — possibly representing three different bit streams, three color channels, or three-phase encoding.
+- Line 1: "0111-0001" highlighted as ASCII code for "q" (decimal 113, or 0x71).
+- Lines continue with varying binary patterns.
+- The pattern "repeat 17 bits, start after duplication" suggests a periodic binary code with a 17-bit period.
+
+PHOTOGRAPHS (lower half):
+
+LEFT PHOTOGRAPH — DOME OF THE ROCK WITH CRESCENT:
+- A photograph of an Islamic minaret or turret finial featuring a gold crescent moon and star symbol against a bright blue sky.
+- This is the Islamic crescent-moon symbol (hilal) characteristic of mosque architecture.
+
+CENTER PHOTOGRAPH — DOME OF THE ROCK (FULL):
+- A wider photograph showing the Dome of the Rock (Qubbat as-Sakhrah) in Jerusalem — the Islamic shrine with its distinctive gold-covered dome and blue-tile lower walls.
+- Viewed through an arched Mamluk-era stone portico/arcade in the foreground.
+- This is on the Temple Mount (Haram esh-Sharif).
+
+KNEELING FIGURE (CENTER-LOWER):
+- A simple black silhouette stick-figure icon showing a person in a kneeling/bowing pose.
+- This represents Islamic prayer position (sujud/prostration) or general supplication.
+
+RIGHT PHOTOGRAPH — TEMPLE MOUNT ARCADE:
+- A photograph showing the stone arcade (Rawaq) of the Temple Mount — Mamluk-era pointed arches against blue sky.
+- A figure in traditional dress (white keffiyeh) is visible standing within the arcade.
+
+MOON PHOTOGRAPH (UPPER RIGHT):
+- A full moon photograph (gray/white disk against dark space or white background).
+- The moon appears in the upper-right area of the lower section of the image.
+
+COLORS:
+- White background.
+- Red, blue, and black "1" digits in binary code.
+- Photographs in full color (gold dome, blue sky, gray moon).
+- Black kneeling figure silhouette.
+
+TEXT:
+- "'CJ' picture file 1 (light squares 0, filled squares 1) (lines of 68)"
+- "0111-0001 ASCII 'q', repeat 17 bits, start after duplication"
+- Binary code lines (0s and 1s in red/blue/black)
+
+PHYSICS/UAP CONTEXT: This continues the Emerthers message series (3_2028585396213530624):
+(1) BINARY ENCODING: The message is described as 68 columns per line, with filled squares = 1 and light squares = 0. This matches the format of the Arecibo message (1679 bits in 23×73 grid) and the Chilbolton 2001 binary crop formation "reply" — both using binary spatial encoding to create pictographic images.
+(2) ASCII 'q' HEADER: The 0111-0001 header (= ASCII 'q' = 113 decimal) may be a packet identifier or message start marker.
+(3) TEMPLE MOUNT IMAGERY: The decoded message apparently pictures the Dome of the Rock / Temple Mount — connecting to Message 6 from 3_2028585396213530624 about "vaults under Temple Mount."
+(4) MOON IMAGERY: The full moon connects to the "LUNAR" acronym decoded from Message 4 (capital letters in "enLarge sqUeeze shriNk insert chARge").
+(5) CRESCENT AND STAR: Islamic crescent-moon symbol connects to "SOLOMON'S temple" coordinate reference and the three-religion convergence at Jerusalem (Star of David, Crescent-Star, Christian Cross — all three appear in companion image 3_2028585964604723200).
+(6) 17-BIT PERIOD: A 17-bit periodic binary code is mathematically interesting — 17 is prime, and prime-period binary codes are used in maximal-length sequences (m-sequences) for radar/communications, appearing in the SETI context as "prime dimensions" signals indicating intelligence.
+
+OVERALL COMMUNICATION: A binary code analysis image labeled "CJ picture file 1" — showing a 15-line block of 0s and 1s (with red/blue/black digit coloring, 68 characters per line, 17-bit period, ASCII 'q' header) accompanied by photographs of the Dome of the Rock, Islamic crescent moon, kneeling prayer figure, and full moon — the decoded image apparently depicting the Temple Mount in Jerusalem as specified in the Emerthers message series.

@@ -1,0 +1,46 @@
+TYPE: Photograph — physical prototype of 8 toroidal copper wire coils arranged in a hexagonal/octagonal ring on a transparent acrylic plate.
+
+CONTENT SUMMARY: A close-up photograph of a physical prototype or experimental device: 8 hand-wound copper toroidal coils (donut-shaped inductors) arranged in a ring on a transparent acrylic/plexiglass mounting plate. Each coil is wound with fine copper magnet wire, leaving a central hole. The coils are positioned with their centers tracing a large circle, with thin copper wire leads extending from each coil outward to connections at the edge of the plate. An additional thin wire loop (a circular ring trace) is visible between the inner edges of the coils.
+
+PHYSICAL COMPONENTS:
+
+MOUNTING PLATE:
+- A square transparent acrylic/plexiglass plate (approximately 200mm × 200mm estimated).
+- White/milky white color, possibly with grid hole pattern (small holes visible at regular intervals across the plate — a pegboard-style PCB or hobby board).
+- A small blue "×" mark visible in the upper-right corner — possibly a fiducial marker or alignment mark.
+
+8 TOROIDAL COILS:
+- 8 identical toroidal/ring inductors arranged in a circular ring pattern, with their centers positioned at approximately 45° intervals (octagonal arrangement).
+- Each toroid: outer diameter approximately 30-35mm, inner hole approximately 12-15mm.
+- Wind material: fine copper magnet wire (28-34 AWG estimated), wound in multiple close-packed layers.
+- Color: bright copper/orange-red — characteristic of enameled copper magnet wire.
+- Each toroid has a white/cream ferrite or plastic core visible through the central hole (the toroid core material, either ferrite or air-core plastic bobbin).
+- Each toroid has two lead wires extending from it — one each side — going to connections at the edge of the plate or to adjacent coils.
+
+THIN WIRE INNER RING:
+- A single thin copper wire (approximately 1-2mm visible diameter) bent into a circle approximately 70-80mm diameter.
+- This ring is positioned concentric with the overall coil arrangement, between the inner edges of the 8 toroids.
+- This inner ring wire may serve as: a secondary coupling loop, a current measurement loop, or a resonant element.
+
+WIRING:
+- Multiple thin copper wire leads extend from the toroids outward — some going toward the edge of the board, some connecting adjacent toroids.
+- The wiring appears to connect the toroids in series or parallel — the exact circuit topology is not determinable from visual inspection alone.
+- Some wires appear to cross over each other at the edges.
+
+COLORS:
+- Bright copper/orange-red toroidal coils.
+- White/translucent acrylic mounting plate.
+- White toroid cores.
+- Thin copper wires.
+
+TEXT: None visible (small blue "×" mark only).
+
+PHYSICS/UAP CONTEXT: This physical prototype is a direct implementation of the electromagnetic generator designs described across this archive. Specifically:
+(1) 8 TOROIDAL COILS IN RING: 8 toroids at 45° spacing in an octagonal ring corresponds to an 8-pole generator configuration — 8 poles = 4 pole pairs, producing AC at 4× the rotational frequency (for a rotating magnet inside the ring). This is an even-pole-pair version of the 6-coil designs shown in companion diagrams.
+(2) TOROIDAL GEOMETRY: Toroidal coils (as opposed to solenoid coils) have the advantage of nearly zero external magnetic field — the toroidal geometry confines the magnetic flux almost entirely within the ferrite core. This means adjacent toroids in the ring do not strongly couple to each other magnetically, allowing independent phase operation.
+(3) 3-PHASE GROUPING: 8 toroids could be grouped as: 2 groups of 4 (bipolar) or with 6 for 3-phase + 2 for additional coils. However, a cleaner grouping would be 9 toroids (3 phases × 3 coils per phase). The 8-coil arrangement may represent an experimental version or a specific design optimization.
+(4) INNER RING: The central circular wire loop likely serves as a coupling pickup or secondary coil — to measure the output of the inner rotating magnet or to inject a pilot signal.
+(5) ACRYLIC PLATE: Non-magnetic, non-conductive mounting material — acrylic does not disturb the magnetic field, making it ideal for electromagnetic experiments.
+This prototype appears to be a hobbyist/researcher-built test version of the multi-pole 3-phase generator described in the crop formation decoding series — an actual attempt to build the device described by Norman Paulsen's UAP power plant account.
+
+OVERALL COMMUNICATION: A photograph of a physical prototype: 8 hand-wound copper toroidal inductors arranged in an octagonal ring on a transparent acrylic plate, with thin copper lead wires and a central coupling loop — a hobbyist/experimental implementation of the multi-pole electromagnetic generator design proposed as the UAP power plant, physically embodying the circular-cross-section schematics shown in companion diagrams.

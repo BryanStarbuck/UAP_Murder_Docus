@@ -1,0 +1,64 @@
+TYPE: Scientific composite image — astrophysical relativistic jet with Faraday rotation measure maps + helical magnetic field model diagrams
+
+CONTENT:
+- Black background
+- Complex multi-panel scientific visualization combining radio observation data with theoretical field models
+- Labels and color bars in white text
+
+MAIN LEFT ELEMENT — Radio Jet Observation:
+- A large elongated orange/amber glowing jet structure extending from a bright central source
+- The jet is oriented diagonally from bottom-center (source) toward upper-left
+- The source is indicated by a black star symbol (★) at the bright core
+- The jet appears in radio wavelength false-color (orange/amber = radio emission intensity)
+- Two circular dashed boundaries indicate different regions of the jet being analyzed (inset zoom areas)
+- This appears to be a VLBI (Very Long Baseline Interferometry) radio image of an active galactic nucleus (AGN) jet
+
+TOP-CENTER INSET — Rotation Measure Map (Jet):
+- Enlarged view of the upper portion of the jet
+- False-color coding: red = magnetic field pointing AWAY from observer (B_z negative), blue = magnetic field pointing TOWARD observer (B_z positive), white = transition/zero
+- The map shows a gradient from red to blue across the jet width (transverse gradient)
+- This transverse gradient in Rotation Measure (RM) is the observational signature of a HELICAL MAGNETIC FIELD threading the jet
+- A small white ellipse in a dashed box shows the PSF (point spread function / beam size) — the instrument resolution
+
+COLOR BAR (center):
+- "Rotation Measure [rad/m²]"
+- Scale: 200 (red extreme) → 350 (white center) → 500 (blue extreme)
+- Labels: "away from observer" (left/red side), "towards observer" (right/blue side)
+- Below: "Line of sight Magnetic Field"
+
+BOTTOM-CENTER INSET — Rotation Measure Map (Counter-Jet):
+- Enlarged view of the lower (counter-jet) portion
+- Same false-color scheme: red-dominant (field pointing away from observer)
+- The counter-jet RM map shows less blue — consistent with the opposite jet propagation direction and the helical field geometry (the far side of the helix reverses the sign)
+
+TOP-RIGHT DIAGRAM — Jet Model (Helical B-Field):
+- White background diagram
+- A gray vertical cylinder/column (the jet axis)
+- Yellow helix coils wrapping around the cylinder — representing the helical magnetic field B_φ + B_z
+- Yellow arrows on the helix indicating field direction (winding)
+- Blue straight lines alongside the helix (possibly representing the jet material flow or the z-component of B)
+- Arrow labeled "v_jet" (in black/white) pointing upward — the jet velocity direction
+- Arrow labeled "B" (vector) in white — the total field direction
+- This is the theoretical model: a helical B-field in a cylindrical jet produces the observed transverse RM gradient
+
+BOTTOM-RIGHT DIAGRAM — Counter-Jet Model:
+- Same design as top-right but oriented with arrow "v_counterjet" pointing DOWNWARD
+- The helix winding direction is the same (same chirality)
+- Arrow labeled "B" (vector) in yellow — consistent field orientation
+- Demonstrates how the same helical field produces opposite RM signatures in jet vs. counter-jet due to different observer perspective
+
+PHYSICS SIGNIFICANCE:
+1. FARADAY ROTATION MEASURE: When linearly polarized radio waves pass through a magnetized plasma, the polarization plane rotates by angle χ = RM × λ². RM = (e³/2πm²c⁴) ∫ n_e B_∥ dl. The transverse RM gradient across the jet cross-section is the observational signature of a helically wound B-field.
+2. HELICAL JET B-FIELD: A toroidal B_φ component plus an axial B_z component creates the helical geometry. The transverse RM gradient (red on one side, blue on other) is explained by B_∥ = B_z + B_φ·sin(θ) being positive on one side and negative on the other.
+3. UAP RELEVANCE: Identical helical field geometry appears in proposed UAP propulsion systems — the helical magnetic field provides both confinement and a Poynting vector with an axial component, potentially driving the jet or providing propulsive force.
+
+SOURCE: This is likely published astrophysics research data (possibly from the M87 jet or 3C 273 or a similar AGN), showing observational evidence for helical magnetic fields in relativistic jets.
+
+COLORS:
+- Background: black
+- Jet: orange/amber (radio emission)
+- RM maps: red (away) through white to blue (toward)
+- Model diagrams: gray cylinder, yellow helix, blue lines, white/black arrows
+- Color bar: red-white-blue gradient
+
+IMAGE DIMENSIONS: Approximately 960 x 720 pixels, landscape orientation

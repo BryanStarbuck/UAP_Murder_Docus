@@ -1,0 +1,52 @@
+Type: Scientific sensor image — highly pixelated false-color thermal or intensity map of a point source or near-point source astronomical/sensor object.
+
+Overall Image:
+* Strongly pixelated image — individual pixels are large and clearly visible (approximately 20-30 pixel blocks at display resolution).
+* The pixel grid is regular and orthogonal — a rectangular array of colored squares.
+* Overall dimensions of the bright object region: approximately 7-9 pixels wide × 6-8 pixels tall at the core.
+* Upper-left corner: two small black rectangles (empty/null data).
+* Left edge: a diagonal "step" boundary of black pixels — the sensor edge or image boundary.
+
+Color-Coded Intensity Map:
+* This is a false-color intensity or temperature map using a standard "heat map" color palette.
+* Color palette from lowest to highest intensity/temperature:
+  1. BLACK (lowest, outer corners): zero signal or cold background.
+  2. DEEP BLUE/INDIGO: very low signal above background.
+  3. PURPLE/VIOLET: low signal.
+  4. MAGENTA/RED-PURPLE: low-medium signal.
+  5. RED: medium-high signal.
+  6. ORANGE: high signal.
+  7. YELLOW: very high signal.
+  8. WHITE (center, maximum): peak/saturated signal.
+
+Spatial Structure:
+* The distribution is a roughly symmetric radial gradient (Gaussian or slightly asymmetric):
+  - Center: 2-3 bright white pixels — the peak intensity.
+  - Immediately surrounding: yellow pixels (3-4 pixel ring).
+  - Next layer: orange pixels (2-3 pixel ring).
+  - Outer: red pixels (large area).
+  - Far outer: transitioning to magenta → purple → blue → black at the corners.
+* The distribution is slightly ASYMMETRIC:
+  - The bright white core is positioned slightly LEFT of center (not exactly centered in the frame).
+  - The right side of the distribution extends slightly farther than the left.
+  - This asymmetry could indicate: a real asymmetry in the source (e.g., directed emission, non-spherical coma), or sensor artifact/saturation bleeding.
+
+Object Identification Candidates:
+1. Comet/Asteroid Thermal IR: A thermal infrared map of a comet nucleus or interstellar object (3I/ATLAS) showing the temperature distribution — warm nucleus (white) surrounded by cooler coma (red-orange) and cold background (blue-black).
+2. UAP Thermal Signature: A processed thermal/infrared sensor image of a UAP, with the white center = maximum heat emission point and surrounding color gradient = thermal halo.
+3. Star/Point Source in Astronomical Image: A heavily pixelated astronomical image of a star or point source (PSF = point spread function) shown in false color — the gradient represents the PSF profile rather than spatially resolved structure.
+4. Radar Return Intensity: A false-color radar cross-section map of an object — bright white = highest reflectivity, dark = no return.
+
+Physics Context:
+* The false-color rendering (white → yellow → orange → red → purple → blue → black) is the classic "jet colormap" or "hot" colormap used in matplotlib, IDL, and astronomical analysis tools.
+* The radial gradient pattern is consistent with a point-source PSF (Airy disk/Gaussian) that is marginally resolved or at the diffraction limit.
+* The slight asymmetry may encode scientifically significant information about the source shape or emission direction.
+
+RC's Contextual Use:
+* RC includes this sensor image in the 3I/ATLAS series — likely as a thermal or intensity map of the interstellar object's nucleus.
+* The white hot core + radial gradient may be used to argue that 3I/ATLAS's emission is not isotropic (as expected for a natural rotating nucleus) but slightly anisotropic — consistent with directed propulsion.
+* Alternatively, this could be a UAP sensor return image from a military radar or FLIR system.
+
+No text visible in the image.
+
+Summary: A highly pixelated false-color sensor image showing a single near-point-source object rendered in a standard "hot" colormap (black → blue → purple → red → orange → yellow → white). The white peak intensity is slightly left of center with the distribution extending slightly more to the right, creating a minor asymmetry. The surrounding radial gradient transitions through yellow, orange, red, magenta, purple, and blue to black background corners. Individual sensor pixels are large and clearly visible (~20-30 pixel blocks). Likely a thermal infrared or intensity map of interstellar object 3I/ATLAS or a UAP sensor return, with the slight asymmetry potentially indicating non-isotropic emission or directed activity.

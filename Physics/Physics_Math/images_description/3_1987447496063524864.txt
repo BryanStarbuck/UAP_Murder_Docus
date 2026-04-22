@@ -1,0 +1,44 @@
+Type: Text/Data slide — binary decoding educational slide about the Crabwood 2002 crop formation message, titled "People of Earth."
+
+Title (top center, bold):
+"People of Earth."
+
+Text Attribution (upper-right gray box):
+"First attempt at Texpix by @RodneysGraphics 2/21/2021"
+
+RIGHT COLUMN: "Convert to triple Binary"
+* A block of characters arranged in a grid using thick black square/rectangle symbols — this is the Texpix or "triple binary" encoding described in 3_1979658444144627712.jpg.
+* Each row contains a sequence of thick filled rectangles and thin outline rectangles, representing the "1" and "0" symbols in the triple binary code.
+* Approximately 10-12 rows of triple-binary encoded characters are visible.
+* The encoded text (when decoded) would produce the same "Beware the bearers of false gifts..." Crabwood 2002 message.
+
+LEFT SIDE — Three Sections:
+
+"Original Message":
+* A long string of 1s and 0s is shown in a single line with small position numbers above (1, 2, 3, 4... up to approximately 128).
+* This is the raw binary string from the Crabwood 2002 crop formation binary disk.
+* The binary string begins: "01010000 01100101 01101111 01110000 01101100..."
+* In ASCII, this decodes as: "People..." confirming this is the Crabwood message.
+
+"Binary Bits Positioning":
+* Reformatted version of the binary string, showing line breaks at word boundaries.
+* Specific bit positions where "1" appears are highlighted in bold or marked.
+
+"Separate '1's & '0's":
+* Two columns of numbers — the positions of the "1" bits and the "0" bits are listed separately.
+* Left column: 00000000 / 00000000 / etc. (rows of 0s).
+* Right column: 11111111 / 11111111 / etc. (rows of 1s).
+* This separation allows the binary data to be viewed as a pixel image.
+
+"Binary Image":
+* A grid of 0s and 1s formatted to show the pixel positions of the Crabwood message as a 2D image.
+* The top rows are predominantly 0s on the left and 1s on the right, transitioning across the image.
+* The binary grid appears to encode a pixel-art pattern.
+* Labels: "0000 00001111 1111" format in each row — 8 zeros followed by 8 ones per row, shifting downward — this creates the "fish shape" described in RC's work.
+
+Physics/Research Context:
+* This slide documents the work of "@RodneysGraphics" (a Twitter/X user) who was the first to attempt converting the Crabwood 2002 binary disk message into "Texpix" (triple binary) format on February 21, 2021.
+* RC (the author of this image series) credits this as a "first attempt at Texpix by @RodneysGraphics."
+* The "People of Earth" message is claimed to be the decoded content of the Crabwood 2002 crop formation binary spiral disk — beginning with "People of Earth" and continuing with the "Beware the bearers of false gifts" message.
+
+Summary: A binary decoding educational slide titled "People of Earth." showing the original binary string from the Crabwood 2002 crop formation (beginning "01010000 01100101 01101111..." = ASCII "People..."), with three processing stages: bit-position reformatting ("Binary Bits Positioning"), 1s and 0s separated, and a "Binary Image" pixel grid. A "Convert to triple Binary" column on the right shows the Texpix encoding. Credited to "@RodneysGraphics, first attempt at Texpix, 2/21/2021."

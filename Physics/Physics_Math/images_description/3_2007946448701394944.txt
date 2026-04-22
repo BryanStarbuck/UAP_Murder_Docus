@@ -1,0 +1,52 @@
+TYPE: Technical physics diagram — Corbino disc / Faraday disc schematic with radial current flow and voltage taps (duplicate/variant of 3_2004779291746435072)
+
+CONTENT:
+- White background
+- Black and white line diagram of a disc-shaped electrical device
+- This is an annotated schematic of a Corbino disc or Faraday/homopolar disc generator
+
+DIAGRAM ELEMENTS:
+
+OUTER BOUNDARY:
+- A large outer circle represents the outer edge of the disc (outer radius R₂)
+- A smaller inner circle represents the central hub or inner conductor (inner radius R₁)
+- An arrow from center to edge labeled "R₁" shows the inner radius
+- An arrow from center to outer edge labeled "R₂" shows the outer radius
+
+CONCENTRIC ARCS (upper portion):
+- Three curved arcs in the upper-right quadrant of the disc
+- These arcs curve from the center-right area outward and upward
+- They appear to represent current paths or equipotential lines (curving due to Hall effect or spiral current flow in the magnetic field)
+- The arcs have small arrow tips indicating direction of flow
+
+CURRENT FLOW ARROWS:
+- "I_in" label with downward arrow (bottom of disc) — indicating current flowing into the disc from the outer ring
+- "I_out" label with downward arrow (bottom-left area) — indicating current exiting the disc
+- Additional curved arrows in the upper portion showing the flow paths curving away from purely radial paths
+- The curvature of the flow paths indicates the azimuthal component induced by the magnetic field (Hall effect)
+
+VOLTAGE TAPS:
+- A row of 5 small crossed circles (⊗) on the right side of the disc, inside the outer ring
+- Label: "voltage taps" with a horizontal line indicating their position
+- The ⊗ symbol represents conductors going into the page — these are the measurement taps for measuring Hall voltage at different radial positions
+- This is the characteristic feature of a Corbino disc experimental setup
+
+PHYSICS DESCRIPTION:
+The Corbino disc geometry:
+- Current enters at the inner conductor (radius R₁) or outer ring (radius R₂)
+- In the presence of an axial magnetic field B (perpendicular to the disc plane), the Lorentz force F = qv × B deflects the radially flowing charge carriers
+- This deflection creates an azimuthal component, causing the current path to spiral rather than flow purely radially
+- The Hall voltage is measured between the voltage taps at different radial positions
+- The magnetoresistance of a Corbino disc is particularly large compared to other geometries because there are no free edges to allow Hall field buildup
+
+The concentric arcs in the upper portion represent the spiral current paths: J_r (radial) + J_φ (azimuthal) = J_total (spiral)
+
+COLORS:
+- Background: white
+- All lines, circles, arrows, labels: black
+- No color coding in this version (monochrome schematic)
+
+IMAGE DIMENSIONS: Approximately 640 x 640 pixels, near-square
+
+CONTEXT:
+This is a cleaner or variant version of the Faraday/Corbino disc schematic. The key addition here is the explicit "voltage taps" feature (the row of ⊗ symbols) which makes this specifically a Corbino disc measurement setup rather than a pure Faraday generator. The spiral current paths (curved arcs) explicitly show the Hall-effect-induced azimuthal current component. This diagram is likely paired with the colored version in companion images (3_2004779613759954944.txt) and the comparison with crop formations (3_2007945649275424769.txt).

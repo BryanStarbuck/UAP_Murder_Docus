@@ -1,0 +1,186 @@
+# overall_Math.mdx
+# Mathematical Equations — Relationships, Components, and Physical Meaning
+# Source: END_DIR /tweets/1/7/ — @RedCollie1 (Dr. Horace Drew)
+
+---
+
+## Section: Sources page_007.json, 13_2034171356779364352_video.mdx, 1954445433813754215.yaml
+
+### Three-Phase Rotating Magnetic Field Mathematics
+
+**Coil current phases:**
+
+For N_coils coils arranged symmetrically with angular separation Delta_phi = 2*pi/N_coils:
+
+For N_coils = 3 (U-V-W):
+  I_U(t) = I_0 * cos(omega_drive * t)
+  I_V(t) = I_0 * cos(omega_drive * t - 2*pi/3)
+  I_W(t) = I_0 * cos(omega_drive * t - 4*pi/3)
+
+Each coil at angular position phi_k = 2*pi*k/3 (k=0,1,2) produces a magnetic field at the center:
+  B_k(t) = B_coil * I_k(t) * (cos(phi_k) x_hat + sin(phi_k) y_hat)
+
+Total field from superposition:
+  B_total(t) = sum_{k=0}^{2} B_coil * I_k(t) * (cos(phi_k) x_hat + sin(phi_k) y_hat)
+             = (3/2) * B_coil * I_0 * (cos(omega_drive * t) x_hat + sin(omega_drive * t) y_hat)
+
+This is a vector of constant magnitude (3/2) * B_coil * I_0 rotating at angular velocity omega_drive in the XY plane. This is the standard result: three-phase balanced excitation produces a rotating magnetic field of constant magnitude.
+
+**For N_coils = 6 (U-V-W-U-V-W):**
+
+Same calculation but with 6 coils at phi_k = k*pi/3 (k=0,...,5). The phases repeat: coils 0,3 → phase U; coils 1,4 → phase V; coils 2,5 → phase W. Series wiring forces all U coils to carry the same current, all V coils the same, all W coils the same. The total field magnitude is doubled (sum of 6 coil contributions vs. 3), but the rotation rate remains omega_drive.
+
+**For N_coils = 12 (U-V-W-U-V-W-U-V-W-U-V-W):**
+
+12 coils at phi_k = k*pi/6 (k=0,...,11). Phase assignment: coil k gets phase U if k mod 3 = 0, V if k mod 3 = 1, W if k mod 3 = 2. Series wiring of all same-phase coils: all 4 "U" coils in series, all 4 "V" coils in series, all 4 "W" coils in series. Field magnitude 4/3 times the 3-coil case per unit current (4 coils per phase vs 1 coil per phase), rotation rate still omega_drive.
+
+The key wiring rule stated by Drew (from page_007.json, tweet 2018898646163726780):
+"wire all of the 'U' coils in series rather than in parallel. Like for all of the 'V' coils, and all of the 'W' coils."
+
+---
+
+### Rotor Counter-Spin Mathematics — Pole-Pair Counting
+
+For the 6-coil stator driving the 8-magnet alternating-pole rotor:
+
+Number of stator pole pairs from 6 coils: p_stator = N_coils / 2 = 6/2 = 3
+
+Number of rotor pole pairs from 8 magnets: p_rotor = N_magnets / 2 = 8/2 = 4
+
+Mismatch: p_stator ≠ p_rotor (3 ≠ 4).
+
+In standard synchronous machine theory with matched poles, the rotor locks to the field and rotates at omega_rotor = omega_stator. With mismatched pole pairs, the interaction torque is a function of (p_stator - p_rotor)*theta, where theta is the mechanical angle. The time-averaged torque from this interaction is zero for p_stator ≠ p_rotor in the idealized case, but the spatial harmonic content of the real field can produce non-zero average torque at:
+
+omega_rotor_sync = omega_drive / |p_stator ± p_rotor|
+
+For p_stator = 3, p_rotor = 4:
+  omega_sync+ = omega_drive / 7
+  omega_sync- = omega_drive / 1 = omega_drive
+
+The synchronous speed omega_sync- = omega_drive corresponds to the rotor rotating at the drive frequency — but in which direction? The sign convention determines the direction. For the difference (p_rotor - p_stator = 1), the torque-producing interaction locks the rotor at omega_drive in the COUNTER direction. This mathematical result is consistent with Drew's experimental observation of counter-rotation.
+
+**Note:** This analysis assumes ideal sinusoidal fields. The actual device uses concentrated windings that produce significant spatial harmonics, which can create additional torque components. A full Fourier analysis of the winding function is required for precise prediction.
+
+---
+
+### Precession Mathematics — Standard vs. Anomalous
+
+**Standard top precession:**
+
+Equation of motion for spin angular momentum L under gravitational torque tau:
+  dL/dt = tau = r_cm × (M * g * (-z_hat))
+
+In spherical coordinates with theta = tilt angle, the precession rate:
+  Omega_p = (M * g * r_cm) / (I_spin * omega_spin)
+
+Direction: Omega_p is parallel to z_hat (vertical axis), with sign such that precession is in the SAME sense as spin viewed from above.
+
+**Magnetic top — anomalous case:**
+
+Drew observes: when the top gains energy (omega_spin increases due to electromagnetic driving), precession is in the OPPOSITE sense. Phenomenologically:
+
+  Omega_p_magnetic = -Omega_p_classical + f(tau_EM, omega_drive, B_field)
+
+where f(tau_EM, omega_drive, B_field) is an additional term from the electromagnetic torque. The sign reversal (negative Omega_p relative to the classical result) requires:
+
+  tau_EM,z > 2 * M * g * r_cm / (I_spin * omega_spin)
+
+i.e., the z-component of the electromagnetic torque must exceed twice the gravitational torque. This is not a standard result in any published theory of magnetically driven gyroscopes.
+
+**Energy balance for rising magnetic top:**
+
+Power input from 3-phase drive: P_in = 3 * V_rms * I_rms * power_factor
+Gravitational potential energy rate: P_grav = dE_p/dt = M * g * dz/dt = M * g * v_z
+Kinetic energy of spin: E_kin = (1/2) * I_spin * omega_spin^2
+
+For the top to rise: P_in > P_grav + P_spin_losses
+
+This is an energy input problem (the coils supply continuous electrical energy), so rising against gravity does not violate energy conservation. The "anti-gravity" effect is more precisely described as electromagnetic-to-gravitational-potential energy transduction via the precessing magnetic top mechanism.
+
+---
+
+### 12-Coil Counter-Spin Wiring Mathematics — from page_007.json (tweet 2018898646163726780)
+
+For 12 coils labeled 0–11, wired U-V-W-U-V-W-U-V-W-U-V-W (coil k has phase k mod 3):
+
+Phase U coils: {0, 3, 6, 9} — all 4 in series
+Phase V coils: {1, 4, 7, 10} — all 4 in series
+Phase W coils: {2, 5, 8, 11} — all 4 in series
+
+Each series string is connected to one leg of the 3-phase supply. The impedance of each series string is 4*Z_coil (series addition), so the current in each string is I_supply / 4 compared to a single coil.
+
+Total MMF from phase U: 4 * I_U(t) * n_turns per coil = 4 * n * I_U(t) [ampere-turns]
+Total MMF from phase V: 4 * n * I_V(t)
+Total MMF from phase W: 4 * n * I_W(t)
+
+The magnetic flux density from each series coil string at the center sums spatially (constructively at the center for symmetric placement), giving 4× the field per unit current compared to one coil. This produces a stronger r.m.f. for the same supply current.
+
+**Flywheel response rule (from page_007.json, tweet 2018898646163726780, extended note):**
+
+With 12 coils driving a rotor flywheel:
+- Rotor with 8 alternating N-S-N-S... magnets: spins counter to r.m.f. (AGAINST the field)
+- Rotor with 8 all-N magnets (N-N-N-N-N-N-N-N): spins WITH the r.m.f.
+
+Mathematical interpretation: the alternating-pole rotor presents a spatially periodic permeability variation with the same period as the pole spacing. The all-same-pole rotor presents a spatially uniform (azimuthally constant) field perturbation. The interaction energy W = -(1/2mu_0) integral of B_applied * B_rotor dV has different gradient with respect to rotor angle for the two cases, leading to opposite torque directions.
+
+---
+
+### Upward Force vs. Spin Rate — Empirical Scaling
+
+Experimental data point: F_up ≈ 1000 g_force = 9.81 N at omega_drive = 20–30 Hz (2*pi*20 to 2*pi*30 rad/s = 125.6 to 188.5 rad/s).
+
+If F_up ~ omega_drive^2 (quadratic, consistent with gyroscopic/centrifugal scaling):
+  F_up(30 Hz) / F_up(20 Hz) = (30/20)^2 = 2.25
+
+If F_up ~ omega_drive (linear, consistent with magnetic torque scaling in induction regime):
+  F_up(30 Hz) / F_up(20 Hz) = 30/20 = 1.5
+
+Drew states "increases as we spin faster" without specifying the scaling law. The distinction between linear and quadratic scaling would require measurement of F_up at multiple frequencies with constant coupling geometry.
+
+For practical levitation: assuming F_up ~ omega_drive^2, and at omega_drive = 25 Hz giving F_up = 9.81 N, the force to lift a 1 kg coil assembly requires omega_drive ≥ 25 Hz (already achieved). For a 10 kg assembly: omega_drive ≥ 25 * sqrt(10) ≈ 79 Hz. This is within the operating range of standard variable-frequency drives.
+
+---
+
+### Pi Crop Circle (2008) — Encoding Mathematics
+
+From tweet 2021967492017795551 (note_tweet):
+"This famous crop picture from 2008 not only shows 'Pi' to ten digits as 3.141592654, but it was formatted as a series of shapes along the surface of a sphere, just like in quantum computing."
+
+The crop circle encodes pi = 3.141592654 in some representation system (binary or other base). Drew connects this to the sphere-surface computational basis of quantum computing, where qubit states are represented as points on the Bloch sphere (S^2). Each digit/position corresponds to a spherical coordinate on the Bloch sphere. The claim: "such advanced quantum computer must exist elsewhere, whether for alien races around distant stars, or in our own human future on Earth."
+
+Comparison stated: "Binary computing is like using a 'horse and cart' rather than an 'automobile' or a 'jet airplane'."
+
+This represents a claim that the pi-encoding crop circle implies the existence of quantum computing infrastructure far beyond binary (classical) computation — a technology level indicator.
+
+---
+
+### Mayan Calendar Mathematics — Venus Conjunction Cycle
+
+From 1943489146041045078.yaml (note_tweet):
+"The Mayan Calendar Round went for 32.5 full cycles of Venus, so it had to begin with an inferior conjunction in 1961 and end on a superior conjunction in 2013, 52 years or 18,980 days later."
+
+Venus synodic period: approximately 583.92 days
+52 years × 365.25 days/year = 18,993 days (close to 18,980 — difference due to calendar rounding)
+18,980 / 583.92 ≈ 32.5 Venus synodic cycles ✓
+
+16-0-0 in the Mayan Long Count calendar: 16 winals × 20 days = 320 days, but at the baktun/katun/tun level, 16-0-0 would represent 16 × 360 = 5,760 days from the epoch, placing it approximately at March 28, 2013 from the December 21, 2012 Long Count cycle reset.
+
+Superior conjunction March 28, 2013: Venus passes behind the Sun (Venus, Sun, Earth nearly collinear with Venus behind). This would be the first superior conjunction after the 2012 Long Count epoch.
+
+These calculations demonstrate Drew's application of astronomical cycle mathematics to Mayan calendar interpretation, not directly related to the propulsion physics but illustrating his methodology for decoding encoded numerical messages.
+
+---
+
+### 3-Phase AC Phase Angles — Explicit Statement
+
+From page_007.json (tweet 2018934125730857447):
+"three-phase angles 0, 120, 240 degrees, sometimes called R-S-T."
+
+This is the standard three-phase electrical engineering notation:
+  Phase R (= U): reference at 0°
+  Phase S (= V): lagging by 120° (or equivalently: 2*pi/3 radians)
+  Phase T (= W): lagging by 240° (or equivalently: 4*pi/3 radians)
+
+The R-S-T notation is the IEC/European standard; U-V-W is the German/motor-winding standard used consistently by Drew. The phase sequence R-S-T (positive sequence) produces a rotating field in the positive (counterclockwise) direction when the coils are wound with consistent handedness.
+
+---

@@ -1,0 +1,38 @@
+CONTENT TYPE: Scientific graph — near-infrared spectral reflectance comparison plot for interstellar object 3I/ATLAS, comparing its spectrum to Solar System small body spectral types.
+
+SUBJECT: A relative reflectance spectrum of interstellar object 3I/ATLAS measured by IRTF/SpeX on UT 2025-07-14, plotted alongside reference spectra for S-type, D-type, and L-type Solar System asteroids/bodies. This appears to be a scientific paper or preprint figure characterizing the spectral type of the third interstellar object detected passing through the Solar System.
+
+AXES:
+- X-axis: "Wavelength (micron)" — ranging from approximately 0.8 to 2.3 micrometers
+- Y-axis: "Relative Reflectance" — ranging from approximately 0.6 to 1.8 (normalized with reference to 1.0 at ~0.85 μm)
+
+OBSERVED SPECTRUM (BLACK LINE — "3I/ATLAS [IRTF/SpeX]"):
+- Very noisy spectrum (high scatter throughout) — consistent with a faint object requiring substantial integration time
+- Overall shape: moderately red-sloped from 0.8 to ~1.4 μm, then relatively flat or slightly declining to 2.3 μm
+- Multiple sharp spikes and dips — primarily noise artifacts, not real spectral features
+- The spectrum roughly follows the S-type and D-type reference curves in the 0.8-1.6 μm range
+
+REFERENCE TYPE SPECTRA (colored smooth lines with shaded uncertainty bands):
+1. S-type (BLUE line + blue shaded band): A bell-shaped curve peaking around 1.2-1.4 μm then declining — classic S-type (silicaceous) asteroid spectrum (olivine/pyroxene)
+2. D-type (RED line + red shaded band): Monotonically red-sloped spectrum, increasing reflectance from ~0.8 to 2.3 μm — D-type (dark, featureless, Trojan asteroids)
+3. L-type (GREEN line + green shaded band): Relatively flat spectrum near reflectance ~1.0 across all wavelengths — L-type asteroids (Barbarians)
+
+GRAY VERTICAL SHADED BANDS: Two sets of vertical gray bands indicating telluric absorption:
+- Around 1.35-1.45 μm
+- Around 1.80-1.95 μm
+
+LEGEND (upper left):
+- Blue line: "S-type"
+- Red line: "D-type"
+- Green line: "L-type"
+- Black line: "3I/ATLAS [IRTF/SpeX]"
+
+DATE ANNOTATION (lower right): "UT 2025-07-14"
+
+SCIENTIFIC CONTEXT: 3I/ATLAS is the designation for the third detected interstellar object visiting our Solar System (after 1I/'Oumuamua in 2017 and 2I/Borisov in 2019). This spectrum was obtained on July 14, 2025 using the NASA IRTF (Infrared Telescope Facility) SpeX spectrograph. The comparison to S-type, D-type, and L-type taxonomic classes helps characterize whether 3I/ATLAS resembles known Solar System body types or shows anomalous spectral features.
+
+COLORS: Black noisy spectrum, blue S-type line with blue shaded band, red D-type line with red shaded band, green L-type line with green shaded band, gray telluric bands, white background.
+
+TEXT: "Relative Reflectance" (y-axis), "Wavelength (micron)" (x-axis), "S-type", "D-type", "L-type", "3I/ATLAS [IRTF/SpeX]" (legend), "UT 2025-07-14" (observation date).
+
+OVERALL SUMMARY: A near-infrared (0.8-2.3 μm) spectral reflectance plot of interstellar object 3I/ATLAS obtained by IRTF/SpeX on July 14, 2025, compared against S-type, D-type, and L-type Solar System body spectra. The observed spectrum is noisy but shows a moderately red slope broadly consistent with S-type to D-type taxonomy. This appears to be an early characterization figure from a preprint or paper analyzing the third interstellar object's physical properties — highly relevant to UAP/exotic object research discussions.

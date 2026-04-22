@@ -1,0 +1,54 @@
+TYPE: 3D scientific visualization — solenoid/linear current magnetic field with helical field lines and radial divergence arrows
+
+CONTENT:
+- White background
+- Central structure: a red/crimson cylindrical beam or tube running horizontally from left to right across the image
+- The cylinder has a glossy, 3D-rendered appearance with lighter red highlights on the top surface
+- The cylinder represents either a solenoid coil, a current-carrying conductor, or a plasma beam
+
+MAGNETIC FIELD LINES (helical green elements):
+- Bright green helical/toroidal lines wrap around the red cylinder in a right-hand screw pattern
+- The helix pitch is moderate — approximately 4-6 full turns visible
+- The green field lines are smooth, 3D-rendered tubes (not flat lines), giving depth and curvature
+- The helix winding direction is consistent with a right-hand rule applied to current flowing left-to-right
+- These represent the azimuthal magnetic field B_φ circling a linear current, or the axial B_z field inside a solenoid
+
+RADIAL DIVERGENCE ARROWS (golden/yellow-green):
+- Multiple golden-yellow arrows radiate outward from the right end of the cylinder in all directions
+- The arrows form a starburst or sunburst pattern at the termination point of the beam
+- These represent the magnetic field diverging at the end of a solenoid (fringing field) or the radial electric field diverging from a point charge/beam end
+- The arrows vary in length, with the outermost arrows being shorter and angled at high elevation
+- Approximately 12-16 such arrows are visible
+
+ROTATIONAL INDICATOR (blue arrow):
+- A large curved blue arrow arcs around the near (front) side of the cylinder
+- The arrow curves counterclockwise when viewed from the right end
+- This is a standard physics visualization indicator for the rotational direction of the magnetic field or angular momentum
+- The blue arrow is thick and 3D-rendered, consistent with the overall illustration style
+
+LEFT END ELEMENT:
+- A small purple/violet arrow at the far left end of the cylinder (the input/source end)
+- This may indicate current direction, field polarity, or an input excitation
+
+AMBIENT GLOW:
+- An orange/amber diffuse halo or glow surrounds the entire structure
+- The glow is stronger near the cylinder center and fades toward the edges
+- This may represent electromagnetic radiation, plasma emission, or energy density
+
+PHYSICS CONTEXT:
+The visualization depicts one of the following:
+1. SOLENOID MAGNETIC FIELD: B_z = μ₀nI inside the solenoid (axial), with fringing field diverging at the ends. The helical lines represent the field lines that curl around the winding direction. The golden arrows at the terminus represent the fringing B-field at the open end.
+2. BIOT-SAVART FIELD OF A LINEAR CURRENT: B = μ₀I/(2πr) in azimuthal direction φ̂, shown as helical wrapping around the conductor.
+3. PLASMA PINCH CONFIGURATION: A Z-pinch or theta-pinch where the current-carrying plasma column is confined by its own magnetic field. The helical winding could represent a combined Z+θ pinch (screw pinch or reversed-field pinch geometry).
+4. ELECTROMAGNETIC COIL FOR PROPULSION: In UAP physics context, this visualization may represent a rotating magnetic field generator for inertial mass reduction or electromagnetic propulsion, where the rotating B-field creates a gyroscopic interaction with the local gravitational field.
+
+COLORS:
+- Cylinder: red/crimson with specular highlight
+- Magnetic field lines: bright green (helical)
+- Divergence arrows: golden-yellow
+- Rotation indicator: blue (curved arrow)
+- Left end indicator: purple/violet
+- Background: white
+- Ambient: orange-amber glow
+
+IMAGE DIMENSIONS: Approximately 800 x 500 pixels, landscape orientation

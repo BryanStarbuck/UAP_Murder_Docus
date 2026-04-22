@@ -1,0 +1,48 @@
+TYPE: Schematic diagram — multi-pole ring generator cross-section with central bullseye and 12 bicolor satellite circles; black and white vector; upward-facing central "mushroom" antenna protrusion.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background, black filled/outlined shapes. Circular overall composition with bottom-center protrusion extending downward.
+
+OUTER RING:
+* The boundary of the formation is defined by approximately 12 large bicolor (half-black/half-white) disc elements arranged in a continuous ring
+* Each element: two partially overlapping filled-black "petal" or "seed" shapes (like two tangent filled ellipses/teardrops), creating a bicolor appearance at each position around the ring
+* Adjacent elements share boundaries — their outer arcs overlap to form a continuous closed ring shape
+* The overall outer boundary is approximately circular with a scalloped/petal outer edge
+* Count: approximately 12 bicolor elements total around the ring (consistent with Paulsen's "twelve magnets")
+
+INNER BOUNDARY:
+* The inner arcs of all 12 satellite elements together define the inner boundary of the ring — a near-perfect circle
+* The interior of this inner boundary is white (empty) except for the central element
+
+CENTRAL CONCENTRIC RING SYSTEM:
+* At geometric center: a filled black circle (central rotor/magnet, approximately 25-30% of total diameter)
+* Surrounding it: a white ring (standing-crop annulus)
+* Surrounding that: a thin concentric ring outline (partially visible)
+* Approximately 2-3 concentric alternating white/black zones around the central black disc
+* The central element is the rotor of the generator
+
+BOTTOM PROTRUSION (key distinctive feature):
+* From the bottom of the central concentric ring system, a narrow elongated trapezoidal element extends downward (approximately 30% of total diameter in length)
+* It tapers from wider at the top (where it meets the ring interior) to narrower at the bottom
+* At the bottom of this element, a small filled-black spherical/circular shape (like a ball or bulb)
+* The protrusion is filled solid black
+* This protrusion is not present at top, left, or right — it appears only at the bottom center
+* It may represent: (a) the central shaft/spindle extending below the disc, (b) a directional indicator (this side points downward/axially), (c) a separate axial component such as a field coil or hall-effect sensor, (d) the "key" or "key of life" (ankh-like form) — though the shape is more tapering-rectangular than T-shaped
+
+OVERALL TOPOLOGY:
+* Main ring + 12 satellite bicolor elements: 12-pole stator boundary
+* Central concentric bullseye: rotor with concentric flux rings
+* Bottom protrusion: axial shaft / directional indicator
+
+COMPARISON TO PREVIOUS SCHEMATICS:
+* 3_2030159331849818113: similar concept but that schematic had the main ring as a separate outer circle with bicolor discs arranged ON the ring; this one integrates the bicolor elements as the ring itself — they ARE the ring, not separate circles on a ring
+* 3_2028696113969262593 (multi-pole ring schematic): similar concept with approximately 30 bicolor nodes — this image has fewer (12), confirming it represents a 12-pole machine
+* The bottom protrusion is unique to this schematic — not seen in previous schematics; suggests this is an evolution of the design with the axial shaft now explicitly depicted
+
+PHYSICS INTERPRETATION:
+* 12-pole ring: 12 permanent magnets alternating N-S; 6 N-S pairs; for 50 Hz line frequency, synchronous speed = 1000 RPM (6 pole pairs)... actually for a 12-pole machine (6 pole pairs): synchronous speed = 120f/P = 120×50/12 = 500 RPM
+* The bicolor discs at each pole position represent the magnet pole shoe geometry — each magnet subtends approximately 360°/12 = 30° arc, which is the standard pole pitch for a 12-pole machine
+* The bottom protrusion could also represent the "stainless-steel tube" mentioned in the generator diagrams (3_2028696616115593217) — the containment tube for the rotating assembly
+
+OVERALL COMMUNICATION: A black-and-white vector schematic of a 12-pole electromagnetic ring generator cross-section: approximately 12 bicolor (two-teardrops) satellite pole elements defining the outer ring, a central concentric bullseye (rotor/central magnet), and a distinctive bottom-center protrusion (axial shaft or field coil). The 12-pole count directly corresponds to Norman Paulsen's specification of "twelve magnets" on each counter-rotating disc of the UAP power plant.

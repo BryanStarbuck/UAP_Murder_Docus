@@ -1,0 +1,29 @@
+TYPE: Physics diagram — labeled circular cross-section of 3-phase rotating magnetic field generator with U-V-W phase labeling, enhanced labels. VARIANT of 3_2027422867709898752.
+
+CONTENT SUMMARY: A color-annotated schematic diagram very similar to 3_2027422867709898752 and its duplicates, but with additional/different labels. The diagram shows 6 satellite circles (stator poles) arranged hexagonally around a central bullseye (rotor), with updated text labels that now explicitly include the U-V-W three-phase designation and differentiate between "6 wire coils" (upper-left label) and "3 wire coils" (lower-right label), plus the full phase sequence "U-V-W-U-V-W."
+
+DIAGRAM ELEMENTS:
+- Same as 3_2027422867709898752: 6 large black satellite circles with smaller flanking dots arranged hexagonally; central concentric bullseye (black outer ring → white annular gap → red ring → large black inner disc → blue outer circle).
+
+UPDATED/DIFFERENT LABELS (from previous versions):
+- "6 wire coils" (BLUE text, upper-left) — same as before.
+- "3-phase rotating magnetic field U-V-W-U-V-W" (BLUE text, upper-right) — EXPANDED from "3-phase rotating magnetic field" to include the phase sequence notation "U-V-W-U-V-W," indicating the 6 poles are arranged in U, V, W, U, V, W order around the ring.
+- "central magnet N/S" (RED text, left) — CHANGED from "magnet N/S" to "central magnet N/S" — clarifying that this is the central/rotor magnet.
+- "3 wire coils" (RED text, lower-right) — NEW label — indicating 3 wire coils (possibly per phase, or the bottom 3 satellite circles constitute one set of 3 coils).
+- "3-phase rotating magnetic field U-V-W" (RED text, lower-right below "3 wire coils") — the full 3-phase designation with standard U-V-W naming.
+
+PHYSICS SIGNIFICANCE OF U-V-W NOTATION:
+- U-V-W is the standard European/IEC designation for the three phases of a 3-phase AC system (equivalent to A-B-C in North American notation, or R-S-T in some older systems).
+- "U-V-W-U-V-W" means the 6 stator poles are arranged: U, V, W, U, V, W — with each phase having 2 poles (one at 0° and one at 180°), creating the standard 2-pole-pair 3-phase arrangement.
+- This U-V-W labeling converts the abstract "3-phase magnetism" description into standard electrical engineering nomenclature — bridging the crop formation interpretation with professional AC motor/generator design.
+
+COLORS: Same as 3_2027422867709898752 — blue outer ring on central element; blue text; red text; black satellite circles; white background.
+
+TEXT LABELS:
+- "6 wire coils" (blue, upper-left)
+- "3-phase rotating magnetic field U-V-W-U-V-W" (blue, upper-right)
+- "central magnet N/S" (red, left)
+- "3 wire coils" (red, lower-right)
+- "3-phase rotating magnetic field U-V-W" (red, lower-right, below "3 wire coils")
+
+OVERALL COMMUNICATION: A variant of the 3-phase generator circular cross-section diagram (see 3_2027422867709898752) with updated labels explicitly identifying the U-V-W phase sequence ("U-V-W-U-V-W" for the 6-pole full arrangement) and renaming the central element as "central magnet N/S" — converting the crop formation schematic interpretation into standard IEC 3-phase AC machine engineering notation.

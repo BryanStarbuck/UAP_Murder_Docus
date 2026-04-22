@@ -1,0 +1,62 @@
+TYPE: Physics diagram — vertical cross-section schematic of a 3-phase electromagnetic generator with ball bearings, stainless steel tube, and magnet assembly. Labeled components.
+
+CONTENT SUMMARY: A detailed black-on-white schematic diagram showing the vertical cross-section (side view) of a complete 3-phase electromagnetic generator device, with color-coded labels identifying each component. The device consists of two external magnets (top and bottom), a central circular stator with 15 wire coil windings and surrounding ball bearings in a stainless steel tube. The diagram connects the crop formation schematic (circular cross-section) to a buildable physical device.
+
+DIAGRAM ELEMENTS:
+
+TOP MAGNET ASSEMBLY:
+- At the top of the diagram: a large filled black circle (approximately 80px diameter) with a small white center dot — representing the north/south pole face of an axial magnet.
+- The circle is outlined in red — matching the "magnet N/S" red label.
+- Above the circle: a Y-shaped or fork-shaped black element (possibly a mounting bracket or field concentrator shaped like a tuning fork or yoke).
+- Label: "magnet N/S" (red text, upper-right).
+- Above magnet label: "∧" (caret symbol, red) — indicating upward field direction.
+- Above: "3-phase magnetism" (blue text, upper-left) — indicating this magnet contributes to the 3-phase magnetic field.
+
+CENTRAL STATOR ASSEMBLY:
+- The central element is a large filled black circle (approximately 120px diameter) representing the stator or rotating disc.
+- Around the circumference of the central disc: approximately 15 smaller filled black circles (approximately 15-20px each) arranged in a ring — representing the 15 wire coil conductors (15 wire coils as labeled).
+- The central disc + ring of 15 coils is enclosed by a MAGENTA/PINK circle — the stainless steel tube housing.
+- Labels around the central assembly:
+  * "15 wire coils" (blue text, left) — the number of individual wire conductor positions.
+  * "stainless-steel tube" (magenta/pink text, right) — the outer housing material.
+  * "ball bearings" (magenta/pink text, right, lower) — rolling element bearings supporting rotation.
+  * "3-phase magnetism" (blue text, left) — the magnetic field type.
+
+BALL BEARING DETAIL:
+- Small circles (approximately 5px) visible between the 15-coil ring and the magenta outer tube — representing individual ball bearings in a race, supporting smooth rotation of the central disc within the stainless steel tube.
+
+BOTTOM MAGNET ASSEMBLY:
+- At the bottom of the diagram: a second large filled black circle (approximately 80px diameter) with a small white center dot — the second axial magnet (opposite pole from the top magnet).
+- The circle is outlined in red — matching the "magnet N/S" label.
+- Below the circle: a curved element (wire exit, terminal, or flex connector).
+- Label: "magnet N/S" (red text, lower-right).
+- Above bottom magnet: "∧" (caret symbol, red) — indicating field direction upward (toward the central element from both top and bottom magnets = converging axial field).
+
+CONNECTING SHAFT/TUBE:
+- Thin black lines connecting the top magnet to the central assembly and the bottom magnet to the central assembly — representing the shaft, mounting posts, or magnetic circuit connection.
+
+COLORS:
+- Black for all structural elements (magnets, disc, coils, shaft).
+- Red circles around top and bottom magnets; red caret symbols (∧); red "magnet N/S" labels.
+- Blue text labels ("3-phase magnetism", "15 wire coils").
+- Magenta/pink outer circle (stainless steel tube); magenta "stainless-steel tube" and "ball bearings" labels.
+- White background.
+
+TEXT LABELS:
+- "∧" (red, above top magnet) — upward field direction
+- "3-phase magnetism" (blue, upper-left)
+- "magnet N/S" (red, upper-right)
+- "15 wire coils" (blue, left-center)
+- "stainless-steel tube" (magenta, right-center)
+- "ball bearings" (magenta, right-center lower)
+- "∧" (red, above bottom magnet)
+- "magnet N/S" (red, lower-right)
+
+PHYSICS/UAP CONTEXT: This diagram represents a buildable version of the UAP power plant schematic described across this image series. The specific design:
+- TWO AXIAL MAGNETS (top and bottom): converging axial magnetic field through the center of the stator — this is the axial flux configuration. The ∧ arrows on both indicate both magnets face the same polarity toward the center (or the diagram shows the field direction pointing upward from both — suggesting opposing pole faces for flux concentration in the central zone).
+- 15 WIRE COILS: The central disc has 15 conductor positions around its circumference. 15 = 3 phases × 5 coils per phase, or 5 pole pairs per phase. This is a 5-pole-pair, 3-phase configuration producing electricity at 5× the rotational frequency per pole pair.
+- STAINLESS STEEL TUBE: Non-magnetic housing prevents flux leakage and allows rotation — stainless steel is non-ferromagnetic, ensuring the bearing race does not short-circuit the magnetic field.
+- BALL BEARINGS: Standard rolling element bearings allow low-friction rotation of the central disc within the fixed stator tube.
+This device is a buildable axial-flux, multi-pole, 3-phase permanent magnet generator (PMSG) — the same configuration used in modern wind turbine generators. At UAP scale, this device (with counter-rotation and high magnetic flux density) would generate the rotating electromagnetic field described in the companion diagrams as UAP propulsion.
+
+OVERALL COMMUNICATION: A vertical cross-section schematic of a complete 3-phase generator device: two axial permanent magnets (top and bottom, red-circled) flanking a central stator disc with 15 wire coil conductors (blue-labeled) in a ball-bearing-mounted stainless steel tube (magenta-labeled) — a buildable axial-flux permanent magnet generator whose design is encoded in the crop formation series and proposed as the UAP power plant mechanism.

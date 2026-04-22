@@ -1,0 +1,55 @@
+TYPE: Schematic diagram — canola field 3-phase generator crop formation schematic with main ring, central bullseye, lower satellite disc, and decreasing-ball chain; black and white vector illustration.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background, black line art, filled black circles/half-circles for solid elements. Vertical composition with the main circular generator schematic at top and an appendage (chain of decreasing circles) extending downward from the bottom.
+
+MAIN UPPER CIRCLE:
+* Large outer bounding circle (thin black outline, white interior)
+* Diameter approximately 65% of image height
+* Interior: white/empty space with central element
+
+CENTRAL ELEMENT (bullseye):
+* Located at approximately 55% from top of main circle
+* Concentric target: outer circle (thin line), inner filled black circle (rotor/central magnet)
+* The bullseye represents the rotor or central axial magnet of the generator
+
+PERIPHERAL SATELLITE ELEMENTS (ring of bicolor discs):
+* Approximately 10-12 bicolor (half-black, half-white) disc elements arranged around the inner circumference of the main outer circle
+* Each element is composed of two overlapping circles: one slightly inside the main ring, one slightly outside, creating a bicolor disc effect (filled black on outer half, white/outline on inner half)
+* The elements are evenly distributed at approximately 30° angular intervals (suggesting 12 elements total = 12-pole machine, consistent with Norman Paulsen's "12 magnets" per disc)
+* Each element's outer portion (the part extending slightly beyond the main circle boundary) is filled solid black
+* Each element's inner portion (the part inside the main circle) is outlined only (white with thin black border)
+
+LOWER SATELLITE CIRCLE:
+* A large separate circle (outline only, white interior) positioned below and tangent to the bottom of the main circle
+* Approximately 30-35% of the main circle diameter
+* This large lower circle represents an auxiliary element — possibly: (a) a second disc/rotor (the "two counter-rotating discs" design), (b) a resonator or capacitor element, (c) a separate disc attached axially to the main generator
+
+BALL CHAIN (appendage, below lower circle):
+* Below the large lower circle, a vertical chain of 4 spheres in decreasing size order (top to bottom: largest, medium-large, medium, smallest)
+* All filled solid black
+* Approximately 4 spheres total visible
+* The chain represents: (a) a sequence of ball bearings in the axial shaft, (b) a decreasing-energy transmission chain, (c) a visual "tail" or pointer indicating directionality (axial flow direction)
+* The decreasing size suggests energy dissipation or a tapered shaft
+
+BICOLOR DISC ELEMENT DETAIL:
+* Each of the ~12 peripheral elements consists of two overlapping circles of similar size
+* The overlap creates a lens-shaped (vesica piscis) region at the ring boundary
+* One circle sits outside the main ring boundary (filled black = permanent magnet, N or S pole)
+* One circle sits inside the main ring boundary (outlined = the corresponding stator coil/pole shoe)
+* The bicolor (filled + outlined) character may represent: the N-S magnet pole pair at each stator position
+
+COUNT: If 12 bicolor elements → 12-pole machine = 6 N-S magnet pairs; consistent with Norman Paulsen's "twelve magnets on the outside perimeter of each disc" (3_2029664471988457474)
+
+PHYSICS INTERPRETATION:
+* This is a schematic representation of the crop formation topology also seen in canola field formations (3_2028703486578421760, 3_2029085869198684160):
+  - Main ring = stator frame/outer boundary
+  - ~12 bicolor disc elements = 12 pole pieces / permanent magnets
+  - Central bullseye = central magnet/rotor hub
+  - Lower large circle = second disc (counter-rotating partner disc)
+  - Ball chain = axial shaft/bearing assembly or energy output
+* The schematic appears to have been created from an aerial photograph of the canola formation, abstracted into a clean vector diagram
+* 12-pole topology: fundamental frequency at rotation speed n = 50 Hz line frequency → n = 50/6 = 8.33 rev/s = 500 RPM synchronous speed
+
+OVERALL COMMUNICATION: A black-and-white vector schematic of the canola field crop formation generator design: a large outer ring with approximately 12 bicolor (half-black/half-white) satellite disc elements uniformly distributed around the ring boundary, a central concentric bullseye (rotor/central magnet), a lower large satellite circle (counter-rotating second disc), and a decreasing-ball chain appendage (axial shaft or ball bearing assembly). Directly encodes Norman Paulsen's 12-magnet counter-rotating disc UAP power-plant specification.

@@ -1,0 +1,54 @@
+TYPE: Physics diagram — simplified vertical cross-section of 3-phase generator showing two magnets, central stator disc, and stainless steel tube housing. Minimal schematic.
+
+CONTENT SUMMARY: A simplified black-and-white schematic diagram (with magenta/pink and red color annotations) showing the vertical cross-section of the core of a 3-phase electromagnetic generator. This is a more abstracted version of the full device diagram in 3_2027424867071705089 — showing only the essential components: two axial magnets (top and bottom) flanking a central disc element within a stainless steel tube, with directional field indicators (∧) and component labels.
+
+DIAGRAM ELEMENTS:
+
+TOP MAGNET:
+- An open/hollow circle (thin-outline ring, approximately 80px diameter) — representing the end face of the top permanent magnet (north or south pole face).
+- The open/unfilled circle (as opposed to a filled black disc) represents the magnet face view with a field emerging outward.
+- "magnet N/S" label in red text to the right.
+
+UPPER FILLED DISC:
+- A large solid filled black circle (approximately 80px diameter) positioned below the top magnet ring — directly below it, touching it.
+- This filled disc represents either: the opposite face of the top magnet (field going into the material = filled), or an intermediate structural element (pole piece, flux concentrator) between the top magnet and the central stator.
+
+CENTRAL STATOR DISC IN TUBE:
+- In the middle of the diagram: a smaller partially-filled circle — one half filled black, one half open (like a yin-yang split, or a 180° arc).
+- Enclosed by a MAGENTA/PINK circle — the stainless steel tube housing.
+- "3-phase magnetism" label in red text, left side.
+- "stainless-steel tube" label in magenta/pink text, right side.
+- The magenta outer circle (tube) is approximately 80px diameter, enclosing the central smaller element.
+- This represents the single-disc stator core at the center of the device, within its protective non-magnetic housing.
+
+LOWER PARTIALLY-FILLED CIRCLE:
+- A medium circle (approximately 50px diameter) with a small filled black arc/segment at the lower-left — like a crescent moon or partial eclipse shape.
+- This may represent the lower pole piece or flux return path element.
+
+BOTTOM MAGNET:
+- An open/hollow circle (thin-outline ring, approximately 40px diameter) — the bottom permanent magnet face.
+- "magnet N/S" label in red text to the right.
+
+DIRECTIONAL INDICATORS:
+- "∧" (caret/upward arrow) symbols in red, appearing twice — once between the top magnet and upper disc, and once between the central stator and lower circle.
+- Both ∧ symbols indicate upward field direction — both magnets' fields point upward toward the center of the device (converging axial field).
+
+COLORS:
+- Black filled discs and outline circles (structural elements).
+- Magenta/pink outer circle (stainless steel tube); magenta text labels.
+- Red text labels ("magnet N/S", "3-phase magnetism", "∧").
+- White background.
+
+TEXT LABELS:
+- "magnet N/S" (red, right — two instances, one for each magnet)
+- "∧" (red, twice — field direction indicators)
+- "3-phase magnetism" (red, left-center)
+- "stainless-steel tube" (magenta, right-center)
+
+PHYSICS/UAP CONTEXT: This simplified diagram strips the full device (3_2027424867071705089, 3_2027424867071705089) down to its essential flux-generation core:
+- TOP MAGNET → UPPER POLE PIECE → CENTRAL DISC (in stainless tube) → LOWER POLE PIECE → BOTTOM MAGNET
+- The converging ∧ field directions from both magnets create an axial magnetic field through the central disc — the same geometry as an axial-flux permanent magnet generator.
+- The "stainless-steel tube" housing is critical: stainless steel (304 or 316 grade) is non-ferromagnetic (austenitic), so it does not disturb the magnetic field inside while providing structural support and preventing the coil windings from interfering with the external field.
+- The single central disc within this converging two-magnet field is the simplest implementation of Norman Paulsen's claimed one-disc power generation device.
+
+OVERALL COMMUNICATION: A simplified vertical cross-section schematic of the core of the 3-phase electromagnetic generator — two axial permanent magnets (top and bottom, red-labeled "magnet N/S") flanking a central disc element within a magenta-outlined stainless steel tube, with ∧ field direction indicators showing converging axial field — the minimal essential topology of the proposed UAP power plant.

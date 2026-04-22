@@ -1,0 +1,22 @@
+TYPE: Physics diagram — simplified vertical cross-section of 3-phase generator with "3-phase rotating magnetic field U-V-W" label. VARIANT of 3_2027848872186580992.
+
+CONTENT SUMMARY: A simplified schematic diagram very similar to 3_2027848872186580992, showing the vertical cross-section of the core of the 3-phase generator. The layout is the same (two magnets top and bottom, central disc in stainless steel tube, ∧ field direction indicators) but with one significant label change: "3-phase magnetism" has been replaced with "3-phase rotating magnetic field U-V-W."
+
+KEY DIFFERENCE FROM 3_2027848872186580992:
+- CENTER-LEFT LABEL: "3-phase rotating magnetic field U-V-W" (RED text) — replacing "3-phase magnetism." This adds the U-V-W three-phase designation and explicitly names the field as "rotating."
+
+ALL OTHER ELEMENTS IDENTICAL:
+- TOP: open hollow circle (top magnet face) with "central magnet N/S" (RED, right).
+- UPPER-MIDDLE: large filled black disc (pole piece or opposite magnet face).
+- CENTER: partially-filled circle in magenta/pink outer ring (stainless steel tube).
+- "stainless-steel tube" (MAGENTA text, right).
+- ∧ directional indicators (RED, ×2 — both indicating upward field direction).
+- LOWER-MIDDLE: crescent-shaped partially-filled circle (lower pole piece).
+- BOTTOM: open hollow circle (bottom magnet face) with "central magnet N/S" (RED, right).
+- White background.
+
+PHYSICS SIGNIFICANCE:
+- The addition of "rotating" to the field description ("3-phase rotating magnetic field U-V-W") is key: it clarifies that the central disc in the stainless steel tube is being operated in an AC configuration where the combined field of the 3 phases rotates at synchronous speed — not a static DC field. This means the device is generating a rotating field, not just a static magnetic flux.
+- U-V-W confirms standard IEC 3-phase phase naming.
+
+OVERALL COMMUNICATION: A variant of the simplified generator cross-section diagram (see 3_2027848872186580992) with the central element label updated to "3-phase rotating magnetic field U-V-W" — clarifying that the field produced is a rotating 3-phase AC field rather than a static magnetic flux, consistent with the U-V-W phase sequence of standard 3-phase AC machine design.

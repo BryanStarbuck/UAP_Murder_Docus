@@ -1,0 +1,44 @@
+TYPE: Aerial photograph — multi-ring gear/crescent crop formation with central bullseye. DUPLICATE or near-duplicate of 3_2028704752788520960.
+
+CONTENT SUMMARY:
+
+LAYOUT: Aerial photograph of a crop formation in a green/golden-green field. Vertical tramlines (parallel tractor lines) visible — three sets of parallel lines running vertically through the image. Slightly oblique aerial angle.
+
+CENTRAL STRUCTURE:
+* Innermost small filled circle (dark center)
+* Surrounded by one standing-crop ring (lighter annulus)
+* Then one flattened-crop ring
+* Then another standing-crop ring
+* Total approximately 3-4 concentric rings in the central bullseye system
+* Central bullseye diameter approximately 15-20% of the total formation diameter
+
+OUTER RING ELEMENTS (crescent/D-shape satellites):
+* Approximately 14-16 large crescent/D-shaped elements arranged in a ring around the central bullseye
+* Each element: a near-full circle with one side (the inner side) cut or flattened, giving it a D or crescent shape
+* The inner face of each crescent faces the central bullseye; the outer curved face points away
+* Adjacent crescents nearly touch each other around the ring, with only thin standing-crop boundaries between them
+* The crescents are approximately uniform in size, each ~25-30% of the total formation diameter
+* Crescent orientation: each one is oriented radially so that the flat inner face is tangential to the ring of crescents
+
+OUTER BOUNDARY:
+* The outermost boundary of the formation is defined by the outer arcs of all the crescent elements — forming an overall scalloped or "gear-tooth" outer circle
+* Overall formation diameter (outer edge to outer edge): approximately 80-90% of the image width
+
+COLOR AND TEXTURE:
+* Green/golden-green field (live green crop, possibly unripe wheat or barley)
+* Lighter green = flattened crop (standing less, reflecting more light)
+* Darker/richer green = standing crop
+* Three sets of vertical tramlines cut through the formation
+
+PHYSICS INTERPRETATION:
+* The central bullseye + ring of 14-16 D-shaped crescent elements is geometrically equivalent to the cross-section of the electromagnetic generator design documented throughout this image series:
+  - Central bullseye = rotor/central magnet
+  - Inner ring = air gap / stator core
+  - 14-16 crescent elements = stator pole pieces (one per pole)
+  - For 16 crescents: 16-pole machine = 8 N-S pairs; at 50 Hz line frequency, rotor speed = 50/8 × 60 = 375 RPM; at 60 Hz = 450 RPM
+  - For 14 crescents: 14-pole machine = 7 N-S pairs; unusual but possible
+* The crescent/D-shape of each element is consistent with stator pole shoes in a radial-flux permanent magnet machine — the D-profile provides efficient flux concentration from the permanent magnets into the air gap
+* 16-pole configuration matches "2 × 8 = 16 N-S magnets" label seen in other slides in this series (3_2028696633677053952)
+* This formation is virtually identical in topology to 3_2028704752788520960 — same central bullseye + outer ring of ~14-16 D-shaped crescents; may be the same formation photographed from a slightly different angle or may be a different formation with the same design
+
+OVERALL COMMUNICATION: An aerial photograph of a multi-ring central bullseye surrounded by approximately 14-16 crescent/D-shaped satellite elements arranged in a gear-ring pattern in a green crop field. The formation directly encodes the cross-sectional topology of a multi-pole electromagnetic generator (radial-flux permanent magnet machine with central rotor and 14-16 stator pole pieces), consistent with Norman Paulsen's counter-rotating magnetic disc power plant design.

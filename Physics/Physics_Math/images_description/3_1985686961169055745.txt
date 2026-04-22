@@ -1,0 +1,34 @@
+Type: Diagram — colored version of the Metatron's Cube / 64-tetrahedron grid diagram (companion to 3_1985686877262012416.jpg), now with red node markers and an orange central node, plus the same "§" character to the right.
+
+Overall Layout:
+* Same composition as 3_1985686877262012416.jpg but with color added to the node positions.
+* Black-on-white base with freehand outer oval/spiral, thick black annular ring, precision inner circles, and the complex triangular lattice.
+
+Color Changes from Grayscale Version:
+* Node Markers — Red circles: At each vertex/node of the triangular lattice inside the central figure, a solid red filled circle has been added. Approximately 19-25 red nodes are visible at the intersection points of the lattice lines.
+* Central Node — Orange circle: The single central node (at the very center of the entire figure) is colored orange rather than red, distinguishing it as the central/origin point.
+* All line work remains black.
+* The thick annular ring and freehand outer spiral remain black.
+
+Geometric Structure (detailed):
+* The lattice consists of a central hexagonal arrangement surrounded by outer hexagonal layers.
+* Node count analysis (approximate):
+  - 1 central orange node.
+  - 6 nodes in the first ring around center.
+  - 12 nodes in the second ring.
+  - Additional outer nodes along the hexagonal boundary.
+  - Total: approximately 19-25 nodes (consistent with Metatron's Cube = 13 circles, or 64-tetrahedron grid = specific node count).
+* The lines connect each node to every other node — creating the complete graph K_n topology.
+* This complete graph on the hexagonal lattice produces the dense triangular mesh seen in the interior.
+
+Mathematical Significance:
+* With the nodes highlighted in red, this diagram clearly shows that the geometric figure is built on a discrete set of lattice points (the nodes), connected by straight lines.
+* This is the mathematical structure of:
+  - Metatron's Cube: 13 circles arranged as 1 center + 6 surrounding + 6 outer, with all centers connected.
+  - 64-tetrahedron grid: The 2D projection of 64 tetrahedra sharing a common center, producing 25 nodes when projected to 2D.
+* The color distinction between the orange center node and the red peripheral nodes emphasizes the central node as the "source" or "origin" of the entire field structure.
+
+"§" Character:
+* Same "§" (section sign) appears to the right of the figure, as in the grayscale version — confirming this is the same diagram in a different color rendering.
+
+Summary: A colored version of the Metatron's Cube / 64-tetrahedron grid diagram (3_1985686877262012416.jpg), with red solid circles marking all lattice nodes of the triangular grid and an orange circle at the central node. The outer freehand spiral, thick annular ring, and "§" marker are identical to the grayscale version. The color scheme highlights the discrete node structure of the complete graph underlying the sacred geometry lattice, emphasizing the central node as distinct from the peripheral nodes — relevant to zero-point energy and vacuum geometry theories in UAP propulsion physics.

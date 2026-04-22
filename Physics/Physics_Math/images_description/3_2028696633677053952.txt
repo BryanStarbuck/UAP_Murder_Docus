@@ -1,0 +1,30 @@
+TYPE: Physics diagram — vertical cross-section of 3-phase generator with U-V-W labeling and "2 × 8 = 16 N-S magnets" specification. VARIANT of 3_2027424867071705089.
+
+CONTENT SUMMARY: A labeled vertical cross-section schematic very similar to 3_2027424867071705089 (the 15-coil, ball-bearings, stainless-steel-tube diagram) but with updated labels incorporating U-V-W phase notation and explicit N-S magnet count calculations.
+
+KEY DIFFERENCES FROM 3_2027424867071705089:
+- UPPER-LEFT LABEL: "3-phase rotating magnetic field U-V-W" (BLUE text) — replacing "3-phase magnetism."
+- UPPER-RIGHT LABEL: "central magnet N/S" (RED text) — changed from "magnet N/S."
+- MIDDLE-LEFT LABELS:
+  * "3-phase rotating magnetic field U-V-W-U-V-W" (BLUE text) — the full U-V-W-U-V-W sequence indicating the 6-pole arrangement.
+  * "2 × 8 = 16 N-S magnets" (BLUE text) — replacing "15 wire coils" — now describing the magnet configuration (2 sets of 8 alternating-polarity magnets = 16 total N-S magnets).
+- MIDDLE-RIGHT LABELS: "stainless-steel tube" (MAGENTA) and "ball bearings" (MAGENTA) — same as before.
+- LOWER-RIGHT: "central magnet N/S" — same label.
+
+ALL OTHER VISUAL ELEMENTS IDENTICAL:
+- Top magnet (filled black disc with white dot, red circle outline).
+- Y-shaped bracket above top magnet.
+- Ring of satellite circles around central disc (now labeled as "2×8=16 N-S magnets" rather than "15 wire coils").
+- Magenta outer ring (stainless steel tube).
+- Bottom magnet (filled black disc with white dot, red circle outline).
+- S-curve connector below bottom magnet.
+- Both ∧ directional indicators in red.
+
+PHYSICS SIGNIFICANCE:
+- "2 × 8 = 16 N-S magnets": The ring of elements around the central disc is now explicitly described as 16 permanent magnets (8N + 8S, alternating). This reconciles the apparent discrepancy between "15 wire coils" (wire conductors, 15 positions) and the actual magnet count (16 magnets). The distinction is:
+  * Magnets: 16 permanent magnets arranged alternately N-S around the ring.
+  * Wire coils: the coil conductors thread between the magnet poles — 3 phases × 3 conductors per phase = 9 conductors (or varying counts depending on design).
+- "U-V-W-U-V-W" fully specifies the 6-pole phase sequence: U pole 1, V pole 1, W pole 1, U pole 2, V pole 2, W pole 2 — giving 6 poles = 3 pole pairs.
+- The combination of "16 N-S magnets" (permanent magnet rotor) + "U-V-W-U-V-W" 6-pole stator winding creates a specific machine type: a 16-magnet-rotor, 6-pole-pair 3-phase PMSG (Permanent Magnet Synchronous Generator). Output frequency = 8 pole pairs × n_rps (rev/s) = 8 × 60 Hz at 3600 RPM.
+
+OVERALL COMMUNICATION: A variant of the full 3-phase generator vertical cross-section schematic with updated labels specifying "2 × 8 = 16 N-S magnets" (blue, replacing "15 wire coils"), "3-phase rotating magnetic field U-V-W-U-V-W" (blue), and "central magnet N/S" (red) — advancing the engineering specification with explicit permanent magnet count (16 total = 2×8 N-S pairs) and full U-V-W-U-V-W phase sequence notation for a 6-pole-pair PMSG design.

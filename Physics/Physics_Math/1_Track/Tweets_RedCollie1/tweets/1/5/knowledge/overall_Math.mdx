@@ -1,0 +1,182 @@
+# overall_Math.mdx
+# Mathematical Equations, Relationships, and Formal Structure
+
+---
+
+## Source: 1964819645942452454.yaml / 1989931060122259519.yaml
+
+**Homopolar Motor — Core Equations**
+
+The homopolar (Faraday disc) motor is the central device in Drew's experimental program.
+
+**Motional EMF of spinning disc** (generator mode):
+
+    ε = ∫₀ᴿ (v × B) · dr̂ dr = ∫₀ᴿ (Ωr)(B_z) dr = ½ Ω B_z R²
+
+where:
+- R = disc radius [m]
+- Ω = angular velocity of disc [rad/s]
+- B_z = axial magnetic field (external, from permanent magnet) [T]
+
+**Radial current density** in disc (motor mode, current I injected via brushes):
+
+    J_r(r) = I / (2π r h σ) × σ = I / (2π r h)
+
+where h = disc thickness. (For a thin disc approximation, J_r = I/(2πr h) per Ohm's law with uniform conductivity.)
+
+**Azimuthal Lorentz force per unit volume** on disc:
+
+    f_φ = J_r × B_z = [I/(2πr h)] × B_z
+
+**Torque on disc** due to Lorentz force:
+
+    T = ∫₀ᴿ ∫₀ʰ ∫₀²π r · f_φ · r dφ dz dr
+    T = ∫₀ᴿ (2πr h) · r · [I/(2πrh)] · B_z · r dr
+    T = I B_z ∫₀ᴿ r dr = ½ I B_z R²
+
+This result T = ½ I B_z R² is the standard homopolar motor torque formula. Note that the torque is:
+- Linear in current I
+- Linear in field B_z
+- Quadratic in radius R
+
+This makes large-R, high-B_z devices proportionally stronger.
+
+**Power** input (electrical) = Power output (mechanical) + Ohmic losses:
+
+    P_elec = ε × I = (½ Ω B_z R²) × I = T × Ω = P_mech
+
+(Ideal efficiency, ignoring brush contact resistance and disc resistivity.)
+
+---
+
+## Source: 1918484226120540645.yaml / 2018999819327693117.yaml
+
+**3-Phase Rotating Magnetic Field — Mathematical Structure**
+
+Three-phase currents at frequency ω (electrical angular frequency):
+
+    I_U(t) = I₀ cos(ωt)
+    I_V(t) = I₀ cos(ωt - 2π/3)
+    I_W(t) = I₀ cos(ωt - 4π/3)
+
+Field contribution from each phase (for coils at angular positions 0, 2π/3, 4π/3 in the XY plane):
+
+    B_U(θ, t) = (B₀/2)[cos(θ - ωt) + cos(θ + ωt)]
+    B_V(θ, t) = (B₀/2)[cos(θ - 2π/3 - ωt) + cos(θ - 2π/3 + ωt)]
+    B_W(θ, t) = (B₀/2)[cos(θ - 4π/3 - ωt) + cos(θ - 4π/3 + ωt)]
+
+Superposition (using cos(A) + cos(B+2π/3) + cos(B+4π/3) = 0 for the backward-rotating component):
+
+    B_total(θ, t) = (3B₀/2) cos(θ - ωt)
+
+The backward-rotating terms cancel identically; only the forward-rotating component survives. The result is a field of constant amplitude 3B₀/2 rotating uniformly at ω. This is the mathematical basis for AC induction and synchronous motor operation.
+
+**For Drew's 12-coil, series-wired configuration** (4 coils per phase, coils at 0°, 90°, 180°, 270° for each phase):
+
+The U-phase coils at positions 0°, 90°, 180°, 270° produce spatial harmonics at n = 4, 8, 12, ... rather than n = 2 (the 2-pole fundamental). The dominant term is a 4-pole field (n=4):
+
+    B_U^(4)(θ, t) ∝ B₀ cos(4θ - ωt)
+
+For three phases with 120° electrical phase offset and 4-pole spatial distribution:
+
+    B_total^(4)(θ, t) ∝ (3B₀/2) cos(4θ - ωt)
+
+This is a 4-pole rotating field at electrical frequency ω, rotating in the XY plane. A permanent magnet rotor with p_r pole pairs interacting with this field sees a relative electrical frequency of:
+
+    ω_rel = ω - p_r × Ω_mech
+
+Synchronous condition: ω_rel = 0, giving Ω_mech = ω / p_r.
+
+For Drew's counter-spin: p_r × Ω_mech = -ω (rotor spinning opposite to field), giving ω_rel = 2ω — a doubled interaction frequency.
+
+---
+
+## Source: 2018999819327693117.yaml — referenced tweet 2018898646163726780
+
+**Counter-Spin Wiring — Mathematical Consequence**
+
+Standard parallel wiring of p coils per phase: voltage V_phase appears across each coil; coil impedances Z sum in parallel giving Z_total = Z_coil/p. Current per coil = V/Z_coil (same as single coil). Field from each coil independent and additive.
+
+Series wiring of p coils per phase: voltage V_phase divided across p coils; each coil sees V/p. Total impedance Z_total = p × Z_coil. Current through each coil I = V/(p × Z_coil) = I_parallel/p.
+
+But: the spatial positions of the series-connected coils are at angular separations of 360°/12 × (spacing factor). If the 4 U-phase coils are at 0°, 90°, 180°, 270° (spatial quadrature), their sequential current flow creates a rotating phasor in 90° increments per coil:
+
+    Resultant field direction at time t: sum of 4 equal-amplitude vectors at 0°, 90°, 180°, 270° with current I
+
+The sum is zero in vector terms (the 4 directions cancel pairwise). This appears to imply no net field — but the *time-varying* current I_U(t) = I₀ cos(ωt) modulates this sum at frequency ω, creating an oscillating rather than rotating 4-pole field.
+
+Drew's counter-spin claim implies the specific arrangement creates a *counter-rotating* component by the arrangement of winding sense (whether each coil is wound clockwise or counter-clockwise). The specific cross product of winding sense × spatial position × current phase creates the net counter-rotating field.
+
+This is a nontrivial electromagnetic design choice not captured by standard motor winding tables, and is consistent with Drew's claim that this specific wiring is the "key" to the UFO-style counter-spin behavior.
+
+---
+
+## Source: 2034023591986270527.yaml — referenced tweet 2033962410789507207
+
+**8-Pole Rotor + 2-Pole Stator — Asynchronous Force Harmonics**
+
+Rotor: 8 alternating N-S poles → 4 pole pairs, p_r = 4.
+Stator: 6-coil, 3-phase, 2-coil-per-phase → 2-pole field, p_s = 1.
+
+The interaction torque between a p_r-pole rotor and a p_s-pole stator field:
+
+    T_interaction ∝ cos[(p_r - p_s)θ - (p_r Ω - ω)t]
+
+For p_r = 4, p_s = 1:
+
+    T ∝ cos[3θ - (4Ω - ω)t]
+
+This produces a torque wave with 3 spatial periods and temporal frequency (4Ω - ω). For synchronous operation of this term: 4Ω = ω → Ω = ω/4. At this specific rotation speed, the 3θ spatial harmonic of the torque becomes a constant (DC) torque contributing to net rotation.
+
+All other harmonics (from higher multipoles of both rotor and stator fields) contribute oscillating torques with mean zero. Only terms where p_rotor = p_stator contribute net average torque in classical analysis.
+
+The anomalous claim: at certain values of Ω and ω, the non-zero harmonic interactions (with p_r ≠ p_s) create net forces in the Z direction (axial) rather than merely oscillating azimuthal torques. This would require a mechanism beyond standard 2D (XY-plane) electromagnetic analysis — specifically, a coupling between the azimuthal force harmonics and the axial (Z) geometry of the device.
+
+---
+
+## Source: 2002839634418839992.yaml
+
+**3I/ATLAS Jet Rotation Rate**
+
+Observed: jet rotates 20° in 60 seconds.
+
+Angular velocity: ω_jet = 20° / 60 s = 1/3 °/s = (π/540) rad/s ≈ 5.82 × 10⁻³ rad/s
+
+Full rotation period: T = 2π / ω_jet = 2π / (5.82 × 10⁻³) ≈ 1080 s ≈ 18 minutes
+
+For comparison, natural cometary rotation periods:
+- Fast rotators: ~2–4 hours (7200–14400 s)
+- Typical: 8–24 hours
+- Ratio: 18 min / 2 hr = 18/120 ≈ 0.15 — a factor of ~7 faster than the fastest natural comets
+
+The angular momentum of a body rotating at period T:
+    L = I ω = (2/5)MR² × (2π/T)
+
+For a body the size of a small comet nucleus (M ~ 10¹² kg, R ~ 100 m):
+    L ≈ (2/5)(10¹²)(10⁴)(2π/1080) ≈ 4.6 × 10¹³ kg m² s⁻¹
+
+This is a physically large angular momentum that would have to be imparted and continuously maintained against dissipation if the object is actively rotating its jet — consistent with Drew's claim of active mechanical control rather than passive volatile sublimation.
+
+---
+
+## Source: 1954345205014171795.yaml + referenced tweet 1954332864230953149
+
+**4D Periodic Electron — Mathematical Framework**
+
+Drew's model: particles are "4-D periodicities through time."
+
+In standard quantum field theory, a free electron is described by the Dirac equation:
+
+    (iγ^μ ∂_μ - m)ψ = 0
+
+where γ^μ are the 4×4 Dirac matrices, ψ is a 4-component Dirac spinor, and m is the electron mass. The plane-wave solutions are of the form:
+
+    ψ(x) = u(p) e^{-ip_μ x^μ}
+
+These are indeed "4D periodicities" in the sense that e^{-ip_μ x^μ} = e^{-i(Et - **p**·**x**)}, a periodic function in all four spacetime dimensions with temporal period T = 2π/E = h/(mc²) (at rest) and spatial period λ = h/|**p**| (the de Broglie wavelength).
+
+Drew's additional claim: "we only 'see' those time-flowing waves, when a particle is in relative motion to ourselves, and intersects our 3-D space." This is formally similar to the relativistic Doppler/Aharonov interpretation of wave-particle duality — a stationary particle (p=0) has only temporal periodicity (e^{-iEt/ħ}), while a moving particle has spatial periodicity visible as an interference/diffraction pattern.
+
+The "spin-1/2 or spin-1 symmetries" refer to the SU(2) group structure of fermionic (spin-1/2) particles and the SO(3)/SU(2) structure of bosonic (spin-1) particles in 4D spacetime. These are constraints on the 4D periodicity structure — not all 4D periodic functions are valid particle descriptions, only those transforming as irreducible representations of the Lorentz group SO(3,1).
+
+---

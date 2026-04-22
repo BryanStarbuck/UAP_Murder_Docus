@@ -1,0 +1,45 @@
+TYPE: Photograph — overhead view of toroidal coil assembly with central shaft on circular acrylic disc/turntable, and four labeled metallic disc rotors arranged by size
+
+CONTENT OVERVIEW:
+A clear overhead photograph showing a new electromagnetic device configuration featuring a toroidal/ring coil assembly as the main component. The toroid is mounted on a circular acrylic disc with a central shaft. Four metallic disc rotors of decreasing size are laid out in a row in the background, each labeled with handwritten text. This represents a new experimental apparatus or a new iteration of the existing device focused on a toroidal coil configuration.
+
+STRUCTURAL ELEMENTS:
+1. Main toroidal coil assembly (foreground, center):
+   - A toroidal (ring/donut-shaped) coil assembly on a clear acrylic disc platform
+   - The torus body: appears to be wound with dark wire (visible as dark material) on a ring-shaped core, with black tape or insulation covering portions
+   - Red tape strips are applied to the outer face of the torus (same red tape seen throughout the device series)
+   - At the center of the torus, a white hollow cylinder (PVC or nylon spacer) with a brass/metallic inner ring visible inside it
+   - Through the central hole of the torus, a vertical metallic shaft rises (approximately 8-10mm diameter, silver/stainless)
+   - The entire assembly sits on a clear acrylic circular disc (approximately 25-30cm diameter)
+   - The acrylic disc is placed on the white octagonal platform (partially visible at lower frame)
+   - Two wires (white and red) trail from the torus to the front of the disc, ending in red alligator clip connectors at the near edge
+
+2. Four labeled metallic disc rotors (background, in a row):
+   - Four flat metallic discs arranged in a row from left (largest) to right (smallest):
+     * Leftmost disc: largest, approximately 20-22cm diameter, silver/chrome metallic, labeled with handwritten text — partially readable as "180-" or "160-" followed by a character (possibly "D" or "Q")
+     * Second disc: approximately 15-17cm diameter, similar silver metallic, labeled "R-3" or "R·3" or similar
+     * Third disc: approximately 12-14cm diameter, similar metallic, labeled "Q-3" or "04-3" or similar
+     * Fourth disc (rightmost): smallest, approximately 8-10cm diameter, similar metallic, labeled "45-" or "4S-" followed by a character
+   - All discs have a central hole (approximately 10-15mm diameter) for mounting on the shaft
+   - The discs appear to be machined aluminum or stainless steel — professional quality machined components
+   - These are Faraday disc-type rotors of different diameters, to be tested on the central shaft of the toroidal coil assembly
+
+3. White circular platform:
+   - White flat surface (the octagonal platform) visible at lower edge of frame
+   - Additional cylindrical components visible at the far right background (a white cylindrical tube/PVC pipe section)
+
+4. Red alligator clip leads:
+   - Two red insulated wires with red alligator clips at the near edge of the acrylic disc
+   - These are the electrical connections to the toroidal coil
+
+COLORS: Dark (torus coil body, black tape); red (tape strips on torus, alligator clips, partial wire); white (central nylon spacer, platform, PVC component); brass/gold (inner ring of spacer); silver/chrome (metallic disc rotors, central shaft, acrylic disc); gray/white (background platform surface).
+
+PHYSICS CONTEXT:
+This apparatus is a precision version of a homopolar motor or electromagnetic disc experiment using a toroidal coil as the primary magnetic field source:
+- The toroidal coil, when energized, produces a magnetic field confined primarily within the torus body (Biot-Savart law for a toroid: B_toroid = μ₀NI/(2πr) inside, essentially zero outside for an ideal toroid)
+- However, a real toroid has a small external fringing field — and this fringing field could interact with a rotating disc above or below the torus
+- More likely, this apparatus places the disc rotor within the central hole of the toroid, where the toroid's field is perpendicular to the disc plane — creating an axial magnetic field configuration for Faraday disc operation
+- The four disc rotors of different diameters (labeled with diameter values: "180mm", "R3", "Q3", "45mm" or similar) allow the researcher to test how the disc size affects the homopolar EMF generated: EMF = ½ω B r² (for a disc rotor rotating at angular velocity ω in axial field B out to radius r)
+- The labeling of the discs with sequential codes (R-3, Q-3, Q-4 seen in earlier frames) is consistent with the researcher's systematic catalog of components
+
+SUMMARY: Overhead view of a new experimental configuration featuring a toroidal coil assembly (dark wire-wound torus with red tape, mounted on a clear acrylic disc, with a central metallic shaft) on the white platform. Four metallic disc rotors of decreasing size (approximately 180mm, 150-160mm, 120-140mm, and 45-80mm diameter) are arranged in a size-descending row in the background, each labeled with handwritten text. Red alligator clip leads connect from the torus at the front. This is a homopolar disc rotor size-comparison experiment using a toroidal coil as the magnetic field source.
