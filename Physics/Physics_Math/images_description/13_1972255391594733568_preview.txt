@@ -1,0 +1,41 @@
+IMAGE: 13_1972255391594733568_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Similar to 13_1972255361815261184 but from a lower angle (camera at platform level rather than overhead):
+  - Large circular white platform (acrylic/plastic, approximately 600px visible diameter) with drilled holes around perimeter and score/groove marks.
+  - Center: stainless steel bowl (polished chrome, approximately 150px diameter) now clearly containing mercury — highly reflective silvery liquid visible at the rim. The bowl sits atop a dark disc assembly with heavy red resin/epoxy coating.
+  - Central axle: metal rod/shaft descending into the bowl from above, with crocodile clips connecting at top — red clip clearly visible with wire running upward.
+  - The axle has contact in the mercury — this is the active homopolar motor configuration.
+  - White structural strips/tape radiating from center disc outward to platform perimeter (four white strips at approximately 90-degree intervals, crossing the platform like spokes).
+  - Additional disc assembly visible at right foreground — dark with red/orange resin, partial view.
+  - Background: partial view of more disc assemblies, blue and black wires, and the wooden laboratory frame.
+  - Orange/red small clamps at platform perimeter.
+
+TEXT: None.
+
+COLORS:
+* Platform: white/cream with slight discoloration.
+* Bowl: polished silver-chrome.
+* Mercury: highly reflective silver.
+* Disc assemblies: dark with red-orange resin.
+* Axle/clips: silver metal + red clip.
+* White tape/strips: bright white.
+
+PHYSICS CONCEPTS:
+* This is the active homopolar motor configuration in the integrated 3-disc platform:
+  - Mercury fills the stainless steel bowl to provide liquid-metal electrical contact between the spinning conducting disc (Faraday disc on the axle) and the stationary outer circuit.
+  - Current flows: external supply → axle → conducting disc → mercury (at disc rim contact) → bowl walls → external circuit.
+  - The three surrounding disc magnets (at 120-degree spacing on the platform) provide the external axial magnetic field B.
+  - The Lorentz force F = IL × B drives radial current in the disc, creating torque τ = F × r.
+  - The white structural strips may be used to constrain the bowl position or act as current bus-bars.
+* The red clip connection at the top of the axle is the positive terminal connection.
+
+SPATIAL RELATIONSHIPS:
+* Stainless bowl at center.
+* White platform with drilled holes surrounding it.
+* White strips radiating outward from center.
+* Additional disc assembly visible at right.
+* Axle and red clip at top-center.
+
+HIGH-LEVEL SUMMARY:
+Low-angle view of the integrated 3-disc homopolar motor platform showing the central stainless steel bowl filled with mercury, the central conducting-disc axle with red terminal clip, and the white structural strips radiating across the platform. Mercury is clearly visible as the liquid-metal contact medium. This is the complete operational configuration of the multi-pole mercury-contact homopolar motor assembly.

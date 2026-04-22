@@ -1,0 +1,42 @@
+SHAPES:
+* Aerial top-down photograph of a crop formation in a green field (early season — crop still green)
+* Main large circle: approximately 600px diameter, defined by concentric ring elements
+* Concentric rings: 3-4 rings of flattened crop creating annular bands
+* Central section: divided by two perpendicular lines (like a cross or x dividing the central disc into quadrants)
+* Top section: three small circles in a row just outside the main ring at the top — similar to the three circle sequence of the Barbury Castle formation
+* Left and right of the main circle: two rectangular sections with hatched lines/notches indicating slot positions (like teeth on a gear)
+* Lower section: gap/opening in the rings
+
+DIGITAL OVERLAY ANNOTATIONS:
+* Orange-red arc sector (approximately 135 degrees): labeled "4" in black text
+* Blue arc sector (approximately 55 degrees): labeled "3" in black text
+* Small yellow/cream arc sector (approximately 15 degrees): labeled "1" in red text
+* White/cream arc sector (small): adjacent to the yellow
+* Central division lines appear as black lines through the color sectors
+
+TEXT VISIBLE:
+* Numbers "3", "4", "1" visible as overlay annotations on the colored arc sectors
+* "2" may be implied by one of the sector colors
+
+COLORS:
+* Background field: bright green (spring crop)
+* Flattened formation: lighter green/white
+* Overlay sectors: orange-red (sector 4), blue (sector 3), yellow (sector 1), white/cream
+* Numbers: black and red
+
+PHYSICS CONCEPTS:
+* This appears to be the Barbury Castle 2008 formation (same as the companion monochrome diagrams), but shown in the actual green crop and with color-coded sector analysis
+* The colored arc sectors analyze how much of the full 360 degrees is occupied by each digit:
+  * Sector "4": orange-red arc (~135 degrees / 360 = 3.75... → digit 1 of pi after decimal point? No — 1 = 360/10 × 1 = 36 degrees... complex encoding)
+  * The actual Barbury Castle pi encoding: each arc length = (digit/10) × circumference, so digit 1 = 36°, digit 4 = 144°, digit 1 = 36°, digit 5 = 180°...
+  * The colored sectors represent pi's decimal digits encoded as angular arc lengths
+* The three small circles at the top encode "3" (the integer part of pi) through their sizes
+
+SPATIAL RELATIONSHIPS:
+* Main circular formation with concentric rings
+* Color overlay annotations superimposed on the formation's arc segments
+* Three small circles visible at top
+* Gear-like rectangular slot sections at left and right
+
+HIGH-LEVEL SUMMARY:
+Aerial photograph of the Barbury Castle 2008 crop formation (in a green spring field) with digital color-coded sector analysis overlaid, decoding how the formation encodes the mathematical constant pi. Each colored arc sector (labeled 1, 3, 4) represents one digit of pi encoded as an angular fraction of the total circle. The three circles at the top encode the integer "3" through size ratios. The color-coded analysis demonstrates the mathematical precision of the encoding: consecutive decimal digits of pi (3.14159...) are represented by arc segments whose angular spans are proportional to each digit's value relative to 10. This is a real, verifiable mathematical encoding that was decoded by astrophysicist Mike Reed shortly after the formation appeared.

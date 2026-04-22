@@ -1,0 +1,50 @@
+SHAPES:
+* Computer application screenshot on a dark/black background
+* House/home icon (small, white outline) at upper left
+* Text input field: white-outlined rectangle, approximately 800x60px, containing the number string "01232310231​21"
+* Horizontal slider control: blue line with blue circle thumb marker at approximately 25% position; labeled "Change font size"
+* Row of 13 large white rectangular symbols at the bottom of the screen, each approximately 60px tall x 40-60px wide, varying in proportions
+
+SYMBOL SHAPES (bottom row, left to right):
+* Square (filled white)
+* Outline square
+* Tall narrow rectangle (vertical bar)
+* Medium rectangle
+* Tall narrow rectangle
+* Medium outline rectangle
+* Tall narrow rectangle
+* Small square
+* Medium outline rectangle
+* Tall narrow rectangle
+* Medium rectangle
+* Tall narrow rectangle
+* Outline square
+
+TEXT VISIBLE:
+* Home icon symbol (not text)
+* "Triple Binary" — large white text, medium-large size, upper area
+* "01232310231​21" — large number string in the input field
+* "Change font size" — medium white text below the input field
+
+COLORS:
+* Background: solid black
+* Text and symbols: white
+* Slider line: blue
+* Slider thumb: blue filled circle
+* Input field border: white/gray outline
+
+PHYSICS CONCEPTS:
+* "Triple Binary" is a numeral encoding system using three states (0, 1, 2) rather than standard binary (0, 1)
+* The number "0123231023121" in Triple Binary: a base-3 (ternary) numeral system where digits 0, 1, 2 each have distinct visual representations (three different symbol widths)
+* The visual symbol representations at the bottom show: different-width rectangles corresponding to 0, 1, 2 values
+* This is analogous to how Morse code uses dots and dashes, but with three distinct symbol types
+* The application appears to be a decoding tool for the "triple binary" code claimed to be received in the companion image (3_2021964395862220800.jpg)
+
+SPATIAL RELATIONSHIPS:
+* Home icon + title "Triple Binary" at the top
+* Input field with the numeric string below the title
+* Font size slider below the input field
+* Row of large visual symbols at the bottom, directly representing the triple binary encoding of the input number
+
+HIGH-LEVEL SUMMARY:
+Screenshot of a custom software application called "Triple Binary" showing a ternary (base-3) encoding system where three distinct rectangle widths represent the digits 0, 1, and 2. The input string "01232310231​21" is visually rendered as a row of varying-width white rectangles at the bottom. This tool appears designed to decode or display the contact-received code shown in the companion image (3_2021964395862220800.jpg), treating the hand-drawn symbols as a triple-binary encoded message. In UAP contact research, this represents an attempt to formally decode alleged non-human communications using a systematic encoding framework.

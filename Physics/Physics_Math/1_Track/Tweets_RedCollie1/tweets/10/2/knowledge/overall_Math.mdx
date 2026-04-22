@@ -1,0 +1,283 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets and video transcriptions, directory 10/2
+# Appended: 2026-04-22
+
+NOTE: The source material is experimental/observational and uses predominantly
+descriptive physics language. Explicit symbolic mathematical equations are not
+present in the raw source text. The equations below are the mathematical
+formalism that directly corresponds to and formalizes the physical claims made
+in the source material. All are derived from the source descriptions; none are
+invented. Distinctions between Drew's explicit claims and the formalism
+derived from those claims are noted.
+
+====================================================================
+1. LORENTZ FORCE IN CORBINO DISC (FORMALIZING DREW'S DESCRIBED MECHANISM)
+====================================================================
+
+Source descriptions: tweet 1992514814242099289 (note_tweet),
+tweet 2008156787409822198 (note_tweet), video 13_1971360840071933952
+
+Setup: conductive liquid (galinstan) in stainless steel container, axial
+permanent magnet (m1) below, DC current I flowing radially (Corbino geometry).
+
+Governing Maxwell-Lorentz relations in cylindrical coordinates (r, phi, z):
+
+Current density (radial, assuming uniform azimuthal symmetry):
+    J_r(r) = I / (2 pi r d)
+where I = total radial current [A], d = disc thickness [m], r = radial position [m].
+
+Magnetic flux density (axial, from magnet m1, approximated as uniform near axis):
+    B = B_z * z_hat [T]
+
+Lorentz body force per unit volume on liquid conductor:
+    f = sigma * (E + v × B) × B   (full MHD form)
+
+In the DC steady-state, current is maintained by external source:
+    f_body = J × B
+    f = J_r * r_hat × B_z * z_hat = J_r * B_z * (r_hat × z_hat)
+    r_hat × z_hat = -phi_hat   (in standard cylindrical orientation)
+    f_phi = -J_r * B_z   [N/m^3]
+
+Total azimuthal torque on liquid column between r_inner and r_outer, height d:
+    tau = integral(r_inner to r_outer) f_phi * r * (2 pi r d) dr
+         = -B_z * d * integral(r_inner to r_outer) J_r(r) * r * 2 pi r dr
+         = -B_z * d * integral I/(2 pi r d) * r * 2 pi r dr
+         = -B_z * I * integral(r_inner to r_outer) r dr
+         = -B_z * I * (r_outer^2 - r_inner^2) / 2
+
+Direction reversal: I -> -I gives tau -> -tau (azimuthal rotation reverses).
+This is the mathematical description of the DC reversal experiment (video 13_1971360840071933952).
+
+====================================================================
+2. ANGULAR MOMENTUM CONSERVATION IN COUNTER-ROTATION DESIGN
+====================================================================
+
+Source: tweet 1992514814242099289 (note_tweet)
+
+Disc magnet m2, moment of inertia I_m2, angular velocity omega_m2 (clockwise, positive):
+    L_m2 = I_m2 * omega_m2    [kg m^2 / s]
+
+Galinstan liquid in Corbino disc, effective moment of inertia I_gas,
+angular velocity omega_gas (anti-clockwise, negative under Drew's sign convention):
+    L_gas = -I_gas * omega_gas_magnitude   [kg m^2 / s]
+
+Design target (Drew's stated goal):
+    L_total = L_m2 + L_gas = I_m2 * omega_m2 - I_gas * |omega_gas| = 0
+
+This requires:
+    I_m2 * omega_m2 = I_gas * |omega_gas|
+
+For fixed geometry (fixed I_m2 and I_gas determined by device dimensions and
+material densities), this is a constraint on the ratio of angular velocities:
+    omega_m2 / |omega_gas| = I_gas / I_m2
+
+In practice, omega_m2 is controlled by the 3-phase frequency (drive frequency),
+and |omega_gas| is controlled by DC current magnitude I and B_z of m1. The
+system can be tuned to satisfy L_total = 0 by adjusting either the 3-phase
+frequency or the DC current.
+
+====================================================================
+3. GYROSCOPIC PRECESSION (TOP ANALOGY)
+====================================================================
+
+Source: tweet 1964253437702656144 (note_tweet), video 13_1964248354038435843
+
+For a symmetric spinning top with:
+    M = mass of disc magnet [kg]
+    g = 9.81 m/s^2
+    r_cm = distance from pivot to center of mass [m] (effective for magnet on flexible rod)
+    I_s = moment of inertia about spin axis [kg m^2]
+    omega_s = spin angular velocity [rad/s]
+
+Gyroscopic precession angular velocity:
+    Omega_p = (M g r_cm) / (I_s * omega_s)
+
+At low omega_s (low 3-phase frequency), Omega_p is large => erratic precession observed.
+At high omega_s (high 3-phase frequency, ~20-25 Hz), Omega_p is small => stable spin,
+magnet "rises like a top."
+
+The 3-phase frequency f [Hz] maps to disc magnet spin rate omega_s via the
+synchronous speed relationship (assuming synchronous tracking with the rotating field):
+    omega_s = 2 pi f   [rad/s]
+
+At f = 20 Hz: omega_s = 125.7 rad/s ~ 1200 RPM.
+At f = 30 Hz: omega_s = 188.5 rad/s ~ 1800 RPM.
+
+These are the regime in which the magnet rises ("like a spinning top") in
+Drew's experiments.
+
+====================================================================
+4. OBERTH MANEUVER VELOCITY CALCULATION
+====================================================================
+
+Source: tweet 1984912237547696489 (referenced_tweet text)
+
+Closing velocity between 3I/ATLAS and Earth at perihelion encounter:
+    v_3I = 130,000 mph (speed of 3I/ATLAS in heliocentric frame at perihelion)
+    v_E  = 67,000 mph (Earth's orbital speed, opposing direction to 3I/ATLAS approach)
+
+Relative closing speed (Earth-frame):
+    v_relative = v_3I + v_E = 197,000 mph (for anti-parallel velocity vectors)
+
+Converting to SI:
+    197,000 mph = 197,000 * 1609.34 m / 3600 s = 88,100 m/s ≈ 88.1 km/s
+
+The Oberth effect for perihelion burn of mass m_prop ejected at exhaust velocity v_ex:
+    Delta_KE_Oberth = m_prop * v_ex * v_spacecraft_at_perihelion
+
+compared to same burn at rest:
+    Delta_KE_rest = (1/2) * m_prop * v_ex^2
+
+Ratio: Delta_KE_Oberth / Delta_KE_rest = 2 * v_spacecraft / v_ex
+
+This ratio is large for v_spacecraft >> v_ex. Drew mentions this to note that
+3I/ATLAS's trajectory and high perihelion speed are consistent with an
+intentional maneuver (optimizing encounter velocity with Earth).
+
+====================================================================
+5. FREQUENCY-DEPENDENT LIFT TRANSITION
+====================================================================
+
+Source: video 13_1964248354038435843, tweet 1964253437702656144 (note_tweet)
+
+Experimental data table from video transcription:
+
+    Frequency [Hz] | Behavior             | Scale reading
+    ------------------------------------------------
+    0              | Stationary           | Baseline (magnet weight)
+    10             | Begins to spin; erratic | No rise reported
+    15             | Partially stable     | No rise reported
+    20             | Begins to rise "like a top" | No change from baseline
+    23             | Rising; stable       | No change from baseline
+    25             | Further rise         | No change from baseline
+    30             | Maintained rise      | No change from baseline
+    Reversed pole  | Identical to above   | No change from baseline
+
+This data is presented as experimental evidence for the transition from
+unstable gyroscopic precession (low omega) to stable helical-field-driven
+lift (high omega) with zero or negligible scale reading change.
+
+====================================================================
+6. CORBINO DISC MULTI-ELECTRODE CONFIGURATION
+====================================================================
+
+Source: tweet 1971364431973245335 (note_tweet)
+
+From the crop picture schematic description:
+    N_outer = 15 round DC electrodes (outer ring)
+    N_inner = 1 central DC electrode
+    Additional: "trident" shape = 3-phase power connections
+
+For N_outer equally-spaced outer electrodes on a ring of radius r_outer, each
+electrode subtends an arc of:
+    Delta_phi = 2 pi / 15 radians ≈ 24 degrees
+
+Current distribution in galinstan is radial from the central electrode to
+each of the 15 outer electrodes, creating a fan-shaped current distribution
+rather than a strictly radial Corbino distribution. The resulting Lorentz
+force has both azimuthal and small radial components due to the discrete
+electrode geometry (vs. ideal continuous Corbino).
+
+The crop picture encodes this as 15 "brush" shapes (line-circle elements)
+arranged in a ring around a central element. Drew's decoding interprets
+these brushes as the electrical connection elements between the DC power
+supply and the liquid metal in the Corbino configuration.
+
+====================================================================
+7. MAGNETIC LEVITATION OF m2 ABOVE GALINSTAN SURFACE
+====================================================================
+
+Source: tweet 1992514814242099289 (note_tweet)
+
+Magnet m1 (stationary, below the galinstan pool) must provide sufficient
+repulsive force on m2 (above the galinstan surface) to levitate m2 at the
+desired height h above the liquid metal. The levitation force must balance
+gravity on m2:
+
+    F_mag_levitation(h) = M_m2 * g
+
+where M_m2 is the mass of disc magnet m2, and F_mag_levitation(h) is the
+repulsive force between the like poles of m1 and m2 at separation distance h.
+
+For two aligned disc magnets of radius R and thickness t, the axial force
+between them at separation h (for like poles facing each other):
+
+    F = (mu_0 / 4 pi) * ... [full expression involves elliptic integrals for
+    finite-size magnets]
+
+In the dipole approximation (valid when h >> R):
+    F ≈ (3 mu_0 / 2 pi) * (m1 * m2) / h^4
+
+where m1, m2 are the magnetic dipole moments of the two magnets [A m^2],
+mu_0 = 4 pi × 10^-7 T m/A.
+
+The equilibrium height h_eq is found by setting F(h_eq) = M_m2 * g.
+This equilibrium must be stable (dF/dh < 0 at h_eq on the repulsive branch,
+which is satisfied for like-pole axial repulsion).
+
+Without m1, m2 placed in the galinstan would be dragged into the liquid
+and the viscous/resistive drag would prevent spinning. The levitation gap
+created by m1 allows m2 to spin freely. This is the dual-function role of m1.
+
+====================================================================
+8. TACHYON GENERATION (SPECULATIVE, CLAIMED NOT EXPERIMENTAL)
+====================================================================
+
+Source: tweet 2033331941777486095 (note_tweet)
+
+Claimed tachyon production process (attributed to "French physicists"):
+    Input 1: "squeezed light" (quadrature-squeezed electromagnetic field state)
+    Input 2: "charged proton or electron"
+    Process: collision
+    Output: "electrically charged light" = claimed tachyonic particles
+
+The relevant existing physics:
+Squeezed vacuum state of EM field: |r, phi> where r = squeezing parameter,
+phi = squeezing angle. For a single-mode squeezed state, variance of one
+quadrature X_1:
+    Var(X_1) = (1/4) * e^{-2r}    (below vacuum noise for r > 0)
+    Var(X_2) = (1/4) * e^{+2r}    (above vacuum noise, conjugate quadrature)
+
+Compton scattering (existing physics): gamma + e^- -> gamma' + e^-'. The
+photon scatters off the charged particle but remains electrically neutral.
+No tachyonic particle is produced in any established QFT formulation.
+
+Tachyonic dispersion relation (if tachyon exists with imaginary mass i*mu):
+    E^2 = p^2 c^2 - mu^2 c^4
+    v_tachyon = pc^2 / E > c (faster than light for real solutions)
+
+Drew attributes this process to a "message from the future" (tachyonic
+communication). No experimental data is provided in this source batch.
+
+====================================================================
+9. DEVICE GEOMETRY SUMMARY (MATHEMATICAL DESCRIPTION)
+====================================================================
+
+Source: tweets 2001764355382427981, 2008156787409822198 (note_tweet)
+
+The proposed full device (from tweet 2001764355382427981 crop-picture decoding):
+
+Component             | Geometry / Math description
+--------------------- | -----------------------------------------
+3-phase wire coils    | N_coil = 3, azimuthal spacing = 120 deg,
+                      | driven at frequency f, phase offset = 2 pi/3
+Central disc magnet m2| Radius R_m2, thickness t_m2, axial magnetic
+                      | dipole moment m_m2 = M_s * V_m2 [A m^2]
+Galinstan pool        | Stainless steel bowl, Corbino geometry,
+                      | inner radius r_i, outer radius r_o
+Stationary magnet m1  | Below galinstan, radius R_m1, dipole m_m1
+DC electrodes         | Central rod + outer ring (N_e = 15)
+DC supply             | 12 V, current I_DC [50-100 A target]
+3-phase supply        | Frequency f [Hz], variable (20-30 Hz range)
+
+From tweet 2001764355382427981:
+"Three 3-phase wire coils around the outside. Big round magnet below (N/S).
+Stainless steel bowl with a central rod-electrode."
+
+From tweet 2008156787409822198:
+"Outside we have fast-rotating, 3-phase magnetism. Inside we have an
+electrically-charged 'Corbino disc'. When we add a N/S magnet below (or in
+the center), any liquid metal in that Corbino disc may spin anti-clockwise.
+Then when we add 3-phase power from the outside, any central magnet may spin
+clockwise (except at the Bloch wall)."

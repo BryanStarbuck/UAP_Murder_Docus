@@ -1,0 +1,63 @@
+IMAGE DESCRIPTION: 3_1998940724986023937.jpg
+
+SHAPES AND ELEMENTS:
+* False-color processed astrophysical image of a cometary nucleus region
+* Black background with a predominantly green false-color image
+* Heavy pixelation/blockiness indicating significant digital processing or low-resolution sensor data
+
+CENTRAL STRUCTURE:
+* A dark (black) roughly circular region at the center of the image — the nucleus or optically opaque core
+* From the dark nucleus: two bright structures extend outward
+  * Structure 1 (upper-left): a bright white/purple-tipped diagonal streak extending from the nucleus toward the upper-left corner — labeled "Jet" with a white label and line pointer
+    * This is a collimated outgassing jet from the cometary nucleus
+    * The streak is bright white at its origin near the nucleus, fading to purple/white along its length
+    * The jet travels at approximately 45° to the upper-left
+  * Structure 2 (lower): a vertical white/bright line extending downward from the nucleus — no separate label but appears to be the reference/scale line (see below)
+
+SCALE AND ANNOTATION:
+* White label "Jet" in upper-left portion of image, with a line pointing to the diagonal bright streak
+* White text lower-center: "Central pixel"
+* Below that: "1.38" = 4000 km"
+  * This is the pixel scale: 1.38 arcseconds per pixel = 4000 km per pixel at the comet's distance
+  * This is an extremely coarse pixel scale, explaining the heavy pixelation visible
+
+FALSE-COLOR ENVIRONMENT:
+* The surrounding region is rendered in mottled green, cyan, and black colors
+* Green = moderate brightness regions of the inner coma
+* Cyan/blue (visible at left): brighter inner coma regions
+* Black: either no signal or suppressed background
+* The mottled, clumpy appearance indicates jet activity and asymmetric outgassing
+
+TEXT:
+* "Jet" — white label with pointer line to the diagonal bright streak
+* "Central pixel" — white text, lower center
+* "1.38" = 4000 km" — white text, scale annotation
+
+COLORS:
+* Background: black
+* Outer coma: mottled green and cyan
+* Nucleus: dark/black
+* Jet: bright white-purple
+* Scale line: white vertical line
+
+PHYSICS CONCEPTS:
+* This is a processed close-up image of the cometary nucleus region showing a discrete collimated outgassing jet
+* The "Jet" is a highly focused stream of sublimating volatile material (primarily H₂O, CO, CO₂) from an active region on the nucleus surface
+* Physics of cometary jets:
+  * Sunlight heats specific surface regions where volatile ices are exposed
+  * Sublimating gas escapes as a near-collimated stream (jet) before diffusing into the coma
+  * The jet direction correlates with the orientation of the active region on the rotating nucleus
+  * Jets are responsible for the non-gravitational forces on cometary orbits (Yarkovsky-O'Keefe-Radzievskii-Paddack effect for comets)
+* The pixel scale (1.38" = 4000 km) indicates the comet was at significant distance — this is consistent with ground-based observation rather than spacecraft (Rosetta-level) resolution
+* At 4000 km per pixel, the visible structure (dark nucleus + jet) spans approximately 10,000-20,000 km — the inner coma region
+* The diagonal orientation of the jet constrains the nucleus rotation axis and the location of the active sublimation region
+
+SPATIAL RELATIONSHIPS:
+* Dark nucleus: center of image
+* "Jet" bright streak: extending upper-left from nucleus at ~45°
+* Vertical scale line: extending downward from nucleus
+* Green/cyan coma: surrounding the nucleus on all sides
+* "Central pixel" label: lower center, below nucleus
+
+HIGH-LEVEL SUMMARY:
+A heavily pixelated false-color close-up of a cometary nucleus region with annotations, showing the comet's inner coma (mottled green/cyan) and a labeled collimated outgassing "Jet" extending diagonally upper-left from the dark nucleus. The scale annotation states 1.38 arcseconds per pixel = 4000 km per pixel — indicating ground-based observation at significant comet-Earth distance. The jet is visible as a bright white-purple diagonal streak from the nucleus, representing localized sublimation from an active surface region. A vertical white reference line extends downward from the nucleus (possibly a scale or reference axis). The image documents discrete jet activity distinct from the diffuse coma, relevant to understanding non-gravitational orbital perturbations.

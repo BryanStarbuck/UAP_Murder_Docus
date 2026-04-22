@@ -1,0 +1,231 @@
+Source: RedCollie1 (Dr. Horace Drew), Caltech / MRC LMB Cambridge. Tweets 2025-04-29 through 2026-04-18.
+Extracted: 2026-04-22.
+
+============================
+ALL MATHEMATICAL EQUATIONS, COMPONENTS, AND RELATIONSHIPS
+============================
+
+EQUATION 1: LORENTZ FORCE ON CURRENT-CARRYING CONDUCTOR
+Source: 3_1979663877190090753.txt (homopolar motor schematic); tweet 1989473708160029037
+
+F = IL x B
+
+where:
+* F = force vector on the conductor [Newtons]
+* I = current magnitude [Amperes]
+* L = length vector of current-carrying element [meters], direction = direction of conventional current flow
+* B = applied magnetic flux density vector [Tesla]
+* x = vector cross product
+
+In the Corbino disc / homopolar motor:
+* I flows radially (in the r-hat direction of cylindrical coordinates)
+* B is axial (z-hat direction)
+* L x B = r-hat x z-hat = -phi-hat (tangential, azimuthal direction)
+* Therefore F is tangential = torque-producing
+
+Torque element: dN = r * dF = r * I * B * dr (for an infinitesimal ring at radius r, width dr)
+
+Total torque (for uniform radial current density and uniform axial B):
+N_z = integral from R1 to R2 of [r * I_line * B] dr
+where I_line = I / (2*pi*r) for a disc with total current I, giving:
+N_z = integral from R1 to R2 of [r * (I / 2*pi*r) * B] dr = (I * B / 2*pi) * (R2 - R1)
+
+More precisely for a disc with uniform current density j_r = I / (2*pi*r*t) (t = thickness):
+N_z = (I * B / 2) * (R2^2 - R1^2) / (R2 - R1) * pi
+[exact form depends on current distribution; for uniform radial current: N_z = I*B*(R2^2 - R1^2)/2]
+
+EQUATION 2: SPIN ENERGY (SIMPLIFIED / NON-STANDARD FORM USED BY DREW)
+Source: tweet 2039902851905053005 (referenced_tweets text)
+
+E = mv^2
+
+Stated explicitly in source: "For m = 1, v = -2, we get E = 4."
+
+This formula appears to be a non-standard or simplified form. Comparison with standard kinetic energy:
+* Classical: KE = (1/2)mv^2
+* Drew's E = mv^2 = 2 * KE_classical
+
+This form could represent:
+(a) Total mechanical energy in some non-inertial frame
+(b) A factor-of-2 convention in the author's spin energy model
+(c) Use of the formula E = p*v = mv*v = mv^2 where p = mv is the linear momentum equivalent in the rotating frame
+
+Application:
+For m = 1, v = −2:
+E = (1)(−2)^2 = (1)(4) = 4
+
+The sign of v does not affect the energy magnitude (squared). The negative sign of v indicates opposite direction of rotation.
+
+Argument: A stationary object (v = 0) receiving E = 4 from the spinning disc acquires:
+v_new = sqrt(E/m) = sqrt(4/1) = 2 (opposite direction)
+
+A rapidly spinning object (already at v = +2) receiving E = 4 in an "opposite" direction:
+The net interaction is between v = +2 and an incoming E = 4 (equivalent to v = −2).
+The author argues this "rapid relative motion" case changes how Newton's Third Law applies.
+
+EQUATION 3: THREE-PHASE ROTATING FIELD PHASE RELATIONSHIPS
+Source: tweets 1924248812933259674, 2015208388947488793
+
+For a 3-phase supply with phases U, V, W:
+* V_U(t) = V_peak * cos(omega*t)
+* V_V(t) = V_peak * cos(omega*t - 2*pi/3)
+* V_W(t) = V_peak * cos(omega*t - 4*pi/3)
+
+where omega = 2*pi*f, f = supply frequency [Hz]
+
+For 6 coils arranged U-V-W-U-V-W at angular positions 0, 60, 120, 180, 240, 300 degrees:
+The rotating magnetic field vector at center rotates at angular frequency omega.
+Each coil produces a pulsating field; the sum of all six produces a smoothly rotating resultant field.
+
+For two counter-rotating sets (upper 6 coils CCW, lower 3 coils CW):
+B_upper(t) = B_0 * [cos(omega*t)*x-hat + sin(omega*t)*y-hat] (CCW rotation)
+B_lower(t) = B_0 * [cos(omega*t)*x-hat - sin(omega*t)*y-hat] (CW rotation, opposite y-component)
+
+Total field at center:
+B_total = B_upper + B_lower = 2*B_0*cos(omega*t)*x-hat
+
+This is a linearly oscillating field in the x-direction (not rotating), explaining why the center shows cancellation of rotation.
+
+At intermediate radii, the two sets' contributions are not equal in magnitude (due to geometric attenuation with distance), so the dominant one wins, producing partial rotation.
+
+EQUATION 4: MAGNETIC TORQUE ON COMPASS NEEDLE IN ROTATING FIELD
+Source: tweet 1976071049973465118 (note_tweet)
+
+N = m x B
+
+where:
+* N = torque vector [N*m]
+* m = magnetic dipole moment of compass needle [A*m^2]
+* B = applied rotating magnetic field [T]
+* x = vector cross product
+
+If B rotates at angular frequency Omega (rad/s) and the needle has moment of inertia I_needle:
+* Equation of motion: I_needle * (d^2*theta/dt^2) = |m||B| * sin(phi)
+where phi = angle between m and B.
+
+For slow rotation (Omega << omega_0, where omega_0 = sqrt(|m||B|/I_needle) is the natural oscillation frequency of the needle):
+* Needle tracks B, oscillating back and forth.
+
+For fast rotation (Omega >> omega_0):
+* Needle cannot track B; the torque continuously drives the needle in one direction.
+* Needle enters continuous rotation at angular speed proportional to B and m.
+* This is the "compass spinning" effect described in the UFO detector context.
+
+EQUATION 5: ENERGY ARGUMENT FOR LEVITATION WITHOUT NET WEIGHT CHANGE (STATIONARY DISC)
+Source: tweet 1989473708160029037 (note_tweet)
+
+F_up (from 3-phase field on stationary disc magnet) = F_down (Newton's Third Law reaction on coil assembly)
+
+Net force on [disc + coil] system = F_up - F_down = 0
+
+Therefore: weight measured on a scale supporting both disc and coil = unchanged.
+
+This is the null result for the stationary disc experiment. It is consistent with standard electromagnetic theory (internal forces between parts of a closed system cannot change the system's total weight in a constant gravitational field).
+
+EQUATION 6: ENERGY ARGUMENT FOR LEVITATION WITH SPINNING DISC (CLAIMED)
+Source: tweet 1989473708160029037 (note_tweet)
+
+F_up (from 3-phase field on spinning disc magnet) = F_up, unchanged
+
+F_down (Newton's Third Law reaction) ~ F_down * k, where k < 1 (reduction factor due to Lorentz geometry)
+
+Net force = F_up - k*F_down
+
+If k << 1: Net force ~ F_up (net upward force, disc rises)
+
+The factor k is argued to depend on:
+* The spin rate omega_disc of the homopolar motor
+* The magnitude of the Lorentz force (which increases with higher omega_disc and larger B_disc)
+* The geometric efficiency of converting downward reaction into tangential rotation
+
+No explicit formula for k is provided in the source material; this is a qualitative claim with experimental support cited.
+
+EQUATION 7: HOMOPOLAR GENERATOR (INVERSE OF MOTOR) — FARADAY DISC
+Source: 3_1979663877190090753.txt
+
+In generator mode (disc is externally spun, voltage is produced):
+EMF = (1/2) * B * omega * (R2^2 - R1^2)
+
+where:
+* B = axial magnetic flux density [T]
+* omega = angular velocity of disc [rad/s]
+* R2 = outer radius [m]
+* R1 = inner radius [m]
+
+This is the standard Faraday disc EMF formula. In motor mode, the same parameters determine the back-EMF that the motor develops.
+
+EQUATION 8: SIX-COIL SYMMETRIC FIELD CANCELLATION CONDITION
+Source: 13_2015205928992169984_video.mdx, tweet 2015208388947488793
+
+For 6 coils at 0, 60, 120, 180, 240, 300 degrees, wired U-V-W-U-V-W:
+The field at center is the sum of contributions from all 6 coils.
+Coils at 0, 120, 240 degrees carry phases U, V, W (first three-phase set).
+Coils at 60, 180, 300 degrees carry phases U, V, W phase-shifted by 60 degrees (or equivalently, -U, -V, -W of the first set if the second set is reversed).
+
+If the second set (at 60, 180, 300 degrees) is wired in reverse phase order (U-V-W reversed = W-V-U, which shifts phase by 180 degrees for the effective rotation direction):
+* First set produces field rotating at +omega (CCW)
+* Second set produces field rotating at -omega (CW)
+* At center: sum = rotating CCW field + rotating CW field = linearly oscillating field (not rotating)
+* Net torque on a magnetic test particle at center = 0 (for a symmetric particle)
+
+This explains the observation: "In the center instead of a rising motion we only keep the spinning in the center for some distance and the very center it cancels out."
+
+EQUATION 9: GALACTIC COORDINATE REFERENCE — STAR DISTANCES
+Source: tweet 1950458661266235610 (note_tweet)
+
+Coordinates cited in binary UFO message decoded by Drew:
+"Beware of Orion 1350.3 and Z Reticuli 39.170"
+
+Distances in light-years:
+* Orion: approximately 1350 light-years (consistent with the Orion Nebula at ~1344 ly, or Orion OB1 association)
+* Zeta Reticuli: 39.170 light-years from Earth (well-established parallax measurement: 39.169 ± 0.1 ly; consistent with 12.024 ± 0.03 parsecs)
+
+Zeta Reticuli is a binary star system (HR 1084, HR 1085) in the constellation Reticulum. The numbers represent fractional light-year distances, suggesting high-precision knowledge of stellar positions.
+
+GEOMETRIC STRUCTURE: 64 TETRAHEDRON GRID
+Source: 3_2024999785011576832.txt
+
+* Structure: hexagonal region of equilateral triangles in alternating up (▲) and down (▽) orientation
+* Creates a triangular lattice equivalent to the triangular tiling of the plane, bounded by a hexagon
+* Number of tetrahedra: 64 (as described in Nassim Haramein's 2012 paper "Quantum Gravity and the Holographic Mass")
+* Also known as: Vector Equilibrium, Isotropic Vector Matrix (Buckminster Fuller)
+* Mathematical structure: The dual lattice of the 64-tetrahedron grid is the face-centered cubic (FCC) lattice; equivalently the A3 root lattice
+* 6-fold rotational symmetry (D6h point group for the 2D projection)
+* Concentric circle outer boundary: represents field boundary or event horizon in UAP propulsion context
+* Annotation: section mark (§) at right edge
+
+PENTERACT (5-DIMENSIONAL HYPERCUBE)
+Source: tweet 2025000118873886983
+
+A penteract is the 5-dimensional analogue of the square (2D), cube (3D), tesseract (4D):
+* Vertices: 2^5 = 32
+* Edges: 5 * 2^4 = 80
+* 2-faces (squares): 10 * 2^3 = 80
+* 3-faces (cubes): 10 * 2^2 = 40
+* 4-faces (tesseracts): 5 * 2^1 = 10
+* 5-cells (penteracts): 1
+
+Schläfli symbol: {4, 3, 3, 3}
+
+The August 15, 2011 crop circle is claimed to depict a penteract, implying 5-dimensional information content.
+
+BRAILLE NUMERICAL ENCODING — CHUALAR FORMATION
+Source: tweet 1943219303186080180
+
+Chualar crop circle (Chualar, California, 2013) coded sequence: 1-9-2 in Braille.
+
+Braille cell structure: 2 columns x 3 rows = 6 dot positions per character.
+Standard Braille digits use a numeric indicator (dots 3-4-5-6) followed by the letter code:
+* Digit 1 = "a" pattern: dot 1 only
+* Digit 9 = "i" pattern: dots 2, 4 (second column, rows 1 and 2)
+* Digit 2 = "b" pattern: dots 1, 2 (first column, rows 1 and 2)
+
+Interpretation claimed: 192 = number of nations on Earth at time of formation ("all blind").
+
+The formation's binary-grid structure (aerial photo: 3_1943217695467438080.txt) is described as a "pixelated or binary-coded message" resembling a QR code or data matrix symbol, with:
+* Outer rectangular boundary
+* Internal systematic grid of smaller rectangular cells (some standing, some flattened crop)
+* Inner rectangle with different pattern density
+* Outer decorative elements projecting from perimeter
+
+Binary encoding interpretation: the grid cells (standing = 1, flattened = 0, or vice versa) encode the Braille sequence 1-9-2 across the grid matrix.

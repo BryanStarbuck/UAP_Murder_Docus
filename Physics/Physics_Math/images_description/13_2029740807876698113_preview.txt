@@ -1,0 +1,36 @@
+IMAGE: 13_2029740807876698113_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view of the SEG apparatus, similar angle to prior top-down views (13_2026829773914386434, 13_2027778691519156227) but with roller ring visible at periphery.
+* Center: chrome cylindrical stator housing with orange bearing ball resting in the central spindle well (top face). The chrome collar/flange at the top of the cylinder shows motion blur — the assembly may have been rotating or recently disturbed during photography.
+* Surrounding the stator cylinder: red-wrapped disc roller ring. The red material (cloth or tape wrapping) covers the flat disc-magnet rollers. At least two roller segments are visible.
+* Phase labels visible on the roller assembly: "W" appears twice (upper left and upper right positions of the roller ring), "V" appears at lower left. These are IEC 3-phase winding designations (U, V, W), consistent with the 3-phase magnetization sequence documented throughout the SEG build series.
+* Alligator clip test leads visible: blue, red, and white/gray wires connecting to the assembly from below/sides, suggesting active electrical measurement or charging in progress.
+* Wooden dowel posts visible at periphery (the wooden-frame support structure of the SEG test bench).
+
+TEXT VISIBLE:
+* "W" — yellow label, upper left of roller ring
+* "W" — yellow label, upper right of roller ring
+* "V" — yellow label, lower left of roller ring
+
+COLORS:
+* Chrome/silver: stator cylinder and collar
+* Orange: bearing ball at center top
+* Red: roller wrapping material
+* Yellow: phase labels
+* Blue, red, white/gray: test lead wires
+* Brown: wooden dowel posts (background)
+
+PHYSICS CONCEPTS:
+* Top-down axial view of a Searl Effect Generator (SEG) in assembly/test configuration. The V and W phase labels on the roller ring confirm this is a 3-phase magnetized roller assembly — the rollers have been wound or magnetized with 120°-displaced phase sequences (U, V, W standard IEC convention), creating a rotating magnetic field pattern analogous to a 3-phase AC induction motor stator. The orange bearing ball provides the central pivot/bearing for the rotating roller ring. The alligator clip wires suggest active measurement — possibly monitoring current, voltage, or EMF during a rotation test.
+
+SPATIAL RELATIONSHIPS:
+* Orange bearing ball at center, nested in spindle well of chrome stator cylinder.
+* Chrome stator cylinder occupies the central third of the frame.
+* Red roller ring surrounds the stator cylinder at periphery.
+* W labels at upper left and upper right (approximately 10 o'clock and 2 o'clock positions).
+* V label at lower left (approximately 8 o'clock position).
+* Test lead wires extend from roller ring positions toward image edges.
+
+HIGH-LEVEL SUMMARY:
+Top-down axial view of the SEG apparatus showing the chrome stator cylinder with orange bearing ball, the surrounding 3-phase roller ring with IEC V and W phase labels, and active test lead connections. The motion blur on the chrome collar suggests recent rotation. This frame provides the clearest documentation of the 3-phase winding scheme applied to the SEG roller ring in this build series.

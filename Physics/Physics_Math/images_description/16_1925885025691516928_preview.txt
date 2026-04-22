@@ -1,0 +1,34 @@
+IMAGE: 16_1925885025691516928_preview.jpg
+
+SHAPES AND OBJECTS:
+* Same solenoid visualization as companion image 16_1925884998290157568, but now rotated 90° — viewing the solenoid from the side, with the coil axis horizontal (running left-to-right) rather than vertical.
+* Horizontal central axis: a thin horizontal rod/wire runs left-to-right across the middle of the image, approximately 6px diameter. The rod shows a rainbow/metallic shimmer.
+* Blue toroidal coil turns: approximately 3 large blue ring/elliptical elements are visible, each representing one turn of the solenoid coil. Each ring is oriented vertically (perpendicular to the horizontal axis), approximately 160px tall and 80px wide. They are evenly spaced approximately 150px apart along the horizontal axis.
+* Small red dot markers: at the horizontal axis center, within each blue coil turn, a small red/pink circle (approximately 8px) marks the axis intersection point. Three red dots visible.
+* Black background: solid black.
+
+TEXT:
+* No text visible.
+
+COLORS:
+* Background: solid black.
+* Horizontal axis: metallic multicolor shimmer.
+* Coil turns: blue (darker and lighter shades).
+* Marker dots: bright red/pink.
+
+PHYSICS / PHENOMENON:
+* This is the same solenoid visualization as 16_1925884998290157568, rotated 90° to show the coil from the end-on perspective of the axis. In this horizontal orientation:
+  - The axis is the magnetic field axis of the solenoid.
+  - The blue rings are individual wire turns.
+  - Current flowing in the same direction through each turn creates a uniform axial magnetic field (B = μ₀nI) inside the solenoid.
+  - The spacing between turns determines the field uniformity.
+* This side view provides complementary information to the vertical-axis view — together they fully document the solenoid's 3D geometry. The side view shows that the coil turns are uniformly spaced single loops (not a helix pitch, consistent with a simplified solenoid model).
+
+SPATIAL RELATIONSHIPS:
+* Horizontal axis runs left-to-right, centered vertically in the image.
+* Blue coil turns are perpendicular to the axis at 3 positions.
+* Red dots at each coil-axis intersection.
+* Black background.
+
+HIGH-LEVEL SUMMARY:
+The same solenoid/helical coil 3D rendering as companion image 16_1925884998290157568, now oriented with the solenoid axis horizontal, showing the view from the side. This horizontal view shows three individual coil turns (blue rings) perpendicular to the solenoid axis, with red markers at each axis-coil intersection. Together with the vertical-axis companion image, these two views fully document the solenoid geometry. The solenoid is the foundation of magnetic field generation in electromagnetic propulsion devices, induction coils, and the 3-phase electromagnet designs discussed in the experimental apparatus companion images.

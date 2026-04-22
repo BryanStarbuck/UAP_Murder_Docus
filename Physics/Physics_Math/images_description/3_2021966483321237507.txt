@@ -1,0 +1,59 @@
+SHAPES:
+UPPER LEFT: Aerial photograph of Barbury Castle crop formation (~220x200px)
+* Circular formation with spiral elements in green crop field
+* Central circle with concentric ring sections
+* Spiral arm extending from the circle
+* Small satellite circles at the end of arms
+
+UPPER RIGHT: Black-and-white diagram of the same formation (~220x200px)
+* Clean line drawing interpretation of the Barbury Castle formation
+* Large outer circle
+* Inner spiral track divided into sections (like a divided ring)
+* Small dot/node shapes at positions around the outer ring
+* Central filled circle
+
+LOWER LEFT: 3D diagram of a sphere with colored spiral paths (~220x220px)
+* White sphere
+* Blue arrow/path spiraling around the sphere in a helical pattern
+* Red arrow/path spiraling around the sphere in the opposite direction (counter-helix)
+* Orange/yellow straight axis through the sphere center (vertical axis)
+* Black axis lines with labels: z (vertical, up), x (horizontal left), y (horizontal forward)
+* Two blue arrows at the ends of horizontal axis indicating direction
+
+LOWER RIGHT: 2D diagram showing overlapping circular paths (~220x220px)
+* Large outer circle (red, bold)
+* Blue curved path forming an approximately letter-C or spiral shape inside the circle
+* Red curved path (thicker) forming another curved element inside
+* Coordinate axes: z (vertical), x (horizontal), y (out of plane)
+* Blue dot at the intersection point of the paths (left side)
+
+TEXT VISIBLE:
+* "Barbury Castle of June 1, 2008 showed 'pi' in the style of 'qubits' from quantum computing" — medium black text, upper center
+* "This technology did not exist on Earth until recently!" — medium black text, lower left, bold
+* Axis labels: "x", "y", "z" in lower diagrams
+* "RC" — small text, lower left corner
+
+COLORS:
+* Upper panels: green/tan crop photo and black/white line diagram
+* Lower left: white sphere with blue spiral path, red spiral path, orange/yellow axis
+* Lower right: white background with red circle, blue curved path, red curved path
+* Text: black
+
+PHYSICS CONCEPTS:
+* The Barbury Castle formation of June 1, 2008: widely analyzed as encoding the mathematical constant pi (π) to 10 decimal places in its spiral divisions
+* The claim: each section of the spiral encodes a digit of pi (3.141592653...) via the angular length of that section
+* "Qubits from quantum computing" — the comparison suggests the formation's encoding is analogous to quantum bit (qubit) states, which can exist in superpositions
+* Lower left diagram: two anti-parallel helical paths on a sphere represent qubit state space trajectories on the Bloch sphere (the standard geometric representation of qubit states in quantum mechanics)
+* Lower right diagram: 2D projection of the Bloch sphere showing qubit state paths in the x-z plane
+* The claim "this technology did not exist on Earth until recently" asserts that quantum computing qubit visualization methods were not publicly known when the formation appeared in 2008
+
+SPATIAL RELATIONSHIPS:
+* 4 panels in 2x2 grid
+* Upper row: aerial photo (left) + line diagram (right)
+* Lower row: 3D sphere diagram (left) + 2D circle diagram (right)
+* Text label in upper center between panels
+* "This technology did not exist..." text in lower left
+* Coordinate axes on both lower diagrams
+
+HIGH-LEVEL SUMMARY:
+Composite image arguing that the Barbury Castle crop formation (June 1, 2008) encoded both the mathematical constant pi and a representation of quantum computing qubit state spaces (Bloch sphere geometry). The upper panels show the aerial formation and its line-drawing interpretation. The lower panels show the Bloch sphere — the standard geometric model for qubit states in quantum computing — with helical paths representing qubit state evolution, claimed to match the formation's geometry. The caption argues this technology "did not exist on Earth until recently," presenting the formation as containing physics knowledge ahead of its public emergence. To a PhD-level quantum physicist: the lower diagrams accurately depict qubit state trajectories on the Bloch sphere (a 2D unit sphere where poles represent |0⟩ and |1⟩ basis states, and general states |ψ⟩ = α|0⟩ + β|1⟩ are points on the sphere surface).

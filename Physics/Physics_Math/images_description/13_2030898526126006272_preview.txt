@@ -1,0 +1,37 @@
+IMAGE: 13_2030898526126006272_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Wide-angle view of the main SEG laboratory setup — an advanced version of the lab seen in prior wide views (13_2027991067006849024, 13_2028696061452439552, 13_2029029446406291461). This frame shows the most complex configuration of the SEG apparatus seen so far.
+* Center: the wooden-dowel-frame support structure surrounds a multi-ring SEG assembly on a white bench surface.
+* The SEG assembly now shows a dramatically larger roller ring: approximately 8-10 large orange/red disc rollers arranged around the stator. The rollers appear to be large flat disc magnets (similar to the red disc rollers seen in prior assembly frames) wrapped in orange material. This is a significantly expanded build compared to earlier frames — more rollers and a larger ring diameter. The rollers are densely packed and many wires (red, blue, yellow) connect between them.
+* The stator ring appears to be an octagonal or circular flat platform (pale gold/brass colored, raised slightly on wooden blocks). Multiple wires extend from the platform in various directions.
+* Left of apparatus: an ATX computer power supply unit (black/gray, fan visible) on the bench — same PSU seen in prior lab overview frames.
+* Additional equipment at left: a variable frequency drive or inverter unit (blue/gray rectangular enclosure with display, on the floor).
+* Right of apparatus: the chrome bowl/Leedskalnin device on a yellow/orange base platform — same as prior frames.
+* Right edge: a bright workshop lamp (gooseneck/swing arm) illuminating the assembly. Blue plastic container at far right.
+* Background: lab wall with shelving, window partially visible.
+
+TEXT VISIBLE: None clearly legible.
+
+COLORS:
+* Orange/red: large disc rollers on assembly
+* Red, blue, yellow: wiring between rollers
+* Pale gold/tan: stator platform
+* Black/gray: ATX PSU
+* Chrome/silver: Leedskalnin chrome bowl
+* Yellow/orange: base of Leedskalnin device
+* Blue: inverter enclosure and background container
+
+PHYSICS CONCEPTS:
+* This frame shows the most advanced stage of the SEG build documented in this series: 8-10 large disc roller magnets in a full ring configuration around the stator, with multiple wired connections suggesting active measurement or drive circuitry. The variable frequency drive (VFD/inverter) at left is a significant new element — VFDs are used to control AC motor speed or to generate programmable 3-phase AC waveforms. Its presence suggests the experimenter may be using a VFD to drive the roller ring electromagnetically at a controlled frequency, rather than waiting for spontaneous self-rotation as in Searl's original claim. This is a pragmatic test approach: drive at known frequency, measure EMF and mechanical response.
+* The scale of this assembly (8-10 large disc rollers) represents a significant increase in magnetic flux and roller mass compared to earlier iterations.
+
+SPATIAL RELATIONSHIPS:
+* Main SEG assembly at center of bench within wooden dowel frame.
+* ATX PSU at far left on bench.
+* VFD/inverter on floor at left.
+* Chrome bowl at right on separate platform.
+* Gooseneck lamp at right edge.
+
+HIGH-LEVEL SUMMARY:
+Most advanced SEG lab configuration seen in this series: 8-10 large orange/red disc rollers in a full ring assembly on the stator platform, heavily wired with red/blue/yellow test leads. A variable frequency drive (VFD/inverter, blue) has been added to the setup, suggesting the experimenter is now driving the roller ring at a controlled AC frequency rather than relying on spontaneous rotation. ATX PSU and chrome Leedskalnin bowl remain in position. This represents a significant step toward a powered drive test of the SEG assembly.

@@ -1,0 +1,35 @@
+IMAGE DESCRIPTION: 3_1998120689098956800.jpg
+
+SHAPES AND ELEMENTS:
+* Square image, dark/black background with a processed astronomical false-color image
+* Central bright source: a compact, slightly irregular circular glowing region approximately 200px diameter centered in the image
+  * The center contains a very bright white-yellow point source (~20px diameter)
+  * Surrounding the center: a gradient of yellow-orange transitioning to red
+  * The overall red circular glow has an irregular/mottled texture edge — not a smooth Gaussian profile; the edge is "noisy" with red blobs and dark gaps creating a scalloped or clumpy outer boundary
+* Background: deep black with scattered small red blobs/noise — these are residual red noise features from the image processing (likely a difference image or high-contrast rendering)
+* The overall form resembles a solar corona, a comet coma processed to reveal outer structure, or a nebula
+
+TEXT: No text visible.
+
+COLORS:
+* Background: near-black
+* Outer scattered elements: deep red, irregular small blobs
+* Main coma: medium red with yellow-orange center
+* Core: bright white-yellow
+
+PHYSICS CONCEPTS:
+* This appears to be a digitally processed astronomical image, likely an "adaptive Laplace" or "inverse Laplacian" filtered comet coma image — a technique that suppresses the smooth gradient to reveal clumpy structure and jets
+* The mottled/clumpy outer boundary suggests real physical structure: multiple dust jets, outgassing vents, or gas shells produced by the rotating nucleus
+* The red color mapping (applied in post-processing) may represent a single-band emission (red H-alpha, or red pseudo-color from grayscale)
+* The black background with scattered red blobs represents the noise floor of the detector or the threshold-filtered outer coma
+* This type of image is produced by applying a circular mask subtraction or difference-of-Gaussians filter to reveal faint structures that would otherwise be hidden by the bright inner coma
+
+SPATIAL RELATIONSHIPS:
+* White core: center
+* Yellow-orange gradient: surrounding core
+* Red mottled coma: surrounding yellow zone
+* Scattered red blobs: across the dark background
+* Overall: circular with slight asymmetries suggesting preferred outgassing direction
+
+HIGH-LEVEL SUMMARY:
+A processed astronomical image of a comet's inner coma using adaptive enhancement filtering (possibly Laplacian filtering or difference-of-Gaussians) to reveal clumpy outer coma structure. The white-yellow core represents the overexposed nucleus/inner coma, while the mottled red outer zone reveals multiple discrete gas/dust features (jets, shells, or outgassing vents) that would otherwise be hidden within the bright smooth coma gradient. Standard technique used in cometary research for mapping active regions on the rotating nucleus.

@@ -1,0 +1,33 @@
+IMAGE: 13_2030159370751987712_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Composite image (vertical stack) divided into two panels, each with a thin white border, on a black background.
+
+UPPER PANEL (approximately top 40% of image):
+* Vintage/archival video footage (low resolution, warm color cast). Shows a man in dark clothing demonstrating an apparatus on a table or bench.
+* The apparatus is a rectangular metal frame (appears to be aluminum or steel angle iron) approximately 30 cm wide × 20 cm tall, with two or three horizontal rails/bars. On the rails, there appears to be a ferrofluid or magnetic fluid demonstration: the fluid forms characteristic spiked peaked structures (the Rosensweig instability/normal-field instability) along the field lines — the peaks are arranged in a regular triangular array pattern along the top bar and in a zigzag/sawtooth wave pattern along the lower bar. These are bright/reflective spikes against a darker background.
+* The man's hand is visible at upper right, presumably manipulating a magnet or electrical control.
+* The frame is supported/held near a table surface with various items visible in the background.
+
+LOWER PANEL (approximately bottom 55% of image):
+* Dark background (black/very dark gray).
+* Center: a bright annular ring — thick white/cream luminous ring (torus cross-section from above), approximately 70% of panel width in diameter. The ring has a clearly defined inner edge and outer edge, with the interior (center circle) and exterior (beyond the ring) both dark.
+* Around the outer circumference of the ring, at regular intervals: 10-11 small white circles evenly spaced (like "roller" positions). One of the small circles at the top of the ring has a red fill or red dot at its center (12 o'clock position).
+* The overall composition is a top-view schematic of a ring-magnet system: the bright annular ring represents the stator ring, and the surrounding small circles represent the individual roller magnets positioned at the outer edge. This is a stylized or animation-frame depiction of the Searl Effect Generator layout.
+
+TEXT VISIBLE: None clearly legible.
+
+COLORS:
+* Upper panel: warm sepia/amber tones (archival footage), bright white spikes of ferrofluid, dark frame.
+* Lower panel: black background, bright white/cream ring, white small circles, red dot at 12 o'clock roller position.
+
+PHYSICS CONCEPTS:
+* Upper panel — Rosensweig instability (normal-field instability) in a ferrofluid: When a ferrofluid (colloidal suspension of magnetic nanoparticles) is subjected to a sufficiently strong vertical magnetic field, the flat free surface becomes unstable and spontaneously forms a regular array of sharp peaks — the Rosensweig or normal-field instability. This is a magnetohydrostatic phenomenon where the magnetic pressure (proportional to B²/2μ₀ at the surface) overcomes the restoring forces of gravity and surface tension. The threshold field strength is B_c = √(2μ₀√(ρgσ)) where ρ is density, g gravitational acceleration, and σ surface tension. The resulting peak spacing is set by the capillary length λ_c = √(σ/ρg). The sawtooth/zigzag pattern visible along the lower rail suggests the fluid is responding to a non-uniform or modulated field along the rail length.
+* Lower panel — SEG top-view schematic animation frame: A simplified overhead depiction of the roller ring and stator ring geometry. The red dot at the 12 o'clock position may mark a phase reference point (e.g., the start of the U-phase winding in the IEC 3-phase system). This diagram complements the more detailed black/white schematic in 13_2028704773655207938 but uses a luminous/glow aesthetic suggesting it is from an animation or visualization sequence rather than a printed diagram.
+
+SPATIAL RELATIONSHIPS:
+* Upper panel: apparatus frame centered, man's hand at upper right.
+* Lower panel: bright ring centered, small roller circles at equidistant positions around circumference.
+
+HIGH-LEVEL SUMMARY:
+Composite two-panel image: (1) archival footage of a ferrofluid Rosensweig instability demonstration showing regular spiked peaks in a magnetic field — relevant to magneto-hydrodynamic field pattern research; (2) an animated/stylized top-view SEG ring schematic showing a luminous stator ring with 10-11 evenly spaced roller positions and a red phase-marker dot at 12 o'clock. Together these frames connect ferrofluid field-geometry visualization to the SEG roller ring topology.

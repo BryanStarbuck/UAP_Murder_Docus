@@ -1,0 +1,34 @@
+IMAGE: 13_2028704773655207938_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Black-and-white 2D diagram/illustration of a SEG (Searl Effect Generator) top-view schematic — the most detailed and explicit SEG roller arrangement diagram seen in this series.
+* Outer ring: a large circle with a toothed/scalloped outer rim — the gear-tooth perimeter has approximately 18-20 individual rounded protrusions (lobes), creating an appearance like a sprocket wheel or a gear with curved teeth.
+* Inner space: a large black filled circle (stator ring) occupying the interior of the outer toothed ring. Within the black ring, a white circle and then a small black inner circle form two additional concentric rings — creating the appearance of a bullseye or target pattern at the center.
+* Orbital ring of elements: around the stator ring (between outer toothed ring and inner stator), approximately 14-16 individual disc/roller elements are arranged. Each element appears as a circle with a smaller black filled circle within it — representing a roller magnet assembly viewed from above (the outer ring of each roller element is white/light, the inner portion is black/dark). These elements partially overlap each other, arranged in a continuous chain around the ring.
+* The overall composition resembles a planetary gear system viewed from above, but the elements represent the SEG rollers orbiting the stator ring.
+* Black pillarbox bars at left and right edges (thin vertical bars, with a thin green line visible at the extreme left edge).
+* Background: white.
+
+TEXT VISIBLE: None.
+
+COLORS:
+* Outer toothed ring: white with black outline
+* Stator ring: black fill
+* Inner concentric circles: white circle within black, then black inner circle (bullseye)
+* Roller elements: white with black inner fill
+* Background: white
+* Pillarbox: black
+* Left edge: thin green line
+
+PHYSICS CONCEPTS:
+* This is a top-view schematic of the Searl Effect Generator showing the canonical roller-ring arrangement. The 14-16 rollers arranged around the inner stator ring correspond to Searl's documented design, where rollers travel in the space between the stator ring and the outer case. Each roller (small circle with black center) represents a layered permanent magnet cylinder: the white outer ring is the outer magnetic layer and the black center is the inner magnetic core, both with specific magnetization patterns (alternating N-S zones around the circumference, plus axial bias). The toothed outer ring may represent either the outer race of the bearing housing or the outer stator ring in a multi-ring SEG design (Searl designed SEGs with up to 3 concentric rings, each with its own set of rollers). The bullseye center (white ring within black within white) represents the central hole and bearing of the assembly.
+
+SPATIAL RELATIONSHIPS:
+* Outer toothed ring: largest element, outer perimeter.
+* Roller elements: 14-16, arranged around the black stator ring.
+* Stator ring: black fill, middle radial position.
+* Bullseye (inner rings): center of composition.
+* Pillarbox bars: left and right.
+
+HIGH-LEVEL SUMMARY:
+Explicit black-and-white 2D SEG roller arrangement schematic showing 14-16 roller elements (white discs with black centers) orbiting a black stator ring, all within a toothed outer gear ring — with a bullseye pattern at the center. This is the clearest top-view SEG layout diagram in the series. The 14-16 roller count corresponds to more advanced multi-roller SEG designs. The gear-tooth outer ring may represent the outer stator or bearing race of the assembly.

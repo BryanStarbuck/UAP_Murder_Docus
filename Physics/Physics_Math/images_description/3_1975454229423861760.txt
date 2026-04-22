@@ -1,0 +1,39 @@
+SHAPES:
+* Astronomical photograph/star chart image (~590x450px)
+* Background: dark gray/charcoal-black sky with star field — numerous stars of varying brightness as white-gray dots
+* Grid overlaid: light gray grid lines at approximately equal spacing creating a coordinate grid (right ascension / declination coordinate grid in equatorial coordinates)
+* A dashed circle (~80px diameter) centered at approximately right-center of the image — this marks the location of the object of interest
+* Multiple labeled stars and objects with TYC catalog numbers (Tycho-2 star catalog):
+  - "TYC2542-459-1", "TYC2542-1096-1", "TYC2542-1094-1", "TYC2542-898-1" (left side)
+  - "TYC3026-1230-1" (center)
+  - "TYC3027-1203-1", "TYC3027-358-1", "TYC3027-615-1", "TYC3027-924-1" (right side)
+  - "TYC3026-391-1", "TYC3026-15-1" (lower)
+  - "TYC3030-1094-1", "TYC3030-233-1" (lower-right)
+* Coordinate labels around the border:
+  - Right ascension: "13h30m", "13h36m", "13h42m", "13h48m" (bottom/top)
+  - Declination: "+36°", "+37°30'", "+39°" (left side)
+* Named objects: "25 CVn" (upper-left, labeled in yellow), "3I/Atlas" (lower-right, labeled in yellow) — the dashed circle is around the "3I/Atlas" label position
+
+TEXT (full):
+* Yellow labels: "25 CVn", "3I/Atlas"
+* White coordinate labels: "13h30m", "13h36m", "13h42m", "13h48m", "+36°", "+37°30'", "+39°"
+* White TYC star catalog labels: multiple (as listed above)
+
+COLORS:
+* Background: dark gray-charcoal
+* Stars: white to light gray dots
+* Grid lines: light gray
+* Dashed circle: white/light
+* Text labels: white (coordinates and TYC numbers), yellow (object names)
+
+SPATIAL RELATIONSHIPS:
+* Grid divides the image into ~4x3 cells
+* "25 CVn" star is at upper-left (bright star visible)
+* "3I/Atlas" is marked at right-center with a dashed circle (the object is faint or invisible to the eye in this image)
+* Various background stars labeled at their positions
+
+PHYSICS CONCEPT:
+This is an astronomical finder chart for the interstellar object "3I/Atlas" — the third observed interstellar object to pass through the Solar System (following 1I/Oumuamua in 2017 and 2I/Borisov in 2019). "3I/Atlas" was a notable astronomical discovery. In the UAP physics community, interstellar objects like Oumuamua were proposed (by Harvard astronomer Avi Loeb) as possibly being artificial probes of extraterrestrial origin — a hypothesis that generated significant scientific and public debate. The star field context (RA 13h36m, Dec ~+37°30', in the constellation Canes Venatici near "25 CVn") and the dashed circle marking 3I/Atlas's position are standard astronomical locator chart elements. This image documents the discovery or tracking of 3I/Atlas for UAP/interstellar object research.
+
+HIGH-LEVEL SUMMARY:
+Astronomical star chart/finder image for interstellar object "3I/Atlas" in the constellation Canes Venatici (RA 13h30m-13h48m, Dec +36° to +39°), with a dashed circle marking the object's position against a star field labeled with Tycho-2 catalog numbers and coordinates. The named bright star "25 CVn" serves as a reference. 3I/Atlas is the third interstellar object detected passing through the Solar System. Used in UAP research in the context of possible interstellar probe identification (cf. Avi Loeb's Oumuamua probe hypothesis).

@@ -1,0 +1,42 @@
+IMAGE DESCRIPTION: 3_2015730434873970688.jpg
+
+SHAPES:
+* White background
+* Central complex black-and-white diagram showing a three-fold symmetric rotating disc design:
+
+Outer three arcs (large): three large thin-line circles (open circles, not filled), each approximately 80% of image height in diameter, positioned at 120-degree offsets so they overlap to form a trefoil pattern — their centers are at the three vertices of an equilateral triangle, and they intersect to create the characteristic three-lobed Reuleaux triangle shape (similar to a Venn diagram of three circles).
+
+Inside the overlapping region of the three circles: a large complex black solid element with:
+* Three large black crescents/lobes visible at 120-degree positions — these are the filled-in intersection areas between adjacent circles
+* Three white "blade" or "curved wedge" cutout shapes between the crescents, creating a pinwheel or triple-vortex appearance
+* At the very center: a small solid black dot surrounded by a white ring (approximately 30px diameter solid black, 60px diameter white ring around it)
+* The black and white areas together create a strong sense of rotation/spin — the white blades curve in a clockwise (or counter-clockwise) direction, like a three-bladed turbine
+
+Below the main diagram: a single solid black dot (isolated, centered below the main figure, approximately 20px diameter)
+
+TEXT:
+* No text visible
+
+COLORS:
+* Background: white
+* Thin-line outer circles: black outline, no fill
+* Central region: solid black with white cutouts
+* Single dot below: solid black
+
+PHYSICS / CONCEPTS:
+* This diagram depicts a three-phase rotating disc cross-section with strong visual indication of rotation direction:
+  1. The three large outer circles in trefoil arrangement: three independent magnetic field coil zones at 120-degree intervals
+  2. The inner black/white pinwheel pattern: the rotating magnetic field pattern — the white "blade" cutouts show the gap regions between magnetic poles as they rotate, creating the visual impression of a spinning three-blade impeller
+  3. The central white ring + black dot: the central shaft/hub and its immediate field-free zone
+* In three-phase motor physics, the rotating magnetic field pattern can be visualized as three sinusoidal fields (from three stator windings at 120° apart) that sum to create a net rotating field that sweeps continuously around the stator bore. The visual pattern in this diagram captures this rotating field topology.
+* The three large outer trefoil circles correspond to the three winding zones; the central pinwheel captures the resultant rotating field.
+* The single dot below the diagram may indicate a reference point, ground symbol, or the bottom of the central shaft axis (indicating this is a side view or axial view with the shaft pointing downward).
+
+SPATIAL RELATIONSHIPS:
+* Three overlapping large circles form the outer trefoil boundary
+* Black/white pinwheel at the center of the trefoil intersection
+* Small central disc (black dot + white ring) at exact center
+* Single isolated black dot below the main figure, center-aligned
+
+SUMMARY:
+A three-fold symmetric diagram of a rotating three-phase electromagnetic field, rendered as three large overlapping circles (trefoil arrangement at 120-degree offsets) with a central three-blade pinwheel pattern (black solid with white curved blade cutouts). The pinwheel interior represents the rotating magnetic field pattern of a three-phase induction motor, where the three sinusoidal contributions from the 120°-offset windings combine into a continuously rotating resultant field. The central white ring + black dot represents the shaft hub. This is one of the most visually intuitive representations of three-phase rotating field theory in this collection.

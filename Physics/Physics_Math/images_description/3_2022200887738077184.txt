@@ -1,0 +1,41 @@
+SHAPES:
+* Black and white circular diagram on white/light gray background
+* Outer large filled black annular ring: approximately 880px outer diameter, ~80px wide
+* Inner white circular area within the outer ring: approximately 720px diameter
+* Outer boundary of inner white circle: two thin black concentric ring outlines
+* Within inner white area: three small circles at the top of the disc
+  * Smallest circle (leftmost): white outline only, approximately 45px diameter
+  * Medium circle: white outline, approximately 60px diameter
+  * Largest circle (rightmost, at top center): black filled, approximately 90px diameter
+  * All three circles sit on a flat "shelf" or platform at the top of the inner disc (a gap in the outer ring)
+* Inner disc has a spiral track element: curved line that forms approximately 1.5 turns of a spiral, with small notch/step features at three positions along the track
+* Central filled black circle: approximately 120px diameter
+* Very small black dot: approximately 10px diameter, positioned inside the inner disc near the central circle
+
+TEXT VISIBLE:
+* None visible
+
+COLORS:
+* Background: white/light gray
+* Outer ring: solid black
+* Inner disc: white
+* Three circles at top: outlined and one filled black
+* Spiral track: black outline
+* Central disc: black filled
+
+PHYSICS CONCEPTS:
+* This is a black-and-white diagram of the Barbury Castle 2008 crop formation (the pi-encoding formation discussed in image 3_2021966483321237507.jpg)
+* The three circles at the top: small (1.0 = digit 1), medium (0.0 = digit 0), large filled (3.0 = digit 3) — representing the digit 3 of pi = 3.14159...
+* The spiral track with notch positions: each arc segment of the spiral encodes one decimal digit of pi through the angular fraction of the circle it occupies — this is the binary/angular encoding of pi discovered by astrophysicist Mike Reed in 2008
+* The small dot may represent the decimal point (the .1415... part)
+* The three-circle sequence at top encodes: small = digit 1 unit (tiny), medium = digit 2 units, large filled = digit 3 — or alternatively, they are circles of diameter 1, 2, 3 representing a ratio
+
+SPATIAL RELATIONSHIPS:
+* Outer thick black ring surrounding everything
+* Inner white disc area
+* Three circles positioned at the top gap in the outer ring
+* Spiral track within the inner disc, starting from the top and spiraling inward clockwise (or outward counterclockwise)
+* Central black filled disc at center of spiral
+
+HIGH-LEVEL SUMMARY:
+Black-and-white diagram of the Barbury Castle 2008 crop formation, which is widely analyzed as encoding the mathematical constant pi (π = 3.14159265358979...) in a novel encoding scheme. Three circles of different sizes at the top encode the leading digit "3." The spiral track within the disc is divided by notch positions into arc segments, where each segment's angular fraction relative to a full circle encodes successive decimal digits of pi in a base-10 positional notation. This formation was analyzed by astrophysicist Mike Reed who decoded the pi encoding, and is presented in UAP physics research as an example of a crop formation containing mathematical content of extraordinary sophistication, given that pi encoding in angular arc-length notation represents a non-trivial mathematical concept that was not widely known in this visual form.

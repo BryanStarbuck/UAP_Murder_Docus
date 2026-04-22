@@ -1,0 +1,318 @@
+
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Beyond Classical Model
+# Source: RedCollie1 (Dr. Horace Drew), X/Twitter posts and video transcriptions
+# Extracted: 2026-04-22
+
+============================================================
+EQUATION 1: UFO LEVITATION RELATION (CLAIMED FUTURE PHYSICS TEXTBOOK)
+============================================================
+
+Source (1946435673562751159.yaml note_tweet):
+
+   w = h / a
+
+Variables:
+* w = angular velocity of spinning magnetic gyroscope [rad/s]
+* h = height of the spinning magnet above the reference surface [meters]
+* a = area of the precessional cone base (XY-plane cross-section) [m^2]
+
+This equation asserts a direct proportionality between angular velocity and the ratio
+of altitude to precessional area. Rearranged:
+
+   h = w * a           (altitude scales with both spin speed and area)
+   a = h / w           (precessional area decreases as spin speed increases at fixed h)
+   w * a = h = const   (at fixed height: angular velocity and area are inversely
+                        proportional -- Bohr-like quantization analogy)
+
+The inverted-cone geometry: at constant total angular momentum L = I*w, as w increases,
+I must decrease proportionally (L = I*w = const). For a precessing cone, the moment
+of inertia I ~ m*a (mass times characteristic area), so:
+   m*a*w = L = const
+   a = L / (m*w) = h (from the equation above, with proportionality absorbed)
+
+This yields a topological mapping: (w, a) trace the surface of a cone in parameter
+space with vertex at (w_max, a=0, h=h_max) and base at (w=0, a=a_max, h=0).
+
+Phase transition condition: the system undergoes a transition from precessional orbit
+(low w, high a) to axial spin (high w, low a) at a critical angular velocity w_c.
+Below w_c: precessional regime (wide cone, low altitude).
+Above w_c: spin-stabilized levitation regime (narrow cone, high altitude).
+
+============================================================
+EQUATION 2: LORENTZ FORCE
+============================================================
+
+Source (1954098493859270934.yaml note_tweet):
+
+   F = q * (v x B)
+
+* q = electric charge [Coulombs]
+* v = velocity vector of charged particle [m/s]
+* B = magnetic field vector [Tesla]
+* F = force vector on charged particle [Newtons]
+
+For ions between two parallel wires:
+   v is in the direction of E-field (+ terminal to - terminal, approximately x-direction)
+   B is along the magnet pole axis (z-direction, up or down depending on pole orientation)
+   F = q * (v_x * x_hat) x (B_z * z_hat) = q * v_x * B_z * (x_hat x z_hat)
+   x_hat x z_hat = -y_hat
+   F = -q * v_x * B_z * y_hat
+
+So positive ions deflect in -y direction for North-up (B_z > 0). Flipping the magnet
+(South up, B_z < 0) gives F = +q * v_x * B_z * y_hat, deflecting in +y direction.
+Confirmed by experiment: "strong view to the right" vs "strong view to the left."
+
+============================================================
+EQUATION 3: GYROSCOPIC PRECESSION TORQUE
+============================================================
+
+Source (1954098493859270934.yaml note_tweet, 13_1950755144062373888_video.mdx):
+
+   tau = dL/dt = r x F
+
+For a spinning gyroscope with:
+* L = angular momentum vector = I * omega (I = moment of inertia, omega = spin angular
+  velocity vector, pointing along spin axis)
+* r = position vector of center of mass from pivot
+* F = external force (gravity: F = -m*g*z_hat)
+
+   tau = r x F = r x (-m*g*z_hat)
+
+If r is in the horizontal (x) direction, r = r_0 * x_hat:
+   tau = r_0 * x_hat x (-m*g*z_hat) = r_0 * m * g * (x_hat x (-z_hat))
+   x_hat x (-z_hat) = x_hat x (-z_hat) = y_hat
+   tau = r_0 * m * g * y_hat   (horizontal torque, perpendicular to both r and gravity)
+
+Precession rate:
+   Omega_prec = tau / L = (r_0 * m * g) / (I * omega)
+
+The gravitational force does not accelerate the gyroscope downward; instead it drives
+horizontal precession. This is the mathematical basis for the claim that gravity's
+downward pull becomes a horizontal (sideways) force for a spinning system.
+
+============================================================
+EQUATION 4: CONSERVATION OF ANGULAR MOMENTUM (SPIN/COUNTER-SPIN)
+============================================================
+
+Source (1979722853189841331.yaml note_tweet):
+
+   L_total = L_inner + L_outer = constant
+
+For a UFO with inner spinning magnet and outer counter-spinning hull:
+   I_inner * omega_inner + I_outer * omega_outer = 0   (if L_total = 0)
+
+   omega_outer = -(I_inner / I_outer) * omega_inner
+
+Ratio of angular velocities is inversely proportional to ratio of moments of inertia.
+For a disc magnet (inner):
+   I_inner = (1/2) * m_magnet * r_magnet^2
+
+For a thin-walled cylinder (outer hull):
+   I_outer = m_hull * r_hull^2
+
+Therefore:
+   omega_outer / omega_inner = -(m_magnet * r_magnet^2) / (2 * m_hull * r_hull^2)
+
+For a craft with r_hull >> r_magnet:
+   |omega_outer| << |omega_inner|
+
+The inner magnet spins fast; the outer hull spins slowly in the opposite direction.
+Visible anti-clockwise rotation of the outer hull (as observed by Edwin Fuhr, 1974)
+is the consequence of inner clockwise spin angular momentum conservation.
+
+============================================================
+EQUATION 5: FARADAY / LENZ LAW (AC LENZ LEVITATION)
+============================================================
+
+Source (2045812737897558122.yaml note_tweet):
+
+Induced EMF in conducting disc:
+   EMF = -d(Phi_B)/dt  (Faraday's law)
+
+where Phi_B = integral of B.dA over the disc area.
+
+For a sinusoidal applied field B(t) = B_0 * cos(omega_AC * t):
+   d(Phi_B)/dt = -A_disc * B_0 * omega_AC * sin(omega_AC * t)
+   EMF = A_disc * B_0 * omega_AC * sin(omega_AC * t)
+
+Eddy current power dissipated (resistive loss):
+   P = EMF^2 / R_eff  (R_eff depends on disc geometry)
+
+Lenz levitation force on stationary disc:
+   F_Lenz ~ B^2 * omega_AC^2 / R_eff   (scales as square of frequency and field)
+
+Claimed modification when disc spins at omega_spin:
+   F_measured ≠ F_Lenz (classical)
+   Additional term ~ f(omega_spin, omega_AC, B) (non-Newtonian correction)
+The exact form of the additional term is not given but is stated to be measurable and
+violates action-reaction equality.
+
+============================================================
+EQUATION 6: HOMOPOLAR MOTOR TORQUE (CORBINO DISC)
+============================================================
+
+Source (2008295445022601460.yaml, 1985115001921863786.yaml):
+
+Corbino disc (radial current in axial magnetic field):
+   J_r = I / (2 * pi * r * t)       (radial current density at radius r, thickness t)
+   f_phi = J_r * B_z                 (azimuthal Lorentz body force density)
+   dT = r * f_phi * 2*pi*r * t * dr (torque contribution from thin annular ring)
+   T = integral_{r_inner}^{r_outer} r * J_r * B_z * 2*pi*r*t dr
+     = (B_z * I) / (2*pi*t) * integral_{r_in}^{r_out} r * (1/r) * 2*pi*t dr
+     = B_z * I * (r_outer - r_inner)
+
+For uniform current distribution:
+   T = B_z * I * (r_outer - r_inner)   [simplified Corbino torque]
+
+In a liquid-metal Corbino motor (mercury or gallium):
+* Radial current flows through liquid metal in applied axial B
+* Azimuthal J x B force drives liquid rotation (no commutator needed)
+* Used as Phase 1 of the proposed UAP device: liquid metal rotating layer
+
+============================================================
+EQUATION 7: THREE-PHASE ROTATING FIELD CONSTRUCTION
+============================================================
+
+Source (13_2040403610497056768_video.mdx, 13_1928757562629042176_video.mdx):
+
+For three coils at 0, 120, 240 degrees in XY-plane, each carrying:
+   I_1(t) = I_0 * cos(omega * t)
+   I_2(t) = I_0 * cos(omega * t - 2*pi/3)
+   I_3(t) = I_0 * cos(omega * t - 4*pi/3)
+
+The net magnetic field at center:
+   B_x(t) = (mu_0 * N * I_0) / (2*r) * [cos(omega*t) + cos(omega*t - 2*pi/3)*cos(120) + ...]
+The vector sum of three sinusoidal contributions 120 degrees apart in spatial angle
+and 120 degrees apart in phase produces:
+   B_total = (3/2) * (mu_0 * N * I_0) / (2*r) * [cos(omega*t) * x_hat + sin(omega*t) * y_hat]
+
+This is a constant-magnitude field (magnitude = (3/2) * B_individual) rotating at
+angular frequency omega in the XY-plane. This is the rotating magnetic field that
+drives disc magnet rotation and rise.
+
+Coil parameters from experiment:
+   N = (not specified, but wound with 0.5 mm PEI copper wire)
+   R_coil ≈ 18 ohms (each coil)
+   Wire: 0.5 mm diameter, PEI (polyester-imide) insulation
+
+============================================================
+CROP PICTURE BINARY CODE MATHEMATICS (WAYLANDS SMITHY 2005)
+============================================================
+
+Source (1943284883973181478.yaml note_tweet):
+
+"There are 8 + 8 = 16 wedges around its top center. That tells us to read a binary
+code in base-16 or hexadecimal."
+
+Hexadecimal coding: 16 symbols (0-9, A-F), each representing 4 binary bits.
+
+"We can find two numbers in hexadecimal by studying all of those curved horizontal lines,
+namely 13-10-7 and 14-5-11."
+
+Conversion from hexadecimal triplets to Mayan Venus calendar dates:
+* Mayan calendar base: 18,980 days (the Venus round: 365 days * 52 = 18,980)
+* Mayan month: 20 days (20 Mayan symbols visible around formation perimeter)
+* 20 Mayan symbols around outside: confirms base-20 day counting
+* Hexadecimal numbers 13-10-7 and 14-5-11 converted through a decoding algorithm
+  to specific dates on the Mayan Venus calendar (spanning 2007 and further future)
+
+"This crop picture PREDICTED THE FUTURE by more than two years in advance."
+
+The mathematical structure: the formation encodes a two-date Mayan calendar system
+using hexadecimal representation, with:
+   date_1 corresponds to 13-10-7 in base-16
+   date_2 corresponds to 14-5-11 in base-16
+Each triple likely represents (uinal, kin, tun) or similar Mayan calendar units.
+
+============================================================
+WORMHOLE METRIC: MORRIS-THORNE TRAVERSABLE WORMHOLE
+============================================================
+
+Source (1935539341700612404.yaml -- spacetime wormholes as FTL mechanism):
+
+Morris-Thorne metric:
+   ds^2 = -e^(2*Phi(r)) * c^2 * dt^2 + [1 - b(r)/r]^(-1) * dr^2 + r^2 * dOmega^2
+
+Traversability conditions:
+   1. Phi(r) finite everywhere (no horizons)
+   2. b(r_0) = r_0 at throat (r_0 = minimum wormhole radius)
+   3. b'(r_0) <= 1 (flare-out condition)
+   4. Exotic matter required: T_mu_nu violates weak energy condition
+      rho_exotic + p_r < 0
+
+Transit time through wormhole throat:
+   Delta_t = integral_{-l_0}^{l_0} dl / v_transit
+where l is the proper radial distance and v_transit can approach c internally even
+while appearing FTL to external observers.
+
+============================================================
+CLOSED TIMELIKE CURVE CONDITIONS
+============================================================
+
+Source (2002133263150961012.yaml):
+
+A CTC is a path gamma in spacetime such that:
+   gamma(0) = gamma(tau)   (path returns to starting event)
+   g_mu_nu * (dx^mu/dlambda) * (dx^nu/dlambda) < 0  (timelike along entire path)
+
+Sufficient condition (Godel rotating universe):
+   g_phi_phi * (dphi/dt)^2 + 2*g_t_phi * (dphi/dt) + g_tt < 0
+   This is satisfied for dphi/dt > (critical value) in Godel metric
+
+For ETI using CTCs: information sent from event E_future back to event E_past (E_past
+precedes E_future in the original timeline), creating a causal loop. This relates to
+Drew's claim of "information from the future sent back into the past" and "cognitive
+photonic travel."
+
+============================================================
+UPWARD FORCE SCALING WITH FREQUENCY
+============================================================
+
+Source (13_1928757562629042176_video.mdx, experimental results):
+
+From direct measurements:
+   F_up is proportional to omega (rotation frequency)
+   At omega = 20 Hz, F_up >= 1 kg_f (1 kilogram-force = 9.81 N) for 6 mm thick magnet
+
+For 3 mm magnet (half thickness):
+   F_up ~ B_magnet ~ d_magnet (thickness)
+   So F_up(6mm) ≈ 2 * F_up(3mm) -- approximately double the force for double thickness
+
+This implies the upward force scales as:
+   F_up ∝ omega * B_magnet ∝ omega * d_magnet
+
+The next experimental step: determine if adding the 16-magnet counter-spinning ring
+reduces the downward reaction force (F_reaction) while maintaining F_up, producing:
+   F_net_up = F_up - F_reaction > F_up(classical)
+   or equivalently: F_reaction < F_up (Newton's Third Law bypass condition)
+
+============================================================
+GEOMETRIC CRYSTALLOGRAPHY: HEXAGONAL SYMMETRY IN CROP FORMATIONS
+============================================================
+
+Source (13_1924391502710513664_preview.txt):
+
+The hexagonal crop circle formation (6 satellite circles at 60-degree intervals, central
+circle, concentric outer rings) encodes:
+
+C6v point group symmetry:
+   Operations: E (identity), 2C6, 2C3, C2, 3sigma_v, 3sigma_d
+   Character table determines irreducible representations
+
+Brillouin zone: the reciprocal lattice of the hexagonal crystal has a hexagonal first
+Brillouin zone. High-symmetry points: Gamma (center), K (corner), M (edge midpoint).
+
+Abrikosov vortex lattice: in Type II superconductors, magnetic flux vortices arrange
+in a hexagonal lattice (Abrikosov lattice) to minimize free energy. The vortex lattice
+constant a_0 relates to the applied field B:
+   a_0 = (2 * Phi_0 / (sqrt(3) * B))^(1/2)
+where Phi_0 = h/(2e) = 2.07 x 10^(-15) Wb (flux quantum).
+
+Chladni figure analogy: hexagonal nodal patterns in a 2D circular membrane occur at
+specific resonant frequencies. For a circular membrane of radius R, tension T, surface
+density sigma:
+   f_mn = (alpha_mn / (2*pi*R)) * sqrt(T/sigma)
+where alpha_mn are zeros of Bessel functions J_m. The m=6 Bessel function zeros produce
+six-fold nodal patterns consistent with the hexagonal crop formation geometry.

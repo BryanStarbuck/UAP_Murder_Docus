@@ -1,0 +1,37 @@
+IMAGE: 16_1940527362254188544_preview.jpg
+
+SHAPES AND OBJECTS:
+* 3D rendered precision gyroscope: a computer-generated 3D model of a gyroscope in the standard gimbal configuration, shown against a white background. Overall dimensions approximately 480px wide and 560px tall.
+* Outer gimbal ring (large gray ring): a large circular gray ring approximately 430px diameter, oriented vertically, forming the outer frame. The ring is gray (dark steel-like material rendering).
+* Inner gimbal ring (smaller gray ring): a second smaller gray ring approximately 300px diameter, oriented perpendicularly to the outer ring (this ring is oriented at roughly 45° tilt or in the horizontal plane). It connects to the outer ring via pivot bearings.
+* Flywheel/rotor disk: a gold/yellow cylindrical disk, approximately 200px diameter and 35px thick, centered inside the inner gimbal ring. This is the spinning flywheel/rotor. The disk is a rich gold-yellow color.
+* Rotor axle: a brown/wood-colored or dark orange rod passing through the center of the flywheel disk vertically, approximately 8px diameter and 200px long. The axle protrudes above and below the disk.
+* Pivot bearings/axle endpoints: small rounded white/gray knobs at the top and bottom of the outer gimbal's vertical axis, approximately 12px each.
+
+TEXT:
+* No text visible.
+
+COLORS:
+* Background: white.
+* Outer and inner gimbal rings: medium gray.
+* Flywheel: gold/yellow.
+* Rotor axle: brown/tan.
+* Pivot knobs: white/light gray.
+
+PHYSICS / PHENOMENON:
+* This is a standard gimbal-mounted gyroscope visualization. A gyroscope with two or more gimbals has freedom to precess in any direction while maintaining the angular momentum direction of the spinning flywheel. Key physics:
+  - Conservation of angular momentum: L = Iω (I = moment of inertia, ω = angular velocity). The spinning flywheel maintains its orientation in space regardless of how the outer frame rotates.
+  - Gyroscopic stability and precession: τ = dL/dt; when a torque is applied, the gyroscope precesses perpendicular to the applied force.
+  - Applications: inertial navigation, stabilization platforms, attitude control in spacecraft.
+* In UAP physics research, gyroscopes are central to: Eric Laithwaite's claimed gyroscopic weight reduction experiments, Woodward/Mach Effect transient mass fluctuation in rotating masses, and gyroscopic inertial propulsion concepts.
+* The gold flywheel disk matches the high-density flywheel design needed for maximum angular momentum storage.
+
+SPATIAL RELATIONSHIPS:
+* Outer gimbal ring is the outermost element, approximately centered in the image.
+* Inner gimbal ring is inside the outer ring, slightly tilted.
+* Flywheel disk is at the center, horizontal (or near-horizontal).
+* Axle passes vertically through the flywheel center, protrudes above and below.
+* White ball-end pivots are at the outer frame's top and bottom axis points.
+
+HIGH-LEVEL SUMMARY:
+A 3D rendered two-gimbal gyroscope showing its complete assembly: outer gray gimbal ring, inner gray gimbal ring, gold flywheel disk, and brown axle with white pivot bearings. This is the standard educational model of a gyroscope demonstrating gimbal freedom, angular momentum conservation, and gyroscopic precession. Central to UAP physics research on gyroscopic inertial effects, Laithwaite's precession experiments, and spin-coupled gravity modification theories.

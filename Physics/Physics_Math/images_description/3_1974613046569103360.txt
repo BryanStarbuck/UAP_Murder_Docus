@@ -1,0 +1,35 @@
+SHAPES:
+* Black-and-white line diagram on white background (~940x940px)
+* Two concentric circles (outer ring): outer circle ~880px diameter, inner circle ~760px diameter, both with thin black stroke — forming a ring/annulus
+* Inside the ring: a second concentric ring gap (~80px wide) — thick black ring
+* Central figure: a large 3D isometric cube in outline form (~580px across)
+  - The cube is drawn in correct isometric perspective with three visible faces (top, left front, right front)
+  - Each visible face is subdivided into a regular grid: approximately 5x5 cells on each face
+  - Each cell within the grid contains a smaller 3D cube element (i.e., a subdivided isometric "Rubik's cube" or 3D grid)
+  - Each individual cell shows the inner cube with the same diagonal-line (hatching) style
+  - The effect is a fractal-like large cube made up of smaller cubes, each with their own face subdivisions
+  - Top face: 5x5 grid of rhombus/diamond shapes with diagonal line hatching
+  - Left face: 5x5 grid with different orientation hatching
+  - Right face: 5x5 grid with opposite diagonal line hatching
+* The entire cube sits within the ring, touching or nearly touching the inner ring circle
+
+TEXT: None visible.
+
+COLORS:
+* Background: white
+* All lines: black
+* Two concentric outer rings: thick black outlines
+* Cube interior: white fill with thin black grid lines and diagonal hatching
+
+SPATIAL RELATIONSHIPS:
+* Two concentric rings form outer boundary
+* Large isometric cube centered within the ring
+* The cube fills most of the interior circle area
+* The inner ring is a thick black band (~80px wide)
+* The outer ring is thinner
+
+PHYSICS CONCEPT:
+This is a high-quality black-and-white line drawing of a large isometric cube (possibly 5x5x5 unit-cube matrix) inscribed in two concentric circles — likely a crop circle reconstruction. The isometric 5x5x5 cube within a circular boundary is a specific geometric construction: it represents a projection of a 3D cubic lattice (5^3 = 125 unit cubes visible as a larger cube) viewed along the [111] body-diagonal direction. This is directly related to: (1) crystallographic projections of cubic lattice structures; (2) the isometric cube tessellation visible in the actual hexagonal crop formation photographed in 3_1972959439067185152 and 3_1973874510769369088; (3) the geometry of a body-centered cubic (BCC) or face-centered cubic (FCC) crystal lattice at the scale proposed for exotic metamaterials. The circular boundary with dual-ring (two concentric rings) matches the boundary structure of actual crop formations of this type.
+
+HIGH-LEVEL SUMMARY:
+Black-and-white line diagram of a large isometric cube (5x5x5 unit-cube matrix, 125 sub-cubes) inscribed within two concentric circles — a crop circle reconstruction of the hexagonal isometric-cube formation. The three visible faces of the large cube are each subdivided into 25 cells with isometric cube sub-elements and diagonal hatching. Used in UAP physics to document the crystallographic lattice geometry (cubic [111] projection) encoded in the crop formation, relevant to FCC/BCC metamaterial crystal structure analysis.

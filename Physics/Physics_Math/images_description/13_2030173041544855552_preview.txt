@@ -1,0 +1,37 @@
+IMAGE: 13_2030173041544855552_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down angled view of the precision-machined acrylic SEG stator disc, now loaded with roller elements positioned in the two concentric grooved race tracks.
+* The disc (clear/white acrylic) is visible from above and slightly to the side, lying flat on a white bench surface. The circular profile and drilled hole grid are visible.
+* Three large roller elements are visible in the frame, positioned in the outer roller race groove:
+  - Left roller: dark-colored (black/dark brown) rounded body with a blue strip of tape or marking across it. This is one of the disc/ring magnets — appears to be a larger toroidal or ring-shaped magnet wrapped in dark material with blue tape.
+  - Right roller: similar dark body with blue tape/marking.
+  - Bottom roller (partially visible, foreground): smaller, dark, with an orange/red stripe, appearing in the lower portion of the frame.
+* The rollers appear to be circular/toroidal magnets seated in the annular grooves of the stator disc. The blue tape is likely a phase-marking (consistent with IEC 3-phase labeling conventions: typically blue = U or V phase).
+* A central spindle (aluminum) is visible at the center of the disc, with a white plastic or aluminum cap/housing around the spindle base.
+* Orange elements visible: at the lower center, an orange bearing or spacer component is visible — this may be the same orange bearing ball seen in prior top-down views, or an orange rubber isolation ring.
+* Right edge of frame: the chrome cylindrical stator housing wall is partially visible — the disc may be inside or adjacent to the housing.
+* White bench surface below the disc.
+* Vertical scan lines visible at left edge (video artifact).
+
+TEXT VISIBLE: None clearly legible.
+
+COLORS:
+* Clear/white: acrylic disc
+* Dark brown/black: roller magnet bodies
+* Blue: tape strips on rollers
+* Orange: bearing/spacer component at center-lower
+* Silver/aluminum: central spindle and housing elements
+* White: bench surface and housing
+
+PHYSICS CONCEPTS:
+* This is a critical assembly step: the toroidal roller magnets (3-phase wrapped) are being positioned in the precision-machined annular race grooves of the acrylic stator disc. The blue tape indicates these are the phase-U or phase-V wound rollers. The double concentric groove design allows two rings of rollers to precess around the stator — the inner and outer rings create superimposed rotating magnetic field patterns. The precise groove geometry (notched profile) maintains constant gap between roller outer surface and groove wall, which is critical for maintaining consistent magnetic coupling geometry as the rollers orbit.
+
+SPATIAL RELATIONSHIPS:
+* Acrylic disc occupies most of frame, viewed from above-front.
+* Three rollers visible in outer groove: left, right, and lower-center positions.
+* Central spindle at exact center of disc.
+* Orange element just below center spindle.
+
+HIGH-LEVEL SUMMARY:
+Assembly view of the precision-machined acrylic SEG stator disc with three toroidal roller magnets (blue-tape marked, likely 3-phase wound) positioned in the outer concentric race groove. This is a significant assembly step showing the roller-to-stator relationship. The blue tape phase markings and the orange bearing element at center are consistent with the 3-phase roller assembly methodology documented throughout this build series.

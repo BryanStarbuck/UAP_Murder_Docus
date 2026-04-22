@@ -1,0 +1,85 @@
+IMAGE DESCRIPTION: 3_1998842080458838016.jpg
+
+SHAPES AND ELEMENTS:
+* Black-and-white diagram with colored text labels and an explanatory text box
+* White background
+* This is a labeled vertical assembly diagram of the Galinstan electromagnetic propulsion device
+* Vertical orientation — the assembly is shown from top to bottom
+
+TOP ELEMENT (MAGNET 2):
+* A large solid black circle at the top — approximately 150px diameter
+* Has a small white ring/hollow center
+* This is labeled "magnet 2 N/S" (red text, upper-right)
+
+CONNECTOR ELEMENT:
+* Below magnet 2: a black connector piece — resembling a tuning fork or "Y" shape (prongs pointing down)
+* This connector joins magnet 2 to the central Galinstan assembly
+
+CENTRAL ASSEMBLY (GALINSTAN + DRIVE RING):
+* The main body of the device — a circular assembly approximately 300px diameter
+* Outer ring: a ring of approximately 14-16 solid black circles arranged uniformly around the perimeter
+* The central region: a large black disc with a magenta "+" symbol
+* Between the central disc and the outer ring of circles: white space with small tendrils/branches (same as the previous image)
+* Two magenta "−" dashes on left and right sides of the central assembly
+* Labels "galinstan" appear in magenta on both left and right sides of the central assembly
+
+CONNECTOR ELEMENT:
+* Below the central assembly: another connector piece — resembling an inverted tuning fork or "ω" (omega-like curved connector)
+* This connects the central Galinstan assembly to the lower magnet
+
+BOTTOM ELEMENT (MAGNET 1):
+* A large solid black circle at the bottom — approximately 120px diameter
+* Has a small white ring/hollow center
+* This is labeled "magnet 1 S/N" (blue text, lower-left)
+
+CAPTION LABEL:
+* "place here" — black text, positioned between the central assembly and the lower magnet connector
+* This indicates where magnet 1 is placed relative to the assembly
+
+TEXT BOX (lower-right):
+* A black-bordered rectangle containing black text:
+  * "magnet 1 makes the galinstan spin, and also lifts up magnet 2"
+* This is the key operational description of the device
+
+TEXT LABELS:
+* "magnet 2 N/S" — red text, upper-right area
+* "3-phase magnetism" — red text, upper-left area
+* "galinstan" — magenta text, left side of central assembly
+* "galinstan" — magenta text, right side of central assembly
+* "place here" — black text, lower-center
+* "magnet 1 S/N" — blue text, lower-left
+
+COLORS:
+* Diagram: black and white
+* "magnet 2 N/S" text: red
+* "3-phase magnetism" text: red
+* "galinstan" text: magenta
+* "magnet 1 S/N" text: blue
+* Text box content: black text in black border
+
+PHYSICS CONCEPTS:
+* This is the operational diagram explaining the Galinstan MHD levitation device:
+  * MAGNET 1 (bottom, S/N polarity): creates the primary magnetic field
+  * GALINSTAN (central conducting ring): the liquid Ga-In-Sn alloy that serves as the rotating conducting medium
+  * MAGNET 2 (top, N/S polarity): the upper magnet with opposing polarity — it is LEVITATED by the electromagnetic forces generated when magnet 1 makes the Galinstan spin
+  * The text box explanation: "magnet 1 makes the galinstan spin, and also lifts up magnet 2"
+* Device physics:
+  * Magnet 1 (fixed, below) generates a static magnetic field B₁ pointing upward (S→N convention)
+  * Three-phase AC current applied to the ring creates a rotating magnetic field that drives the Galinstan into rotational flow
+  * The rotating conducting Galinstan induces currents in magnet 2 (above) via electromagnetic induction
+  * The interaction between the induced currents in magnet 2 and the rotating field creates a Lorentz force that lifts magnet 2
+  * This is analogous to a magnetic levitation (maglev) mechanism using rotating liquid metal as the intermediate
+  * The opposing polarities (magnet 1 S/N, magnet 2 N/S) create a repulsive field configuration that aids levitation
+* "Place here" label: indicates magnet 1 is placed below the central Galinstan assembly
+* The device thus operates as: a rotating MHD drive (Galinstan spinning) + magnetic levitation (magnet 2 lifted) = a propulsion + levitation combined device
+
+SPATIAL RELATIONSHIPS:
+* Magnet 2 (N/S): top
+* Y-shaped connector: between magnet 2 and central assembly
+* Central Galinstan assembly with outer circle ring: middle
+* Omega-shaped connector: between central assembly and magnet 1
+* Magnet 1 (S/N): bottom
+* Text box: lower-right
+
+HIGH-LEVEL SUMMARY:
+A fully labeled vertical assembly diagram of the Galinstan MHD levitation/propulsion device with an explanatory text box: "magnet 1 makes the galinstan spin, and also lifts up magnet 2." The assembly from top to bottom: a solid black disc (magnet 2, N/S polarity, red label), a Y-connector, the central Galinstan rotating disc assembly (ring of outer circles, central disc with magenta "+"), an omega-connector, and magnet 1 (S/N polarity, blue label). The three-phase rotating magnetic field drives the Galinstan into rotation, which induces currents in magnet 2 that cause it to levitate above the assembly. The opposing polarity configuration (N/S above vs S/N below) creates the repulsive magnetic geometry needed for stable levitation. This diagram summarizes the complete propulsion/levitation operating principle of the device.

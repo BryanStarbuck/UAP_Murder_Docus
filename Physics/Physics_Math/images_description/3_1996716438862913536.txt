@@ -1,0 +1,37 @@
+IMAGE DESCRIPTION: 3_1996716438862913536.jpg
+
+SHAPES AND ELEMENTS:
+* Light gray/white noisy background (deep sky astronomical image, likely negative or inverted, where stars appear as dark streaks on gray background)
+* Central large dark elliptical blob: approximately 150px diameter, irregular/round shape — this is a bright comet nucleus/coma rendered dark in this inverted representation; positioned at approximately center-left of image (~350, 350)
+* Faint extended dark streak/tail: extending from the comet nucleus toward the upper-right at roughly 45-degree angle, approximately 500px long and 50px wide — this is the comet's tail
+* Many small dark dots and short streaks scattered across the image: these are background stars, appearing dark against the light sky background due to image processing; some appear as short streaks due to telescopic tracking of the comet rather than stars
+* Two thin white diagonal arrow lines: visible at upper-right area, converging toward the tail region — these appear to be annotation arrows pointing to the tail feature
+* Small dark text box: lower-left corner, black background rectangle with white text
+
+TEXT:
+* Lower-left text box: "Sol: 296 deg" (white text on black background, small font) — this is an annotation indicating solar elongation angle (296 degrees)
+* Lower-left text box also contains a small white arrow symbol indicating direction
+* Upper portion has faint text/arrows visible as annotation overlay (white diagonal lines converging at tail)
+
+COLORS:
+* Overall: grayscale, light gray background (inverted/processed astronomical image)
+* Dark features: comet nucleus, stars, tail
+* White: annotation arrows and text
+* Black: annotation box background
+
+PHYSICS CONCEPTS:
+* This is a processed astronomical observation of a comet — likely an astrometry image or discovery/confirmation observation
+* The "Sol: 296 deg" annotation indicates the comet's solar elongation = 296 degrees (i.e., the angular separation between the comet and the Sun as seen from Earth)
+* The inverted/processed image rendering (dark features on gray) is common in astrometry to enhance faint nebulosity and tails
+* Stellar streaks (instead of points) occur because the telescope tracking rate was set to follow the moving comet, making background stars trail
+* The white arrows appear to be annotating the direction or extent of the tail for measurement purposes
+* The image may be from a database like the Minor Planet Center, JPL Solar System Dynamics, or an amateur astronomer's discovery submission
+
+SPATIAL RELATIONSHIPS:
+* Comet nucleus: center-left of image
+* Tail: extends upper-right from nucleus
+* Annotation arrows: pointing at tail in upper-right region
+* Text box: lower-left corner
+
+HIGH-LEVEL SUMMARY:
+A processed grayscale astronomical observation of a comet, shown in an inverted rendering where the comet coma/nucleus appears as a dark blob against a light gray background, with a faint tail extending upper-right. Stars appear as dark streaks due to comet-tracking telescope motion. The annotation "Sol: 296 deg" indicates solar elongation of 296 degrees. This appears to be an astrometry or discovery observation image, possibly from a comet confirmation database. The white arrows annotate the tail extent or direction.

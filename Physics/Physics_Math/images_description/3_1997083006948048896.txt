@@ -1,0 +1,46 @@
+IMAGE DESCRIPTION: 3_1997083006948048896.jpg
+
+SHAPES AND ELEMENTS:
+* Split-panel image, divided vertically by a thin blue line at approximately 55% from left
+* LEFT PANEL — dark background astronomical image:
+  * Black background (inverted or dark sky)
+  * Several faint fuzzy blobs visible: the brightest is at approximately center-right of this panel (~450, 310), a small elongated fuzzy white blob; another fainter blob at upper-center (~350, 140)
+  * Many small point stars/streaks scattered (this is comet-tracked image so stars streak)
+  * Coordinate grid: thin horizontal and vertical lines forming a reference grid; numbers labeling the axes: left axis labeled with values "1:00:00", "0:50:00", "0:45:00" (RA or time values), bottom axis labeled "11:55:0", "11:56.0", "54:00.0" suggesting right ascension or time coordinates
+  * The fuzzy objects are the comet at two different positions or two related objects
+
+* RIGHT PANEL — gray/white background contour plot:
+  * White/light gray background
+  * Central black filled circle: approximately 100px diameter, centered at roughly (800, 360) in the full image; this represents the comet nucleus (overexposed)
+  * Concentric contour lines: many closely-spaced contour lines surrounding the central dark circle, fading outward; these are isophotes (lines of equal brightness) from the comet's coma; the inner contours are closely packed, outer contours more spread
+  * Extended contour lobe: the contours are not perfectly circular — they have an asymmetric extension toward the left-upper direction, suggesting a coma jet or tail base
+  * Coordinate grid: right-ascension and declination lines with labels: RA values "40:00", "42:00", "44:00" across top; Dec values "22:00", "24:00", "26:00", "32:00", "34:00", "36:00", "38:00" on sides
+  * Two diagonal lines crossing through the right panel: a blue line (divides left from right panel) and thin dark lines representing the equatorial coordinate grid
+
+TEXT:
+* Left panel axes: "25:00", "20:00", "15:00" (vertical), "56:0.0", "30.0", "11:55:0", "30.0", "54:00.0" (horizontal)
+* Right panel axes: "58:00", "52:00", "46:00" (vertical), "38:00", "40:00", "42:00", "44:00", "34:00", "36:00" (horizontal)
+
+COLORS:
+* Left panel: black background, white/gray stars and blobs
+* Right panel: white/light gray background, dark gray contour lines, black nucleus
+* Blue vertical dividing line
+
+PHYSICS CONCEPTS:
+* Left panel is a direct astronomical image of a comet (or two observations of the same comet at different times) with coordinate grid overlay — this is a discovery or confirmation image
+* Right panel is an isophote map of the comet's coma — contour lines connect points of equal surface brightness in the coma; this is used to analyze:
+  * Coma asymmetry (jets, active regions on nucleus)
+  * Dust production rates
+  * Inner coma structure
+  * Outgassing direction
+* The asymmetric extension of contours toward upper-left indicates an active jet or enhanced dust production in that direction
+* This type of analysis is standard in cometary science (published in Icarus, A&A, MNRAS)
+* Relevant to UAP research: precise characterization of luminous natural objects helps distinguish them from artificial sources
+
+SPATIAL RELATIONSHIPS:
+* Left panel: direct image
+* Right panel: derived isophote/contour map of same object
+* The two panels represent observation → analysis workflow
+
+HIGH-LEVEL SUMMARY:
+A two-panel scientific composite showing a comet observation (left: direct image with coordinate grid showing the comet's fuzzy appearance among background star streaks) and its corresponding isophote analysis (right: concentric brightness contour map revealing asymmetric coma structure with an extended emission lobe toward upper-left, indicating a cometary jet or preferential outgassing direction). Standard cometary science analysis used to characterize the coma geometry and dust/gas production rates.

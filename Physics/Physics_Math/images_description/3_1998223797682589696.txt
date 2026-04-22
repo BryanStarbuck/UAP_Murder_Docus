@@ -1,0 +1,47 @@
+IMAGE DESCRIPTION: 3_1998223797682589696.jpg
+
+SHAPES AND ELEMENTS:
+* White background
+* Single diagram on a light background
+* Outer circle: large, thin black outline, approximately 400px diameter, centered in image
+* Inner circle: smaller, thick black outline, approximately 100px diameter, centered within the outer circle; labeled "R₁" with an arrow pointing right from center to its perimeter
+* Between inner and outer circle: three concentric curved arcs (like a partial spiral or nested half-circles), each curving from the right side of the inner circle outward and downward to the left side of the outer circle; these arcs represent current flow paths
+  * Three arrows on these arcs pointing in the direction of current flow (counterclockwise/inward spiral motion)
+* "Voltage taps" notation: a set of approximately 6 small double-circle symbols (⊗) arranged horizontally to the right of the inner circle, connected by a horizontal bracket; labeled "voltage taps"
+* Two labels with arrows indicating current direction:
+  * "I_in" with an arrow at the lower-left of the outer circle pointing inward (downward toward the outer circle bottom)
+  * "I_out" with an arrow at the bottom center pointing outward (downward, exiting at the bottom)
+* "R₂" label: diagonal arrow from somewhere in the lower-right inner region pointing to the space between inner and outer circle
+* Two shorter arrows on the arcs at the inner circle boundary pointing in the flow direction
+
+TEXT:
+* "R₁" — inside the inner circle, with arrow indicating radius
+* "R₂" — label with diagonal arrow in the inter-ring space
+* "I_in" — label with arrow at lower-left
+* "I_out" — label with arrow at lower-center
+* "voltage taps" — label with bracket at right, indicating the array of ⊗ symbols
+
+COLORS:
+* Black on white only
+
+PHYSICS CONCEPTS:
+* This is a cross-sectional schematic of a homopolar generator / Faraday disc geometry
+* "R₁" = inner radius of the conducting disc (or inner electrode radius)
+* "R₂" = outer radius (or the outer annular electrode)
+* The curved arcs between R₁ and R₂ represent current flow paths through the conducting disc — in a homopolar generator, current flows radially from center to edge (or edge to center) when the disc rotates in an axial magnetic field
+* "I_in" and "I_out" indicate current entering and exiting the device
+* "Voltage taps" are measurement electrodes placed at the inner-outer boundary to measure the EMF generated
+* The three curved arcs with arrows show the azimuthal component of current flow in addition to the radial component — suggesting helical or spiral current paths in a disc with both azimuthal and radial flow (common in liquid metal MHD devices)
+* This diagram is directly relevant to the Galinstan/homopolar motor concept shown in earlier images — it's the physics diagram underlying that device
+* The spiral current paths with radial + azimuthal components would produce both axial (vertical) and torque forces, relevant to the proposed levitation/propulsion effect
+
+SPATIAL RELATIONSHIPS:
+* Inner circle (R₁): center of image
+* Voltage tap symbols: to the right of inner circle
+* Curved current arcs: between inner and outer circle
+* Outer circle: boundary of device
+* I_in: lower-left of outer circle
+* I_out: bottom center
+
+HIGH-LEVEL SUMMARY:
+A physics schematic of a homopolar generator or liquid metal MHD disc device, showing cross-sectional geometry with inner radius R₁, outer radius R₂, spiral current flow paths between the two radii, current input (I_in) and output (I_out) terminals, and voltage measurement taps along the inner electrode. The spiral current arcs (rather than purely radial) indicate a helical current component in the conducting disc, producing both azimuthal torque and axial Lorentz forces. This is the theoretical physics underpinning the Galinstan spinning disc propulsion concepts in this research collection.

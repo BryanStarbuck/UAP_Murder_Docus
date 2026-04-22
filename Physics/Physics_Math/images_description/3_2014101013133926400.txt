@@ -1,0 +1,51 @@
+IMAGE DESCRIPTION: 3_2014101013133926400.jpg
+
+SHAPES:
+* White background composite with two main elements
+* Left panel: black-and-white line drawing (technical schematic) of a wheel-with-coils machine:
+  - A circular wheel or rotor with multiple coil windings visible on the rim, rendered in cross-hatching
+  - The wheel sits between two vertical permanent magnets labeled N (left) and S (right) with a large U-shaped or C-shaped yoke at the bottom
+  - This is a classic depiction of a magneto or generator with a rotating armature between pole pieces
+  - The shaft/axle projects horizontally from the center of the wheel
+* Right panel: color photograph of an actual Leedskalnin flywheel device (Coral Castle, Florida)
+  - A circular multi-armed mechanical structure with alternating metal elements arranged radially around a central hub
+  - White labels overlaid on the photograph: "NN" and "SS" labels alternating around the ring perimeter (approximately 16-20 positions visible)
+  - Degree markers overlaid: 0°, 15°, 30°, 270°, 285°, 300°, 315°, 330°, 345° — angular position markers around the ring
+  - The device appears to be a multi-pole flywheel generator with alternating north-north (NN) and south-south (SS) magnetic pole pairs
+  - Color: rusty iron/steel construction, orange-brown tones
+
+TEXT (transcribed exactly):
+Title at top (medium, bold, black, centered):
+""Suppose you had a wheel, and many coils around the wheel turning
+(or many coils around the turning wheel)
+I made ten different machines to make magnetic currents, but found this
+combination between field magnets and wire coils the most efficient.""
+
+Left diagram: N (large, black) at lower-left, S (large, black) at lower-right of the magnet yoke
+
+Right photograph overlaid labels (white text):
+Polarity labels: "NN" and "SS" alternating around the ring
+Degree labels: "0°", "15°", "30°", "270°", "285°", "300°", "315°", "330°", "345°"
+
+COLORS:
+* Background: white
+* Left diagram: black and white line art
+* Right photograph: orange-brown iron/steel tones with white text overlay labels
+
+PHYSICS / CONCEPTS:
+* This image presents Ed Leedskalnin's own description of his magnetic generator, combined with a photograph of his actual device preserved at Coral Castle. Key physics points:
+  1. Leedskalnin's quote describes a rotating armature with coils passing through a magnetic field — the standard Faraday induction generator principle
+  2. The left diagram shows a classic magneto configuration — a rotating armature winding between permanent magnet pole pieces (N and S), producing AC or DC depending on commutator configuration
+  3. The right photograph shows Leedskalnin's actual flywheel: a multi-pole device with pairs of magnets labeled NN and NN (like poles facing each other) or SS-SS, suggesting a specific non-standard magnetic configuration. The NN-NN and SS-SS labeling (same poles facing) is unusual — standard generators use N-S facing pairs. Leedskalnin's theory held that "individual North and South pole magnets" behave differently from conventional dipole magnets, and his machine was designed accordingly.
+  4. The degree markings (0° through 345° in 15° increments) confirm 24 equally spaced pole positions (360°/15° = 24), consistent with a 24-pole multi-phase generator. A 24-pole machine at 60 RPM produces 720 Hz output, or at lower speed, subharmonics of high-frequency AC.
+  5. Leedskalnin claimed his machine produced "magnetic currents" distinct from conventional electric current — a claim related to his unconventional theory of magnetism as composed of independent North and South pole particles.
+
+SPATIAL RELATIONSHIPS:
+* Title quote spans full width at top
+* Left schematic occupies left third of lower section
+* Right photograph occupies right two-thirds of lower section
+* N/S labels on left diagram at magnet positions
+* NN/SS polarity and degree labels overlaid on right photograph
+
+SUMMARY:
+Leedskalnin's magnetic generator: a quote from his writings about coil-and-wheel generators, combined with a line drawing of a standard magneto configuration and a color photograph of his actual flywheel device at Coral Castle. The flywheel shows 24 pole positions (at 15° intervals) with alternating NN/SS labels — an unusual same-pole-facing configuration distinct from standard generators. This image documents Leedskalnin's practical generator design, which is the machine claimed to be depicted in the 2011 Honey Street crop circle (shown in 3_2013829749613731840.jpg).

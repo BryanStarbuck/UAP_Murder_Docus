@@ -1,0 +1,54 @@
+IMAGE DESCRIPTION: 3_1997766343798759424.jpg
+
+SHAPES AND ELEMENTS:
+* Composite image with two main sections:
+* LEFT HALF — Aerial photograph of crop circle:
+  * Circular crop formation approximately 400px diameter in the image
+  * Concentric spiral rings of dots/circles arranged in a tightly coiled Archimedean spiral pattern — the dots decrease in size from outside to inside
+  * The spiral consists of what appears to be binary information (dark dots = 1, absent positions = 0, or similar encoding)
+  * Some red-colored dots/markers visible within the spiral (highlighted or annotated elements)
+  * Small inset at lower-left: a smaller second image of the same formation at a slightly different angle/time, showing a human figure inside for scale
+  * At center: a small white circle with detail
+  * The formation is in a field of brown/amber dry stubble
+
+* RIGHT HALF — Large block of ASCII text:
+  * White background
+  * Dense block of binary code: rows and rows of "0"s and "1"s in small monospace font ("S" shaped zeros may indicate a specific font)
+  * Approximately 70 rows of binary digits, each row ~30-40 characters wide
+
+* LOWER-LEFT INSET (within the left half) — small decode table:
+  * 6 rows of binary-to-decimal-to-ASCII conversions:
+  * "01000010 = 66 = B"
+  * "01100101 = 101 = e"
+  * "01110111 = 119 = w"
+  * "01100001 = 97 = a"
+  * "01110010 = 114 = r"
+  * "01100101 = 101 = e"
+
+TEXT:
+* Top-left caption (white text on photo, bold): "Did some guys with rope and boards make this late at night while no one was looking?"
+* Decode table (small, black): binary → decimal → letter conversions spelling "B-e-w-a-r-e"
+* Right half: large block of binary (0s and 1s)
+
+COLORS:
+* Left: warm brown/amber crop field, red annotation dots, white formation elements
+* Right: white background, black text (binary digits)
+* Lower-left inset: white background, black text decode table
+
+PHYSICS CONCEPTS:
+* This is the Crabwood 2002 crop circle binary message decoding image
+* The spiral formation at Crabwood Farm (Hampshire, UK, August 2002) encoded a binary message in ASCII in a clockwise spiral
+* The binary pattern in the formation decodes (when read in the correct spiral direction) to: "Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. [bell sound] COnduit CLOSING"
+* The decode table at lower-left shows the first 6 bytes: "Beware" — confirming the ASCII decode
+* The rhetorical question ("Did some guys with rope and boards make this late at night while no one was looking?") challenges the human-manufacture hypothesis for this formation
+* The right half shows the full binary content of the formation, allowing independent verification of the decode
+* This is one of the most documented crop circle binary messages in the research field
+
+SPATIAL RELATIONSHIPS:
+* Left: aerial photo of Crabwood formation with binary spiral
+* Right: full binary text dump of the message
+* Lower-left: decode table showing "Beware" translation
+* Caption: upper-left on photo
+
+HIGH-LEVEL SUMMARY:
+The Crabwood Farm 2002 crop circle binary message decoding image. The circular formation encodes a binary spiral that decodes (in ASCII) to "Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. [bell] COnduit CLOSING." The lower-left decode table confirms the first word is "Beware" via binary-to-ASCII conversion (01000010=66=B, etc.). The right half shows the complete binary content for independent verification. The rhetorical caption challenges human manufacture of this precisely encoded formation. This is a cornerstone piece of crop circle evidence cited in UAP research as possible non-human communication.

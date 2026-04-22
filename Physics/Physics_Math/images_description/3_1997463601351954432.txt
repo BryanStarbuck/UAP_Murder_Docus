@@ -1,0 +1,41 @@
+IMAGE DESCRIPTION: 3_1997463601351954432.jpg
+
+SHAPES AND ELEMENTS:
+* Black background on both panels
+* LEFT PANEL (~55% of image):
+  * Large roughly circular blob of green-yellow glow: approximately 400px diameter, centered at approximately (300, 300) in the full image; this is a false-color thermal or energy density map of a comet's inner coma
+  * Color map: center-most region is red/pink (highest intensity), surrounded by orange, then yellow-green transitioning outward to uniform medium green at the edges; the bright core is very small (~15px, bright red-pink at center with a tiny purple/magenta dot at the very center)
+  * The glow fades smoothly from the red core outward through orange and yellow to the green coma edge
+  * The shape is approximately circular but very slightly asymmetric, with the maximum elongated slightly upward-right
+
+* RIGHT PANEL (~45% of image):
+  * Black background
+  * A bright white point source at upper-center (~750, 150) — this is the comet nucleus
+  * Three bright green wedge/sector-shaped regions: two large green fans extending downward from the nucleus at angles — one extending lower-left and one extending lower-right, creating a "V" or "butterfly wings" pattern; each fan is approximately 200-250px in length; these are dust fans or plasma jets from the comet nucleus
+  * One larger blue elliptical blob at lower-center (~800, 420): approximately 100x130px, blue-cyan color — this may be a secondary coma component or Hubble component of the coma structure
+  * Two diagonal green lines extending from nucleus downward and to sides (the fans/jets)
+  * Dark regions between and around the green fans
+
+TEXT: No text visible.
+
+COLORS:
+* Left panel: false-color heat map using red (hottest/brightest) → orange → yellow → green (coolest/dimmest) color scale; black background
+* Right panel: black background, white nucleus, green jet/fan structures, blue secondary blob
+
+PHYSICS CONCEPTS:
+* LEFT PANEL: This is a false-color (pseudocolor) enhanced astronomical image of a comet's inner coma, showing brightness distribution as a thermal-like color map (red = highest surface brightness, green = lowest within the mapped region)
+  * The technique used is called "adaptive Laplace" or "digital enhancement" to reveal inner coma structure
+  * The small pink core may represent a rotating nucleus or jet sources
+* RIGHT PANEL: This shows resolved coma structure with three distinct elements:
+  * Two symmetric green dust/gas fans (jets) diverging from the nucleus — characteristic of a rotating bimodal active nucleus
+  * One blue secondary component (possibly CO or CN emission at a different wavelength than C2)
+  * The fan geometry indicates two dominant active regions on the nucleus rotating to produce symmetric fan patterns
+* The combination of fan geometry and wavelength-separated imaging is a standard technique for mapping cometary nucleus rotation and outgassing patterns
+* Relevant to UAP research: the highly structured, directional emission from cometary nuclei creates organized field patterns that can resemble manufactured systems
+
+SPATIAL RELATIONSHIPS:
+* Left panel: full spherical coma shown in false color, centered
+* Right panel: nucleus at top-center, two green fans extending downward in V-shape, blue blob lower-center
+
+HIGH-LEVEL SUMMARY:
+A two-panel scientific image of a comet's inner coma structure. Left panel: a false-color (red=bright, green=dim) enhancement showing the brightness gradient of the inner coma, with a tiny bright red-pink nucleus at center. Right panel: a processed image revealing the geometric structure of cometary jets — two symmetric green gas/dust fan-shaped outflows diverging from the white nucleus in a V-pattern, with a separate blue secondary emission component. Standard cometary science analysis used to map nucleus activity, rotation, and outgassing directionality.

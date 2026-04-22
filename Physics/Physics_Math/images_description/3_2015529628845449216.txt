@@ -1,0 +1,52 @@
+IMAGE DESCRIPTION: 3_2015529628845449216.jpg
+
+SHAPES:
+* White background
+* Layered concentric geometric diagram with multiple distinct elements:
+
+Outermost elements: Six solid black circles (approximately 25px diameter each) positioned at the six vertices of a regular hexagon (at 60-degree intervals around the main perimeter)
+
+Between the outer vertex circles: six straight black lines connecting each pair of adjacent circles, forming a regular hexagon (thick black line hexagon)
+
+Inside the hexagon, close to its inner edge: a single thin black circle (circumscribed circle of the hexagon) — this is the outer ring boundary
+
+Inside the outer circle: the main content:
+* A gray annular ring (ring band, medium gray fill, approximately 25% of the inner circle's radius in width) — this is the toroidal/Galinstan element or stator ring
+* Inside the gray ring: a white annular gap
+* Inside the white gap: a second slightly smaller gray ring (inner stator or rotor shell)
+* Inside the inner gray ring: the inner circle region (white background) containing the detailed circuit motif:
+  - An equilateral triangle (black outline, pointing upward, apex at top)
+  - Three oval/ellipse shapes with diagonal slashes (inductor symbols) at each vertex of the triangle — same as the circuit motif in 3_2014995606004207616.jpg
+  - A circle with horizontal dividing line (motor/generator symbol) at the base/center of the triangle
+  - These form the Δ three-phase circuit within the inner disc
+
+TEXT:
+* No text visible
+
+COLORS:
+* Background: white
+* Hexagon lines and vertex circles: solid black
+* Outer ring boundary: thin black circle
+* Gray annular rings (two): medium gray
+* Inner circuit: black line art on white
+
+PHYSICS / CONCEPTS:
+* This is a composite schematic combining two frameworks into one diagram:
+  1. Outer hexagonal cage with 6 vertex circles: represents the hexagonal outer structure of the device — possibly a six-pole permanent magnet arrangement (one magnet at each vertex), consistent with a six-pole motor. The regular hexagon with vertex magnets creates 60-degree pole spacing for a six-phase or three-phase (with 2-pole pairs per phase) configuration.
+  2. Intermediate gray annular rings: represent the stator or Galinstan toroidal ring
+  3. Inner Δ-circuit with inductors and motor symbol: the three-phase delta winding topology shown in 3_2014995606004207616.jpg
+* The overall diagram places the Δ three-phase circuit inside nested toroidal rings inside a hexagonal six-pole magnet cage — providing the most complete cross-section schematic of the proposed UAP disc propulsion device yet seen in this collection.
+* Hexagonal geometry is optimal for six-pole motor configurations; the six vertex positions encode 6 magnet locations, and the delta-connected inner winding drives three-phase current through the stator.
+
+SPATIAL RELATIONSHIPS:
+* Six black circles at hexagon vertices, outermost
+* Hexagon lines connecting vertex circles
+* Thin outer circle inscribed in the hexagon
+* Gray outer annular ring just inside the outer circle
+* White gap
+* Gray inner annular ring
+* White inner disc with Δ-circuit (triangle + inductors + motor symbol)
+* All elements concentric
+
+SUMMARY:
+A composite cross-section schematic placing a Δ three-phase winding circuit (triangle with three inductor symbols and central motor symbol) inside nested gray toroidal rings (stator/Galinstan layers), inside a hexagonal outer cage with six vertex circles (six-pole permanent magnet positions). This is the most complete single-diagram representation of the proposed UAP disc propulsion system in this collection: six outer pole magnets, intermediate stator/Galinstan ring, and inner three-phase delta winding circuit.

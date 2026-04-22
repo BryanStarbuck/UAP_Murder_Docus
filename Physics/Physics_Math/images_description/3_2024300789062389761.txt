@@ -1,0 +1,39 @@
+SHAPES:
+* Aerial photograph of a crop circle formation in a green/yellow grain field
+* Central oval/ellipse: large, approximately 400px wide x 300px tall
+* Inner concentric ring: parallel to the outer oval boundary, approximately 30px inside the outer edge
+* Multiple rectangular pixel-like decorative elements arranged around the perimeter of the formation:
+  * Each rectangular element: approximately 20-40px wide x 15-25px tall
+  * Elements arranged in a scattered/geometric border pattern around the central oval
+  * Approximately 30-50 such rectangular elements visible
+* Small central feature at the oval center: approximately 20px diameter
+* Overall formation diameter: approximately 500px in the image
+
+TEXT VISIBLE:
+* Copyright watermark (small, lower corner): "© Steve Alexander" or similar photographer credit
+* Possibly a date or location caption — text small and partially legible
+
+COLORS:
+* Crop: yellow-green (mature grain), laid crop appears darker/golden brown
+* Standing crop boundaries: bright green-yellow
+* Sky: not visible (image is top-down aerial only)
+* Formation contrast: high — standing vs. flattened crop creates strong visual boundary
+
+PHYSICS CONCEPTS:
+* This aerial crop formation displays a complex geometric layout combining:
+  * An elliptical/oval primary shape (non-circular, demonstrating precision in the ellipse geometry — an ellipse requires specification of two foci, unlike a simple circle)
+  * A concentric inner ring tracing the ellipse at uniform offset (requiring precise parallel-curve geometry)
+  * Distributed rectangular pixel elements arranged around the perimeter in a structured pattern
+* The rectangular pixel elements may encode binary information when read as a bit-matrix (dark = 1, light = 0 or vice versa), similar to the encoding approach seen in the Crabwood 2002 formation disc and the Chilbolton 2001 formation
+* The elliptical symmetry (vs. circular) is notable in crop circle geometry — most formations use circular or radially symmetric elements; true ellipses require more sophisticated geometric planning
+* The perimeter pixel/rectangular border is reminiscent of a QR-code or binary frame structure, suggesting this formation may be intended as an encoded message with the rectangular elements as the data payload
+* The overall design is consistent with a proposed "communication glyph" format: a central symbol surrounded by an encoded border
+
+SPATIAL RELATIONSHIPS:
+* Central oval occupies the main body of the formation
+* Inner concentric oval traces the outer boundary at uniform offset
+* Rectangular elements are distributed around the outer ring in a roughly uniform angular spacing
+* Central feature marks the geometric center of the formation
+
+HIGH-LEVEL SUMMARY:
+Aerial photograph (copyright Steve Alexander) of a complex crop formation featuring a large elliptical shape with a concentric inner ring and an array of distributed rectangular pixel-like elements arranged around the perimeter. The elliptical geometry (requiring two-focus specification unlike a simple circle) and the structured border of rectangular elements suggest a formation designed with dual intent: a primary geometric symbol (the ellipse) surrounded by a data-encoding border potentially carrying binary information. This is consistent with other "message" formations (Crabwood 2002, Chilbolton 2001) that use pixel grids to encode ASCII or binary data. The precision of the ellipse and the uniform angular distribution of border elements indicate non-trivial geometric planning in the formation's creation.

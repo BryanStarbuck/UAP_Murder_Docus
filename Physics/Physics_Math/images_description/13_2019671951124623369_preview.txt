@@ -1,0 +1,31 @@
+IMAGE: 13_2019671951124623369_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Close-up, angled view of SEG roller assembly — showing the 6-roller flat disc magnet configuration from 13_2019229679966908419 but from a lower, more oblique viewing angle that shows the disc thickness and roller height.
+* Five of the six rollers are visible; the sixth is partially cut off at frame top.
+* Each roller: round flat disc shape wrapped in red/black layered material (red tape over black substrate), approximately 10 cm diameter × 3-4 cm tall. Yellow adhesive labels with handwritten text on each roller top.
+* Labels visible text: "U" (or "u") and "W" (or "w") appear on several rollers — lowercase or uppercase letters, handwritten in black marker on yellow label tape. These likely encode phase/winding designations for 3-phase electrical measurements (U, V, W are standard 3-phase motor winding labels in European/IEC notation).
+* Central spindle: chrome steel rod with white/ceramic fitting at base visible at upper center.
+* Platform: white foam/board, circular.
+* Thin wires: white and red/black wires exit from each roller base.
+* Black pillarbox bars on left and right.
+
+TEXT VISIBLE:
+* Yellow labels: "U" and "W" visible (handwritten, black marker). Possibly "V" on other rollers not fully readable. These are standard IEC 3-phase winding phase designations.
+
+COLORS:
+* Roller wrapping: red outer, black substrate
+* Labels: yellow with black text
+* Platform: white
+* Wires: white, red
+
+PHYSICS CONCEPTS:
+* The U/V/W phase labeling confirms this SEG roller ring is being configured as a 3-phase electromagnetic generator or motor. In IEC standard notation, U, V, W denote the three phases of a 3-phase AC system. The experimenter is assigning phase roles to individual roller groups, consistent with Searl's own documentation describing the SEG as operating on "3-phase magnetism" (as seen in the reference diagram in 13_2015686602870378496). Each phase group of rollers would be expected to generate an EMF shifted by 120° from adjacent groups, producing balanced 3-phase AC output if the design works as claimed.
+
+SPATIAL RELATIONSHIPS:
+* Six rollers visible (5 fully, 1 partial) arranged around circular platform.
+* Central spindle at upper center of frame.
+* Platform on white surface, lower half of frame.
+
+HIGH-LEVEL SUMMARY:
+Oblique close-up view of the 6-roller SEG flat disc assembly showing yellow adhesive labels with IEC 3-phase winding designations (U, V, W) on each roller. This confirms the experimenter is configuring the roller ring as a 3-phase electromagnetic generator consistent with Searl's "3-phase magnetism" design principle. Each phase group of rollers would ideally generate 120°-shifted EMF components to produce balanced 3-phase AC output.

@@ -1,0 +1,270 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets, END_DIR batch 9/10
+
+NOTE: Dr. Drew's tweets contain minimal explicit symbolic mathematics. The equations below
+are extracted from or directly implied by the physics claims in the text, with variables
+defined from context. Explicit equations quoted verbatim from source text are marked [QUOTED].
+Equations reconstructed from described physics are marked [DERIVED FROM CLAIM].
+
+============================================================================================
+1. GYROSCOPIC PRECESSION EQUATION
+============================================================================================
+
+[DERIVED FROM CLAIM — source 1946057554548912446, note_tweet]
+
+Precession angular velocity:
+    Ω_prec = τ_grav / |L_spin|
+            = (M · g · r_cm) / (I_spin · ω_spin)
+
+Variables:
+    Ω_prec  = precession angular velocity [rad/s]
+    τ_grav  = gravitational torque about pivot [N·m]
+    M       = mass of spinning body [kg]
+    g       = gravitational acceleration = 9.81 m/s² (Earth surface)
+    r_cm    = horizontal distance from pivot point to center of mass [m]
+    I_spin  = moment of inertia about spin axis [kg·m²]
+    ω_spin  = spin angular velocity [rad/s]
+    L_spin  = I_spin · ω_spin = spin angular momentum [kg·m²/s]
+
+Relationship encoded in sources:
+    As ω_spin → ∞:  Ω_prec → 0, spin axis → vertical (anti-gravity transition)
+    As ω_spin is low: Ω_prec is large, axis is tilted, less upward force
+
+Drew's claim: the upward "anti-gravity" force occurs during the TRANSITION from low ω_spin
+to high ω_spin, as the precession axis tilts from horizontal toward vertical. The rate of
+change of L (vector) generates the net upward force:
+    F_up ∝ dL/dt (change of angular momentum vector direction)
+            = τ_reaction (reaction torque on support → upward force)
+
+For a disc (radius R, mass M):
+    I_disc = (1/2) · M · R²
+
+============================================================================================
+2. ROTATING MAGNETIC FIELD — 3-PHASE DECOMPOSITION
+============================================================================================
+
+[DERIVED FROM CLAIM — sources 1924249645645267435, 1928409956849692903, video transcriptions]
+
+Three-phase currents at angular frequency ω_drive:
+    I_A(t) = I_0 · cos(ω_drive · t)
+    I_B(t) = I_0 · cos(ω_drive · t − 2π/3)
+    I_C(t) = I_0 · cos(ω_drive · t − 4π/3)
+
+Coil geometry: 3 coils at positions θ = 0, 2π/3, 4π/3 in the XY-plane
+
+Resulting rotating field vector (superposition):
+    B_x(t) = B_0 · [cos(0)·cos(ω_drive·t) + cos(2π/3)·cos(ω_drive·t − 2π/3)
+                     + cos(4π/3)·cos(ω_drive·t − 4π/3)]
+    B_y(t) = B_0 · [sin(0)·cos(ω_drive·t) + sin(2π/3)·cos(ω_drive·t − 2π/3)
+                     + sin(4π/3)·cos(ω_drive·t − 4π/3)]
+
+Using phasor superposition identities:
+    B_x(t) = (3/2)·B_0 · cos(ω_drive · t)
+    B_y(t) = (3/2)·B_0 · sin(ω_drive · t)
+
+→ B_rot(t) = (3/2)·B_0 · [cos(ω_drive·t)·x̂ + sin(ω_drive·t)·ŷ]
+
+This is a constant-magnitude rotating vector: |B_rot| = (3/2)·B_0 = const, rotating at
+ω_drive. This is the electromagnetic mechanism Drew claims drives the disc-magnet.
+
+Observed drive frequency in experiment: ~10 Hz (ω_drive = 2π·10 ≈ 62.8 rad/s)
+Source (13_1976075963135037440_video.mdx): "as we get to moderate power like about 10 hertz,
+it rises up to the top."
+
+For a 6-coil system (2 coils per phase, as in 1928409956849692903):
+    The effective pole count doubles → spatial harmonic is P=2 pairs
+    B_rot magnitude increases by factor of 2 relative to 3-coil equivalent
+    ω_mech = ω_drive / P (synchronous mechanical speed)
+
+============================================================================================
+3. ELECTROMAGNETIC TORQUE ON DISC-MAGNET
+============================================================================================
+
+[DERIVED FROM CLAIM]
+
+Torque on a magnetic dipole μ in external field B:
+    τ = μ × B
+
+Magnitude:
+    |τ| = |μ| · |B| · sin(δ)
+where:
+    μ  = magnetic dipole moment of disc-magnet [A·m²]
+    B  = applied rotating field magnitude [T]
+    δ  = angle between μ and B (slip angle)
+
+At steady-state spin-up, δ > 0 (magnet lags the field), net positive torque accelerates
+the magnet. At synchronous speed, δ → 0, net torque → 0.
+
+Relation to angular momentum:
+    dL/dt = τ_em − τ_load
+At steady levitation (ω_spin = const):
+    τ_em = τ_load  (electromagnetic torque balances frictional and gravitational load torques)
+
+============================================================================================
+4. LORENTZ FORCE IN LIQUID METAL — CYLINDRICAL GEOMETRY
+============================================================================================
+
+[DERIVED FROM CLAIM — sources 1976079428825514470, 2001577665980174511, video transcription
+ 13_2001574820505620480_video.mdx]
+
+Lorentz body force density:
+    f = J × B  [N/m³]
+
+In cylindrical coordinates (r, φ, z):
+    J = J_r · r̂  (radial DC current from central electrode to outer wall)
+    B = B_z · ẑ  (axial static field from permanent magnet below)
+
+Cross product:
+    f = J_r · B_z · (r̂ × ẑ) = −J_r · B_z · φ̂
+
+Direction: azimuthal (φ̂), negative (clockwise for J_r > 0, B_z > 0 pointing up).
+This drives azimuthal circulation of the liquid metal galinstan.
+
+Azimuthal angular momentum of liquid metal:
+    L_z = ∫∫∫_V ρ_fluid · r · v_φ(r,z) dV
+
+Where:
+    ρ_fluid = density of galinstan ≈ 6440 kg/m³ (Ga-In-Sn eutectic at room temperature)
+    v_φ     = azimuthal velocity field [m/s]
+    V       = volume of liquid metal in bowl
+
+Drew's claim: this L_z is generated WITHOUT a corresponding −L_z reaction on the driving
+circuit, because the reaction to J × B in the XY-plane (on the current-carrying structure
+and the axial magnet face) does not have a Z-component.
+
+============================================================================================
+5. CONSERVATION OF ANGULAR MOMENTUM — CONSTRAINT EQUATION
+============================================================================================
+
+[QUOTED from video transcription 13_1976075981111828480_video.mdx]
+"To compensate for this and keep total angular momentum conserved, the boat must start
+spinning in the opposite direction."
+
+Mathematical form:
+    L_total = L_spinning_element + L_platform = constant
+
+If initially L_total = 0:
+    L_platform = −L_spinning_element  at all times
+
+For the UFO levitation problem (from note_tweet 1976079428825514470):
+    L_total = L_disc_magnet + L_coil_assembly = 0  (initially)
+    → L_coil = −L_disc_magnet
+
+Scale measurement:
+    The normal force N on the scale = M_total · g  (unchanged, since center of mass does
+    not accelerate in the lab frame if no external force is applied)
+    → ΔN = 0  [confirmed experimentally: "No change of weight on the scale"]
+
+For net lift, must break this constraint. Drew's proposed mechanism introduces L_liquid_metal
+such that:
+    L_total = L_disc + L_coil + L_liquid = 0 (if Lorentz mechanism conserves total system)
+OR, if Drew's orthogonality argument holds:
+    L_disc(Z) is partially offset by L_liquid(Z) while the reaction to L_liquid in XY does
+    not contribute to L_disc(Z) — net result: reduced counter-spin on coils, net upward force.
+
+============================================================================================
+6. WEIGHT CHANGE DIAGNOSTIC — NULL RESULT
+============================================================================================
+
+[DERIVED FROM EXPERIMENTAL RESULT — sources 1976079428825514470 and video transcription
+13_1976075963135037440_video.mdx]
+
+For a closed system on a scale:
+    Scale reading W = M_total · g + ΣF_external_vertical
+    (F_external_vertical includes only forces with external reaction, e.g., magnetic force
+    from an external field, gravitational coupling to Earth)
+
+If all forces are internal (Newton's 3rd law pairs within the system):
+    ΔW = 0
+
+Experimental result: ΔW = 0 when disc-magnet rises in 3-phase coil. This means all forces
+are internal — the magnet pushes on the coil and the coil pushes on the magnet equally and
+oppositely. No net external force is generated.
+
+Drew's target: achieve ΔW > 0 (or negative, for net lift) by making the "push" act against
+something external (vacuum of space, spacetime metric) rather than against the onboard coils.
+
+============================================================================================
+7. SUPERNOVA RING — ASTROPHYSICAL GEOMETRY (HACKPEN HILL / SN 1987A)
+============================================================================================
+
+[From TXT file 3_1979664916458946560.txt and 1979665309150892471.yaml]
+
+Hackpen Hill crop circle: August 13, 2013.
+Nova Delphini: appeared August 14, 2013 (next day after crop circle).
+Second stellar nova: 92 days after Nova Delphini (claimed).
+
+The crop circle showed ~28-30 circular shapes arranged in a ring — geometrically consistent
+with the Hubble Space Telescope image of Supernova 1987A's circumstellar ring.
+
+SN 1987A ring geometry:
+- ~30 bright hotspots (ionized knots) in an approximately circular ring
+- Ring radius: ~0.65 ly at 168,000 ly distance (LMC)
+- Angular size: ~1.7 arcsec (as imaged by HST in 2006)
+
+Drew's interpretation: the numerical coincidence (28-30 "beads" in both structures, one
+day before the nova) is claimed as predictive evidence that crop-circle makers have
+astrophysical knowledge beyond human observational capability.
+
+Relation of dot count to time (1979665309150892471):
+"Phase 2 > there was another stellar nova 92 days later! (count the dots)"
+Drew claims the number of dots/sections in the crop circle encoded a 92-day countdown to
+a second nova event. This is a numerical correspondence claim, not a derived equation.
+
+============================================================================================
+8. PENTERACT (5-CUBE) DIMENSIONAL STRUCTURE
+============================================================================================
+
+[Source: 2025000435799728236, referenced_tweet]
+
+Penteract = 5-dimensional hypercube γ_5
+
+Combinatorial structure:
+    Vertices: C(5,0)·2^5 = 32
+    Edges:    C(5,1)·2^4 = 80
+    Faces:    C(5,2)·2^3 = 80  (2D faces)
+    Cells:    C(5,3)·2^2 = 40  (3D cells = cubes)
+    4-facets: C(5,4)·2^1 = 10  (4D facets = tesseracts)
+
+General formula for k-faces of n-cube:
+    f_k(n) = C(n,k) · 2^(n−k)
+
+Drew associates a crop circle formation (August 15, 2011) with this structure, claiming it
+depicts a 5-dimensional object and is evidence for inter-dimensional origin of crop-circle
+makers.
+
+============================================================================================
+9. 3I/ATLAS ORBITAL MECHANICS (BRIEF)
+============================================================================================
+
+[Source: 1992420887891681540, note_tweet and text]
+
+Drew describes the interstellar object 3I/ATLAS as changing its orbital trajectory:
+"Now it will cross in FRONT of Jupiter. Before it would cross BEHIND Jupiter. We saw it
+fire some jets or thrusters to change its orbit."
+
+Reference cited: Avi Loeb, "A Remarkable New Anomaly of 3I/ATLAS"
+    https://avi-loeb.medium.com/a-remarkable-new-anomaly-of-3i-atlas-420065c2cddf
+
+The claimed orbital change implies a non-gravitational acceleration (non-gravitational
+force parameter A_1, A_2 in JPL/MPC notation), analogous to the Yarkovsky effect or
+active outgassing. Drew attributes this to deliberate thruster activity.
+
+Ion thruster identification (2005919502165242353): Drew responds "Ion thrusters" to a
+question about what type of propulsion could sustain prolonged orbital maneuvers of 3I/ATLAS.
+
+============================================================================================
+10. FRACTAL ANTENNA — MATHEMATICAL BASIS (BRIEF MENTION)
+============================================================================================
+
+[Source: 2018567822591619112, text: "FRACTAL ANTENNAS!"]
+
+Fractal antennas exploit self-similarity. For a Koch snowflake fractal antenna of iteration N:
+    Physical length L_N = L_0 · (4/3)^N  (grows with N iterations)
+    Electrical length ratio (compression factor): λ/L_N > 1 at resonance
+
+The key property: self-similar geometry produces resonant behavior at multiple frequency
+scales f, 4f/3, (4/3)²f, ..., enabling broadband impedance matching without additional
+matching network. Drew claims crop circles encode fractal antenna designs — no specific
+iteration, dimension, or frequency range is given in these sources.

@@ -1,0 +1,31 @@
+IMAGE DESCRIPTION: 3_2015735953072259072.jpg
+
+SHAPES AND TEXT:
+* Another variant of the composite disc schematic from 3_2015529628845449216.jpg / 3_2015529660952838144.jpg.
+* White background
+* Outer boundary: two concentric circles with a scalloped/diamond-tooth ring pattern between them (same as 3_2013536628040409088.jpg outer ring), but here the individual diamond elements are rendered in black
+* Inside the outer ring: white annular gap
+* Gray annular ring (stator/Galinstan layer), similar to other versions
+* Inner white disc containing the three-phase circuit:
+  - Equilateral triangle (pointing upward, apex at top), black outline
+  - Three oval/ellipse shapes with diagonal slashes at each vertex (inductor symbols) — here rendered in gray rather than pure black
+  - Central element: three overlapping circles (or a triquetra/trefoil circle arrangement) — appears slightly different from the standard divided-circle motor symbol, showing three overlapping circles in a trefoil arrangement at the center of the triangle
+
+TEXT: No text visible.
+
+COLORS:
+* Background: white
+* Outer ring and triangle: black
+* Annular gray ring: medium gray
+* Inductor ovals: gray
+* Inner central triquetra: black and gray
+
+PHYSICS / CONCEPTS:
+* This variant replaces the single motor/generator circle symbol at the center of the triangle with three overlapping circles (trefoil/Borromean ring arrangement). This may encode:
+  - Three independent resonant inductors sharing a common flux path (mutual inductive coupling between three coils at 120-degree offsets)
+  - The intersection regions of three phase currents (three-phase current phasor diagram)
+  - A ferromagnetic core shared by three phase windings (as in a three-limb transformer core)
+* The gray rendering of the inductor symbols (rather than solid black) may indicate a "softer" or more distributed magnetic element, as opposed to the crisp black winding symbols elsewhere.
+
+SUMMARY:
+A variant of the three-phase delta circuit composite schematic, with the inner central element replaced by three overlapping circles (trefoil/Borromean arrangement) instead of the divided-circle motor symbol. The outer scalloped ring, gray stator/Galinstan annular ring, and delta triangle with inductor symbols remain consistent with other versions. The trefoil center may encode mutual inductive coupling between three phase windings sharing a common ferromagnetic core.

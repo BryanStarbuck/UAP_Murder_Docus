@@ -1,0 +1,75 @@
+IMAGE DESCRIPTION: 3_1998510255739908096.jpg
+
+SHAPES AND ELEMENTS:
+* False-color scientific image of a cometary coma, displayed on a black background
+* This is a processed/false-color astrophysical dataset, not a natural-color photograph
+* The image is square or near-square, approximately 800x800px
+
+FALSE-COLOR SCALE:
+* The color mapping represents brightness/surface brightness:
+  * Dark purple/maroon: lowest surface brightness (outer, tenuous coma)
+  * Blue: low-to-moderate surface brightness
+  * Cyan/teal: moderate surface brightness
+  * Green: moderately high surface brightness
+  * Yellow-green to yellow: high surface brightness regions
+  * The overall colormap appears to be a standard astronomical "heat" or "rainbow" colormap applied to flux density
+* Note: this is NOT a fire colormap — it uses purple→blue→cyan→green as the low end
+
+COMA STRUCTURE:
+* The cometary coma fills most of the image frame
+* The outer boundary of the coma is irregular and clumpy (not a smooth ellipse)
+  * Outer edges are mottled purple with blue patches
+  * Distinct clumps or "blobs" of brighter material visible at the periphery
+* The overall coma shape is roughly square or trapezoidal (upper-right broader, lower-left narrower)
+
+CENTRAL REGION:
+* A bright central condensation (inner coma / nucleus region) is visible at approximately center to slightly below-center
+* The central region appears as: a bright green-yellow-cyan concentration approximately 50-80px across
+* A white "×" (cross) marks the exact position of the nucleus/photometric center
+* A white dashed circle surrounds the nucleus region: labeled "r = 5 arcmin ~ 400,000 km"
+  * This circle marks the inner 5 arcminute radius = approximately 400,000 km physical scale
+  * This is roughly the distance from Earth to the Moon (~384,400 km) — a scale reference
+
+SCALE INDICATOR:
+* A white double-headed horizontal arrow at the bottom of the image:
+  * Label: "38.5 arcmin ~ 3,000,000 km"
+  * This is the full width of the image = 38.5 arcminutes ≈ 3,000,000 km
+  * At 3 million km diameter, this is approximately 2.15 solar diameters of spatial extent
+
+DIRECTIONAL ANNOTATIONS:
+* Yellow arrow pointing upper-right: labeled "comet motion" — the direction of the comet's orbital motion
+* Red arrow pointing left: labeled "Sun direction" — the direction toward the Sun from the comet
+  * This establishes that the sunward side is to the left
+
+TEXT:
+* "r = 5 arcmin ~ 400,000 km" — inner coma radius annotation (white text)
+* "comet motion" — yellow label with yellow arrow pointing upper-right
+* "Sun direction" — red label with red arrow pointing left
+* "38.5 arcmin ~ 3,000,000 km" — scale bar label in white
+
+COLORS:
+* Background: black
+* Coma outer: dark purple-maroon
+* Coma mid: blue
+* Coma inner: cyan to green
+* Central condensation: bright green-yellow-cyan
+* Annotations: white (×, dashed circle, scale bar), yellow (comet motion arrow), red (Sun direction arrow)
+
+PHYSICS CONCEPTS:
+* This is a false-color surface brightness map of a cometary coma — likely derived from narrowband imaging in a C2 or CN molecular emission band
+* The total coma diameter of ~3,000,000 km (38.5 arcmin) at this distance indicates an exceptionally large, active comet
+* The inner coma radius of ~400,000 km (5 arcmin) at the same distance shows the extended gaseous envelope
+* The irregular outer boundary with clumps indicates: outgassing jets from specific active regions on the nucleus, rotational modulation of gas production, and/or inhomogeneous solar illumination of the nucleus surface
+* The mottled structure (individual clumps visible rather than smooth gradient) is characteristic of high-resolution coma imaging with spatial resolution sufficient to resolve ≥0.1% of the total coma diameter
+* The asymmetry between the sunward (left) and anti-sunward (right) coma extents would quantify the solar radiation pressure and solar wind momentum transfer to the coma gases
+
+SPATIAL RELATIONSHIPS:
+* White "×" nucleus: approximately center, slightly right-of-center
+* 5 arcmin circle: around nucleus
+* Coma: fills entire image
+* Sun direction: left
+* Comet motion: upper-right
+* Scale bar: bottom of image
+
+HIGH-LEVEL SUMMARY:
+A false-color surface brightness map of a cometary coma with a total spatial extent of 38.5 arcminutes ≈ 3,000,000 km. The colormap encodes surface brightness from purple (lowest) through blue → cyan → green → yellow (highest). A white × marks the photometric nucleus center, surrounded by a dashed circle marking r = 5 arcmin ≈ 400,000 km. Directional annotations indicate comet motion (upper-right, yellow arrow) and Sun direction (left, red arrow). The outer coma shows irregular, clumpy structure indicating multiple active outgassing regions. The enormous physical scale (3 million km diameter) identifies this as a highly active, large comet imaged at moderate heliocentric distance.

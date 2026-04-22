@@ -1,0 +1,39 @@
+IMAGE: 16_1958469374895165440_preview.jpg
+
+SHAPES AND OBJECTS:
+* Astronomical grayscale image: a black-and-white CCD or CMOS astronomical photograph showing a star field. The background is dark gray/black (grainy, consistent with telescope CCD imaging noise). Multiple star dots of varying brightness are visible across the entire frame.
+* Very bright star/object: at the lower-left area of the image (approximately pixel (90, 220) of a ~500x350px image), there is an overexposed bright white circular object, approximately 35px diameter with diffraction spikes/bloom. This is the brightest object in the field.
+* Medium bright stars: approximately 5-10 stars of medium brightness (~8-15px diameter), scattered across the frame.
+* Faint stars: approximately 30-50 smaller star dots (2-5px) distributed throughout.
+* Thin horizontal bright line: a faint horizontal line runs across approximately mid-image (around y=170) — consistent with a cosmic ray track or satellite trail.
+* Crosshair/coordinate indicator: at the lower-left corner, a small crosshair or scale indicator is visible in teal/green (approximately 15px), possibly a WCS coordinate indicator or a telescope pointing marker. Similar markers may be at other corners.
+
+TEXT (transcribed exactly as visible):
+* Upper left corner: "FOREZ.2025-07-04T08_49_06.011" — small white/gray text, appears to be a file timestamp or telescope observation identifier. Date appears to be July 4, 2025. The filename format suggests automated telescope or all-sky survey data.
+* Lower right corner: coordinate text "5.052°+21.07°" or similar — small text indicating celestial coordinates (RA/Dec or Alt/Az), approximately 5° and +21° values.
+* Lower left: "10'" — small text indicating angular scale marker (10 arcminutes).
+* Other small text at corners/edges, partially visible.
+
+COLORS:
+* Background: dark gray (telescope noise floor).
+* Stars: bright white with slight gradation.
+* Text and indicators: white and teal/green.
+
+PHYSICS / PHENOMENON:
+* This is a real astronomical telescope image — a CCD frame from an automated telescope or sky survey system, captured on July 4, 2025 at 08:49:06 UTC. The image shows a field of stars with:
+  - One very bright star (possibly an overexposed bright star or a transient event).
+  - Multiple fainter background stars.
+  - A possible cosmic ray track (horizontal line at mid-image).
+  - Celestial coordinate overlay and scale bar.
+* This type of image is used in: UAP tracking systems (looking for anomalous objects in the star field), astrophysical transient monitoring (nova, supernova, asteroid detection), and satellite/UAP detection cameras.
+* The "FOREZ" prefix in the filename may indicate a specific observatory or telescope system name (possibly "Forêt" or a French astronomical survey).
+
+SPATIAL RELATIONSHIPS:
+* Very bright star at lower-left.
+* Fainter stars distributed throughout.
+* Horizontal trail near vertical center.
+* Text annotations at corners.
+* Scale indicator at lower left.
+
+HIGH-LEVEL SUMMARY:
+A grayscale astronomical CCD telescope image timestamped "2025-07-04T08:49:06.011" from what appears to be the FOREZ telescope system. Shows a star field with one very bright (overexposed) star, multiple medium and faint stars, a possible cosmic ray or satellite trail, and coordinate/scale annotations. The celestial field coordinates appear to be near RA ~5.052°, Dec ~+21.07°. Relevant to UAP tracking research as this represents the type of automated telescope monitoring system used to detect anomalous aerial or space objects among known star fields.

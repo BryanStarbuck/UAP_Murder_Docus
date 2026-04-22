@@ -1,0 +1,231 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew), Caltech / MRC LMB Cambridge
+# Extraction date: 2026-04-22
+
+---
+
+## 1. Biot-Savart and Solenoid Field
+
+Biot-Savart law (differential form):
+  dB = (mu_0 / 4*pi) * I * (dl x r_hat) / r^2
+
+For an infinite solenoid of n turns/m, current I:
+  B_interior = mu_0 * n * I    [axial, uniform]
+  B_exterior = 0
+
+Source: YAML 1917826496196141183 — forms basis of the right-hand rule magnetism discussion.
+
+Relationship to experiment: The wire coils used in the lab (3 below, 6 above) produce
+fields describable by this law. The 60 mm disc magnet provides an approximately dipole
+field:
+  B_z(z) ~ (mu_0 / 4*pi) * (m / (r^2 + z^2)^(3/2)) * [axial component correction]
+where m = magnetic dipole moment of the disc.
+
+---
+
+## 2. Lorentz Force (Body Force on Conductor)
+
+Point particle form:
+  F = q * (E + v x B)
+
+Volumetric body force on conductor:
+  f = J x B    [N/m^3]
+
+For J = J_r * r_hat, B = B_z * z_hat (cylindrical coordinates):
+  r_hat x z_hat = -phi_hat
+  f_phi = -J_r * B_z    [azimuthal body force]
+
+Sign rule:
+- J_r > 0 (outward), B_z > 0 (upward) -> f_phi < 0 -> clockwise rotation (when viewed from above)
+- Reversing either J_r or B_z reverses the rotation direction
+
+Work done by magnetic Lorentz force: W = integral(F . v dt) = 0 for magnetic force alone
+(as noted in referenced thread; the electric component of J x B can do work).
+
+Source: YAMLs 1967126894186557513, 1992580530165125291, 1976971268139135206.
+
+---
+
+## 3. Three-Phase Rotating Field: Superposition
+
+Three-phase AC supply (120-degree phase separation), planar coil arrangement:
+
+  B_A(t) = B_0 * cos(omega*t) * n_A_hat
+  B_B(t) = B_0 * cos(omega*t - 2*pi/3) * n_B_hat
+  B_C(t) = B_0 * cos(omega*t - 4*pi/3) * n_C_hat
+
+where n_A_hat, n_B_hat, n_C_hat are unit vectors at 0, 2*pi/3, 4*pi/3 azimuth.
+
+Resultant (using phasor superposition):
+  B_total(t) = (3/2) * B_0 * [cos(omega*t) * x_hat + sin(omega*t) * y_hat]
+             = (3/2) * B_0 * [rotating vector of constant magnitude (3/2)*B_0]
+
+Proof of constant magnitude: |B_total|^2 = (3/2)^2 * B_0^2 * [cos^2 + sin^2] = (9/4)*B_0^2 = const
+
+Angular velocity of rotating field vector: omega = 2*pi*f_supply
+
+Source: YAMLs 1976971268139135206, 2015732010086785296, 2008295626753360204.
+The wiring specification U-V-W-U-V-W for 6 coils above produces a doubled three-phase
+arrangement — each azimuthal position has two coils in series or parallel, doubling the
+mmf (magnetomotive force) without altering the rotational field symmetry.
+
+---
+
+## 4. Electromagnetic Torque in the Induction Motor Equivalent
+
+The induction motor electromagnetic torque:
+  T_em = (3 * V_1^2 * R_2/s) / (omega_s * [(R_1 + R_2/s)^2 + (X_1 + X_2)^2])
+
+For the liquid-metal induction pump (equivalent circuit approach):
+  T_em(s) = K * s / (1 + (s*tau)^2)
+where:
+  K = (3/2) * (mu_0 * sigma * omega * B_0^2 * pi * R^4 * h) / 4  [geometry-dependent constant]
+  tau = mu_0 * sigma * delta^2 / (2*pi)  [magnetic diffusion time, delta = channel width]
+  s = slip = (omega - omega_fluid) / omega
+
+At low slip (s -> 0): T_em ~ K*s (linear increase)
+At high slip (s -> 1): T_em ~ K/(s*tau^2) (decreasing)
+Maximum torque at: s_max = 1/tau*omega
+
+Source: Derived from YAML 2015732010086785296 annular induction motor description.
+
+---
+
+## 5. Angular Momentum Conservation for Counter-Rotating Components
+
+For an isolated two-component system with no external torques:
+  L_total = L_inner + L_outer = I_inner * omega_inner + I_outer * omega_outer = constant
+
+For the spin/counter-spin starting from rest (L_total = 0):
+  I_inner * omega_inner + I_outer * omega_outer = 0
+  => omega_outer = -(I_inner / I_outer) * omega_inner
+
+Moments of inertia (simplified geometries):
+  Solid disc: I = (1/2) * m * R^2
+  Cylindrical shell: I = m * R^2
+
+For inner solid disc magnet (mass m_i, radius R_i) and outer liquid metal bowl
+(mass m_o, radius R_o, thin shell approximation):
+  omega_outer / omega_inner = -(m_i * R_i^2) / (2 * m_o * R_o^2)
+
+Source: MDX 13_1976970916849762306_video (CCW grass / CW machine observation);
+YAML 1976971268139135206 note_tweet (counter-spin description and Edwin Fuhr reference).
+
+---
+
+## 6. Electromagnetic Field Tensor: 4D to 3D Rotation of Magnetism
+
+Contravariant electromagnetic field tensor (in natural units c=1 temporarily):
+  F^mu_nu = [[0,  -E_x, -E_y, -E_z],
+             [E_x,  0,  -B_z,  B_y ],
+             [E_y,  B_z,  0,  -B_x ],
+             [E_z, -B_y,  B_x,  0  ]]
+
+Lorentz boost in x-direction with velocity v (beta = v/c, gamma = 1/sqrt(1-beta^2)):
+  E'_x = E_x                                (longitudinal: unchanged)
+  E'_y = gamma * (E_y - beta*c * B_z)       (transverse electric, mixed with B)
+  E'_z = gamma * (E_z + beta*c * B_y)
+  B'_x = B_x
+  B'_y = gamma * (B_y + beta/c * E_z)       (transverse magnetic, mixed with E)
+  B'_z = gamma * (B_z - beta/c * E_y)
+
+The author's claim: "features of the electron not seen for v=0 rotate from time 4-D
+into space 3-D" is the mixing of F^0i (time-space components, i.e., E-field) into
+F^ij (space-space components, i.e., B-field) under this boost.
+
+Source: YAML 1917826496196141183.
+
+---
+
+## 7. Gravitomagnetic Equations (GEM)
+
+In the Lorenz gauge, linearized GR gives:
+  box_bar_h_mu_nu = -16*pi*G/c^4 * T_mu_nu
+where bar_h_mu_nu = h_mu_nu - (1/2)*eta_mu_nu*h is the trace-reversed perturbation.
+
+In the slow-motion, weak-field limit:
+  Phi_g = -G*M/r    (gravitoelectric potential)
+  A_g = -4*G/(r*c^2) * (J x r_hat) / r   [gravitomagnetic vector potential of rotating body]
+
+Gravitomagnetic field:
+  B_g = curl(A_g) = G/(c^2) * [3(J.r_hat)r_hat - J] / r^3
+
+GEM Lorentz-like force:
+  F_GEM = m * (g + v x (2*B_g))   [note factor 2, distinguishing from EM]
+
+Lense-Thirring precession:
+  Omega_LT = G*J / (r^3 * c^2) * [factor depending on geometry]
+For equatorial orbit: Omega_LT = 2*G*J / (r^3 * c^2)
+
+Source: YAML 1917826496196141183 (open question about analog of this for two masses in
+fast relative motion).
+
+---
+
+## 8. Closed Timelike Curve: Differential Geometry
+
+Source: YAML 2002134557731303478
+
+On a Lorentzian manifold (M, g_mu_nu):
+A curve gamma: [a,b] -> M is a CTC if:
+  (1) gamma(a) = gamma(b)  (closed)
+  (2) g_mu_nu * (dx^mu/dlambda) * (dx^nu/dlambda) < 0 along gamma  (timelike)
+
+The proper time elapsed along the CTC:
+  Delta_tau = integral_gamma sqrt(-g_mu_nu * dx^mu * dx^nu)  > 0
+
+This allows a traveler to age by Delta_tau while returning to the same spacetime event.
+The CTC does not locally violate the speed of light because at every point the tangent
+vector to the curve is timelike; the global topology of the spacetime permits the closure.
+
+Godel metric (simplest rotating-dust CTC spacetime):
+  ds^2 = -(dt + e^(sqrt(2)*Omega*x) * dy)^2 + dx^2 + (1/2)*e^(2*sqrt(2)*Omega*x)*dy^2 + dz^2
+where Omega is the rotation rate of the dust. CTCs exist at radii:
+  r_CTC: sinh^2(sqrt(2)*Omega*r_CTC) >= 1  => r_CTC >= ln(1+sqrt(2))/(sqrt(2)*Omega)
+
+---
+
+## 9. Mayan Calendar Round: Numerical Structure
+
+Source: YAML 1943287241649897838
+
+The Mayan Calendar Round = LCM(Tzolkin, Haab):
+  Tzolkin = 260 days = 13 * 20 (13 numbers x 20 day names)
+  Haab = 365 days = 18 * 20 + 5 (18 months of 20 days + 5 Wayeb days)
+  Calendar Round = LCM(260, 365) = 18,980 days = 52 * 365 = 73 * 260
+
+Date format in the Calendar Round: (Tzolkin day, Haab month, Haab day position) or
+(number 1-13, day name 1-20, Haab month 1-18 or Wayeb, day 1-20).
+
+The reference date "13-10-7" matching August 9, 2005 and the challenge date "14-5-11"
+are in the Mayan combined calendar notation. Solving requires:
+  Position_CRound = (T_number - 1)*20 + T_day_index [Tzolkin position]
+  And matching to Haab cycle: (Haab_month - 1)*20 + Haab_day [Haab position]
+  With the LCM(260,365) = 18,980 day cycle.
+
+The mathematical structure is a Chinese Remainder Theorem problem:
+  x ≡ a (mod 260)     [Tzolkin constraint]
+  x ≡ b (mod 365)     [Haab constraint]
+  Solution: x = a + 260*t for minimal positive x satisfying x ≡ b (mod 365)
+
+Source: used by author to date and cross-reference crop circle formations.
+
+---
+
+## 10. Crop Circle Encoding: Binary / Hexadecimal
+
+Source: YAML 1943287241649897838 (referenced_tweets)
+
+"First, please notice that there are 8 + 8 = 16 wedges around its top center. That
+tells us to read a binary code in base-16 or hexadecimal."
+
+Mathematical encoding scheme described:
+- 16 wedges -> each wedge represents one hexadecimal digit position (0-F = 0-15).
+- Binary coding: each wedge is either "standing" (1) or "flattened" (0) crop.
+- A group of 4 binary digits = 1 hexadecimal digit: 2^4 = 16 possible values.
+- Reading wedges sequentially around the formation gives a hexadecimal string.
+- The hexadecimal string is then decoded as ASCII text or as a date/number.
+
+This is standard positional number encoding using base-2 (binary) subgrouped into
+base-16 (hexadecimal), identical to how computer memory bytes are represented.

@@ -1,0 +1,42 @@
+IMAGE: 13_1980839150103212032_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Oblique close-up view of the central assembly on the white circular platform, now with a NEW ELEMENT — an orange/yellow sphere (approximately 30px diameter) mounted on top of the axle above the bowl:
+  - Stainless steel bowl (polished chrome, approximately 120px diameter) at center of the white platform. Bowl interior: appears to have mercury or oil — dark reflective liquid with swirling patterns and a visible conducting disc inside (the flat disc is visible about halfway up the bowl's interior).
+  - The bowl shows a new design with a lower profile / wider flange than previous bowls.
+  - Central axle: metal rod rising from the center of the bowl, extending upward. Mounted at the TOP of the axle: an orange/yellow sphere — this appears to be a small citrus fruit (tangerine or orange) or a wooden/plastic ball, used as a visual marker, counterweight, or contact point.
+  - Multiple crocodile clips at the top of the axle connecting red and black wires.
+  - Plaster/putty material visible beneath the bowl, securing it to the disc assembly.
+  - White circular platform with drilled holes visible.
+  - Glass carboy (clear large container) visible at right edge.
+  - Red resin disc assembly partially visible at left.
+  - Dark cloth or paper material beneath the bowl (insulation or alignment material).
+  - Messy laboratory workspace in background.
+
+TEXT: None.
+
+COLORS:
+* Bowl: polished silver-chrome.
+* Mercury/liquid inside: dark gray-silver with reflective patches.
+* Orange sphere: bright orange-yellow.
+* Platform: white.
+* Axle/clips: silver metal, red and black wires.
+* Glass carboy: clear.
+
+PHYSICS CONCEPTS:
+* The orange sphere on top of the axle is a notable addition — it serves as a visual rotation indicator:
+  - When the conducting disc in the mercury bowl rotates, the axle rotates with it, and the orange sphere at the top would be visually obvious when spinning (the uneven surface/color of a real fruit would show rotation clearly even at low RPM).
+  - This is a clever low-cost diagnostic for proving axle rotation in the homopolar motor.
+* Alternatively, the sphere's mass provides a known load for torque measurement (F = mr ω² for the centripetal force at known radius and known mass).
+* The wider-flanged lower-profile bowl may be a new design iteration for improved mercury contact area.
+* The plaster/putty securing the bowl is visible — this prevents the bowl from being ejected or tilting when the disc spins at high speed.
+
+SPATIAL RELATIONSHIPS:
+* Bowl at center of platform.
+* Axle rising from bowl center to orange sphere at top.
+* Clips and wires at top of axle.
+* Plaster packing around bowl base.
+* Glass carboy at right, disc assembly at left.
+
+HIGH-LEVEL SUMMARY:
+Close-up view of the central homopolar motor assembly on the white platform, featuring a stainless steel bowl with visible conducting disc and dark mercury/liquid inside, the central axle rising to a bright orange sphere (tangerine or plastic ball) used as a rotation indicator. Multiple crocodile clips connect at the axle top. This is a new design iteration of the mercury-contact Faraday disc assembly with the orange sphere providing visual confirmation of axle rotation during operation.

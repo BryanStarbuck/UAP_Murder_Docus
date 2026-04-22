@@ -1,0 +1,33 @@
+SHAPES:
+* Golden/tan grain field (aerial photograph, slightly oblique angle looking downward)
+* Background field shows parallel agricultural tramlines (diagonal lines crossing the field uniformly)
+* Crop formation: a dense rectangular block formation, approximately 180px wide x 500px tall
+* The formation is made up of a grid of small elements — appears to be a binary/pixel grid encoded in the crop
+* The grid has approximately 23 columns x 73 rows of distinct on/off (standing/flattened) crop cells
+* The overall shape is a tall narrow rectangle with slight distortion at the corners
+* Individual cells are approximately 6-8px each in this image
+* The pattern within the grid contains distinct regions of higher density (dark cells) and lower density, forming letters, symbols, or binary patterns
+
+TEXT (encoded in crop pixels, approximately):
+* Top rows: what appears to be a binary header or framing sequence
+* Middle section: complex pattern resembling encoded text — possibly binary ASCII or a non-standard encoding
+* The central area appears to show a humanoid figure outline (similar to the Crabwood 2002 "alien face" crop circle)
+* Lower sections: additional binary block patterns resembling data rows
+* This is the Crabwood crop circle formation (2002, near Winchester, Hampshire) — the famous formation showing a disc/DVD shape plus an alien face, with a binary encoded message
+
+COLORS:
+* Field background: golden tan with darker tramlines
+* Formation (flattened crop): slightly lighter golden-tan
+* Standing crop within formation (dark cells): slightly darker
+
+SPATIAL RELATIONSHIPS:
+* Formation is roughly centered in the image
+* The tall narrow rectangle of the binary encoding is the dominant element
+* Agricultural tramline pattern is visible throughout background and through the formation
+* Slight perspective distortion from aerial oblique angle
+
+PHYSICS CONCEPT:
+This appears to be an aerial photograph of the Crabwood crop formation (August 15, 2002, near Winchester, Hampshire, UK) — one of the most famous and complex crop formations ever recorded. The Crabwood formation consisted of two elements: a circular disc/DVD shape with a spiral binary encoding, and an adjacent humanoid/alien face. When the binary spiral is decoded (reading the sequence of standing/flattened crop as 1/0 bits), it yields an ASCII-coded message. The decoded message reportedly reads: "Beware the bearers of FALSE gifts and their BROKEN PROMISES. Much PAIN but still time. BELIEVE. There is GOOD out there. We OPPOSE DECEPTION. Conduit CLOSING (Bell Sound)." This formation is central to UAP research discussions of alleged non-human communication and is extensively analyzed for its binary encoding structure, which uses standard 8-bit ASCII — a human computing standard.
+
+HIGH-LEVEL SUMMARY:
+Aerial photograph of the Crabwood 2002 crop circle formation (or similar binary-encoded formation): a tall rectangular grid of binary cells (~23x73 cells) formed by standing and flattened crop in a golden grain field, encoding a message in ASCII binary. This is one of the most analyzed crop circle formations in UAP research, allegedly containing a decoded message warning about deception. Used to study non-human communication encoding methods and binary data structures.
