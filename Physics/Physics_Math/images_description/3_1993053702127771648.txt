@@ -1,0 +1,44 @@
+Type: Color-inverted false-color astronomical image of Comet 3I/ATLAS — the same dataset as 3_1993053601636532225.jpg subjected to color inversion processing, showing the full comet morphology (coma + tail) on a near-white background with dark inverted features.
+
+Overall Image:
+* Wide landscape orientation — same frame/crop as 3_1993053601636532225.jpg.
+* White/cream/very pale background (inverted dark sky).
+* Color inversion: dark → light, light → dark, and complementary color substitution.
+* Pixelated/mosaiced texture in the background — visible as the cream-white background has a faint rectangular pixel grid texture (JPEG compression or sensor readout artifact amplified by the inversion).
+
+Color Inversion Analysis:
+
+Background: deep black → near-white/cream. The background has a subtle warm cream-to-pale-tan color (not pure white) — indicating the original sky background had a slight dark blue tint that inverts to a slight pale yellow-cream.
+
+Background Stars:
+* The bright background stars (originally white-blue point sources) → inverted to DARK BROWN-MAROON small dots. Two or three small dark brownish point sources visible in the upper portion of the frame.
+
+Nucleus Region:
+* Originally white-pink bright nucleus → inverted to DARK BLACK CIRCLE at center of coma. The nucleus is the darkest element in the image — a clearly defined circular or slightly elliptical black blob at the center-right of the coma.
+* Immediately around the dark nucleus: a TEAL-GREEN ring or zone — this is the inversion of the original pink inner coma. Pink (magenta) inverts to green (cyan) in color inversion. This creates a visually striking bright teal-green inner ring directly adjacent to the dark nucleus blob.
+
+Coma:
+* The main outer coma (originally teal/cyan-green) → inverts to PINK-RED-SALMON. In color inversion, cyan inverts to red, green inverts to magenta, creating a pink/salmon/rose-red outer coma.
+* The coma boundary: the outer edges of the pink coma grade smoothly from deeper pink-red (stronger original emission) to pale pink → white background.
+* The overall coma shape matches 3_1993053601636532225.jpg: horizontally elongated ellipse with a leftward pointed extension (tail direction).
+
+Ion Tail:
+* Originally narrow blue-teal ion tail (lower-left) → inverts to DARK BROWN-MAROON-PURPLE narrow linear streak extending lower-left. The tail becomes a dark narrow feature on the light background — the exact complement of the original.
+* The bright blue knot at the ion tail terminus → inverts to a dark maroon-brown dot at the same position.
+
+Dust Tail:
+* The shorter yellow-green dust tail (lower-right) → inverts to a DARK BLUE-PURPLE or indigo short extension lower-right of the nucleus.
+
+Coma Boundary Detail:
+* The coma boundary in this inverted image shows subtle structure: the transition from the pink/red coma to the white background has a slight mottled or scalloped texture — possibly revealing the outer coma shell or photodissociation region boundary.
+
+RC's Contextual Use:
+* The inverted image reveals features that were hard to see in the original:
+  - The dark nucleus blob is highly distinct against the teal-green inner ring — the size and shape of the nucleus condensation (the Gaussian profile of the inner coma) can be measured precisely.
+  - The teal-green inner ring reveals that the original pink nucleus zone had a specific radius — the inner dust/CN coma zone has a quantifiable angular size.
+  - The dark ion tail on light background is easier to trace along its full length.
+* RC consistently uses both normal and inverted color processing to reveal different morphological features of the same data.
+
+Text Visible: None.
+
+Summary: Color-inverted false-color version of 3_1993053601636532225.jpg — same 3I/ATLAS dataset with full color inversion. On near-white/cream background: central dark black nucleus blob surrounded by a distinct bright TEAL-GREEN inner ring (inverted pink inner coma); surrounding pink-red-salmon outer coma (inverted cyan-green C₂/CO⁺ outer coma); dark brown-maroon narrow ion tail extending lower-left (inverted blue-teal ion tail) terminating in a dark maroon dot (inverted bright blue knot/plasmoid); dark blue-purple short dust tail lower-right (inverted yellow-green dust tail). 2-3 dark brown background star dots (upper frame). RC uses inversion to sharply delineate the nucleus condensation size, the teal inner coma ring radius, and the ion tail length.

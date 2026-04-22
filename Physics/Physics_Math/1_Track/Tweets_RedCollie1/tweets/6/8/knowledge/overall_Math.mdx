@@ -1,0 +1,196 @@
+## overall_Math.mdx
+## All Mathematical Equations, Components, and Relationships
+## Source: RedCollie1 (Dr. Horace Drew) tweets and associated media, batch 6/8
+## Extracted: 2026-04-22
+
+---
+
+### 1. Rotating Magnetic Field (3-Phase Superposition)
+
+A standard 3-phase stator with windings displaced by 120° in space, driven by:
+   v_A(t) = V_0 cos(ωt)
+   v_B(t) = V_0 cos(ωt - 2π/3)
+   v_C(t) = V_0 cos(ωt - 4π/3)
+
+Produces field contributions:
+   B_A(t) = B_0 cos(ωt) ê_A
+   B_B(t) = B_0 cos(ωt - 2π/3) ê_B     where ê_B = cos(2π/3)x̂ + sin(2π/3)ŷ
+   B_C(t) = B_0 cos(ωt - 4π/3) ê_C     where ê_C = cos(4π/3)x̂ + sin(4π/3)ŷ
+
+Summing (using trigonometric identities):
+
+   B_total(t) = (3B_0/2) [cos(ωt) x̂ + sin(ωt) ŷ]
+
+This is a constant-amplitude vector (magnitude = 3B_0/2) rotating uniformly at angular frequency ω in the XY-plane. This is the mathematical object described in the sources as the "rotating magnetic field" encoded in the wavy outer symbols of the orb-sphere artifact.
+
+---
+
+### 2. Synchronous Torque on Rotor
+
+The rotor (spinning magnet on pole) has magnetic moment m = m ê_r where ê_r is the rotor axis direction. In the rotating frame, the lag angle between rotor axis and field vector is δ (the torque angle).
+
+Torque:
+   τ = m × B_rot = |m| · (3B_0/2) · sin(δ) ẑ
+
+At equilibrium (synchronous operation), δ = const and the rotor tracks the rotating field. The angular momentum of the rotor:
+   L = I_rotor · ω ẑ
+
+where I_rotor is the moment of inertia of the spinning magnet about its symmetry axis.
+
+Pull-out condition: maximum deliverable torque |τ_max| = |m| · (3B_0/2), occurs at δ = π/2.
+
+---
+
+### 3. MPD (Magnetoplasmadynamic) Thruster Thrust Equations
+
+Self-field thrust (Maecker formula):
+   F_self = (μ₀ I²)/(4π) [ln(r_a/r_c) + 3/4]
+
+where:
+   μ₀ = 4π × 10⁻⁷ T·m/A (permeability of free space)
+   I = discharge current (A)
+   r_a = anode inner radius (m)
+   r_c = cathode outer radius (m)
+
+Applied-field thrust (additional term in AF-MPD mode):
+   F_AF = I ∫₀^L B_applied(z) dz
+
+where L is the discharge channel length and B_applied(z) is the applied field magnitude at axial position z. For N_mag uniform magnet sets each contributing field B_m over length L_m:
+
+   F_AF = I · N_mag · B_m · L_m
+
+With N_mag = 5, B_m and L_m device-specific constants, F_AF ∝ 5 I B_m L_m.
+
+Total thrust:
+   F_total = F_self + F_AF = (μ₀ I²)/(4π) [ln(r_a/r_c) + 3/4] + I · N_mag · B_m · L_m
+
+Specific impulse:
+   I_sp = F / (ṁ g₀)
+
+where ṁ = propellant mass flow rate (kg/s) and g₀ = 9.81 m/s². Higher F at lower ṁ (as demonstrated in the experiment by achieving "tremendous acceleration" at "very low flow rates") implies higher I_sp — the claimed advantage of this configuration.
+
+---
+
+### 4. Lorentz Force Body Force Density
+
+In the plasma channel, the volumetric Lorentz force density (force per unit volume):
+
+   f = J × B    [N/m³]
+
+where:
+   J = current density vector [A/m²]
+   B = total magnetic field vector [T] = B_applied + B_self
+
+For J = J_z ẑ and B_applied = B_x x̂:
+   f = J_z B_x (ẑ × x̂) = J_z B_x ŷ
+
+For J = J_z ẑ and self-field B_self = B_φ φ̂ in cylindrical coordinates:
+   f_z = J_r B_φ - J_φ B_r     (axial component of J × B)
+
+The net axial thrust from self-field:
+   F_z = ∫∫∫ (J_r B_φ - J_φ B_r) dV
+
+Polarity reversal test: When B_applied → -B_applied, the ŷ-component of f reverses sign, and ions observed to flow in the -ŷ direction (opposite to original), confirming J × B dominance over ∇P contribution.
+
+---
+
+### 5. Spin-Curvature Coupling: Mathisson-Papapetrou-Dixon Equations
+
+For a spinning body in curved spacetime (relevant to gyroscope experiments):
+
+   Dp^μ/dτ = -(1/2) R^μ_νρσ u^ν S^ρσ
+
+   DS^μν/dτ = p^μ u^ν - p^ν u^μ
+
+Supplementary spin condition (Tulczyjew-Dixon):
+   S^μν p_ν = 0
+
+where:
+   p^μ = linear 4-momentum [kg·m/s in natural units]
+   u^μ = 4-velocity (worldline tangent, normalized: g_{μν} u^μ u^ν = -c²)
+   S^μν = spin angular momentum tensor [kg·m²/s], antisymmetric
+   R^μ_νρσ = Riemann curvature tensor [1/m²]
+   τ = proper time
+
+Weak-field, slow-motion (post-Newtonian) limit:
+
+   R^i_{0j0} ≈ -(1/c²) ∂²Φ/∂x^i ∂x^j     (for gravitational potential Φ)
+
+The spin-curvature force in this limit:
+   F^i_spin = -(1/2) R^i_{0jk} u^0 S^jk ≈ (1/c) (S × ∇g)^i
+
+where g = -∇Φ is the gravitational field and S is the spin angular momentum 3-vector. This force is typically many orders of magnitude below measurable thresholds for macroscopic bodies in Earth's gravitational field.
+
+The claim in source material is that this effect is anomalously large for Laithwaite's gyroscope — a claim not supported by standard GR at the relevant angular momenta. The source proposes that "large changes of inertia" at high spin create an enhanced coupling, which could mathematically be represented as an effective amplification of S^μν or a modification to R^μ_νρσ as experienced by the spinning body — neither of which follows from known physics without extension of GR.
+
+---
+
+### 6. Gyroscopic Precession (Classical)
+
+For completeness (the competing classical explanation of Laithwaite's result):
+
+Precession angular velocity of a gyroscope in a gravitational torque:
+   Ω_p = τ / L = (M g r) / (I_disk ω)
+
+where:
+   M = total mass of gyroscope + arm
+   g = 9.81 m/s² (gravitational acceleration)
+   r = distance from pivot to gyroscope center of mass
+   I_disk = moment of inertia of spinning disk about its symmetry axis
+   ω = spin angular velocity of disk
+
+At high ω, Ω_p → 0: the gyroscope precesses very slowly and does not fall rapidly. This is the standard explanation for Laithwaite's observation. The source material explicitly rejects this explanation and instead invokes spin-curvature GR coupling.
+
+---
+
+### 7. Angular Resolution Trigonometry (Telescope Comparison)
+
+Angular resolution θ of an optical system (Rayleigh criterion):
+   θ = 1.22 λ / D   [radians]
+
+where λ = wavelength (m), D = aperture diameter (m).
+
+Converting to arcseconds: θ_arcsec = θ_rad × (180/π × 3600) = θ_rad × 206265
+
+Given resolutions from source:
+   θ_Hubble = 0.04 arcsec/pixel
+   θ_JWST = 0.07 arcsec/pixel
+   θ_SPHEREx = 6.2 arcsec/pixel
+
+Physical size calculation for object of angular diameter θ_obj at distance r:
+   D_phys = r · tan(θ_obj) ≈ r · θ_obj [for small angles, θ in radians]
+   D_phys = r · (θ_obj_arcsec / 206265)
+
+Pixel count spanning the object:
+   N_pix = θ_obj_arcsec / (plate_scale_arcsec_per_pixel)
+
+For a given θ_obj:
+   N_Hubble = θ_obj / 0.04   (finest sampling, most pixels)
+   N_JWST = θ_obj / 0.07
+   N_SPHEREx = θ_obj / 6.2   (coarsest, fewest pixels)
+
+The ratio N_Hubble / N_SPHEREx = 6.2 / 0.04 = 155. An object spanning 155 Hubble pixels subtends only 1 SPHEREx pixel. This large disparity is the mathematical basis for the "dispute" referred to in the tweet — the object's apparent size and morphology depend critically on which instrument's plate scale is assumed.
+
+---
+
+### 8. Two-Rotating-Field Superposition (Phase Offset)
+
+For two power supplies at the same frequency ω but phase offset φ, driving separate coil sets:
+
+   B₁(t) = B₁[cos(ωt) x̂ + sin(ωt) ŷ]
+   B₂(t) = B₂[cos(ωt + φ) x̂ + sin(ωt + φ) ŷ]
+
+Total:
+   B_total(t) = (B₁ + B₂ cos φ)[cos(ωt) x̂ + sin(ωt) ŷ] + B₂ sin φ[-sin(ωt) x̂ + cos(ωt) ŷ]
+
+Since [-sin(ωt) x̂ + cos(ωt) ŷ] is the same rotating vector as [cos(ωt) x̂ + sin(ωt) ŷ] phase-shifted by π/2, the total remains a rotating field with modified magnitude:
+
+   |B_total| = √(B₁² + B₂² + 2B₁B₂ cos φ)
+
+Optimal (maximum magnitude, constructive): φ = 0 → |B_total| = B₁ + B₂
+Null (destructive): φ = π → |B_total| = |B₁ - B₂|
+Quadrature: φ = π/2 → |B_total| = √(B₁² + B₂²)
+
+The torque on the rotor scales as |B_total|, so the phase relationship between the two power supplies directly determines the synchronous torque and therefore the achieved rotor angular velocity ω — which in turn determines the magnitude of the proposed propulsive / levitation effect. This is the core unresolved experimental variable identified in tweet 2026878837817217434.
+
+*This information was extracted by automated knowledge processing from RedCollie1 (Dr. Horace Drew) X/Twitter posts, batch 6/8.*

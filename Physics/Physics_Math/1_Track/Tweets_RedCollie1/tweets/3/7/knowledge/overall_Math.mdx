@@ -1,0 +1,210 @@
+# Overall Math
+## Source: 1920419643568906717.yaml (note_tweet)
+
+### Ring Magnet Axial Field and Focal Point Equilibrium
+
+**Axial magnetic field of a current loop (Biot-Savart):**
+
+  B_z(z) = (μ_0 · I · R²) / (2 · (R² + z²)^(3/2))
+
+where:
+- μ_0 = 4π × 10^-7 T·m/A (permeability of free space)
+- I = current in the loop [A]
+- R = radius of the loop [m]
+- z = axial distance from the loop center [m]
+
+**Field gradient (first derivative):**
+
+  ∂B_z/∂z = (μ_0 · I · R²) · (-3z) / (2 · (R² + z²)^(5/2))
+
+The gradient is negative for z > 0 (field decreases with increasing z above the loop), zero at z = 0 (loop center), and positive for z < 0.
+
+**Force on axial magnetic dipole m_z:**
+
+  F_z = m_z · ∂B_z/∂z
+
+For a permanent magnet with dipole moment m_z > 0 (aligned with B), this force is:
+- Negative (downward, toward the loop) for z > 0: attractive
+- Positive (upward, away from the loop) for z < 0: repulsive
+
+**Equilibrium condition (focal point):**
+For a ring magnet producing both attractive and repulsive contributions (due to its finite thickness and geometry, as opposed to a thin loop), the condition:
+
+  F_z_total(z_f) = 0
+
+defines the focal point z_f. Explicitly, for a thick ring magnet with inner radius R_1 and outer radius R_2:
+
+  F_z(z) = m_z · [∂B_z(R_2,z)/∂z - ∂B_z(R_1,z)/∂z] = 0
+
+Solved for z_f. Drew claims z_f ≈ 100 mm (0.1 m) above the ring coil center for his experimental geometry.
+
+**Earnshaw's Theorem and the gyroscopic exception:**
+Earnshaw's theorem (1842): No static configuration of charges or fixed magnets can provide stable equilibrium for a point charge or magnetic dipole in 3D space. The theorem applies to solutions of Laplace's equation ∇²φ = 0, which has no local extrema.
+
+However, for a spinning magnetic dipole (gyroscope), Braunbek (1939) and later stabilization theory shows that the combination of magnetic gradient force and gyroscopic precession can create a stable orbit — Levitron-type stability. The stability condition requires:
+
+  F_z(z_f) = 0   AND   ω_spin > ω_critical
+
+where ω_critical depends on the field geometry and the mass/moment of inertia ratio of the spinning magnet.
+
+---
+
+## Source: 1940912264682594305.yaml
+
+### Gyroscope Precession Equation
+
+Angular momentum:
+  L = I · ω   [kg·m²/s]
+
+Gravitational torque about the support point:
+  |τ| = M · g · d   [N·m]
+
+where d is the horizontal distance from the support point to the center of mass.
+
+Precession angular velocity:
+  Ω_p = τ / L = (M · g · d) / (I · ω)   [rad/s]
+
+Precession period:
+  T_p = 2π / Ω_p = 2π · I · ω / (M · g · d)   [s]
+
+**Key relationship:** Ω_p ∝ 1/ω — faster spin → slower precession → more stable gyroscope.
+
+**Nutation frequency:**
+Small oscillations of the spin axis about the precession axis (nutation) occur at:
+  Ω_nutation ≈ I · ω² / (I_perp · M · g · d)   [rad/s, high-spin approximation]
+
+**Condition for gyroscopic stabilization preventing fall:**
+The gyroscope does not fall when the precession is fast compared to the natural fall time t_fall = √(2h/g). The effective condition is:
+
+  Ω_p · t_fall >> 1   →   (M·g·d)/(I·ω) · √(2h/g) >> 1
+
+In the lab video (13_1940911383069020160), the spinning gyroscope is observed to balance on a string and appear to levitate — confirming that gyroscopic angular momentum is sufficient to redirect the gravitational torque into horizontal precession rather than downward fall.
+
+---
+
+## Source: 1968593622326198425.yaml + 13_1968592496738635776_video.mdx
+
+### Lorentz Force Vortex: Circuit and MHD Equations
+
+**Circuit equations:**
+Ohm's law: V = I · R_total
+- V = 6.0 V
+- R_total = R_nichrome1 + R_nichrome2 ≈ 0.14 Ω
+- I = 6.0 / 0.14 ≈ 42.9 A (stated as ~50 A)
+
+Nichrome wire resistance: R = ρ · L / A
+- ρ_nichrome ≈ 1.0–1.1 × 10^-6 Ω·m
+- L = 0.200 m (200 mm)
+- A = π(r)² = π(0.001)² = 3.14 × 10^-6 m² (2 mm diameter → 1 mm radius)
+- R_one = 1.1×10^-6 × 0.2 / 3.14×10^-6 ≈ 0.070 Ω
+- R_two_wires ≈ 0.140 Ω ✓
+
+Power dissipated in nichrome:
+  P_nichrome = I² · R_nichrome = (43)² × 0.14 ≈ 259 W
+
+This confirms nichrome "gets hot" as observed.
+
+**MHD body force (Lorentz force density):**
+  f = J × B   [N/m³]
+
+For current density J = I/A_cross [A/m²] directed along ẑ through galinstan cross-section A_cross, in field B with radial component B_r from the permanent magnet below:
+
+  f_φ = J_z · B_r   (azimuthal force driving rotation)
+
+Total azimuthal force integrated over fluid volume V_fluid:
+  F_φ = ∫∫∫ f_φ dV = I · ∫ B_r · (dz over path length)
+
+This is equivalent to the force I·L×B for a straight conductor of length L in a uniform field B_r.
+
+**Torque on the vortex:**
+  τ_azimuthal = r_eff · F_φ
+
+where r_eff is the effective moment arm of the current distribution. The angular acceleration of the liquid metal:
+
+  α = τ / I_fluid   (I_fluid = moment of inertia of rotating fluid mass)
+
+At steady state (terminal angular velocity Ω_steady), viscous drag τ_viscous = b·Ω_steady balances the driving torque:
+
+  r_eff · I · B_r_eff = b · Ω_steady
+
+So:   Ω_steady = (r_eff · I · B_r_eff) / b
+
+To increase Ω_steady: increase I (by lowering R or raising V), or increase B_r_eff (by using stronger magnet or closer magnet placement).
+
+---
+
+## Source: 2034917623348199465.yaml + referenced_tweet + 2016616906942460277.yaml
+
+### 3-Phase Motor Coil Count Arithmetic
+
+For a 3-phase system with N_phases = 3 and N_coils_per_phase = k:
+  Total coils = N_phases × k = 3k
+
+Tabulation:
+| k | Total coils | Configuration |
+|---|-------------|---------------|
+| 3 | 9           | 3×3 = 9       |
+| 4 | 12          | 3×4 = 12      |
+| 5 | 15          | 3×5 = 15      |
+| 6 | 18          | 3×6 = 18      |
+
+**Rotating field vector:**
+The spatial distribution of N_coils equally spaced at angular positions θ_k = 2πk/N around the ring, each carrying a current phase-shifted by Δφ = 2π/N_phases from its neighbor in the same phase group:
+
+  B_total(φ,t) = B_0 · cos(φ - ω·t)   [for ideal 3-phase symmetry]
+
+This is a purely rotating magnetic field in the XY-plane — no pulsation, only rotation at angular frequency ω matching the electrical drive frequency. This smooth rotation is essential for stable, continuous spin of the central magnet without torque ripple.
+
+**Pole pair geometry:**
+For a 9-coil, 3-phase configuration (p = 3 pole pairs):
+  Synchronous speed: ω_s = ω_electrical / p = ω_electrical / 3
+
+For a 12-coil system (p = 4 pole pairs):
+  ω_s = ω_electrical / 4
+
+Fewer pole pairs = faster mechanical rotation for the same electrical frequency.
+
+---
+
+## Source: 2006684422788231552.yaml (note_tweet) + 3_2006681911763283971.txt + 3_2006681944835371014.txt
+
+### Crabwood 2002 Message: Binary Matrix Star Map Extraction
+
+**Binary matrix construction:**
+The Crabwood 2002 message is 25 words arranged in 5 lines of 5 words each. Capitalized words are assigned binary value 1; uncapitalized words are assigned 0:
+
+Line 1: "Beware(0) the(0) bearers(0) of(0) FALSE(1)"         → 00001
+Line 2: "gifts(0) &(0) their(0) BROKEN(1) PROMISES(1). Much(0)" — note: 5-word parse
+       Adjusted: "gifts(0) &(0) their(0) BROKEN(1) PROMISES(1)"  → 00011
+Line 3: "PAIN(1) but(0) still(0) time.(0) BELIEVE.(1)"        → 10001
+Line 4: "There(0) is(0) GOOD(1) out(0) there.(0)"             → 00100
+Line 5: "We(0) oppose(0) DECEPTION.(1) Conduit(0) CLOSING.(1)"→ 00101
+
+**5×5 binary matrix M:**
+       Col: 1  2  3  4  5
+Row 1:      0  0  0  0  1
+Row 2:      0  0  0  1  1
+Row 3:      1  0  0  0  1
+Row 4:      0  0  1  0  0
+Row 5:      0  0  1  0  1
+
+**Positions of 1s (row, col):**
+(1,5), (2,4), (2,5), (3,1), (3,5), (4,3), (5,3), (5,5)
+
+**Geometric overlay:**
+Drew connects certain 1-positions with lines to form a diamond/rhombus pattern (as shown in image 3_2006681944835371014.txt). The connected positions:
+(2,3)–(2,4) [top horizontal], (3,1)–(3,5) [wide middle], (4,3) [bottom point], forming a roughly diamond-shaped polygon.
+
+Drew interprets this as a "star map" matching the Reticulum constellation, specifically the Zeta Reticuli binary system (ζ¹ Ret and ζ² Ret, a wide binary at ~12 parsecs), proposed as the home of "enemy grey aliens."
+
+**Temporal arithmetic:**
+2002 (crop circle date) + 25 (message number "25 years") = 2027 (predicted contact year).
+
+**Mathematical structure:**
+The encoding is a steganographic technique using false capitalization within natural language. The detection requires:
+1. Word count per line: exactly 5
+2. Identification of capitalized words as binary 1
+3. Construction of the 5×5 matrix
+4. Geometric pattern recognition in the 1-positions
+
+Drew notes he needed to learn the "textpic" computer format (text-to-picture encoding, analogous to ASCII art) to recognize this scheme, having first encountered it in 2019 through "CJ" material.

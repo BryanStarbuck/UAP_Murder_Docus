@@ -1,0 +1,69 @@
+TYPE: Black and white schematic — homopolar motor bullseye with 10 curved hook brush contacts; a concentric ring bullseye (thick outer ring + 3 intermediate rings + dashed inner ring) with 10 uniformly spaced curved hook elements projecting outward from the outer ring at 36° intervals; another instance of the recurring brush-contact bullseye motor schematic
+
+OVERALL DESCRIPTION:
+A bold black and white schematic on a white background showing a concentric ring bullseye with 10 hook elements projecting outward from the outer ring. This is a near-duplicate or very closely related variant of the bullseye formations documented in 3_1966038740805246977.jpg (12 hooks), 3_1966822680717651971.jpg (10 hooks), 3_1967348917940752386.jpg (10 hooks), and 3_1967347671615807488.jpg (10 hooks). This represents the 10-brush homopolar motor ring schematic.
+
+IMAGE DIMENSIONS: Approximately 940 x 940 pixels (square)
+BACKGROUND: White (#FFFFFF)
+
+CONCENTRIC RING STRUCTURE (central bullseye):
+
+OUTERMOST RING:
+- A thick solid black ring (~35-45px wide)
+- Outer diameter: approximately 700-720px
+- Inner diameter: approximately 620-640px
+- This thick ring is the primary motor disc rim — the commutator/brush ring
+
+SECOND RING:
+- A solid black ring (~25-30px wide)
+- Outer diameter: approximately 560-580px
+- Inner diameter: approximately 510-530px
+
+THIRD RING:
+- A solid black ring (~20-25px wide)
+- Outer diameter: approximately 440-460px
+- Inner diameter: approximately 400-420px
+
+FOURTH RING (dashed ring):
+- A dashed or segmented ring at approximately 340-360px outer diameter
+- Each dash segment: approximately 20-25px arc length, with approximately 8-10px gaps between segments
+- Number of dashes: approximately 12-16 around the full circle
+- This dashed ring represents: the spring-loaded brush contact pressure monitoring ring, or a coded number (number of dashes = number of brush contacts at this stage)
+
+INNER AREA:
+- Large solid black filled disc from center out to the dashed ring (~260-280px diameter)
+- The central area is solidly black — the motor disc itself
+
+10 HOOK ELEMENTS:
+
+Projecting outward from the outer ring at approximately equal angular intervals (360°/10 = 36° apart):
+- 10 curved hook elements, distributed around the outer ring
+- Each hook:
+  * BASE: attached to the outer surface of the outermost ring
+  * VERTICAL STEM: extending outward (radially) approximately 50-70px from the ring outer surface
+  * HOOK/CURL: curving to one side (counterclockwise or clockwise) at the end of the stem, creating a hook or fishhook shape (~20-30px radius curl)
+- All 10 hooks appear to curl in the same direction (consistent counterclockwise when viewed from outside the ring)
+- Hook size: approximately 60-80px total height × 30-40px width (including curl)
+- The hooks are uniformly distributed at 36° intervals
+
+HOOK INTERPRETATION:
+The 10 curved hooks represent:
+1. Spring-loaded brush contacts: Each hook is a spring-steel brush contact arm that provides a constant radial force pressing a brush tip against the rotating disc rim. The curl at the end of the hook is the spring action (like a coiled spring or leaf spring terminal)
+2. Current collection brushes at 10 equally spaced angular positions: 10 brushes at 36° intervals around the disc rim — collecting current from 10 equally spaced points on the rotating disc
+3. 10-phase electrical symmetry: 10 brushes = 10-phase balanced electrical system. In a 10-phase system, the brushes are at 36° intervals and the output ripple frequency is 10× the rotation frequency
+4. Alternatively: The hooks could represent the actual disc-connection arms of a 10-satellite-disc assembly, as in the complete motor assembly diagram — this bullseye showing the connecting arm geometry
+
+COMPARISON TO PREVIOUS BULLSEYE INSTANCES:
+- 12 hooks at 30° (3_1966038740805246977.jpg): 12-brush motor
+- 10 hooks at 36° (3_1966822680717651971.jpg, 3_1967348917940752386.jpg, 3_1967347671615807488.jpg, this image): 10-brush motor
+- 14 hooks alternating at variable spacing (3_1967350729850699776.jpg): 14-brush motor
+
+The series 10, 12, 14 brushes seen in different formations may encode a progression of motor designs with increasing brush count and therefore decreasing torque ripple.
+
+PHYSICS/SCIENCE RELEVANCE:
+For complete physics analysis, see 3_1966038740805246977.txt (12-hook version, primary detailed description). Key summary for this 10-hook version:
+1. 10-BRUSH HOMOPOLAR MOTOR: 10 equally spaced brush contacts at 36° intervals collect current from 10 points on the rotating Faraday disc rim simultaneously. The EMF at each brush: V = ½ ω B R² (where ω = angular velocity, B = axial magnetic field, R = disc radius). All 10 brushes are at the same radius, so all produce the same EMF — they are connected in parallel to maximize current capacity
+2. DASHED RING COUNT: The ~12-16 dashes in the inner dashed ring may encode a different brush count (12 or 16) at a smaller radius — suggesting this motor has multiple concentric brush rings at different radii, each optimized for a different voltage/current tradeoff
+3. HOOK DIRECTION CONSISTENCY: All hooks curl in the same direction — this encodes the rotation direction of the disc. The hooks are swept BACK relative to the rotation direction (like a centrifugal pump impeller) — the rotation direction is opposite to the hook curl direction
+
+SUMMARY: Black and white crop circle formation schematic (~940×940px). Central concentric ring bullseye: thick outer ring (~700-720px outer diameter, ~35-45px wide) + second ring (~560-580px outer, ~25-30px wide) + third ring (~440-460px outer, ~20-25px wide) + dashed inner ring (~340-360px outer, ~12-16 dashes) + solid black central disc (~260-280px diameter). 10 curved hook elements projecting radially outward from the thick outer ring at approximately 36° intervals (10 equally spaced positions), each hook: vertical stem (~50-70px) + counterclockwise curl (~20-30px radius) — encoding 10 spring-loaded brush contacts for a 10-brush homopolar Faraday disc motor. Near-duplicate of 3_1966822680717651971.jpg (10-hook variant primary description). The dashed inner ring with ~12-16 dashes may encode a secondary inner brush ring at smaller radius.

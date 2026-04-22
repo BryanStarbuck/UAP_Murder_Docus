@@ -1,0 +1,233 @@
+# Mathematical Equations, Components, and Relationships
+
+Source: RedCollie1 (Dr. Horace Drew), Caltech / MRC LMB Cambridge. Tweets from END_DIR batch 6/7.
+
+---
+
+## Lorentz Body Force Density (MHD)
+
+Source: YAML 1988193077077700816 (referenced tweet — liquid metal channel mechanism)
+
+  f = J × B   [N/m³]
+
+Components:
+  f = body force density vector (N/m³) on the conducting fluid
+  J = current density vector (A/m²) — imposed by DC power supply
+  B = magnetic flux density vector (T) — provided by central disc magnet
+
+Geometry in the device:
+  J directed radially: J = J_r r̂   (outward radial direction in cylindrical coords)
+  B directed axially: B = B_z ẑ   (along rotation axis, from disc magnet)
+
+Cross product:
+  f = J_r B_z (r̂ × ẑ) = −J_r B_z φ̂   (azimuthal direction, drives rotation)
+
+Or equivalently, with inward current:
+  f = J_r B_z φ̂   (positive azimuthal if J inward and B upward)
+
+This is the standard MHD body force in a cylindrical geometry — the operating principle of the electromagnetic pump, the homopolar motor (Faraday wheel), and MHD drives in liquid metal systems.
+
+---
+
+## Radiation Pressure on Cometary Dust — Sunward Tail Anomaly
+
+Source: YAML 2005083489771946473, TXT 3_2005082745282985984.txt
+
+Standard cometary dust tail direction:
+
+  F_rad = (S · A_eff) / c   [N]
+
+Components:
+  F_rad = radiation pressure force (N), directed anti-solar
+  S = solar irradiance at comet's heliocentric distance r: S = L_sun / (4π r²)   [W/m²]
+  L_sun = solar luminosity = 3.828 × 10²⁶ W
+  A_eff = effective cross-sectional area of grain (m²)
+  c = speed of light = 2.998 × 10⁸ m/s
+
+β parameter (ratio of radiation pressure force to gravitational force on a dust grain):
+  β = F_rad / F_grav = (3 L_sun Q_pr) / (16π G M_sun c ρ a)
+
+where:
+  Q_pr = radiation pressure efficiency coefficient (dimensionless)
+  G = gravitational constant = 6.674 × 10⁻¹¹ N·m²/kg²
+  M_sun = solar mass = 1.989 × 10³⁰ kg
+  ρ = grain bulk density (kg/m³)
+  a = grain radius (m)
+
+Grains with β > 1: radiation pressure exceeds gravity — driven strongly anti-solar
+Grains with β < 1: gravity dominates — remain in bound orbit; can appear sunward if orbital geometry produces synchrone/syndyne projection
+
+Drew's anomaly claim: 3I/ATLAS tail is pointing TOWARD the Sun. If this is not a projection artifact (anti-tail/synchrone from Earth crossing the orbital plane), it implies either:
+(a) The tail is not radiation-pressure-driven dust (i.e., not cometary in origin), or
+(b) The ejected material has β << 0 (requires negative effective radiation pressure — not physical for normal dust), or
+(c) It is propulsive exhaust directed anti-motion (i.e., the craft decelerates/accelerates toward the Sun by ejecting mass sunward)
+
+---
+
+## Angular Resolution and Linear Scale Calculation
+
+Source: YAML 1960580782977900911 (note_tweet)
+
+Relationship between angular resolution (arcseconds), distance (km), and linear pixel scale (km/pixel):
+
+  Δx = D · tan(θ) ≈ D · θ   (small angle approximation)
+
+where:
+  Δx = linear scale per pixel (km/pixel)
+  D = distance to target (km)
+  θ = angular resolution per pixel (radians)
+  θ [radians] = θ [arcsec] × (π / 648000) = θ [arcsec] × 4.848 × 10⁻⁶ rad/arcsec
+
+Drew's calculation for JWST at 3I/ATLAS:
+  D ≈ 350 million miles = 350 × 10⁶ × 1.609 km ≈ 5.63 × 10⁸ km
+  θ_JWST_expected = 0.07 arcsec/pixel = 0.07 × 4.848 × 10⁻⁶ rad/pixel = 3.394 × 10⁻⁷ rad/pixel
+  Δx_expected = 5.63 × 10⁸ km × 3.394 × 10⁻⁷ rad/pixel ≈ 191 km/pixel
+
+Drew states expected ≈ 120 km/pixel (using slightly different distance assumption).
+
+Observed coma width in JWST image:
+  Width_coma = 350,000 km (from physical size estimate)
+  N_pixels ≈ 25-30 pixels spanning coma
+  Δx_observed = 350,000 / 27.5 ≈ 12,727 km/pixel (Drew states ~12,000)
+
+Ratio:
+  Resolution_deficit = Δx_observed / Δx_expected = 12,000 / 120 = 100
+
+Effective angular resolution of JWST as observed:
+  θ_effective = Δx_observed / D = 12,000 / (5.63 × 10⁸) = 2.131 × 10⁻⁵ rad
+  θ_effective [arcsec] = 2.131 × 10⁻⁵ / 4.848 × 10⁻⁶ ≈ 4.4 arcsec/pixel
+
+Drew states the effective resolution seen in slide 3 is about 7 arcsec/pixel (this difference from the above is likely due to different pixel count assumptions). He also states SPHERE-X resolution is 6.2 arcsec/pixel and notes the JWST effective and SPHERE-X values match, used as a cross-check.
+
+Conclusion stated: JWST observed resolution ≈ 100× worse than its nominal specification for 3I/ATLAS.
+
+---
+
+## Telescope Comparison Table (from note_tweet)
+
+  Instrument      | Stated resolution (arcsec/pixel)
+  ----------------|---------------------------------
+  Hubble (HST)    | 0.04
+  JWST (expected) | 0.07
+  SPHERE-X        | 6.2
+  JWST (effective, observed on 3I/ATLAS) | ~7.0 (Drew) / ~4.4 (calc)
+
+Hubble vs. SPHERE-X linear resolution ratio at same distance:
+  Ratio = 6.2 / 0.04 = 155
+
+Drew states: "The Hubble image of slide 1 has a resolution of 0.04 arcseconds per pixel, or 150 to 200 times better than slides 2 or 3, so the pixels there are very small (tiny) by comparison." — consistent with the 155× ratio calculated above.
+
+---
+
+## 3-Phase Rotating Magnetic Field — Vector Sum Mathematics
+
+Source: YAML 1988193077077700816 (referenced tweet — "3-phase magnetism" added to system)
+
+Three-phase AC produces three sinusoidal magnetic fields 120° apart in both space and time:
+
+  B_1(t) = B_m cos(ωt) x̂
+  B_2(t) = B_m cos(ωt - 2π/3) · (−(1/2)x̂ + (√3/2)ŷ)
+  B_3(t) = B_m cos(ωt - 4π/3) · (−(1/2)x̂ − (√3/2)ŷ)
+
+Vector sum:
+  B_total(t) = B_m [cos(ωt) x̂ + cos(ωt−2π/3)(−(1/2)x̂+(√3/2)ŷ) + cos(ωt−4π/3)(−(1/2)x̂−(√3/2)ŷ)]
+
+Expanding (using trig identities):
+  x-component: B_m [cos(ωt) − (1/2)cos(ωt−2π/3) − (1/2)cos(ωt−4π/3)]
+  = B_m · (3/2) cos(ωt)   ... after applying sum-to-product identities
+
+  y-component: B_m [(√3/2)cos(ωt−2π/3) − (√3/2)cos(ωt−4π/3)]
+  = B_m · (3/2) sin(ωt)   ... after applying sum-to-product identities
+
+Result:
+  B_total(t) = (3/2) B_m [cos(ωt) x̂ + sin(ωt) ŷ]
+
+Magnitude: |B_total| = (3/2) B_m = constant
+Direction: rotates in the XY plane at angular frequency ω
+
+This is the standard result for a balanced three-phase winding: the resultant magnetic field has constant amplitude (3/2)B_m and rotates uniformly at ω rad/s. This rotating field is superimposed on the self-excited dynamo field from the spinning liquid metal in Drew's device.
+
+---
+
+## Crabwood 2002 Crop Picture — Binary ASCII Encoding (Mathematical/Code Structure)
+
+Source: YAML 1926949893098135770 (linked article: cropcircleconnector.com/anasazi/time2007n.html description)
+
+Article title: "The binary-ASCII code from Crabwood 2002: a second message embedded somewhere?"
+
+Mathematical structure described:
+* Crop picture encodes a "1368-digit string of zeros [and ones]"
+* Encoding format: 8-bit binary ASCII
+* The 1368-bit string → 1368/8 = 171 ASCII characters
+* The pattern is arranged as a "spiral compact disc" — a spiral arrangement of binary digits (0/1 encoded as thick/thin regions in the crop pattern)
+* Drew references "double 8-bit ASCII" encoding in some crop formations
+
+Relevance: Drew treats this as mathematical/coding evidence of non-human intelligence. The specific claim: a 1368-bit message encoded in 8-bit ASCII, arranged spirally, constitutes information-theoretic evidence beyond human agricultural capabilities. No new physics equations are present in this specific mathematical claim, but the 8-bit/1368-digit structure is documented.
+
+---
+
+## Babylonian Star Path Declination — Astronomical Angular Coordinate
+
+Source: YAML 1937716500582007245 (note_tweet)
+
+Drew references Babylonian astronomical classification:
+* "Path of Enlil": stars with declination > +17° North
+* "Path of Anu": stars with declination between −17° S and +17° N
+* "Path of Ea": stars with declination < −17° South
+
+These are angular boundaries in the equatorial coordinate system:
+  δ_Enlil > +17°
+  −17° ≤ δ_Anu ≤ +17°
+  δ_Ea < −17°
+
+Drew proposes using these as a key to decode crop pictures drawn in Italy (2011 and 2025), by overlaying the crop patterns onto star maps of Earth's northern or southern hemispheres at the appropriate declination ranges.
+
+Mathematical method proposed:
+* "Program each kind of crop-drawn star-pattern (or their overlap) into a computer"
+* Perform a "rotation search" — systematically rotate the pattern to find a match to real star maps
+* Drew explicitly names the analogous crystallographic technique: "In x-ray crystallography, they call this a 'rotation-translation search'"
+
+The rotation-translation search in x-ray crystallography: used in molecular replacement to find the orientation and position of a known protein structure within an unknown crystal unit cell, by searching over SO(3) (rotation group in 3D) and R³ (translation space) for maximal correlation of Patterson function peaks. Drew proposes applying the equivalent computational search to match crop patterns to sky survey data.
+
+---
+
+## Velocity of 3I/ATLAS
+
+Source: YAML 1956696735406821652
+
+Stated: 130,000 mph
+
+Conversions:
+  130,000 mph × 1609.34 m/mile × (1/3600) s/hour
+  = 130,000 × 447.04 m/s
+  = 58,115 m/s
+  ≈ 58.1 km/s
+  ≈ 1.94 × 10⁻⁴ c
+
+Solar system escape velocity at 1 AU:
+  v_esc = √(2GM_sun/r) = √(2 × 6.674×10⁻¹¹ × 1.989×10³⁰ / 1.496×10¹¹)
+  = √(2 × 1.327×10²⁰ / 1.496×10¹¹)
+  = √(1.774×10⁹)
+  ≈ 42,124 m/s = 42.1 km/s
+
+Since 58.1 km/s > 42.1 km/s, the object is on a hyperbolic trajectory relative to the Sun — consistent with an interstellar origin (v_∞ = √(58.1² − 42.1²) = √(3375.6 − 1772.4) = √1603.2 ≈ 40.0 km/s hyperbolic excess velocity at 1 AU).
+
+---
+
+## Mayan Calendar Arithmetic (Drew's Teaching Exercise)
+
+Source: YAML 1941802091842003143 (note_tweet)
+
+Drew states:
+  "Quetzal promised in 2009 that he would return / show his face on the 5th year of a new Mayan calendar, on a solar eclipse in (2012 + 5) = 2017."
+  "The solar eclipse was on August 17, 2017."
+  "8 + 9 little bars = 17 bars in total, left and right just below his bearded face."
+
+Mathematical structure:
+  New Mayan calendar epoch: 2012 (end of 13th b'ak'tun, December 21, 2012)
+  5th year after: 2012 + 5 = 2017
+  Bar count: 8 + 9 = 17
+  Date: August 17, 2017 (month 8, day 17)
+  August = month 8; day 17 → solar eclipse at that date
+
+This is presented as a numerological/calendar correspondence, not a physics equation.

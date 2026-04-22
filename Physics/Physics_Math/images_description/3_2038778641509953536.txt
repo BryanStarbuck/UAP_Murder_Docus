@@ -1,0 +1,49 @@
+TYPE: Annotated schematic diagram — 3-phase generator cross-section with labeled satellite coil circles, blue and red ring indicators, and pointer lines. White background. A new VARIANT of the circular generator cross-section diagram series — this version shows 8 satellite circles (not 12) with both "3 wire coils" and "6 wire coils" labels, and a BLUE outer ring + RED inner ring + downward-V indicator.
+
+CONTENT SUMMARY:
+
+LAYOUT: Landscape-format diagram on white background. Centered: a large circular bullseye (3 concentric rings: blue outer, white middle, red inner) with black fill. Surrounding the bullseye: 8 satellite circles (medium and small pairs) at regular angular intervals. Green pointer lines from upper-center. Text labels in red and blue.
+
+CENTRAL BULLSEYE STRUCTURE:
+* OUTERMOST ELEMENT: A thick BLACK annular ring (the widest of the three rings) — the stator housing/winding body
+* BLUE RING: A BLUE circle line (thin ring) just inside the outer boundary of the black ring — this is the STATOR OUTER BOUNDARY INDICATOR (blue = upper disc or stator field boundary)
+* WHITE ANNULAR BAND: Between the blue ring and the inner red ring — a white/light gap zone representing the air gap between stator and rotor
+* RED RING: A RED circle line inside the white band — this is the ROTOR OUTER BOUNDARY INDICATOR (red = the rotor field boundary / the rotating magnet ring)
+* BLACK CENTRAL DISC: A large black-filled central circle (approximately 30-35% of the total bullseye diameter) — the rotor hub
+* DOWNWARD V INDICATOR: Within the black central disc: a thin GREEN downward-pointing "V" or chevron symbol (approximately 25% of the disc diameter) — this is the instantaneous current direction indicator (downward V = current flowing inward/toward viewer or converging field lines)
+
+SATELLITE CIRCLES (8 total, at 45° intervals):
+* 8 satellite circles arranged around the central bullseye at approximately 45° spacing (not 12 at 30°, as in some other versions)
+* The arrangement follows: 4 LARGE CIRCLES at the cardinal positions (12, 3, 6, 9 o'clock) + 4 SMALL DOTS at the intercardinal positions (1:30, 4:30, 7:30, 10:30) BUT the actual arrangement visible is:
+  - TOP: 1 large circle + 1 medium circle + 1 very small dot (3 elements stacked vertically)
+  - LEFT: 1 large circle + 1 small dot (2 elements)
+  - RIGHT: 1 large circle + 1 small dot (2 elements)
+  - BOTTOM: 1 large circle + 1 medium circle + 1 very small dot (3 elements stacked vertically)
+  - This creates an approximately 8-element total arrangement
+* All satellite circles appear as solid black filled discs (no internal structure)
+* The large satellites appear to be approximately 20-25% of the central bullseye diameter
+
+POINTER LINES (green):
+* Two green lines originate from the upper-center of the image (approximately from the top satellite circle cluster)
+* One green line goes down-left to the center of the bullseye
+* One green line goes down-right to the center of the bullseye
+* The two lines converge at the center, forming a downward V shape (consistent with the green V indicator inside the central disc)
+* These pointer lines indicate which elements are being labeled (the satellites → "3 wire coils" or "6 wire coils")
+
+LABELS (verbatim):
+* UPPER-LEFT: "3 wire coils" — RED text, pointing toward the upper satellite circles (via the left green pointer line)
+* UPPER-RIGHT: "3-phase / rotating magnetic / field U-V-W" — RED text, pointing toward the upper satellite circles (via the right green pointer line)
+* LOWER-LEFT: "6 wire coils" — BLUE text, positioned in the lower-left area
+* LOWER-RIGHT: "3-phase / rotating magnetic / field U-V-W-U-V-W" — BLUE text, positioned in the lower-right area
+
+PHYSICS INTERPRETATION:
+* This diagram shows TWO LEVELS OF STATOR CONFIGURATION:
+  - "3 wire coils U-V-W" (red) = a simple 3-phase stator with 3 wire coils (one coil per phase): this is the basic 3-pole, 3-phase configuration; only the upper satellite circle cluster (3 elements = U, V, W) represents this configuration
+  - "6 wire coils U-V-W-U-V-W" (blue) = a 6-phase or 6-pole stator with 6 wire coils (two coils per phase × 3 phases): this is the full 6-pole, 3-phase configuration (2 poles per phase = doubled-up stator); all 6 of the larger satellite circles (at positions around the ring) represent this configuration
+  - The naming U-V-W vs. U-V-W-U-V-W indicates that the 6-coil version repeats each phase designation, meaning the 6 poles are wired with each phase appearing twice (at 0°/180°, 60°/240°, 120°/300° for U/U, V/V, W/W respectively)
+* BLUE RING = marks the stator inner boundary (the boundary of the stator winding body that faces the rotor)
+* RED RING = marks the rotor outer boundary (the boundary of the spinning magnet ring)
+* GREEN V INDICATOR = the instantaneous current direction at the moment captured (downward V = both current vectors pointing inward/converging at center, indicating maximum flux at that instant)
+* This diagram is a cleaner version compared to 3_2034570079921430528 (which had 4 caret symbols) and 3_2030945182859104256 (which had green pointer lines but no colored rings)
+
+OVERALL COMMUNICATION: Annotated schematic diagram (landscape format, white background) showing a circular generator cross-section: central bullseye (black outer thick ring → blue thin ring → white air-gap band → red thin ring → black central disc with green downward-V), surrounded by 8 satellite black circles at approximately 45° intervals (3 stacked at top, 2 at sides, 3 stacked at bottom). Two green V-shaped pointer lines converge from the top satellite cluster to the central V indicator. Labels: "3 wire coils" (red, upper-left) + "3-phase rotating magnetic field U-V-W" (red, upper-right) + "6 wire coils" (blue, lower-left) + "3-phase rotating magnetic field U-V-W-U-V-W" (blue, lower-right). Encodes two stator configurations: 3-pole (upper, red) vs. 6-pole doubled (lower, blue); blue ring = stator inner boundary; red ring = rotor outer boundary.

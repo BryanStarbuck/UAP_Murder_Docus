@@ -1,0 +1,55 @@
+Type: 3D orbital diagram / solar system simulation screenshot — showing the trajectory of C/2025 N1 (ATLAS) (3I/ATLAS) through the inner solar system as of November 22, 2025 UTC.
+
+Overall Image:
+* Black background with a faint grey grid (solar system plane / ecliptic grid).
+* Perspective view showing the solar system from slightly above and to the side (not purely top-down) — a 3/4 perspective isometric view.
+* The image appears to be from a solar system simulator software (e.g., JPL Horizons, Stellarium, or a custom orbital visualization tool).
+
+Bodies and Orbits (with colors):
+* Colored elliptical orbital rings:
+  - MAGENTA/PINK (innermost small ring): Mercury's orbit
+  - YELLOW/GREEN ring: The Sun position (labeled "Sun" in magenta-pink text)
+  - MAGENTA labels: "Mercury" and "Sun" labels (magenta/pink text)
+  - CYAN/LIGHT BLUE ring: Earth's orbit (labeled "Earth" in cyan)
+  - RED ring: Mars's orbit (labeled "Mars" in red/orange)
+  - ORANGE large ring: Jupiter's orbit (labeled "Jupiter" in orange/yellow, at top)
+  - PURPLE/VIOLET ring: Possibly Venus's orbit
+* Planet positions shown as small white dots at their November 22, 2025 positions:
+  - Earth (at top of cyan ring)
+  - Venus (labeled, visible)
+  - Mercury (labeled, visible)
+  - Mars (at bottom of red ring)
+  - Jupiter (at top of frame)
+
+C/2025 N1 (ATLAS) Trajectory:
+* A GREY diagonal line crossing the planetary orbital plane from upper-right to lower-left — the hyperbolic trajectory of 3I/ATLAS.
+* The trajectory is inclined at a steep angle relative to the ecliptic plane.
+* The object is labeled "C/2025 N1 (ATLAS)" in white text near its current position.
+* At the shown epoch (2025-11-22), the object is between Mars's and Earth's orbits — inside the asteroid belt.
+
+Technical Annotations (lower-left, white text):
+* "C/2025 N1 (ATLAS)"
+* "Earth Distance: 2.02 au"
+* "Sun Distance: 1.604 au"
+* "2025-11-22 00:00 UTC"
+
+Physical Interpretation:
+* At 2025-11-22 00:00 UTC: 3I/ATLAS was 1.604 AU from the Sun (between Mars at ~1.52 AU and Jupiter at ~5.2 AU — slightly beyond Mars's orbital distance from the Sun on its outbound leg).
+* Earth distance: 2.02 AU — the object has already passed closest approach to Earth and is moving away.
+* The steeply inclined grey trajectory line (relative to the ecliptic plane) confirms 3I/ATLAS's unusual orbital inclination — a key indicator of its interstellar hyperbolic origin.
+* The trajectory angle and the orbital crossing pattern confirm the object passed through the inner solar system and is now moving outbound.
+
+RC's Contextual Use:
+* RC uses this orbital diagram to document 3I/ATLAS's solar system trajectory at a specific date (November 22, 2025).
+* The formal designation "C/2025 N1 (ATLAS)" confirms the comet's official designation from the IAU.
+* The steep orbital inclination (visible as the steep crossing angle of the grey trajectory line across the nearly-flat orbital plane) is one of the key arguments for interstellar origin — an interstellar object approaches from outside the ecliptic plane at an extreme angle.
+* The Earth Distance (2.02 AU) and Sun Distance (1.604 AU) data provide quantitative measurements at a specific epoch.
+
+Text Visible (complete):
+* "Jupiter," "Earth," "Mercury," "Venus," "Sun," "Mars" (planet labels)
+* "C/2025 N1 (ATLAS)" (object label and caption)
+* "Earth Distance: 2.02 au"
+* "Sun Distance: 1.604 au"
+* "2025-11-22 00:00 UTC"
+
+Summary: Solar system 3D orbital simulation screenshot (dated 2025-11-22 00:00 UTC) showing the inner solar system with colored orbital rings (Mercury/magenta, Venus/purple, Earth/cyan, Mars/red, Jupiter/orange), planet positions as white dots, and a grey diagonal hyperbolic trajectory line representing C/2025 N1 (ATLAS) at Earth Distance = 2.02 AU and Sun Distance = 1.604 AU. The steep trajectory inclination relative to the ecliptic plane confirms interstellar origin. RC uses this quantitative orbital data to document 3I/ATLAS's trajectory and position at a specific epoch in its solar system passage.

@@ -1,0 +1,156 @@
+# overall_Math.mdx
+## Mathematical Equations, Their Pieces and Relationships
+### Source batch: tweets/4/5/
+
+---
+
+## Source: 1912108172971790596.yaml / 13_1912105612931932160_video.mdx
+
+### Force on a Magnetic Dipole in a Non-Uniform Field
+
+The fundamental force equation for a magnetic dipole **m** in an external field **B**(**r**):
+
+  **F** = ∇(**m** · **B**)
+
+Component form:
+  F_x = m_x (∂B_x/∂x) + m_y (∂B_y/∂x) + m_z (∂B_z/∂x)
+  F_y = m_x (∂B_x/∂y) + m_y (∂B_y/∂y) + m_z (∂B_z/∂y)
+  F_z = m_x (∂B_x/∂z) + m_y (∂B_y/∂z) + m_z (∂B_z/∂z)
+
+For the XY-plane rotating field configuration (field primarily in the XY plane, with the coils generating the field at three 120° positions), the dominant gradient structure is:
+  ∂B_x/∂z ≠ 0 (field falls off along Z as distance from coil plane increases)
+  ∂B_z/∂z ≠ 0 (axial component varies with Z)
+
+When **m** is aligned along +Z (South pole up, with the convention that South = field enters = −Z dipole direction in the standard notation, but Drew uses the observational convention that South-up produces force):
+  F_z = m_z (∂B_z/∂z) + m_x (∂B_x/∂z) + m_y (∂B_y/∂z)
+
+For the time-averaged rotating field, ⟨m_x⟩ = ⟨m_y⟩ = 0 (the transverse components average to zero over one rotation cycle if the magnet co-rotates with the field, or if we average over many cycles). Therefore:
+  ⟨F_z⟩ = m_z ⟨∂B_z/∂z⟩
+
+The sign and magnitude of ⟨F_z⟩ then depends on the sign of m_z and the sign of ⟨∂B_z/∂z⟩ at the magnet's axial position. Drew's observation that South-up (m_z < 0 in the standard convention where North pole = +m direction) produces upward force (F_z > 0) requires ⟨∂B_z/∂z⟩ < 0, i.e., the axial B-field component decreases with increasing Z at the magnet's location, which is physically correct for a finite coil region where |B| peaks at the coil plane and falls off above it.
+
+### Kelvin Force Density on a Magnetized Body
+
+The body force density on a magnetized medium in an applied field:
+  **f** = μ₀ (**M** · ∇)**H**
+
+where **M** is the magnetization vector (A/m) and **H** is the applied magnetic field intensity (A/m). For a permanent magnet with uniform magnetization M₀ along Z:
+  f_z = μ₀ M₀ (∂H_z/∂z)
+
+Net axial force on the magnet:
+  F_z = μ₀ M₀ ∫_V (∂H_z/∂z) dV
+
+This integral is non-zero when ∂H_z/∂z ≠ 0 over the magnet volume — i.e., when the field is non-uniform along Z. The sign depends on the orientation of M₀.
+
+### Experimental Geometry — Key Dimensions
+
+| Parameter | Value | Units |
+|---|---|---|
+| Magnet outer diameter | 100 | mm |
+| Magnet central hole diameter | 13 | mm |
+| Rod diameter | 8 | mm |
+| Coil arrangement | 120° apart | degrees |
+| Drive current phases | 3 (U, V, W) | — |
+| Phase angle between currents | 120° | degrees |
+
+---
+
+## Source: 1926033764892774631.yaml (note_tweet)
+
+### Rest Mass Energy and Electron Wave Motion
+
+  E = mc²
+
+- E: rest mass energy (J)
+- m: rest mass (kg); for electron m_e = 9.109 × 10⁻³¹ kg
+- c: speed of light = 2.998 × 10⁸ m/s
+- E_electron = m_e c² = 8.187 × 10⁻¹⁴ J = 0.511 MeV
+
+Drew associates this energy with the perpetual wave motion of the electron in 4D spacetime. Related Zitterbewegung frequency:
+  ω_zbw = 2m_e c²/ℏ = 2 × 8.187 × 10⁻¹⁴ / (1.055 × 10⁻³⁴) ≈ 1.553 × 10²¹ rad/s
+
+The de Broglie internal frequency in the rest frame:
+  ν₀ = m_e c²/h = 8.187 × 10⁻¹⁴ / (6.626 × 10⁻³⁴) ≈ 1.236 × 10²⁰ Hz
+
+### Lorentz Transformation of Electromagnetic Field
+
+For an electron moving with velocity **v** = v_x x̂ through a region with fields (E₀, B₀) in the lab frame, the transformed fields in the electron rest frame are (to first order in v/c):
+  E'_⊥ = γ(E_⊥ + v × B₀)
+  B'_⊥ = γ(B₀ - v × E₀/c²)
+  E'_∥ = E_∥
+  B'_∥ = B_∥
+  γ = 1/√(1 - v²/c²)
+
+Drew's statement that "magnetism was always there in 4D" corresponds to the observation that for an electron at rest (v = 0), B'_⊥ = B₀ = 0 in the lab frame (no magnetic field from stationary charge), but the 4D field tensor F_μν:
+  F_μν = ∂_μ A_ν − ∂_ν A_μ
+contains both E and B as components:
+  F_0i = E_i/c  (electric components)
+  F_ij = ε_ijk B_k  (magnetic components)
+
+The full tensor F_μν exists in 4D spacetime regardless of the observer frame; only the split into E and B components is frame-dependent. This is what Drew means when he says the magnetic field was "always there in 4D."
+
+---
+
+## Source: 2036194828409786500.yaml (note_tweet) / 13_2036192068780048384_video.mdx
+
+### Six-Coil Device Electrical and Mechanical Parameters
+
+**Electrical parameters:**
+  V_supply = 240 V (three-phase)
+  R_per_circuit = 25 + 25 = 50 Ω (two coils in series)
+  I_per_circuit = V/R ≈ 240/50 = 4.8 A
+  P_per_circuit = I²R = (4.8)² × 50 = 1152 W
+  Drive frequency range: f = 6 Hz to 17 Hz demonstrated
+
+**Rotating field angular velocity:**
+  ω_field = 2πf
+  At 6 Hz: ω = 37.7 rad/s (360 rpm)
+  At 17 Hz: ω = 106.8 rad/s (1020 rpm)
+
+**Magnet dimensions (central, inner rotor):**
+  d_inner = 70 mm diameter, 14 mm hole, on 8 mm SS rod
+
+**Outer ring magnets:**
+  N_magnets = 8
+  d_each = 30 mm diameter
+  Polarity pattern: NSNSNSNS (alternating, 4 NS pairs)
+  Bearing: zirconia (ZrO₂), 90 mm bore, non-magnetic
+
+**Angular momentum of spinning magnet:**
+  I = (1/2) m r² (solid disc approximation, ring magnet corrections negligible to order of magnitude)
+  For m ≈ 0.2 kg (estimate for 70 mm magnet), r = 35 mm:
+  I ≈ (1/2)(0.2)(0.035)² = 1.225 × 10⁻⁴ kg·m²
+  At ω = 100 rad/s: L = Iω ≈ 0.012 kg·m²/s
+
+**Gyroscopic torque resisting precession:**
+  τ_gyro = L × Ω = Iω × Ω_precession
+  For sustained axial orientation, τ_external (gravity, field) must be ≪ τ_gyro
+
+### Maxwell Stress Tensor (Between Counter-Rotating Discs)
+
+For two counter-rotating magnetic discs, the Maxwell stress tensor in the gap between them:
+  T_ij = (1/μ₀)[B_i B_j - (1/2)δ_ij B²] + ε₀[E_i E_j - (1/2)δ_ij E²]
+
+The net axial force per unit area on a surface normal to Z:
+  P_z = T_zz = (1/μ₀)(B_z² - B_x² - B_y²)/2 + (1/μ₀)B_z² − ...
+  = (1/2μ₀)(B_z² - B_x² - B_y²)
+
+For the counter-rotating disc geometry, the time-averaged B field in the gap has contributions from both discs. If the two discs spin at equal rates but opposite directions, their azimuthal field components tend to cancel in the time average (⟨B_φ⟩ → 0), while the axial component B_z from the static dipole moments partially reinforces. This modifies T_zz compared to a single-rotating disc, potentially creating a net axial momentum flux in the field that constitutes an effective force on the disc assembly.
+
+---
+
+## Source: 1932035677379854658.yaml (note_tweet)
+
+### Conservation of Momentum in a Closed System (The Scale Measurement)
+
+For a closed mechanical system of total mass M in a gravitational field g:
+  F_net_external = Mg (weight, always measured by a scale)
+  Sum of all internal forces = 0 (Newton's Third Law, closed system)
+
+The internal magnetic levitation force F_lev on the magnet is balanced by an equal and opposite force on the coil assembly:
+  F_lev_on_magnet = −F_reaction_on_coils
+
+So the scale reads:
+  F_scale = M_total × g = (M_magnet + M_coils + M_frame) × g
+
+regardless of the state of internal levitation. Drew confirms this exactly: "there is no NET loss of gravity weight." The mathematical challenge for propulsion is to find a configuration where F_net_external ≠ Mg — i.e., where the field couples to something external to the device boundary (vacuum field, spacetime metric, external mass distribution).

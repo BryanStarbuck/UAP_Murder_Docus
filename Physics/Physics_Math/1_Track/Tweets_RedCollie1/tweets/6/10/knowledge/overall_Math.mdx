@@ -1,0 +1,253 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets and experimental videos, batch 6/10
+
+---
+
+## 1. Lorentz Force Body Density — Governing Equation of Liquid Metal Vortex
+
+f = J x B  [N/m^3]
+
+Components in cylindrical coordinates (r, phi, z) for the galinstan vortex experiment:
+- J = J_r * r_hat  (radial current from inner to outer electrode)
+- B = B_z * z_hat  (axial field from permanent magnet below)
+- f = J_r * r_hat x B_z * z_hat = J_r * B_z * (r_hat x z_hat) = -J_r * B_z * phi_hat
+
+Result: pure azimuthal (swirling) body force. Sign determines CW vs CCW rotation.
+
+Reversals:
+- J_r -> -J_r (swap DC polarity): f_phi reverses
+- B_z -> -B_z (flip magnet): f_phi reverses
+- Both reversed: f_phi unchanged (double negation)
+
+Confirmed experimentally (transcription 13_1966038196808200193).
+
+---
+
+## 2. Electrical Input Power
+
+P = V * I  [W]
+
+From experiment:
+I ~ 100 A (DC), V ~ "a few volts" (2-5 V estimate)
+P_estimate ~ 200 - 500 W
+
+Galinstan properties:
+- Density: rho = 6440 kg/m^3
+- Electrical conductivity: sigma = 3.46 x 10^6 S/m (at 20 C)
+- Kinematic viscosity: nu ~ 3.73 x 10^-7 m^2/s
+- Melting point: T_m = -19 C (liquid at room temperature)
+
+---
+
+## 3. Eddy Current Braking (Lenz's Law) — Spinning Disc Above Magnet
+
+For a conducting disc (radius R, thickness t, conductivity sigma_disc) rotating at angular velocity omega above a permanent magnet of field B_z:
+
+Induced EMF in an annular ring at radius r, width dr:
+d(epsilon) = B_z * omega * r * dr  [V/m path]
+
+Eddy current density in thin disc approximation:
+j_eddy(r) ~ sigma_disc * B_z * omega * r / 2  [A/m^2]
+
+Ohmic dissipation per unit volume:
+p = j_eddy^2 / sigma_disc = (sigma_disc * B_z^2 * omega^2 * r^2) / 4  [W/m^3]
+
+Total braking torque (integrated over disc area, approximate):
+tau_brake ~ -pi * sigma_disc * t * B_z^2 * omega * R^4 / 8  [N*m]
+
+This is the standard Lenz's law braking result: torque proportional to omega, B^2, and disc conductivity/geometry.
+
+From setup (preview 13_1913946810210746368_preview.txt):
+- Disc material: copper-colored (copper or copper-clad, sigma_Cu = 5.96 x 10^7 S/m)
+- Magnet: neodymium cube, marked "N" upward; B_z at surface typically 0.3-0.5 T for small neodymium cubes
+
+---
+
+## 4. Faraday Disc (Homopolar Motor) — Reference Equations
+
+Torque on homopolar motor:
+tau = B * I * (R_outer^2 - R_inner^2) / 2  [N*m]
+
+where B = axial magnetic field (T), I = radial current (A), R_outer and R_inner = disc outer and inner radii (m)
+
+EMF generated (generator mode):
+EMF = B * omega * (R_outer^2 - R_inner^2) / 2  [V]
+
+Power:
+P_mechanical = tau * omega = EMF * I  [W]
+
+This is the classical reference device (Faraday disc, 1831) for azimuthal electromagnetic torque from radial current + axial field — the exact same J x B geometry as the galinstan vortex, but in solid conductor form (Roobert33 device, preview 13_1922666128960356352_preview.txt).
+
+---
+
+## 5. Counter-Rotating Flywheel Angular Momentum Balance
+
+For a system with outer flywheel (moment of inertia I_outer, angular velocity omega_outer, direction -z_hat) and inner rotor (moment of inertia I_inner, angular velocity omega_inner, direction +z_hat):
+
+L_outer = -I_outer * omega_outer * z_hat
+L_inner = +I_inner * omega_inner * z_hat
+L_total = (I_inner * omega_inner - I_outer * omega_outer) * z_hat
+
+For angular momentum cancellation: I_inner * omega_inner = I_outer * omega_outer
+
+For a disc: I = (1/2) * m * R^2
+
+From transcription (13_2020784923054112768_video.mdx):
+Observed spin frequency: f = 40-50 Hz
+omega = 2*pi*f = 251-314 rad/s
+
+If the outer flywheel has mass m_o, radius R_o and the inner has mass m_i, radius R_i:
+Balance condition: (1/2)*m_i*R_i^2*omega_i = (1/2)*m_o*R_o^2*omega_o
+-> m_i*R_i^2*omega_i = m_o*R_o^2*omega_o
+
+The net gyroscopic torque on the apparatus from an external rotation Omega:
+tau_gyro = L_total x Omega = (L_net) * Omega * sin(theta)
+If L_total = 0, tau_gyro = 0 — no gyroscopic precession coupling, regardless of external rotation.
+
+---
+
+## 6. Stator Field Spatial Harmonics — Classical Explanation Candidate for Counter-Rotation
+
+A 3-phase, 6-coil stator wound for p=1 pole pair produces a fundamental rotating field at frequency f rotating in the +phi direction. The field also contains spatial harmonics of order n = 6k +/- 1 for k = 1, 2, 3, ...
+
+For k=1: 5th harmonic (n=5) rotates at -f/5 (backward, CW for CCW fundamental), 7th harmonic (n=7) rotates at +f/7 (forward)
+
+The 5th harmonic rotating field can drive a conducting rotor (outer ring) in the CW direction while the fundamental drives the inner rotor CCW. The slip of each rotor element relative to its driving harmonic determines the operating speed.
+
+Slip for fundamental drive of inner rotor:
+s_1 = (omega_sync_1 - omega_rotor) / omega_sync_1
+where omega_sync_1 = 2*pi*f (for p=1)
+
+Slip for 5th harmonic drive of outer element:
+s_5 = (omega_sync_5 - omega_outer) / omega_sync_5
+where omega_sync_5 = -2*pi*f/5 (backward, so magnitude -omega/5)
+
+This is the standard harmonic analysis taught in electrical machine theory. The experimenter claims this analysis does not explain the observed counter-rotation, stating it "violates EVERYTHING they teach in school."
+
+---
+
+## 7. 3I/ATLAS Jet Velocity Calculation
+
+Observed:
+- Jet expansion: 3 x 10^6 km in 24 hours
+
+Velocity:
+v = d/t = (3 x 10^9 m) / (86400 s) = 34,722 m/s = 34.7 km/s
+
+Comparison values:
+- Chemical rocket exhaust velocity (LOX/LH2): v_e ~ 4.4 km/s (Isp ~ 450 s, v_e = g_0 * Isp)
+- Ion thruster (Xenon Hall thruster): v_e ~ 30-80 km/s
+- Natural cometary outgassing: v_th = sqrt(2kT/m_H2O) at T=200K:
+  k = 1.38 x 10^-23 J/K, m_H2O = 3.0 x 10^-26 kg
+  v_th = sqrt(2 * 1.38e-23 * 200 / 3.0e-26) = sqrt(1.84 x 10^5) = 429 m/s ~ 0.43 km/s
+
+Ratio: observed (35 km/s) / natural maximum (1 km/s) ~ 35x faster than maximum natural outgassing
+
+The "hexagonally balanced" 6-jet geometry implies 60-degree azimuthal symmetry:
+- Each jet at phi = 0, 60, 120, 180, 240, 300 degrees
+- Net lateral momentum: SUM of all 6 jets at equal angles and velocities = 0 (vector cancellation)
+- Net axial thrust (if jets angled off-plane): possible if jets have a z-component
+- A purely azimuthal hexagonal arrangement provides zero net linear impulse — consistent with station-keeping or deceleration of a spinning body without linear acceleration
+
+---
+
+## 8. Water Free Surface Magnetic Pressure
+
+For a diamagnetic fluid (water, chi_m ~ -9 x 10^-6) in a non-uniform magnetic field:
+
+Magnetic pressure on free surface:
+Delta_P = (mu_0/2) * (H_out^2 - H_in^2)  [Pa]
+
+Where H_out and H_in are the field strengths just outside and inside the fluid at the surface.
+
+For a downward-pointing field gradient (field stronger at surface than in bulk):
+Delta_P < 0 (for diamagnetic fluid) → surface depresses inward (downward inverted arch), consistent with observed image (preview 13_1913946853445619712_preview.txt).
+
+Surface depression depth (approximate):
+h = Delta_P / (rho*g) ~ (mu_0 * chi_m * H^2) / (2 * rho * g)
+
+For H ~ 10^4 A/m (0.01 T, weak field) near the surface:
+h ~ (4*pi*10^-7 * 9*10^-6 * 10^8) / (2 * 1000 * 9.8)
+  ~ (4*pi*10^-7 * 9*10^2) / (1.96*10^4)
+  ~ (1.13*10^-3) / (1.96*10^4)
+  ~ 5.8 x 10^-8 m
+
+This would be invisible — the observed clear depression implies either a much stronger field near the surface or a ferrofluid-like enhancement. The submerged metallic object may be creating local field enhancement.
+
+---
+
+## 9. Six-Pointed Star Vector Decomposition
+
+From tweet (id 2031604780431487055):
+"The 6-pointed star showed an 'exploding comet' with +x, -x, +y, -y, +z, -z vectors."
+
+Mathematical content: a 6-pointed star with 6 symmetric rays represents the 6 Cartesian half-axes in 3D space:
+{+x_hat, -x_hat, +y_hat, -y_hat, +z_hat, -z_hat}
+
+This is the set of 6 face-normals of a cube, or equivalently the vertices of a regular octahedron. The "exploding comet" interpretation treats each ray as a jet or ejecta vector, producing a symmetric 3D explosion with:
+- Net linear momentum: SUM = +x-x+y-y+z-z = 0 (zero net momentum — consistent with 3I/ATLAS 6-jet hexagonal observation above)
+- Net angular momentum: zero (for equal-magnitude symmetric jets)
+
+The 10-pointed star (referenced in same tweet):
+"A mathematical person might say that the 10-pointed star will emerge from 5-dimensional spacetime."
+In 5D Euclidean space, the 10 half-axes are: {+e1, -e1, +e2, -e2, +e3, -e3, +e4, -e4, +e5, -e5} — 10 vectors, consistent with a 10-pointed star as a projection of 5D hypercube face-normals into 2D.
+
+This is pure geometric/topological reasoning, not experimentally established physics.
+
+---
+
+## 10. Galinstan Composition and Material Parameters
+
+Galinstan alloy (eutectic Ga-In-Sn):
+- Composition by mass: Ga ~68.5%, In ~21.5%, Sn ~10%
+- Density: rho = 6440 kg/m^3 (at 20 C)
+- Electrical conductivity: sigma = 3.46 x 10^6 S/m
+- Dynamic viscosity: eta ~ 1.37 x 10^-3 Pa*s (water-like, low viscosity)
+- Surface tension: gamma ~ 718 mN/m (much higher than water at 72 mN/m)
+- Toxicity: non-toxic (safe substitute for mercury)
+
+Magnetic Reynolds number (relevant for MHD induction effects):
+Rm = mu_0 * sigma * L * v
+where L = characteristic length scale, v = characteristic velocity
+
+For L ~ 0.05 m, v ~ 0.1 m/s (estimated vortex rim speed):
+Rm = (4*pi*10^-7) * (3.46*10^6) * 0.05 * 0.1 = (4*pi*10^-7) * 1.73*10^4 = 0.022
+
+Rm << 1: inductive effects are negligible; the Lorentz force is dominated by the externally applied DC field, not self-generated MHD fields. This is the low-Rm MHD regime (standard for liquid metals in most laboratory experiments).
+
+---
+
+## 11. Silicon Nitride Ball Bearing — Material Properties
+
+From tweet (id 2043509434383732788):
+"a ceramic, silicon-nitride ball bearing from LILY in Shanghai"
+
+Si3N4 properties relevant to the experiment:
+- Electrical conductivity: sigma ~ 10^-10 S/m (effectively insulating, 16 orders of magnitude less than galinstan)
+- Magnetic susceptibility: chi_m ~ 0 (diamagnetic, essentially non-magnetic)
+- Density: rho = 3200 kg/m^3 (much lighter than steel at 7800 kg/m^3)
+- Hardness: Vickers ~ 1400-1600 HV (harder than steel)
+- Young's modulus: E ~ 300 GPa
+
+The use of Si3N4 as the rotor element eliminates:
+(a) Eddy current coupling to the stator field (sigma ~ 0)
+(b) Magnetic force coupling (chi_m ~ 0)
+(c) What remains: purely mechanical coupling through air pressure, acoustic radiation pressure, or proposed novel field coupling
+
+This makes Si3N4 a "null probe" for conventional EM coupling — any observed rotation of the Si3N4 bearing under the rotating magnetic field would be non-electromagnetic in origin, which is the point of the experiment.
+
+---
+
+## 12. DNA Double Helix and Alpha-Helix — Scientific Methodology Reference
+
+From tweet (id 1978559112029016568, note_tweet):
+"In 1952, Max Perutz in Cambridge read a new proposal by Linus Pauling for the 'alpha-helix' of protein structure. Then he rode home on his bicycle for lunch, and took along some scissors, to cut some hair off the tail of a horse... That afternoon he put the horse-hair in an x-ray beam, and by the next morning had proven that Pauling's proposal was right!"
+"Later that year, Max saw in an MRC Annual Report the famous 'Photograph 51' taken by Rosalind Franklin of 'B' DNA. He showed the photo to his students Watson and Crick, to help them discover the 'double helix'."
+
+Mathematical/structural content referenced:
+- Alpha helix: right-handed helical structure, rise per residue 1.5 A, 3.6 residues per turn, pitch 5.4 A, phi = -57 deg, psi = -47 deg (Ramachandran angles)
+- B-DNA double helix: right-handed, pitch 34 A, 10.5 bp per turn, diameter 20 A, rise per bp 3.4 A
+- X-ray crystallography: Bragg's law: n*lambda = 2*d*sin(theta), where lambda = X-ray wavelength, d = lattice spacing, theta = diffraction angle
+
+This is cited as a methodological model: simple experiments with accessible materials can resolve fundamental structural questions. The analogy to the UFO physics program: simple bench experiments (spinning magnets, liquid metal) may resolve fundamental questions about propulsion physics.

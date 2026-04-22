@@ -1,0 +1,86 @@
+TYPE: Color educational diagram — Faraday disc / homopolar generator top-view schematic showing a rotating spoke wheel with a localized magnetic field (cyan circle), labeled velocity and current vectors, and a connected voltmeter circuit
+
+OVERALL DESCRIPTION:
+A clean color educational diagram on white background showing the top-view (axial view looking down the rotation axis) of a Faraday disc or homopolar generator. The diagram features: a large dashed circle representing the disc perimeter, four spokes (like a wheel or fan), a clockwise rotation arrow on the left, a solid cyan/light-blue filled circle (the magnetic field region, right side of disc), labeled vectors for "wire velocity" (black upward arrow) and "current" (red rightward arrow), a small bullseye symbol indicating the B-field direction (out of page), and a connected voltmeter circuit at the bottom.
+
+IMAGE DIMENSIONS: Approximately 1020 x 1020 pixels (square)
+BACKGROUND: White (#FFFFFF)
+
+MAIN DISC OUTLINE:
+- A large dashed circle representing the rotating disc perimeter
+- Diameter: approximately 740px
+- Style: thin black dashed line (approximately 5-6px dashes, 4-5px gaps)
+- Position: centered in the image (~x=510, y=480)
+
+SPOKES:
+- Four solid black lines (spokes) radiating from the center to the disc perimeter
+- Approximately at 45°, 135°, 225°, 315° (diagonal positions — the spokes form an X pattern rotated 45°)
+- Spoke width: approximately 8-10px
+- The spokes cross at the center point
+
+ROTATION ARROW:
+- A large curved black arrow on the left side of the disc
+- The arrow curves clockwise (from upper-left to lower-left, following the disc perimeter)
+- Arrow tip points downward-left, indicating clockwise rotation (when viewed from above)
+- Position: approximately x=80-250, y=200-600
+
+MAGNETIC FIELD REGION (cyan circle):
+- A solid light-blue/cyan filled circle (#80CCEE or similar pale cyan)
+- Positioned on the right portion of the disc, centered at approximately x=680, y=420
+- Diameter: approximately 260px
+- The cyan region represents the localized magnetic field zone — only part of the disc is exposed to the field
+- Inside the cyan circle: a small bullseye symbol (dot with surrounding circle, ~25px) — indicating the B-field is directed out of the page (toward the viewer)
+
+LABELED VECTORS:
+- "wire velocity" text label with a black upward-pointing arrow (~60px):
+  * Arrow positioned at approximately x=610, y=200-260
+  * Text: "wire velocity" in black, approximately 14pt
+  * The velocity vector is perpendicular to the radius (tangential velocity at that point on the disc)
+
+- "current" text label with a red rightward-pointing arrow (~80px):
+  * Arrow positioned at approximately x=520-600, y=430
+  * Text: "current" in red, approximately 14pt
+  * The current vector points radially outward (from center toward rim) — conventional current direction in generator operation
+
+- "magnetic field" text label in cyan/blue:
+  * Text: "magnetic field" in cyan/blue (~14pt)
+  * Positioned at approximately x=700-880, y=500
+  * Associated with the bullseye symbol inside the cyan circle
+
+PHYSICS VECTORS ANALYSIS:
+- wire velocity v: points upward (tangential, counterclockwise direction for clockwise disc rotation — actually for clockwise rotation, velocity at the rightward position points upward) ✓
+- B field: points out of page (represented by the dot in the bullseye) ✓
+- v × B: the cross product of (upward) × (out of page) = rightward — matching the "current" red arrow pointing right ✓
+- This correctly encodes: the Lorentz force on a positive charge carrier in the wire at this point is F = qv × B = radially outward (to the right at this position), driving conventional current from center to rim — the Faraday disc generator principle
+
+VOLTMETER CIRCUIT:
+- Two vertical black lines descend from the bottom of the disc to a voltmeter box at the bottom
+- Left line: from the center axle area (brush contact at axle)
+- Right line: from the rim area (brush contact at rim)
+- The voltmeter: a small golden/tan square box (~120px × 100px) with:
+  * A semicircular gauge face (white arc with tick marks)
+  * A red needle pointer
+  * Label: "voltmeter" in black text below the box
+- The voltmeter connects the two brush contacts (axle and rim) to measure the generated EMF
+
+COLORS:
+- Background: White (#FFFFFF)
+- Disc outline: Black dashes (#000000)
+- Spokes: Black (#000000)
+- Rotation arrow: Black (#000000)
+- Magnetic field circle: Light cyan (#80CCEE)
+- "current" arrow and text: Red (#CC0000)
+- "wire velocity" arrow: Black (#000000)
+- "magnetic field" text: Cyan (#0099CC)
+- Voltmeter box: Tan/golden (#D0A060)
+- Voltmeter needle: Red (#CC0000)
+
+PHYSICS/SCIENCE RELEVANCE:
+1. This is a top-view (axial) educational diagram of a Faraday disc homopolar generator — the same device documented throughout this crop circle series but shown here in textbook-diagram style
+2. The partial magnetic field (only in the cyan region, not the full disc) illustrates an important variant: the partial-field homopolar generator where only part of the disc is exposed to the magnetic field. This creates a different EMF profile than full-disc exposure
+3. The cross product analysis (v upward × B out of page = current rightward = radially outward) is correct Lorentz force physics
+4. The voltmeter measurement setup shows the two brush contacts required for homopolar generator operation: one at the axle (center) and one at the rim
+5. The spoke wheel representation of the disc (four spokes) is visually similar to crop circle formations that use radial arms — both encode the same physical structure: a conducting disc with symmetrically arranged current paths from center to rim
+6. This diagram is a companion to the Faraday disc top-view diagram in 3_1964933621397262336.jpg (the red X-field, blue circle, green arrow version) — both show the same device from different visual perspectives with different emphasis
+
+SUMMARY: Square color educational diagram (~1020×1020px) on white background. Top-view of Faraday disc homopolar generator. Large dashed black circle (~740px diameter) representing disc perimeter. Four diagonal black spokes (X pattern). Clockwise rotation arrow (left side). Solid cyan circle (~260px, right side) representing localized magnetic field region, containing bullseye (B field out of page). Labeled vectors: black upward "wire velocity" arrow, red rightward "current" arrow, cyan "magnetic field" text. Voltmeter circuit at bottom: two vertical wires from axle and rim brush contacts to tan voltmeter box with red needle. Physics encoding: v × B = current direction correctly demonstrates Faraday disc EMF generation via Lorentz force. Companion to 3_1964933621397262336.jpg (full-disc top-view) and 3_1964819127136403456.jpg (composite with crop circle).

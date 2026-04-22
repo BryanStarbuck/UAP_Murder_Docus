@@ -1,0 +1,65 @@
+CONTENT TYPE: Text document scan / screenshot — a full-text display of the complete Crabwood 2002 binary code message, shown as the raw binary bit stream ("START OF CRABWOOD 2002 BINARY CODE" ... "END OF BINARY CODE") with a small crop circle photograph insert in the upper-right corner and a few decoded character examples on the left.
+
+SUBJECT: A slide presenting the complete Crabwood 2002 binary message in raw binary form. The entire binary stream is shown as a dense wall of "0" and "1" characters and "S" characters (where "S" appears to represent a "space" or separator marker in the encoding), spanning from "START OF CRABWOOD 2002 BINARY CODE" at the upper-left to "END OF BINARY CODE" at the lower-right. The left side shows five decoded characters with their binary values (B = 01000010 = 66, e = 01100101 = 101, w = 01110111 = 119, a = 01100001 = 97, r = 01110010 = 114) spelling "Bewar[e]" — the beginning of "Beware the bearers of false gifts." The upper-right corner contains a small aerial photograph of the Crabwood formation binary disc.
+
+IMAGE CHARACTERISTICS:
+- Landscape format, approximately 640×480 pixels
+- Black background with white and colored text
+- The binary code occupies the majority of the frame in small white text
+- Left column: five decoded character examples in larger text
+- Upper-right: small inset photograph of the Crabwood binary disc
+
+HEADER:
+- "START OF CRABWOOD 2002 BINARY CODE" — in bold white text at top of the binary stream
+
+BINARY CODE BODY:
+- A dense field of 0s, 1s, and Ss occupying the full central/right area of the slide
+- The bit stream is continuous — each row continues from the end of the previous row
+- "S" characters appear periodically and likely represent space characters (ASCII 0010 0000 = 32) or serve as separator/sync markers
+- The total bit count: the Crabwood message contains approximately 1368 characters × 7 or 8 bits ≈ 9,576–10,944 bits visible in the stream
+- Some rows appear bold or italic for sections — possibly indicating different encoding zones or character set changes
+
+FOOTER:
+- "END OF BINARY CODE" — in bold text at the bottom-right of the binary stream
+
+LEFT COLUMN — DECODED CHARACTER EXAMPLES:
+Five decoded characters shown with binary value and decimal:
+- 01000010 = 66 = B
+- 01100101 = 101 = e
+- 01110111 = 119 = w (note: 01110111 = 119 = 'w' in ASCII)
+- 01100001 = 97 = a
+- 01110010 = 114 = r
+
+These five characters spell "Bewar[e]" — the opening of "Beware the bearers of false gifts and their broken promises."
+- Each line shows: the 8-bit binary value, the decimal equivalent, and the ASCII character
+- The encoding appears to use 8-bit (rather than 7-bit) ASCII
+
+UPPER-RIGHT INSERT:
+- A small color aerial photograph of the Crabwood 2002 formation
+- The binary disc element (circular spiral encoding) is the primary visible element
+- Possibly showing the alien face panel as well (if it fits in the small insert frame)
+- This provides visual reference: the binary stream shown in the text below IS the encoding extracted from the circular disc in this photograph
+
+THE CRABWOOD 2002 DECODED MESSAGE:
+The complete decoded text of the Crabwood 2002 binary message (all known decodings):
+"Beware the bearers of false gifts and their broken promises. Much pain but still time. EELRIJUE. There is good out there. We oppose deception. Conduit closing. Bell sound."
+
+Notes on the message:
+- "EELRIJUE" — an apparent non-word sequence in the original decoding; various researchers have proposed different interpretations
+- "Conduit closing" — suggesting the communication channel between crop formation creators and humanity is ending
+- "Bell sound" — possibly referencing the global "Earth ringing like a bell" phenomenon discussed in 3_1958125131118833664.txt
+- The opening "Beware the bearers of false gifts" — specifically targeting entities that offer beneficial technology or gifts but have hidden agendas (interpreted as a warning about the "grey" faction vs. the EMERTHER/Nordic faction)
+
+ENCODING PARAMETERS:
+- 8-bit ASCII (as shown by the left column examples: 8-bit binary values decoding to standard ASCII)
+- Spiral reading direction: from center outward (as shown in the companion diagram 3_1958287554597556224.txt)
+- The binary disc in the formation appears to use alternating raised/laid crop to represent 1s and 0s in a spiral pattern
+
+RELATIONSHIP TO OTHER FILES:
+- Binary disc analysis diagram: 3_1958287554597556224.txt
+- Primary aerial description: 3_1951391179624562689.txt
+- Annotated composite: 3_1951203494880485378.txt
+- Additional aerial: 3_1957604359904329729.txt
+- The decoded message connects to EMERTHER themes: "We oppose deception" (EMERTHER = oppose Orion/grey deception), "Conduit closing" (same as EMERTHER "conduit closing" message fragments)
+
+OVERALL SUMMARY: A slide presenting the complete raw binary bit stream of the Crabwood 2002 binary code from "START OF CRABWOOD 2002 BINARY CODE" to "END OF BINARY CODE," shown as a dense field of 0s, 1s, and S-separators in small white text on black background. The left column decodes the opening five characters: 01000010=66=B, 01100101=101=e, 01110111=119=w, 01100001=97=a, 01110010=114=r → "Bewar[e]" — the first five characters of the message "Beware the bearers of false gifts and their broken promises. Much pain but still time. EELRIJUE. There is good out there. We oppose deception. Conduit closing. Bell sound." A small Crabwood aerial photograph inset occupies the upper-right corner. Encoding: 8-bit ASCII, read spirally from center outward.

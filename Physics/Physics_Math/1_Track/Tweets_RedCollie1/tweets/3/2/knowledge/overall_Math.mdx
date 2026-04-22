@@ -1,0 +1,235 @@
+# overall_Math.mdx
+# Mathematical Equations, Their Pieces and Relationships
+# Exact equations preserved. XY and Z-axis dynamics.
+# Source batch: tweets/3/2/
+
+---
+
+## Section: 1920046729539571840.yaml / note_tweet.text
+
+### Angular Momentum and Gyroscopic Precession Equations
+
+**Angular momentum of a symmetric rigid rotor:**
+L = I₃ω₃ ê₃
+
+where:
+- I₃ = axial moment of inertia (about spin axis)
+- ω₃ = angular velocity about spin axis (spin rate)
+- ê₃ = unit vector along spin axis
+
+**Torque from gravity on a precessing gyroscope:**
+τ = r_cm × F_gravity = r × (−Mg ẑ)
+
+In polar form for tilt angle θ from vertical:
+|τ| = Mgr sin(θ)
+Direction: horizontal, perpendicular to the plane containing L and ẑ
+
+**Precession rate (Euler):**
+Ω_p = |τ|/(|L| sin θ) = Mgr/(I₃ω₃)
+
+Note: Ω_p is independent of tilt angle θ (cancels). This is the steady-state
+result for fast spin (gyroscopic approximation: I₃ω₃ >> I₁Ω_p).
+
+**Nutation (small oscillations superimposed on precession):**
+Θ̈ + [(I₃ω₃/I₁)² - (Mgr/I₁)cos θ_0] · (θ - θ_0) = 0
+
+Nutation frequency: ω_nut ≈ I₃ω₃/I₁ (for fast top)
+
+**Laithwaite anomaly claim (experimental, not derivable from above):**
+d(p_total)/dt ≠ F_applied - F_gravity during gyroscope rise
+i.e., momentum is NOT conserved in the standard form when the gyroscope rises.
+This is the claimed deviation from Newton's 2nd Law for the composite system.
+
+Vector check that Drew invites: Compute all force vectors during the lift:
+F_hand_up + F_gravity + F_reaction = m·a_gyro + m_body·a_body
+
+If F_reaction ≈ 0 (Laithwaite's claim), then:
+F_hand_up + F_gravity = m·a_gyro only
+→ F_hand_up = m(a_gyro + g)
+
+The controversy: Laithwaite claimed F_hand_up was LESS than m(a_gyro + g),
+implying the gyroscope was lighter than expected. This has not been reproduced
+under controlled conditions with strain gauge measurement.
+
+---
+
+## Section: 1936372682729332911.yaml / referenced_tweets[].text + video transcription
+
+### 3-Phase Rotating Magnetic Field: Mathematical Structure
+
+**3-phase current set (120° phase displacement):**
+I_A(t) = I₀ cos(ωt)
+I_B(t) = I₀ cos(ωt - 2π/3)
+I_C(t) = I₀ cos(ωt - 4π/3)
+
+**Resulting field from coils at 0°, 120°, 240° azimuth:**
+B_x(t) = B₁[cos(ωt)·cos(0°) + cos(ωt - 2π/3)·cos(120°) + cos(ωt - 4π/3)·cos(240°)]
+        = B₁ · (3/2) cos(ωt)
+
+B_y(t) = B₁[cos(ωt)·sin(0°) + cos(ωt - 2π/3)·sin(120°) + cos(ωt - 4π/3)·sin(240°)]
+        = B₁ · (3/2) sin(ωt)
+
+Combined: B(t) = (3B₁/2)[cos(ωt) x̂ + sin(ωt) ŷ]
+→ Constant magnitude rotating field: |B| = 3B₁/2
+
+**Lenz force on aluminium disc (static disc, no spin):**
+Induced EMF: ε = -dΦ/dt = -πR²_disc · dB_z/dt
+
+For field rotating in XY-plane, B_z = 0 → no net EMF from pure XY rotation
+for a horizontal disc. The Lenz levitation requires a Z-component (vertical coil
+below the disc, not rotating field). These are two distinct configurations.
+
+**Force on spinning rotor in rotating field (synchronous frame):**
+In the frame rotating at ω (field angular velocity):
+B_rotating = B₀ ẑ' (appears static)
+Rotor at angular velocity Ω_rotor: slip angular frequency = ω - Ω_rotor
+
+At synchronous (Ω_rotor = ω): no relative motion → no induced torque
+(analogous to synchronous motor at no-load)
+
+At Ω_rotor < ω (sub-synchronous): induction torque acts to accelerate rotor
+At Ω_rotor > ω (super-synchronous): induction torque decelerates rotor
+
+The claimed anomalous Z-force would appear at specific Ω_rotor/ω ratios.
+
+---
+
+### Jumping Ring (Lenz Levitation) Size Dependence
+
+Video data (13_1936372506547388416):
+- Power: V = 160 V, isolation transformer
+- Disc 1: R = 50 mm, t = 3 mm → Area A₁ = π(0.05)² = 7.85 × 10⁻³ m²
+- Disc 2: R = 40 mm, t = 3 mm → Area A₂ = π(0.04)² = 5.03 × 10⁻³ m²
+- Result: Disc 2 (smaller) jumps HIGHER
+
+Force model for pulsed Lenz launching:
+F_z = (1/2)I²_eddy · dM/dz
+
+where M = mutual inductance between solenoid and disc, I_eddy = eddy current.
+
+dM/dz increases as disc moves away (mutual inductance drops with distance).
+I_eddy ∝ V_induced/R_disc_resistance ∝ (dΦ/dt)/R_eff
+
+For smaller disc (same thickness): R_eff is higher (smaller circumference for
+current loops), but V_induced is also lower (less flux). 
+
+More precisely:
+Φ through disc = ∫B_z · dA over disc area
+For B_z(r) from solenoid, if disc radius < solenoid radius:
+Φ ∝ R²_disc (disc area limited)
+EMF = -dΦ/dt ∝ R²_disc · ω · B₀
+
+Resistance of eddy current loop of radius r in disc:
+R_loop ≈ ρ/(2πt) · 2π/r (per unit length) ∝ 1/(r·t)
+where ρ = resistivity
+
+I_eddy ∝ EMF/R_loop ∝ R²_disc · r · t
+
+The force F ∝ I²_eddy / (R_loop) leads to complex R dependence.
+Numerical result suggests intermediate-size disc maximizes F/m.
+
+---
+
+## Section: 2034753912591589717.yaml / text
+
+### Tilted Magnet Geometry: Coupling XY Rotation to Z Force
+
+**Rotating magnetic dipole on tilted plane:**
+Let tilt angle of magnet plane from horizontal = α
+Dipole magnitude = μ
+
+Dipole moment components during rotation at Ω:
+μ_x(t) = μ sin(α) cos(Ωt)
+μ_y(t) = μ sin(α) sin(Ωt)
+μ_z = μ cos(α)  [constant]
+
+Time derivatives (for radiation/induction coupling):
+dμ_x/dt = -μΩ sin(α) sin(Ωt)
+dμ_y/dt = +μΩ sin(α) cos(Ωt)
+dμ_z/dt = 0
+
+The transverse (XY) components represent a circularly polarized rotating dipole.
+
+**Interaction with external field gradient ∂B_z/∂z:**
+Force on dipole in non-uniform field:
+F_z = ∇_z(μ · B) = μ_z · ∂B_z/∂z + μ_x · ∂B_x/∂z + μ_y · ∂B_y/∂z
+
+Time-averaged (over one rotation period):
+<F_z> = μ cos(α) · ∂B_z/∂z + (μ sin(α)/2) · [∂B_x/∂z · cos(φ) + ∂B_y/∂z · sin(φ)]
+
+where φ is the phase offset between rotor and stator field. This reduces to:
+<F_z> = μ cos(α) · ∂B_z/∂z + (μ sin(α) · |∂B_⊥/∂z| /2) · cos(φ - φ₀)
+
+For α = 0 (no tilt): <F_z> = μ · ∂B_z/∂z (standard dipole force, no XY coupling)
+For α ≠ 0 and φ ≠ π/2: additional term contributes to Z-force from XY-plane rotation
+
+**Maximum additional Z-force at α = 45°:**
+d<F_z>/dα = -μ sin(α)·∂B_z/∂z + (μ cos(α)/2)·|∂B_⊥/∂z|·cos(φ-φ₀) = 0
+At ∂B_z/∂z = 0 (no vertical gradient in stator): max at α = π/2 (horizontal tilt)
+At finite ∂B_z/∂z: optimization gives tan(α_opt) = |∂B_⊥/∂z|/(2∂B_z/∂z)
+
+The "slanted plane" of the inner magnet optimizes this coupling.
+
+---
+
+## Section: 2041566800228516032.yaml / text
+
+### 5-Phase Rotating Magnetic Field: Fourier Decomposition
+
+**5-phase current set (72° phase displacement):**
+I_k(t) = I₀ cos(ωt - 2πk/5),  k = 0, 1, 2, 3, 4
+
+**Coils placed at azimuthal angles φ_k = 2πk/5:**
+
+B_x(t) = B₁ Σ_{k=0}^{4} cos(ωt - 2πk/5) · cos(2πk/5)
+B_y(t) = B₁ Σ_{k=0}^{4} cos(ωt - 2πk/5) · sin(2πk/5)
+
+Using identity: cos(A-B)cos(B) = (1/2)[cos(A-2B) + cos(A)]
+
+B_x(t) = (B₁/2) Σ_{k=0}^{4} [cos(ωt - 4πk/5) + cos(ωt)]
+        = (5B₁/2) cos(ωt)  [since Σ cos(4πk/5) = 0 for k=0..4]
+
+B_y(t) = (5B₁/2) sin(ωt)
+
+Result: B(t) = (5B₁/2)[cos(ωt) x̂ + sin(ωt) ŷ]
+Magnitude: |B| = 5B₁/2 (uniform rotation, same as 3-phase but 5/3× larger for same B₁)
+
+**Spatial field harmonics (for 5-fold wound stator):**
+For a winding with pole-pair number p, the spatial distribution has Fourier components
+at: p, 5p±2, 5p±4, ... (due to 5-fold winding symmetry)
+
+For p=1 (2-pole machine equivalent with 5-phase):
+Harmonics at: 1, 3, 7, 9, 11, 13, ... (eliminating 5th and multiples)
+Advantage over 3-phase (harmonics at 1, 5, 7, 11, ...): the 5th harmonic is
+eliminated in 3-phase but the 5-fold winding also eliminates 5th harmonic and
+has a different harmonic content.
+
+**Relevance**: If the UAP rotor has a 5-fold magnetic symmetry (5 poles), resonant
+coupling occurs at Ω_rotor = ω (fundamental) with force coupling enhanced by the
+absence of specific spatial harmonics that would otherwise create torque ripple.
+
+---
+
+## Section: 1925818510241824883.yaml / text
+
+### Spinning Magnetic Levitation: Force Balance with Spin Term
+
+**Generalized force balance for spinning magnetic rotor:**
+In Z: F_magnetic_Z + F_gravity = m·a_z
+
+Classical (no spin): F_magnetic_Z = F_Lenz ≈ 0 (net, for symmetric geometry) → no lift
+With spin (Ω ≠ 0): additional term F_spin(Ω) enters:
+F_spin = f(Ω, B, ∂B/∂z, I, geometry)
+
+Drew's experimental program: determine the functional form of F_spin(Ω) —
+specifically, does it scale as Ω, Ω², or some other power, and what is its
+direction relative to the gravitational field vector.
+
+If F_spin ∝ Ω² · (∂B/∂z): then a critical spin rate Ω_c exists above which
+F_spin > Mg (full levitation without thrust reaction):
+Ω_c = √[Mg / (k · ∂B/∂z)]  where k is a geometry-dependent coupling constant
+
+---
+
+*See also overall_Lift.mdx for Z-axis vertical force analysis, 
+overall_Magnetics.mdx for field topology details.*

@@ -1,0 +1,41 @@
+Type: False-color heavily processed and pixelated close-up astronomical image of Comet 3I/ATLAS nucleus — a extreme close-up of the nucleus condensation region showing the central white saturated nucleus, a yellow-green inner coma, a concentric ring/contour line structure (isophote contours), and red-orange chromatic fringing at the coma boundary, against a dark mottled green background. A small blue-grey inset square is visible at the upper-right corner.
+
+Overall Image:
+* Square aspect ratio (approximately 1:1).
+* Very low resolution — the image is severely pixelated (individual pixels are approximately 1-2% of the image width). This is an extreme zoom into the nucleus region where the original image resolution has been exceeded.
+* Dark mottled green background with scattered red and green color noise pixels — the background shows significant color noise from JPEG compression and sensor read noise at this extreme zoom level.
+* Upper-right corner: a small rectangular inset/thumbnail (approximately 8% of image area) showing a light blue-grey panel — this appears to be a preview thumbnail or annotation window partially overlapping the main image.
+
+Nucleus Region:
+* Central object: a large BRIGHT WHITE BLOB at the center-left of the image, approximately 25-30% of the image width.
+* The white nucleus blob has an irregular shape — not a perfect circle but somewhat elongated horizontally (approximately 1.2:1 or 1.3:1 horizontal-to-vertical ratio). The irregular, pixelated edges show the original comet nucleus was not resolved — this is the point-spread function (PSF) of the optics, potentially convolved with saturation bleeding.
+* The white blob represents the inner nucleus condensation — the saturated overexposed core.
+
+Color Zones (radially outward from nucleus):
+* Zone 1 (immediately outside white blob): YELLOW-GREEN ring — a narrow but visible zone of lime-yellow-green color (the yellow-green is a mix of the saturated white center bleeding into the green C₂ emission zone — or it represents the transition between the dust reflection (yellow) and C₂ emission (green) at the boundary of the photodissociation zone).
+* Zone 2: MEDIUM GREEN ring — the main C₂ emission zone, slightly further out.
+* Zone 3: DARK GREEN — the fading outer coma.
+* At the coma boundary (upper-right of the white blob): RED-ORANGE fringing visible — chromatic aberration from the optical system (LX200ACF at f/6.3 has some longitudinal chromatic aberration in white light) or a real color gradient at the dust-to-gas coma transition.
+
+Isophote Contour Lines:
+* A distinctive feature: multiple faint GREY/WHITE CONTOUR LINES are visible within the coma, following the isophote shapes (lines of equal brightness). These thin contour lines create a topographic map effect around the nucleus.
+* The contours are roughly concentric ellipses following the shape of the white nucleus blob.
+* These contour lines may be: (1) a processing artifact from applying an isophote-finding algorithm or (2) actual optical interference rings (Newton's rings or diffraction rings from the Schmidt-Cassegrain corrector plate).
+
+Inset (Upper-Right):
+* A small rectangular area at the upper-right corner shows a uniform pale blue-grey color — this is a separate image panel or annotation box partially shown (the rest is outside the frame). The blue-grey color in the inset is distinctly different from the main image — it likely shows either the sky background or a color reference patch from a different processing step.
+
+Physical Interpretation:
+* At this extreme zoom, the comet nucleus itself is not resolved (it is point-like compared to the optical PSF). The white blob is the PSF of the 305mm telescope at this focal length, smeared by the comet's motion during exposure.
+* The yellow-green inner zone around the white nucleus at this scale may represent: the innermost C₂ emission shell (photodissociation scale ~ 10,000-30,000 km from nucleus), but at this Earth distance (2.02 AU), this corresponds to an angular scale of ~0.03-0.1 arcsec — below the resolution limit of the telescope. The yellow-green zone is therefore likely the wing of the PSF rather than a resolved emission shell.
+* The isophote contour lines at this scale are likely processing artifacts from sharpening or unsharp masking.
+* The red-orange fringing is chromatic aberration — the Schmidt-Cassegrain at f/6.3 shows significant chromatic aberration in broadband white light, causing red and blue channels to focus at slightly different positions (axial chromatic aberration).
+
+RC's Contextual Use:
+* RC uses this extreme close-up as a "nucleus study" — attempting to see the inner structure of the comet at the limit of the telescope resolution.
+* The concentric isophote contours are visually striking — RC may use them to argue for the presence of discrete emission shells at specific radii even in this unresolved close-up.
+* The irregular shape of the white nucleus blob (not a perfect Gaussian PSF) may indicate real elongation of the nucleus condensation — suggestive of a non-spherical nucleus or asymmetric outgassing.
+
+Text Visible: None.
+
+Summary: Extreme close-up false-color pixelated image of the Comet 3I/ATLAS nucleus condensation region at the resolution limit of the 305mm telescope. Central: large bright white saturated blob (inner nucleus PSF, ~25-30% image width, slightly horizontally elongated). Concentric color zones: yellow-green inner ring → medium green → dark green. Red-orange chromatic fringing at coma boundary (upper-right). Faint grey-white isophote contour lines visible within the coma (elliptical contours following the nucleus shape). Mottled dark green background with red/green color noise pixels. Small blue-grey inset panel at upper-right corner. RC uses this as a nucleus structure study at the telescope resolution limit.

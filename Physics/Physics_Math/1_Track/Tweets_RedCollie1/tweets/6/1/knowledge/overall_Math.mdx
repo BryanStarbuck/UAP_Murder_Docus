@@ -1,0 +1,197 @@
+# Mathematical Equations and Relationships — Source: tweets/6/1/
+
+---
+
+## Source: 1926632596986839208.yaml (homopolar generator)
+### Homopolar Generator EMF Equation
+
+For a conducting disc of radius r rotating at angular velocity ω in an axial magnetic flux density B:
+
+  V_emf = (1/2) × ω × B × r²
+
+**Derivation:** A radial conducting element at radial position ρ (0 ≤ ρ ≤ r) moves with tangential velocity v(ρ) = ω × ρ. The motional EMF across an infinitesimal radial element dρ is:
+  dV = (v × B) · dr = ω × ρ × B × dρ
+
+Integrating from hub (ρ = 0) to rim (ρ = r):
+  V = ∫₀ʳ ω B ρ dρ = ω B [ρ²/2]₀ʳ = (1/2) ω B r²
+
+**Variable identification:**
+- V: terminal EMF (Volts)
+- ω: angular velocity of disc (rad/s)
+- B: axial magnetic flux density (Tesla)
+- r: disc radius (meters)
+
+**For two counter-rotating discs (Norman Paulsen drive):**
+If disc 1 rotates at +ω₁ and disc 2 at -ω₂ (opposite sense), and brushes are placed between the outer rims of both discs, the relative angular velocity governing the inter-disc EMF is:
+  ω_rel = ω₁ + ω₂
+
+Giving enhanced inter-disc EMF:
+  V_total = (1/2) × (ω₁ + ω₂) × B_eff × r²
+
+where B_eff accounts for the combined magnetic flux from both rotating magnet systems.
+
+---
+
+## Source: 1937274888567550439.yaml (5-phase system)
+### Phase Angle Geometry — 5-Phase vs 3-Phase AC
+
+**5-phase system:**
+  Phase separation angle: Δφ = 360°/5 = 72°
+  Phase sequence phases: φ₁ = 0°, φ₂ = 72°, φ₃ = 144°, φ₄ = 216°, φ₅ = 288°
+
+**3-phase system (for comparison):**
+  Phase separation angle: Δφ = 360°/3 = 120°
+  Phase sequence phases: φ₁ = 0°, φ₂ = 120°, φ₃ = 240°
+
+**Rotating field vector (5-phase):**
+The resultant magnetic field vector from 5-phase coils spatially arranged at 72° intervals, each carrying current I_k = I₀ cos(ωt - (k-1)×72°) for k = 1,...,5:
+
+  B_x = (5/2) × (μ₀NI₀/2) × cos(ωt)
+  B_y = (5/2) × (μ₀NI₀/2) × sin(ωt)
+
+The resultant is a uniformly rotating field of constant magnitude (5/2)(μ₀NI₀/2), rotating at angular frequency ω. This is analogous to the 3-phase result but with amplitude (5/2) factor vs (3/2) for 3-phase.
+
+**Single-phase perpendicular field (superimposed):**
+  B_perp = B₁ cos(ω't) ẑ  (Z-axis, perpendicular to XY-plane rotation)
+
+The combination:
+  B_total(t) = [(5/2)(μ₀NI₀/2)](cos(ωt) x̂ + sin(ωt) ŷ) + B₁ cos(ω't) ẑ
+
+This three-dimensional time-varying field simultaneously drives XY-plane rotation (via the 5-phase component) and Z-axis oscillation (via the single-phase component), producing a helical or conical instantaneous field trajectory.
+
+---
+
+## Source: 1965659914447253531.yaml (MHD J×B force)
+### Lorentz Body Force Density in MHD
+
+  **f** = **J** × **B**
+
+**Units and dimensions:**
+- **J**: current density [A/m²]
+- **B**: magnetic flux density [T] = [kg/(A·s²)]
+- **f**: force density [N/m³] = [kg/(m²·s²)]
+
+**Numerical calculation from text:**
+- I = 10 A, A_cross = 1 cm² = 1 × 10⁻⁴ m²
+- J = I/A = 10 / 10⁻⁴ = 1 × 10⁵ A/m²
+- B = 0.5 T
+- f = J × B = 10⁵ × 0.5 = 5 × 10⁴ N/m³
+
+For gallium (density ρ_Ga ≈ 6.09 × 10³ kg/m³):
+  Acceleration: a = f/ρ = 5 × 10⁴ / 6.09 × 10³ ≈ 8.2 m/s²  (comparable to g = 9.81 m/s²)
+
+This quantifies why gallium MHD is a strong vortex driver: the electromagnetic body force is on the order of the gravitational body force.
+
+**Full tensor form of MHD force (Maxwell stress tensor formulation):**
+  f_i = ∂T_ij/∂x_j    (Einstein summation)
+  T_ij = (1/μ₀)[B_i B_j - (1/2)δ_ij B²]
+
+where T_ij is the Maxwell stress tensor and δ_ij is the Kronecker delta.
+
+---
+
+## Source: 2017453696750334151.yaml + 2026685935388348627.yaml
+### Angular Momentum Balance for Counter-Rotating Dual-Ring System
+
+**Angular momentum of each ring:**
+  L_k = I_k × ω_k
+
+where I_k is the moment of inertia of ring k and ω_k is its angular velocity (scalar for rotation about common axis).
+
+**For inner ring (co-rotating with field, positive ω):**
+  I_inner = M_inner × r_inner² / 2    (thin ring approximation)
+  L_inner = I_inner × ω_inner > 0
+
+**For outer ring (counter-rotating against field, negative ω):**
+  I_outer = M_outer × r_outer² / 2
+  L_outer = -I_outer × ω_outer < 0   (negative sign indicates opposite direction)
+
+**Zero net angular momentum condition:**
+  L_total = L_inner - I_outer × ω_outer = 0
+  ⟹ I_inner × ω_inner = I_outer × ω_outer
+  ⟹ (M_inner × r_inner²) × ω_inner = (M_outer × r_outer²) × ω_outer
+
+**Design constraint:** To achieve L_total = 0 with both rings spinning at the same angular velocity (ω_inner = ω_outer = ω), requires:
+  M_inner × r_inner² = M_outer × r_outer²
+
+i.e., the mass and radius of each ring must be chosen to match their moments of inertia.
+
+**If ω_inner ≠ ω_outer (different pole counts select different synchronous speeds):**
+The ratio of angular velocities is determined by the pole pair count p:
+  ω_sync = 2πf / p
+  
+For stator frequency f, inner ring with pole pairs p_inner, outer ring with pole pairs p_outer:
+  ω_inner = 2πf / p_inner
+  ω_outer = 2πf / p_outer
+
+Zero net angular momentum then requires:
+  I_inner / p_inner = I_outer / p_outer
+  ⟹ M_inner × r_inner² × p_outer = M_outer × r_outer² × p_inner
+
+---
+
+## Source: 2030947082576802098.yaml
+### Stator Winding Configuration — Coil Count and Magnet Count Arithmetic
+
+**Upper stator:**
+  Coil count: N_upper = 3 (phases U, V, W — one coil each)
+  Pole pairs produced: p_upper = 1 (for simplest winding)
+
+**Lower stator:**
+  Coil count: N_lower = 6 (phases U-V-W-U-V-W — two coils per phase)
+  Pole pairs produced: p_lower = 2 (double-wound = 2× pole pairs)
+
+**Rotor magnet count:**
+  2 rings × 8 magnets each = 16 total small permanent magnets
+  Inner ring: 8 magnets in N-S-N-S-N-S-N-S (4 pole pairs)
+  Outer ring: 8 magnets in N-N-N-N-N-N-N-N or different arrangement for reverse spin
+
+**Synchronous speed relationship:**
+  ω_sync = 2πf / p
+  For p_lower = 2: ω_inner = 2πf / 2 = πf (half the electrical frequency in rad/s)
+  For p_upper = 1: ω_outer driven by upper field at ω = 2πf (full electrical frequency)
+
+The ratio ω_outer / ω_inner = 2 — the outer ring spins twice as fast as the inner ring in this pole configuration. Achieving L_total = 0 then requires I_inner = 2 × I_outer.
+
+---
+
+## Source: 1913351605329805373.yaml (4D topology)
+### Abbott's Flatland Cross-Section Theorem and 4D Hypercube (Tesseract) Projections
+
+**2D/3D analogy (Abbott):**
+A sphere of radius R moving perpendicular to a 2D plane at speed v, centered at height h(t) above the plane at time t:
+  r_cross(t) = √(R² - h(t)²)    for |h(t)| ≤ R
+
+The apparent 2D circle radius oscillates from 0 (first contact) to R (equatorial crossing) back to 0 (exit).
+
+**3D/4D generalization:**
+A 4D hypersphere of radius R intersecting a 3D hyperplane at perpendicular distance h:
+  r_cross = √(R² - h²)
+
+appearing as a 3D sphere that grows from zero to radius R and back to zero.
+
+**Tesseract (4D hypercube) cross-sections:**
+The 4D hypercube has vertices at (±1, ±1, ±1, ±1) in 4D Cartesian coordinates. Its cross-sections with the 3D hyperplane at x₄ = t (for -1 ≤ t ≤ 1) are:
+  x₄ = 0: standard 3D cube (the central cross-section)
+  x₄ = ±1: single 3D point (the vertices)
+  x₄ = intermediate: truncated cube / cuboctahedron / other Archimedean solids depending on angle
+
+**UAP observational implication:** The variety of UAP shapes (disc, sphere, triangle, cigar) could correspond to different cross-sectional orientations of a fixed 4D object passing through or rotating in 3D space.
+
+---
+
+## Source: 3_2004868474557136898.txt (DNA crop circle — crystallographic analogy)
+### Double Helix Topology and Z-DNA Crystal Structure (Drew's Research Background)
+
+**Context:** Drew solved the first x-ray crystal structure of left-handed Z-DNA (published Nature 286:567, 1980, doi:10.1038/286567a0). The Z-DNA electron density map was oriented as right-handed in the initial analysis; Drew recognized the error and inverted the map — the same methodological inversion he applied to the UAP stator crop circle diagram in 2030947082576802098.yaml.
+
+**Z-DNA crystallographic data:**
+- Crystal space group: P2₁2₁2₁ (orthorhombic)
+- Helical repeat: 12 base pairs per turn (vs 10.4 for B-DNA)
+- Rise per base pair: 3.7 Å (vs 3.4 Å for B-DNA)
+- Helix handedness: left-handed (negative twist)
+- Phosphate backbone: zigzag (Z-conformation, hence "Z-DNA")
+
+The mathematical framework for helical diffraction from DNA was established by Cochran, Crick, and Vand (1952):
+  F(R, ψ, l) = Σ_n J_n(2πRr_j) exp[i(nψ + 2πlz_j/c)]
+where J_n are Bessel functions of order n, R is the reciprocal radial coordinate, r_j and z_j are atomic cylindrical coordinates, c is the helical repeat, and the sum is over all atoms.

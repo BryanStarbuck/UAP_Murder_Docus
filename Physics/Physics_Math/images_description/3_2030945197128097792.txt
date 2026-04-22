@@ -1,0 +1,33 @@
+TYPE: Physics diagram — trefoil + ring formation with green pointer lines connecting labels to specific elements; variant of 3_2030517985056854016 / 3_2028696591025238016.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. Same trefoil + lower ring formation as 3_2030517985056854016. Key addition: two diagonal green pointer lines connecting labels to specific elements in the diagram. Also a green "V" chevron inside the lower blue-outlined ring.
+
+DIAGRAM STRUCTURE (same as 3_2030517985056854016):
+* Upper trefoil: 3-lobe formation with red circle annotation at central vesica
+* Lower ring: blue-outlined ring with approximately 16 small black satellite circles ("2 x 8 = 16 N-S magnets")
+
+GREEN POINTER LINES (new annotation):
+* Two diagonal green lines originate from the left and right text positions
+* Line 1: from "3 wire coils U-V-W" (left) → points toward the lower blue ring / central lower disc
+* Line 2: from "3 wire coils U-V-W" (right) → points toward the lower blue ring / central lower disc
+* Both lines converge at the lower blue ring element — making explicit that the lower ring is the "3 wire coils U-V-W" component
+* A green "V" (inverted chevron) inside the lower ring (visible through the ring's black fill) reinforces the pointer
+
+LABELS:
+* Red (upper-left): "central magnet N/S"
+* Red (upper-right): "central magnet N/S"
+* Red (left, with green pointer): "3 wire coils U-V-W"
+* Red (right, with green pointer): "3 wire coils U-V-W"
+* Blue (lower-left): "2 x 8 = 16 N-S magnets"
+* Blue (lower-right): "2 x 8 = 16 N-S magnets"
+
+Note: the "3 wire coils" label in this version (with green pointer to the lower ring) clarifies that the lower ring structure IS the "3 wire coils" — not just the trefoil. The lower ring (with 16 satellite circles = 16 magnets) is also the 3-phase winding structure.
+
+PHYSICS INTERPRETATION:
+* Green pointer lines + "V" inside the lower ring: the 16-magnet outer ring IS the 3-phase stator winding (U-V-W) — the 16 magnets provide the magnetic flux, and the 3 wire coils (U, V, W) are wound among the 16 pole positions (16/3 ≈ 5.33 poles per phase, or 18 slots for a 16/18 fractional winding)
+* Alternatively: 3 wire coils + 16 N-S magnets = a 3-phase generator where the 3 wire coils produce the armature EMF as the 16-magnet rotor sweeps past them
+* The "central magnet N/S" at the trefoil central vesica = the axial magnet that produces the main magnetic bias field; the 16-satellite magnets in the lower ring = the peripheral magnets that produce the rotating field component
+
+OVERALL COMMUNICATION: A variant of the trefoil + ring diagram with two diagonal green pointer lines explicitly connecting the "3 wire coils U-V-W" labels to the lower 16-magnet ring, clarifying that the lower ring structure IS both the "2 × 8 = 16 N-S magnets" and the "3 wire coils U-V-W" — i.e., a 16-magnet ring that generates a 3-phase rotating magnetic field through 3 wire coils wound within the 16-pole stator structure.

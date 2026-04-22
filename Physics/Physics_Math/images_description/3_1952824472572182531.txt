@@ -1,0 +1,68 @@
+CONTENT TYPE: Scientific data visualization — a 2×2 grid of astronomical false-color surface brightness maps of interstellar object 3I/ATLAS, showing its coma structure in the g-band and r-band (SDSS filters) at two epochs: July 4, 2025 and July 29, 2025.
+
+SUBJECT: Four false-color surface brightness maps (intensity contour plots) of the coma of interstellar object 3I/ATLAS observed at two epochs and in two photometric bands (g-sdss and r-sdss). The maps show the spatial distribution of scattered light around the object's nucleus, plotted in physical units of ρ×10⁴ km (impact parameter distance from the nucleus center), with directional indicators and observational metadata.
+
+IMAGE CHARACTERISTICS:
+- 2×2 panel grid layout
+- White background outside panels
+- Each panel: approximately 400×400 px
+- Color scale: rainbow false-color (blue=low intensity → cyan → green → yellow → red → dark red = high intensity)
+- Color bar at top of each panel showing intensity range in arbitrary/calibrated units
+- Axis labels in ρ×10⁴ km (impact parameter distance from nucleus)
+
+PANEL DESCRIPTIONS:
+
+UPPER-LEFT: g-sdss, 2025-07-04 21:30 (UTC)
+- Color bar range: 380 – 420 (arbitrary units)
+- Observation epoch: 2025-07-04 21:30 UTC
+- The coma is visible as a roughly elliptical/elongated bright region centered at (0,0) with the nucleus marked by a "+" cross at center
+- The coma appears slightly asymmetric, with a faint extension toward the upper-left (antisolar direction or velocity vector direction)
+- Directional indicators: N (north, up-right), E (east, left), -V (negative velocity vector, pointing left), Θ (solar direction, pointing right)
+- Metadata in lower-left text:
+  - r = 4.386 [au] — heliocentric distance (distance from Sun) = 4.386 astronomical units
+  - del = 3.392 [au] — geocentric distance (distance from Earth) = 3.392 au
+  - PsAng = 110.212 [°] — Position angle of the Sun from the object
+  - PsMV = 95.181 [°] — Position angle of the negative velocity vector
+  - Phase angle = 3.13 [°] — Sun-Object-Earth angle (very small = near opposition)
+
+UPPER-RIGHT: r-sdss, 2025-07-04 20:36 (UTC)
+- Color bar range: 380 – 480 (arbitrary units)
+- Same epoch as upper-left (July 4, 2025), slightly different time: 20:36 UTC
+- The coma appears slightly smaller/more compact in the r-band compared to g-band at this epoch
+- The central brightness peak is more concentrated
+- Same directional indicators
+
+LOWER-LEFT: 2025-07-29 19:02 (UTC) [band not labeled — likely g-sdss]
+- Color bar range: 200 – 800 (arbitrary units) — significantly higher dynamic range than July 4 panels
+- Observation epoch: 2025-07-29 19:02 UTC (25 days later than upper panels)
+- The coma is brighter (higher maximum intensity: ~800 vs ~420) — the object has brightened significantly as it moved closer to the Sun
+- The coma shape is more compact and symmetric compared to July 4
+- Directional indicators: same convention
+- Metadata:
+  - r = 3.564 [au] — heliocentric distance decreased (moved closer to Sun)
+  - del = 2.844 [au] — geocentric distance decreased
+  - PsAng = 100.109 [°]
+  - PsMV = 98.673 [°] — The position angle of the velocity vector is now closer to the antisolar direction
+  - Phase angle = 12.91 [°] — Phase angle has increased significantly from July 4
+
+LOWER-RIGHT: 2025-07-29 19:03 (UTC) [second image 1 minute later]
+- Color bar range: 200 – 1000 (arbitrary units)
+- Same epoch as lower-left (July 29, 2025), just one minute later: 19:03 UTC
+- Similar coma morphology but at highest dynamic range — some additional faint extended material visible
+- The coma is the most compact in this panel
+- Some pixel artifacts visible (background residuals from flat-fielding)
+
+SCIENTIFIC INTERPRETATION:
+- 3I/ATLAS is an interstellar object (third known, following 1I/'Oumuamua and 2I/Borisov) entering the solar system on a hyperbolic trajectory
+- The object has an active coma (outgassing), which distinguishes it from 1I/'Oumuamua (no coma detected) — making it more similar to 2I/Borisov
+- Over the 25 days between July 4 and July 29, 2025:
+  - Heliocentric distance decreased: 4.386 → 3.564 au (moved ~0.8 au closer to Sun)
+  - Geocentric distance decreased: 3.392 → 2.844 au (moved ~0.5 au closer to Earth)
+  - Coma brightness increased: from ~420 to ~800-1000 counts (factor ~2 brightening)
+  - Phase angle increased from 3.13° to 12.91° (object moved off opposition)
+- The directional compass (+N, E, -V, Θ) shows the antisolar direction (Θ) and negative velocity vector (-V), which are used to determine if the coma is sunward-enhanced (radiation pressure tail) or velocity-vector-aligned (activity or outgassing patterns)
+- The very small phase angle on July 4 (3.13°) indicates the object was near opposition (Earth between Sun and 3I/ATLAS) at that time
+
+COLORS: Rainbow false-color (blue → cyan → green → yellow → red, representing low → high surface brightness).
+
+OVERALL SUMMARY: A 2×2 grid of false-color surface brightness maps of interstellar object 3I/ATLAS at two epochs (July 4 and July 29, 2025) in two SDSS photometric bands (g and r). Each panel shows the coma intensity distribution in ρ×10⁴ km units with N/E/Sun direction indicators and observational metadata (heliocentric distance r, geocentric distance del, position angles, phase angle). Between July 4 and July 29, 2025, 3I/ATLAS moved closer to the Sun (4.386→3.564 au) and Earth (3.392→2.844 au) and brightened by approximately a factor of 2 in peak surface brightness.

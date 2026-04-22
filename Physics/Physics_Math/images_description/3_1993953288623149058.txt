@@ -1,0 +1,48 @@
+Type: Color-inverted false-color version of 3_1993953266498195456.jpg — the same extreme close-up of Comet 3I/ATLAS inner coma with full color inversion, showing the nucleus as a solid black blob surrounded by concentric PINK-MAGENTA outer coma, with inner BLUE-PURPLE zones and a small olive-green inner region, against a white background.
+
+Overall Image:
+* Near-square/portrait aspect ratio — same frame as 3_1993953266498195456.jpg.
+* White background (inverted solid black background → white).
+* Coma occupies approximately 70-75% of the frame, fading toward the white background at the edges.
+* Severely pixelated — same pixel scale as the companion image.
+
+Color Inversion Analysis:
+
+Background:
+* Original solid black → inverted to pure WHITE. The background is clean white with a slight faint textured haze at the coma boundary.
+
+Nucleus (inverted):
+* Original brilliant white nucleus blob → inverted to SOLID BLACK BLOB.
+* The black nucleus occupies approximately 15-20% of image width, same irregular shape as the white blob in the companion.
+* This is the darkest region in the image.
+
+Inner Coma (inverted):
+* The multi-colored inner zone from the original inverts as:
+  - Original lavender immediate nucleus ring → inverted to YELLOW-GREEN (complementary color: lavender/violet → yellow-green).
+  - Original yellow dust fan (lower-left) → inverted to BLUE (complementary: yellow → blue).
+  - Original cyan upper inner coma → inverted to RED-ORANGE.
+  - Original blue-purple left inner coma → inverted to YELLOW-ORANGE.
+* Overall: the inner coma zone in this inverted version shows: dark olive-green at center (inverted lavender), with blue and red-orange color patches at the sunward/anti-sunward positions (inverted yellow dust and cyan regions).
+
+Middle/Outer Coma (inverted):
+* Original vivid bright green C₂ outer coma → inverted to MAGENTA-PINK (complementary color: green → magenta).
+* The magenta-pink outer coma is the dominant color in this inverted image — a brilliant hot pink / magenta filling the outer 50-60% of the coma area.
+* The outer pink zone is somewhat uniform and circular — consistent with the spherically symmetric C₂ emission shell.
+
+Overall Color Distribution (radially outward from center):
+* Black nucleus (center) → dark olive-green inner zone → blue patches (inverted yellow dust) → red-orange patches (inverted cyan) → magenta-pink outer coma → white background.
+
+Physical Interpretation:
+* The inversion makes the C₂ emission zone highly visible as magenta — the saturation and uniformity of the pink zone confirms the C₂ emission is the dominant outer coma component.
+* The olive-green inner zone (inverted lavender) represents the mixed-species innermost coma where no single molecular species dominates.
+* The blue patch at lower-left (inverted yellow dust fan) pinpoints the sunward direction even in the inverted image — it remains at approximately the 7 o'clock position.
+* The black nucleus allows measurement of the nucleus PSF shape without saturation glare from the original white blob.
+
+RC's Contextual Use:
+* The pair (3_1993953266498195456.jpg + this image) demonstrates RC's systematic "natural + inverted" processing approach for all key structural images.
+* The magenta outer coma (inverted green C₂) in this image is the visually identical to the pink coma color in the other inverted comet images (3_1990293694554255360.jpg series) — confirming that all pink-coma inverted images in the series represent the same C₂ emission feature.
+* The blue patch at 7 o'clock (inverted yellow dust) can be used to determine the Sun-comet geometry for the observation session.
+
+Text Visible: None.
+
+Summary: Color-inverted version of 3_1993953266498195456.jpg — extreme close-up of 3I/ATLAS inner coma with full color inversion. White background; central solid black nucleus blob (~15-20% width); inner zone: dark olive-green (inverted lavender) immediately around nucleus, with blue patches at lower-left (inverted yellow dust fan, 7 o'clock = Sun direction) and red-orange patches at upper-center (inverted cyan); large MAGENTA-PINK outer coma filling ~50-60% of frame (inverted bright green C₂ emission). RC uses this alongside the companion natural-color image to study the inner coma structure and to establish color consistency across the full 3I/ATLAS image processing series (magenta/pink in inverted images = C₂ emission).

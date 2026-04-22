@@ -1,0 +1,194 @@
+# UAP Magnetics — Extracted Knowledge
+## Source Directory: tweets/5/6/
+
+---
+
+## Source: 1913009152957587676.yaml / note_tweet
+
+### Ring Magnet in 3-Phase Rotating Magnetic Field — Vertical Coupling
+
+**Configuration:**
+- Ring magnet: a toroidal permanent magnet (inner hole, outer rim, flat top/bottom faces), polarized axially (N-S faces top-bottom) or radially
+- 3-phase wire coils: three coils physically displaced 120° apart in the XY-plane, driven by AC currents phase-shifted by 120° (i.e., I_A = I₀ sin(ωt), I_B = I₀ sin(ωt + 2π/3), I_C = I₀ sin(ωt + 4π/3))
+- Rotating magnetic field produced: B_net(t) = B₀[cos(ωt) x̂ + sin(ωt) ŷ] — a field vector of constant magnitude B₀ rotating in the XY-plane at angular frequency ω
+
+**Magnetic coupling mechanism:**
+The ring magnet, placed in this rotating field, experiences a torque τ = m × B_net (where m is the magnetic dipole moment vector of the ring magnet). This torque drives the ring magnet to spin — chasing the rotating field. For a ring magnet with axial magnetization (moment vector along Z), the torque from the XY-rotating field is maximal, spinning the ring magnet about the Z-axis.
+
+**The anomaly claimed:**
+Standard analysis would predict: rotating field → ring magnet torque → XY-plane spin. No Z-axis force is expected from this interaction alone (the ring magnet is symmetric about Z; the field is in XY; the force ∇(m·B) averages to zero for a uniform field).
+
+Drew claims the spinning ring magnet in this field exerts an upward (Z-axis) force on the aluminum rod coupled to it. This requires either:
+(a) A field gradient along Z that provides ∇(m·B)|_z ≠ 0, or
+(b) A dynamic effect from the spinning magnet not captured by static field analysis, or
+(c) An inertial/gyroscopic reaction force from the spinning magnet transmitted mechanically through the friction coupling
+
+**Experimental parameters:**
+- f = 17 Hz (ω = 2π × 17 ≈ 107 rad/s)
+- P = 250 W input
+- F_lift = 1000 g = 9.81 N
+
+**Power-to-lift ratio:** 250 W / 9.81 N = 25.5 m/s effective jet velocity equivalent — or stated differently, 9.81 N / 250 W = 39 mN/W. For comparison, ion thrusters achieve ~60 mN/W; chemical rockets ~10-20 mN/W. If this result is genuine, the thrust-per-watt is in the range of realistic propulsion systems, making it significant.
+
+---
+
+## Source: 1926418714796163447.yaml / note_tweet
+
+### Mercury as Homopolar Motor Working Fluid — DC + Axial Magnet
+
+**Faraday homopolar motor principle applied to liquid mercury:**
+
+For a conducting liquid (mercury, σ ≈ 10⁶ S/m) in a cylindrical pool of radius r:
+- External DC voltage V applied between central electrode and outer ring electrode
+- Current density: J = σE = σV/(r ln(r_outer/r_inner)) (radial)
+- Axial magnetic field B provided by a permanent magnet beneath the pool
+- Lorentz body force per unit volume: f = J × B
+- For J = J_r r̂ (radial) and B = B_z ẑ: f = J_r B_z (r̂ × ẑ) = -J_r B_z θ̂
+- Net tangential force → rotation of mercury in θ direction (azimuthal spin)
+
+**Mercury jumping ring / AC levitation:**
+- AC current in coil below mercury: I(t) = I₀ sin(ωt)
+- Produces time-varying flux: Φ(t) through the mercury pool
+- By Faraday's law: EMF_induced = -dΦ/dt → induced current in mercury (eddy currents)
+- Lenz repulsion: induced currents oppose the primary flux → net upward force on mercury
+- Time-averaged force: <F_z> = (μ₀ I₀² ω² L²) / (2R) × f(geometry) [approximate form for thin ring]
+- For sufficient I₀ and ω: net upward force may overcome mercury's weight
+
+**Mercury material properties relevant to these mechanisms:**
+- Density: ρ = 13,534 kg/m³ (dense liquid — requires large force to levitate)
+- Electrical conductivity: σ ≈ 10⁶ S/m (good conductor, efficient for eddy current/Lorentz drive)
+- Magnetic permeability: μᵣ ≈ 1 (diamagnetic, χ = -2.9×10⁻⁵; negligible magnetic response)
+- Not ferromagnetic — therefore force on mercury is purely through J × B, not through ∇(m·B)
+
+---
+
+## Source: 1981286567118590387.yaml / note_tweet
+
+### Liquid Metal + Electrode Ring + N-S Magnet + 3-Phase — Complete Magnetic Architecture
+
+**Slide-by-slide magnetic field analysis (Drew's crop circle IQ test):**
+
+**Slide 1 magnetic configuration:**
+- Ring of electrodes (outer boundary, defines current path)
+- Liquid metal pool (conducting medium)
+- 3-phase coils below (produces rotating B field in XY-plane at pool)
+- No permanent magnet: current in liquid metal is driven by the rotating field's induced EMF
+
+**Slide 2 magnetic configuration:**
+- Same as Slide 1 + central N-S permanent magnet (axial, pointing up)
+- 3-phase field below: rotating B in XY-plane
+- N-S magnet in the center: static B along Z
+- **Result:** The central magnet lifts upward
+- **Mechanism:** The rotating field component couples to the permanent magnet's dipole → oscillating lateral force components, but due to symmetry with 3-phase (net rotating force), this becomes a net vertical force. The permanent magnet acts as a "flying ring" analog in 3D.
+
+**Slide 3 magnetic configuration:**
+- Liquid metal spinning via Lorentz force (radial current × axial field → tangential force → spin)
+- Spinning liquid metal creates a secondary rotating magnetic field (spinning conducting liquid generates its own dynamic B field)
+- Disc magnet introduced from below: now subject to both the primary 3-phase field AND the secondary field from the spinning liquid metal
+- **Result:** The disc magnet lifts up — the combined field produces stronger upward force than 3-phase alone
+
+**Slide 4 magnetic configuration:**
+- Ring of electrodes + liquid metal + DC power (no 3-phase; no central magnet)
+- DC drives steady radial current through liquid metal
+- Without a static axial magnet, no net Lorentz force → no spin (Faraday motor requires both J and B)
+- This slide appears to show the system in a non-operating state to contrast with the active configurations in slides 2-3
+
+**Key synthesis (Drew):** The upward force on the spinning magnet arises from the interaction between:
+1. The 3-phase rotating field (primary, from coils)
+2. The Lorentz-force-driven spinning liquid metal (secondary rotating field)
+
+The liquid metal spin provides a "reaction mass" whose angular momentum counteracts the Newton's 3rd Law downward reaction that the magnet's rise would otherwise produce in the primary coil system.
+
+---
+
+## Source: 2030521536877318215.yaml / note_tweet
+
+### 9-Coil / 12-Magnet Non-Standard Motor Topology
+
+**Configuration:**
+- 9 wire coils arranged in a ring
+- 12 alternating N-S magnets arranged in a ring
+- Motor runs counter to the rotating magnetic field
+
+**Standard 3-phase motor pole-coil analysis:**
+In a standard 3-phase motor with P pole-pairs and Q stator slots:
+- Synchronous speed: n_s = 120f/P (in RPM)
+- The coil-to-pole ratio Q/P must be an integer multiple of 3 for balanced 3-phase operation
+- Standard configurations: 12 slots / 4 poles (Q/P = 3), 24 slots / 4 poles (Q/P = 6), etc.
+
+**9-coil / 12-magnet analysis:**
+- Q = 9 coils, P = 12 magnets (6 pole-pairs)
+- Q/P = 9/12 = 3/4 — not an integer, not a standard ratio
+- 9 coils driven by 3-phase: 3 coils per phase
+- 12 magnets = 6 pole-pairs → synchronous speed = 120f/6 = 20f RPM
+- The fractional winding (Q/P = 3/4) produces a winding factor k_w < 1 and creates sub-harmonic magnetic field components not present in integer-winding motors
+
+**Counter-rotation significance:**
+In standard induction motors, the rotor turns slightly slower than the rotating field (slip). Synchronous motors turn at exactly the field speed. Counter-rotation (opposite direction to field) would require negative slip s > 1, which in standard theory corresponds to plugging/braking mode, not sustained rotation.
+
+For permanent magnet rotors (as in Drew's device with alternating N-S magnets), counter-rotation would require the rotor magnets to be repelled into counter-alignment with the field rather than attracted into alignment — this would normally be an unstable equilibrium. That it is sustained suggests either a strong cogging geometry from the 9:12 fractional winding, or a novel coupling mechanism.
+
+---
+
+## Source: 2042885601347932556.yaml / note_tweet
+
+### Counter-Spinning Outer Ring: Absolute vs. Relative Rotation in Magnetic Systems
+
+**Configuration being tested:**
+- Central magnet: spinning at ~50 Hz (already demonstrated to rise in Z)
+- Outer ring: 4 magnets, counter-spinning at 30-40 Hz
+
+**Drew's logical argument about absolute vs. relative rotation:**
+
+If the effect were due purely to relative angular velocity between the central and outer magnets:
+- Ω_relative = Ω_central - Ω_outer (or Ω_central + Ω_outer for counter-rotation)
+- Then spinning the outer magnets counter to the central magnet at 30-40 Hz would change Ω_relative and produce a different (possibly enhanced) effect
+- But equivalently, keeping the outer magnets stationary and spinning the central magnet faster would achieve the same Ω_relative
+
+Drew observes: "Fast spin of the central magnet at say 50 Hz, with 4 outer stationary magnets, does nothing unusual." Therefore the effect (if it appears when outer magnets counter-spin) cannot be attributed to relative rotation alone — it must depend on the counter-spin of the outer magnets in an absolute sense (relative to the lab frame or to the Earth's gravitational field).
+
+**Magnetic field analysis of counter-spinning rings:**
+- Central magnet spinning at Ω_c: produces a rotating dipole field ~ cos(Ω_c t) in the lab frame
+- Outer 4 magnets spinning counter at -Ω_o: each produces a rotating dipole ~ cos(-Ω_o t + φ_k) where φ_k = 2πk/4 for k = 0,1,2,3
+- The interaction field between central and outer rotating dipoles produces beat frequencies at Ω_c + Ω_o and Ω_c - Ω_o
+- At specific beat frequencies matching the mechanical resonance of the system or a characteristic frequency of the medium (e.g., gravitomagnetic resonance), anomalous forces could emerge
+
+---
+
+## Source: 1962707853963338041.yaml / referenced_tweets[0].text
+
+### Lorentz Force Gyroscope + 3-Phase Wobble — XY to Z Force Coupling
+
+The Lorentz force drives the disc spin in the XY-plane:
+**F = q(E + v × B)**
+
+For a flat disc of conducting material in an axial B field (B = B_z ẑ), with current driven radially (J = J_r r̂):
+**F = J × B = J_r r̂ × B_z ẑ = J_r B_z (r̂ × ẑ) = -J_r B_z θ̂**
+
+This gives continuous azimuthal force → spin in the θ direction (standard homopolar motor).
+
+For the 3-phase wobble to couple this XY-plane spin to Z-axis thrust:
+- The 3-phase field applies a time-varying torque about an XY-axis (not the Z-axis)
+- This creates gyroscopic precession: τ_xy → dL/dt = τ_xy, where L = Iω_z ẑ is the spin angular momentum
+- Precession angular velocity: Ω_p = τ_xy / |L| = τ_xy / (Iω_z)
+- If the precession is asymmetric (not a pure precession but a "pitched" precession), the spinning disc's effective face normal traces a helical path
+- The drag/thrust of the disc against the medium along this helical path produces net Z-axis force
+
+---
+
+## Source: 1974017871933014155.yaml
+
+### Dual Spinning Permanent Magnets in Bowl Configuration
+
+**Device description:** Stainless steel bowl (concave) at each end of a linear axis, with a permanent magnet inside each bowl, spinning by 3-phase power.
+
+**Magnetic field geometry:**
+- Each spinning permanent magnet produces a rotating dipole field
+- The two rotating dipoles at opposite ends create a complex combined field along the axis
+- If spinning in the same direction: fields add constructively along the axis at certain phases → oscillating axial field at the beat frequency
+- If spinning in opposite directions (counter-rotation): fields cancel at DC component but produce traveling-wave field patterns along the axis at 2× the spin frequency
+
+**Stainless steel bowl as magnetic flux guide:**
+Stainless steel (austenitic, μᵣ ≈ 1.003) has near-zero magnetic permeability — it does not concentrate flux. However, a bowl shape concentrates the spinning magnet's field in the concave interior, creating a shaped field geometry. If ferromagnetic bowl material were used, it would act as a flux concentrator, but stainless steel is essentially field-transparent.
+
+**Relevance to cigar-shaped UAP:** A cigar shape with active spinning-magnet ends would produce a complex combined rotating field in the central region — neither the simple dipole of a single spinning magnet nor the axial field of a solenoid, but a combination that could create the traveling magnetic wave patterns Drew associates with levitation.

@@ -1,0 +1,51 @@
+TYPE: Digital schematic — 5-element pentagonal crop formation schematic with inner pentagram, outer scalloped ring of bicolor node elements, and central filled dot; black and white vector.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background, black line art (outlines only, no solid fills except the central dot and the small node dots). Approximately square composition.
+
+OUTER SCALLOPED RING:
+* The outermost element is a ring of overlapping circle/lobe elements forming a scalloped outer boundary
+* Approximately 10-12 small interlocking lobe elements arranged around the outer circumference
+* The lobes alternate between "outer-facing" bumps (convex outward) and "inner-facing" concave arcs
+* Approximately 10 visible outer bumps = 10-pole outer ring (or 5 bicolor pairs = 5-phase connection points)
+* At each "joint" between adjacent bumps: a small filled black dot node (approximately 10 dot nodes total)
+
+MAIN INNER CIRCLE:
+* A large central circle (outline only) approximately 60-65% of total composition diameter
+* This is the primary stator boundary
+
+INNER PENTAGONAL STRUCTURE:
+* Within the main inner circle: 5 large arc elements arranged in pentagonal (C₅) symmetry, creating:
+  - A pentagonal "star" shape (each arc connecting two adjacent vertices of the pentagon)
+  - Each arc is a smooth curve bowing inward toward the center (the "lunula" or crescent-arc connecting two adjacent vertices)
+  - This creates 5 curved triangular regions (petal shapes) pointing inward, and 5 outer crescent regions between the arcs and the main circle boundary
+* The 5 arcs form a classic 5-petaled flower pattern within the circle
+
+INNER CIRCLE / PENTAGON INTERSECTION:
+* At the intersection of each arc with the main circle: a small filled black dot node
+* 5 dot nodes at the 5 pentagon vertex positions on the main circle boundary
+* 1 additional dot at the top-center (6th dot visible between the two upper-right and upper-left intersections)
+
+CENTRAL ELEMENT:
+* At the geometric center of the pentagonal structure: a single filled black circle (the central rotor/magnet dot)
+* The dot is approximately 8% of the total composition diameter
+
+PHYSICS INTERPRETATION:
+* This schematic is the "outline/open" version of the 5-phase generator schematics seen in 3_2031855912324087808 and related images:
+  - Outer scalloped ring (10 lobes + 10 dots) = 10-terminal outer ring (5-phase, 2 terminals per phase)
+  - Main inner circle = stator boundary (air gap)
+  - 5 inner arc elements = 5 stator phases (U, V, W, X, Y) at 72° intervals
+  - 5 dot nodes on main circle = individual phase connection points
+  - Central dot = rotor magnet (permanent magnet hub)
+* The 5-arc pattern inscribed in a circle is equivalent to the pentagram (5-pointed star) — specifically the dual of the pentagram, which is the pentagon (connecting adjacent vertices rather than alternate vertices)
+* This is the "soft" or "smooth" version of the pentagram (connecting adjacent vertices with smooth arcs) vs. the "hard" version (connecting every other vertex with straight lines to form a 5-pointed star)
+* The outer scalloped ring matches the crop formation topologies seen in 3_2028248132098891776 (6-fold snowflake with 6 green arrows) but here with 5-fold symmetry
+
+RELATIONSHIP TO PHYSICAL FORMATIONS:
+* This schematic directly corresponds to the 5-element pentagonal formations documented as aerial photographs: 3_2026681160198402052 (5-fold pentagonal with teardrop satellites) and 3_2029822130049966080 (5-element pentagonal with oval lobes)
+* The outer scalloped ring corresponds to the outer boundary ring of those formations
+* The 5 inner arcs correspond to the 5 oval/lenticular satellite elements
+* The central dot corresponds to the central bullseye
+
+OVERALL COMMUNICATION: A clean black-and-white vector schematic of a 5-phase electromagnetic generator cross-section in pentagonal symmetry: outer 10-lobe scalloped ring with 10 dot terminal nodes, main stator boundary circle, 5 smooth arc elements (stator phases) inscribed in pentagonal arrangement, 5 phase-terminal dot nodes at the main circle boundary, and a central filled dot (rotor magnet). This is the schematic equivalent of the 5-element pentagonal aerial crop formations documented elsewhere in this series.

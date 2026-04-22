@@ -1,0 +1,28 @@
+Type: Inverted grayscale version of 3_1991476490559692800.jpg — the same processed/filtered image now in pure inverted grayscale (white-grey background, dark grey central circle), with a much lighter and more washed-out appearance.
+
+Overall Image:
+* Nearly white background — the background is now a very pale off-white/light grey (the inverted grayscale of the medium grey).
+* Same embossed letter-like relief texture across the background but now very faintly visible against the nearly-white field — the relief texture is barely discernible.
+* The central circular object is now a medium-dark grey circle against the near-white background.
+
+Central Object:
+* A large grey circular blob at center (approximately center-left, same position as in companion images).
+* Color: medium grey at the center, slightly darker at the outer edge (thin dark ring boundary remains visible).
+* The grey color (rather than pure black as in 3_1991476529377996800.jpg) suggests this may be a different stretch or exposure level than the full inversion.
+* The boundary ring: a thin darker-grey ring immediately outside the main grey circle — the unsharp mask artifact, now grey-on-near-white.
+* Object size: same ~20-25% of frame width as companions.
+
+Processing Difference:
+* This appears to be the most "washed out" or lightest version of the four processed images (3_1991476490559692800.jpg, 3_1991476509325099008.jpg, 3_1991476529377996800.jpg, 3_1991476552488652800.jpg).
+* The background is nearly white and the central object is grey rather than the pure black-on-lavender of the previous inverted version.
+* This may represent a different image processing algorithm: e.g., "difference of Gaussians" or a different edge-detection filter that maps the original data to a lighter grey scale.
+
+RC's Contextual Use:
+* This is the fourth variant in a series of four processed versions of the same underlying astronomical data — RC systematically applies different processing algorithms to reveal different aspects of the same object.
+* The near-white background version with grey central object is the most visually "minimal" — showing the object with the least background distraction.
+* The series as a whole (all four variants) demonstrates RC's image analysis methodology: multiple processing passes to reveal structure that any single processing method might miss.
+* The consistent presence of the dark boundary ring around the central object across all four versions confirms this is a genuine structural feature (the electromagnetic field boundary) rather than a processing artifact unique to any one algorithm.
+
+No clearly legible text visible.
+
+Summary: Near-white background inverted/processed version of the same processed astronomical image series (3_1991476490559692800.jpg et al.): a near-white off-white background (embossed text texture barely visible) with a medium-dark grey circular blob (center-left, ~20-25% frame width) with a thin darker grey boundary ring. This is the most washed-out / lightest version of the four-image processing series. RC uses all four processing variants together to argue for a consistent dark ring boundary structure surrounding the 3I/ATLAS nucleus or UAP object, supporting the electromagnetic ring emission model.

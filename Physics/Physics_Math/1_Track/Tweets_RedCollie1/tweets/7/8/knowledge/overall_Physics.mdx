@@ -1,0 +1,207 @@
+# overall_Physics.mdx
+# All Physics Equations and Chains of Reasoning; Horizontal/Vertical Dynamics
+
+Source: RedCollie1 (Dr. Horace Drew), tweet corpus 2025-04-22 through 2026-04-22.
+
+---
+
+## 1. Lorentz Force in Radial-Current / Axial-Field Geometry (Homopolar / Corbino)
+
+The fundamental force law applied throughout:
+  F = q(E + v x B)
+
+For a current-carrying conductor element dl carrying current I in external field B:
+  dF = I (dl x B)
+
+In the Corbino / Faraday-disc geometry:
+  dl = dr * hat{r}  (radial current element)
+  B = B_z * hat{z}  (axial magnetic field)
+  dF = I * dr * (hat{r} x hat{z}) = I * dr * (-hat{phi})
+
+The azimuthal force component drives disc rotation. Integrating from inner radius r1
+to outer radius r2 (Corbino geometry):
+  tau = integral_{r1}^{r2} I * r * B_z * dr = I * B_z * (r2^2 - r1^2) / 2
+
+For uniform current density J_r = I / (2 * pi * r * d) (d = disc thickness):
+  tau = J_r * B_z * integral r dA = B_z * I * (r2^2 - r1^2) / 2
+
+This is the Lorentz torque expression for homopolar/Corbino disc motors. Spin direction
+is determined by the sign of I and the direction of B_z (right-hand rule).
+
+---
+
+## 2. Three-Phase Rotating Magnetic Field
+
+A three-phase (U-V-W) set of stator coils wound 120 degrees apart in space, driven
+by three-phase currents offset 120 degrees in time, produces a rotating magnetic field:
+  B_x(t) = B_m * cos(omega_s * t)
+  B_y(t) = B_m * cos(omega_s * t - 2*pi/3)
+  B_total rotates at angular frequency omega_s (synchronous speed)
+
+In Drew's outer-stator configuration, four sets of three-phase coils produce a four-pole
+rotating field (p=4 poles), so synchronous mechanical speed:
+  omega_s_mech = omega_e / (p/2) = omega_e / 2
+
+where omega_e is electrical angular frequency of the supply.
+
+The inner Corbino disc (rotor) spins at omega_r. The slip:
+  s = (omega_s - omega_r) / omega_s
+
+At s = 1 (rotor stationary), maximum induction. At s = 0 (synchronous), zero slip torque.
+The behavior observed (low frequency: disc spins with outer flywheel; high frequency: disc
+spins counter to outer flywheel) can be modeled as a transition from attraction-dominated
+to induction-dominated regime as frequency increases.
+
+---
+
+## 3. Angular Momentum Conservation in Counter-Spin Experiment
+
+For an isolated system (frictionless floating boat or low-friction flywheel assembly):
+  L_total = L_outer + L_inner = const
+
+If L_inner changes by delta_L (reversal of spin direction):
+  delta_L_inner = -2 * I_inner * omega_inner  (sign reversal)
+  delta_L_outer = +2 * I_inner * omega_inner  (opposite change to conserve L_total)
+  omega_outer_new = omega_outer_old + 2 * I_inner * omega_inner / I_outer
+
+This is the classical angular momentum conservation law. Drew's experiment (and the Action
+Lab boat demonstration) confirms: when the inner magnet's spin direction flips from
+anti-clockwise to clockwise, the outer flywheel counter-spins faster by exactly this amount.
+
+The key claim: if this angular-momentum-coupled counter-spin can be harnessed as a
+net axial (Z-axis) force component, it would constitute a propulsion mechanism beyond
+classical reaction-mass propulsion. The coupling between rotational angular momentum
+transfer and linear momentum (axial force) is the non-trivial step Drew has not yet
+experimentally demonstrated.
+
+---
+
+## 4. Lenz's Law and Eddy Current Repulsion
+
+Standard Lenz levitation formula:
+  induced EMF = -d(Phi_B)/dt = -A * dB/dt
+
+Induced eddy current in disc:
+  I_eddy ~ EMF / R_eff  (where R_eff depends on skin depth and disc geometry)
+
+Repulsive force:
+  F_Lenz ~ mu_0 * I_eddy^2 * geometry_factor
+
+At high AC frequency omega:
+  Skin depth delta_s = sqrt(2 / (mu * sigma * omega))
+  As omega increases, delta_s decreases; eddy currents concentrate near surface
+
+Gyroscopic modification (claimed novel):
+  F_Lenz_spinning = 0.20 * F_Lenz_stationary
+
+Dimensional analysis: the gyroscopic rigidity (precession stiffness) of a spinning disc
+is proportional to L = I * omega_spin = (m * R^2 / 2) * omega_spin. A large L implies
+strong resistance to angular perturbation (precessional stiffness). Drew claims this
+gyroscopic stiffness suppresses the formation of eddy current loops in the plane
+perpendicular to the spin axis, reducing the Lenz repulsion force by 80%. No mathematical
+derivation is provided; this is an empirical result claimed as novel.
+
+---
+
+## 5. Gravity as Vacuum Pressure Gradient (Drew's Non-Standard Model)
+
+Drew's proposed gravity model (tweet 1957254930580082891):
+  "Gravity is a downward pressure into any large mass (essentially a spherical volume
+  of low vacuum-pressure)."
+
+In this model, the gravitational "force" on a test body is not curvature of spacetime
+(GR) or inverse-square attraction (Newtonian) but rather a pressure differential in the
+vacuum field. A large mass creates a region of reduced vacuum pressure. Bodies are pushed
+inward (toward the mass) by the higher-pressure external vacuum.
+
+Proposed modification: if a "spinning vortex through time" (a rotating electromagnetic
+or gyroscopic field) is superimposed upon this downward pressure field, it creates a
+pressure channel that allows objects to be "held up at high potential energy while overall
+downward pressure remains the same." The mathematical form of this model is not specified
+beyond the qualitative description.
+
+Relationship to observed gyroscope behavior: A spinning gyroscope resists the gravitational
+torque (precesses rather than falls). Drew interprets this as the spinning vortex partially
+canceling the downward vacuum-pressure differential. Similarly, a permanent magnet spinning
+in a rotating magnetic field (spin-field coupling) is proposed to experience this same
+vortex-in-time superposition effect.
+
+---
+
+## 6. Probability Calculation: 3I/ATLAS Orbital Improbability
+
+From tweet 1953031887368405091 (Avi Loeb framework):
+  P(planetary ecliptic encounter) = 1/200
+  P(bypassing Mars, Venus, Jupiter closely) = 1/20,000
+  P(perihelion behind Sun as seen from Earth) = 1/14
+
+Combined probability (assuming independence):
+  P_total = (1/200) x (1/20,000) x (1/14)
+  P_total = 1 / (200 * 20,000 * 14)
+  P_total = 1 / 56,000,000
+  P_total = 1.79 x 10^-8
+
+Drew presents this as evidence that 3I/ATLAS cannot be a random natural object; its
+orbital parameters are too precisely configured to be coincidental. This is a Bayesian
+prior argument: under the null hypothesis (natural random hyperbolic interloper), the
+probability of such an orbit is ~18 parts per billion. Drew concludes the trajectory
+is intentionally chosen.
+
+---
+
+## 7. Axial Flux Motor / Induction Motor Physics
+
+In the axial flux configuration (video 13_1914659684906328064):
+  Stator coils produce B_z along rotation axis
+  If rotor contains permanent magnets: synchronous motor operation
+    Torque T = p * psi_m * I_q  (standard PMSM torque equation, p = pole pairs,
+    psi_m = magnet flux linkage, I_q = quadrature current component)
+  If rotor is conducting plate in alternating B_z: induction motor operation
+    Torque T ~ s * V_1^2 * R_2 / (R_2^2 + (s*X_2)^2)  (standard induction motor
+    torque-slip equation, V_1 = applied voltage, R_2 = rotor resistance, X_2 = rotor
+    reactance, s = slip)
+
+---
+
+## 8. Angular Momentum Conservation Demo (Floating Boat, video 13_2038909635663654913)
+
+Initial state: boat at rest, motor spinning blade at angular velocity omega_blade:
+  L_total = I_blade * omega_blade + I_boat * 0 = I_blade * omega_blade (not zero,
+  but note the transcription says "total angular momentum is zero" implying the system
+  was set so L_boat = -L_blade initially, or the blade was started after flotation)
+
+After blade reversal:
+  L_blade_new = -I_blade * omega_blade (reversed)
+  delta_L_blade = -2 * I_blade * omega_blade
+  delta_L_boat = +2 * I_blade * omega_blade
+  omega_boat = 2 * I_blade * omega_blade / I_boat (opposite direction to blade reversal)
+
+This is clean experimental demonstration of:
+  d/dt (L_total) = tau_external = 0 (frictionless floating)
+  => L_total = constant throughout blade reversal
+
+Drew uses this as the physics foundation for the inner/outer flywheel angular momentum
+coupling in his UFO propulsion experiments.
+
+---
+
+## 9. Cosmological Context: Vacuum Energy / Empty Space Emergence
+
+Tweet 2044541150003110357 (note_tweet):
+  "Millions of huge galaxies somehow arise from 'empty space', each with its protons,
+  neutrons, electrons and intelligent life. Perhaps even parallel universes or time travel?"
+
+This is a reference to the cosmological fine-tuning problem and vacuum energy density.
+The quantum vacuum has a zero-point energy density predicted by QFT:
+  rho_vacuum = sum_k (1/2) * hbar * omega_k / V
+
+The cosmological constant problem: the observed dark energy density (~10^-29 g/cm^3)
+is approximately 120 orders of magnitude smaller than the naive QFT vacuum energy
+calculation. Drew references this implicitly by noting that "ten thousand things come
+out of nowhere" and "many mysterious and unseen forces of nature: inertia, electricity,
+magnetism, gravity." His reference to "ships to fly magically through space" connects
+vacuum energy to potential propulsion.
+
+---
+
+*Appended: 2026-04-22. Source: RedCollie1 tweet corpus, directory 7/8.*

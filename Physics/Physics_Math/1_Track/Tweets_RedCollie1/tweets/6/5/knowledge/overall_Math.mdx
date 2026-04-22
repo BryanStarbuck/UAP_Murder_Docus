@@ -1,0 +1,202 @@
+# Mathematical Equations and Quantitative Relationships
+## Source: RedCollie1 (Dr. Horace Drew) — tweets/6/5/
+
+---
+
+## Section: 13_1913560796048904192_video.mdx + 1913560886129951225.yaml
+
+### Force vs. Frequency Data Points
+
+Empirical dataset from rotating electromagnetic device experiment:
+
+| Rotation frequency f (Hz) | Measured downward force ΔF (grams) |
+|---------------------------|-------------------------------------|
+| low (unspecified)         | 0                                   |
+| onset (pole at top)       | 350                                 |
+| intermediate              | 500                                 |
+| 15                        | 700                                 |
+| 16 (interpolated)         | 800                                 |
+| 17                        | 900                                 |
+| 17+ (projected)           | ~1000                               |
+
+Force increase per Hz interval (15–17 Hz):
+ΔF/Δf ≈ (900 − 700) g / (17 − 15) Hz = 200 g / 2 Hz = 100 g·Hz^{-1}
+
+This is approximately linear in the observed range, suggesting ΔF ∝ f in the 15–17 Hz regime.
+A linear force-frequency relationship in electromagnetic induction devices is consistent
+with eddy current generation, where P_eddy ∝ f^2 and F_eddy ∝ f in the low-frequency
+limit, but ∝ f^2 at higher frequencies where skin depth becomes significant.
+
+Weight conversions:
+* 700 g = 0.7 kg → F = 0.7 × 9.81 = 6.87 N
+* 900 g = 0.9 kg → F = 0.9 × 9.81 = 8.83 N
+* 1000 g = 1.0 kg → F = 9.81 N ≈ 10 N
+
+---
+
+## Section: 13_1926942523726921728_video.mdx + 1926943991410360706.yaml
+
+### Three-Phase Rotating Field Geometry
+
+Coil triangle geometry: Three coils at vertices of equilateral triangle.
+For equilateral triangle with coil separation d:
+* Side length: d
+* Each coil subtends 120° phase separation from adjacent coils
+* The rotating field vector ω traces a circle of radius proportional to the drive current amplitude
+
+For three-phase balanced drive with amplitude I_0:
+I_1(t) = I_0 cos(ωt)
+I_2(t) = I_0 cos(ωt − 2π/3)
+I_3(t) = I_0 cos(ωt − 4π/3)
+
+The resulting magnetic field at the center of the triangle rotates at angular frequency ω
+(the electrical drive frequency in rad/s, so f = ω/2π Hz).
+
+Magnet specifications:
+* Diameter: 80 mm (radius r_m = 40 mm = 0.04 m)
+* Central hole: 10 mm diameter (inner radius 5 mm)
+* Disc magnet volume (approximation): V ≈ π(r_outer^2 − r_inner^2) × t, where t = disc thickness
+
+Mechanical stop: 20 mm maximum Z-axis displacement.
+
+---
+
+## Section: 1956621724679839906.yaml + 13_1956621179403501568_video.mdx
+
+### Vortex Field Spatial Extent Measurements
+
+Measurement: Weight change (apparent anti-gravity effect) as a function of vertical separation z
+from spinning magnet apparatus:
+
+| z (mm) | Effect |
+|---------|--------|
+| 5       | Full weight reduction (locked up) |
+| 10      | Full weight reduction |
+| 15      | Full weight reduction |
+| 60      | Full weight reduction |
+| 70      | Full weight reduction |
+| 100     | Full weight reduction |
+| 120     | Full weight reduction |
+| 150     | Full weight reduction |
+| 200     | Full weight reduction (boundary) |
+| >200    | Effect terminates; full gravitational weight restored |
+
+Field profile: The spatial dependence is approximately Θ(200 mm − z) (Heaviside step function),
+i.e., the field is effectively uniform within the volume and zero outside it. This is
+inconsistent with standard dipole falloff:
+
+Standard dipole: B(r) ∝ r^{-3} → at z = 200 mm relative to z = 5 mm, standard dipole field
+would be reduced by factor (200/5)^3 = 64,000 times. The fact that the effect is essentially
+constant across this range (5 mm to 200 mm) contradicts any standard magnetic dipole mechanism.
+
+If the effect were due to a standard magnetic dipole, B(z) = (μ_0 m)/(2π z^3), and at
+z = 200 mm vs z = 5 mm:
+B(200)/B(5) = (5/200)^3 = 1.5625 × 10^{-5}
+
+The measured data shows essentially NO decay over this range, ruling out the dipole model
+with confidence of at least 10^4 ratio.
+
+Effective volume of anomalous field: cylinder with radius (unspecified) and height ≈ 200 mm.
+
+---
+
+## Section: 2037386889423151544.yaml
+
+### Magnet Ring Geometric Parameters
+
+Thin outer ring, Configuration A:
+* N_magnets = 16
+* L_magnet = 20 mm = 0.02 m
+* Circumference: C = 16 × 20 mm = 320 mm = 0.32 m
+* Ring radius: r = C/(2π) = 320/(2π) mm = 50.93 mm ≈ 50.9 mm
+* Number of magnetic pole pairs (NN = 1 pair unit): N_pp = 8
+* Pole pitch: τ = C/N_pp/2 = 320/16 = 20 mm
+* Spatial wavenumber: k = 2π/λ where λ = pole pair pitch = 40 mm → k = 2π/40 mm = 0.157 mm^{-1}
+
+Thin outer ring, Configuration B:
+* N_magnets = 16
+* L_magnet = 30 mm = 0.03 m
+* Circumference: C = 16 × 30 mm = 480 mm = 0.48 m
+* Ring radius: r = 480/(2π) mm = 76.4 mm
+* Pole pair pitch: 60 mm
+* Spatial wavenumber: k = 2π/60 mm = 0.105 mm^{-1}
+
+Torque needed for ring spin: T ∝ I × B × r × N where I is the induced current,
+B is the applied field, r is the ring radius, and N is the number of active magnets.
+
+---
+
+## Section: 2043456881264668787.yaml
+
+### Dual-Spin Force Balance Equations
+
+Let:
+F_up = upward Z-axis force on inner disc magnet from its own spin at frequency f_inner
+F_down = downward Z-axis force on inner disc magnet from counter-spinning outer flywheel at f_outer
+F_net = F_up − F_down (net Z-axis force; positive = upward)
+
+Observed:
+* f_inner = 15–30 Hz → F_up > 0 (inner magnet rises toward stop)
+* f_outer = 40 Hz (counter direction) → F_down > 0 (pushes inner magnet downward)
+* At appropriate f_outer/f_inner ratio: F_net ≈ 0 (hover), or F_net > 0 (rise), or F_net < 0 (descent)
+
+Proposed UFO altitude control: By varying either f_inner (3-phase drive frequency) or
+f_outer (flywheel speed), the net vertical force can be continuously varied from upward to
+zero to downward, enabling altitude control without conventional thrust.
+
+Control parameter: f_outer is the primary control variable. Increasing f_outer increases
+F_down, reducing net lift. Decreasing f_outer reduces F_down, increasing net lift.
+
+---
+
+## Section: 1944517089408196751.yaml
+
+### Numerical Relationship: 8 + 9 = 17
+
+Dr. Drew responds to a question with the equation: 8 + 9 = 17
+
+Context: In the broader thread this refers to the number 17 (= Q in the alphabet, Q = 17th letter).
+This is a numerological/symbolic relationship rather than a physical equation, but it is
+cited as meaningful within Drew's framework of crop circle encoding.
+
+Additional numerical relationship from 1963038984646623572.yaml:
+* Crop picture at Southend Airport, August 17, 2017: 21 boxes total
+* 17 boxes filled with symbols
+* 4 boxes left empty
+* 4 = days remaining until solar eclipse on August 21, 2017
+* Q = 17 (alphabetical position)
+
+The coding system uses base-26 alphabetical position encoding where Q ↔ 17.
+
+---
+
+## Section: 1949292589620047909.yaml (note_tweet)
+
+### 4-Symbol Binary Code: Information Density Comparison
+
+Standard binary (2-symbol) code: Uses alphabet {0, 1}. Each symbol carries 1 bit of information.
+Information per symbol: H = log_2(2) = 1 bit
+
+DNA coding system (4-symbol): Uses alphabet {A, T, G, C}. Each symbol carries:
+H = log_2(4) = 2 bits per symbol
+
+Proposed alien 4-symbol code (EMERTHERS system): Same information density as DNA: 2 bits/symbol.
+
+Efficiency comparison:
+* For equal information content I, a 4-symbol code requires N_4 = I/2 symbols
+* A 2-symbol code requires N_2 = I symbols
+* Ratio: N_4/N_2 = 0.5 → 4-symbol code requires half as many symbols as binary for the same information
+
+Hardware requirement for implementation: 4-sub-band frequency WiFi (4 distinguishable
+frequency channels operating simultaneously per data bit-group). This maps 4 symbols
+{0,1,2,3} to 4 frequency sub-bands, analogous to QAM (Quadrature Amplitude Modulation)
+but with distinct sub-bands rather than phase/amplitude combinations.
+
+Information encoding note: "4-symbol A.I. would work much more efficiently than the 2-symbol
+A.I. we are using today."
+
+Capacity formula for 4-symbol channel:
+C = B × log_2(4) = 2B bits/s (where B = channel bandwidth in Hz)
+vs.
+C = B × log_2(2) = B bits/s (binary)
+→ 4-symbol doubles channel capacity for the same bandwidth.

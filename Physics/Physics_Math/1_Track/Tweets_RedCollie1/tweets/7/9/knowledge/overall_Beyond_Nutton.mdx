@@ -1,0 +1,160 @@
+# overall_Beyond_Nutton.mdx
+# Everything Beyond Newtonian Mechanics: New Physics Findings, Non-Classical Results
+
+Source: Red Collie (Dr. Horace Drew), @RedCollie1, Caltech / MRC LMB Cambridge.
+Extraction date: 2026-04-22
+
+---
+
+## 1. Claimed Violation of Newton's Third Law in Counter-Rotating Magnetic Assembly
+
+From tweet 2044598282689941568 (note_tweet):
+"I suspect that the KEY to UFO physics will be to have a fast-spinning and upward-jumping
+magnet to 'push upward' against the magnetic fields of a flywheel, which is spinning
+rapidly in the opposite direction. This may perhaps cancel Newton's 3rd Law?"
+
+From video 13_2044596310473580544:
+"Normally the magnet pushing up on the flywheel would not cause any overall gravity weight
+change. However, in this case it's pushing up on a flywheel being driven at about 40 Hz
+in the opposite direction — relative velocity about 80 Hz — so we may see non-Newtonian
+forces which change the interactions quite a lot due to the fast spin rates."
+
+Context: Newton's Third Law (actio = reactio): for every force exerted by body A on body B,
+body B exerts an equal and opposite force on body A. In a closed mechanical system, internal
+forces cancel and the center of mass does not accelerate. The claim here is that at high
+relative angular velocity (omega_rel ~ 80 Hz) between counter-rotating magnetic bodies,
+this cancellation fails, producing a net internal upward force on the system.
+
+Status in source material: unverified claim, proposed as a testable hypothesis (weigh the
+system on a scale before and after activation). No quantitative experimental result
+demonstrating the violation is present in the source files.
+
+---
+
+## 2. Claimed Absence of Back-Reaction in Galinstan Homopolar Motor
+
+From tweet 1966452992540017086 (note_tweet):
+"The spin motion of this 'galinstan' homopolar motor has inertia, but no apparent
+back-reaction due to Newton's 3rd Law."
+
+In standard homopolar motor theory:
+The torque on the conducting disk/fluid: tau_fluid = integral(r x (J x B)) dV (counterclockwise)
+The reaction torque on the magnet providing B: tau_magnet = -tau_fluid (clockwise)
+Newton's Third Law requires tau_magnet + tau_fluid = 0.
+
+The claim that "no apparent back-reaction" is observed suggests either:
+(a) The measurement apparatus cannot detect the reaction torque on the permanent magnet
+(e.g., if the magnet is fixed to a rigid mount, the reaction force is absorbed by the
+mount without visible deflection), OR
+(b) A genuine anomaly in which the azimuthal electromagnetic momentum is transferred
+to the far field rather than locally back to the magnet.
+
+The source does not specify which of these is the explanation, nor are quantitative
+measurements provided.
+
+---
+
+## 3. "Non-Newtonian Forces" at High Relative Spin Rate
+
+From video 13_2044596310473580544:
+"We may see non-Newtonian forces which change the interactions quite a lot due to the
+fast spin rates."
+"I've already seen such things, say, for studying Lens levitation or spin."
+
+"Non-Newtonian forces" is used here to mean forces that cannot be predicted by the
+standard Newtonian mechanics framework applied to slow-moving bodies. Possible
+non-classical force regimes at high angular velocity include:
+* Relativistic corrections: For omega_rel ~ 80 Hz = 80 * 2*pi rad/s = 502 rad/s at a
+  radius of r, the tangential velocity is v = r * omega. For r = 0.05 m:
+  v = 0.05 * 502 = 25 m/s — entirely non-relativistic (v << c = 3x10^8 m/s).
+  Relativistic corrections are of order (v/c)^2 ~ 7x10^-15 — negligible.
+* Gyro-gravitational coupling: Spin-orbit-like coupling between the angular momentum of
+  the rotating magnetic assembly and the local gravitational field. Not predicted by
+  standard Newtonian mechanics or even GR at these energy scales.
+* Mach's principle effects: Hypothesis that inertia arises from the interaction with
+  distant matter; rapidly spinning bodies might interact differently with the distant
+  mass distribution. (Woodward's Mach effect transients — cited in passing by the "Lens
+  levitation" reference — involve transient mass fluctuations due to Machian inertia
+  coupling, described by the Abraham-Lorentz force in a Machian context.)
+
+The source provides no theoretical framework for the mechanism, only the experimental
+hypothesis and the reference to "Lens levitation or spin" as a precedent.
+
+---
+
+## 4. Vortex Theory of Space as an Alternative to Standard GR/Newtonian Gravity
+
+From video 13_1957293251477811200 (transcription):
+"It's really quite easy to explain in terms of vortex theory."
+"There's a vortex in space created by the spinning gyroscope."
+"It's when it pulls down on one side, it's pressing against normal space and rolling
+with it like that — just sideways — and that makes it go round and round at the boundary
+layer."
+
+This is a qualitative alternative theory to the Euler-Lagrange treatment of gyroscopic
+precession. The claim is:
+* Spinning bodies create vortices in the fabric of space.
+* These vortices interact with "normal space" at a boundary layer.
+* The interaction at the boundary layer causes precession (in the standard case) and
+  could potentially be harnessed to produce directional thrust.
+
+This is not equivalent to any known published physical theory (not torsion field theory,
+not gravitomagnetic effects from GR, not the Lense-Thirring effect). The Lense-Thirring
+effect (frame dragging) in GR does predict that rotating massive bodies drag the
+surrounding spacetime metric, but the magnitude for a small laboratory gyroscope is:
+  delta_phi ~ (2*G*J)/(c^2 * r^3)
+where J = I * omega is the angular momentum of the gyroscope. For a kilogram-scale
+gyroscope at omega = 100 rad/s at r = 0.1 m:
+  J ~ 0.001 kg*m^2 * 100 rad/s = 0.1 kg*m^2/s
+  delta_phi ~ (2 * 6.67e-11 * 0.1) / (9e16 * 1e-3) ~ 1.5e-26 rad/s (negligible)
+So the claimed "vortex in space" is not frame-dragging at these scales.
+
+---
+
+## 5. Circular-to-Helical Trajectory Transition as Propulsion Principle
+
+From tweet 1966452992540017086 (note_tweet):
+"So if we can alter the spin motion from circular to helical, the device may 'rise up'."
+
+Standard physics: A particle constrained to helical motion in a magnetic field (charged
+particle in a uniform B field) has:
+  Circular component: v_perp = omega_c * r_L (cyclotron motion, omega_c = qB/m)
+  Axial component: v_parallel = constant (no force along B in uniform field)
+For the transition from planar circular to helical: an axial velocity component must
+be introduced, requiring either an axial magnetic field gradient (grad-B force:
+F_z = -mu * dB/dz where mu = magnetic moment), or an explicit axial force component.
+
+In the galinstan homopolar motor, the current flow is radial and the magnetic field is
+axial. Introducing a helical component would require either:
+* A rotating B field with a helical component (produced by, e.g., a screw-wound solenoid
+  superimposed on the axial permanent magnet field), OR
+* Exploiting a radial magnetic field gradient to create a net axial Lorentz force on the
+  rotating conducting fluid.
+
+The source does not specify the mechanism — it is stated as a goal ("if we can alter...").
+
+---
+
+## 6. Crop-Circle-Encoded Physics as Source of Beyond-Newtonian Knowledge
+
+The claim throughout the source material is that crop circle formations encode technical
+diagrams for UFO propulsion physics that represent physics beyond the current public
+scientific canon. Specifically:
+* The disk magnet + ring magnet + three-phase AC drive configuration is claimed to be
+  read from crop circle schematic diagrams (not derived from standard physics texts).
+* The counter-rotation prescription (inner clockwise, outer anticlockwise) is claimed
+  to be specified by crop circle geometry.
+* The "spin and cavity spin" dual-rotation architecture is claimed to be new physics
+  not known to human science before the crop circle communication.
+
+From tweet 2010493322226483416:
+"This seems to be what it represents — part of a UFO propulsion drive. No A.I. can decode
+it, because they don't know alien physics."
+
+From tweet 2014201394949960029 (referenced):
+"3-phase spin and counter-spin. Nobody knew before! Except aliens."
+
+These are extraordinary claims — the source offers no mathematical derivation or physical
+theory for why counter-rotating magnetic rings should violate Newton's Third Law or produce
+anomalous lift. The experimental program is presented as an attempt to empirically verify
+the crop-circle-prescribed configurations.

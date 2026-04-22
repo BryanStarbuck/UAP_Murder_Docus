@@ -1,0 +1,63 @@
+TYPE: Physics textbook diagram — Faraday's law of electromagnetic induction; cylindrical solenoid with time-varying magnetic field B(t) and closed loop C bounding surface S; outward normal n-hat
+
+CONTENT:
+- White background
+- Black line art with gray shading
+- Portrait format, approximately 430 x 540 pixels
+- Standard physics/electromagnetism textbook illustration
+
+DIAGRAM ELEMENTS:
+
+SOLENOID CYLINDER:
+- A CYLINDER drawn in 3D perspective (slightly tilted for visibility)
+- The cylinder represents a SOLENOID or a region of uniform magnetic field
+- Surfaces: 
+  * TOP ELLIPSE: gray-shaded flat circular face (labeled "S" — the bounding surface)
+  * SIDE SURFACE: rectangular lattice grid of squares (indicating the cross-section is the field region)
+  * BOTTOM ELLIPSE: same as top (closing the cylinder)
+
+MAGNETIC FIELD ARROWS:
+- Inside the cylinder: multiple UPWARD-POINTING VERTICAL ARROWS
+- The arrows are drawn on the side surface of the cylinder (indicating field throughout the interior)
+- They point UPWARD (in the +z direction)
+- Label: "B(t)" — indicating the magnetic field is TIME-VARYING
+- The upward arrows represent: B(t) = B₀(t) ẑ (uniform, time-varying, axially-directed field)
+
+BOUNDING ELEMENTS:
+- "C" LABELED: at the top of the cylinder, the CLOSED LOOP C is the boundary of the surface S
+- The loop C is the circular boundary of the top face
+- An arrow on the loop C indicates the positive circulation direction (counterclockwise when viewed from above, consistent with the right-hand rule)
+- "S" LABELED: the interior of the top face (the bounding surface bounded by C)
+
+OUTWARD NORMAL:
+- "n̂" LABELED: an ARROW pointing RIGHTWARD and OUTWARD from the top surface
+- This is the OUTWARD UNIT NORMAL to the surface S
+- Used in the surface integral form of Faraday's law
+
+PHYSICS CONTENT — FARADAY'S LAW:
+The diagram illustrates Faraday's law of electromagnetic induction in integral form:
+∮_C E · dl = -d/dt ∫∫_S B · dA = -dΦ_B/dt
+
+Where:
+- Φ_B = ∫∫_S B · n̂ dA is the magnetic flux through surface S
+- The left side is the EMF (electromotive force) around the closed loop C
+- The right side is the negative time derivative of the magnetic flux
+- A time-varying B(t) inside the solenoid induces a circulating electric field E outside (and inside)
+- The induced EMF drives current in any conductor placed along loop C
+
+RELATIONSHIP TO CROP CIRCLE RESEARCH:
+In the context of the vesica piscis formation (3_1934972316741742592.jpg):
+- The two overlapping circles of the formation correspond to the surface S bounded by loop C
+- When two such solenoid cross-sections overlap, the mutual flux linkage determines the coupling between adjacent field regions
+- The "keys" (horizontal bars) through the formation may encode the path of the closed loop C
+
+COLORS:
+- Cylinder: black outline
+- Top surface: gray shading
+- Side: black grid lines on white
+- Arrows (B field): solid black with arrowheads
+- Outward normal: solid black with arrowhead
+- Labels: black text (B(t), S, C, n̂)
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 430 x 540 pixels, portrait format

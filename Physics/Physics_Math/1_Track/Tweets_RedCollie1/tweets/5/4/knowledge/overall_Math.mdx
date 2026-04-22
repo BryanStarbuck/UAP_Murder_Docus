@@ -1,0 +1,215 @@
+{/* overall_Math.mdx — Mathematical equations, their pieces and relationships.
+   Exact equations preserved. XY and Z-axis dynamics.
+   Source directory: tweets/5/4/
+*/}
+
+## Source: 13_1969221708965167104_video.mdx and 1998843830817472944.yaml
+
+### MHD Body Force: XY-Plane Spin Generation
+
+The fundamental driving equation for the liquid-metal vortex spin in the XY-plane:
+
+**f = J × B**
+
+Components in cylindrical coordinates (r, θ, z):
+- **J** = J_r(r) r̂ (radial DC current density, A/m²)
+- **B** = B_z(r,z) ẑ (axial field from permanent magnet ring, T)
+- **f_θ** = J_r B_z (azimuthal body force density, N/m³)
+
+The negative sign convention: **r̂ × ẑ = −θ̂**, so:
+**f = J_r r̂ × B_z ẑ = J_r B_z (r̂ × ẑ) = −J_r B_z θ̂**
+
+Direction: if J_r > 0 (current outward) and B_z > 0 (field upward), then f_θ < 0 (clockwise when viewed from above). Reversing J_r (flipping DC polarity) reverses the spin direction.
+
+Steady-state azimuthal velocity (simplified, laminar flow, cylindrical annulus):
+From Navier-Stokes in θ-direction with no-slip boundary conditions at r = r_inner and r = r_outer:
+
+**η [d²u_θ/dr² + (1/r) du_θ/dr − u_θ/r²] = −J_r B_z**
+
+This is a second-order ODE for u_θ(r). General solution (Couette-type with body force):
+**u_θ(r) = A r + B/r + (J_r B_z / 4η) r (...)** (depending on radial variation of J_r and B_z)
+
+The current density in the liquid metal (radially from center electrode at r = 0 to outer at r = R):
+**J_r(r) = I / (2π r h)**
+
+where I is the total current (A), h is the depth of the liquid metal layer (m), r is the radial position. This gives a 1/r fall-off of current density with radius.
+
+Experimental values:
+- I ≈ 50 A (limited by 0.14 Ω Nichrome resistance at 12 V)
+- Without resistance: I = V/R_galinstan ≈ 12 V / (near zero Ω) → 200–400 A
+- Power at 50 A, 12 V: P = VI = 600 W total
+- Power in NiCr: P_NiCr = I²R = (50)²(0.14) = 350 W (dissipated in resistance wire)
+- Power available for MHD: P_MHD ≈ 250 W (rough estimate)
+
+---
+
+## Source: 13_1969221708965167104_video.mdx — Three-Phase Field
+
+### Three-Phase Rotating Magnetic Field: Mathematical Form
+
+A balanced three-phase winding with phase currents:
+**I_a(t) = I_0 cos(ωt)**
+**I_b(t) = I_0 cos(ωt − 2π/3)**
+**I_c(t) = I_0 cos(ωt − 4π/3)**
+
+Produces a spatially rotating magnetic field in the plane of the coils:
+**B_3ph(t) = B_0 [cos(ωt) x̂ + sin(ωt) ŷ]**
+
+where B_0 = (3/2) μ₀ N I_0 / (2g) (proportional to the number of turns N, current amplitude I_0, and inversely proportional to the air gap g).
+
+The angular frequency: **ω = 2πf** where f is the applied AC frequency (Hz).
+
+At f = 30 Hz: ω = 60π rad/s ≈ 188.5 rad/s
+At f = 40 Hz: ω = 80π rad/s ≈ 251.3 rad/s
+At f = 20 Hz: ω = 40π rad/s ≈ 125.7 rad/s
+
+Slip frequency relative to DC-driven fluid rotation (angular velocity Ω_fluid):
+**ω_slip = ω_3ph − Ω_fluid**
+
+Induction-motor analogy: the three-phase field induces eddy currents in the spinning conducting fluid at slip frequency ω_slip. The induced current density:
+**J_induced = σ ω_slip B_0 r / 2** (approximate, for r << winding radius)
+
+The resulting electromagnetic torque on the fluid:
+**T_em = ∫∫∫ r (J_induced × B_0) dV ∝ σ B_0² ω_slip V_fluid**
+
+where V_fluid is the volume of the conducting fluid.
+
+---
+
+## Source: 13_1956140781414309894_video.mdx
+
+### Standard Gyroscope Precession Equations
+
+Gyroscope torque-precession relationship:
+**τ = dL/dt = Ω_p × L**
+
+where:
+- **τ** = applied torque (N·m), here gravitational torque τ = m_b g r_b sin θ
+- **L** = angular momentum = I_disc ω_spin ŝ (ŝ = spin axis unit vector)
+- **Ω_p** = precession angular velocity (rad/s)
+
+Precession rate (steady precession, θ = constant):
+**|Ω_p| = τ / (|L| sin θ) = m_b g r_b / (I_disc ω_spin)**
+
+Note: |Ω_p| is independent of θ in this approximation. As ω_spin → ∞, Ω_p → 0 (disc becomes "stiffer").
+
+Direction rule: **Ω_p = (L × τ) / |L|² sin θ** — the precession angular velocity vector is perpendicular to both L and τ, consistent with right-hand rule.
+
+For disc spinning toward observer (+x direction in standard orientation): L = +L x̂. Gravitational torque (from mass offset below pivot): τ = τ ŷ (horizontal). Then:
+**Ω_p = (L x̂ × τ ŷ) / |L|² = τ/|L| ẑ** → precession about +z axis → anti-clockwise when viewed from above (consistent with Drew's observation).
+
+For disc spinning away from observer: L = −L x̂. Then:
+**Ω_p = (−L x̂ × τ ŷ) / L² = −τ/L ẑ** → precession about −z axis → clockwise when viewed from above (consistent with Drew's observation).
+
+The directional dependence on spin sense is therefore derivable from standard Newtonian mechanics via the right-hand rule. However, the "rising to vertical" behavior when speed increases is the non-trivial claim requiring quantitative test.
+
+Rise to vertical mathematics (energy analysis):
+The effective potential for a gyroscope with one end fixed at the pivot, in the fast-spinning (precession-dominated) limit:
+
+**V_eff(θ) = −m_b g r_b cos θ + L² / (2 I_disc (1 − cos θ) sin²θ) × ...** (approximation; exact form involves elliptic integrals for the full Euler-angle treatment)
+
+As ω_spin → ∞ (|L| → ∞): the second term (centrifugal barrier) dominates for θ near 0, driving θ → 0 (vertical). The gyroscope rises toward vertical as spin increases, recovering the sleeping-top limit.
+
+---
+
+## Source: 1952198224921727209.yaml
+
+### Rotating Magnetic Dipole: Field Equations
+
+A spinning magnetic dipole with moment:
+**m(t) = m_0 [cos(ω_s t) x̂ + sin(ω_s t) ŷ]**
+
+(ω_s = spin angular frequency of the magnet)
+
+Near-field (quasi-static, r << c/ω_s):
+**B(r,t) = (μ₀/4π) [3(m(t)·r̂)r̂ − m(t)] / r³**
+
+This is the standard magnetic dipole field, rotating at angular frequency ω_s. The time-varying component radiates as a magnetic dipole:
+
+Radiation power:
+**P_rad = (μ₀ ω_s⁴ m_0²) / (12π c³)**
+
+This is the classical rotating-dipole radiation formula. For a 40 mm permanent magnet with remnant magnetization B_r ≈ 1.2 T, volume V_mag:
+**m_0 = B_r V_mag / μ₀**
+
+For V_mag ≈ π(0.02)²(0.01) ≈ 1.26 × 10⁻⁵ m³:
+**m_0 ≈ (1.2)(1.26 × 10⁻⁵) / (4π × 10⁻⁷) ≈ 12 A·m²**
+
+At ω_s = 2π × 40 Hz = 251 rad/s:
+**P_rad = (4π × 10⁻⁷)(251)⁴(12)²/(12π × 3 × 10⁸)³ ≈ negligible (classical radiation)**
+
+The classical radiation power at 40 Hz is vanishingly small. The vacuum-interaction levitation claim requires a non-classical coupling mechanism.
+
+---
+
+## Source: 1921390172069105957.yaml (note_tweet)
+
+### Focal Point Interaction: Force on Spinning Magnetic Dipole in Gradient Field
+
+Force on a magnetic dipole in non-uniform field:
+**F = ∇(m · B) = (m · ∇)B + m × (∇ × B)**
+
+In free space (∇ × B = 0 outside source currents):
+**F = (m · ∇)B**
+
+For a dipole **m = m ẑ** in an axially symmetric field B_z(r=0, z) along the symmetry axis:
+**F_z = m ∂B_z/∂z**
+
+For attraction (F_z > 0 upward, m > 0): need ∂B_z/∂z > 0 (field increasing upward).
+For repulsion (F_z < 0 downward): need ∂B_z/∂z < 0 (field decreasing upward).
+
+At a focal point (field gradient maximum), ∂²B_z/∂z² = 0 (inflection point of gradient). The force is maximized here. Stability condition for levitation at this point:
+
+**∂F_z/∂z = m ∂²B_z/∂z² = 0 (neutral at focal point)**
+
+Earnshaw's theorem: static magnetic levitation of a permanent magnet by another magnet is unstable. The spinning gyroscopic stabilization (angular momentum preventing dipole flip) is the mechanism that circumvents Earnshaw's theorem, allowing a meta-stable or dynamically stable levitation.
+
+Angular momentum stabilization condition: for the spin to prevent dipole flip, the precession frequency Ω_p must be less than the nutation frequency ω_n:
+
+**ω_n = ω_s ≫ Ω_p = τ_magnetic / |L|**
+
+where τ_magnetic is the torque that would try to flip the dipole (from Earnshaw instability), and |L| = I_mag ω_s.
+
+---
+
+## Source: 13_1994256631992135680_video.mdx
+
+### Newton's Third Law Torque Equation for Single Rotor
+
+For a rotor with moment of inertia I_rotor spinning at angular velocity ω_rotor:
+**L_rotor = I_rotor ω_rotor ẑ**
+
+Conservation of angular momentum (isolated system):
+**L_rotor + L_craft = L_total = constant**
+
+If L_total = 0 (system starts at rest):
+**L_craft = −L_rotor = −I_rotor ω_rotor ẑ**
+
+The craft body rotates anti-clockwise with angular velocity:
+**ω_craft = −(I_rotor/I_craft) ω_rotor**
+
+This is the torque-reaction problem. To prevent craft counter-rotation:
+
+Solution (counter-spin):
+Rotor 1: L₁ = I₁ω₁ ẑ
+Rotor 2: L₂ = −I₂ω₂ ẑ (counter-spin)
+Condition: I₁ω₁ = I₂ω₂ → L_total = 0 → craft does not rotate
+
+The net upward force from both rotors (in the Drew model):
+**F_z(total) = F_z(rotor 1) + F_z(rotor 2)**
+
+Both F_z contributions are in the same (+ẑ) direction if both rotors have the same orientation relative to the applied 3-phase field (the upward force is independent of the rotation sense — it depends on the current direction and field orientation, not on which way the rotor spins). This is the key claim: spin direction determines torque reaction, but the upward force direction is set by the external 3-phase field geometry.
+
+---
+
+## Source: 1913 (solar cycle encoding reference)
+
+### Solar Cycle Period and Encoding Claim
+
+Schwabe cycle: T_solar ≈ 11.0 ± 1.0 years (variable)
+Hale cycle: T_Hale = 2 × T_solar ≈ 22 years (magnetic polarity reversal)
+Solar maximum sunspot number (Cycle 25, 2019-2030): ~125 (predicted), ~140-180 (observed 2024)
+
+The claim: crop circle size encoding (small circle → minimum, large circle → maximum) tracks the solar cycle phase. The ratio of circle sizes in the crop formation would encode the amplitude ratio A_max/A_min of solar activity, with A measured in sunspot number or solar irradiance variation ΔS/S ≈ 0.1%.
+
+No quantitative mathematical relationship between crop circle dimensions and solar cycle parameters is specified in the source tweets; only the qualitative encoding claim is made.

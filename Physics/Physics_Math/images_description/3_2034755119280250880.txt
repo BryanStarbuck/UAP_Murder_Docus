@@ -1,0 +1,14 @@
+TYPE: Engineering CAD drawing — precision ball bearing front view with diameter specifications: Ø115mm outer (0/-0.015mm tolerance), Ø90mm bore (0/-0.020mm tolerance); 8 balls visible in cage. Near-duplicate of 3_2029940431497408512.
+
+CONTENT SUMMARY: This is the same or nearly identical ball bearing engineering drawing as shown in 3_2029940431497408512.jpg, with the same dimensional annotations:
+* Outer diameter: Ø115mm with tolerance 0/-0.015mm (displayed as "Ø115mm-0.015" with superscript 0)
+* Inner bore diameter: Ø90mm with tolerance 0/-0.020mm (displayed as "Ø90mm-0.02" with superscript 0)
+* 8 spherical ball elements visible in the ball race/cage
+* Concentric ring cross-section with cage visible between inner and outer races
+* White background with gray line drawing
+
+See description file 3_2029940431497408512.txt for complete visual details and physics analysis.
+
+MINOR DIFFERENCE: The inner bore dimension annotation shows "Ø90mm-0.02" (rather than "0/-0.020" format) — the tolerance is the same value but formatted slightly differently. May be a different rendering of the same drawing.
+
+OVERALL COMMUNICATION: Engineering CAD drawing of a precision ball bearing (Ø115mm OD × Ø90mm ID, 8 balls), near-duplicate of 3_2029940431497408512.txt. The ball bearing specification is cited as the bearing component in the UAP electromagnetic disc generator assembly (as labeled in the "ball bearings" annotation in 3_2033809760882200577.txt).

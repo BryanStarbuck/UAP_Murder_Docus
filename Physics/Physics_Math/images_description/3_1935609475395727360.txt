@@ -1,0 +1,47 @@
+TYPE: Vector diagram / schematic — isometric 3D wireframe cube with solid black spheres at all 8 vertices and at the center intersection of internal diagonals; black lines on white background; no text or labels
+
+CONTENT:
+- Near-square format image
+- White background
+- Single schematic diagram occupying the full image
+- No text, labels, axes, or scale indicators
+
+GEOMETRIC DESCRIPTION:
+
+OVERALL FORM:
+- An ISOMETRIC PROJECTION of a cube (3D box drawn with parallel perspective, approximately 30° isometric viewpoint — looking slightly from above, from the front-left)
+- The cube is drawn with THICK BLACK LINES for all 12 edges
+- The cube is oriented with one face toward the viewer (front face visible), top face visible, right face partially visible
+
+VERTEX SPHERES (8 nodes):
+- At each of the 8 corners of the cube: a large SOLID BLACK FILLED CIRCLE (sphere/node marker)
+- The vertex spheres are approximately equal in size and notably larger than the line thickness
+- They are positioned at: top-front-left, top-front-right, top-back-left, top-back-right, bottom-front-left, bottom-front-right, bottom-back-left, bottom-back-right (standard cube vertex positions)
+
+INTERNAL STRUCTURE:
+- FOUR INTERNAL DIAGONAL LINES connecting opposite corners through the interior of the cube
+- These are the SPACE DIAGONALS of the cube (each connecting a vertex to the opposite vertex through the center)
+- The four space diagonals all intersect at a single CENTRAL POINT
+- At the central intersection: a large SOLID BLACK FILLED CIRCLE (larger than the vertex spheres) — the central node is visually the most prominent element
+- Additional smaller spheres visible at some mid-edge positions (approximately 4-5 additional sphere nodes on edges at the intersections of edge midpoints with the internal diagonal lines)
+
+TOPOLOGY:
+- The overall structure is the COMPLETE GRAPH of a cube (K_8 minus certain connections, or the cube graph Q_3) with added space diagonals
+- With 8 vertices + 1 center + 12 edges + 4 space diagonals = this is the complete geometric representation of a hypercube projection or a centered cubic lattice unit cell
+
+PHYSICS INTERPRETATION:
+1. BODY-CENTERED CUBIC (BCC) CRYSTAL LATTICE: The most direct interpretation — 8 corner atoms + 1 center atom defines the BCC unit cell of iron, chromium, tungsten, and other metals. The central sphere represents the body-center atom. In UAP metamaterial research, BCC lattice structures with exotic atoms (ununpentium, heavy elements) are of particular interest for their unusual nuclear binding
+2. HYPERCUBE (TESSERACT) PROJECTION: The 4-dimensional hypercube (tesseract) projected into 3D produces exactly this structure — an outer cube + an inner cube connected by diagonals. The central sphere represents the inner cube collapsed to a point (degenerate projection)
+3. QUANTUM ENTANGLEMENT TOPOLOGY: The cube with all space diagonals creates a network where every vertex is connected to every other vertex through the center — representing maximum quantum entanglement connectivity (complete graph topology). In quantum information theory, this is relevant to multi-qubit maximally entangled states (GHZ states)
+4. PLATONIC SOLID DUAL PAIR: The cube and octahedron are dual Platonic solids — the cube's face centers form an octahedron. The space diagonals of the cube correspond to the edges of the inscribed tetrahedra. This duality is fundamental to the spinor representation of the rotation group SO(3)
+5. SACRED GEOMETRY / METATRON'S CUBE: The cube with all its diagonals is a component of Metatron's Cube in sacred geometry — which encodes all 5 Platonic solids and is associated with the structure of spacetime in certain unified field theories
+
+COMPANION IMAGES:
+- 3_1935609683114430464.jpg — likely a companion diagram (different geometric form in the same series)
+
+COLORS:
+- Background: white
+- All lines and spheres: solid black
+- No color variation
+
+IMAGE DIMENSIONS: Approximately 960 x 980 pixels, near-square

@@ -1,0 +1,36 @@
+TYPE: Aerial photograph — crop formation with 5 circle elements inside a large outer ring: one central circle + 4 satellite circles at cardinal/diagonal positions, connected by a cross-shaped frame; ripe wheat field; no text
+
+CONTENT:
+- Square aerial photograph, approximately 500 x 500 pixels
+- Ripe golden wheat field (late summer; crop is tan/golden)
+- Drone photograph from directly above (nadir view); well-lit, clear day
+- No text, labels, or annotations
+
+FORMATION GEOMETRY:
+- OUTER RING: large circle forming the outer boundary of the formation (estimated 40-60 m diameter based on scale)
+- CENTRAL CIRCLE: one medium-sized circle at the exact geometric center of the outer ring
+- 4 SATELLITE CIRCLES: four circles positioned inside the outer ring at roughly the corners of a square inscribed in the ring
+  * The four satellite circles are at approximately NW, NE, SE, SW positions (diagonal)
+  * All four satellite circles appear to be the same diameter (slightly smaller than the central circle)
+  * Total: 5 circles visible inside the outer ring (1 center + 4 corners)
+- CROSS-SHAPED CONNECTOR: a horizontal bar and a vertical bar connecting the satellite circles — the overall inner structure reads as a CROSS or PLUS SIGN (+) with the central circle at the intersection and the four satellites at the four ends of the cross arms
+- The cross arms appear as narrow paths of flattened crop connecting the circles
+- The arrangement has D4 (dihedral 4-fold) symmetry: 4 rotation axes + 4 mirror planes
+
+FIELD CONTEXT:
+- Very sharp image quality (professional drone, likely DJI camera)
+- Tractor lines visible as fine parallel lines across the field
+- Hedgerows/field boundaries not visible (formation is in the center of a large field)
+- Small photographer shadow or lens element possibly visible at extreme edges
+- The formation appears to be in England (field scale, crop type, and style consistent with Wiltshire/Hampshire region)
+
+PHYSICS/UAP RELEVANCE — PhD PHYSICIST LEVEL:
+1. D4 SYMMETRY AND SQUARE LATTICE: The 5-circle (1+4) arrangement with D4 symmetry represents the two-dimensional square lattice unit cell plus its 4 nearest neighbors — this is the coordination shell of the square lattice (z=4 coordination number). The square lattice is one of the five 2D Bravais lattices (oblique, rectangular, centered rectangular, square, hexagonal).
+
+2. FIVE-ELEMENT PATTERN: The arrangement of 1 center + 4 corners in a cross configuration is the "quincunx" pattern (five dots on a die face). The quincunx appears in: sampling theory (optimal 2D sampling for Nyquist-limited signals on a square grid), crystal X-ray diffraction (the (h,k) = (0,0), (1,0), (-1,0), (0,1), (0,-1) reciprocal lattice points for a square crystal), and in some UAP hull design theories (5-node electromagnetic coupling array).
+
+3. CROSS CONNECTOR TOPOLOGY: The cross (+) connector between circles represents the field coupling paths between the satellite elements and the central element. In antenna theory, a cross dipole antenna has: H-plane pattern = omnidirectional, E-plane pattern = bidirectional. The cross dipole is used in circularly polarized antennas (satellite communications). If the 4 satellite circles are EM radiators and the central circle is the collector/emitter, the cross geometry maximizes coupling between adjacent elements.
+
+4. HACKPEN HILL CONNECTION: The companion composite image 3_1936915944841850880.txt labels a similar formation as "June 22, 2025 at Hackpen Hill." This image may be an earlier-year version of the same or similar Hackpen Hill formation. The 1+4 circle inside a ring motif is a recurring geometry at Hackpen Hill.
+
+IMAGE DIMENSIONS: Approximately 500 x 500 pixels, square format

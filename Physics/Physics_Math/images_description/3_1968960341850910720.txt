@@ -1,0 +1,66 @@
+TYPE: Black and white schematic — 8-satellite disc formation with a two-ring bullseye center; one large solid disc surrounded by one wide ring and one thinner ring, with 8 satellite discs distributed around the outer ring at approximately 45° intervals (top, upper-left, upper-right, left, right, lower-left, lower-right, bottom), plus additional small dots flanking each satellite; encodes an 8-brush homopolar motor disc
+
+OVERALL DESCRIPTION:
+A clean black and white formation schematic on a white background. The formation has a central two-ring bullseye element surrounded by 8 medium-to-large satellite disc elements distributed at approximately 45° intervals around the perimeter. Each satellite has 1-2 small dots flanking it (one small dot on each outer side of the satellite). The bottom axis of the formation has additional elements extending below (two medium discs + tiny dot in a descending chain). This is an 8-brush homopolar motor encoding.
+
+IMAGE DIMENSIONS: Approximately 900 x 960 pixels (near-square portrait)
+BACKGROUND: White (#FFFFFF)
+
+CENTRAL BULLSEYE:
+
+OUTER RING:
+- A thick solid black ring (~45-55px wide)
+- Outer diameter: approximately 520-540px
+- Inner diameter: approximately 420-440px
+
+INNER RING / NARROW RING:
+- A thinner ring inside the outer ring
+- Approximately 20-25px wide
+- Outer diameter: approximately 360-380px
+- Inner diameter: approximately 320-340px
+
+CENTRAL DISC:
+- Large solid black filled central disc
+- Diameter: approximately 280-300px
+
+WHITE GAPS between rings:
+- Between outer ring and inner ring: a white annular gap (~30-35px wide)
+- Between inner ring and central disc: a white annular gap (~20-25px wide)
+
+8 SATELLITE DISCS:
+
+Eight medium-to-large solid black discs positioned around the outer ring:
+- Each satellite: approximately 100-120px diameter
+- Positioned so that each satellite's inner edge is tangent to or just touching the outer ring's outer surface
+- Angular positions (approximately): 0° (top), 45° (upper-right), 90° (right), 135° (lower-right), 180° (bottom-center), 225° (lower-left), 270° (left), 315° (upper-left)
+- All 8 satellites appear to be approximately the same size
+
+SMALL FLANKING DOTS:
+- Flanking each satellite on both outer sides (tangentially): 1-2 very small solid black dots (~10-15px diameter)
+- These dots are positioned just beyond the satellite, in the angular "gaps" between adjacent satellites
+- Total small dots: approximately 12-20 around the perimeter
+- These represent: secondary/auxiliary brush contacts, capacitive coupling elements, or position markers
+
+BOTTOM AXIS EXTENSION:
+- Below the bottom-center satellite (at approximately 180°): a descending chain of additional elements
+  * One medium solid disc (~70-80px diameter) just below the bottom satellite
+  * A smaller disc below that (~40-50px diameter)
+  * A tiny dot at the very bottom (~8-10px)
+- This bottom extension represents the electrical terminal or external circuit connection at the motor's south pole
+- The diminishing disc sizes create a "tail" or termination sequence
+
+COMPARISON TO PREVIOUS 8-SATELLITE FORMATIONS:
+- 3_1967347758718947328.jpg: 8-10 satellite discs with small flanking dots, two-ring bullseye — very similar
+- 3_1968960341850910720.jpg (this image): 8 satellites at clear 45° intervals, two-ring bullseye, bottom extension, small flanking dots
+
+PHYSICS/SCIENCE RELEVANCE:
+1. 8-BRUSH HOMOPOLAR MOTOR: 8 satellite discs at 45° intervals encode 8 brush contacts around the rim of the Faraday disc. The EMF at each brush = ½ ω B R² (same at all brushes since all are at radius R). With 8 brushes in parallel: total current capacity = 8× single-brush current, and the output voltage ripple frequency = 8× rotation frequency
+2. TWO-RING BULLSEYE: The two-ring structure (outer ring + inner ring + central disc) encodes three concentric zones of the motor disc: outer rim (where brushes contact), intermediate disc body (current-carrying region), and axle core (inner electrical connection). Each zone operates at a different voltage in the Faraday disc:
+   - Rim voltage V_R = ½ ω B R²
+   - Intermediate zone voltage V_r = ½ ω B r² (r < R)
+   - Axle voltage = 0 (reference)
+3. 45° ANGULAR SPACING: 8-fold rotational symmetry (C8) produces a particularly smooth rotating field: the torque ripple has 8 ripples per revolution (ripple frequency = 8 × f_rotation). This is superior to 3-phase motors (3 ripples/rev) and approaching DC-motor smoothness (∞ ripples/rev in the ideal limit)
+4. SMALL FLANKING DOTS: The 1-2 small dots flanking each satellite may represent: (a) the spring housing and adjustment mechanism for the brush, (b) a secondary/auxiliary probe contact for monitoring brush voltage without affecting the main current, or (c) the two contact surfaces of a split-ring commutator segment
+5. BOTTOM EXTENSION: The descending chain of smaller discs (70-80px + 40-50px + tiny dot) at the bottom terminal is the external circuit connection path — encoding how the motor disc's axle contact is connected through the external circuit back to the rim brush contacts. The diminishing sizes represent the decreasing cross-section of the connection wires as they transition from the disc to the external terminals
+
+SUMMARY: Black and white formation schematic (~900×960px). Two-ring central bullseye: solid central disc (~280-300px diameter), white gap, thin inner ring (~360-380px outer diameter, ~20-25px wide), white gap, thick outer ring (~520-540px outer diameter, ~45-55px wide). 8 satellite discs (~100-120px each) at approximately 45° intervals around the outer ring. 1-2 small flanking dots (~10-15px) on each side of each satellite in the inter-satellite gaps. Bottom extension: one medium disc (~70-80px) + smaller disc (~40-50px) + tiny dot descending below the bottom satellite. Physics encoding: 8-brush Faraday disc homopolar motor — 8 rim contacts at 45° (C8 symmetry), two-ring disc structure encoding three voltage zones (rim, intermediate, axle), small dots as brush contact auxiliary elements, bottom extension as external circuit terminal path.

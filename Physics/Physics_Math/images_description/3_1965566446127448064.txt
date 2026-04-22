@@ -1,0 +1,73 @@
+TYPE: Color educational diagram — chemical process schematic showing catalytic reforming of biomass to hydrogen-rich gas using nickel catalyst
+
+OVERALL DESCRIPTION:
+A simple color educational/infographic diagram on white background illustrating the process of catalytic reforming. The diagram shows: left side — a biomass source (circular photo of natural biomass material), with an energy activation barrier (labeled E_a), passing over a nickel catalyst (labeled Ni, periodic table style), to produce H₂-rich gas (right side, shown with molecular ball-and-stick models). Text labels: "Reforming" (red, top-left) and "H₂-rich gas" (orange, lower-right).
+
+IMAGE DIMENSIONS: Approximately 940 x 390 pixels (landscape, wide)
+BACKGROUND: White (#FFFFFF)
+
+TITLE TEXT (verbatim):
+- "Reforming" in bold red text (upper-left, approximately 36pt)
+- "H₂-rich gas" in bold orange text (lower-right, approximately 30pt)
+
+LEFT ELEMENT — Benzene/Aromatic Ring Structure (blue):
+- A blue ball-and-stick model of benzene or an aromatic organic molecule (cyclohexane ring with 6 blue sphere atoms)
+- The structure shows a hexagonal ring with atoms at each vertex and additional branch atoms
+- Color: Blue (#4080CC) spheres with stick connections
+- This represents the organic feedstock or catalyst model — possibly the zeolite or nickel-doped catalyst structure used in reforming
+
+CENTER-LEFT ELEMENT — Biomass Circle (photographic):
+- A circular photograph (~100px diameter) showing a natural material — appears to be sawdust, wood chips, or organic biomass material
+- Colors: Brown, tan, gray — typical woody biomass
+- This represents the feedstock for reforming: biomass (wood, agricultural waste, etc.)
+
+ENERGY BARRIER CURVE:
+- A blue S-shaped/bell-curve line extending from the biomass circle to the right side products
+- The curve shows: rising slope → peak → falling slope → lower final position
+- Labeled at the peak: "E_a" (activation energy) in black text
+- This represents the energy landscape of the catalytic reaction: the reactants must overcome the activation energy barrier (E_a) before being converted to products
+- The nickel catalyst's role: it lowers the activation energy, making the reaction proceed at lower temperatures
+
+CATALYST — Nickel (Ni) Periodic Table Element:
+- A yellow periodic table element card in the style of the standard periodic table
+- Shows: "28" (atomic number, top-left), "Ni" (element symbol, large, center), "Nickel" (element name, below symbol), "58.693" (atomic mass, bottom)
+- Additional small notation "58.693" or similar visible
+- Yellow/golden background (#FFDD00) with black text
+- This identifies nickel (Ni) as the catalyst — nickel is the most commonly used metal catalyst for steam methane reforming and biomass reforming
+
+RIGHT SIDE — Products in Green-Tinted Sphere:
+Inside a large light-green circle (~220px diameter):
+Several molecular models:
+
+Upper-left molecule: A ball-and-stick model of methane (CH₄)? — a central dark gray atom with 4 white/gray atoms attached
+Upper-right molecule: Similar methane or carbon compound
+Lower-left molecule: A red dumbbell shape — two red spheres connected by a stick — this is CO (carbon monoxide) or O₂ (oxygen) — the red color suggests oxygen
+Lower-right molecule: A dark-red/black dumbbell — possibly CO₂ (carbon dioxide) or similar
+
+These molecular models represent the gaseous products of reforming:
+- H₂ (hydrogen gas — not directly shown, but implied by "H₂-rich gas" label)
+- CO (carbon monoxide — red dumbbell)
+- CO₂ (carbon dioxide — dark dumbbell)
+- CH₄ (methane — gray + white models, possibly remaining unreformed methane)
+
+COLORS:
+- Background: White (#FFFFFF)
+- "Reforming" text: Red (#CC2020)
+- "H₂-rich gas" text: Orange (#CC8820)
+- Benzene ring: Blue (#4080CC)
+- Ni card: Yellow (#FFDD00)
+- Products sphere background: Light green (#D0F0D0)
+- Red molecular spheres: Red (#CC2020)
+- Dark molecular spheres: Dark gray (#404040)
+- White/gray molecular spheres: Light gray (#D0D0D0)
+- Energy curve: Blue (#0000CC)
+
+PHYSICS/SCIENCE RELEVANCE:
+1. Catalytic reforming of biomass (or natural gas) to produce H₂-rich gas is a key energy technology — hydrogen (H₂) is a clean fuel that produces only water when combusted or used in a fuel cell
+2. Nickel (Ni) catalysts are preferred for steam reforming reactions because nickel provides: high catalytic activity for C-H and C-C bond breaking, reasonable cost (compared to platinum group metals), and acceptable thermal stability
+3. The steam reforming reaction: CH₄ + H₂O → CO + 3H₂ (endothermic), CO + H₂O → CO₂ + H₂ (water-gas shift, exothermic). Net: biomass + steam → H₂ + CO + CO₂
+4. In UAP energy research context: hydrogen production via reforming is relevant to proposals for hydrogen-based UAP fuel systems. Some researchers propose that UAP craft use hydrogen plasma as both fuel and propulsion medium — requiring an efficient on-board hydrogen generation or storage system
+5. Nickel specifically appears in some UAP material analysis: nickel-iron alloys have been found in alleged UAP debris, and nickel isotopic ratios in some recovered materials show non-terrestrial ratios. The presence of nickel in both UAP materials and in this hydrogen production process may be coincidental or may suggest a connection
+6. The activation energy (E_a) concept is relevant to understanding energy barriers in plasma propulsion: initiating and sustaining a plasma propulsion reaction requires overcoming an activation energy — analogous to catalyst-assisted chemical reactions
+
+SUMMARY: Wide color educational diagram (~940×390px) on white background. Left: blue ball-and-stick benzene/aromatic ring model (feedstock representation). Center-left: circular photograph of biomass material (wood chips/sawdust). Blue S-curve energy barrier from biomass through peak (labeled E_a) down to products. Yellow periodic table card: "Ni / Nickel / 58.693 / 28" (nickel catalyst). Right: light-green sphere containing molecular ball-and-stick models of CO (red dumbbell), CO₂ (dark dumbbell), CH₄/hydrocarbons (gray+white spheres). Labels: "Reforming" (red, upper-left), "H₂-rich gas" (orange, lower-right). Depicts nickel-catalyzed steam reforming: biomass → hydrogen-rich gas via catalytic activation energy reduction. Relevant to hydrogen plasma propulsion and UAP energy system hypotheses.

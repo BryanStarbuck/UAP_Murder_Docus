@@ -1,0 +1,61 @@
+TYPE: Wooden rail/track apparatus — elevated/oblique view from near-ground; spinning disc motor at front (held in researcher's hand); wooden H-frame track structure at center with white tape electrode assemblies; multiple electrolytic capacitors visible at left; gray concrete surface; landscape video still
+
+CONTENT OVERVIEW:
+A landscape-format video still showing a broader view of the wooden rail/track experimental setup, now including contextual elements beyond the rail itself. The camera is positioned at a low angle — nearly at ground level — looking up and across the experimental apparatus. The spinning motor/disc assembly is being held at the foreground by a researcher's hand (approaching or departing from the rail track structure).
+
+PRIMARY EXPERIMENTAL ELEMENTS:
+
+1. SPINNING DISC MOTOR (foreground, lower-left):
+   - A dark gray cylindrical motor body (~3-5cm diameter) held in a researcher's bare hand (right hand, pale skin)
+   - The motor has a flat metallic disc attached at its shaft — the same spinning disc element seen at the center of the wooden rail in companion images
+   - The researcher is holding the motor/disc assembly just in front of and below the rail structure — possibly about to place it on the rail, or having just removed it for examination
+
+2. WOODEN RAIL/TRACK STRUCTURE (center frame):
+   - The wooden H-frame track structure is clearly visible at mid-frame
+   - The white tape electrode assemblies are visible at both left and right wooden block ends — same configuration as companion images
+   - Two thin wire connections (forming the V-shape above the trough) run between the blocks
+   - Red wire at upper-right connecting to external power source
+
+3. ELECTROLYTIC CAPACITORS (left side):
+   - At the left of the frame: THREE LARGE ELECTROLYTIC CAPACITORS are visible — tall cylindrical aluminum cans (~8-10cm tall, ~3-4cm diameter), silver/aluminum colored with visible capacitor markings
+   - These are connected with red leads — they appear to be large electrolytic capacitors (possibly 1000-10,000 µF, 25-100V range, based on their apparent size)
+   - Large electrolytic capacitors are used to store charge for pulse discharge experiments — consistent with a capacitor discharge rail gun where a large stored charge (E = ½CV²) is released rapidly to drive high current through the rail armature
+   - The three capacitors may be wired in parallel (to increase total capacitance C_total = C₁ + C₂ + C₃) or in series (to increase voltage V_total = V₁ + V₂ + V₃)
+
+4. SMALL METALLIC DISC OR WEIGHT (center floor):
+   - A small flat metallic disc (~3-5cm diameter) is visible on the concrete floor just below the wooden rail structure — possibly a test projectile/armature that was ejected from the rail, or a calibration weight
+
+5. DIGITAL SCALE (lower-right, partially visible):
+   - A precision digital scale is partially visible at the lower-right edge of the frame — the same precision scale used in companion weight measurement images
+   - This confirms the scale is actively used in this experimental setup — possibly to measure any weight/force change in the wooden rail apparatus during operation
+
+LEFT BENCH AREA (additional components):
+- A round surface (possibly a white disc or small table) at the upper-left with silver cylindrical elements and red wires (possibly additional capacitors or coil forms)
+
+COLORS:
+- Motor body: dark gray
+- Spinning disc: silver/metallic
+- Researcher's hand: pale skin
+- Wooden track: tan/natural
+- Electrode tape: white
+- Capacitors: silver/aluminum
+- Red wires: bright red
+- Concrete floor: gray
+- Scale: white/off-white (partially visible)
+
+PHYSICS/UAP CONTEXT:
+The electrolytic capacitors are the most physically significant new elements in this image:
+
+1. Capacitor discharge rail gun: The configuration with large electrolytic capacitors connected to a wooden rail track with a current-carrying armature is the classic design of a LOW-POWER TABLETOP RAIL GUN: (a) capacitors are charged to voltage V; (b) switch closes, releasing charge Q = CV as current I = dQ/dt through the rail; (c) Lorentz force F = IL × B (where B is from permanent magnets placed in the trough gap) accelerates the armature.
+
+2. Mach effect pulsed power connection: Woodward's Mach effect thruster requires pulsed power — rapid charging and discharging of a capacitor into a piezoelectric or electromagnetic element. The combination of capacitors + spinning disc + rail suggests the researcher may be testing a Mach-effect variant: pulsed current discharge through a spinning conducting disc in a magnetic field, hypothesized to produce transient mass fluctuations per:
+   ΔM_transient = -(1/(4πG ρ c²)) × d(P_stored)/dt
+   where P_stored is the energy stored in the capacitor.
+
+3. Pulse energy: For capacitors with C = 3 × 1000 µF = 3000 µF at V = 50V:
+   E = ½CV² = ½ × 3×10⁻³ × 2500 = 3.75 J
+   Peak current through the rail (into ~0.01Ω resistance): I_peak ≈ V/R ≈ 5000 A (for 0.01Ω) — sufficient for significant Lorentz forces.
+
+4. Scale measurement correlation: The precision digital scale visible at lower-right suggests the rail apparatus and spinning disc experiment are being monitored for any weight change during capacitor discharge — combining the Lorentz force test with a weight anomaly measurement.
+
+SUMMARY: Landscape wide-angle low-angle view of the wooden rail/track experimental setup showing: (1) researcher's bare right hand holding a dark gray cylindrical spinning disc motor/assembly at foreground-left; (2) the wooden H-frame rail track with white tape electrode assemblies at both ends at center-frame; (3) three large silver aluminum electrolytic capacitors (~8-10cm tall) with red leads at left — the capacitor discharge bank for a pulse-power rail gun experiment; (4) a small metallic disc on the floor below the rail; (5) a precision digital scale partially visible at lower-right. The capacitor discharge rail gun configuration tests Lorentz force acceleration and potential Woodward Mach effect transient mass fluctuations from pulsed-power discharge through a conducting armature in a magnetic field.

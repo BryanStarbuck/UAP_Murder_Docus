@@ -1,0 +1,41 @@
+TYPE: Digital schematic — triquetra / 3-phase rotating field symbol with inner trefoil (3 vesica piscis lenses) and outer 3 crescent arcs; black and white vector illustration.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background, black and white vector illustration. Approximately square overall composition.
+
+OUTER STRUCTURE (3 crescent arcs):
+* Three large curved arc elements arranged in 3-fold rotational symmetry (C₃ᵥ)
+* Each arc is a thin black curved line forming approximately a 3/4 circle arc
+* The three arcs are positioned at approximately 120° angular intervals (top, lower-left, lower-right)
+* Each arc is oriented with its concave side facing inward toward the central disc
+* The three arcs overlap at their ends: each arc end overlaps with the next arc's start, creating an interlocked/woven appearance
+* The outer extent of each arc reaches approximately 150% of the central disc diameter from center
+* These 3 outer arcs are the "triquetra" or "trefoil" symbol — three interlocked vesica piscis arcs
+
+INNER DISC:
+* A large filled-black circle at the geometric center (approximately 60% of total composition diameter)
+* Within this circle: a thin white ring outline close to the outer edge of the disc (approximately 5% inset)
+* The central disc is filled solid black except for the ring outline and the inner vesica elements
+
+INNER VESICA PISCIS (TREFOIL) ELEMENTS:
+* Within the central black disc: 3 white elongated lens/almond shapes (vesica piscis) arranged in a 3-fold pattern at 120° intervals
+* Each lens is approximately 40% of the disc diameter in length
+* The three lenses meet at the geometric center of the disc in a Y-configuration
+* Each lens points outward from center: one pointing upward, one pointing lower-left, one pointing lower-right
+* The lenses are formed by the intersection of two circles of the same diameter positioned at their circumferences — the standard geometric construction of the vesica piscis
+* The inner lens at the bottom is slightly more elongated/visible than the upper two
+
+COMBINED INTERPRETATION:
+* The outer 3 arcs + inner 3-lens trefoil = the complete Triquetra symbol (Celtic/Christian trefoil knot) in its circular form
+* Also interpretable as: 3 stator pole regions (outer arcs = 3 stator phase zones, each a C-shaped/crescent stator pole), surrounding a filled rotor disc, with inner magnetic flux paths (3 lens shapes = 3 inter-pole flux coupling channels)
+
+PHYSICS INTERPRETATION:
+* This is a clean vector rendering of the same topology depicted by the Hackpen Hill Triquetra crop formation (analyzed in 3_2027625819963854850 and 3_2027625842084634625)
+* The 3 outer arcs represent: 3 stator poles (phases U, V, W) at 120° separation; each crescent stator pole has a concave inner face facing the rotor (central disc)
+* The 3 inner vesica lenses represent: 3 inter-phase flux coupling regions (where the magnetic flux from one phase leaks into the adjacent phase's domain) — this is the "leakage flux" or "mutual inductance" geometry in the radial-flux machine
+* The triquetra's interlocked nature (each arc overlaps with its neighbors) represents the magnetic coupling between adjacent phases: M_UV = M_VW = M_WU (equal mutual inductance between phase pairs in a symmetric 3-phase winding)
+* The Triquetra is also the mathematical representation of three overlapping circles in the Borromean ring configuration — where removing any one ring causes all three to fall apart: metaphorically, all 3 phases are needed for balanced rotation
+* The white ring within the central disc: the air gap between rotor and stator (the ring represents the cylindrical air gap boundary)
+
+OVERALL COMMUNICATION: A clean black-and-white vector Triquetra symbol (3 interlocked crescent arcs + inner 3-lens trefoil in filled black disc) representing the 3-phase electromagnetic generator cross-section: 3 stator poles (U, V, W, outer arcs) at 120° angular spacing surrounding a central permanent magnet rotor (black disc), with 3 inter-phase flux coupling paths (inner vesica lenses). The standard Triquetra symbol thus encodes the fundamental topology of a 3-phase generator/motor.

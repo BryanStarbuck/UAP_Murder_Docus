@@ -1,0 +1,240 @@
+# overall_Math.mdx
+# Mathematical Equations — All Pieces and Relationships
+# Source: RedCollie1 (@RedCollie1, Dr. Horace Drew, Caltech/MRC LMB Cambridge)
+# Directory: tweets/5/3/
+
+---
+
+## Section: 1912717935254335700.yaml / 13_1912715675791159296_video.mdx
+### 3-Phase Rotating Field — Core Equations
+
+**Phase currents (balanced 3-phase system):**
+
+I_U(t) = I₀ cos(ωt)
+I_V(t) = I₀ cos(ωt − 2π/3)
+I_W(t) = I₀ cos(ωt − 4π/3)
+
+where ω = 2πf, f = drive frequency (Hz), I₀ = peak current amplitude.
+
+**Rotating field vector in XY plane:**
+
+B_xy(t) = B₀ [cos(ωt) x̂ + sin(ωt) ŷ]
+
+|B_xy| = B₀ = constant (magnitude fixed, direction rotates at ω)
+
+Angular velocity of field rotation: ω_field = 2πf
+
+**Synchronous mechanical speed of magnet (1 pole pair):**
+
+Ω_mech = ω / p_pairs = 2πf / 1 = 2πf
+
+At f = 17 Hz: Ω_mech = 2π × 17 = 34π ≈ 106.8 rad/s ≈ 1020 RPM
+
+**Operating point (stated):**
+- V = 80 V (3-phase)
+- I = 3 A
+- f = 17 Hz
+- F_z = 1000 g = 9.81 N (upward axial force)
+- Apparent input power: P = V × I = 80 × 3 = 240 W (single-phase equivalent; 3-phase total power depends on winding configuration)
+
+---
+
+## Section: Gyroscopic / Precessional Mechanics
+
+**Angular momentum of spinning ring magnet:**
+
+L = I_ring × Ω_spin ẑ
+
+I_ring = (1/2) m_ring (r_o² + r_i²)
+
+For ring magnet: m_ring ≈ 50–100 g, r_o = 50 mm = 0.05 m, r_i = 6.5 mm = 0.0065 m:
+
+I_ring ≈ (1/2)(0.075)(0.0025 + 0.0000423) ≈ 9.5 × 10⁻⁵ kg·m²
+
+At f = 17 Hz: L = I × Ω = 9.5 × 10⁻⁵ × 106.8 ≈ 1.01 × 10⁻² N·m·s
+
+**Precessional rate under applied torque τ:**
+
+Ω_precession = τ / L = τ / (I_ring × Ω_spin)
+
+**Axial force from constrained precession:**
+F_z = τ / (ℓ sin θ)
+
+where ℓ = moment arm (effective rod length), θ = angle between angular momentum vector and constraint.
+
+**Torque required to produce observed F_z = 9.81 N:**
+τ = F_z × ℓ = 9.81 × ℓ_eff
+
+For ℓ_eff ≈ 0.1 m (half rod length): τ ≈ 0.98 N·m
+
+**Consistency check — precession rate:**
+Ω_p = τ/L = 0.98 / 0.010 ≈ 98 rad/s
+
+This is comparable to Ω_spin = 107 rad/s → Ω_p / Ω_spin ≈ 0.92. When precession rate approaches spin rate, the simple Euler equation breaks down and nutation coupling must be included:
+
+(d²ψ/dt²) I₁ + Ω_spin (I₃ − I₁)(dφ/dt) = τ_external
+
+where ψ = precession angle, φ = spin angle, I₁ = transverse moment of inertia, I₃ = axial moment of inertia.
+
+---
+
+## Section: 1921368126412726679.yaml
+### Ring Magnet On-Axis Field (Exact Expression)
+
+For an axially magnetized ring magnet with magnetization M (A/m), inner radius r₁, outer radius r₂, thickness t, the on-axis field at distance z from the face:
+
+H_z(z) = (M/2) × [ z/√(z² + r₂²) − z/√(z² + r₁²) − (z−t)/√((z−t)² + r₂²) + (z−t)/√((z−t)² + r₁²) ]
+
+B_z(z) = μ₀ H_z(z) (in air, outside the magnet)
+
+**Focal point condition:** d²B_z/dz² = 0 at a point z_f > t (above the magnet face) and dB_z/dz > 0 for z < z_f, dB_z/dz < 0 for z > z_f — a local maximum of B_z on axis, creating a potential well for a diamagnetic particle or a potential "hill" for a ferromagnetic element. The existence and position of z_f depends on the ratio r₁/r₂ and t/r₂; paramagnetic pole pieces modify the boundary conditions, shifting z_f.
+
+**Paramagnetic iron permeability:**
+μ_r = 1 + χ_m
+
+For soft iron (ferromagnetic in practice): μ_r ~ 10³–10⁴ (not paramagnetic in the strict quantum mechanical sense, but Drew uses "paramagnetic" to indicate a magnetically soft, high-permeability material needed to focus flux without permanently retaining magnetization opposite to the drive field).
+
+**Balance condition for hovering:**
+For static levitation (which Drew claims is observed): the upward magnetic pressure force on the floating magnet must equal its weight:
+
+∫(m · ∇B) dV = m_g g
+
+(m · ∇B) = m_z (∂B_z/∂z)
+
+m_z × (∂B_z/∂z)|_{z=z_hover} = m_g g
+
+This requires a specific field gradient ∂B_z/∂z = m_g g / m_z at the hover point. For a permanent magnet with moment m_z = M × V_magnet, the required gradient can be computed. Earnshaw's theorem states this cannot be achieved with purely static fields for unconstrained degrees of freedom — but with dynamic (rotating) fields, gyroscopic stabilization provides the missing restoring force in the transverse directions.
+
+---
+
+## Section: 2017160365377987055.yaml
+### Dual Counter-Rotating Ring — Combined Field Decomposition
+
+**Inner ring field:**
+B_inner(r,t) = B_i(r) cos(Ω_i t + φ_i(r))
+
+**Outer ring field (counter-rotating, Ω_o = −Ω_i):**
+B_outer(r,t) = B_o(r) cos(−Ω_i t + φ_o(r)) = B_o(r) cos(Ω_i t − φ_o(r))
+
+Wait — since Ω_o = −Ω_i, the outer field written in complex notation:
+
+B_outer(r,t) = Re[B̃_o(r) e^{−iΩ_i t}]
+
+**Sum (in complex phasor notation, z-component):**
+
+B_z,total(r,t) = Re[B̃_i(r) e^{+iΩ_i t} + B̃_o(r) e^{−iΩ_i t}]
+
+**Decomposition into sum and difference frequencies:**
+
+B_z,total = |B_i+B_o*|cos(φ₊)/2 + |B_i−B_o*|cos(2Ω_i t + φ₋)/2
+
+(where B_o* is the complex conjugate of B_o in the phasor representation)
+
+The **DC (time-independent) term**: B_static(r) = Re[(B̃_i + B̃_o*)/2]
+
+This static component has a non-zero spatial gradient ∂B_static/∂z capable of exerting sustained force on any magnetic material. The 2Ω_i oscillating term averages to zero force on the slow timescale of mechanical motion.
+
+**Maxwell stress tensor axial component:**
+
+T_zz = (1/2μ₀)(B_z² − B_r² − B_θ²)
+
+Net upward force on a surface S enclosing the interior:
+
+F_z = ∮_S T_zz dA = ∮_S [(1/2μ₀)(B_z² − B_r² − B_θ²)] dA
+
+For a symmetric arrangement where the counter-rotating fields produce B_z(inner region) > B_r, B_θ → T_zz > 0 → net upward force. This is the Maxwell stress mechanism proposed (implicitly) for levitation in Drew's model.
+
+---
+
+## Section: 2030409779731153070.yaml
+### 9-Slot / 12-Pole Winding Parameters
+
+**Pole pairs:** p = 12/2 = 6
+
+**Slots per pole per phase:** q = N_slots / (2 × p × m) = 9 / (2 × 6 × 3) = 9/36 = 1/4
+
+**Synchronous speed:**
+Ω_s = ω_drive / p = 2πf / 6
+
+At f = 17 Hz: Ω_s = 2π(17)/6 = 17.8 rad/s = 170 RPM
+
+**Winding factor (9-slot, 12-pole concentrated winding):**
+k_w = k_d × k_p ≈ 0.866
+
+(For concentrated single-layer winding, this is a standard tabulated value for the 9/12 combination.)
+
+**Air-gap flux density fundamental:**
+B₁ = k_w × (4/π) × (μ₀ NI) / (2g)
+
+For N turns per coil, I = 3 A, g = air gap:
+B₁ = 0.866 × (4/π) × (4π × 10⁻⁷ × N × 3) / (2g)
+
+= 0.866 × (4/π) × (μ₀ × 3N) / (2g)
+
+≈ (3.3 × 10⁻⁶ N) / g [T, with g in meters]
+
+---
+
+## Section: Homopolar Generator (2042735857673945396.yaml)
+
+**Faraday disc EMF:**
+
+ε = ∫₀^R (v × B) · dr = ∫₀^R ωr B_z dr = (1/2) ω B_z R²
+
+**Power output (with external resistance R_ext):**
+
+I_gen = ε / R_ext
+
+P_gen = ε² / R_ext = (ω B_z R²)² / (4 R_ext)
+
+**Torque required to maintain spin against generator back-torque:**
+
+τ_back = (B_z² R⁴ ω) / (4 R_ext μ₀) (order of magnitude)
+
+This back-torque is subtracted from the drive torque of the 3-phase coils; the net propulsive torque is:
+
+τ_net = τ_drive − τ_back − τ_friction
+
+---
+
+## Section: 3I/ATLAS Spectroscopy (1965426616622100855.yaml)
+
+**Nickel emission wavelength (atomic):**
+Ni I: 5475.43 Å (green, visible)
+Ni⁺: multiple UV-visible transitions
+
+**C₂ Swan band (normal comet coma green):**
+d³Πg → a³Πu, band head at 5165 Å (λ ≈ 516.5 nm, green)
+
+**Difference:** C₂ green is from molecular fluorescence; Ni/Ni⁺ green is from atomic/ionic emission. Both produce green but by different spectroscopic mechanisms. The tail composition of 3I/ATLAS showing Ni⁺ ion emission is inconsistent with any known cometary process.
+
+**Ni/Fe solar abundance ratio:**
+(Ni/Fe)_sun ≈ 0.057 by number
+(Ni/Fe)_chondrite ≈ 0.055 by number
+(Ni/Fe)_3I/ATLAS >> (Ni/Fe)_sun → factor unknown, but described as anomalously Ni-rich, Fe-poor
+
+**Gyroradius of Ni⁺ ion in magnetosphere:**
+r_g = m_Ni v_⊥ / (qB)
+
+m_Ni = 58 × 1.67 × 10⁻²⁷ kg ≈ 9.7 × 10⁻²⁶ kg
+At solar wind speed v_⊥ ~ 400 km/s = 4 × 10⁵ m/s, B = 10 nT = 10⁻⁸ T:
+
+r_g(Ni⁺) = (9.7 × 10⁻²⁶ × 4 × 10⁵) / (1.6 × 10⁻¹⁹ × 10⁻⁸) ≈ 2.4 × 10⁸ m ≈ 0.34 R_Earth
+
+This gyroradius (~0.34 Earth radii) is smaller than typical solar wind proton gyroradii, meaning nickel-ion plasma is better confined per tesla of field than proton plasma — lending credence to Drew's claim that a Ni-ion magnetosphere is more effective per unit field strength than an oxygen/nitrogen-ion one.
+
+---
+
+## Section: Rotating Charged Shell Magnetic Field (1994181682417815679.yaml)
+
+**Uniformly charged rotating spherical shell (coma model):**
+Surface charge density σ, radius R_coma, angular velocity ω_plasma about Z-axis:
+
+Interior field (uniform): B_int = (2/3) μ₀ σ ω_plasma R_coma (along ẑ)
+
+Exterior field: dipole with moment m = (4π/3) σ ω_plasma R_coma³
+
+**For nickel ion plasma with number density n_Ni⁺ ions/m³:**
+σ_eff = q × n_Ni⁺ × shell_thickness × R_coma = e × n × Δr × R_coma
+
+The shielding effectiveness scales as B_int ∝ σ ω R, so higher spin rate ω_plasma → stronger interior shielding field.

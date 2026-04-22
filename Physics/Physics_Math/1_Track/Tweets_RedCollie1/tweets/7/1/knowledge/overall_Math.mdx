@@ -1,0 +1,226 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, Relationships, and What Math Makes It Work
+# Source: RedCollie1 (Dr. Horace Drew) tweets, batch 7/1
+# Appended: 2026-04-22
+
+---
+
+## Polyphase AC Motor Mathematics
+
+### 3-Phase Rotating Magnetic Field
+
+Stator winding currents (3-phase, balanced, positive-sequence):
+  I_U(t) = I_0 cos(omega_e * t)
+  I_V(t) = I_0 cos(omega_e * t - 2*pi/3)
+  I_W(t) = I_0 cos(omega_e * t - 4*pi/3)
+
+Resultant air-gap flux density (Fourier synthesis of fundamental spatial harmonic):
+  B_x(t) = (3/2) * B_1 * cos(omega_e * t)
+  B_y(t) = (3/2) * B_1 * sin(omega_e * t)
+
+where B_1 is the peak of the fundamental flux density from a single phase.
+Magnitude: |B(t)| = (3/2) * B_1 = constant (rotating at omega_e, constant amplitude)
+
+Synchronous angular velocity of field rotation:
+  omega_s = omega_e / p_pairs   (rad/s mechanical, for p_pairs pole pairs)
+
+For U-V-W-U-V-W 6-slot winding: p_pairs = 1, so omega_s = omega_e (1 mechanical
+revolution per electrical cycle).
+
+Electromagnetic torque on rotor (synchronous machine):
+  T_em = (3 * V_s * E_f / omega_s) * sin(delta) / X_s
+
+where V_s = stator terminal voltage, E_f = rotor back-EMF, X_s = synchronous reactance,
+delta = torque angle (angle between V_s and E_f phasors).
+
+### 5-Phase Rotating Magnetic Field
+
+Phase displacement angle: 72° = 2*pi/5 between adjacent stator phases.
+  I_k(t) = I_0 cos(omega_e * t - (k-1) * 2*pi/5),   k = 1, 2, 3, 4, 5
+
+Resultant rotating field amplitude:
+  |B_5-phase(t)| = (5/2) * B_1   (for equal-amplitude 5-phase excitation)
+
+Torque ripple frequency: fundamental at 10 * f_e (vs. 6 * f_e for 3-phase)
+Smoother torque ripple (lower peak-to-peak variation): approximately 4% for 5-phase vs.
+approximately 5% for 3-phase (values depend on harmonic content of windings).
+
+---
+
+## Gyroscope and Rigid Body Rotation Mathematics
+
+### Euler Angles and Symmetric Top Lagrangian
+
+Generalized coordinates: theta (nutation), phi (precession), psi (spin)
+
+Lagrangian for symmetric top (I_1 = I_2 ≠ I_3) in gravitational field:
+  L = (1/2) I_1 (theta_dot^2 + phi_dot^2 sin^2(theta))
+      + (1/2) I_3 (psi_dot + phi_dot cos(theta))^2
+      - M g l cos(theta)
+
+Euler-Lagrange equations (equations of motion):
+  d/dt (partial L / partial theta_dot) - partial L / partial theta = 0
+  d/dt (partial L / partial phi_dot)   - partial L / partial phi   = 0
+  d/dt (partial L / partial psi_dot)   - partial L / partial psi   = 0
+
+Conservation laws:
+  p_phi = partial L / partial phi_dot
+        = (I_1 sin^2(theta) + I_3 cos^2(theta)) phi_dot + I_3 psi_dot cos(theta) = const.
+  p_psi = partial L / partial psi_dot
+        = I_3 (psi_dot + phi_dot cos(theta)) = I_3 * omega_3 = const.
+  E     = (1/2) I_1 (theta_dot^2 + phi_dot^2 sin^2(theta))
+          + (1/2) I_3 (psi_dot + phi_dot cos(theta))^2
+          + M g l cos(theta) = const.
+
+Steady precession (theta = const., theta_dot = 0):
+  phi_dot = M g l / (p_psi - I_1 phi_dot cos(theta))
+           ≈ M g l / (I_3 omega_3)   for large omega_3
+
+Nutation frequency for the sleeping top (theta ~ 0):
+  omega_nut = (p_psi / I_1) = I_3 * omega_3 / I_1
+
+### Anomalous Vertical Force: Proposed Mathematical Extension
+
+The claimed new term (not in standard Euler equations):
+  F_z = k * d|L|/dt = k * I_3 * d(omega_3)/dt
+
+Dimensional analysis of k:
+  [F_z] = N = kg * m / s^2
+  [d|L|/dt] = kg * m^2 / s^3
+  Therefore [k] = s / m
+
+This coupling constant k is the key experimental observable. Drew's experimental program
+amounts to measuring the vertical displacement z(t) during spin-up, extracting:
+  k = F_z / (I_3 * d(omega_3)/dt) = m * z_ddot / (I_3 * d(omega_3)/dt)
+
+If k is measured to be non-zero and reproducible, it quantifies the anomalous coupling.
+If k scales with omega_3 (rather than d(omega_3)/dt), this points to a steady-state
+rather than transient mechanism.
+
+---
+
+## Flywheel Device Geometry: Quantitative Parameters
+
+All values stated by experimenter in video transcription:
+
+  D_flywheel = 70 mm = 0.070 m     (outer diameter)
+  t_flywheel = 40 mm = 0.040 m     (thickness / height)
+  t_hull     = 14 mm = 0.014 m     (hull thickness)
+  d_rod      = 8 mm  = 0.008 m     (stainless steel rod diameter)
+  t_central  = 6 mm  = 0.006 m     (central magnet thickness, double-strength)
+  t_central_baseline = 3 mm        (original single-strength)
+
+Observed values:
+  f_spontaneous = 15 Hz = ~94.2 rad/s   (spontaneous spin at no applied power)
+  Delta_z       = 17 mm  = 0.017 m      (vertical rise with 3-phase power applied)
+
+Derived (estimated, geometry-based):
+  Volume (flywheel minus hull):
+    V ~ pi * ((D/2)^2 - ((D/2 - t_hull)^2)) * t_flywheel
+      = pi * (0.035^2 - 0.021^2) * 0.040
+      = pi * (0.001225 - 0.000441) * 0.040
+      = pi * 0.000784 * 0.040
+      ~ 9.85 × 10^-5 m^3
+  For stainless steel (rho ~ 8000 kg/m^3): m_hull ~ 0.79 kg
+
+  Moment of inertia (thin ring approximation for hull):
+    I_3 ~ m_hull * r_mean^2 where r_mean = (D/2 - t_hull/2) = (35 - 7) mm = 0.028 m
+    I_3 ~ 0.79 * 0.028^2 ~ 6.2 × 10^-4 kg*m^2
+
+  Angular momentum at 15 Hz:
+    |L| = I_3 * omega = 6.2e-4 * 94.2 ~ 0.058 kg*m^2/s
+
+These estimates allow quantification of the anomalous force constant k if the vertical
+acceleration during rise is measured.
+
+---
+
+## Astronomical / Orbital Mathematics for 3I/ATLAS
+
+Orbital inclination: i = 5° above ecliptic
+Periapsis distance: r_peri = 1.3 AU = 1.944 × 10^11 m
+
+For a hyperbolic trajectory with periapsis at 1.3 AU, the vis-viva equation:
+  v^2 = mu * (2/r - 1/a)
+
+For a hyperbola: a < 0 (semi-major axis negative convention), e > 1.
+Velocity at periapsis for v_inf given:
+  v_peri = sqrt(mu * (2/r_peri) + v_inf^2)
+
+where mu = G * M_sun = 1.327 × 10^20 m^3/s^2, v_inf = hyperbolic excess speed.
+
+Eccentricity-inclination relationship: these are independent orbital elements for
+a hyperbolic orbit. The 5° inclination is consistent with an origin in the ecliptic
+plane of the source star system, or with interstellar travel approximately in the
+ecliptic of the solar system.
+
+Structural breakup spin rate (Roche limit analog for self-gravitating body):
+  omega_crit = sqrt(4*pi*G*rho/3)
+
+For rho = 500 kg/m^3 (low-density cometary material):
+  omega_crit = sqrt(4 * pi * 6.674e-11 * 500 / 3)
+             = sqrt(4 * 3.1416 * 6.674e-11 * 166.7)
+             = sqrt(1.396e-7)
+             = 3.74 × 10^-4 rad/s
+  T_crit = 2*pi / omega_crit = 16,800 s ~ 4.7 hours
+
+For rotation periods of "minutes" (T ~ 1-10 minutes = 60-600 s):
+  omega_observed = 2*pi/60 ~ 0.105 rad/s   to   2*pi/600 ~ 0.0105 rad/s
+
+Ratio: omega_observed / omega_crit ~ 0.105 / 3.74e-4 ~ 280   to   28
+
+This means the claimed rotation is 28-280× faster than the structural breakup limit for
+cometary density material — supporting the claim of anomalous strength or artificial construction.
+
+Mass estimate (Avi Loeb): M = 33 × 10^9 tonnes = 3.3 × 10^13 kg
+
+For reference:
+  Comet 67P/Churyumov-Gerasimenko: M ~ 10^13 kg  (comparable order of magnitude)
+  Density 67P: rho ~ 538 kg/m^3 (confirming low-density estimate is appropriate)
+
+---
+
+## Binary Code and Crop Circle Mathematical Structure
+
+Source tweet (1938001163376591168, note_tweet):
+"Can you read its three layers of binary code, written in open versus filled circle,
+or open versus filled triangles?"
+
+Mathematical structure claimed: 3-layer binary encoding scheme using:
+  Symbol_A = open circle or open triangle  → binary 0
+  Symbol_B = filled circle or filled triangle → binary 1
+
+Three simultaneous binary channels encoded in geometric features:
+  Layer 1: open/filled circles (one binary stream)
+  Layer 2: open/filled triangles (second binary stream)
+  Layer 3: combination or spatial arrangement (third binary stream)
+
+Information content: if there are N geometric elements, each encoding 3 bits (one per layer),
+total information content = 3N bits.
+
+This is consistent with a Gray code or ASCII encoding scheme applied to crop geometry,
+though Drew does not specify the precise encoding standard used (ASCII, binary integer,
+or a custom code system he has independently decoded from other formations).
+
+---
+
+## Angle and Timing Mathematics (Crop Circle Date Codes)
+
+Source tweet (1922671663642292625, note_tweet):
+"That crop picture was date-coded for the solar eclipse of 2017, as Year 5 of the new
+Mayan calendar."
+
+The Mayan Long Count Calendar:
+  1 baktun  = 144,000 days
+  1 katun   = 7,200 days
+  1 tun     = 360 days
+  1 uinal   = 20 days
+  1 kin     = 1 day
+
+"Year 5 of the new Mayan calendar" refers to 5 years after the end of the 13th baktun
+cycle (December 21, 2012 in the Gregorian calendar). Year 5 of the new cycle:
+  2012 + 5 = 2017   (consistent with the solar eclipse of August 21, 2017)
+
+The mathematical claim is that crop formations encode not just symbolic messages but
+precise date calculations using calendar arithmetic — implying the makers have knowledge
+of both Gregorian and Mayan calendrical systems and can encode dates in physical geometry.

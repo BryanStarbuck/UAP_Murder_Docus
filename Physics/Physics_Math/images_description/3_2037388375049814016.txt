@@ -1,0 +1,62 @@
+TYPE: Annotated schematic diagram — Norman Paulsen UAP generator composite showing the 3-petal stator/rotor assembly (top) connected to the 16-element D-crescent magnet ring (bottom), with labels identifying key components. White background with black silhouette elements and colored annotation lines.
+
+CONTENT SUMMARY:
+
+LAYOUT: Portrait-format diagram on white background. Two major elements: (1) a large complex black silhouette in the upper 65% of the image representing the stator/rotor cross-section; (2) a smaller circular ring element in the lower 35% representing the 16-magnet outer ring. Green annotation lines connect the labels to the silhouette elements.
+
+UPPER ELEMENT — 3-PETAL STATOR / ROTOR ASSEMBLY:
+* A large black-filled complex silhouette consisting of:
+  - A CENTRAL UPPER REGION: A black-filled trefoil/biohazard-like shape with 3 large lobes
+    * Upper-center lobe: approximately oval/teardrop shape pointing upward
+    * Left lobe: large D-shaped or crescent-shaped lobe sweeping to the left
+    * Right lobe: large D-shaped or crescent-shaped lobe sweeping to the right
+  - WHITE CUTOUT REGIONS within each lobe: each lobe has a white (negative space) crescent or oval region inside it — these are the "windows" or air-gap zones within each pole
+  - CENTRAL OVERLAP ZONE: At the junction of the 3 lobes, a complex interlocking region with vesica piscis-like white cutouts
+  - RED CIRCLE: One prominent red circle (approximately 10-12% of image width) positioned at the TOP CENTER of the trefoil structure, slightly overlapping the upper lobe — labeled "1 large N/S magnet above" (red text, both left and right sides)
+  - TWO SMALL BLACK DOTS: One small black dot on the left flank and one on the right flank of the upper trefoil, at approximately the same height as the widest part of the structure
+  - LOWER CONNECTION REGION: The trefoil narrows to a "neck" at the bottom center, with two small black dots flanking the neck
+  - The overall trefoil silhouette resembles the 3-phase stator configuration in cross-section: 3 poles at 120° intervals, each pole having its coil winding creating a D/crescent cross-section
+
+LABELS (upper element):
+* "1 large N/S magnet above" — RED TEXT, upper-left and upper-right, with GREEN lines pointing to the red circle at the top of the trefoil
+* "3 wire coils U-V-W" — RED TEXT, left-center and right-center, with GREEN lines pointing to the left and right lobes of the trefoil respectively
+* The dual labeling (same label on both left and right) emphasizes the bilateral symmetry
+
+LOWER ELEMENT — 16-ELEMENT D-CRESCENT RING:
+* A circular ring element at the bottom of the image
+* The ring consists of approximately 16 small black D-shaped or crescent elements arranged at regular angular intervals (~22.5° each)
+* The ring has a BLUE CIRCLE border (not red or green — this is a different color convention than seen in other diagrams)
+* At the center of the ring: a small white or very light zone with 2 GREEN LINES (annotation pointers) and a small inverted caret/V shape
+* Below the ring: a small tail/protrusion of additional smaller dots extending downward from the bottom of the ring (approximately 3-4 extra small circles below the main ring, decreasing in size)
+* The ring is labeled on both left and right: "2 x 8 = 16 N-S magnets below" (blue text)
+
+ANNOTATION LINES (green):
+* Two green lines originate from the same point within/near the central ring element
+* One green line extends upward-left to the left label ("3 wire coils U-V-W" → left lobe)
+* One green line extends upward-right to the right label ("3 wire coils U-V-W" → right lobe)
+* The green lines cross as they extend upward, creating an X-pattern
+
+CONNECTING ELEMENT:
+* Between the upper trefoil and the lower ring: a narrow "neck" or "stem" connecting element
+* The neck appears as a tapered black shape linking the base of the trefoil to the top of the circular ring
+* This represents the physical shaft or structural connection between the stator assembly and the outer rotor ring
+
+PHYSICS INTERPRETATION:
+* This diagram shows the COMPLETE GENERATOR ASSEMBLY in cross-section schematic form:
+  - UPPER TREFOIL = the 3-phase stator (the stationary coil assembly):
+    * 3 lobes at 120° = 3 phases (U, V, W), each phase creating one stator pole pair
+    * The white cutout within each lobe = the air gap (where the rotating field interacts with the rotor)
+    * "3 wire coils U-V-W" = the 3-phase coil windings driving the rotating magnetic field
+  - RED CIRCLE at top = "1 large N/S magnet above" — the axial end magnet of the generator assembly (one of the two large axial magnets that bookend the device, as per the Paulsen specification)
+  - LOWER RING = the outer rotor: the "2 x 8 = 16 N-S magnets spinning outside" — 16 permanent magnets arranged in an outer ring that spins around the stationary stator
+    * "below" label = this magnet ring is positioned BELOW the stator assembly in the physical device
+    * The blue circle = the BLUE color convention for the lower/clockwise disc (distinguished from the upper disc)
+  - The tail below the ring = the axial extension of the assembly below the lower magnet ring (the "1 large N/S magnet starts below" from the Paulsen specification — the axial end magnet at the bottom)
+* This is a NEW VARIANT of the annotated diagram series, showing the FULL ASSEMBLY from stator (top) through to outer magnet ring (bottom), rather than just the vertical chain or just the cross-section
+
+RELATIONSHIP TO OTHER DIAGRAMS:
+* Upper trefoil portion is similar to: 3_2033854220483629057 (trefoil/nuclear-hazard symbol reinterpreted as 3-phase stator)
+* Lower ring portion is similar to: 3_2033054642574340096 (16-element D-crescent ring overhead view)
+* Vertical chain annotation style (red/green/blue text, green pointer lines) consistent with: 3_2033809760882200577
+
+OVERALL COMMUNICATION: Annotated schematic diagram showing the complete Norman Paulsen UAP generator in cross-section composite: a large black trefoil silhouette (upper 65% of image) representing the 3-phase stator assembly with 3 lobes at 120° (labeled "3 wire coils U-V-W" in red, pointing to left and right lobes with green lines) and a red circle at the top (labeled "1 large N/S magnet above" in red); connected via a narrow neck to a lower circular ring of 16 small D-crescent elements with blue circle border (labeled "2 x 8 = 16 N-S magnets below" in blue on both sides) with a tail of decreasing circles extending downward. Green annotation pointer lines cross in an X-pattern. Encodes the complete generator: upper trefoil = 3-phase stator; red circle = upper axial magnet; lower blue ring = 16-magnet outer rotor; tail = lower axial magnet assembly.

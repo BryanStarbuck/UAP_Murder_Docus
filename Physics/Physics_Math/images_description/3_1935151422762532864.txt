@@ -1,0 +1,77 @@
+TYPE: Composite research infographic — binary code decoding of a crop circle message with ASCII translation and labeled binary pattern shapes; text-heavy white background image; claim: "Textpic computer code is from the future (xxx.tpc)"
+
+CONTENT:
+- White background, portrait/landscape format information graphic
+- Top title (bold, centered): "Textpic computer code is from the future   (xxx.tpc)"
+- Contains: ASCII binary decoding of a text phrase, color-coded binary with letter annotations, and a lower section with two labeled binary shapes (fish shape + cross shape)
+- Attribution at bottom: "RC > message translated fully in December of 2019"
+
+UPPER SECTION — TEXT DECODING:
+
+DECODED PHRASE: "Textpic is from the future!"
+
+ASCII BINARY REPRESENTATION (with letter labels above each byte):
+- Row 1: T e x t p i c
+  01010100 01100101 01111000 01110100 01110000 01101001 01100011
+- Row 2: (space) i s (space) f r o
+  00100000 01101001 01110011 00100000 01100110 01110010 01101111
+- Row 3: m (space) t h e (space) f
+  01101101 00100000 01110100 01101000 01100101 00100000 01100110
+- Row 4: u t u r e !
+  01110101 01110100 01110101 01110010 01100101 00100001 0111
+
+COLOR CODING in binary text:
+- BLUE digits: 0 (zero bits)
+- RED digits: 1 (one bits)
+- Some digits appear in standard black as well
+- This tri-color scheme matches the "CJ" picture file encoding convention from companion images
+
+LOWER SECTION — BINARY SHAPE PATTERNS:
+
+TWO LABELED BINARY GRIDS:
+
+LEFT SHAPE (14 x 8, "fish shape"):
+- A rectangular grid of 0s and 1s approximately 14 columns × 8 rows
+- Left portion: all zeros (blue 0s, dense)
+- Right portion: all ones (red 1s, dense) — transition from 0 to 1 creating a diagonal boundary
+- The boundary between 0-region and 1-region traces a FISH / VESICA PISCIS shape
+- Label: "14 x 8 (fish shape)"
+
+CENTER SHAPE (10 x 10, "cross shape"):
+- A square grid of 0s and 1s approximately 10 columns × 10 rows
+- The pattern of 0s and 1s creates a CROSS / PLUS SIGN shape
+- The cross appears as a region of 1s forming horizontal and vertical bars against a background of 0s (or vice versa)
+- Label: "10 x 10 (cross shape)"
+
+RIGHT SECTION:
+- Additional binary block (all 1s) extending to the right
+- Approximately 10-12 columns wide × 10-12 rows tall
+- Creates a solid rectangular region of 1s
+
+CLAIM AND CONTEXT:
+- The "xxx.tpc" extension refers to "Textpic" format — a hypothetical file format that encodes images as ASCII text using binary spatial patterns
+- The researcher (RC) claims this encoding scheme was found in a crop circle binary message
+- The claim "from the future" suggests the encoding is anachronistically advanced for when the crop circle was made
+- The "CJ" designation from companion images (3_1934939629708541952, 3_1935149667488354304) appears to identify these as files in a series of decoded crop circle messages
+
+PHYSICS/INFORMATION THEORY INTERPRETATION:
+1. TEXTPIC AS COMPRESSED 2D BINARY ENCODING: The Textpic format encodes 2D images as sequences of 0s and 1s read as lines of specified width (68 characters per line) — equivalent to a run-length or bitmap encoding of a monochrome image
+2. FISH SYMBOL IN BINARY: The Ichthys (Christian fish symbol) or vesica piscis appears in binary encoding — connects to the broader theme of sacred geometry encoded in crop circles
+3. CROSS SYMBOL IN BINARY: A plus-sign cross in a 10×10 binary grid is the simplest possible 2D cross encoding — the foundation of image data compression and error-correcting codes
+4. FUTURE TECHNOLOGY CLAIM: If the encoding method predates public knowledge of such compression formats, it could support the hypothesis that crop circle makers had access to information-theoretic concepts ahead of their public availability
+
+COMPANION IMAGES:
+- 3_1934939629708541952.jpg — "CJ" picture file 1b binary extraction from Temple Mount crop circle context
+- 3_1935149667488354304.jpg — duplicate of above
+- 3_1934939610318360577.jpg — Temple Mount annotated photograph (the source of the crop circle binary message context)
+
+COLORS:
+- Background: white
+- Title text: black
+- Binary 0 digits: blue
+- Binary 1 digits: red
+- Some digits: black
+- Shape labels: black/blue
+- Attribution text: black (smaller font)
+
+IMAGE DIMENSIONS: Approximately 750 x 500 pixels, landscape format

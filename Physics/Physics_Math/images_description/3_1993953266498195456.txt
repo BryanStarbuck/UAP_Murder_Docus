@@ -1,0 +1,47 @@
+Type: False-color close-up astronomical image of Comet 3I/ATLAS nucleus condensation — an extremely close-up view of the inner coma/nucleus region showing vivid green C₂ emission surrounding a central saturated white nucleus, with yellow and lavender/blue sub-regions, against a solid black background. No star trails visible (either very short exposure or star-subtraction processed).
+
+Overall Image:
+* Near-square/portrait aspect ratio (slightly taller than wide).
+* Solid black background — the coma occupies approximately 70-75% of the frame, and the outer edge of the coma grades to black.
+* Very heavily processed/pixelated — individual pixel blocks are clearly visible at approximately 0.5-1% of the image width, indicating extreme zoom into the data or very low native resolution.
+
+Coma Structure:
+
+Nucleus (center):
+* A brilliant WHITE BLOB at the center of the image — the saturated nuclear condensation. Approximately 15-20% of the image width.
+* The nucleus blob is not circular but somewhat irregular/rounded rectangle shape — consistent with pixel quantization at this extreme zoom.
+* A faint LAVENDER-PINK tinge around the very center of the white blob (immediately adjacent to the peak saturation region) — this represents the transition zone between the dust-dominated continuum (white) and the molecular emission (colored) at the innermost coma.
+
+Inner Coma (immediately surrounding nucleus):
+* A complex multi-colored inner coma zone:
+  - YELLOW zone: lower-left of the nucleus (approximately 7 o'clock position), a yellowish-green patch. Yellow = dust continuum (solar reflection from dust grains) — indicates higher dust concentration below and to the left of the nucleus.
+  - CYAN/TEAL sub-region: upper area of the inner coma, adjacent to the nucleus (approximately 12 o'clock position).
+  - BLUE/PURPLE sub-region: left-center area of the inner coma — blue representing CO⁺ ion emission at 420nm contribution.
+  - GREEN dominant: the large outer portion of the inner coma is vivid GREEN — the C₂ Swan Band emission at 516nm dominating.
+
+Outer Coma:
+* A broad outer zone of VIVID BRIGHT GREEN completely surrounding the inner nucleus region.
+* The outer coma green is uniform and bright — bright lime/emerald green.
+* At the very outer edge of the coma: the green grades to darker green → black background (not sharply defined but gradual Gaussian falloff).
+* The coma overall shape is approximately circular or slightly elliptical.
+
+Coma Asymmetry:
+* The inner coma color distribution is NOT symmetric:
+  - The yellow dust zone is concentrated at lower-left (7 o'clock) — this is the direction of the dust tail (sunward from the nucleus, the dust accumulates preferentially on the sun-facing hemisphere before being blown into the dust tail).
+  - The blue CO⁺ zone is at left-center — approximately at the boundary between the inner coma and the start of the ion tail direction.
+  - The green C₂ outer coma is more symmetric.
+* This asymmetry provides directional information: the Sun direction is approximately toward the lower-left in this frame orientation.
+
+Physical Interpretation:
+* At this scale (extreme close-up of the inner coma), the yellow dust zone at lower-left represents the "sunward fan" — dust particles ejected from the nucleus that accumulate on the sunward side before solar radiation pressure sweeps them into the dust tail.
+* The separation of dust (yellow, sunward) and ions (blue, anti-sunward direction relative to ions) and C₂ (green, outer shell) provides a complete picture of the three coma components at different radii and directions.
+* The lavender inner zone immediately around the white nucleus is the very innermost coma where dust and gas are not yet separated — mixed emission (continuum + multiple molecular species) creates a composite lavender color (white + blue/violet CN emission).
+
+RC's Contextual Use:
+* This close-up reveals the inner coma structure including the dust-gas separation at the nucleus scale — a key argument for complex multi-component chemistry in 3I/ATLAS's inner coma.
+* The yellow sunward dust fan is direct evidence of active dust outgassing from the nucleus — inconsistent with a pure ice comet but consistent with a dust-rich composition.
+* The multi-color inner coma (yellow, cyan, blue, green, lavender) shows RC's systematic processing revealing different chemical components at different positions around the nucleus.
+
+Text Visible: None.
+
+Summary: False-color extreme close-up of Comet 3I/ATLAS inner coma (same dataset, different processing from 3_1993678850728075264.jpg). Saturated white nucleus blob (~15-20% image width) at center; multi-colored inner coma: lavender immediately around nucleus, yellow at lower-left (sunward dust fan), cyan at upper, blue/purple at left (CO⁺ beginning), surrounded by vivid bright GREEN outer coma (C₂ Swan Band) filling 70-75% of frame. Solid black background. Coma asymmetry: yellow dust concentrated at ~7 o'clock = Sun direction indicator. RC uses this to document inner coma chemistry — dust (yellow), mixed inner zone (lavender/cyan), CO⁺ (blue), C₂ (green) — and the directional sunward dust fan structure.

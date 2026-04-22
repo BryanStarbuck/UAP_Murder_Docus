@@ -1,0 +1,54 @@
+Type: Color-inverted false-color version of 3_1993678850728075264.jpg — the same extreme close-up of the Comet 3I/ATLAS nucleus region subjected to color inversion, showing the nucleus as a large black blob surrounded by concentric blue-purple isophote rings on a pale lavender-white background. A small orange-tan inset is visible at the upper-right corner.
+
+Overall Image:
+* Square aspect ratio — same frame as 3_1993678850728075264.jpg.
+* Very low resolution — same extreme pixel scale as the companion image.
+* Pale lavender-white-pink background (inverted dark green noise background → pale lavender/mauve mottled noise).
+* Upper-right corner: small orange-tan inset panel (inverted blue-grey inset from 3_1993678850728075264.jpg → orange-tan).
+
+Color Inversion Analysis:
+
+Background (inverted):
+* Original dark mottled green → inverted to pale lavender-pink mottled background.
+* The noise pixels that were red/green in the original → inverted to cyan/magenta in the background noise.
+
+Nucleus Region (inverted):
+* Original brilliant white nucleus blob → inverted to SOLID BLACK BLOB at center.
+* The black blob occupies approximately the same position and size as the white blob in the companion image (center-left, ~25-30% of image width, slightly horizontal ellipse).
+* The black nucleus blob is the most visually prominent element — stark black against the pale background.
+
+Concentric Color Zones (inverted):
+
+Zone 1 (immediately surrounding black nucleus):
+* Original yellow-green inner ring → inverted to PURPLE-VIOLET/MAGENTA ring immediately around the black nucleus.
+
+Zone 2 (middle coma):
+* Original medium green → inverted to PURPLE-BLUE ring.
+* This creates the most prominent feature: a large BLUE-PURPLE zone surrounding the black nucleus, covering approximately 35-40% of the image area.
+* The blue-purple zone is not uniform — it has the same concentric isophote contour lines visible as in the companion image, now appearing as darker concentric rings within the blue-purple zone.
+
+Zone 3 (outer coma):
+* Original dark green → inverted to pale lavender-pink (barely distinguishable from the background).
+
+Isophote Contour Lines (inverted):
+* The grey-white isophote contours from the original → inverted to darker grey contour lines within the blue-purple zone.
+* The concentric contour rings are clearly visible as thin darker arcs within the blue-purple area, providing the same topographic map structure.
+
+Chromatic Fringing (inverted):
+* Original red-orange chromatic aberration fringing → inverted to CYAN-GREEN fringe visible at the boundary of the blue-purple zone (particularly at the lower-left and upper-right of the main nucleus blob).
+* This cyan-green fringe represents the inverted red fringe of the original.
+
+Physical Interpretation:
+* The color inversion makes the nucleus (originally saturated white) completely black — allowing the surrounding structure to be studied without the glare of the bright nucleus washing out the inner coma.
+* The blue-purple concentric zones are the isophote structure of the inner coma — now clearly visible without competing with the bright nucleus.
+* The boundary between the blue-purple zone and the pale lavender background marks the outer edge of the resolved inner coma (at the PSF scale of this telescope).
+* The concentric contour lines within the blue-purple zone are the isophotes — RC can use these to determine the exact radial profile of the inner coma brightness.
+
+RC's Contextual Use:
+* The pair of images (3_1993678850728075264.jpg and this one) represents the complementary pair for nucleus inner coma study: one shows the bright nucleus + green coma, the other inverts it to show black nucleus + blue-purple isophote structure.
+* This processing pair is analogous to the other nucleus inversion pairs in the series (3_1991476529377996800.jpg and its companion) — demonstrating RC's systematic approach of always providing both the natural and inverted versions of key structural images.
+* The blue-purple color of the inverted inner coma is physically meaningful: the strong blue-purple color in the inversion corresponds to a strong green emission in the original — confirming very intense C₂ (green) emission in the inner coma zone.
+
+Text Visible: None.
+
+Summary: Color-inverted version of 3_1993678850728075264.jpg — the same extreme close-up of Comet 3I/ATLAS nucleus region with full color inversion. Central: large solid BLACK blob (inverted white nucleus, ~25-30% image width). Surrounded by concentric BLUE-PURPLE zones (inverted green/yellow-green coma) with visible isophote contour rings as darker concentric lines within the blue-purple area. Pale lavender-pink mottled background (inverted dark green noise). Cyan-green fringe at coma boundary (inverted red chromatic aberration). Small orange-tan inset at upper-right corner (inverted from blue-grey). RC uses this inversion to study the isophote structure of the inner coma without interference from the saturated white nucleus glare.

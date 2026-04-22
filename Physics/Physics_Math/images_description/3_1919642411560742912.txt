@@ -1,0 +1,61 @@
+TYPE: Mathematical/geometric visualization — circular mandala with recursive triangular tessellation: rotating concentric polygon rings
+
+CONTENT:
+- White background
+- A near-square image with a large complex black-and-white circular mandala design
+- No text or labels
+
+OUTER BOUNDARY:
+- A solid black circle ring forms the outermost boundary
+- The outer ring has a polygon (approximately 16-20 sided) inner edge — the inner surface of the outer ring is faceted, not smoothly circular
+
+INTERIOR PATTERN:
+The interior of the circle is covered with a dense CONCENTRIC TRIANGULAR TESSELLATION:
+
+OVERALL STRUCTURE:
+- Multiple concentric "rings" of triangular elements, each ring rotating slightly relative to the previous
+- The rotation of each ring relative to adjacent rings creates a spiral or rotating impression
+- The overall effect is similar to a rotating 3D sphere or a gyroscope
+
+TRIANGULAR ELEMENTS:
+- The basic tile is a RIGHT TRIANGLE or ISOSCELES TRIANGLE
+- Adjacent triangles alternate pointing inward and outward
+- This creates a sawtooth or zigzag ring pattern
+- Each ring has approximately 16-24 triangular elements around its circumference
+
+CONCENTRIC RINGS (from center outward):
+- CENTER: A solid black disc (the central void)
+- RING 1: A set of triangles immediately around the central disc
+- RING 2: A slightly larger ring of triangles, rotated by approximately 10-15° relative to Ring 1
+- ...continuing outward with each successive ring rotated slightly more...
+- OUTERMOST INTERIOR RING: The largest triangle ring before reaching the outer boundary ring
+
+NUMBER OF RINGS:
+Approximately 8-12 concentric triangle rings are visible.
+
+ROTATIONAL OFFSET:
+Each ring appears rotated by approximately 10-15° relative to its neighbors, creating a cumulative spiral appearance. The outermost ring is rotated by approximately 90-120° relative to the innermost triangles.
+
+VISUAL EFFECT:
+The combination of concentric rotated rings of triangles creates an optical illusion of a three-dimensional rotating sphere or dome — similar to a globe with latitude/longitude lines twisted by perspective.
+
+MATHEMATICAL DESCRIPTION:
+This is a visualization of:
+1. CONCENTRIC ROTATING POLYGON RINGS: Each ring is a regular polygon (16-20 sides) rotated by angle θₙ = n × Δθ from the innermost
+2. PHYLLOTAXIS / FIBONACCI SPIRAL: The rotation angle may follow the golden angle (137.5°) per ring — this naturally produces spiral patterns matching plant growth
+3. PENROSE TILING VARIANT: The triangular tessellation with rotational offset is related to quasicrystalline tiling patterns
+4. ELECTROMAGNETIC MODE VISUALIZATION: In a cylindrical resonant cavity, higher-order modes (TM or TE) have field distributions that can be visualized as concentric rotating polygon patterns
+
+PHYSICS CONTEXT:
+In UAP propulsion research, this type of rotating concentric pattern is associated with:
+- The rotating magnetic field of a spinning disc (each ring = a cross-sectional field snapshot at a different phase of rotation)
+- A plasma vortex structure (nested rotating plasma sheets)
+- A toroidal vortex viewed face-on (the cross-section of nested vortex rings)
+
+COLORS:
+- All elements: black
+- All gaps/spaces: white
+- Central disc: solid black
+- Outer ring: solid black band
+
+IMAGE DIMENSIONS: Approximately 960 x 960 pixels, square

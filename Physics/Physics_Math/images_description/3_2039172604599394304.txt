@@ -1,0 +1,53 @@
+TYPE: B&W vector art / schematic symbol — outer circle + thick outer ring + hexagon with 6 cross-diagonal lines + 6 small black satellite dots at hexagon vertices + central bullseye (outer ring + inner filled disc). White background. Clean geometric diagram.
+
+CONTENT SUMMARY:
+
+LAYOUT: Square-format B&W image on white background. Centered: a complex nested circular-hexagonal symbol. Approximately 80% of the image area is occupied by the symbol.
+
+OUTER BOUNDARY:
+* A thick outer CIRCLE (ring) with substantial line weight (approximately 5-8% of total diameter in stroke width)
+* At the 6 VERTEX POSITIONS of an inscribed hexagon: 6 small solid BLACK DOTS (filled circles) sitting on the outer ring
+  - These dots are positioned at 60° intervals: top (12 o'clock), upper-right (2 o'clock), lower-right (4 o'clock), bottom (6 o'clock), lower-left (8 o'clock), upper-left (10 o'clock)
+  - Each dot: approximately 3-4% of total diameter in diameter
+  - The dots appear to sit on the outer ring (their center is on the ring circumference)
+
+HEXAGON WITH CROSS-DIAGONALS:
+* Inside the outer circle: a regular HEXAGON with all 6 sides drawn
+* The hexagon is inscribed within the outer circle (vertices touch the ring at the dot positions)
+* ADDITIONAL LINES: From each vertex, lines extend across the hexagon interior — specifically:
+  - 3 LONG DIAGONALS: Each long diagonal connects two opposite vertices (passing through the hexagon center) — a regular hexagon has 3 such long diagonals
+  - The resulting internal pattern is the classic HEXAGRAM inscribed within a hexagon (the 3 long diagonals create 6 triangles within the hexagon)
+  - Additional SHORTER DIAGONAL LINES may also be present connecting non-adjacent vertices (creating a more complex internal lattice)
+* The combination of hexagon sides + long diagonals creates a web of lines inside the outer ring
+
+CENTRAL BULLSEYE:
+* At the very center of the hexagon: a 3-element concentric bullseye
+  - OUTER RING: A thick circle (ring) — same stroke weight as the outer boundary ring; approximately 35-40% of total symbol diameter
+  - WHITE ANNULAR BAND: A white zone between the outer ring and the inner disc
+  - INNER FILLED DISC: A solid black filled circle at the center; approximately 20-25% of total symbol diameter
+* The bullseye is centered precisely at the hexagon center
+
+PROPORTIONS:
+* Outer circle outer edge diameter: approximately 90% of image width
+* Hexagon vertex-to-vertex diameter: approximately 85% of image width (just inside the outer ring)
+* Central bullseye outer ring diameter: approximately 45% of image width
+* Central filled disc diameter: approximately 25% of image width
+
+COMPARISON TO RELATED DIAGRAMS:
+* Simpler than 3_2034801125262860290 (which had 6 large satellite discs, triquetra, Star of David, and concentric rings)
+* The outer circle + hexagon + 6 dots + central bullseye is a simplified version of the sacred geometry stator diagram
+* The 6 vertex dots on the outer ring = the 6 satellite circles (each represents one stator pole terminal)
+* The cross-diagonal pattern inside the hexagon = the 3-phase wiring connections between opposite poles (the diagonal connections = the 3-phase coil winding paths connecting U-U', V-V', W-W' pole pairs)
+
+PHYSICS INTERPRETATION:
+* OUTER CIRCLE + 6 DOTS = the 6-pole stator outer ring with 6 pole terminals at 60° intervals
+* HEXAGON = the regular hexagonal arrangement of the 6 stator poles (the stator core geometry)
+* 3 LONG DIAGONALS = the 3-phase electrical connections: each diagonal connects one phase's two opposing poles (the current path through each phase coil)
+* CENTRAL BULLSEYE = the rotor hub assembly (outer ring = rotor outer boundary, filled disc = rotor core)
+* The entire symbol = a complete 6-pole 3-phase generator cross-section in symbolic form:
+  - 6 poles at hexagon vertices (the 6 dots)
+  - 3 phase windings (the 3 diagonals)
+  - Central rotor (the bullseye)
+  - Outer stator ring (the outer circle)
+
+OVERALL COMMUNICATION: B&W vector art (square format, white background) of a clean geometric symbol: thick outer circle with 6 equidistant solid black dots on the ring (at hexagon vertex positions, 60° intervals); inscribed regular hexagon with 3 full long diagonals (connecting opposite vertex pairs) creating a hexagram-like internal lattice; central 3-element bullseye (thick outer ring + white band + filled inner disc). Encodes a complete 6-pole 3-phase generator cross-section: 6 dots = stator pole terminals; hexagon = stator core geometry; 3 long diagonals = 3-phase winding connections (U-U', V-V', W-W'); central bullseye = rotor hub.

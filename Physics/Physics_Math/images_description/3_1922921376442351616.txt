@@ -1,0 +1,57 @@
+TYPE: Photograph — tabletop Tesla coil device (miniature/hobby-scale), non-operating state; orange copper secondary coil cylinder with aluminum foil sphere elevated terminal; red wooden base; pink/lilac background
+
+CONTENT:
+- Photograph of a small TESLA COIL in non-operating (powered-off) state
+- Portrait format, centered composition
+- Background: pink/lilac/mauve smooth surface (table or cloth)
+
+DEVICE STRUCTURE (bottom to top):
+
+BASE:
+- RED PAINTED WOODEN PLATFORM — a flat rectangular or trapezoidal base
+- Horizontal wooden structure with visible grain and red paint
+- Serves as the mounting platform for all components above
+
+PRIMARY COIL + SPARK GAP ASSEMBLY:
+- On top of the wooden base: a RING of RED MAGNET WIRE (primary coil) — circular loop of enameled copper wire wound in approximately 3-5 turns
+- Below and within the primary coil: additional electronic components on a circuit board (partially visible behind the base — dark with some green circuit board element visible through holes in the wood)
+- The primary coil creates the inductance base of the LC tank circuit
+
+SECONDARY COIL:
+- Rising vertically from the center of the primary coil: a CYLINDRICAL ORANGE/AMBER SECONDARY COIL
+- The secondary is wound with very fine enameled copper wire (magnet wire) on a cylindrical former (PVC pipe or cardboard tube)
+- Color: warm amber/orange from the copper winding visible through the varnish
+- Height: approximately 3-4× the diameter (tall, slender proportions typical of Tesla coil secondaries)
+- The winding appears very tight and uniform — many hundreds of turns of fine wire
+- Top of the secondary: a SILVER-GRAY TOROID or FLAT DISC separator, then transitions to the terminal
+
+ELEVATED TERMINAL:
+- At the very top: a SPHERE of CRUMPLED ALUMINUM FOIL
+- The sphere is hand-made — clearly constructed by crumpling aluminum kitchen foil into a sphere
+- Size: slightly larger than the secondary coil diameter
+- The crumpled texture is clearly visible — irregular surface with many flat facets
+- This foil sphere serves as the elevated terminal capacitance (replacing the polished copper sphere of large Tesla coils)
+- A thin connecting rod or tip is visible between the foil sphere and the top cap of the secondary
+
+PHYSICS — TESLA COIL:
+This is a solid-state or spark-gap Tesla coil (SSTC or SGTC) miniature:
+- Primary LC circuit resonant frequency: f = 1/(2π√LC)
+- Secondary resonates at the same frequency by transformer coupling
+- The foil sphere maximizes capacitance at the output: C ≈ 4πε₀r (where r = sphere radius)
+- At resonance, the secondary Q-factor amplifies the voltage: V_out/V_in = Q × (N_s/N_p)
+- High-voltage RF corona discharge would emerge from the sphere's surface when powered
+
+CONNECTION TO BUGA SPHERE / WARDENCLYFFE:
+This miniature Tesla coil demonstrates the SAME MUSHROOM GEOMETRY as:
+1. Wardenclyffe Tower (3_1922921341100892160.jpg) — at architectural scale
+2. The Buga sphere's internal structure (3_1922921285467684864.jpg) — at artifact scale
+All three share: sphere elevated terminal + cylindrical coil/stem + base platform
+
+COLORS:
+- Secondary coil: warm amber/orange (copper wire)
+- Primary coil: red (enameled red magnet wire)
+- Elevated terminal: silver-gray (aluminum foil)
+- Base: red (painted wood)
+- Background: pink/lilac/mauve
+
+IMAGE DIMENSIONS: Approximately 480 x 700 pixels, portrait orientation

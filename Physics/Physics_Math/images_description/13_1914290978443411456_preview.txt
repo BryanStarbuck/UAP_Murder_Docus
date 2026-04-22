@@ -1,0 +1,46 @@
+TYPE: Wooden rail/track structure — close-up near-frontal view showing the UPDATED electrode configuration with BLACK ELECTRICAL TAPE wrap (left end) and RED ELECTRICAL TAPE wrap (right end) replacing the white tape bundles; white connecting wire still arcing between ends; wide black pillarbox bars; landscape video still
+
+CONTENT OVERVIEW:
+A landscape-format video still with wide black pillarbox bars at left and right (portrait-source content), showing a close-up near-frontal view of the wooden H-frame rail/track structure. Compared to earlier images (13_1913911071704031232, 13_1913946739662544896), this image shows an UPDATED CONFIGURATION of the electrode assemblies at both ends of the wooden track:
+
+LEFT ELECTRODE (left wooden block):
+- The white electrical tape bundle has been REPLACED with a BLACK electrical tape wrap — a flat rectangular piece (~4×5cm) of black PVC electrical tape applied to the face of the left wooden block
+- The black tape connects to a white wire running from the left side off-frame
+
+RIGHT ELECTRODE (right wooden block):
+- The white electrical tape bundle has been REPLACED with a RED electrical tape piece — a bright red rectangular section (~4×5cm) applied to the right face of the right wooden block
+- Red color is highly significant: this is now CLEARLY COLOR-CODED as POSITIVE (red = positive, black = negative) — consistent with standard electrical polarity convention
+- A white wire runs from the right side, with additional loose wire ends (two small copper wire tips visible at the upper-center of the trough, between the wooden blocks)
+
+CONNECTING WIRE (the armature):
+- The same white insulated wire arc connecting between the two blocks is still visible, running across the wooden trough channel
+- The wire is slightly more visible in this closer view — it appears to be a single thin conductor
+
+WOODEN TROUGH:
+- The flat wooden base with side wooden blocks is the same structure as before
+- Two small dark elements visible on the wooden trough floor between the blocks — possibly small magnets or weight markers
+- The characteristic burn marks and scoring on the wooden trough floor are visible (from prior arc/spark events)
+
+COLORS:
+- Left electrode: black electrical tape
+- Right electrode: bright red electrical tape
+- Connecting wire: white (insulated)
+- Wooden structure: tan/natural wood
+- Wire tips: bright copper
+- Floor: gray concrete (visible through pillarbox borders)
+- Pillarbox: black
+
+PHYSICS/UAP CONTEXT:
+The color-coding of the electrodes is significant:
+
+1. Polarity encoding: Replacing the white tape with black (negative) and red (positive) tape implements the standard electrical engineering polarity convention, making the experiment setup unambiguous and reducing error risk during powered tests. This suggests the researcher is following standard protocol for connected high-current experiments.
+
+2. DC vs. AC testing: The explicit polarity marking indicates the experiment uses DC (direct current) — AC experiments don't require polarity marking. DC rail gun / homopolar motor operation (F = IL × B) requires specific current direction relative to the magnetic field to produce a specific thrust direction.
+
+3. Current direction and Lorentz force: If current flows from the red (positive) right terminal through the armature wire to the black (negative) left terminal, the Lorentz force on the armature is determined by:
+   F = IL × B = I(L₁ × B)
+   where L₁ is the armature vector from negative to positive. With a magnetic field B directed perpendicular to the trough (from magnets placed above or below), the force would be directed along the trough axis — accelerating the armature left or right. By reversing polarity (swapping red and black), the force direction reverses.
+
+4. Charged armature experiment: The replacement of the white tape bundles with simple flat tape electrodes suggests a cleaner electrode configuration — possibly after discovering that the bundled wire configuration introduced too much inductance or contact resistance.
+
+SUMMARY: Landscape-format (portrait-source, wide pillarbox bars) close-up near-frontal view of the wooden rail/track structure showing an UPDATED electrode configuration: the left wooden block now has a BLACK electrical tape electrode face (~4×5cm) connected to a white wire, and the right wooden block has a RED electrical tape electrode face (~4×5cm) with additional wire. The white connecting wire arc across the wooden trough channel is preserved. Two small dark elements on the trough floor. Burn marks on the wooden trough surface. The black/red polarity coding indicates this is a DC current experiment (standard negative/positive convention), with the armature wire acting as a Lorentz-force-accelerated conductor in a rail gun or homopolar motor configuration.

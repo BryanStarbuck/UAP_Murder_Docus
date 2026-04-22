@@ -1,0 +1,274 @@
+# overall_Math.mdx
+## Mathematical Equations, Their Pieces and Relationships
+### Source directory: tweets/4/10/
+
+---
+
+## Section: 1941311746519728300.yaml / 13_1941310585410551808_video.mdx
+### 3-Phase Rotating Field Mathematics
+
+**Phase-offset sinusoidal currents:**
+
+    I_k(t) = I_0 sin(ωt + (k-1) * 2π/3),   k = 1, 2, 3
+
+**Resultant rotating field at center (superposition):**
+
+    B_x(t) = B_coil [sin(ωt) + sin(ωt + 2π/3)cos(2π/3) + sin(ωt + 4π/3)cos(4π/3)]
+           = (3/2) B_coil cos(ωt + π/2)
+           = (3/2) B_coil sin(ωt + π/2)
+
+More directly, using phasor/complex notation:
+
+    B̃ = B_coil [1 + e^{i·2π/3} + e^{i·4π/3}] = 0 (static part cancels)
+    B̃_+ = (3/2) B_coil e^{iωt}   [positive rotating component]
+    B̃_− = 0                        [no counter-rotating component for balanced 3-phase]
+
+In real notation:
+    **B**(t) = (3/2) B_coil [cos(ωt) x̂ + sin(ωt) ŷ]
+
+**Amplitude:** B_eff = (3/2) B_coil = (3/2) (μ_0 N I_0)/(2 r_coil) for single-layer coil
+
+**Torque on permanent magnet (dipole moment m, tilt angle θ from xy-plane, lag angle δ):**
+
+    τ_z = m sin(θ) B_eff sin(δ)
+
+where δ is the angular lag between magnet's azimuthal orientation and the rotating field.
+
+**Steady-state rotation condition:** The magnet follows the field at frequency ω with a constant lag δ determined by:
+
+    τ_z = τ_friction + τ_damping
+    m sin(θ) B_eff sin(δ) = c_f ω + c_d ω
+
+where c_f is friction coefficient and c_d is magnetic damping coefficient.
+
+---
+
+## Section: 1941311746519728300.yaml
+### Off-Axis Vertical Force — Second Harmonic
+
+**Off-axis displacement:** Bore hole displaces effective magnetic center by r_offset from rotation axis.
+
+**Position of effective dipole center:**
+    x_cm(t) = r_offset cos(ωt + φ_0)
+    y_cm(t) = r_offset sin(ωt + φ_0)
+
+**Vertical force from field gradient:**
+The vertical (Z-axis) component of force on a magnetic dipole **m** in a nonuniform field is:
+
+    F_z = ∇_z (m · B) = m_z (∂B_z/∂z) + m_x (∂B_x/∂z) + m_y (∂B_y/∂z)
+
+For the rotating field above a 3-phase stator, the field has a Z-gradient:
+    ∂B_z/∂x ≡ G_xz, ∂B_z/∂y ≡ G_yz (field gradient tensor components)
+
+Substituting the off-axis position:
+    F_z(t) = m_z [G_xz x_cm(t) + G_yz y_cm(t)]
+           = m_z r_offset [G_xz cos(ωt + φ_0) + G_yz sin(ωt + φ_0)]
+
+This oscillates at ω (single frequency). However, if the magnet is also rotating at ω in the XY-plane (its dipole moment has a rotating transverse component):
+    m_x(t) = m_⊥ cos(ωt + α)
+    m_y(t) = m_⊥ sin(ωt + α)
+
+then cross terms produce a second-harmonic contribution at 2ω:
+    F_z(t) ~ m_⊥ r_offset [product of two cosines at ω → sum at 2ω and DC]
+
+The DC component of F_z represents a time-averaged vertical force (net lift or suppression of weight).
+The 2ω component explains the 20 Hz oscillation at 10 Hz drive.
+
+**Net lift condition (time-averaged):**
+    <F_z> = (1/2) m_⊥ r_offset G (cos(α − φ_0))
+
+where G is the appropriate gradient tensor component. For net lift, cos(α − φ_0) > 0, meaning the magnet's transverse dipole must be in phase with the field gradient encountered during the orbit.
+
+---
+
+## Section: 1968972699184865395.yaml
+### MHD Vortex — Body Force Equations
+
+**Ohm's law in a moving conductor:**
+    **J** = σ(**E** + **v** × **B**)
+
+**Lorentz body force per unit volume:**
+    **f** = **J** × **B** = σ(**E** + **v** × **B**) × **B**
+
+**Expanded in cylindrical coordinates (r, θ, z):**
+For azimuthal flow v = v_θ θ̂ in axial field B = B_z ẑ:
+
+    **v** × **B** = v_θ θ̂ × B_z ẑ = v_θ B_z r̂
+
+    **J** = σ(E_r r̂ + v_θ B_z r̂) = σ(E_r + v_θ B_z) r̂
+
+    **f** = **J** × **B** = σ(E_r + v_θ B_z) r̂ × B_z ẑ = σ(E_r + v_θ B_z) B_z (−θ̂)
+
+Wait — r̂ × ẑ = −θ̂, so the azimuthal body force is:
+
+    f_θ = −σ(E_r + v_θ B_z) B_z
+
+For this to drive the vortex (positive azimuthal acceleration), we need f_θ > 0 (in the +θ̂ direction), so:
+    E_r + v_θ B_z < 0, i.e., the motional EMF opposes the external E_r
+
+Alternatively, for an inward E_r (E_r < 0, pointing −r̂, i.e., field toward center):
+    f_θ = σ|E_r| B_z > 0   (positive θ̂ drive)
+
+This is the E × B pinch drive for the MHD vortex.
+
+**Azimuthal equation of motion for fluid ring:**
+    ρ Dv_θ/Dt = f_θ − (viscous dissipation) − (centrifugal pressure gradient)
+    ρ (∂v_θ/∂t + v_r ∂v_θ/∂r + v_θ/r ∂v_θ/∂θ − v_r v_θ/r) = f_θ − η ∇²v_θ
+
+In steady state (∂/∂t = 0) with negligible radial flow (v_r = 0):
+    η ∇²v_θ = −f_θ = σ(E_r + v_θ B_z) B_z
+
+This is a balance between viscous diffusion and electromagnetic body force — the MHD Hartmann-layer balance.
+
+---
+
+## Section: 1994175834639491416.yaml
+### E × B Drift — Azimuthal Spin of 3I/ATLAS Coma
+
+**E × B drift velocity (exact, for single particle):**
+    **v**_drift = (**E** × **B**) / |**B**|²
+
+For **E** = E_r r̂ and **B** = B_z ẑ:
+    **E** × **B** = E_r r̂ × B_z ẑ = E_r B_z (r̂ × ẑ) = −E_r B_z θ̂
+
+    **v**_drift = (−E_r B_z / B_z²) θ̂ = −(E_r / B_z) θ̂
+
+For E_r > 0 (field pointing outward), the drift is in the −θ̂ direction (clockwise when viewed from +z).
+For E_r < 0 (field pointing inward), drift is in +θ̂ (counter-clockwise).
+
+This drift is:
+- Independent of particle mass and charge sign (both electrons and ions drift the same direction)
+- Proportional to E_r/B_z
+- Purely azimuthal (no radial or axial component in uniform fields)
+
+**Drift-induced spin rate (angular velocity):**
+    Ω_drift = v_drift / r = (E_r / B_z) / r
+
+For a 1/r² Coulomb field: E_r = Q/(4πε_0 r²), and a dipole field B_z ≈ μ_0 m/(2πr³) on axis:
+    Ω_drift = [Q/(4πε_0 r²)] / [μ_0 m/(2πr³)]
+            = [Q/(4πε_0 r²)] * [2πr³/(μ_0 m)]
+            = Q r / (2ε_0 μ_0 m)
+            = Q r c² / (2m)
+
+where c² = 1/(ε_0 μ_0). This grows linearly with r — outer gas rings spin faster than inner rings, consistent with a differentially rotating coma observed as a spiral arm structure.
+
+---
+
+## Section: 1987617290888884248.yaml
+### Newton's 3rd Law — Orbital Momentum Transfer
+
+**Conservation of total momentum (center-of-mass frame):**
+    p_total = m_1 v_1 + m_2 v_2 = const
+
+**Impulse from thruster ejection:**
+    m_1 Δv_1 = −m_2 Δv_2   (Newton's 3rd, impulse-momentum theorem)
+
+**Vis-viva equation for pre/post-ejection orbit of m_1:**
+    v_1² = G M_sun (2/r − 1/a_1)
+
+Post-ejection, m_1 has a new semi-major axis a_1'. The change in orbital energy:
+    ΔE_1 = G M_sun m_1 (1/a_1 − 1/a_1') / 2
+
+**For m_2 (ejected body), initial conditions:**
+At ejection position **r**_0, the ejected body has velocity:
+    **v**_2 = **v**_1 + Δ**v**_2
+
+New orbit of m_2 is fully determined by (**r**_0, **v**_2) and the two-body problem with M_sun.
+
+**Specific energy of m_2 orbit:**
+    ε_2 = |**v**_2|²/2 − G M_sun / |**r**_0|
+
+**If ε_2 < 0:** bound orbit (ellipse). Semi-major axis: a_2 = −G M_sun / (2 ε_2)
+**If ε_2 > 0:** unbound orbit (hyperbola)
+**If ε_2 = 0:** parabolic trajectory (escape with zero terminal velocity)
+
+**Specific angular momentum of m_2 orbit:**
+    **L**_2 = **r**_0 × **v**_2
+
+Semi-latus rectum: p_2 = L_2² / (G M_sun)
+Eccentricity: e_2 = sqrt(1 + 2 ε_2 L_2² / (G M_sun)²)
+
+The ejected body's orbital plane and period can be computed entirely from these initial conditions.
+
+---
+
+## Section: 2036206718452113463.yaml
+### 5-Phase Rotating Field Mathematics
+
+**Phase-offset currents (5-phase):**
+    I_k(t) = I_0 sin(ωt + (k-1) * 2π/5),   k = 1..5
+
+**Resultant rotating field:**
+    **B**(t) = (5/2) B_coil [cos(ωt) x̂ + sin(ωt) ŷ]
+
+(for balanced 5-phase, the resultant amplitude is (5/2) times the single-coil contribution — same principle as 3-phase but stronger for the same coil count)
+
+**Spatial harmonic matching with outer flywheel:**
+Outer flywheel: 10 magnets, 5 N-S pairs, spatial period Λ = 2π R_flywheel / 5 (where R_flywheel is flywheel radius).
+Fundamental spatial wavenumber: k_spatial = 5 / R_flywheel
+
+5-phase rotating field: temporal frequency ω, fundamental spatial Fourier component in azimuth is also k=5 for 5-coil geometry.
+
+**Synchronous condition:** The flywheel rotates synchronously (without slip) when the rotating field's spatial wave velocity matches the flywheel surface speed:
+    v_surface = ω_flywheel * R_flywheel = ω / k_spatial = ω R_flywheel / 5
+    ω_flywheel = ω / 5   [synchronous flywheel speed for 5-phase, 5-pair drive]
+
+Compare 3-phase with 6-coil (3 N-S pairs) outer: ω_flywheel = ω / 3.
+The 5-phase system provides slower flywheel rotation for the same drive frequency — higher torque, lower speed (more poles = lower synchronous speed, higher torque density).
+
+---
+
+## Section: 2042551985887678802.yaml
+### Edge-to-Edge Magnetic Stabilization — Tilt Restoring Torque
+
+**Dipole-dipole interaction potential:**
+    U = (μ_0 / 4π) [(**m**_1 · **m**_2)/r³ − 3(**m**_1 · r̂)(**m**_2 · r̂)/r³]
+
+For face-to-face alignment (attraction), edge-to-edge alignment of two bar magnets (both pointing the same transverse direction):
+    U_edge = −(μ_0 m²) / (4π r³)   [attraction]
+
+**Restoring torque for tilt θ from horizontal:**
+If the central disc tilts by angle θ, the edge distance to one flywheel magnet decreases (r → r − δr(θ)) and to the opposite one increases:
+    δr(θ) ≈ (R_disc + R_magnet) sin(θ) ≈ (R_disc + R_magnet) θ   for small θ
+
+The differential in potential energy:
+    δU = (μ_0 m²/4π) [1/(r−δr)³ − 1/(r+δr)³] ≈ (μ_0 m²/4π) · 6δr/r⁴
+
+Net restoring torque (for N_outer = 4 flywheel magnets at 90° spacing, two pairs of opposite magnets contributing):
+    τ_restoring = −2 · dU/dθ |_{θ=0} ≈ −2 (μ_0 m²/4π) · 6(R_disc + R_magnet)/r⁴ · θ
+
+This is a Hookean (linear) restoring torque: τ = −k_tilt θ, with:
+    k_tilt = (3 μ_0 m²/π) (R_disc + R_magnet) / r⁴
+
+The natural tilt oscillation frequency:
+    ω_tilt = sqrt(k_tilt / I_disc)
+
+where I_disc is the moment of inertia of the central disc about its diameter. The system is stable for all oscillation frequencies above zero.
+
+---
+
+## Section: 13_1926228603248812033_preview.txt
+### Homopolar Motor Torque — Multiple Ring Magnets
+
+**Torque for N_ring ring magnets providing total axial field B_z_total at radial current path:**
+    τ = (1/2) I B_z_total (r_outer² − r_inner²)
+
+For 6 magnets with identical geometry and aligned polarity:
+    B_z_total = 6 B_single_z
+
+    τ = (1/2) I · 6 B_single_z · (r_2² − r_1²)
+      = 3 I B_single_z (r_2² − r_1²)
+
+**Power delivered:**
+    P = τ · ω_motor = 3 I B_single_z (r_2² − r_1²) · ω_motor
+
+**EMF generated (homopolar generator mode):**
+    EMF = (1/2) B_z_total ω_motor (r_2² − r_1²)
+        = 3 B_single_z ω_motor (r_2² − r_1²)
+
+**Note on hexagonal symmetry:** The 6-magnet hexagonal arrangement (60° spacing) creates a field with 6-fold azimuthal symmetry. Any test particle at radius r within this array experiences a field:
+    B_z(r, θ) = B_0_z + B_6 cos(6θ + φ_0)
+
+The leading term B_0_z (azimuthally uniform) drives the homopolar torque; the B_6 hexapole term creates a 6-fold modulation that could lock (synchronize) the rotation of a 6-pole rotor magnetically.
+
+---

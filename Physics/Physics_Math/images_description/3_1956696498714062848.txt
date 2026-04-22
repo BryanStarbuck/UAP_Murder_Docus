@@ -1,0 +1,60 @@
+CONTENT TYPE: Astronomical diagram — a wide-field solar system trajectory visualization showing the hyperbolic flyby path of 3I/ATLAS (C/2025 N1) through the inner solar system, with planetary orbits and labeled bodies against a starfield background.
+
+SUBJECT: A wide-field visualization of the inner solar system showing the orbital paths of the inner planets (Mercury through Jupiter) and the hyperbolic trajectory of interstellar object 3I/ATLAS (C/2025 N1). The 3I/ATLAS object appears as a small white comet-like body in the left portion of the image, with its incoming trajectory shown as white lines converging from the upper-left toward the inner solar system.
+
+IMAGE CHARACTERISTICS:
+- Landscape format, approximately 960×480 pixels
+- Dark black starfield background (realistic star distribution)
+- Planetary orbits shown as colored elliptical lines
+- 3I/ATLAS trajectory shown as white/light lines
+- Planetary bodies shown as colored dots with text labels
+- Milky Way galactic band faintly visible in the background
+
+3I/ATLAS OBJECT:
+- Labeled: "3I/ATLAS (C/2025 N1)" — the official MPEC designation
+- Appears as a small white elongated comet or bright dot with a possible tail
+- Position: at the far left of the frame, beyond Mars's orbit
+- The object is approaching the inner solar system from the upper-left direction
+- Multiple white trajectory lines converge from the object's position inward, representing the hyperbolic flyby path
+
+TRAJECTORY LINES:
+- Multiple white/light lines extend from the 3I/ATLAS position inward
+- These converging lines represent the hyperbolic trajectory (incoming approach path)
+- The trajectory passes through the region between Mars and Earth
+- Additional white lines extend below and to the right, possibly showing the outgoing trajectory or uncertainty region
+
+PLANETARY ORBITS (colored ellipses):
+- MERCURY: innermost orbit, tight ellipse near the Sun
+- VENUS: next orbit outward
+- EARTH: blue orbit with "Earth" label (blue dot)
+- MARS: red orbit labeled "Mars" (red dot) — Mars is positioned approximately at the 9 o'clock position in the left half of the frame
+- JUPITER: outermost visible orbit, partially shown at upper-right, labeled "Jupiter" (orange dot)
+- No Saturn or outer planets visible
+
+PLANETARY BODY LABELS AND COLORS:
+- "Jupiter" — orange/yellow dot, upper-right
+- "Sun" — white dot, center
+- "Mercury" — near Sun, small
+- "Venus" — yellow/white dot, labeled "Venus"
+- "Earth" — blue dot, labeled "Earth"
+- "Mars" — red dot, labeled "Mars"
+- Mars is positioned in the left half of the frame (roughly 9 o'clock)
+
+CONTEXT:
+- 3I/ATLAS (C/2025 N1) is the third known interstellar object detected passing through our solar system
+- Discovered in 2025 by the ATLAS survey
+- The "3I" designation indicates third interstellar object, after 1I/ʻOumuamua (2017) and 2I/Borisov (2019)
+- "C/2025 N1" follows the standard comet designation (C = comet, 2025 = year, N = second half of July, 1 = first object in that period)
+- The trajectory appears to approach from approximately the direction of the constellation Draco or Hercules (upper-left in the ecliptic plane visualization)
+- This visualization likely comes from JPL Horizons, NASA Eyes on the Solar System, or a similar planetary tracking tool
+
+RELATIONSHIP TO OTHER FILES:
+- 3I/ATLAS appears in multiple collection files:
+  - 3_1951423879295148036.txt (orbital diagram, Mercury-Mars scale, diagonal hyperbolic trajectory)
+  - 3_1952824472572182531.txt (surface brightness maps, 4-panel false-color)
+  - 3_1953031604273856513.txt (duplicate of 3_1951423879295148036.txt)
+  - 3_1955533917072863232.txt (CGI asteroid rendering)
+  - 3_1955919517672202243.txt (duplicate CGI rendering)
+  - 3_1955582038578487296.txt (telescopic image of comet coma)
+
+OVERALL SUMMARY: A wide-field solar system trajectory visualization showing interstellar object 3I/ATLAS (C/2025 N1) as a small white comet-like body at the far left, with its hyperbolic flyby path shown as white lines approaching the inner solar system from the upper-left. Planetary orbits of Mercury, Venus, Earth (blue), Mars (red, positioned left), and Jupiter (orange, upper-right) are shown as colored ellipses against a black starfield background with faint Milky Way. The 3I/ATLAS trajectory passes between Mars and Earth's orbital paths. This is a wider-field view than the close-up orbital diagram in 3_1951423879295148036.txt, showing Jupiter and the broader solar system context.

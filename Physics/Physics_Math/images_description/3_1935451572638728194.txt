@@ -1,0 +1,53 @@
+TYPE: Composite research image — binary code block (color-coded 0/1 text, ~16 rows × ~70 columns) above two photographs; photographs show a ballistic missile launch at night and an underground construction facility
+
+CONTENT:
+- White background, landscape format
+- Upper portion: large block of color-coded binary text (approximately 16 rows × 68-70 columns of 0s and 1s)
+- Lower portion: two photographs side by side
+
+BINARY CODE BLOCK (upper ~60% of image):
+- Large body of binary text, no title or header visible (differs from other "CJ picture file" images which have headers)
+- COLOR CODING:
+  * Blue digits: 0 (zero bits) — majority of digits
+  * Red digits: 1 (one bits) — sparse, appearing as clusters and single 1s
+- The pattern of 1s (red) traces a shape or encoded content readable by treating lines as rows of a binary image
+- Reading the pattern of 1s: rows 1-3 show clusters of 1s at approximately positions 30-36 (top-right cluster), suggesting an encoded image shape
+- The overall pattern of 1s appears to encode a curved arc or diagonal shape — possibly a parabolic trajectory, arc, or other geometric element
+- Each row is approximately 68 characters wide (matching the "CJ" file format specification: "lines of 68")
+
+LOWER LEFT PHOTOGRAPH — BALLISTIC MISSILE LAUNCH:
+- Dark night sky with silhouetted ground features
+- A BRIGHT WHITE PARABOLIC ARC rising from lower-left — the exhaust plume/trail of a ballistic missile in flight
+- The arc is highly luminous, creating a long curved trail from ground to high altitude
+- Ground features: radio tower/antenna mast silhouetted against the sky, distant buildings/structures
+- The parabolic trajectory shape closely matches the binary 1s pattern above — suggesting the binary may be encoding this parabolic arc shape
+
+LOWER RIGHT PHOTOGRAPH — UNDERGROUND FACILITY / CONSTRUCTION SITE:
+- Indoor setting under low ambient light
+- Appears to be an UNDERGROUND or partially underground construction site
+- Concrete walls/columns, rough stone/concrete floor under excavation
+- Strong overhead artificial lights creating glare spots
+- A person or worker visible as a small silhouette in the mid-ground
+- The space suggests a BUNKER, underground city, or large-scale tunnel construction
+- Overall dimensions appear large — several stories tall, many columns in parallel rows
+
+RESEARCH INTERPRETATION:
+This image appears to be part of the "CJ" crop circle binary decoding series. The binary pattern may be interpreted as:
+1. PARABOLIC TRAJECTORY ENCODING: The cluster of 1s at top-right followed by a descending pattern encodes a parabolic arc — the trajectory of a ballistic missile or spacecraft returning from orbit (re-entry arc)
+2. UNDERGROUND FACILITY CONNECTION: The underground construction photograph suggests the binary message relates to classified underground military facilities — bunkers, DUMBs (Deep Underground Military Bases), or hardened launch facilities
+3. COMBINED MESSAGE: The binary + missile launch + underground facility creates a coherent message suggesting: "classified underground launch facility with ballistic/advanced trajectory capabilities"
+4. BALLISTIC MISSILE PHYSICS: The parabolic arc is governed by E = ½mv² - GMm/r (total mechanical energy in Earth's gravitational field), with the trajectory being a section of a Keplerian conic section (ellipse with high eccentricity) for ballistic missiles
+
+COMPANION IMAGES:
+- 3_1934939629708541952.jpg — "CJ" picture file 1b with Temple Mount binary decoding
+- 3_1935149667488354304.jpg — duplicate of above
+- 3_1935151422762532864.txt — Textpic decoding with fish shape and cross shape binary patterns
+
+COLORS:
+- Binary text background: white
+- Binary 0 digits: blue
+- Binary 1 digits: red
+- Missile launch photo: dark blue-black sky, white luminous trail
+- Underground facility photo: gray concrete, orange artificial lighting, dark shadows
+
+IMAGE DIMENSIONS: Approximately 960 x 620 pixels, landscape format

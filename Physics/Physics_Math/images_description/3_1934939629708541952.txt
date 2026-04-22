@@ -1,0 +1,49 @@
+TYPE: Composite analysis image — crop circle binary code extraction ("CJ" picture file 1) with Temple Mount/Dome of Rock photographs and Islamic crescent symbol; binary string analysis header
+
+CONTENT:
+- White background composite, portrait format approximately 960 x 760 pixels
+- Top section: binary analysis text
+- Bottom section: photographs and icon elements
+
+TITLE/HEADER TEXT (top, black):
+- Line 1: '"CJ" picture file 1 (light squares 0, filled squares 1) (lines of 68)'
+- Line 2: '0111-0001 ASCII "q", repeat 17 bits, start after duplication'
+- This explains the encoding: CJ = likely a specific crop formation identifier; the formation is read as binary (light regions = 0, filled/dark regions = 1); 68 lines/rows of data; the first 4 bits "0111-0001" = ASCII code for the letter "q"; repeating every 17 bits
+
+BINARY DATA TABLE (large block of text):
+- Multiple lines of 0s and 1s — the actual binary data extracted from the formation
+- The 0s and 1s are color-coded: RED for "1" values, BLUE for "0" values, BLACK for some characters
+- The binary data occupies approximately 12-14 rows
+- First line: "0111 0001 1000000000000000000000000000000000000001 111111111 00000000000000000"
+- The binary string is very long (approximately 100+ bits per row × 12 rows = 1200+ total bits)
+- This represents the researcher's attempt to extract a meaningful ASCII or binary message from the crop formation's spatial layout
+
+LOWER SECTION — IMAGES AND ICONS:
+- CENTER: A BLACK SILHOUETTE of a person in a KNEELING/PRAYING POSTURE (like Islamic prayer prostration — sijdah or ruku)
+- UPPER LEFT OF IMAGES: Photograph of a GOLDEN ISLAMIC CRESCENT on a mosque minaret spire (blue sky background)
+- LOWER LEFT: Photograph of the DOME OF THE ROCK golden dome framed through a stone arch (same Jerusalem location as 3_1934939610318360577.jpg)
+- RIGHT SIDE: Photograph of TEMPLE MOUNT ARCADED WALKWAY (arcade of columns/arches with blue sky) — a man in white thobe and keffiyeh stands in the background
+- UPPER RIGHT: Image of the MOON (full or near-full, gray on white)
+
+RESEARCH INTERPRETATION:
+This image documents the researcher's claim that:
+1. A specific crop formation ("CJ" formation) encodes binary data
+2. The binary data, when decoded as ASCII, produces the letter "q" as a recognizable pattern
+3. The 17-bit repeating structure suggests deliberate encoding
+4. The decoded message or the formation's geographic encoding relates to Temple Mount, Jerusalem (the Dome of the Rock + the praying figure)
+5. The moon element may encode the Islamic calendar association (lunar month) or a specific celestial position
+
+The full message framework from the previous image (3_1934939610318360577.jpg) continues: this binary extraction is presented as the technical basis for the claim that a crop formation encoded the message about Temple Mount at latitude 31.77745°N.
+
+COMPANION IMAGES:
+- 3_1934939610318360577.jpg — annotated Temple Mount photograph with the crop circle message text
+
+COLORS:
+- Binary text: red (1s), blue (0s), some black
+- Title text: black
+- Praying figure: black silhouette
+- Moon: gray on white
+- Photographs: full color (gold dome, blue sky, stone columns)
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 960 x 760 pixels, portrait format

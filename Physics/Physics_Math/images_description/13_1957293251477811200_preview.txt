@@ -1,0 +1,47 @@
+TYPE: Gyroscope video still — same large complex gyroscope in black ring frame on black pedestal stand as 13_1956679545492529152, from a slightly different angle showing two small counterweight balls on the inner disc spoke arms; domestic interior setting
+
+CONTENT OVERVIEW:
+Near-duplicate of 13_1956679545492529152_preview.jpg, same large complex gyroscope on black pedestal stand on dark table surface in domestic interior. DISTINCTIVE FEATURE not visible in the companion image: two small light gray or silver-white spherical counterweight balls are attached at two of the four spoke arm ends of the inner chrome disc. These appear to be small metal or ceramic spherical weights, approximately 1-2cm diameter, clipped or threaded onto the spoke tips. The counterweight balls are visible at the left and lower-left spoke tips. The same dark reddish-brown wood furniture background is visible at the upper right. The camera angle is slightly lower and slightly to the right compared to 13_1956679545492529152.
+
+STRUCTURAL ELEMENTS:
+1. Gyroscope outer ring:
+   - Same black circular ring frame (~15-18cm outer diameter) as companion image
+   - Matte black finish
+
+2. Inner disc with four-spoke arm structure:
+   - Same chrome/silver disc with four curved spoke arms at 90° intervals
+   - ADDED DETAIL: two small light gray/silver spherical counterweight balls on two of the four spoke arm tips
+   - The balls appear to be at the left and lower-left spoke positions
+   - The other two spoke tips (right and upper-right) do not appear to have balls in this frame, or are not clearly visible
+
+3. Counterweight balls:
+   - Two small spherical balls, approximately 1-2cm diameter
+   - Light gray / silver-white in color
+   - Attached at the spoke arm tips — possibly threaded, clipped, or magnetically attached
+   - Counterweights on a spinning disc are used to balance the rotational dynamics and/or to add specific mass elements at defined radii (relevant to moment of inertia control)
+
+4. Pedestal base:
+   - Same black cylindrical pedestal with flat circular base
+
+5. Surface and background:
+   - Same dark gray/black table surface
+   - Same reddish-brown wood furniture background at upper right
+
+COLORS:
+- Outer ring: matte black
+- Inner disc and spokes: silver / chrome
+- Counterweight balls: light gray / silver-white
+- Pedestal: matte black
+- Table: dark gray / black
+- Background furniture: reddish-brown wood
+
+PHYSICS/UAP CONTEXT:
+The counterweight balls on the spoke tips are a significant detail. Attaching masses to the ends of the spinning disc's spoke arms modifies the moment of inertia I of the spinning disc: I = Σmᵢrᵢ² — where rᵢ is the radius of each mass element from the spin axis. Adding masses at the outer spoke tips increases I significantly (since the radius r appears squared), which increases the total angular momentum L = Iω for a given spin speed ω. This has several experimental uses:
+1. Increasing gyroscopic rigidity (resistance to precession)
+2. Studying how moment of inertia affects precession rate (Ω_precession = τ/L = mgd/Iω)
+3. Dynamic balancing — ensuring the disc is rotationally balanced even with added masses
+4. Studying nutation frequency changes with modified moments of inertia
+
+The unequal number of balls (two visible out of four possible spoke tips) suggests either an asymmetric loading experiment (deliberately unbalanced to study nutation/wobble) or that two balls are present and two are not (which might cause interesting gyroscopic behavior due to dynamic imbalance). This is a sophisticated experimental modification consistent with someone exploring advanced gyroscopic dynamics beyond simple demonstration purposes.
+
+SUMMARY: Near-duplicate of 13_1956679545492529152_preview.jpg (same large black-ring gyroscope on black pedestal, same domestic indoor setting) but with a CRITICAL ADDITION: two small spherical counterweight balls (~1-2cm diameter, light gray/silver-white) are visible attached to two of the four spoke arm tips of the inner chrome disc assembly. The counterweight balls modify the moment of inertia I of the spinning disc, allowing experimental study of how precession rate Ω_p = mgd/(Iω) changes with modified angular momentum. Slightly lower/right camera angle compared to companion image.

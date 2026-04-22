@@ -1,0 +1,35 @@
+Type: False-color green heat-map enhanced astronomical image of Comet 3I/ATLAS — the same November 22, 2025 data as 3_1992718713225908224.jpg processed with green-scale color enhancement (either using a false-color green gradient or preserving and amplifying the natural green channel), showing the coma morphology and concentric ring structure.
+
+Overall Image:
+* Wide landscape orientation (approximately 2.5:1 width-to-height ratio) — same wide crop as 3_1992718713242714112.jpg.
+* Dark background (deep black-green rather than pure black — the sky background has a subtle dark green tint from the false-color processing).
+* The comet dominates the left-center portion of the frame.
+
+Color Processing:
+* Unlike the pink/magenta color inversion in 3_1992718713242714112.jpg, this version applies a GREEN false-color enhancement or simply amplifies and maps the original green channel into a green-scale gradient.
+* The result: the entire coma is rendered in shades of green, creating a false-color "heat map" in the green spectral domain rather than a complementary-color inversion.
+
+Coma Structure in Green False Color:
+* Nuclear condensation: a brilliant WHITE-GREEN or WHITE circular spot at the center of the coma (approximately 2-3% of frame width). The nucleus is the brightest region, rendered in near-pure white at the center.
+  - There is a faint CYAN/TURQUOISE tinge immediately adjacent to the white nuclear spot — possibly the contribution of the blue CO⁺ ion emission mixing with the green C₂ emission at the innermost coma boundary.
+* Inner coma: a bright YELLOW-GREEN (lime green) zone surrounding the nucleus, approximately 5-8% of frame width radius. This is the brightest green zone, corresponding to peak C₂ Swan Band emission.
+* Middle coma: medium GREEN (pure green) → DARK GREEN, extending outward from the yellow-green inner zone. The color gradients smoothly radially.
+* Outer coma: DARK GREEN → very dark green → black-green background. The outer coma boundary is not sharp but grades smoothly.
+* Overall coma shape: slightly ELLIPTICAL with the long axis oriented roughly horizontally (east-west or anti-solar direction), consistent with a faint tail extension or coma asymmetry toward the right.
+* CONCENTRIC RING STRUCTURE: a notable feature is visible banding in the coma — approximately 3-4 faint concentric ring structures (alternating slightly brighter and slightly darker zones) visible in the middle-to-outer coma region. These represent:
+  - Either coma shells (successive sublimation events creating periodic density shells, as seen in comets like C/1995 O1 Hale-Bopp).
+  - Or processing artifacts from unsharp masking / high-pass filtering applied to reveal structure.
+  - In either case, the presence of ring structure in 3I/ATLAS's coma is a key observation RC documents.
+
+Star Trails (white dashes):
+* Approximately 6-8 bright white star trails visible — same positions as in 3_1992718713242714112.jpg (confirming same frame crop).
+* In this version, stars appear as bright white-to-cyan/multi-colored short dashes against the dark green background.
+* Some star trails show clear chromatic fringing (red-green-blue color separation from atmospheric dispersion and/or the LX200 optics).
+
+RC's Contextual Use:
+* This green heat-map version directly confirms the C₂ Swan Band emission interpretation: the green is not a white-light reflection but an emission feature, and the green false-color enhancement shows the spatial distribution of C₂ emission in the coma.
+* The concentric ring/shell structure in the coma is significant: it suggests either periodic outgassing events from the nucleus or a complex coma envelope structure. For an interstellar object with an anomalously green coma, concentric shells would indicate active sublimation of C₂-producing species (acetylene, ethylene, ethane) at different depths in the nucleus.
+* The cyan fringe around the white nucleus suggests a real color gradient in the innermost coma: white (nucleus photometric light) → cyan (mixed green C₂ + blue CO⁺) → pure green (outer C₂ dominated coma).
+* The slight ellipticity hints at the ion tail beginning to be resolved even in this broadband image.
+
+Summary: Green false-color heat-map processed version of the November 22, 2025 3I/ATLAS image (same data as 3_1992718713225908224.jpg and 3_1992718713242714112.jpg). Processing: green-scale false-color gradient amplifying the natural C₂ emission green channel. Coma: brilliant white nuclear condensation with faint cyan ring → bright yellow-green inner coma → medium green middle coma → dark green outer coma fading to black-green background. Slight horizontal ellipticity (possible tail extension). Notable: ~3-4 faint concentric ring/shell structures visible in middle-outer coma (possible periodic sublimation shells or processing artifact). ~6-8 white star trails with chromatic fringing. RC uses this to map the spatial distribution of C₂ Swan Band emission and to document possible concentric coma shell structure in 3I/ATLAS.

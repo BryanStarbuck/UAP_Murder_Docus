@@ -1,0 +1,53 @@
+IMAGE TYPE: Black-on-white technical diagram — fractal tree generation sequence with labeled parameters (Branch Length, Trunk Length, Tip-to-Tip Arclength)
+
+CONTENT SUMMARY:
+A black-on-white technical illustration approximately 1200 x 600 pixels (wide landscape). White background. This is a scientific/engineering diagram showing four stages of fractal tree generation from simple to complex, with labeled parameters. This image appears in the UAP physics research series as reference material for the fractal tree / "space antenna" interpretation of the Chilbolton crop formation.
+
+OVERALL LAYOUT:
+Four separate fractal tree diagrams arranged left to right in order of increasing recursion depth (complexity):
+1. LEFTMOST: Stage 1 — very simple tree (trunk + two branches)
+2. SECOND: Stage 2 — one level of additional branching
+3. THIRD: Stage 3 — two additional levels of branching
+4. RIGHTMOST: Stage 4 — three or more additional levels of branching (maximally developed)
+
+Each tree is symmetric (bilateral left-right mirror symmetry) and appears upright with roots/source at the bottom.
+
+LABELED PARAMETERS:
+LEFT TREE (Stage 1) LABELS:
+- "Branch Length" — label with an arrow pointing to one of the two main branches at the top of Stage 1 tree
+- "Trunk Length" — label with an arrow pointing to the vertical trunk section below the first bifurcation
+- "Source" — label with an arrow pointing to a small circle (∼) symbol at the base of the trunk; the circle contains a wave symbol (~) indicating a source of oscillation or AC signal input
+
+SECOND TREE (Stage 2) LABELS:
+- "Child Branch" — arrow pointing to one of the smaller secondary branches
+- "Parent Branch" — arrow pointing to the larger primary branch from which the child branch grows
+- Source circle (~) at base
+
+THIRD TREE (Stage 3) LABELS:
+- "Tip-to-Tip Arclength" — label with arrows spanning across the full width of the tree, measuring from the leftmost tip to the rightmost tip (the total "wingspan" of the fractal tree)
+- Source circle (~) at base
+
+FOURTH TREE (Stage 4):
+- No additional labels — shows the fully developed fractal tree
+- At this stage, the fine terminal branches are very thin/light gray (thin line weight), while the trunk and major branches remain thick/black
+- The tree resembles a detailed natural tree silhouette
+
+SOURCE SYMBOL:
+- At the base of each tree: a circle containing a sine wave symbol (~) — the standard electronics symbol for an AC voltage source or signal source
+- This confirms these are electrical/electromagnetic antenna structures, not merely biological tree illustrations
+
+FRACTAL TREE PARAMETERS:
+The labeled parameters define a recursive fractal antenna:
+- "Branch Length" = L_b — the length of each branch at a given recursion level
+- "Trunk Length" = L_t — the length of the main trunk segment
+- "Tip-to-Tip Arclength" = total width of the antenna — important for determining the lowest resonant frequency (frequency where the arclength ≈ λ/2)
+- Child/Parent Branch relationship — the scaling ratio: L_child = r × L_parent, where r is the fractal scaling ratio (typically 0.5 to 0.7 for natural-looking trees)
+
+PHYSICS/UAP RELEVANCE:
+This technical diagram provides the engineering context for the "fractal tree antenna" interpretation of the Chilbolton formation:
+1. The fractal tree is a LEGITIMATE ANTENNA DESIGN — Koch snowflake, Sierpinski gasket, and fractal tree antennas are standard in modern wireless engineering; fractal tree antennas are resonant at every frequency corresponding to one recursion level
+2. The "Source" symbol (~) at the base explicitly shows that this is an electromagnetic antenna connected to an AC signal source — the antenna receives or transmits electromagnetic waves
+3. The labeled "Tip-to-Tip Arclength" determines the lowest operating frequency: f_min = c/(2 × TipToTipArclength) — this wavelength relationship applies when the arclength = λ/2
+4. If the Chilbolton crop formation encodes a fractal tree antenna with these parameters, it could be decoded to determine the specific frequencies the antenna is designed to operate at — suggesting a communication device operating at those frequencies
+5. A fractal antenna with N recursion levels simultaneously resonates at N different frequency bands separated by the scaling ratio — if r = 1/2 (each branch half the parent length), the resonant frequencies would be in octave ratios (f, 2f, 4f, 8f, ...)
+6. This engineering diagram connects the crop formation interpretation to practical radio engineering and suggests the formation encodes actionable antenna design specifications

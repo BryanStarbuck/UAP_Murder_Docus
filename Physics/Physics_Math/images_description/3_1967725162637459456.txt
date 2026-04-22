@@ -1,0 +1,114 @@
+TYPE: Color composite image — aerial photograph of the Poirino, Italy 2011 crop circle formation with overlaid binary ASCII decoding annotations identifying the formation as encoding "Ea Enki space" in binary ASCII, plus an inset line drawing of the Ea Enki Mesopotamian deity figure
+
+OVERALL DESCRIPTION:
+A complex composite image dominated by a top-down aerial photograph of the Poirino 2011 crop circle formation in a tan/golden field. The formation is a large starburst/solar wheel shape — a central bullseye ring surrounded by approximately 7 large triangular points/blades radiating outward, with a ring of small circular satellite elements around the perimeter of the star. Overlaid on and around the formation are yellow binary ASCII code strings and single capital letters (e, a, E, n, k, i, space) that decode the satellite circles as binary digits encoding "Ea Enki space" in ASCII. At the lower-left: a small black and white line drawing of the Ea Enki deity figure (seated Mesopotamian god with horned crown and flowing streams). The title text is at the top.
+
+IMAGE DIMENSIONS: Approximately 800 x 620 pixels (landscape)
+BACKGROUND: Aerial photograph — tan/golden unharvested grain field (#C8A060), approximately 80% of image area
+
+TITLE TEXT (top):
+- Text verbatim: "POIRINO, ITALY 2011: A CONTINUATION OF THE MESSAGE FROM POIRINO 2010"
+- Font: Black bold sans-serif, approximately 16-18px
+- Position: approximately x=0-800, y=0-30
+- Establishes this as a sequel to a 2010 Poirino formation (implying a two-part message sequence)
+
+FORMATION GEOMETRY:
+
+CENTRAL BULLSEYE:
+- Position: approximately center of the aerial image, approximately x=350-500, y=150-400 (formation center at ~x=420, y=270)
+- A concentric ring bullseye at center: outer ring (~90-100px diameter), small inner ring (~50-60px), central filled disc (~25-30px)
+- The bullseye is the axis of the starburst
+
+STARBURST RAYS/BLADES:
+- Approximately 7 large triangular or tapered blade elements radiating from the bullseye
+- Each blade: approximately 120-150px long, starting narrow at the bullseye and widening outward
+- The blades are at approximately equal angular intervals (~360°/7 ≈ 51.4° apart)
+- Each blade appears to have internal structure — narrow triangular "notch" cuts or line divisions within the blade
+- Blade orientation: all 7 blades point outward radially, creating a pinwheel or solar disc appearance
+- In the field: the blades are created by laid/flattened crop (golden-brown), standing crop remains between blades (creating the star-point separation)
+
+OUTER SATELLITE CIRCLE RING:
+- A ring of small circular satellite elements arranged around the outside of the starburst
+- Each satellite: a small filled or hollow circle, approximately 15-25px diameter
+- Approximately 33-40 such satellite circles distributed around the perimeter
+- The satellites are arranged in groups, with slight spacing variations between groups
+- KEY ELEMENT: These satellite circles encode binary data — each circle represents either a binary 1 (filled/present) or 0 (absent/gap) in the ASCII encoding
+
+BINARY ASCII DECODING ANNOTATIONS:
+
+Left side of image:
+- Red text box (upper-left): "Ea Enki space" / "in binary ASCII"
+- Below: binary code strings with ASCII letter equivalents:
+  * "01000101  E"
+  * "01100001  a"
+  * (space)
+  * "01000101  E"
+  * "01101110  n"
+  * "01101011  k"
+  * "01101001  i"
+  * (space)
+  * "00100000  space"
+- This shows the complete binary encoding: "Ea Enki" followed by a space in 7-bit or 8-bit ASCII
+- ASCII values confirmed: E=69 (01000101), a=97 (01100001), E=69, n=110 (01101110), k=107 (01101011), i=105 (01101001), space=32 (00100000)
+
+Overlaid on the formation perimeter (yellow text/numbers):
+- Around the outer ring of satellite circles, yellow text labels identify the binary values of each group:
+  * Upper area: "01101001" (label "i") at approximately x=430, y=100
+  * "00100000" (label "space") at approximately x=570, y=130
+  * Left side: "01101011" (label "k") at approximately x=140, y=200
+  * "01101110" (label "n") at approximately x=150, y=310
+  * Upper-right area: label "E" in yellow at approximately x=630, y=220
+  * "01100001" (label "a") at approximately x=580, y=410
+  * Lower area: "01000101" (label "E") at approximately x=330, y=440
+  * "01000101" (label "E") at approximately x=200, y=440
+
+- Single yellow capital letters (e, a, E, n, k, i) are placed at the approximate position on the outer circle where each byte's satellite circles are located:
+  * "k" approximately x=145, y=225
+  * "n" approximately x=155, y=330
+  * "E" approximately x=630, y=240
+  * "a" approximately x=590, y=410
+  * "E" (lower) approximately x=265, y=455
+
+EA ENKI DEITY INSET (lower-left):
+- Position: approximately x=10-200, y=400-600
+- A small black and white line drawing/engraving (~190×200px) of the Mesopotamian deity Ea Enki
+- The figure: a standing or seated anthropomorphic deity with:
+  * Horned crown/tiara (indicating divine status in Mesopotamian iconography)
+  * Long stylized beard arranged in horizontal parallel lines
+  * Flowing streams of water emerging from the deity's body or vase held in hand — the characteristic "water flowing" motif of Ea/Enki as god of the fresh waters (Abzu/apsu)
+  * Fish swimming in the streams of water (the Enki fish motif)
+  * Possibly holding a vessel (the vase of flowing waters)
+- Label below the figure: "Ea Enki" in black text
+- This is the standard Ea Enki iconographic representation seen throughout Mesopotamian cylinder seals and reliefs — specifically the god of wisdom, fresh water, and creation
+
+BINARY ASCII ANALYSIS:
+The complete decoded message from the satellite circles: "Ea Enki" + space
+Full binary sequence:
+- E = 01000101 (8 circles: 0,1,0,0,0,1,0,1)
+- a = 01100001 (8 circles: 0,1,1,0,0,0,0,1)
+- [space between words] = 00100000 (8 circles: 0,0,1,0,0,0,0,0)
+- E = 01000101
+- n = 01101110 (8 circles: 0,1,1,0,1,1,1,0)
+- k = 01101011 (8 circles: 0,1,1,0,1,0,1,1)
+- i = 01101001 (8 circles: 0,1,1,0,1,0,0,1)
+- [space] = 00100000
+Total: 8 × 8 = 64 bits = 64 satellite circles (plus possibly some structural separators)
+
+PHYSICS/SCIENCE RELEVANCE:
+1. BINARY ASCII STEGANOGRAPHY: The Poirino 2011 formation (like the formations documented in 3_1965924435929739268.jpg) encodes a message in binary ASCII — the satellite circles represent binary digits, and when decoded give the name "Ea Enki" in English ASCII characters. This is a second confirmed use of binary ASCII encoding in crop circles (the first was the 2002 Crabwood formation encoding "Beware the bearers of FALSE gifts & their BROKEN PROMISES")
+2. "EA ENKI SPACE": The decoded text explicitly names the Sumerian deity Ea Enki — this is presented as the entity signing its work. The "space" at the end may be a formatting character, continuation indicator, or separator between messages
+3. POIRINO 2010-2011 SEQUENCE: The title states this is "a continuation of the message from Poirino 2010" — implying a deliberate multi-year message sequence at the same location. The 2010 Poirino formation also encoded binary data (reportedly encoding the mathematical constants π, φ, and e, or Nikola Tesla's name, depending on the researcher's analysis)
+4. 7-POINTED STARBURST: The 7 blades of the starburst formation have been interpreted as: 7 classical planets of antiquity (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn), 7 Anunnaki senior deities, or 7 musical notes — consistent with the Sumerian cosmology of Ea Enki's domain. Alternatively, 7 could encode 7-bit ASCII (the original 128-character ASCII standard is 7-bit)
+5. CONNECTION TO EA ENKI CROP CIRCLE SERIES: This image is part of a series identifying Ea Enki as the creator of multiple crop circles: East Field 2007 (lunar crescent signature), Crooked Soley 2002 (DNA encoding), Poirino 2011 (binary name signature). The consistent attribution to a single entity across multiple formations and multiple years is the core of the ancient astronaut crop circle thesis in this collection
+6. ITALIAN LOCATION: The Poirino formations near Turin, Italy are notable because they appeared outside the traditional Wiltshire, UK concentration of complex formations — suggesting the source is not confined to one geographic area (not human creators from Wiltshire)
+
+COLORS:
+- Aerial field background: Golden-tan (#C8A060 to #D4B070)
+- Formation elements (flattened crop): Darker golden-brown (#906030 to #A07040)
+- Binary code labels: Yellow (#FFFF00 or #FFD700)
+- Single letter labels (e, a, E, n, k, i, space): Yellow (#FFFF00)
+- "Ea Enki space in binary ASCII" text box: Red (#CC0000) background with white text
+- Deity inset: Black and white line art (#000000 on white)
+- Title text: Black (#000000)
+
+SUMMARY: Color composite image (~800×620px). Title: "POIRINO, ITALY 2011: A CONTINUATION OF THE MESSAGE FROM POIRINO 2010." Main element: aerial photograph of Poirino 2011 crop circle — a 7-pointed starburst formation with central bullseye (~90-100px), 7 radiating triangular blades (~120-150px each), and a ring of ~64 small satellite circles around the perimeter. Yellow binary ASCII labels overlaid at each satellite group position, decoding the circles as 8-bit bytes: 01000101=E, 01100001=a, 00100000=space, 01000101=E, 01101110=n, 01101011=k, 01101001=i, 00100000=space — spelling "Ea Enki" + space. Red text box (upper-left): "Ea Enki space in binary ASCII" with full binary-to-letter mapping. Lower-left inset: black and white line drawing of the Ea Enki deity with flowing water streams and fish, labeled "Ea Enki." The formation presents as a direct binary ASCII signature from the Sumerian deity Ea Enki, extending the binary-encoded crop circle message series documented throughout this collection.

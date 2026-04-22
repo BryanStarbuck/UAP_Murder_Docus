@@ -1,0 +1,58 @@
+TYPE: Physics diagram — circular 3-phase generator cross-section with RED pointer lines and caret symbols; dual-count labeling (3/6 wire coils); variant of 3_2030945182859104256 (green pointer lines) and 3_2030945197128097792 (green pointer lines to lower ring).
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. Central circular concentric diagram with satellite circles. Colored text labels. Two red diagonal lines pointing from upper labels toward the central element. Four caret symbols around the central disc.
+
+CENTRAL DIAGRAM:
+* Same concentric ring structure as 3_2030517955226984449 and other variants:
+  - Blue outer ring (stator frame)
+  - Black thick outer ring (stator core)
+  - White annulus (air gap / winding zone)
+  - Red inner circle outline (central magnet N/S boundary)
+  - Black inner filled circle (central rotor/magnet)
+
+SATELLITE ELEMENTS:
+* Same arrangement as other variants: approximately 8 large black satellite circles + small black dots at intercardinal positions
+* Top cluster: 3 circles in triangular cluster (pointing upward)
+* Left: 1 large circle at 9 o'clock position
+* Right: 1 large circle at 3 o'clock position
+* Bottom cluster: 3 circles in triangular cluster (pointing downward, partially visible)
+* Small black dots at diagonal positions (NE, NW, SE, SW)
+
+POINTER LINES — RED (distinct from green in 3_2030945182859104256):
+* TWO RED diagonal lines (not green) pointing from the upper label areas toward the central element
+* Both red lines converge from upper-left and upper-right labels toward the inner red circle (the central magnet boundary ring)
+* The red lines terminate at approximately the top edge of the blue outer ring / boundary of the central region
+* Note: In 3_2030945182859104256 the pointer lines were GREEN; here they are RED — this is the key visual distinction
+
+CARET SYMBOLS (additional element not in 3_2030945182859104256):
+* FOUR caret symbols visible around the central disc:
+  - BLUE "V" at left side (outside the blue ring, at approximately 9 o'clock): pointing downward
+  - BLUE "^" at right side (outside the blue ring, at approximately 3 o'clock): pointing upward
+  - RED "^" inside the red circle ring (at approximately 10 o'clock on the inner red boundary): pointing upward
+  - RED "V" inside the red circle ring (at approximately 2 o'clock on the inner red boundary): pointing downward
+* The alternating up/down carets (^ and V) at left/right and inner positions indicate the direction of current flow through the stator coils at a specific instant in the AC cycle
+
+LABELS:
+* RED text labels (matching the red pointer lines):
+  - "3 wire coils" (upper left)
+  - "3-phase rotating magnetic field U-V-W" (upper right)
+* BLUE text labels:
+  - "6 wire coils" (lower left)
+  - "3-phase rotating magnetic field U-V-W-U-V-W" (lower right)
+  - "V" (left of outer blue ring)
+  - "^" (right of outer blue ring)
+
+KEY DIFFERENCE FROM OTHER VARIANTS:
+* The pointer lines are RED (not green as in 3_2030945182859104256 and 3_2031854233218322432)
+* The addition of four caret symbols (^/V in red and blue) around the central disc — these caret annotations indicate current flow direction in specific coil positions
+* The red pointer lines connecting the red "3-phase U-V-W" label to the central magnet boundary create a visual link between the phase labels and the magnetic field direction
+
+PHYSICS INTERPRETATION:
+* The red pointer lines specifically connect the U-V-W label to the red inner circle (the central magnet — the element that generates/responds to the 3-phase field)
+* The ^/V caret symbols are current direction indicators (conventional notation in electrical engineering: ^ = current flowing "out of the page" toward viewer, V = current flowing "into the page" away from viewer)
+* The alternating ^ and V at 90° intervals (left and right sides) shows the instantaneous current directions in two adjacent coil sides — consistent with a 6-pole machine at the moment shown
+* Red carets on the inner red ring boundary = indicating the stator current directions in the winding window zones
+
+OVERALL COMMUNICATION: A physics diagram of the same circular 3-phase generator cross-section (blue stator frame ring, black stator core, white air gap annulus, red central magnet ring, black rotor disc) with 8 satellite circles in the characteristic crop-circle-based representation. DISTINCT FEATURES: (1) Two RED diagonal pointer lines (vs. green in previous variants) connecting upper labels to the central red magnet ring; (2) Four caret symbols (^/V) indicating instantaneous current flow directions — two blue carets at left and right outside the blue ring, two red carets at the inner red ring boundary. Labels: "3 wire coils" and "3-phase rotating magnetic field U-V-W" (red, upper); "6 wire coils" and "3-phase rotating magnetic field U-V-W-U-V-W" (blue, lower).

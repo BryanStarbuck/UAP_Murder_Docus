@@ -1,0 +1,43 @@
+Type: Annotated astronomical photograph — a narrow-band C₂ Swan Band filter image of 3I/ATLAS showing the compact green-glowing coma against a noisy grey background, with detailed technical annotations and a "SUN" direction arrow.
+
+Overall Image:
+* Square frame, dark grey noisy background — high-noise grayscale/color image.
+* Technical annotations in white text (upper-left corner):
+  - "Live Stack 114x4s Exp" — 114 frames stacked, each 4 seconds exposure
+  - "Analogue Gain=4000" — very high camera gain setting (consistent with detecting faint emission)
+  - "15nm C2 Swan-Band" — 15 nanometer bandwidth narrowband filter centered on the C₂ Swan Band emission (~516nm)
+* A white arrow at the lower-left points diagonally toward the upper-right, labeled "SUN" — indicating the direction toward the Sun from the observer's perspective.
+
+Central Object:
+* At image center: a compact, bright, approximately circular coma visible as a greenish-grey glowing blob.
+* The coma structure:
+  - Innermost: a bright white/light grey nucleus core (the most intense emission zone)
+  - Middle zone: a slightly darker ring immediately surrounding the nucleus (the boundary zone)
+  - Outer zone: the C₂ emission coma — visible as a faint greenish-grey circular halo
+* The coma is small relative to the image frame — occupying approximately 8-10% of the frame width.
+* The coma is approximately circular but with slight asymmetry toward the anti-solar direction (away from the SUN arrow direction).
+
+One additional faint white dot near the upper-right area of the frame — possibly a background star.
+
+Scientific Significance:
+* This is a NARROWBAND C₂ FILTER IMAGE — the 15nm bandpass centered on the C₂ Swan Band means:
+  - Only the C₂ emission at ~516nm passes through the filter
+  - Background stars and reflected sunlight (which produce broad-spectrum white light) are heavily suppressed by the narrow bandpass
+  - The comet coma GLOWS because it emits specifically at the C₂ Swan Band wavelength
+* The "Analogue Gain=4000" setting is very high gain — used to detect faint emission through a narrow bandpass filter
+* "114x4s Exp" = 114 frames × 4 seconds each = 456 seconds = 7.6 minutes of total integration time — a live-stacking session showing real-time accumulation
+
+RC's Contextual Use:
+* This is the most scientifically rigorous image in RC's series — a professional narrowband C₂ filter observation of 3I/ATLAS.
+* The 15nm C₂ Swan Band filter provides definitive spectroscopic identification: the coma emits at 516nm, confirming C₂ dicarbon molecular emission.
+* The SUN arrow shows the anti-solar direction of the tail — the coma is slightly asymmetric toward the upper-right (away from the SUN direction in the image), consistent with solar wind and radiation pressure pushing material anti-sunward.
+* The compact, approximately circular coma (small relative to the frame) at this epoch indicates the comet is either far from the Sun (less active) or has a relatively confined emission pattern compared to later observations.
+* RC uses this to: (1) confirm C₂ emission definitively via filter selection, (2) show the anti-solar coma asymmetry, (3) document a professional-level observation with full technical metadata.
+
+Text Visible (complete):
+* "Live Stack 114x4s Exp"
+* "Analogue Gain=4000"
+* "15nm C2 Swan-Band"
+* "SUN" (label on arrow)
+
+Summary: Narrowband C₂ Swan Band filter (15nm bandpass, ~516nm) astronomical photograph of 3I/ATLAS: a compact, approximately circular greenish-grey coma (small, ~8-10% frame width) with bright nucleus core at center, set against a high-noise dark grey background. Technical annotations (upper-left): "Live Stack 114x4s Exp / Analogue Gain=4000 / 15nm C2 Swan-Band." Lower-left: a white "SUN" labeled arrow pointing toward the solar direction. The 15nm narrowband C₂ filter definitively confirms the comet's Swan Band dicarbon emission at 516nm. RC uses this as the most rigorous spectroscopic evidence in the series for C₂ molecular emission from 3I/ATLAS.

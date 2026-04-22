@@ -1,0 +1,202 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+
+Source: RedCollie1 (Dr. Horace Drew), tweet corpus 2025-04-22 through 2026-04-22.
+
+---
+
+## 1. Lorentz Torque — Corbino / Faraday Disc
+
+Force on radial current element dl in axial field B_z:
+  dF = I (dl x B) = I * dr * (hat{r} x B_z * hat{z}) = I * B_z * dr * (-hat{phi})
+
+Torque element about the axis:
+  dtau = r * dF_phi = -I * B_z * r * dr
+
+Integrated torque for Corbino disc (inner radius r1, outer radius r2):
+  tau = I * B_z * integral_{r1}^{r2} r dr = I * B_z * (r2^2 - r1^2) / 2
+
+This is the net azimuthal (XY-plane) torque that drives rotation. Direction: sign of
+I (radial current direction) cross sign of B_z (axial field direction).
+
+---
+
+## 2. Electromagnetic Induction — Faraday's Law and Lenz's Law
+
+Induced EMF in disc of area A from time-varying axial flux:
+  epsilon = -d(Phi_B)/dt = -A * dB_z/dt
+
+For sinusoidal driving: B_z(t) = B_0 * sin(omega * t)
+  epsilon = -A * B_0 * omega * cos(omega * t)
+  |epsilon_peak| = A * B_0 * omega
+
+Skin depth in conductor (relevant to eddy current penetration):
+  delta_s = sqrt(2 * rho / (mu_0 * omega))
+  = sqrt(2 / (mu_0 * sigma * omega))
+
+where rho = resistivity, sigma = electrical conductivity, mu_0 = 4*pi*10^-7 H/m.
+
+For aluminum: sigma_Al ~ 3.5 x 10^7 S/m
+  delta_s(Al) = sqrt(2 / (4*pi*10^-7 * 3.5*10^7 * omega))
+  delta_s(Al) = sqrt(2 / (4.4 * omega)) [meters, omega in rad/s]
+
+For mercury: sigma_Hg ~ 1.04 x 10^6 S/m at 20 deg C
+  rho_Hg = 1 / sigma_Hg ~ 9.6 x 10^-7 Ohm*m
+
+Lenz force scaling:
+  F_Lenz ~ (sigma * omega * B_0^2 * delta_s * A) in the high-frequency (thin-skin) limit
+         ~ sigma^{1/2} * omega^{1/2} * B_0^2 * A   (substituting delta_s)
+
+---
+
+## 3. Gyroscopic Reduction of Lenz Force (Empirical Equation, Drew's Claim)
+
+Stated result (experimental):
+  F_Lenz(omega_spin >> 0) = 0.20 * F_Lenz(omega_spin = 0)
+
+Equivalently:
+  F_Lenz_spinning / F_Lenz_stationary = 0.20
+
+Reduction factor R = 1 - 0.20 = 0.80 (80% reduction in Lenz repulsive force)
+
+This cannot yet be expressed as a standard derived formula; Drew claims it is empirical
+and "NOT IN TEXTBOOKS." A possible dimensionless parameter governing the transition:
+  xi = (I * omega_spin) / (m * g * r)  [ratio of angular momentum to gravitational torque]
+  When xi >> 1, gyroscopic regime: R approaches 0.80 (based on Drew's data point)
+  When xi << 1, non-gyroscopic regime: R = 0
+
+---
+
+## 4. Angular Momentum Conservation
+
+Total angular momentum of closed system (no external torque, tau_ext = 0):
+  L_total = L_outer + L_inner = I_outer * omega_outer + I_inner * omega_inner = constant
+
+For the inner-magnet spin flip (anti-clockwise -> clockwise):
+  delta_omega_inner = -2 * omega_inner  (sign reversal)
+  delta_L_inner = I_inner * (-2 * omega_inner)
+  delta_L_outer = -delta_L_inner = I_inner * 2 * omega_inner
+  omega_outer_new = omega_outer_old + (2 * I_inner * omega_inner) / I_outer
+
+Numerical example (outer flywheel, 16 magnets):
+  Let I_outer = (M_outer * R_outer^2) / 2  (thin ring approximation for flywheel)
+  Let I_inner = (m_inner * r_inner^2) / 2  (disc)
+  When omega_inner reverses: omega_outer increases by 2 * I_inner * omega_inner / I_outer
+
+If I_outer >> I_inner: small change in omega_outer
+If I_outer ~ I_inner: large coupled response (strong counter-spin)
+
+Drew's device design intent: balance I_outer and I_inner to maximize angular momentum
+exchange and (hoped) axial force coupling.
+
+---
+
+## 5. Three-Phase Rotating Field Mathematics
+
+Three-phase currents:
+  i_U(t) = I_m * cos(omega_e * t)
+  i_V(t) = I_m * cos(omega_e * t - 2*pi/3)
+  i_W(t) = I_m * cos(omega_e * t - 4*pi/3)
+
+Magnetic flux from spatially distributed coils (U at phi=0, V at phi=2*pi/3, W at phi=4*pi/3):
+  B(phi, t) = (3/2) * B_m * cos(omega_e * t - phi)
+
+This is a traveling wave in the azimuthal (phi) direction, rotating at omega_e. For
+a p-pole machine (p poles), synchronous mechanical speed:
+  omega_s_mech = (2 / p) * omega_e
+
+For Drew's four-set (four-pole, p=4) configuration:
+  omega_s_mech = omega_e / 2
+
+The phase sequence U-V-W-U-V-W determines the rotation direction. Counter-phase (U-W-V)
+reverses rotation direction. Drew identifies this as "3-phase counter-spin" when the
+outer rotating field drives the inner disc in the opposite direction at high frequencies.
+
+Induced voltage in inner disc from rotating field:
+  V_induced = -d/dt (integral B . dA) = omega_s * Phi_max * sin(omega_s * t - delta)
+
+where delta is a phase angle determined by disc impedance.
+
+---
+
+## 6. Probability Calculation — 3I/ATLAS Orbital Statistics
+
+Given three independent events (Avi Loeb framework):
+  P_1 = 1/200   (planetary ecliptic proximity)
+  P_2 = 1/20,000  (bypassing Mars, Venus, Jupiter closely)
+  P_3 = 1/14   (perihelion behind Sun from Earth)
+
+Joint probability (independence assumed):
+  P = P_1 * P_2 * P_3 = (1/200) * (1/20,000) * (1/14)
+  P = 1 / (200 * 20,000 * 14)
+  P = 1 / 56,000,000
+  P ~ 1.79 x 10^-8
+
+Drew's interpretation: P < 2 x 10^-8 makes the null hypothesis (natural interloper) untenable.
+No correction for multiple comparisons or a posteriori selection effects is applied.
+
+---
+
+## 7. Homopolar Generator EMF
+
+For a disc of radius R rotating at angular velocity omega in axial field B_z:
+  EMF = (1/2) * B_z * omega * R^2
+
+This is the Faraday disc generator formula. For mercury torus of inner radius r1,
+outer radius r2, rotating at omega in field B_z:
+  EMF_mercury = (1/2) * B_z * omega * (r2^2 - r1^2)
+
+The radial current driven by this EMF through mercury's resistance:
+  I_radial = EMF_mercury / R_torus
+  R_torus = rho_Hg * ln(r2/r1) / (2 * pi * h)  [h = torus height]
+
+Lorentz torque on mercury from its own induced current in B_z:
+  tau_mercury = I_radial * B_z * (r2^2 - r1^2) / 2
+
+This is the self-consistent Hartmann-flow type calculation for conducting fluid rotation
+in an axial field. Whether this produces a net vertical force (anti-gravity) is the
+unresolved question.
+
+---
+
+## 8. Vacuum Energy Density (Referenced Implicitly)
+
+Zero-point energy density from QFT (relevant to Drew's "empty space" cosmology reference):
+  rho_vacuum = (1/(2*pi^2)) * integral_0^{Lambda} (hbar * sqrt(k^2 + m^2)) * k^2 dk
+
+For massless photons with UV cutoff at Planck scale Lambda_Pl = sqrt(hbar*c/G) ~ 1.22 x 10^19 GeV:
+  rho_vacuum ~ Lambda_Pl^4 / (16 * pi^2) ~ 10^76 GeV/cm^3 ~ 10^114 J/m^3
+
+Observed dark energy density:
+  rho_Lambda_obs ~ 10^-29 g/cm^3 ~ 10^-9 J/m^3
+
+Ratio:
+  rho_vacuum / rho_Lambda_obs ~ 10^123
+
+This 123-order-of-magnitude discrepancy (the cosmological constant problem) is the
+"mystery" Drew points to when noting galaxies "arise from empty space." He does not
+provide a resolution; he references it as motivation for studying "unseen forces."
+
+---
+
+## 9. Inertia, Magnetism, Gravity — Dimensional Connections Referenced
+
+Drew's tweet 2044541150003110357 lists:
+  "Inertia, electricity, magnetism, gravity, or even ships to fly magically through space"
+
+In SI units, the fundamental electromagnetic-gravitational coupling constants:
+  G (Newton) = 6.674 x 10^-11 N*m^2/kg^2
+  epsilon_0 = 8.854 x 10^-12 F/m
+  mu_0 = 4*pi*10^-7 H/m
+  c = 1/sqrt(epsilon_0 * mu_0) = 2.998 x 10^8 m/s
+
+The ratio of electromagnetic to gravitational force between two protons:
+  F_EM / F_grav = e^2 / (4*pi*epsilon_0*G*m_p^2) ~ 1.24 x 10^36
+
+This "hierarchy problem" (why gravity is 36 orders weaker than electromagnetism) is
+implicitly referenced when Drew seeks electromagnetic mechanisms to overcome gravitational
+acceleration.
+
+---
+
+*Appended: 2026-04-22. Source: RedCollie1 tweet corpus, directory 7/8.*

@@ -1,0 +1,225 @@
+# overall_Math.mdx
+# Mathematical Equations, Their Pieces and Relationships — XY and Z-Axis Dynamics
+# Source: RedCollie1 (@DrHoraceDrew) tweets and video transcriptions, directory 4/7
+
+---
+
+## Section: 1972971982804373872.yaml — Angular Momentum Non-Conservation in Lorentz-Torque System
+
+### Spin Angular Momentum (Classical Definition)
+L = m × v × r
+(scalar form for a point mass; more precisely L = r × p = r × mv)
+
+For a rigid rotating body:
+L = I × ω    [kg·m²/s]
+
+where I = moment of inertia [kg·m²], ω = angular velocity [rad/s]
+
+For a solid disc of mass M and radius R:
+I_disc = (1/2)MR²
+
+For a thin wire ring of mass m and radius r:
+I_ring = mr²
+
+Mass ratio given by Drew: M_disc/M_wires ≈ 100
+
+Classical torque-reaction (Newton's Third Law applied to torques):
+τ_on_disc = -τ_on_wires (equal, opposite)
+
+Classical prediction for angular velocity ratio:
+If equal torques τ applied for equal time Δt:
+ΔL_disc = τ Δt = I_disc × Δω_disc
+ΔL_wires = τ Δt = I_wires × Δω_wires
+
+⟹ Δω_wires/Δω_disc = I_disc/I_wires = M_disc R²_disc / (M_wires r²_wires)
+
+For same radius (R_disc ≈ r_wires): Δω_wires/Δω_disc ≈ M_disc/M_wires ≈ 100
+
+Observed: Δω_wires ≈ Δω_disc (approximately equal angular velocities)
+
+Discrepancy factor: ~100×
+
+Interpretation: The torque applied to the disc by the Lorentz force is approximately 100 times greater than the torque applied to the wires, for the same current and field configuration. This implies the Lorentz force is preferentially depositing angular impulse into the heavier disc — the opposite of what Newton's Third Law predicts for equal-and-opposite torques.
+
+Electromagnetic field angular momentum (conservation of total system):
+L_total = L_mechanical + L_field
+
+L_field = ε_0 ∫(r × (E × B)) dV = (1/c²) ∫(r × S) dV
+
+where S = E × H is the Poynting vector.
+
+Conservation holds for L_total; apparent violation is only in L_mechanical.
+
+---
+
+## Section: 13_1926181520990990336_preview.txt — Lorentz Force on Radial Current in Axial Field (Liquid Homopolar Motor)
+
+### Coordinate System
+- Z-axis: axial (vertical), B field direction from permanent magnet below
+- XY-plane: horizontal, radial current flow and resulting azimuthal rotation
+
+### Magnetic field from permanent magnet below bowl:
+B = B_z ẑ    [T]    (axial, pointing upward)
+
+### Current density in conductive liquid (radial, outward):
+J = J_r r̂    [A/m²]    (radial in XY-plane)
+
+### Lorentz body force density:
+f = J × B = (J_r r̂) × (B_z ẑ) = J_r B_z (r̂ × ẑ) = -J_r B_z φ̂    [N/m³]
+
+(using r̂ × ẑ = -φ̂ in cylindrical coordinates, for J_r > 0, B_z > 0 this drives counter-clockwise rotation)
+
+### Azimuthal torque on differential volume element dV at radius r:
+dτ_z = r |f_φ| dV = r J_r B_z dV    [N·m]
+
+### Total torque on rotating liquid:
+τ_z = ∫∫∫ r J_r B_z dV    [N·m]
+
+### Power (mechanical output from Lorentz drive):
+P_mech = τ_z × ω_fluid    [W]
+
+### Input electrical power:
+P_elec = V × I    [W]
+
+### Efficiency:
+η = P_mech / P_elec
+
+Note: In an ideal homopolar motor, efficiency approaches 100% in the absence of viscous dissipation and ohmic heating in the liquid.
+
+### Key observation: XY-plane current (J_r in r̂ direction) + Z-axis field (B_z in ẑ direction) → XY-plane azimuthal rotation (f_φ in φ̂ direction)
+
+This is the fundamental geometric cross-coupling: horizontal current + vertical field = horizontal rotation.
+
+---
+
+## Section: 1968945832247574953.yaml (+ parent tweet) — MHD Spinning Vortex (Galinstan and Saline)
+
+### Galinstan properties (Ga₆₈.₅In₂₁.₅Sn₁₀ eutectic):
+- Melting point: -19°C (liquid at room temperature)
+- Electrical conductivity: σ ≈ 3.46 × 10⁶ S/m (at 20°C)
+- Density: ρ ≈ 6440 kg/m³
+- Dynamic viscosity: μ ≈ 0.0024 Pa·s
+
+### MHD Reynolds number (magnetic):
+Re_m = μ_0 σ v L    (dimensionless)
+where v = characteristic velocity, L = characteristic length scale, μ_0 = 4π × 10⁻⁷ H/m
+
+For Re_m << 1: magnetic field is not significantly distorted by fluid motion (low magnetic Reynolds number regime — appropriate for laboratory-scale metallic liquid experiments).
+
+### MHD body force (same as homopolar motor case):
+f = J × B = σ(v × B) × B    [N/m³]    (when driven by induced EMF rather than external current)
+
+Or with external current source:
+f = J_ext × B    [N/m³]
+
+### For azimuthal rotation of galinstan vortex:
+- External magnets (11 thin magnets around outside) provide: B ≈ B_r r̂ + B_z ẑ (mixed radial/axial field from ring of magnets)
+- Applied current I produces current density J in galinstan
+- Resulting force drives azimuthal rotation
+
+### Comparison of spin force with salt water (visual demonstration):
+- Saline water: σ_saline ≈ 1-10 S/m (much lower than galinstan by factor ~10⁶)
+- Saline demonstration: J × B force weaker, used only for visual tracing (green dye)
+- Galinstan demonstration: much stronger force per unit volume at same applied current, enabling stronger spin
+
+---
+
+## Section: 1937003484433481960.yaml — Three-Phase Rotating Magnetic Field Mathematics
+
+### 3-Phase rotating field from 3 spatially displaced coils at 120° intervals:
+
+B₁(t) = B_0 cos(ωt) n̂₁         (coil 1, axis n̂₁)
+B₂(t) = B_0 cos(ωt - 2π/3) n̂₂  (coil 2, axis n̂₂ at 120°)
+B₃(t) = B_0 cos(ωt - 4π/3) n̂₃  (coil 3, axis n̂₃ at 240°)
+
+Resultant field in XY-plane (for n̂₁ = x̂, n̂₂ = cos(2π/3)x̂ + sin(2π/3)ŷ, n̂₃ = cos(4π/3)x̂ + sin(4π/3)ŷ):
+
+B_x(t) = B_0[cos(ωt) + cos(ωt - 2π/3)cos(2π/3) + cos(ωt - 4π/3)cos(4π/3)]
+        = (3/2)B_0 cos(ωt)
+
+B_y(t) = (3/2)B_0 sin(ωt)
+
+|B_rotating| = (3/2)B_0    (constant amplitude)
+Phase: rotates at angular frequency ω
+
+### 6-Coil configuration (doubled 3-phase windings):
+Coils at 0°, 60°, 120°, 180°, 240°, 300° — two sets of 3-phase at 60° offset.
+Resultant: smoother rotation, reduced spatial harmonics, same peak amplitude as single 3-phase set if windings are summed correctly. Torque ripple reduced by factor ~2.
+
+### 5-Phase rotating field:
+B_k(t) = B_0 cos(ωt - 2πk/5) n̂_k    for k = 0, 1, 2, 3, 4
+
+Resultant: constant amplitude (5/2)B_0, smoother rotation than 3-phase.
+Torque ripple frequency: 10× electrical frequency (vs. 6× for 3-phase).
+
+---
+
+## Section: 1920988158734266684.yaml — Ring Magnet Focal Point (Axial Field Geometry)
+
+### Axial magnetic field of a ring magnet on axis (z-axis):
+
+For a thin ring of radius R, magnetic moment m_z:
+B_z(z) = (μ_0 m_z)/(4π) × (2z²-R²)/((z²+R²)^(5/2))    [T]    (on axis)
+
+### Location of maximum axial field (focal point candidate):
+dB_z/dz = 0 solves to: z_max = R/2 (for this simplified model)
+
+More precisely, for a real ring magnet (finite thickness, inner radius R_i, outer radius R_o, height h), the axial field profile B_z(z) has a maximum at some z = z_focal that depends on the geometry. Drew refers to "the focal point" — the axial position where the field magnitude is maximum on the axis, where the field lines converge before diverging again.
+
+### Significance for spinning magnet configuration:
+If the spinning magnet is supported (held "above and below at its focal point"), its rotation axis is constrained to the B_z maximum — this prevents precessional wandering and ensures the spinning axis aligns with maximum field gradient, which is necessary for stable levitation in a non-uniform field.
+
+---
+
+## Section: 2030113160771105130.yaml — Spin / Counter-Spin System Equations of Motion
+
+### Two-wheel (upper wheel = spinning magnet, lower wheel = magnetic flywheel) coupled system:
+
+Let:
+- ω₁ = angular velocity of upper wheel (spinning magnet), about Z-axis
+- ω₂ = angular velocity of lower wheel (magnetic flywheel), about Z-axis
+- I₁ = moment of inertia of upper wheel
+- I₂ = moment of inertia of lower wheel
+- h₁ = height of upper wheel above lower wheel (variable)
+- M(h₁) = magnetic coupling torque as function of separation h₁
+
+Equations of motion (gyroscopic coupling approximation):
+I₁ (dω₁/dt) = τ_applied₁ + τ_coupling₁(ω₁, ω₂, h₁)
+I₂ (dω₂/dt) = τ_applied₂ + τ_coupling₂(ω₁, ω₂, h₁)
+
+Where τ_coupling terms represent the gyroscopic/magnetic coupling between the two spinning elements.
+
+### Observed spin/counter-spin behavior (from two-wheel reference video, 13_2030107101071298568):
+A stationary horizontal wheel (lower) rotates either clockwise or counter-clockwise when an upper spinning wheel is raised or lowered above it — direction determined by direction of raising or lowering.
+
+Formal description: the lower wheel's rotational state is determined by the sign of dh₁/dt (rate of raising/lowering of upper wheel):
+ω₂ = f(dh₁/dt, ω₁)
+
+"What is the spinning wheel pushing against?" — the question of what provides the reaction to the torque τ_coupling₁ (which spins the lower wheel) when the lower wheel was initially stationary and no mechanical contact exists between the two wheels.
+
+---
+
+## Section: 2042549362652516807.yaml — Morris-Thorne Traversable Wormhole Metric
+
+Drew's reference to "wormhole opening" when a correct "dialing address" is input motivates the following standard result:
+
+### Morris-Thorne metric for a traversable wormhole:
+ds² = -e^{2Φ(r)} c² dt² + (1 - b(r)/r)^{-1} dr² + r²(dθ² + sin²θ dφ²)
+
+Where:
+- Φ(r) = redshift function (must remain finite everywhere for traversability)
+- b(r) = shape function (determines wormhole throat geometry)
+- At throat r = r₀: b(r₀) = r₀, and b'(r₀) < 1 (flaring-out condition)
+
+### Flaring-out condition (necessary for traversability):
+d²r/dl² = (b - b'r)/(2r²) > 0 at throat (where l is proper radial distance)
+
+This requires: b(r) - r b'(r) > 0, which combined with b(r₀) = r₀ gives b'(r₀) < 1.
+
+### Energy condition violation:
+The stress-energy tensor required to source a Morris-Thorne wormhole must violate the Null Energy Condition (NEC):
+T_μν k^μ k^ν < 0 for some null vector k^μ
+
+⟹ Requires exotic matter with negative energy density ρ_exotic < 0.
+
+Drew's "dialing address" framework implicitly requires that such exotic matter can be produced or manipulated — a claim consistent with other UAP physics theses (Alcubierre drive, Casimir effect engineering, zero-point energy extraction).

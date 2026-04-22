@@ -1,0 +1,53 @@
+TYPE: Vector schematic — crop circle formation design: diamond/rhombus shape composed of varying-size circles (geometric dot pattern)
+
+CONTENT:
+- White background
+- Black vector art — circles of varying sizes arranged in a specific geometric pattern
+- No lines, only circles/dots
+- Near-square format
+
+OVERALL SHAPE:
+The arrangement of circles creates an overall DIAMOND or RHOMBUS outline — tall and slightly wider than it is tall, with four directional extremities (top, bottom, left, right).
+
+STRUCTURE (from top to bottom):
+
+TOP ROW: 3 circles — medium, LARGE, medium (largest circle at center-top, flanked by two medium circles)
+
+ROW 2: 4 circles — small, medium, medium, small (forming a wider row)
+
+ROW 3: 5 circles — with a notable pattern:
+- Leftmost: small
+- Small gap from center
+- Center: medium (middle of row)
+- Small gap to center
+- Rightmost: small
+Note: the inner positions of row 3 appear to have circles only at certain positions (not a complete row)
+
+HORIZONTAL MIDDLE ROW (widest): Large circle on the far left + chain of medium circles across + Large circle on the far right
+- This is the widest row of the diamond
+- 7-9 total circles in this row
+- The far-left and far-right are distinctly larger (approximately 3× the size of the others)
+
+LOWER ROWS: Mirror the upper rows — the diamond is approximately bilaterally symmetric about both the vertical and horizontal axes
+
+BOTTOM ROW: 2 circles of medium size (rather than a single large circle at the very bottom)
+
+DETAILED COUNT (approximate):
+- Total circles: approximately 28-35
+- Size categories: LARGE (4-5), MEDIUM (15-20), SMALL (8-10)
+- The LARGE circles appear at: top center, bottom area, and far left/right of the widest row
+
+THE DIAMOND FORMATION DESIGN:
+This pattern is the design template for a crop formation where individual circles are laid in a field to form a diamond outline. The varying sizes encode specific numerical or geometric values.
+
+POSSIBLE ENCODING:
+1. FIBONACCI/PASCAL: The circle sizes in each row may follow Pascal's triangle (row sizes: 1, 2, 3, 4, 3, 2, 1 — or similar) — encoding the binomial coefficients
+2. DIAMOND OCTAHEDRON: The diamond outline corresponds to the 2D projection of a regular octahedron (which has 6 vertices, 12 edges, 8 faces)
+3. LATTICE POINTS: The circles represent lattice points of a face-centered cubic (FCC) crystal structure projected along the [110] direction
+4. BINARY ENCODING: The varying sizes (LARGE, MEDIUM, SMALL = 1, 0.5, 0.25) may encode binary information
+
+COLORS:
+- All circles: solid black
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 600 x 720 pixels, portrait orientation

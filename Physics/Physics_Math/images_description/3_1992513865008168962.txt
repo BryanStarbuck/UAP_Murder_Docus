@@ -1,0 +1,55 @@
+Type: Educational schematic diagram — black-on-white hand-drawn or semi-diagrammatic illustration of a 3-phase electromagnetic rotation demonstration using galinstan (liquid metal Ga-In-Sn alloy), with magenta/pink text annotations.
+
+Overall Image:
+* White background.
+* Primary drawing elements in solid black.
+* Annotation text and symbols in magenta/pink.
+* Layout: central cluster of circles (the galinstan pool + surrounding electromagnet assembly), a large circle at top (magnet 2), a large circle at bottom (magnet 1), and text annotations distributed around the diagram.
+
+Central Element — Galinstan/Electromagnet Assembly:
+* A large black filled circle at the center of the cluster — represents the galinstan (liquid metal) pool or the central electromagnetic component.
+* Surrounding the large central circle: approximately 12-16 smaller black circles arranged in a ring around the perimeter — these represent the electromagnet coil elements or pole pieces arranged in a circular array (analogous to stator poles).
+* Between adjacent satellite circles: small curl/hook connector shapes — these represent wire loops or coupling elements connecting adjacent poles in series or parallel.
+* This entire central assembly is the "bead-ring" type configuration: a ring of electromagnets surrounding a central conductive liquid (galinstan).
+* Pink "+" symbol at the center of the main circle cluster — indicates positive polarity or current inflow direction at the center.
+* Pink "-" dash marks (dashes) at four approximately equatorial positions around the cluster perimeter — indicate negative polarity or current outflow points at 0°, 90°, 180°, 270° positions.
+
+Top Element — Magnet 2:
+* A large black circle at the top of the diagram, positioned above the main cluster and connected to it via a Y-fork or trident connector (a vertical line that branches into 2-3 connection points at the cluster end).
+* Magenta label: "magnet 2 N/S" (upper-right region) — indicates the top magnet with North on its bottom face (facing the galinstan) and South on its top face, or vice versa. The N/S label encodes the magnet's pole orientation.
+
+Bottom Element — Magnet 1:
+* A large black circle at the bottom of the diagram, positioned below the main cluster and connected to it via a spiral/curl element — a coiled connector suggesting a spring-loaded or inductance element.
+* Magenta label: "magnet 1 S/N" (lower-left region) — indicates the bottom magnet with South on its top face (facing the galinstan cluster) and North on its bottom face. Opposite orientation from magnet 2.
+
+Magenta Text Annotations:
+* "3-phase magnetism" — upper-left area, labels the overall physical principle being demonstrated.
+* "galinstan" — appears at both left and right of the central cluster, labeling the liquid metal material in the assembly.
+* "magnet 2 N/S" — upper-right, labeling the top magnet and its pole orientation.
+* "magnet 1 S/N" — lower-left, labeling the bottom magnet and its pole orientation.
+* "place here" — below the main cluster (possibly indicating where to place galinstan or an external component).
+* Text box (lower-right): "magnet 1 makes the galinstan spin, and also lifts up magnet 2" — the key functional description of the demonstration: the lower magnet (magnet 1) drives the liquid galinstan into rotation via the 3-phase rotating electromagnetic field, and the same field interaction lifts the upper magnet (magnet 2) — demonstrating magnetic levitation as a byproduct of the rotating electromagnetic field.
+
+Physical Interpretation:
+* Galinstan (Gallium-Indium-Tin eutectic alloy, m.p. ~11°C) is a liquid metal at room temperature and is electrically conductive. In a rotating magnetic field, eddy currents are induced in the galinstan, and the Lorentz force (J × B) causes the liquid to rotate — this is the liquid-metal equivalent of an induction motor.
+* 3-phase magnetism: the surrounding ring of electromagnet poles is driven with 3-phase AC current (120° phase offset between phases), creating a rotating magnetic field that sweeps around the circumference of the ring. The galinstan pool, being conductive, responds by rotating.
+* Magnet 1 (bottom, S/N) creates the primary driving field that induces the galinstan rotation.
+* Magnet 2 (top, N/S) is levitated by the combined magnetic pressure of the rotating field — the field is strong enough to suspend magnet 2 above the galinstan pool, demonstrating magnetic levitation simultaneously with liquid metal rotation.
+* The "+" at center and "-" dashes at the equator encode the current distribution topology — center-fed, equatorially returned — matching the geometry of a central-axis drive with radially distributed return paths.
+
+RC's Contextual Use:
+* This diagram introduces galinstan as a tabletop demonstration medium for the 3-phase rotating electromagnetic field concept.
+* The key insight RC is documenting: the same 3-phase rotating magnetic field that spins galinstan in a bowl also levitates magnet 2. This is a small-scale analog of the proposed UAP ring drive: a rotating electromagnetic field creates both rotational force AND vertical levitation simultaneously.
+* The connection to the Schirmer (1967) ring-of-electromagnets drive: Schirmer's craft was described as having a ring of electromagnets wired in parallel with alternating N-S polarity, creating a rotating field. The galinstan demonstration shows the physical consequence of such a field on a conducting medium (or on suspended magnets).
+* The Apollonian gasket / bead-ring crop formation analogy: the central large circle + ring of satellite circles in this diagram matches the geometry of the crop formation "bead-ring" type (large central circle surrounded by a ring of smaller circles) — RC is arguing these geometries encode the same electromagnetic topology.
+* Galinstan is used rather than liquid mercury (also conductive) because galinstan is non-toxic and available at room temperature.
+
+Text Visible (complete):
+* "3-phase magnetism"
+* "galinstan" (appears twice)
+* "magnet 2 N/S"
+* "magnet 1 S/N"
+* "place here"
+* "magnet 1 makes the galinstan spin, and also lifts up magnet 2"
+
+Summary: Black-on-white educational schematic of a 3-phase electromagnetic rotation and levitation demonstration using galinstan (liquid Ga-In-Sn alloy). Central assembly: large black filled circle (galinstan pool) surrounded by a ring of ~12-16 smaller black satellite circles with curl/hook connectors (the electromagnet stator poles), with pink "+" at center and pink "-" at four equatorial positions. Top element: large black circle (magnet 2, N/S polarity) connected via Y-fork trident. Bottom element: large black circle (magnet 1, S/N polarity) connected via spiral element. Magenta text labels: "3-phase magnetism," "galinstan" (x2), "magnet 2 N/S," "magnet 1 S/N," "place here," and explanatory text box "magnet 1 makes the galinstan spin, and also lifts up magnet 2." RC uses this as a tabletop demonstration that a 3-phase rotating electromagnetic field simultaneously induces liquid metal rotation (via eddy-current Lorentz force) and magnetic levitation — directly analogous to the proposed ring-of-electromagnets UAP propulsion system and to the bead-ring circular geometry encoded in crop formations.

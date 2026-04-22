@@ -1,0 +1,52 @@
+TYPE: Schematic diagram — nuclear/radioactivity hazard symbol (trefoil/triskelion with 3 sectors) combined with two concentric rings and three satellite circles at 120° intervals, connected by tangent lines; B&W line art on white background.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. A central composite symbol occupies most of the image. Three satellite circles are positioned at the outer ring. No text visible.
+
+CENTRAL ELEMENT — TREFOIL (NUCLEAR SYMBOL):
+* A standard international radioactivity/nuclear hazard symbol: three filled-black equal curved-sector blades arranged at 120° intervals around a central circle
+* The three blades fan outward from the center: each blade subtends approximately 60° of the inner arc and approximately 120° radial extent
+* The central disc (around which the blades radiate): small circular white region at the geometric center
+* The three blades are FILLED SOLID BLACK (not just outlines)
+* The overall shape is a 3-fold symmetric trefoil / triskelion — standard ISO 361 nuclear hazard symbol
+* The trefoil symbol occupies approximately the inner 50% of the image
+
+OUTER CONCENTRIC RINGS:
+* Two concentric circular rings surrounding the trefoil:
+  - INNER RING: Closest to the outer boundary of the trefoil blades — a thin black circle outline
+  - OUTER RING: A second thin black circle at a larger radius
+  - The gap between inner and outer rings forms an annular zone
+* Both rings are centered on the same center as the trefoil
+
+SATELLITE CIRCLES:
+* THREE satellite circles at the outer ring radius, positioned at approximately 120° intervals (matching the trefoil's 3-fold symmetry):
+  - UPPER LEFT: A satellite circle positioned at approximately 10-11 o'clock
+  - RIGHT CENTER: A satellite circle positioned at approximately 3 o'clock
+  - LOWER LEFT: A satellite circle positioned at approximately 7-8 o'clock
+* Each satellite circle: outline circle (not filled) with an internal crosshair or diameter line bisecting it
+* Each satellite circle is connected to the outer concentric ring by a single tangent or radial straight line
+* The satellite circles are positioned outside the outer concentric ring (beyond the main formation boundary)
+
+OVERALL GEOMETRY:
+* The combination of: central trefoil + two concentric rings + three outer satellite circles with connecting lines
+* This geometry is a schematic representation of a 3-phase stator:
+  - Trefoil (3-fold blades) = 3-phase stator winding cross-section (each blade = one stator pole)
+  - Outer concentric rings = stator frame / rotor boundary
+  - Three satellite circles = the three phase connection points (U, V, W terminals)
+  - Connecting tangent lines = the wiring leads from the coil ends to the phase terminals
+
+PHYSICS INTERPRETATION:
+* The nuclear trefoil symbol is being repurposed here as a 3-phase stator winding cross-section diagram
+* The ISO nuclear hazard symbol has exactly the same 3-fold rotational symmetry as a 3-phase rotating magnetic field (120° phase separation between U, V, W)
+* The three satellite circles with crosshairs = the three external phase connection terminals of a 3-phase machine
+* The tangent connecting lines = the wire leads from the stator winding ends to the external terminals
+* This diagram encodes: a 3-phase 3-pole stator (alternating current machine, minimum pole-count configuration)
+* The two concentric rings = the air gap (inner ring) and the stator outer frame (outer ring)
+
+RELATIONSHIP TO OTHER DIAGRAMS IN SERIES:
+* This is a simpler version of the 3-phase stator diagrams that use the trefoil/triskelion motif
+* The explicit use of the nuclear hazard symbol (rather than a generic trefoil) may be intentional — connecting the nuclear energy/radioactivity domain to the electromagnetic generator thesis
+* Compare with 3_2031312612198330368.txt (triquetra with clean 3-lobe shape) and 3_2031312629613072384.txt (3-circle triquetra variant)
+
+OVERALL COMMUNICATION: A B&W line art schematic diagram combining a nuclear/radioactivity hazard symbol (filled-black 3-blade trefoil in ISO 361 style) with two surrounding concentric rings and three outer satellite circles at 120° intervals, each connected to the outer ring by a tangent straight line. The diagram is a dual-purpose encoding: the nuclear symbol's 3-fold symmetry is reinterpreted as a 3-phase stator winding cross-section (each trefoil blade = one stator pole), with the three satellite circles representing the U, V, W phase terminal connection points. The concentric rings represent the stator air gap and outer frame.

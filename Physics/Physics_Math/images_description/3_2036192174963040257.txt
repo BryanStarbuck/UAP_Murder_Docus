@@ -1,0 +1,56 @@
+TYPE: Physics diagram — 3-phase stator generator schematic with triskelion/nuclear trefoil rotor, blue inner ring, red outer ring, 3 satellite circles labeled "3-phase magnetism"; "spinning magnet" label at center; early/simplified version of the series.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. A concentric diagram with outer red ring, inner blue ring, triskelion central element, and 3 satellite circles at 120° intervals. Colored labels in red and black/dark color.
+
+OUTER RED RING:
+* A large RED circle (thin line) forming the outermost boundary of the diagram
+* The red color designates this ring as part of the "3-phase magnetism" stator boundary (the outermost stator frame)
+* Three satellite circles are positioned on the red ring at 120° intervals
+
+INNER BLUE RING:
+* A BLUE circle (thin line) inside the red ring, approximately 75% of the red ring's diameter
+* The blue ring represents the stator bore / air gap boundary
+
+CENTRAL TRISKELION:
+* Inside the blue ring: a TRISKELION or 3-blade rotating symbol (resembling the nuclear hazard symbol or a 3-blade propeller/fan)
+* The triskelion has: 3 large filled-black curved blade sectors, each spanning approximately 90-100° of the inner region
+* The blades are arranged at 120° intervals with 3-fold rotational symmetry
+* The blades sweep in a clockwise direction (creating the visual impression of counterclockwise rotation)
+* SMALL INNER RING: A thin concentric inner circle visible at approximately 30-40% of the blue ring's radius (the central rotor)
+* INNERMOST ELEMENT: The triskelion converges at a small central disc/point
+* Label: "spinning magnet" (red text) placed inside the central region — labeling the triskelion as the spinning permanent magnet (the rotor)
+
+SATELLITE CIRCLES:
+* THREE satellite circles at the outer red ring at 120° intervals:
+  - TOP CENTER: One circle at the top (12 o'clock position)
+  - LOWER LEFT: One circle at approximately 8 o'clock
+  - LOWER RIGHT: One circle at approximately 4 o'clock
+* Each satellite circle: a black outlined circle with a crosshair/diameter line bisecting it
+* These are the same satellite circle style as in 3_2033854220483629057.txt (nuclear trefoil + 3 satellite circles)
+
+LABELS:
+* "3-phase magnetism" (red text) appears THREE TIMES — once near each satellite circle:
+  - Upper center: "3-phase magnetism"
+  - Lower right: "3-phase magnetism"
+  - Lower left: "3-phase magnetism"
+* "spinning magnet" (red text) appears inside the central triskelion region
+
+COMPARISON TO OTHER VERSIONS IN SERIES:
+* This is an EARLY/SIMPLIFIED version of the 3-phase generator diagram:
+  - Labels use "3-phase magnetism" (not "3-phase rotating magnetic field U-V-W" as in later versions)
+  - The central element is a TRISKELION (nuclear symbol style) rather than a simple black disc
+  - No "6 wire coils" or "U-V-W-U-V-W" labeling yet
+  - Only 3 satellite circles (not 8 as in later versions)
+  - The two-ring (red + blue) structure without the inner red circle and white annulus seen in later versions
+* This appears to be an earlier iteration of the diagram evolution, before the full "2×8=16 N-S magnets," "stainless-steel tube," "ball bearings" annotations were added
+
+PHYSICS INTERPRETATION:
+* Red outer ring = stator outer frame (U-V-W 3-phase windings)
+* Blue inner ring = stator bore (air gap boundary)
+* Triskelion = the SPINNING MAGNET (rotor) — the 3-blade triskelion represents the rotating magnetic field pattern of the permanent magnet rotor
+* 3 satellite circles = the 3 phase terminals (U, V, W) of the 3-phase stator
+* "3-phase magnetism" at each satellite = the magnetic field contribution of each individual phase
+
+OVERALL COMMUNICATION: A simplified early-version 3-phase generator schematic: an outer RED ring (stator outer frame) with 3 satellite circles labeled "3-phase magnetism" at 120° intervals, an inner BLUE ring (stator bore), and a central 3-blade triskelion (nuclear-symbol-style) labeled "spinning magnet" (the rotating permanent magnet rotor). This is a precursor to the more detailed versions with U-V-W labeling, 6/8 satellite circles, and additional component annotations seen later in the series. The diagram establishes the core 3-phase rotating magnetic field concept: 3 external phase connections drive a spinning central magnet.

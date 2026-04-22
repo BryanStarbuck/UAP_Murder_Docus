@@ -1,0 +1,73 @@
+Type: RC/community educational slide — analysis of the Chilbolton 2001 radio telescope field crop formation binary message "People of Earth." — showing the original binary message, bit-position analysis, a separation of 0s and 1s, a binary image rendering, and a "triple Binary" visual encoding, attributed to Rodney's Graphics (2/21/2021).
+
+Title text (top, large bold black): People of Earth.
+
+Overall Layout:
+* White background with black, bold, and smaller text.
+* Four main sections: Original Message, Binary Bits Positioning, Separate "1"&"0"s, Binary Image, and Convert to triple Binary.
+* Grey shaded box (upper-right): "First attempt at Texpix by @RodneysGraphics / 2/21/2021"
+* "Convert to triple Binary" text and visual (lower-right).
+
+ORIGINAL MESSAGE SECTION:
+* Header: "Orignal Message" (note: typo — "Original" misspelled as "Orignal" — as in the original).
+* Below the header: a long string of sequential position numbers (01, 02, 03, 04... up to 64, then 65-128) marking each bit position.
+* Below the numbers: the raw binary data of the Chilbolton/Poirino message as a single continuous bit stream, formatted as 8-bit groups:
+  - "01010000 01100101 01101111 01110000 01101100 01100101 00100000 01101111"
+  - "01100110 00100000 01000101 01100001 01110010 01110100 01101000 00101110"
+  (These decode as: "People of Earth." — standard 8-bit ASCII)
+  * P=01010000, e=01100101, o=01101111, p=01110000, l=01101100, e=01100101, space=00100000, o=01101111
+  * f=01100110, space=00100000, E=01000101, a=01100001, r=01110010, t=01110100, h=01101000, .=00101110
+* Additional binary bits follow (more rows of bit strings).
+
+BINARY BITS POSITIONING SECTION:
+* Header: "Binary Bits Positioning"
+* The binary string separated with bit position numbers (numbered 01 through 127 with column/row markers).
+* The bits are rearranged to show which positions contain 1s vs. 0s — the spatial layout of 1s and 0s in a 2D grid.
+
+SEPARATE "1"&"0"s SECTION:
+* Header: Separate "1"&"0"s
+* Left column (0s): rows of zeros separated from the ones:
+  "00000000 11111111"
+  "00000000 11111111"
+  (multiple rows — showing the structural separation of the binary data into a pattern of 0s on one side and 1s on the other, with position labels)
+* This demonstrates that when the binary message is arranged in rows of a specific width, the 0s cluster on the left and the 1s cluster on the right — creating a spatial boundary.
+
+BINARY IMAGE SECTION:
+* Header: "Binary Image"
+* The same binary data displayed as a 2D pixel grid:
+  - 0 = white pixel, 1 = bold/dark pixel.
+  - The rows of pixels create a visual pattern showing the diagonal boundary between the 0-region and 1-region.
+  - The visual pattern resembles a diagonal or curved line separating a white region (all 0s) from a dark region (all 1s) — creating a "fish shape" or "Ichthys" outline when the crop field dimensions are matched.
+* Specific rows highlighted by bolding: certain groups of 1s in rows 47-48 area are in bold (indicating a special feature — likely the cross/intersection point of the fish shape).
+
+CONVERT TO TRIPLE BINARY SECTION:
+* Header: "Convert to triple Binary" (right side)
+* Below the header: a visual rendering using rectangular black blocks of three widths:
+  - Narrow black rectangle = binary 0
+  - Medium black rectangle = binary 1
+  - Wide black rectangle = binary 1 + special marker
+  * This is a "triple binary" or "trinary" encoding where each binary digit is represented by a block of specific width — a visual encoding scheme similar to barcode symbology.
+* The resulting visual looks like a barcode pattern of varying-width vertical black rectangles.
+
+Grey Box Annotation:
+* "First attempt at Texpix by @RodneysGraphics / 2/21/2021"
+* This credits the analysis to a specific researcher (@RodneysGraphics) who made the first attempt at interpreting this as a "Texpix" (text + pixel) encoding scheme on February 21, 2021.
+
+RC's Contextual Use:
+* The Chilbolton 2001 formations (the "Arecibo reply" face formation and the data formation) are among the most famous crop circle events — they appeared adjacent to the Chilbolton radio telescope in Hampshire, England, and appeared to be a response to the 1974 Arecibo message.
+* This slide analyzes the ASCII binary content of the crop formation's encoded data as spelling out "People of Earth." — a direct address to humanity.
+* The "triple binary" / Texpix encoding scheme is RC's broader argument: that crop formations and associated messages use not just simple binary (0/1) but more complex multi-level encoding schemes that embed both textual and visual information simultaneously.
+* The @RodneysGraphics attribution indicates this analysis was community-developed, not solely RC's work — RC is aggregating community decoding efforts.
+
+Text Visible (complete):
+* "People of Earth." (title)
+* "Orignal Message" (header)
+* All binary codes in the original message section (listed above)
+* "Binary Bits Positioning" (header)
+* "Seprate '1'&'0's" (header — note typo: "Separate" misspelled)
+* "Binary Image" (header)
+* "First attempt at Texpix by @RodneysGraphics / 2/21/2021" (grey box)
+* "Convert to triple Binary" (header)
+* All numerical bit position labels throughout
+
+Summary: Community/RC educational slide analyzing the binary text content of the Chilbolton 2001 crop formation data message — decoded as "People of Earth." in standard 8-bit ASCII. Shows: (1) Original 128-bit binary message with position numbers; (2) Binary Bits Positioning — spatial layout of 1s and 0s with position markers; (3) Separated 0s and 1s columns; (4) Binary Image — 2D pixel rendering showing the diagonal boundary between 0-region and 1-region creating a visual pattern (fish/diagonal shape); (5) "Triple Binary" visual encoding as varying-width barcode-style rectangles. Credited to @RodneysGraphics (2/21/2021) as "First attempt at Texpix." RC uses this as evidence that the crop formation message uses sophisticated multi-level encoding (ASCII text + 2D visual pattern + triple/trinary visual symbology) consistent with non-human or highly advanced communication technology.

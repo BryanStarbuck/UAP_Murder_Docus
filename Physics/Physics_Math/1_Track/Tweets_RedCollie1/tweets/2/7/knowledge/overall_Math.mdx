@@ -1,0 +1,237 @@
+# Mathematical Equations, Relationships, and Derivations
+## Source: END_DIR tweets/2/7 (RedCollie1 / Dr. Horace Drew)
+
+---
+
+## Section: 13_1955044355808563200_video.mdx — Gyroscope Mathematics (Laithwaite 1974)
+
+### Angular Momentum
+
+```
+L = I · ω
+```
+where:
+* L = angular momentum [kg·m²/s]
+* I = moment of inertia about spin axis [kg·m²]
+* ω = spin angular velocity [rad/s]
+
+For a disc of mass M, radius R:
+```
+I_disc = (1/2) M R²
+```
+
+For the 18 lb (≈ 8.2 kg) spinning disc with ~0.1 m radius (estimated from description):
+```
+I ≈ (1/2)(8.2)(0.1)² = 0.041 kg·m²
+```
+At 2000 rpm = 209 rad/s:
+```
+L ≈ 0.041 × 209 ≈ 8.6 kg·m²/s
+```
+
+### Precession Angular Velocity
+
+```
+Ω_p = τ / L = (M_weight · g · r) / (I · ω)
+```
+where:
+* M_weight = hanging mass [kg]
+* g = 9.81 m/s²
+* r = radial distance from pivot to weight attachment [m]
+* I = moment of inertia [kg·m²]
+* ω = spin angular velocity [rad/s]
+
+Laithwaite's result: tripling M_weight triples Ω_p (linear proportionality confirmed experimentally). Increasing r also increases Ω_p proportionally.
+
+### Torque-Angular Momentum Cross Product
+
+The equation of gyroscopic precession in vector form:
+```
+τ = dL/dt = Ω_p × L
+```
+
+If L points along ẑ and τ is applied along x̂:
+```
+τ_x = Ω_p,y · L_z
+Ω_p = τ_x / L_z  (scalar form for perpendicular case)
+```
+
+### Nutation Frequency
+
+```
+ω_nut = (I_spin · ω_spin) / I_transverse
+```
+where I_transverse is the moment of inertia about any axis perpendicular to the spin axis. For the gyroscopes shown:
+```
+ω_nut >> ω_precession
+```
+This gives the rapid wobbling superimposed on the slow precession observed experimentally.
+
+### Energy Analysis of Apparent Weight Reduction
+
+Let the gyroscope precess at Ω_p with the gyro axis horizontal.
+The kinetic energy of precession:
+```
+T_prec = (1/2) I_transverse · Ω_p²
+```
+The potential energy change if center of mass rises by Δh:
+```
+ΔU = M · g · Δh
+```
+Laithwaite's observation: when precession is forced faster (by finger pressure), the gyroscope rises (Δh > 0). Energy input came from the applied lateral force (though the finger did not move in the force direction):
+> "The answer was it came from my finger because now my finger wasn't moving as it pushed. When I pushed on it and it was stationary it didn't yield at all so there was no power input."
+
+This reveals: the energy comes from the **change in precession velocity** (angular kinetic energy of precession) not from the lateral push directly. The gyroscope acts as a mechanical transformer of rotational to translational kinetic energy.
+
+### Ohm's Law Analogy (Laithwaite's Mechanical Inductance)
+
+DC Ohm's Law:
+```
+V = I · R     [valid for DC only]
+Z_DC = R
+```
+
+AC impedance:
+```
+V = I · Z     where Z = R + jωL  (complex impedance)
+|Z| = √(R² + ω²L²)
+```
+
+Experimental values:
+* DC: V = 8 V, I = 4 A → R = 2 Ω
+* AC: V = 32 V, I = 4 A → |Z| = 8 Ω
+* Therefore: ω²L² = Z² - R² = 64 - 4 = 60 Ω² → ωL = √60 ≈ 7.75 Ω
+
+Laithwaite's mechanical analogy:
+```
+F = m · a          (analogous to V = IR, restricted to linear/DC motion)
+F = m · a + τ_gyro  (analogous to V = IZ, full equation including "inductive" term)
+```
+The gyroscopic term τ_gyro has no analog in Newton's original laws and is revealed only when rotation is present — just as inductance L is revealed only when current varies (AC).
+
+---
+
+## Section: 13_2019233817635221507_video.mdx / 2041418100445479084.yaml — Three-Phase Rotating Magnetic Field Mathematics
+
+### Three-Phase Field Components
+
+For balanced three-phase system with phases U, V, W at 120° separation:
+```
+H_U(t) = H₀ sin(ωt)
+H_V(t) = H₀ sin(ωt - 2π/3)
+H_W(t) = H₀ sin(ωt - 4π/3)
+```
+
+Decomposing onto x-y plane with windings at 0°, 120°, 240°:
+```
+H_x(t) = H_U cos(0°) + H_V cos(120°) + H_W cos(240°)
+        = H₀[sin(ωt) - (1/2)sin(ωt - 2π/3) - (1/2)sin(ωt - 4π/3)]
+        = (3/2)H₀ cos(ωt)
+
+H_y(t) = H_U sin(0°) + H_V sin(120°) + H_W sin(240°)
+        = (3/2)H₀ sin(ωt)
+```
+
+Resultant rotating field vector:
+```
+H(t) = (3/2)H₀ [cos(ωt) x̂ + sin(ωt) ŷ]
+|H| = (3/2)H₀  = constant (circular rotation)
+```
+
+The field rotates at angular frequency ω in the XY plane with constant amplitude (3/2)H₀.
+
+### Synchronous Motor Torque and Counter-Rotation
+
+Standard synchronous torque (for rotor at angle δ from field):
+```
+T = (3/2)(p/2)(λ_f)(I_s) sin(δ)
+```
+where:
+* p = pole pairs
+* λ_f = flux linkage from permanent magnets
+* I_s = stator current amplitude
+* δ = torque angle (load angle)
+
+For counter-rotation: the torque angle δ would need to be in the range (π, 2π) — the rotor is ahead of the field rather than behind it. This is possible if the rotor **overshoots** the field position and locks in at a leading angle. Drew's specific magnet geometry (N-N-N-N or N-S-N-S etc.) is claimed to enforce this leading-angle equilibrium.
+
+### Lorentz Force Magnitude
+
+For current density J [A/m²] in liquid metal of volume V in field B [T]:
+```
+F_total = ∫_V (J × B) dV
+```
+
+For uniform J = J_r r̂ and B = B_z ẑ in a cylinder of height h, inner radius r₁, outer radius r₂:
+```
+F_azimuthal = J_r · B_z · (π(r₂² - r₁²) · h)  [N, tangential]
+```
+
+For galinstan (σ ≈ 3.46 × 10⁶ S/m), applied voltage V, electrode separation d:
+```
+J_r ≈ σ V / d
+F_azimuthal = σ V B_z π(r₂² - r₁²) h / d
+```
+
+### Magnet Arrangement Interaction Energy
+
+For the 4 N-N-N-N outer ring magnets interacting with the central 70 mm N/S disc:
+
+Dipole-dipole interaction energy at separation r:
+```
+U = (μ₀ / 4π) · [m₁·m₂/r³ - 3(m₁·r̂)(m₂·r̂)/r³]
+```
+
+The N-N-N-N outer configuration presents all north poles toward the central axial disc. If the central disc's north pole faces upward, then all outer magnets present their north poles toward the central north → purely repulsive geometry:
+```
+U_rep = (μ₀/4π) · m₁m₂/r³  (all positive → maximum repulsion)
+```
+This maximum repulsion between outer and central magnets is Drew's basis for claiming the N-N-N-N configuration "interacts more strongly" — it has the highest magnitude interaction energy, though repulsive in character.
+
+---
+
+## Section: 1993198277647647193.yaml — Fourier Decomposition of Rotation-Induced Brightness Variation
+
+For a non-spherically-symmetric rotating body observed at inclination angle i, the apparent cross-section and thus reflected intensity varies as:
+```
+I_obs(t) = I_mean + Σ_n [a_n cos(n Ω_rot t) + b_n sin(n Ω_rot t)]
+```
+where Ω_rot = 2π/P_rot.
+
+For a 3-to-10× brightness variation, the ratio of peak to trough flux:
+```
+I_max / I_min = (I_mean + ΣA_n) / (I_mean - ΣA_n) ≈ 3 to 10
+```
+→ ΣA_n / I_mean ≈ (ratio - 1)/(ratio + 1) = 0.5 to 0.82
+
+This indicates high fractional variability, consistent with a non-spherical or highly non-uniform body rotating so that very different cross-sections face the observer at different phases.
+
+Drew's analytical prescription:
+> "please fit his raw data to a Fourier curve, and you will find exact numbers!"
+
+This is a standard periodogram / discrete Fourier transform (DFT) analysis:
+```
+A_n = (2/N) Σ_k I_k cos(2πnk/N)
+B_n = (2/N) Σ_k I_k sin(2πnk/N)
+P_rot = argmax_T [ |Σ_k I_k e^{i 2πk/T}|² ]
+```
+
+---
+
+## Section: 2019235619529257211.yaml — Referenced Ucar (2021) Magnetostatic Torque
+
+Reference: Ucar (2021), *Symmetry* journal — "levitation via rotating magnets and magnetostatic torque."
+
+The magnetostatic torque on a magnetic dipole **m** in an external field **B**:
+```
+τ = m × B
+```
+
+For a rotating magnetic field B(t) = B₀[cos(ωt) x̂ + sin(ωt) ŷ] and a dipole **m** = m ẑ (axial):
+```
+τ = m ẑ × B₀[cos(ωt) x̂ + sin(ωt) ŷ]
+  = m B₀ [cos(ωt)(ẑ × x̂) + sin(ωt)(ẑ × ŷ)]
+  = m B₀ [cos(ωt) ŷ - sin(ωt) x̂]
+```
+This is a torque that rotates in the XY plane at frequency ω — it drives the axial dipole into precession, not spin. For spin, the coupling must be to in-plane dipole components.
+
+The Ucar paper's magnetostatic torque approach likely addresses the equilibrium configuration of permanent magnets in a rotating field, establishing the conditions under which a magnet array will spin in a defined direction relative to the driving field.

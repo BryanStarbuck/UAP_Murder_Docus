@@ -1,0 +1,340 @@
+# overall_Math.mdx
+# All Mathematical Equations, Their Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets, batch 7/10
+
+---
+
+## A. Vortex Physics Formula (Claimed)
+
+### Formula
+  ω = h / a
+
+### Components
+  ω: angular frequency of the spinning vortex (rad/s)
+  h: height of the spinning vortex (m)
+  a: cross-sectional area of the vortex = π × R² (m²)
+  R: radius of the vortex (m)
+
+### Derived Forms
+  ω = h / (π × R²)
+  h = ω × π × R²
+  R = sqrt(h / (ω × π))
+
+### Relationships Described
+* Increasing ω (faster spin) at fixed R → larger h (taller vortex)
+* Increasing R (wider vortex) at fixed ω → smaller h (shorter vortex)
+* Increasing h (taller desired vortex) at fixed R → requires larger ω
+
+### Dimensional Analysis
+Standard SI:
+  [ω] = s⁻¹
+  [h/a] = m / m² = m⁻¹
+
+These dimensions do not match. The formula as stated requires either:
+  (a) a proportionality constant k with units [k] = m·s⁻¹: ω = k × h / a
+  (b) h is not in meters but in some angular or frequency unit
+  (c) The formula is an empirical scaling relation with unstated units convention
+
+The formula is presented as received (claimed dream / psychic message) and described as
+"transitional magnetism" governing UFO vortex physics. It is not derived from first principles
+in the source material.
+Source: YAML 1957348224119017742, note_tweet.
+
+---
+
+## B. Homopolar Generator EMF
+
+### Standard Formula (Faraday Disc)
+  EMF = (1/2) × B × ω × (R_outer² - R_inner²)
+
+### Components
+  B: axial magnetic field through the disc (T)
+  ω: angular velocity of disc (rad/s)
+  R_outer: outer radius of disc (m)
+  R_inner: inner (hub) radius of disc (m)
+
+### Derivation sketch
+The EMF is derived by integrating the motional EMF (Lorentz force on charges) along a radial path:
+  EMF = ∫[R_inner to R_outer] (v × B) · dr = ∫[R_inner to R_outer] (ω × r × B) dr
+       = ω × B × ∫[R_inner to R_outer] r dr = ω × B × (R_outer² - R_inner²) / 2
+
+### Applied to Paulsen Disc (12-Magnet Periphery)
+For the Paulsen disc, B is not uniform — it is provided by 12 peripheral permanent magnets
+(6N + 6S at 30° spacing). The effective B for EMF calculation is:
+
+  B_eff = (1/πR²) × ∫∫ B_z(r,φ) dA
+
+the area-averaged axial field over the disc face. For alternating polarity peripheral magnets,
+the net flux through the disc may be significantly less than the peak pole field.
+
+### Two Counter-Rotating Discs
+For two discs rotating at ±ω:
+  EMF₁ = (1/2) × B_eff × ω × (R₂² - R₁²)  [disc 1, CW]
+  EMF₂ = (1/2) × B_eff × ω × (R₂² - R₁²)  [disc 2, CCW — same sign due to both ω and
+                                               effective B_eff sign reversing together]
+Total output if hubs connected in series:
+  EMF_total = EMF₁ + EMF₂ = B_eff × ω × (R₂² - R₁²)
+
+Source: TXT 3_1914665447687118849; YAML 1914669302005027316, note_tweet.
+
+---
+
+## C. Gyroscopic Precession Rate
+
+### Formula
+  Ω = τ / L = τ / (I × ω_spin)
+
+### Components
+  Ω: precession angular velocity (rad/s)
+  τ: applied torque (N·m)
+  L: angular momentum = I × ω_spin (kg·m²/s)
+  I: moment of inertia of spinning magnet about spin axis (kg·m²)
+  ω_spin: spin angular velocity (rad/s)
+
+For a disc magnet (solid cylinder approximation):
+  I = (1/2) × m × r²
+where m is disc mass and r is disc radius.
+
+For the 70 mm diameter disc magnet (r = 35 mm = 0.035 m):
+  I = (1/2) × m × (0.035)² = (1/2) × m × 1.225 × 10⁻³ m²
+  I ≈ 6.1 × 10⁻⁴ × m [kg·m²] for mass m in kg
+
+Applied torque from three-phase rotating field on the precessing magnet:
+  τ = m_magnetic × B × sin(α)
+where m_magnetic is the magnetic dipole moment of the disc (A·m²), B is the field amplitude,
+and α is the angle between the magnetic moment and the field.
+
+At resonance (spin frequency = field frequency), α → 0, τ → 0, and precession rate decreases.
+The rise behavior at high rpm is argued to occur near or above this resonance condition.
+Source: MDX 13_1945035075034189824_video; MDX 13_2032260628157714433_video.
+
+---
+
+## D. Euler's Equations for Symmetric Top Under Three-Phase Torque
+
+### Euler's Equations
+  I_⊥ × (dω₁/dt) + (I_∥ - I_⊥) × ω₂ × ω₃ = τ₁
+  I_⊥ × (dω₂/dt) + (I_⊥ - I_∥) × ω₁ × ω₃ = τ₂
+  I_∥ × (dω₃/dt) = τ₃
+
+### Under Three-Phase Rotating Torque
+  τ₁(t) = τ₀ × cos(ω_s × t)
+  τ₂(t) = τ₀ × sin(ω_s × t)
+  τ₃(t) = 0
+
+This drives forced nutation. At resonance ω_s = Ω_nutation (natural nutation frequency):
+  Ω_nutation = I_∥ × ω_spin / I_⊥
+
+the response amplitude grows, leading to large-angle precession and potentially the rising
+behavior observed.
+Source: YAML 1934035645405766103 (Barbary Castle 1991 interpretation).
+
+---
+
+## E. Rotating Magnetic Field Torque on Axial Dipole
+
+### Setup
+Permanent magnet with dipole moment m = m_z ẑ placed in rotating field:
+  B(t) = B₀ × [cos(ω_s t) x̂ + sin(ω_s t) ŷ]
+
+### Torque
+  τ = m × B = m_z ẑ × B₀ [cos(ω_s t) x̂ + sin(ω_s t) ŷ]
+  τ = m_z × B₀ [cos(ω_s t) (ẑ × x̂) + sin(ω_s t) (ẑ × ŷ)]
+  τ = m_z × B₀ [cos(ω_s t) ŷ - sin(ω_s t) x̂]
+
+This torque lies in the XY-plane and oscillates. For the Z-aligned dipole, there is no net
+Z-component of torque — consistent with the author's observation that North/South pole orientation
+is irrelevant to the Z-axis spin, since τ_z = 0 in this case. The Z-axis spin must arise from
+a different mechanism (helical field, as claimed).
+Source: YAML 1963247821026738254.
+
+---
+
+## F. Three-Phase Rotating Field Mathematics
+
+### Field Components
+Three coils (U, V, W) at 120° angular spacing (φ = 0°, 120°, 240°) with sinusoidal currents:
+  I_U(t) = I₀ × cos(ω_s t)
+  I_V(t) = I₀ × cos(ω_s t - 2π/3)
+  I_W(t) = I₀ × cos(ω_s t - 4π/3)
+
+Each coil i produces a field contribution along its axis:
+  B_i(t) = B₀ × I_i(t) × [cos(φ_i) x̂ + sin(φ_i) ŷ]
+
+Summing all three:
+  B_total(t) = (3/2) × B₀ × I₀ × [cos(ω_s t) x̂ + sin(ω_s t) ŷ]
+
+This is a field of constant amplitude (3/2)B₀I₀ rotating at angular frequency ω_s.
+
+For the six-coil configuration (UU, VV, WW — two coils per phase):
+Each phase excites two coils (at different angular positions), modifying the field amplitude
+and spatial harmonics but maintaining the fundamental rotating field. The key geometric result
+is that the configuration creates a central "hole" (null or reversed-field region) where the
+field rotates opposite to the outer annular region.
+Source: MDX 13_2014594201829220352_video.
+
+---
+
+## G. Device Geometric Ratios and Dimensions
+
+Stainless steel rod: diameter = 8 mm, height = 150 mm
+Disc magnet: diameter = 70 mm, central bore = 14 mm (ratio bore/disc = 0.20)
+Stainless steel tube (outer): outer diameter = 89 mm
+Outer flywheel: 8 magnets, each 30 mm, alternating NS
+  Angular spacing between magnet centers: 360°/8 = 45°
+  Pole pitch: 45° (= π/4 rad)
+Ceramic bearing: inner diameter = 90 mm (tight fit on 89 mm tube)
+Lower coil triangle: 3 coils at vertices of equilateral triangle
+Upper coil ring: 6 coils at vertices of regular hexagon (implied)
+
+Ratio of outer tube diameter to disc magnet diameter: 89/70 = 1.27
+Ratio of outer tube diameter to rod diameter: 89/8 = 11.1
+Source: MDX 13_2032260628157714433_video.
+
+---
+
+## H. 3I/ATLAS Kinematic Mathematics
+
+Speed: v = 60 km/s = 6.0 × 10⁴ m/s
+Diameter: d ≈ 15 km = 1.5 × 10⁴ m, radius ≈ 7.5 km
+
+Kinetic energy per unit mass:
+  KE/m = v²/2 = (6 × 10⁴)²/2 = 1.8 × 10⁹ J/kg = 1.8 GJ/kg
+
+Solar escape velocity at 1 AU: v_esc = 42.1 km/s
+Since v = 60 km/s > 42.1 km/s, the object is on a hyperbolic trajectory relative to the Sun.
+Hyperbolic excess velocity: v_∞ = sqrt(v² - v_esc²) = sqrt(60² - 42.1²) = sqrt(3600 - 1772) = sqrt(1828) ≈ 42.8 km/s
+
+The anomaly cited is the direction of approach (toward the inner solar system, roughly Sun-facing
+trajectory), which is not typical of interstellar objects on random trajectories.
+Source: YAML 1949982620550357386.
+
+---
+
+## I. Celtic Knot Topological Mathematics
+
+From TXT 3_1923194873970413568:
+"Celtic quaternary knot with an interlaced square (rather than a circle)"
+"A specific topological construction where four-fold symmetric knot strands are threaded over
+a square lattice rather than circular lattice. The distinction (square vs. circle interlacing)
+alters the topological invariants of the resulting knot."
+
+Relevant knot theory:
+* Knot invariant: a quantity preserved under ambient isotopy (Reidemeister moves)
+* For a Celtic quaternary knot over circular lattice: specific writhe w and crossing number c
+* For square lattice interlacing: different set of over/under crossings → different Jones
+  polynomial J(K, t), different Alexander polynomial Δ(K, t)
+* The four-fold symmetry implies the knot group π₁(S³ \ K) has a Z₄ symmetry action
+* Physical relevance claimed: knot topology appears in magnetic field topology (helicity
+  invariant H = ∫ A·B dV), topological solitons in quantum field theory, and topological
+  insulators in condensed matter
+
+The specific identification "Celtic quaternary knot with interlaced square" establishes the
+knot's topological type precisely enough for knot table lookup (not done here, but possible).
+Source: TXT 3_1923194873970413568.
+
+---
+
+*Content extracted by Claude AI from RedCollie1 tweet archive, batch 7/10, 2026-04-22.*
+
+---
+
+## Supplemental Extraction — Batch 7/10, Appended 2026-04-22
+
+### Device Geometry — Additional Measurements and Ratios
+
+From MDX 13_2032260628157714433_video.mdx (transcription — device specs):
+
+Stainless steel rod: 8 mm diameter, 150 mm tall
+Disc magnet: 70 mm diameter, 14 mm central bore
+  * Bore/Disc diameter ratio: 14/70 = 0.200 (exactly 1/5)
+  * Disc area: π × (35)² ≈ 3848 mm²
+  * Bore area: π × (7)² ≈ 154 mm²
+  * Annular active area: 3848 - 154 = 3694 mm²
+  * Volume (assuming disc height h_d): π × ((35)² - (7)²) × h_d = 3694 × h_d mm³
+Stainless steel tube: 89 mm outer diameter
+  * Clearance between disc (70 mm) and tube inner surface: (89 - 70)/2 ≈ 9.5 mm radial clearance
+    (assuming tube OD ≈ ID for thin-walled tube; actual wall thickness unstated)
+Outer flywheel: 8 magnets at 30 mm each, alternating NS
+  * Angular spacing: 360°/8 = 45° between magnet centers
+  * Pole pitch (arc at flywheel radius R_fw): p = 2π × R_fw / 8 = π × R_fw / 4
+  * If flywheel radius R_fw ≈ 50 mm (estimated from tube size):
+    p ≈ π × 50 / 4 ≈ 39.3 mm (consistent with 30 mm magnets plus ~9 mm gaps)
+Ceramic bearing: 90 mm inner diameter (fits over 89 mm OD stainless tube, 1 mm diametral clearance)
+
+Three lower coils: arranged at equilateral triangle vertices
+  * Coil center-to-center distance not specified; implied to surround the 70 mm disc magnet
+  * Minimum triangle inscribed circle radius ≥ 35 mm + coil radius (magnet must fit inside)
+Six upper coils: implied hexagonal arrangement
+  * Inscribed circle radius ≥ 45 mm (tube must fit inside)
+
+### Magnetic Pole Pitch and Spatial Frequency of 12-Magnet Disc (Paulsen)
+
+12-pole disc with magnets at 30° angular spacing:
+  Spatial frequency: f_spatial = 12 poles / (2π × R_disc) poles/m
+  Wavelength (pole pitch): λ = (2π × R_disc) / 12 = π × R_disc / 6
+
+For two counter-rotating discs at ±ω:
+  The magnetic field pattern as seen from a stationary frame has two components:
+  * From disc 1 (CW at +ω): B₁(r,φ,t) = B₀(r) × cos(12φ - 12ωt) (12 spatial oscillations rotating CW)
+  * From disc 2 (CCW at -ω): B₂(r,φ,t) = B₀(r) × cos(12φ + 12ωt) (12 spatial oscillations rotating CCW)
+  Combined: B_total = 2B₀(r) × cos(12φ) × cos(12ωt)
+  This is a standing wave in φ with oscillating amplitude at frequency 12ω.
+  (Note: This assumes both discs are in the same plane; for co-axial but separated discs, axial
+  field components must also be considered.)
+
+### Vortex Area and Angular Frequency Scaling (Formula w = h/a)
+
+Derived table of scaling (illustrative, for formula w = h/a with h in arbitrary units):
+
+  R (m) | a = πR² (m²) | h at w=10 (arb.) | h at w=100 (arb.) | h at w=1000 (arb.)
+  ------+---------------+-----------------+------------------+-------------------
+  0.01  | 3.14×10⁻⁴    | 3.14×10⁻³       | 3.14×10⁻²        | 3.14×10⁻¹
+  0.05  | 7.85×10⁻³    | 7.85×10⁻²       | 7.85×10⁻¹        | 7.85
+  0.10  | 3.14×10⁻²    | 3.14×10⁻¹       | 3.14             | 31.4
+  0.50  | 7.85×10⁻¹    | 7.85             | 78.5             | 785
+  1.00  | 3.14          | 31.4             | 314              | 3140
+
+Using h = w × a = w × π × R² (rearranging the formula):
+Larger radius and higher spin frequency → larger vortex height.
+
+The formula implies the vortex height h is proportional to both w and R², making R the most
+sensitive design parameter (quadratic scaling).
+
+### Homopolar Generator Power Output
+
+Power delivered to external load resistance R_load from homopolar generator:
+  P_output = EMF² / (R_internal + R_load)
+
+For maximum power transfer: R_load = R_internal
+  P_max = EMF² / (4 × R_internal)
+
+where R_internal = ρ × (path length) / (cross-sectional area of current path in disc).
+
+For a solid disc of conductivity σ and thickness t:
+  R_internal = (1/σ) × ∫[R_inner to R_outer] dr / (2πrt) = ln(R_outer/R_inner) / (2π × σ × t)
+
+For the Paulsen disc (R_inner ≈ hub radius, R_outer ≈ disc radius):
+  R_internal ≈ ln(R_outer/R_inner) / (2π × σ × t)
+
+With counter-rotating disc 2 in series:
+  R_internal_total = 2 × R_internal
+  EMF_total = 2 × EMF_single
+  P_max_total = (2 × EMF)² / (4 × 2 × R_internal) = 2 × P_max_single
+  (Power doubles for two discs in series, as expected.)
+
+### Corbino Disc Hall Angle
+
+The Hall angle θ_H for current in the Corbino disc in magnetic field B_z:
+  tan(θ_H) = μ × B_z
+where μ is the charge carrier mobility (m²/V·s).
+
+For a conducting disc material (e.g., copper: μ ≈ 4.4 × 10⁻³ m²/V·s) at B_z = 1 T:
+  tan(θ_H) = 4.4 × 10⁻³ — Hall angle ≈ 0.25°
+
+For a semiconductor (e.g., InSb: μ ≈ 7.8 m²/V·s) at B_z = 1 T:
+  tan(θ_H) = 7.8 — Hall angle ≈ 83°
+
+The Corbino effect is most pronounced at large Hall angles (semiconducting or high-field regime).
+For maximum rotational coupling, a high-mobility Corbino disc material would be preferred.
+This is not discussed in the source material but follows directly from Corbino disc theory.

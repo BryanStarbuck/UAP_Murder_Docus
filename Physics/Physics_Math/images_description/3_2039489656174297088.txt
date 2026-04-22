@@ -1,0 +1,43 @@
+TYPE: B&W schematic / diagram — arrangement of solid black filled circles forming a diamond/pentagon outline with a horizontal equator bar; circles decrease in size from the 3 terminal circles (top, left, right) inward. White background. This appears to be a simplified crop formation schematic showing one "arm" or cross-section of the generator assembly.
+
+CONTENT SUMMARY:
+
+LAYOUT: Portrait-format B&W image on white background. An arrangement of approximately 28-32 solid black circles of varying sizes forming a closed geometric outline resembling a SHIELD, DIAMOND, or PENTAGON shape.
+
+CIRCLE SIZE HIERARCHY:
+* 3 LARGE CIRCLES: Positioned at the TOP CENTER, LEFT CENTER (equator), and RIGHT CENTER (equator) — the 3 primary terminal nodes
+  - Top large circle: approximately 12-14% of image width
+  - Left large circle: approximately 14-16% of image width (the largest)
+  - Right large circle: approximately 14-16% of image width (similar size to left)
+* MEDIUM CIRCLES: Approximately 6-8% of image width; positioned along the arms between the large terminal circles and the smaller dots
+* SMALL CIRCLES: Approximately 3-5% of image width; forming the arms and filling the interior positions
+* SMALL DOTS: Approximately 2-3% of image width; the smallest elements, appearing at intermediate positions
+
+GEOMETRIC ARRANGEMENT:
+* TOP: 1 large circle at the apex → 2 medium circles flanking it (left and right of the large circle at 45°) → 1 medium circle below-center
+* UPPER-LEFT DIAGONAL ARM: Descending from upper-right of the top terminal, a chain of 3-4 decreasing circles connects to the left terminal
+* UPPER-RIGHT DIAGONAL ARM: Descending from upper-right, a chain of 3-4 decreasing circles connects to the right terminal
+* HORIZONTAL EQUATOR BAR: A row of approximately 6-8 circles of medium-large size running from the left terminal to the right terminal (passing through the center)
+  - This horizontal bar is the most prominent linear element
+  - The circles in the bar are of medium size (approximately 6-8% of image width each)
+  - The bar consists of: left large terminal → 1 medium → 1 medium → 1 medium circle (center) → 1 medium → 1 medium → right large terminal
+* LOWER-LEFT DIAGONAL ARM: Descending from the left terminal, a chain of 3-4 decreasing circles running lower-left
+* LOWER-RIGHT DIAGONAL ARM: Descending from the right terminal, a chain of 3-4 decreasing circles running lower-right
+* BOTTOM: At the lowest point: 2 medium circles side by side (at the two lower arm terminations), creating a double-node at the bottom
+
+OVERALL SHAPE:
+* The complete arrangement traces a shape like: a top terminal, two diagonal arms running to left and right terminals, a horizontal bar connecting left and right, and two diagonal arms descending from left and right to two bottom nodes
+* This creates an overall SHIELD or ARROW-DOWN silhouette
+
+INTERIOR ELEMENTS:
+* Between the outer circle chain and the center: 1-2 additional medium circles positioned inside the enclosed area (approximately center-left and center-right of the interior)
+* These interior circles may represent additional coil turns or intermediate components
+
+COMPARISON TO SCHEMATIC DIAGRAMS:
+* This arrangement appears to be a CROP FORMATION SCHEMATIC representing ONE DISC of the counter-rotating pair, shown in a slightly different layout than the vertical chain (3_2033809760882200577) or the circular cross-section (3_2038778641509953536)
+* LEFT LARGE CIRCLE + RIGHT LARGE CIRCLE = the two ends of the horizontal stator bar (the left and right stator poles)
+* TOP LARGE CIRCLE = the top axial magnet ("1 large N/S magnet finishes above")
+* BOTTOM DOUBLE NODE = the bottom axial magnets ("1 large N/S magnet starts below")
+* HORIZONTAL BAR = the 6-8 stator coil winding segments visible in cross-section
+
+OVERALL COMMUNICATION: B&W schematic (portrait format, white background) of a diamond/shield arrangement of approximately 28-32 solid black filled circles of varying sizes. Three large terminal circles (top apex, left equator, right equator); a horizontal equator bar of 6-8 medium circles connecting left and right terminals; diagonal arms of decreasing-size circles connecting the top terminal to the left and right terminals, and the left and right terminals to two bottom nodes; 2 interior medium circles. Overall shape: shield or inverted diamond. Encodes one disc cross-section of the Paulsen generator: top terminal = upper axial magnet; left/right terminals = stator pole ends; horizontal bar = stator coil winding cross-sections; bottom nodes = lower axial magnet pair; diagonal arms = structural connections.

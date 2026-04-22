@@ -1,0 +1,56 @@
+TYPE: Grayscale scientific image — DNA sequencing chromatogram (Sanger sequencing electropherogram) showing mitochondrial DNA sequence in the control region / D-loop, positions ~90-170, with position markers 16223T, 16255A, 16278T, 16294T
+
+OVERALL DESCRIPTION:
+A DNA sequencing chromatogram (electropherogram) strip from Sanger sequencing, showing the output of a DNA sequence read. This is the same sequencing data strip shown in the lower portion of 3_1966854251025686528.jpg (the alien portrait composite), now shown as a standalone, larger, clearer image. The strip shows the nucleotide sequence from approximately position 90 to 170 of a sequencing run, with four position markers (16223T, 16255A, 16278T, 16294T) indicating these are mitochondrial DNA positions in the human mitochondrial control region (D-loop, approximately positions 16223-16294 of the human mitochondrial genome).
+
+IMAGE DIMENSIONS: Approximately 920 x 300 pixels (landscape, very wide)
+BACKGROUND: White (#FFFFFF) within the black-bordered strip
+
+UPPER ROW — POSITION MARKERS:
+Four vertical tick marks at specific positions with labels above:
+- "16223T" — leftmost marker, at approximately x=90
+- "16255A" — center-left marker, at approximately x=340
+- "16278T" — center-right marker, at approximately x=610
+- "16294T" — rightmost marker, at approximately x=790
+Each position label: black text, approximately 11pt, with a vertical tick mark below
+
+MIDDLE ROW — NUCLEOTIDE SEQUENCE (verbatim, upper case):
+"CAATCA ACC TT CAAC TA TCACACA TCAAC TGCAAC TCCAAAACCACCCCTCAC CCAC TAGGA TATCAACA AACC TAC CCA TCC T TAACAG"
+
+Position scale (blue numbers below sequence):
+90, 100, 110, 120, 130, 140, 150, 160, 170
+
+Color coding of individual bases:
+- A = Green (#00CC00 or similar green)
+- C = Blue (#0000CC or similar blue)
+- G = Black (#000000)
+- T = Red (#CC0000 or similar red)
+
+This multi-color base-call display is the standard ABI Sanger sequencing color scheme.
+
+LOWER PORTION — ELECTROPHEROGRAM (chromatogram):
+- Multi-colored peak trace across the full width
+- Y-axis: fluorescence intensity (no axis labels visible)
+- X-axis: scan number / position
+- Peak heights: variable, approximately 20-100px, highest at approximately position 130-135 (likely a tall G peak)
+- Four colored traces overlaid: blue (C), green (A), black (G), red (T)
+- Peak density: approximately 1 peak per ~12px = approximately 70-75 peaks total across the width
+- The peaks are well-resolved and evenly spaced, indicating good sequencing quality
+
+BIOINFORMATICS ANALYSIS:
+The positions highlighted (16223, 16255, 16278, 16294) are all known polymorphism sites in the human mitochondrial D-loop:
+- Position 16223: T variant (normal human reference has C at this position; T is found in certain haplogroups)
+- Position 16255: A (reference value; variable in some lineages)
+- Position 16278: T (variable site; common in certain haplogroups)
+- Position 16294: T (reference value; variable in some haplogroups)
+
+These specific variants would define the sample's mitochondrial haplogroup. If these variants match a known human haplogroup (such as haplogroup H, K, J, etc.), the sequence is human. If they do NOT match any known haplogroup pattern, this could indicate: a non-human, ancient, or novel DNA source.
+
+PHYSICS/SCIENCE RELEVANCE:
+1. This is the DNA sequencing readout from what the researcher presents as a non-human or anomalous DNA sample — associated with the alien portrait in 3_1966854251025686528.jpg
+2. The mitochondrial D-loop region sequenced here (positions ~16223-16294) is the most variable region of the mitochondrial genome and is commonly used in forensic identification, anthropological studies, and ancient DNA research
+3. If this sequence was obtained from an alleged extraterrestrial biological entity or a human-ET hybrid tissue sample, identifying non-human variants at these positions would be significant evidence
+4. The four highlighted positions suggest the researcher identified specific nucleotide variants at these positions that differ from the expected pattern — the reason these specific positions are labeled likely indicates they are the anomalous variants
+5. In the context of this UAP physics collection, this sequencing data may accompany claims about: recovered non-human biologics from crash retrieval programs, DNA from alleged contact cases, or tissue samples from alleged human abductees showing anomalous genetic material
+
+SUMMARY: Sanger sequencing electropherogram strip (~920×300px) on white background in black border. Four position markers at top: 16223T, 16255A, 16278T, 16294T. Middle: full color-coded nucleotide sequence "CAATCA ACC TT CAAC TA TCACACA TCAAC TGCAAC TCCAAAACCACCCCTCAC CCAC TAGGA TATCAACA AACC TAC CCA TCC T TAACAG" (positions 90-170, scale marked in blue). Lower: multi-colored Sanger electropherogram trace with ~70-75 well-resolved peaks (A=green, C=blue, G=black, T=red). The highlighted positions (16223, 16255, 16278, 16294) are known mitochondrial D-loop polymorphism sites — their specific variants define the sample's haplogroup. Associated with the non-human entity portrait in 3_1966854251025686528.jpg as claimed genetic evidence.

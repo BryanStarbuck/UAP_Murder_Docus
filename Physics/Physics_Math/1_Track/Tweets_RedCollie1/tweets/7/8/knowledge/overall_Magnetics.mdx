@@ -1,0 +1,164 @@
+# overall_Magnetics.mdx
+# All Magnetic Field Content: Theory, Applied, Tested Phenomena
+
+Source: RedCollie1 (Dr. Horace Drew), tweet corpus 2025-04-22 through 2026-04-22.
+
+---
+
+## Devices and Configurations Described or Tested
+
+### Homopolar Motor / Faraday Disc (video 13_1914659640278913024)
+Device: Inverted stainless steel bowl (dome, approximately 20-25 cm diameter) mounted on
+wooden board, serving as the rotating conducting disc (Faraday disc geometry). Two wide
+copper bus bars / straps (approximately 2 cm wide, 15 cm long) provide radial current
+contacts from center hub to rim (or rim to center). Blue and black insulated cables
+connect to the current source.
+
+Physics: In the homopolar (Faraday disc) geometry, an axial magnetic field B_z is produced
+by a permanent magnet or electromagnet below/inside the disc. Radial current I_r flows
+from center to rim (or vice versa). The Lorentz force on each current element is:
+  dF = I (dl x B)
+where dl is the radial current element and B = B_z hat{z}. This produces an azimuthal
+(tangential) force F_phi = I_r * B_z * r, integrated from r=0 to r=R, giving a net torque
+tau = I_r * B_z * R^2 / 2 (for uniform B and uniform current density). This is the
+standard homopolar motor torque expression. The bowl serves as the rotating conducting disc;
+the copper bus bars serve as the sliding contacts.
+
+### Spinning Magnet Rising on a Pole (key anomaly)
+Experimental observation described by Drew: a spinning permanent magnet, when given
+three-phase power, rises up a vertical pole. The three-phase wire coils encasing the magnet
+do NOT rise. Drew reports: "No magnet rising. Practically no change in weight on the scale.
+The pole doesn't go up." (Video 13_1914659684906328064 transcription.) This asymmetry is
+cited as the motivating empirical anomaly for the anti-gravity search.
+
+Three-phase drive for magnet levitation: The three-phase rotating magnetic field (angular
+frequency omega_s) imparts spin to the permanent magnet via synchronous or near-synchronous
+coupling. As the magnet spins, Drew observes altitude gain along the pole axis. The
+coil assembly remains stationary. This implies that the spinning magnet experiences an
+upward axial force not present in the stationary configuration.
+
+### Lenz Levitation Experiment (tweet 1938141188844097978, video 13_1938140068872609792)
+Setup: Large AC wire coil (Lenz levitation coil), aluminum plate, DC motor, 24V DC
+power supply. The AC coil drives at 150 V AC. The DC motor spins the aluminum disc.
+
+Mechanism of standard Lenz levitation: an alternating axial magnetic field B_AC(t)
+induces eddy currents in a conducting plate placed above the coil. The induced eddy
+currents create an opposing magnetic field (Lenz's law: the induced EMF opposes the
+change in flux, epsilon = -d(Phi_B)/dt). The interaction between the driving B_AC and
+the eddy-current-induced field produces a repulsive (upward) force on the plate.
+Quantitatively, the repulsive force scales as F ~ sigma * omega^2 * B^2 * delta * A,
+where sigma is electrical conductivity, omega is AC angular frequency, B is peak field,
+delta is skin depth, and A is area. At low omega (skin depth >> plate thickness), force
+increases with omega^2. At high omega (skin depth << plate thickness), the repulsion
+saturates and becomes approximately independent of omega.
+
+Key experimental result (claimed novel, "NOT IN TEXTBOOKS"):
+When the aluminum disc is set spinning rapidly (gyroscopic regime), the downward repulsive
+strength of Lenz levitation drops to approximately 20% of the stationary-disc value.
+Equivalently: fast gyroscopic spin reduces Lenz-effect magnetic repulsion by 80%.
+  F_spin = 0.20 * F_stationary
+Drew claims this coupling between disc angular momentum L = I * omega_spin and the
+electromagnetic induction efficiency is not found in standard textbooks. No anti-gravity
+effect (Z-axis rise) was produced; only the reduction in downward repulsive strength
+was confirmed experimentally.
+
+Interpretation: As the disc acquires large angular momentum L (gyroscopic regime), its
+ability to support eddy currents in the plane perpendicular to its spin axis is altered.
+The gyroscopic rigidity of the disc may suppress the in-plane eddy current circulation
+that normally produces Lenz repulsion. This is a non-trivial coupling between classical
+mechanics (rigid body rotation, Euler equations) and electromagnetic induction. No
+standard textbook derivation of this effect was cited by Drew.
+
+### Outer Flywheel with 16 Magnets + Inner Single Magnet System (tweet 2038912402595693015, video 13_2038909613236744192)
+Device: Outer flywheel with 16 permanent magnets arranged in an S-S-N-N pattern
+(4 groups of alternating polarity, or SSN-SS or similar as described: "SSN and SS that
+goes anti-clockwise"). Inner single disc magnet: 70 mm diameter, 14 mm center hole,
+arranged to spin clockwise relative to outer flywheel.
+
+XY-plane dynamics (magnetic interaction):
+At LOW frequencies of outer flywheel rotation:
+  The inner disc magnet spins ANTI-CLOCKWISE (same direction as outer flywheel)
+  because it is attracted weakly to the series of NN-SS poles in the outer flywheel.
+  The attractive force dominates at low relative velocity (small induced EMF).
+
+At HIGH frequencies of outer flywheel rotation:
+  The inner disc magnet spins CLOCKWISE (opposite to outer flywheel)
+  because the clockwise three-phase U-V-W field becomes more powerful than the
+  weak magnetic attraction to the outer flywheel.
+  The rotating field EMF dominates over static attraction.
+
+Angular momentum conservation coupling (Z-axis dynamics):
+When the inner magnet's spin FLIPS from anti-clockwise to clockwise (the transition
+between low-frequency and high-frequency regimes), the outer flywheel counter-spins
+even faster, to conserve total angular momentum:
+  L_total = L_outer + L_inner = constant
+  When delta_L_inner reverses sign (anti-clockwise -> clockwise), delta_L_outer
+  must compensate: L_outer increases (spins faster).
+This is the same angular momentum conservation principle demonstrated in the Action Lab
+"spinning blade on floating boat" demonstration (video 13_2038909635663654913):
+  L_total = 0 initially. When blade spin reverses, boat spins opposite to compensate.
+
+### Corbino Disc + Three-Phase Outer Field (UFO Propulsion Configuration, tweet 2007939663563231736)
+The Corbino disc differs from the Faraday disc in that current flows radially in a flat
+annular conductor without a strong radial arm (no brushes required at intermediate radii).
+The geometry: inner radius r1, outer radius r2, axial field B_z. Radial current flows
+between inner and outer contacts. Lorentz force produces azimuthal torque continuously
+around the full annular area.
+
+In Drew's proposed UFO configuration:
+  Outer stator: spinning three-phase magnetic field (U-V-W-U-V-W sequence, phase angle
+  120 degrees between each phase), producing a rotating B-field at angular frequency omega_s
+  Interior rotor: electromagnetic Corbino disc, driven by Lorentz torque from its own
+  radial current in the rotating external field
+
+The three-phase outer field induces EMF in the Corbino disc via Faraday induction, driving
+additional current and torque. The interaction between the Lorentz-driven spin (omega_r)
+and the three-phase counter-spin (omega_s) is what Drew labels "Lorentz spin, then a
+3-phase counter-spin."
+
+The device with four sets of three-phase coils (outer) and four-magnet N-S-N-S rotor (inner)
+is described explicitly in tweet 2000488534151737643.
+
+### Axial Flux Motor / Generator Configuration (video 13_1914659684906328064 preview)
+Device: Flat rotor disc (dark resin, approximately 15-20 cm diameter) between stator coil
+assemblies on each side (axial flux geometry). Central shaft with chrome hub. Copper wire
+stator coils (solenoid-wound enameled wire, approximately 8 cm diameter coils visible on
+each side). Red electrical tape marker on rotor disc at approximately 3 o'clock position
+(for optical speed measurement or Hall sensor reference).
+
+Physics: Axial flux configuration. The stator coils produce B_z along the axis. If the
+rotor contains embedded permanent magnets, it rotates (motor operation). If the rotor is
+a conductor in an alternating axial field, it experiences eddy-current braking (induction
+operation). The red tape marker enables rotational speed measurement via optical or
+stroboscopic methods.
+
+### Mercury Vortex Hypothesis (tweet 1914662157633167571, note_tweet)
+Proposed (not tested due to mercury legality): Replace three-phase wire coils with liquid
+mercury (approximately 1000 grams) as the spin source. Apply low-voltage DC power to drive
+the mercury into vortex rotation. Embed a permanent magnet (or magnetic flywheel) within
+the mercury so it co-rotates. Predict: the entire device rises up a pole as an anti-gravity
+effect, requiring only two DC wire connections.
+
+Physical basis proposed: a spinning liquid mercury torus in an axial magnetic field
+constitutes a homopolar generator geometry. The conductivity of mercury (sigma_Hg ~
+1.04 x 10^6 S/m at room temperature) combined with its density (rho = 13,534 kg/m^3)
+and rotation rate omega produces a radial current via Lorentz force on the conducting
+fluid. The coupling between the mercury spin, embedded magnet, and induced field is
+proposed to produce the same Lorentz-spin / counter-spin effect as the coil-based device.
+
+---
+
+## Magnetic Phenomena Summary Table
+
+| Phenomenon | Configuration | Observation / Claim | Status |
+|---|---|---|---|
+| Homopolar motor Lorentz torque | Faraday disc + radial current + axial B | Disc rotation by azimuthal Lorentz force | Standard physics, demonstrated |
+| Spinning magnet rises on pole | 3-phase powered magnet, vertical pole | Magnet rises; coil does not | Experimental anomaly (Drew) |
+| Lenz levitation reduction by spin | AC coil + spinning Al disc | F_spin = 0.20 * F_static | Claimed novel, not in textbooks |
+| Inner magnet spin reversal coupling | 16-magnet outer flywheel + inner magnet | Outer flywheel counter-spins faster on flip | L conservation, confirmed |
+| Corbino disc + 3-phase outer field | Corbino rotor + U-V-W stator | Proposed UFO propulsion, not yet levitation demonstrated | Hypothesis |
+| Mercury vortex + DC | Liquid mercury torus + permanent magnet | Proposed anti-gravity with 2 wires only | Not tested |
+
+---
+
+*Appended: 2026-04-22. Source: RedCollie1 tweet corpus, directory 7/8.*

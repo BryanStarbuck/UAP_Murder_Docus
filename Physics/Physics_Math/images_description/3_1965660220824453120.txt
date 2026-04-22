@@ -1,0 +1,70 @@
+TYPE: Scientific scatter plot — "Nickel Production Rates vs. Heliocentric Distance" in solar system and interstellar comets (academic/peer-reviewed style chart)
+
+OVERALL DESCRIPTION:
+A high-quality scientific scatter plot from an academic paper or preprint, showing nickel (Ni) production rates (log scale, atoms per second) versus heliocentric distance (AU, astronomical units) for multiple categories of solar system comets and interstellar objects. The plot includes multiple labeled data series, error bars, power-law fit lines, and secondary y-axis for surface temperature. Multiple specific comets are labeled. Title: "Nickel Production Rates vs. Heliocentric Distance / Comparison with Solar System and Interstellar Comets."
+
+IMAGE DIMENSIONS: Approximately 800 x 620 pixels (landscape)
+BACKGROUND: White (#FFFFFF) with light gray grid lines
+
+TITLE (verbatim):
+"Nickel Production Rates vs. Heliocentric Distance
+Comparison with Solar System and Interstellar Comets"
+
+AXES:
+
+X-axis: "Heliocentric Distance (AU)"
+- Range: approximately 4.5 to 0.5 AU (decreasing left to right — closer to sun = further right)
+- Note: The x-axis decreases from left to right (4.5 AU at left, 0.5 AU at right)
+- Grid lines at 1 AU intervals
+
+Y-axis (left): "log [Q(Ni)] (atoms s⁻¹)"
+- Range: approximately 20.0 to 23.8 (logarithmic nickel production rate)
+- Grid lines at 0.5 intervals
+
+Y-axis (right): "Surface Temperature (K)"
+- Range: approximately 20 to 500 K
+- Labeled horizontal lines for volatile species sublimation temperatures:
+  * "H₂O: 150K" (blue dashed line)
+  * "CO₂: 90K" (pink dashed line)
+  * "NH₃: 78K" (pink dashed line, close to CO₂)
+  * "CO: 25K" (pink dashed line)
+
+DATA SERIES (from legend):
+
+Blue filled circles: "3I/ATLAS (XShooter)" — the primary data series, enclosed in a blue ellipse
+Blue filled circles with error bars: "3I/ATLAS (UVES)"
+Black solid line: "Weighted fit: Q ∝ r_h^(-8.43±0.79)"
+Black dashed line: "Unweighted fit: Q ∝ r_h^(-4.09±0.79)"
+Green filled squares: "Interstellar objects" — labeled "2I/Borisov (Guzik+21)" and "2I/Borisov (Opitom+21)"
+Red filled circles: "Jupiter-family comets (Manfroid+21)"
+Yellow triangles: "Oort cloud comets (Manfroid+21)" — several labeled including "C/1996 B2 Hyakutake"
+Dark yellow filled triangles: "Halley Family comets (period <200 yr; Manfroid+21)"
+Gray diamond: "External comets (semi-major axis > 1e4 AU; Manfroid+21)"
+Light pink diagonal line: "T(r_h) scaled to 200.0K at 3AU" — temperature scaling reference
+
+LABELED DATA POINTS:
+- "3I/ATLAS (XShooter)" cluster: multiple data points at approximately 4.0-4.5 AU range on x-axis, logQ values 21.2-23.0
+- "2I/Borisov (Guzik+21)": approximately 2.0 AU, logQ ~21.9 (green square)
+- "2I/Borisov (Opitom+21)": approximately 2.0 AU, logQ ~21.8 (green square)
+- "C/1996 B2 Hyakutake": approximately 0.9 AU, logQ ~22.5 (yellow triangle)
+- "46P/Wirtanen (Hutsemékers+21)": approximately 0.9 AU, logQ ~20.9 (red circle)
+- Various other unlabeled Jupiter-family and Oort cloud comets distributed across the plot
+
+BLUE ELLIPSE:
+- A large blue ellipse drawn around the 3I/ATLAS data cluster
+- Positioned at approximately x=280-480, y=100-400 in the plot area
+- This highlights 3I/ATLAS as the focal object of the study
+
+POWER LAW FITS:
+- Weighted fit: Q ∝ r_h^(-8.43) — very steep power law, nickel production increases very rapidly as comet approaches sun
+- Unweighted fit: Q ∝ r_h^(-4.09) — less steep; the discrepancy suggests some data points influence the fit strongly
+
+PHYSICS/SCIENCE RELEVANCE:
+1. This is a peer-reviewed-quality scientific chart about the newly discovered interstellar object "3I/ATLAS" — a comet or comet-like object discovered by the ATLAS survey in 2024-2025 that appears to have originated outside the solar system (hence "3I" = third interstellar object, after 1I/Oumuamua and 2I/Borisov)
+2. The detection of nickel in an interstellar comet is scientifically significant: nickel is a refractory element rarely found in cometary comae. Its presence in interstellar objects (as first discovered in 2I/Borisov) suggests a different composition or processing history than solar system comets
+3. The 3I/ATLAS data (blue circles, highlighted) shows nickel production rates comparable to or higher than solar system comets at similar heliocentric distances — suggesting 3I/ATLAS is a highly active body
+4. The very steep power law (r^-8.43) for 3I/ATLAS implies: either the nickel production is extremely sensitive to solar heating, or 3I/ATLAS has an unusual composition, or it is not vaporizing volatiles but releasing solid nickel particles (which then sublime) at an unusual rate
+5. UAP relevance: The appearance of 3I/ATLAS in a UAP physics research collection suggests researchers are tracking this interstellar object for potential extraterrestrial origin. Some UAP researchers have proposed that interstellar objects like 1I/Oumuamua, 2I/Borisov, and now 3I/ATLAS may be artificial probes rather than natural comets. The anomalous nickel content and production rate would be consistent with: an artificial object shedding metal vapor as it decelerates in the solar system, or an exotic material composition not found in natural solar system bodies.
+6. The temperature scale (right axis) showing H₂O, CO₂, NH₃, CO sublimation temperatures allows correlation of nickel production with heating-induced volatile outgassing — if nickel production correlates with specific volatile sublimation, it suggests nickel is trapped in the volatile matrix; if it doesn't correlate, it suggests an independent nickel release mechanism
+
+SUMMARY: Scientific scatter plot (~800×620px) with white background and gray grid. Title: "Nickel Production Rates vs. Heliocentric Distance / Comparison with Solar System and Interstellar Comets." X-axis: Heliocentric Distance 4.5-0.5 AU (decreasing right). Left Y-axis: log[Q(Ni)] atoms s⁻¹, range 20.0-23.8. Right Y-axis: Surface Temperature K (20-500K) with labeled volatile sublimation lines (H₂O 150K, CO₂ 90K, NH₃ 78K, CO 25K). Multiple data series: blue circles (3I/ATLAS XShooter + UVES, enclosed in blue ellipse), green squares (2I/Borisov), red circles (Jupiter-family comets), yellow triangles (Oort cloud comets including Hyakutake), dark yellow triangles (Halley family), gray diamond (external comets). Power law fits: Q ∝ r_h^(-8.43) weighted, Q ∝ r_h^(-4.09) unweighted. Chart documents anomalously high nickel production by interstellar object 3I/ATLAS — potentially relevant to UAP probe hypothesis.

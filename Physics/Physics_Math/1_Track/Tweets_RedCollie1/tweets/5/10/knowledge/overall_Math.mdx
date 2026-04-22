@@ -1,0 +1,267 @@
+# overall_Math.mdx
+# Mathematical Equations, Their Pieces and Relationships
+# Source: RedCollie1 (@RedCollie1, Dr. Horace Drew, Caltech / MRC LMB Cambridge)
+# Directory: tweets/5/10/
+
+---
+
+## Section: 1913230704873472245.yaml + 13_1913229859163402241_video.mdx
+### Source: Time-Averaged Anti-gravity Weight Calculation
+
+**Variables:**
+- W_static = static weight of spinning magnet at rest [N] = m_magnet × g
+- f = oscillation frequency = 20 Hz
+- T = period = 1/f = 0.05 s = 50 ms
+- W_rise = apparent weight on scale during rise phase ≈ 0 (observed, anomalous)
+- W_fall = apparent weight on scale during fall phase ≈ -W_static (observed, reaching -15 to -20 grams force)
+
+**Time average of scale reading over one full oscillation:**
+
+⟨W_measured⟩ = (1/T) ∫₀^T W(t) dt
+
+Approximating as piecewise constant over each half-period:
+
+⟨W_measured⟩ = (1/T)[W_rise × (T/2) + W_fall × (T/2)]
+             = (1/2)(W_rise + W_fall)
+             = (1/2)(0 + (-W_static))
+             = -W_static / 2
+
+**Interpretation:** The time-averaged scale reading is NEGATIVE, equal to -W_static / 2. The entire device loses half the magnet's weight on a time-averaged basis.
+
+**Classical prediction (for comparison):**
+During rise: W_measured should be = W_static + m_magnet × a_rise (from Newton's 3rd law; the scale should read MORE than static weight when the magnet accelerates upward).
+During fall: W_measured should be = W_static - m_magnet × a_fall (the scale should read LESS than static weight when magnet falls, but for a free-fall: W_measured = 0, not negative).
+
+Anomaly severity: The observed W_fall is NEGATIVE (not merely zero as classical free-fall would predict), meaning the device actively PUSHES UP on the scale during the downward phase — the opposite of classical expectation.
+
+**Numerical values observed:**
+m_magnet × g ≈ 15 to 20 grams-force ≈ 0.147 to 0.196 N
+Time-averaged anti-gravity force: ≈ 7.5 to 10 grams-force ≈ 0.074 to 0.098 N
+
+---
+
+## Section: 1952513756690530408.yaml
+### Source: Three-Phase Rotating Field — Mathematical Representation
+
+**Three-phase coil currents (3-phase, 120° separation):**
+
+I_U(t) = I₀ cos(ω_e t)
+I_V(t) = I₀ cos(ω_e t - 2π/3)
+I_W(t) = I₀ cos(ω_e t - 4π/3)
+
+where:
+- I₀ = peak current amplitude [A]
+- ω_e = electrical angular frequency [rad/s] = 2πf_e
+
+**Resulting rotating magnetic field (2-pole, single pole-pair):**
+
+For coils arranged at 120° angular separation in space:
+B_x(t) = B₀[cos(ω_e t) cos(0°) + cos(ω_e t - 2π/3) cos(2π/3) + cos(ω_e t - 4π/3) cos(4π/3)]
+B_y(t) = B₀[cos(ω_e t) sin(0°) + cos(ω_e t - 2π/3) sin(2π/3) + cos(ω_e t - 4π/3) sin(4π/3)]
+
+This simplifies (by trigonometric identity) to:
+
+B_x(t) = (3B₀/2) cos(ω_e t)
+B_y(t) = (3B₀/2) sin(ω_e t)
+
+Vector form:
+**B**_rot(t) = (3B₀/2)[cos(ω_e t) x̂ + sin(ω_e t) ŷ]
+
+This is a vector of constant magnitude (3B₀/2) rotating at angular velocity ω_e in the XY-plane.
+
+**Synchronous speed of disc magnet (for p pole pairs):**
+
+ω_mech = ω_e / p   [rad/s]
+n_sync = 60 f_e / p   [rpm]
+
+For Drew's 8-magnet flywheel (alternating NS-NS-NS-NS-NS-NS-NS-NS):
+Number of pole pairs: p = 4 (4 north + 4 south = 4 pole pairs)
+Synchronous mechanical speed: ω_mech = ω_e / 4
+
+**Phase duty cycle (from 2017450212500099374.yaml):**
+For 9 coils with 3-phase assignment (U-V-W-U-V-W-U-V-W):
+- At any instant, 1 coil per phase is active = 3 coils active out of 9
+- Duty cycle per coil = 1/3 (energized 1/3 of the electrical cycle)
+- Rotating pole advances by (360°/9) = 40° per discrete step
+
+For 6 coils (U-V-W-U-V-W):
+- 2 coils active per phase = 2 per 6 coils active at a time
+- Rotating pole advances by (360°/6) = 60° per step
+
+---
+
+## Section: 1926609777645203914.yaml + 13_1926609637857538048_video.mdx
+### Source: Lorentz Force — Homopolar Motor
+
+**Lorentz force on a charge carrier:**
+
+**F** = q(**v** × **B**)
+
+where:
+- q = charge of carrier [C]
+- **v** = velocity of charge carrier [m/s]
+- **B** = magnetic flux density [T]
+
+**For a current-carrying conductor of length L in field B:**
+
+**F** = I(**L** × **B**)
+
+where:
+- I = current [A]
+- **L** = vector along the conductor in the direction of conventional current [m]
+- **B** = magnetic flux density [T]
+- |F| = BIL sin(θ) where θ is the angle between L and B
+
+**Torque on the homopolar motor:**
+
+τ = r × F = r × (IL × B)
+
+For the Barlow-wheel-style configuration with radial current I flowing from center to rim at radius r, in axial B-field:
+τ = BIr²/2 (integrated from 0 to r)  [N·m]
+
+This torque drives the rotation of the conducting disc/arm.
+
+**Two-magnet configuration — directional logic:**
+
+Configuration A (opposite polarities — N-S, S-N):
+- Magnet 1: B₁ points upward (+z)
+- Magnet 2: B₂ points downward (-z)
+- Current I flows the same direction through both magnets
+- At Magnet 1: F₁ = I(L × B₁) = I L B₁ (in +φ direction → counterclockwise)
+- At Magnet 2: F₂ = I(L × B₂) = I L B₂ (in +φ direction → counterclockwise, because B₂ is reversed AND the lever arm is symmetric → double reversal gives same sense)
+- Result: SAME direction of rotation at both magnets. ✓ (Confirmed by experiment.)
+
+Configuration B (same polarities — N-S, N-S):
+- B₁ = B₂ (both pointing same direction)
+- Same current I
+- Torques at both locations in same direction relative to B, but geometrically placed symmetrically → OPPOSITE rotation directions at the two arm ends.
+- Result: OPPOSITE rotation. ✓ (Confirmed by experiment.)
+
+**Electron SPIN connection:**
+Electron magnetic moment: **μ**_s = -g_s μ_B **S**/ℏ
+
+where:
+- g_s ≈ 2.00232 (electron g-factor)
+- μ_B = eℏ/(2m_e) = 9.274 × 10⁻²⁴ J/T (Bohr magneton)
+- **S** = electron spin angular momentum operator, eigenvalues ±ℏ/2
+
+The Lorentz force at macroscopic scale is the classical limit of the quantum mechanical interaction between electron spin and electromagnetic field. Drew frames the homopolar motor as a macroscopic amplifier of this fundamental spin-field coupling.
+
+---
+
+## Section: 1965640822487150779.yaml
+### Source: MHD Body Force on Liquid Gallium
+
+**Magnetohydrodynamic body force (per unit volume):**
+
+**f** = **J** × **B**   [N/m³]
+
+where:
+- **J** = current density [A/m²]
+- **B** = applied magnetic flux density [T]
+
+**Ohm's law in MHD (with fluid velocity u):**
+
+**J** = σ(**E** + **u** × **B**)
+
+where:
+- σ = electrical conductivity [S/m]
+  - Gallium: σ_Ga ≈ 3.7 × 10⁶ S/m at 30°C
+  - Mercury: σ_Hg ≈ 1.0 × 10⁶ S/m
+- **E** = applied electric field [V/m]
+- **u** = fluid velocity [m/s]
+
+**Azimuthal MHD rotation (cylindrical geometry):**
+For current density J_r (radial) in static axial field B_z:
+
+f_φ = J_r × B_z   (azimuthal force density)
+
+This drives rotation about the Z-axis (Lorentz spin of gallium).
+
+**Comparison of MHD forces — gallium vs. mercury (at same applied J and B):**
+F_Ga / F_Hg = σ_Ga / σ_Hg = 3.7 × 10⁶ / 1.0 × 10⁶ = 3.7
+
+Gallium produces 3.7× stronger MHD body forces than mercury under the same external conditions.
+
+---
+
+## Section: 1960385497836216484.yaml
+### Source: Telescope Resolution Ratio — 3I/ATLAS Anomaly
+
+**Angular resolution comparison:**
+SPHERE-X pixel resolution: θ_SPH = 6.2 arc seconds = 6.2 × (π / 648000) rad ≈ 3.01 × 10⁻⁵ rad
+JWST pixel resolution: θ_JWST = 0.07 arc seconds = 0.07 × (π / 648000) rad ≈ 3.40 × 10⁻⁷ rad
+
+**Expected pixel size ratio:**
+θ_SPH / θ_JWST = 6.2 / 0.07 = 88.6
+
+Expected: JWST pixels should be 88.6× smaller (finer resolution) than SPHERE-X pixels for the same field of view.
+
+**Observed ratio in released image:**
+Drew reports JWST pixels appear ~3× LARGER than SPHERE-X pixels.
+
+**Implied degradation factor:**
+If released JWST pixel size = 3 × θ_SPH, then:
+Degradation factor = (3 × θ_SPH) / θ_JWST = 3 × (θ_SPH / θ_JWST) = 3 × 88.6 ≈ 266 ≈ 300
+
+**Conclusion:** Released JWST image of 3I/ATLAS has effective pixel resolution degraded by a factor of ~300 from native JWST capability.
+
+**Physical interpretation:** A deliberate resolution suppression of factor ~300 means that any structure with angular extent > 0.07 × 300 = 21 arc seconds would be blurred out. At the distance of 3I/ATLAS (estimated ~1-2 AU during observation), 21 arc seconds corresponds to a physical size of approximately 1.5 × 10⁷ to 3 × 10⁷ km — roughly 100–200 Earth diameters. Any structure smaller than this would be unresolvable in the released images but would be clearly visible in native JWST resolution.
+
+---
+
+## Section: 2030899868026478719.yaml
+### Source: Lenz Induction Force Scaling on Aluminum Plate
+
+**Lenz induction levitation force scaling (approximate, for conducting disc in rotating magnetic field):**
+
+F_Lenz ∝ σ × B² × ω × r⁴
+
+where:
+- σ = electrical conductivity of plate [S/m]
+  Aluminum: σ_Al ≈ 3.5 × 10⁷ S/m
+- B = magnetic flux density of rotating field [T]
+- ω = angular frequency of rotating field [rad/s]
+- r = radius of plate [m]
+
+**Power dependence:** F ∝ ω at low ω (ohmic regime), transitioning to F ∝ ω^{-1/2} at high ω (skin-effect limited regime) where the skin depth δ = (2/(μ_0 σ ω))^{1/2} becomes smaller than the plate thickness.
+
+**Skin depth for aluminum:**
+δ_Al = √(2 / (μ₀ σ_Al ω)) = √(2 / (4π×10⁻⁷ × 3.5×10⁷ × ω))
+     = √(4.55 × 10⁻² / ω)   [m]
+
+At f = 50 Hz (ω = 314 rad/s): δ_Al = √(1.45 × 10⁻⁴) ≈ 12 mm
+At f = 1000 Hz: δ_Al ≈ 2.7 mm
+At f = 10 kHz: δ_Al ≈ 0.85 mm
+
+**Design implication:** For the 6-coil UFO drive operating at frequencies where δ_Al << plate thickness, the induced eddy currents are concentrated at the bottom surface of the aluminum plate, and the repulsive Lenz force is determined by the surface current distribution. Increasing frequency (ω) initially increases F_Lenz until the skin-effect regime is reached, after which F_Lenz decreases.
+
+---
+
+## Section: 2017450212500099374.yaml
+### Source: Three-Phase Coil Phase Sequence — Mathematical Assignment
+
+**9-coil array phase assignment:**
+Coil positions: 1, 2, 3, 4, 5, 6, 7, 8, 9 (equally spaced at 40° angular intervals)
+Phase assignment: U, V, W, U, V, W, U, V, W
+
+Phase voltages:
+V_U(t) = V₀ cos(ω_e t)
+V_V(t) = V₀ cos(ω_e t - 2π/3)
+V_W(t) = V₀ cos(ω_e t - 4π/3)
+
+Energized coil at time t = 0: Coil 1 (U, maximum), Coil 4 (U), Coil 7 (U)
+Energized coil at time t = T/3: Coil 2 (V, maximum), Coil 5 (V), Coil 8 (V)
+Energized coil at time t = 2T/3: Coil 3 (W, maximum), Coil 6 (W), Coil 9 (W)
+
+The effective magnetic pole position rotates by 40° × 3 = 120° per phase step, completing a full 360° rotation per electrical period T = 1/f_e.
+
+**6-coil array phase assignment:**
+Coil positions: 1-6 at 60° spacing.
+Phase assignment: U, V, W, U, V, W.
+Effective pole step: 60° per phase step; 360° rotation per electrical period.
+At any instant: 2 coils active (1 per phase that is near its peak).
+
+**Stator rotating field speed for the 6-coil case:**
+For a 6-coil, 3-phase stator creating a 2-pole-pair field:
+ω_s = ω_e / 2 (mechanical angular speed of field = half the electrical angular speed)

@@ -1,0 +1,35 @@
+TYPE: Scientific composite image — astrophysical relativistic jet with Faraday rotation measure maps + helical B-field model (variant/duplicate)
+
+CONTENT:
+This image is similar to companion image 3_1916601545107673088.jpg. It shows the same astrophysical jet Faraday rotation measure data with the same structure. However, the layout and background differ:
+
+DIFFERENCES FROM COMPANION (3_1916601545107673088.jpg):
+- Background: dark gray/charcoal (not pure black)
+- The image appears slightly cropped or differently formatted
+- The color of the jet/radio emission appears more red-orange (saturated)
+- The label text may be slightly different in font size or style
+
+SAME ELEMENTS:
+- LEFT: Radio jet emission image (orange/red-white elongated jet from a compact source marked with ★)
+- TOP-CENTER INSET: Faraday rotation measure (RM) map of the main jet — red-to-blue gradient across jet width (indicating helical B-field)
+- BOTTOM-CENTER INSET: RM map of the counter-jet — predominantly red (field pointing away from observer)
+- CENTER: Color bar "Rotation Measure [rad/m²]" scale 200-350-500, "away from observer" / "towards observer", "Line of sight Magnetic Field"
+- BEAM ELLIPSES: White ellipses in dashed boxes (PSF/resolution indicator)
+- TOP-RIGHT: Diagram of jet model (gray cylinder + yellow helical coils + v_jet arrow + B vector)
+- BOTTOM-RIGHT: Diagram of counter-jet model (same helix, v_counterjet arrow pointing down + B vector)
+
+For full description of all elements and physics, see companion image: 3_1916601545107673088.txt
+
+PHYSICS SUMMARY (same as companion):
+- Transverse Faraday RM gradient across the jet = observational signature of a helical magnetic field
+- RM = (e³/2πm²c⁴) ∫ n_e B_∥ dl — the sign of B_∥ reverses across the jet due to B_φ component
+- Helical field geometry: B = B_z ẑ + B_φ φ̂ wound around the jet axis
+- This is directly relevant to UAP propulsion physics where helical fields may drive collimated plasma beams or provide thrust
+
+COLORS:
+- Background: dark gray/charcoal
+- Jet: orange-red (radio emission)
+- RM maps: red through white to blue
+- Model diagrams: gray cylinder, yellow helix, blue lines
+
+IMAGE DIMENSIONS: Approximately 960 x 540 pixels, landscape orientation (wider than companion)

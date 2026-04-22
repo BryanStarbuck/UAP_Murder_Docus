@@ -1,0 +1,43 @@
+IMAGE TYPE: Scientific composite — astrophysical jet with Faraday rotation measure mapping and helical magnetic field models
+
+CONTENT SUMMARY:
+A color scientific composite image approximately 960 x 560 pixels (landscape). Black background. This is a professional astrophysics research figure showing the relativistic jet of an active galactic nucleus (AGN) with Faraday rotation measure (RM) analysis and helical magnetic field structure models.
+
+LEFT PANEL — AGN Jet Radio Image:
+- A false-color radio astronomy image of an AGN jet (likely from VLBI — Very Long Baseline Interferometry data)
+- The jet appears as a bright elongated structure extending from a bright central core (star symbol marking the AGN core) to the upper-left
+- The jet and counterjet are visible (one brighter, one fainter)
+- Color: warm red/orange for high brightness, transitioning to black background
+- The image scale is parsecs to kiloparsecs (typical for AGN jets)
+
+TWO INSET CIRCULAR PANELS (center):
+- UPPER INSET CIRCLE: Close-up of the jet section showing the FARADAY ROTATION MEASURE (RM) map
+  - False-color RM map: color scale from RED (200 rad/m², away from observer) through WHITE (350 rad/m², intermediate) to BLUE (500 rad/m², towards observer)
+  - The RM distribution shows a systematic gradient from one side of the jet to the other — one edge is red (RM pointing away), the other edge is blue (RM pointing toward observer)
+  - COLOR SCALE BAR: "Rotation Measure [rad/m²]" from 200 to 500
+  - TEXT: "away from observer" (near 200) and "towards observer" (near 500)
+  - TEXT: "Line of sight Magnetic Field"
+  - A white oval (showing PSF/beam size) in the upper-right of the inset
+- LOWER INSET CIRCLE: Close-up of the counterjet section showing its RM map
+  - Predominantly RED (lower RM values, away from observer) — note the OPPOSITE polarity from the jet RM
+  - This RM sign reversal between jet and counterjet is the diagnostic signature of a helical magnetic field
+  - White oval (beam size) visible
+
+RIGHT PANELS — Helical Magnetic Field Models:
+- TWO model diagrams of a HELICAL/TOROIDAL MAGNETIC FIELD wrapped around a cylindrical jet:
+  - UPPER MODEL: Shows the JET — a gray cylinder (v_jet arrow pointing upward) wrapped by YELLOW helical lines representing the toroidal B field component; BLUE dotted/dashed curves representing the poloidal B field; yellow arrows showing the field direction winding upward in one chirality; B vector labeled
+  - LOWER MODEL: Shows the COUNTERJET — same geometry but the VELOCITY arrow now points DOWNWARD (v_counterjet), and the field direction is reversed relative to the line of sight
+  - Both models show the magnetic field as a helix: the field makes a helical path following B (magnetic field vector) labeled in the diagram
+
+INTERPRETIVE PHYSICS:
+The systematic RM gradient across the jet width is the observational signature of a helical magnetic field in the jet:
+- A helical B field has a toroidal (azimuthal) component that changes sign across the jet diameter
+- This creates a systematic variation in the line-of-sight B component (which drives Faraday rotation)
+- The reversal of the RM sign between jet and counterjet is a relativistic effect: the jet moves toward the observer (Doppler boosted) while the counterjet moves away (Doppler deboosted), but the observed RM sign depends on the direction of v × B relative to the line of sight
+
+PHYSICS/UAP RELEVANCE:
+Helical magnetic fields in astrophysical jets are directly relevant to UAP propulsion physics:
+1. The SAME helical field geometry modeled here for astrophysical jets is proposed for the magnetic field inside a rotating UAP propulsion disc — the field follows helical paths as it both rotates azimuthally (toroidal component) and has an axial component
+2. Astrophysical jets demonstrate that helical magnetic fields can collimate and accelerate plasma to relativistic speeds — this is the jet-formation mechanism at the heart of AGN, gamma-ray bursts, and stellar jets
+3. The Faraday rotation diagnostic (RM mapping) is a radio astronomy technique that could potentially be applied to detect the rotating magnetic fields associated with UAP propulsion systems if those fields interact with the local ionosphere or are intense enough to produce measurable RM signatures
+4. The poloidal+toroidal helical field topology seen in jets is identical to the field topology proposed for toroidal plasma confinement (tokamak/spheromak) — connecting astrophysical jet physics to compact fusion plasma physics

@@ -1,0 +1,139 @@
+# overall_Magnetics.mdx
+# Source: tweets/6/3/ — Dr. Horace Drew (@RedCollie1), Caltech / MRC LMB Cambridge
+# Extracted: 2026-04-22
+
+---
+
+## Section: 1922286556913541236.yaml / 13_1922284712011431936_video.mdx — 3-Phase Power: Rotating Magnetic Field Mechanics
+
+**Configuration:** UVW star (Y) configuration — three wire coils with 120° spatial offset between each coil pair.
+
+**Rotating field generation:** Each coil is driven by an AC signal with 120° phase offset from its neighbors. For coil phase assignments:
+- U-phase: V_U(t) = V_peak · sin(2πft)
+- V-phase: V_V(t) = V_peak · sin(2πft − 2π/3)
+- W-phase: V_W(t) = V_peak · sin(2πft − 4π/3)
+
+The superposition of three spatially-offset, temporally-offset magnetic field contributions produces a resultant **B** field vector that rotates at angular velocity ω = 2πf in the XY-plane (perpendicular to the coil axis). The magnitude |**B**| remains approximately constant in time for a balanced 3-phase system.
+
+**XY-plane dynamics:** The rotating field vector sweeps through 360° per period T = 1/f. Magnets or ferromagnetic rotors placed in this field experience a torque that attempts to align their magnetic moment with the instantaneous field direction. If the rotor angular velocity lags behind the field (slip), a net electromagnetic torque is produced. If the rotor tracks the field (synchronous operation), no slip torque exists but the rotor is locked to field rotation rate ω.
+
+**Z-axis coupling:** When the rotating XY-plane field is applied to a gyroscope with angular momentum **L** along z, the torque **τ** = **μ** × **B** (where **μ** is the gyroscope's magnetic moment or the effective dipole moment of the rotor) has components that drive precession. If the precession axis is constrained, this coupling transfers angular momentum between the xy-rotation and the z-direction.
+
+**Observed experimental frequencies:** 1 Hz, 2 Hz, 3 Hz, 4 Hz demonstrated in magnet-slip visualization. 27 Hz, 33 Hz, 35 Hz shown in precession transition experiment (video 13_1952830609715548160_video.mdx).
+
+**Reference:** tweet 1922286556913541236, video 13_1922284712011431936_video.mdx
+
+---
+
+## Section: 2043285425260040203.yaml — 6-Coil Counter-Rotating Flywheel Drive
+
+**Geometry:** Ring of 6 wire coils arranged symmetrically around the outer flywheel. Two sets of UVW assignments (UVW, UVW) are used, effectively providing a 6-pole 3-phase arrangement.
+
+**Flywheel magnets:** 16 magnets on the outer flywheel, arranged SS (south-south poles facing outward) all the way around. This creates an alternating-pole ring when combined with the gaps: the arrangement is likely S-gap-S-gap with 16 magnets in 16 positions, producing 8 north-south dipole pairs around the ring circumference.
+
+**Central element:** Single disc magnet on a central pole. The disc magnet's flat faces are oriented to interact with the z-axis field produced by the coil arrangement below it.
+
+**Drive frequencies (experimental):**
+- Outer flywheel: 40 Hz counter-clockwise rotation.
+- Inner disc magnet: ~18 Hz clockwise rotation.
+- Concurrent operation produces the relative angular velocity Δω ≈ 40 + 18 = 58 Hz between the two systems (since they spin in opposite directions, their relative angular velocity adds).
+
+**Magnetic interaction at high relative velocity:** At 40 Hz outer rotation with 16 magnets, the magnetic field seen by the central magnet switches polarity at 40 × 16 = 640 times per second (640 Hz effective field switching rate). This is the edge-on magnetic interaction Drew references — the rapidly alternating field of the outer flywheel interacts with the central magnet's own field at 640 Hz, producing forces that can drive the central magnet along the z-axis pole.
+
+**Experimental outcome:** At 40 Hz counter-clockwise outer flywheel + 18 Hz clockwise inner magnet, the inner magnet is driven **downward** on its pole while the flywheel remains elevated. This downward displacement of the inner magnet relative to the flywheel is identified as the "potential anti-gravity effect" to be measured on a scale.
+
+**Reference:** tweet 2043285425260040203 (note_tweet.text), video 13_2043282126775422976_video.mdx
+
+---
+
+## Section: 1965665940248691119.yaml — Homopolar Motor: Magnetic Topology and Brush Configuration
+
+**Permanent magnet homopolar (standard):**
+A disc or cylinder magnet rotates about its symmetry axis. Current flows radially from center to rim (or vice versa) through the disc. The Lorentz force **F** = I **d**ℓ × **B** acts tangentially on the current-carrying element, producing torque. One brush at center, one at rim. No commutation required — field and current geometry are axially symmetric.
+
+**Liquid metal homopolar (Drew's interpretation from crop circles):**
+Mercury (Hg) or gallium (Ga) fills the rotor cavity. Current passes through the liquid metal; the Lorentz force drives the fluid into rotation. Gallium is preferred (lower toxicity, liquid at ~30°C). The crop formation's "brush symbols" indicate the presence of multiple current contacts (brushes), interpreted by Drew as encoding a liquid metal design rather than a solid rotor design.
+
+**Magnetic field topology:** In a homopolar motor, **B** is directed axially (along z) — either produced by a coaxial permanent magnet or by a surrounding solenoid. The current flows in the xy-plane (radially), and the cross product I **d**ℓ × **B** is tangential (azimuthal, φ-direction), producing rotation about z.
+
+**Significance for UAP physics:** Drew identifies the homopolar motor as "Step 1 of UFO physics." The homopolar's axial field, combined with radial current flow, produces pure azimuthal torque — analogous to the single-axis spin component needed before precession can occur. The liquid metal variant (gallium/mercury) may be relevant if the UAP propulsion system involves a conducting fluid layer.
+
+**Reference:** tweet 1965665940248691119, referenced tweet 1965640822487150779, 2025-09-10
+
+---
+
+## Section: 1956522809716535664.yaml — Rotating Magnetic Field Vortex: Scale Weight Conservation
+
+**Device:** Fast-rotating magnetic field generated by a Dremel motor. A magnet is placed 200 mm below the rotating magnetic field source.
+
+**Observed effect:** The magnet below spins "high on a pole" — it is driven to rotate and rise by the magnetic vortex — "without falling (due to a loss of 'downward' gravity)."
+
+**Critical measurement — scale weight:** The weight registered on a scale below the entire system does not change whether the magnet is elevated by the magnetic vortex or resting at its normal position. This observation implies:
+- The upward magnetic force on the levitated magnet is not reducing the system weight (as it would if the force were external to the system).
+- The reaction force of the levitated magnet on the source (the Dremel motor/coils) must equal the weight of the levitated magnet — consistent with Newton's third law within the system boundary.
+- The net effect is that the magnet's apparent weight is zero locally (within the vortex) but the system as a whole conserves mass/weight.
+
+This is analogous to a magnetic suspension system where the suspended object's weight is transferred to the suspension structure (coils/motor), not lost. Drew frames this as a "loss of downward gravity" for the levitated object within the vortex, while acknowledging total system weight conservation.
+
+**The key puzzle Drew poses:** How does this field configuration reduce the *local* gravitational force on the object within the vortex, while maintaining global weight conservation? This is not explained by classical electrostatics, classical magnetostatics, or standard GR.
+
+**Reference:** tweet 1956522809716535664 (note_tweet.text), video 13_1956516018417004544_video.mdx
+
+---
+
+## Section: 13_1965665493215498241_video.mdx — Magnetic Levitation Plus Spin: Decoupled Mechanisms
+
+**Setup:** A magnet levitated over a base of repulsive magnets (pure magnetic levitation via Earnshaw-violating arrangement or Halbach array). Two brushes provide electrical contact to the levitated magnet.
+
+**With 10V applied:** The levitated magnet spins (Lorentz force / homopolar mechanism) while remaining levitated. Spin and levitation are simultaneously active and independent.
+
+**Without power:** The magnet exhibits pure repulsive levitation — bouncing and repelling with no spin.
+
+**Magnetic analysis:** The levitation is provided by the base magnet array's repulsive field (net upward force in −z direction counteracting gravity). The spin is driven by the current (10V through the brushes) interacting with the magnetic field of the levitated magnet itself or the base field (homopolar motor operation). These mechanisms operate on orthogonal force components: levitation in z, spin in φ (azimuthal).
+
+**Significance:** This demonstrates the principle of independent z-axis support (magnetic levitation) and azimuthal spin (electrical drive), which Drew identifies as the building blocks for the combined spin-plus-levitation system in the UFO propulsion model.
+
+**Reference:** video 13_1965665493215498241_video.mdx
+
+---
+
+## Section: 2037339544534843473.yaml / 13_2037339142120673280_video.mdx — Pre-Scale Anti-Gravity Test Configuration
+
+Drew's stated test sequence before measuring anti-gravity effects on a scale:
+
+1. Characterize spin of outer flywheel (16 magnets, SS arrangement, ball-bearing mounted, driven by 6-coil 3-phase ring).
+2. Characterize spin of inner disc magnet (on central pole).
+3. Observe relative vertical displacement between inner magnet and outer flywheel at operating frequencies.
+4. Then proceed to weigh the assembly on a scale to detect any weight reduction.
+
+Video transcription confirms: "I would like to show you here the force that makes a UFO rise up. It's all due to a magnet in the center which spins and rises like a top by pushing against a three phase power."
+
+The central claim is that the interaction of the spinning central magnet with the rotating magnetic field of the 6-coil arrangement (3-phase) produces an upward force analogous to a spinning top's precessional rise. The 3-phase field provides the continuously rotating torque vector; the magnet's spin angular momentum resists reorientation; the result is precessional rise in z.
+
+**Reference:** tweet 2037339544534843473, video 13_2037339142120673280_video.mdx, 2026-03-27
+
+---
+
+## Section: 2005039349315109035.yaml — Homopolar Motor Geometry: 3D Crop Encoding
+
+Crop circle correspondence (from 2012 final three crop pictures):
+- **Slide 1 (homopolar motor):** Three-dimensional spinning homopolar geometry.
+- **Slide 2 (antenna):** Two-dimensional pattern — Drew states it matches each face of the Rubik's cube.
+- **Slide 3 (6×6×6 Rubik's cube):** Three-dimensional 6×6×6 object.
+
+Drew identifies the homopolar motor as having 3D spatial structure that corresponds to the 6×6×6 cube arrangement. The cube's six faces each independently encode the 2D antenna pattern. This suggests a 6-axis or 6-face spatial encoding of the antenna/field geometry.
+
+**Magnetic interpretation:** A homopolar motor with 6-fold spatial symmetry (hexagonal) and 6-face antenna patterns may represent a field geometry where each face generates or radiates the field needed for the motor operation, consistent with the 6-coil drive configuration used in Drew's laboratory device.
+
+**Reference:** tweet 2005039349315109035, referenced tweet 2004869372360507432
+
+---
+
+## Section: 2031308605828583575.yaml — Hexagonal UFO Morphology and Spin
+
+A hexagonal UFO with visible spin motion is described (California 2005) and compared to a hexagonal UFO drawn in crops (Brazil 2024). The spin is explicitly noted: "Look at the spin motion!"
+
+Hexagonal geometry provides 6-fold rotational symmetry (C_6v point group). A hexagonal craft with peripheral drive coils in 6-fold arrangement naturally accommodates 2-phase UVW, UVW (6-pole) 3-phase power distribution, consistent with the 6-coil drive ring described in Drew's laboratory device.
+
+**Reference:** tweet 2031308605828583575, 2026-03-10
+

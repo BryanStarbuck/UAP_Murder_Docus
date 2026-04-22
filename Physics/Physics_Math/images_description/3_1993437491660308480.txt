@@ -1,0 +1,67 @@
+Type: RC educational slide — binary code analysis of the "Textpic" (xxx.tpc) computer file format, claiming it is a form of binary encoding "from the future," with a detailed ASCII decoding of the message "Textpic is from the future!" and a spatial analysis of the binary matrix showing a "fish shape" and "cross shape" in the bitmap.
+
+Title text (top, black, centered): "Textpic" computer code is from the future   (xxx.tpc)
+
+Overall Layout:
+* White background with black and red text.
+* Upper section: binary ASCII decoding of the message.
+* Lower section: the binary matrix spatial analysis (0s and 1s arranged in a grid pattern).
+* Caption at the bottom.
+
+UPPER SECTION — Binary ASCII Decoding:
+
+Row 1 — Letter spacing row:
+"T    e    x    t    p    i    c"
+(individual letters spaced out, with spaces between them, indicating each letter is encoded separately)
+
+Row 2 — Binary codes (mixed black and red):
+"01010100 01100101 01111000 01110100 01110000 01101001 01100011"
+* Red bits indicate specific positions highlighted by RC for analysis.
+* Decoded: T=01010100 (0x54), e=01100101 (0x65), x=01111000 (0x78), t=01110100 (0x74), p=01110000 (0x70), i=01101001 (0x69), c=01100011 (0x63)
+
+Row 3 — Letter spacing row:
+"space    i    s    space    f    r    o"
+
+Row 4 — Binary codes (black and red):
+"00100000 01101001 01110011 00100000 01100110 01110010 01101111"
+* Decoded: space=00100000, i=01101001, s=01110011, space=00100000, f=01100110, r=01110010, o=01101111
+
+Row 5 — Letter spacing row:
+"m    space    t    h    e    space    f"
+
+Row 6 — Binary codes:
+"01101101 00100000 01110100 01101000 01100101 00100000 01100110"
+* Decoded: m=01101101, space=00100000, t=01110100, h=01101000, e=01100101, space=00100000, f=01100110
+
+Row 7 — Letter spacing row:
+"u    t    u    r    e    !"
+
+Row 8 — Binary codes:
+"01110101 01110100 01110101 01110010 01100101 00100001 0111"
+* Decoded: u=01110101, t=01110100, u=01110101, r=01110010, e=01100101, !=00100001
+* Full decoded message: "Textpic is from the future!"
+
+LOWER SECTION — Binary Matrix Spatial Analysis:
+
+The binary data is arranged in a grid (rows and columns of 0s and 1s):
+* Left portion: a 14×8 block of 0s (zeros) transitioning to 1s — labeled "14 x 8 (fish shape)" in red text. The boundary between 0s and 1s in this block creates a diagonal/curved edge that RC calls a "fish shape."
+* Center portion: a 10×10 block — labeled "10 x 10 (cross shape)" in red text. The arrangement of 0s and 1s creates a cross (+) shape in the binary image.
+* Right portion: a block of all 1s arranged in a rectangular pattern.
+* The overall binary grid has been formatted so that reading it as a 2D bitmap reveals geometric shapes (fish, cross) — suggesting the binary encoding was deliberately arranged to contain visual information when displayed as a pixel grid.
+
+RC's Contextual Use:
+* RC claims the "Textpic" (xxx.tpc) file format encodes a message in binary ASCII (ascii text "Textpic is from the future!") using a novel 2D bitmap encoding scheme.
+* The claim "from the future" is RC's assertion that the file format or encoding was too advanced for its time of creation, implying it was given to humans by extraterrestrial entities or through advanced classified technology.
+* The "fish shape" and "cross shape" in the binary grid connect to RC's broader argument: the fish (vesica piscis, ichthys symbol) and cross (3D cross / Christian cross) appear repeatedly as encoded symbols in both crop formations and technical computer code — suggesting a unified symbolic vocabulary used by non-human intelligences.
+* "RC > message translated fully in December of 2019" — this is RC's claim that he personally decoded this message in December 2019.
+* The red highlighting of specific binary digits may encode a secondary message (a steganographic layer within the ASCII encoding).
+
+Text Visible (complete):
+* "'Textpic' computer code is from the future   (xxx.tpc)" (title)
+* Letter labels: T, e, x, t, p, i, c, space, i, s, space, f, r, o, m, space, t, h, e, space, f, u, t, u, r, e, !
+* All binary codes (listed above)
+* "14 x 8 (fish shape)" (red, lower-left)
+* "10 x 10 (cross shape)" (red, lower-center)
+* "RC > message translated fully in December of 2019" (caption, bottom)
+
+Summary: RC educational slide analyzing the "Textpic" (xxx.tpc) binary computer file format as encoding the ASCII message "Textpic is from the future!" — decoded by RC in December 2019. Upper section: 7-letter binary ASCII blocks for each character of the message, with specific bits highlighted in red. Lower section: the binary data arranged as a 2D grid where the 0/1 distribution creates geometric shapes — a 14×8 "fish shape" (diagonal boundary between 0s and 1s) and a 10×10 "cross shape" (cross-pattern of 0s and 1s) — followed by a rectangular block of 1s. RC interprets the geometric shapes in the binary grid (fish, cross) as deliberately encoded symbolic content, arguing the file format was too advanced for human creation and therefore of non-human origin.

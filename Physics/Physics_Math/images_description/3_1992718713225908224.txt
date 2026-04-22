@@ -1,0 +1,57 @@
+Type: Color astronomical photograph of Comet 3I/ATLAS (C/2025 N1 ATLAS) — wide-field image from Aguadilla, Puerto Rico on November 22, 2025, showing the comet's vivid green coma against a dark background with numerous star trails.
+
+Technical Parameters (annotated at bottom):
+* Date/Time: November 22nd, 09:27 UT — 2025
+* Object: Comet 3I/ATLAS (labeled at bottom center in yellow text)
+* Equipment: LX200ACF 305mm OTA (12-inch Schmidt-Cassegrain), F6.3 focal reducer, CGX-L Mount, ASI533mm Pro CMOS camera (monochrome, square sensor), EFW8 filter wheel, Astronomik Lum Filter.
+* Location: Aguadilla, Puerto Rico (labeled at lower-right in yellow cursive text)
+* Observer: Efrain Morales Rivera (lower-left, yellow cursive signature)
+
+Overall Image:
+* Square aspect ratio (consistent with ASI533mm square sensor).
+* Very dark background (deep black sky, good site darkness from Puerto Rico).
+* Non-sidereal (comet-tracked) guiding: stars appear as short white streaks/dashes rather than point sources — approximately 15-20 star trails visible scattered across the frame.
+* Some star trails show faint chromatic aberration (red-blue color fringing from the LX200 optics at f/6.3).
+
+Comet Structure:
+* Coma: a vivid, bright MINT GREEN / CYAN-GREEN circular coma, approximately 15-20% of the image width in diameter, positioned at upper-center of the frame (not exactly centered — upper-left quadrant of center).
+  - The green color is the diagnostic signature of the C₂ Swan Band emission at ~516 nm (dicarbon molecules in the inner coma fluorescently excited by solar UV).
+  - The coma has a compact bright core transitioning to a diffuse green outer halo that grades smoothly into the dark background.
+* Nucleus: a bright white-green central condensation at the center of the coma, slightly brighter than the surrounding green coma — the stellar nucleus condensation.
+* Tail: Not clearly visible in this image — either the tail is beyond the field of view, below detection threshold in this broadband Lum filter image, or the November 22nd observation geometry places the tail along a difficult viewing angle. The Astronomik Lum filter passes all visible wavelengths, so both dust and ion tail should be detectable, but neither is prominent.
+* Overall appearance: a compact, round, symmetrical green ball — consistent with the inner coma being the dominant visible feature at this date (November 22, 2025), when the object was 2.02 AU from Earth (per the orbital simulation in 3_1992418747920097280.jpg).
+
+Background Stars:
+* Approximately 15-20 star trails visible as white dashes/streaks:
+  - Most are roughly horizontal (short horizontal streaks of 1-3% of frame width).
+  - One bright blue-white star trail visible at upper-left — likely a magnitude 7-9 star.
+  - Several fainter white trails scattered across the frame.
+  - Some trails show red-blue chromatic fringing (atmospheric dispersion + LX200 chromatic aberration at fast focal ratio).
+* One reddish dot visible near upper-left (a red star or color artifact).
+
+Observer and Location Context:
+* Efrain Morales Rivera is a well-known Puerto Rico amateur astronomer who has contributed many comet images to international databases.
+* Aguadilla is on the northwest coast of Puerto Rico — dark skies facing the Atlantic Ocean, Caribbean site.
+* The LX200ACF 12-inch (305mm) with ASI533mm is a capable planetary/comet imaging rig — the image quality is consistent with amateur but high-end astrophotography.
+
+Annotation (bottom of image, yellow text):
+* Left: "November 22nd," and "Efrain Morales Rivera" (cursive)
+* Center: "Comet 3I/ATLAS"
+* Right: "09:27ut - 2025" and "Aguadilla, Puerto Rico" (cursive)
+* Center-bottom: "LX200ACF 305mm OTA, F6.3, CGX-L Mount, ASI533mm Pro Cmos, EFW8, Astronomik Lum Filter."
+
+RC's Contextual Use:
+* This image is dated November 22, 2025 — the same date as the orbital simulation image (3_1992418747920097280.jpg showing Earth Distance 2.02 AU, Sun Distance 1.604 AU at 2025-11-22 00:00 UTC). RC is documenting the comet's appearance at this specific epoch.
+* The vivid green coma color is a key piece of evidence RC uses for the C₂ emission argument — the intensity and purity of the green color at this distance (1.604 AU from Sun) demonstrates strong dicarbon emission.
+* The Puerto Rico observer (southern hemisphere accessible viewing geometry) provides independent confirmation of 3I/ATLAS's position and appearance from a different geographic location.
+* The non-sidereal tracking (star trails) confirms the comet was tracked as the primary target, consistent with comet imaging protocol.
+
+Text Visible (complete):
+* "November 22nd,"
+* "Comet 3I/ATLAS"
+* "09:27ut - 2025"
+* "LX200ACF 305mm OTA, F6.3, CGX-L Mount, ASI533mm Pro Cmos, EFW8, Astronomik Lum Filter."
+* "Efrain Morales Rivera" (cursive)
+* "Aguadilla, Puerto Rico" (cursive)
+
+Summary: Color astronomical photograph of Comet 3I/ATLAS taken November 22, 2025 at 09:27 UT from Aguadilla, Puerto Rico by Efrain Morales Rivera using a LX200ACF 305mm f/6.3 telescope with ASI533mm CMOS camera and Astronomik Lum filter. The comet appears as a compact, bright mint-green circular coma (~15-20% frame width) at upper-center, with a bright white-green nuclear condensation. Approximately 15-20 star trails visible (non-sidereal tracking). No distinct tail visible. RC uses this to document 3I/ATLAS's vivid green C₂ Swan Band emission appearance from a Southern Hemisphere-accessible site at the same epoch (November 22, 2025) as the orbital simulation showing Earth Distance = 2.02 AU.

@@ -1,0 +1,49 @@
+TYPE: Physics diagram — circular 3-phase generator cross-section with dual-count stator labeling (6 wire coils / 3 wire coils) and blue outer ring; variant of 3_2028696570083082240 series.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. Central circular diagram with colored text labels on left and right sides.
+
+CENTRAL DIAGRAM:
+* Concentric ring structure (from outer to inner):
+  1. Outer black satellite elements (see below)
+  2. Blue ring: thick blue circle outline (stator frame indicator — labeled "3-phase rotating magnetic field U-V-W-U-V-W")
+  3. Black thick ring: outermost part of the stator core (between blue ring and white annulus)
+  4. White annulus: air gap or winding space
+  5. Red ring: thin red circle outline (labeled "central magnet N/S")
+  6. Black inner filled circle: central rotor/magnet body
+
+SATELLITE ELEMENTS (outer coil/pole positions):
+* Approximately 8-9 black filled circles (main stator poles) plus 8-9 smaller black dots (smaller elements between main poles)
+* Each main black filled circle is approximately 10-15% of total diagram diameter
+* Each smaller dot: approximately 5% of total diameter
+* The main circles and smaller dots alternate around the perimeter: large circle, then small dot, then large circle, etc.
+* The large circles are positioned at approximately the 8 major cardinal/intercardinal positions (N, NE, E, SE, S, SW, W, NW — i.e., every 45° for 8 positions total)
+* Positioning: the large circles are positioned slightly outside the blue ring boundary (they extend beyond the main disc)
+* Bottom cluster: three main circles forming a triangular cluster at the bottom (the "3 wire coils" grouping)
+* Left pair: two main circles at 9 o'clock
+* Top pair: two main circles at 12 o'clock
+* Right pair: two main circles at 3 o'clock
+
+TEXT LABELS:
+* Blue (upper-left): "6 wire coils"
+* Blue (upper-right): "3-phase rotating magnetic field U-V-W-U-V-W"
+* Red (left-center): "central magnet N/S"
+* Red (lower-left): "3 wire coils"
+* Red (lower-right): "3-phase rotating magnetic field U-V-W"
+
+DUAL-COUNT LABELING:
+* The diagram simultaneously shows "6 wire coils" (blue, pointing to the 6 main satellite circles at top, left, and right) AND "3 wire coils" (red, pointing to the bottom cluster of 3 circles)
+* This dual labeling suggests: (a) the bottom 3 circles form one 3-phase winding set (primary), while the top/side 6 circles form another winding set (secondary or redundant), or (b) the 3 circles are each one phase (U, V, W) and the 6 circles are the same 3 phases with 2 poles each per phase, or (c) there are two separate generator configurations being shown simultaneously in the same diagram
+
+COMPARISON TO PREVIOUS VARIANTS:
+* 3_2028696570083082240: labeled "3-phase rotating magnetic field U-V-W-U-V-W" (blue upper-right), "central magnet N/S" (red left), "3 wire coils" (red lower-right), "3-phase rotating magnetic field U-V-W" (red lower-right) — similar but without "6 wire coils" label
+* 3_2027422867709898752: labeled "6 wire coils" (blue), "3-phase rotating magnetic field" (blue), "magnet N/S" (red), "3-phase magnetism" (red) — earlier version without U-V-W sequence labels
+* This image combines elements of both: "6 wire coils" from the earlier version + "U-V-W-U-V-W" from the later version + new "3 wire coils" counter-label
+
+PHYSICS INTERPRETATION:
+* The coexistence of "6 wire coils" and "3 wire coils" labels represents the relationship between the outer stator configuration (6 poles: U-V-W-U-V-W) and the inner/alternative configuration (3 poles: U-V-W) — i.e., a full-pitch vs. fractional-pitch winding, or a 6-pole vs. 3-pole machine topology
+* In a 3-phase machine, the minimum stator pole count is 3 (one per phase, 120° spacing); doubling to 6 creates a 6-pole machine (360°/6 = 60° pole pitch) with twice the torque ripple frequency and half the synchronous speed at the same electrical frequency
+* The central "central magnet N/S" label (red) with red ring outline indicates a permanent magnet rotor with both N and S poles on the same disc (bipolar magnet, with N on one face and S on the other for an axial-flux configuration)
+
+OVERALL COMMUNICATION: A circular 3-phase generator cross-section diagram with a dual-count stator labeling: "6 wire coils" (blue) pointing to 6 main satellite circles (upper and side positions) and "3 wire coils" (red) pointing to 3 bottom circles, with blue "3-phase rotating magnetic field U-V-W-U-V-W" labeling the outer blue ring and red "central magnet N/S" labeling the central red-outlined disc. This variant of the generator cross-section diagram shows the relationship between the 3-pole and 6-pole stator configurations for the UAP disc generator design.

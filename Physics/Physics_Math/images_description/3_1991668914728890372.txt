@@ -1,0 +1,36 @@
+Type: False-color processed version of the 3I/ATLAS coma image — the same coma data as 3_1991668742259171328.jpg but with a "hot" or "thermal" false-color mapping applied (white-yellow-orange-red-purple colormap, similar to iron/hot body colormaps).
+
+Overall Image:
+* Very heavily pixelated (large square pixel blocks) — same low-resolution data as the companion image.
+* Left edge: a few black pixels and a small blue pixel block (the unprocessed background corner).
+* The main image fills most of the frame.
+* False-color colormap applied: from center outward:
+  - Innermost pixel(s): pure bright WHITE (maximum intensity — the nucleus/innermost coma)
+  - Inner zone: bright YELLOW (very high intensity)
+  - Inner-middle zone: ORANGE (high intensity)
+  - Middle zone: RED (medium-high intensity)
+  - Outer zone: DARK RED / MAROON (medium intensity)
+  - Far outer zone (approaching background): transitioning toward PURPLE/VIOLET at the frame corners
+
+* This is a "heat map" / "inferno" / "iron bow" false-color rendering — a standard scientific visualization used in astronomy to map intensity values to perceptually distinct colors for analysis.
+* The colormap used is approximately: black → purple → red → orange → yellow → white (from lowest to highest intensity).
+
+Structural Analysis:
+* The coma shape is approximately circular but with a slight left-asymmetry — the left edge of the orange-red zone is slightly more compressed/steeper than the right edge.
+* This asymmetry may indicate:
+  - An asymmetric outgassing/emission pattern from the nucleus
+  - A slight proper-motion direction asymmetry (the active hemisphere facing the Sun is brighter)
+  - Or an asymmetric propulsion/drive emission pattern
+* The pixel blocks at the innermost region (white-yellow) form a 2x2 or 3x3 pixel cluster — the point spread function of the observatory is approximately 2-3 pixels wide, consistent with a Hubble-class or Mars orbiter instrument.
+
+RC's Contextual Use:
+* The false-color "heat map" rendering of the 3I/ATLAS coma allows intensity contour mapping — the yellow-orange-red-purple concentric zones directly correspond to specific flux levels.
+* The approximately circular, concentrically symmetric intensity distribution is consistent with either:
+  - A cometary coma from spherically symmetric gas/dust outflow (consistent with conventional cometary physics), OR
+  - An electromagnetic emission envelope from a spherically symmetric drive system
+* The left-asymmetry (slight compression on the left = solar direction side, expansion on the right = anti-solar tail direction) is consistent with both the solar wind pressure argument (conventional coma) and with a craft accelerating toward the Sun (enhanced emission from the leading hemisphere).
+* RC uses the false-color rendering to make the concentration gradient visually clear — the white nucleus vs. the purple outer envelope represents the extreme intensity contrast.
+
+No text visible in the image (annotations from 3_1991668742259171328.jpg have been cropped out in this version, showing only the false-color processed coma data).
+
+Summary: False-color "heat map" processed version of the 3I/ATLAS coma data from 2025 Oct 09 (companion to 3_1991668742259171328.jpg). The "inferno/iron bow" colormap renders intensity as: white nucleus (maximum) → yellow (very high) → orange (high) → red (medium-high) → dark red/maroon (medium) → purple-violet (low) at the coma periphery. Slight left-asymmetry in the coma shape (left/solar-direction edge slightly steeper/brighter). RC uses this false-color visualization to make the coma intensity gradient explicit — the concentric color zones map the emission distribution consistent with either conventional cometary physics or electromagnetic ring drive emission.

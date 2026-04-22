@@ -1,0 +1,47 @@
+Type: Inverted grayscale wide-field astronomical photograph of 3I/ATLAS (C/2025 N1 ATLAS) — showing a large, well-developed comet with a prominent dark nucleus blob (lower-left), a narrow elongated ion tail (upper-right extension), and numerous inverted star trails and satellite streaks across the frame.
+
+Overall Image:
+* White background (color-inverted: dark sky → white, bright sources → dark).
+* Wide landscape orientation, approximately 4:3 or 5:4 ratio.
+* The image is somewhat noisier/grainier than companion inverted grayscale images — the background has significant mottled grey-white noise texture, suggesting a less deep stack or more aggressive stretch.
+* Non-sidereal (comet-tracked) guiding: background stars appear as elongated dark dashes/streaks rather than point sources.
+
+Comet Structure:
+
+Nucleus/Inner Coma:
+* Lower-left quadrant: the nucleus condensation appears as a large DARK SOLID BLOB (the inverted bright nucleus) — approximately 5-8% of the image width in diameter.
+* The nucleus blob is well-separated from the surrounding coma — distinct and compact, slightly irregular in shape (not perfectly circular, with a slight elongation toward the upper-right consistent with the inner coma direction).
+* Immediately surrounding the nucleus: a diffuse grey inner coma zone — the gradient transitions from dark nucleus → medium dark grey inner coma → lighter grey outer coma.
+
+Tail:
+* From the nucleus, extending toward the upper-right of the frame: a faint but clear NARROW ELONGATED FEATURE — the comet's ion tail.
+* The tail appears as a long, narrow, slightly diagonal dark streak extending approximately 30-40% of the frame width from the nucleus toward the upper-right.
+* The tail has a fibrous or slightly structured appearance — not completely smooth but with hints of internal structure (possibly multiple ion tail streamers).
+* At the upper-right terminus of the tail, the tail structure widens slightly or disperses into a cloud-like grey region.
+
+Background Objects:
+
+Star Trails:
+* Approximately 30-40 dark elongated oval/dash-shaped star trails scattered across the frame — more numerous than in some companion images, suggesting a longer total integration time or wider field.
+* Star trail orientations are approximately uniform (all oriented in the same direction — slightly diagonal), confirming consistent non-sidereal tracking throughout the observation session.
+* Star trail sizes range from small dots (faint background stars) to larger dashes (brighter stars).
+
+Satellite/Spacecraft Streaks:
+* Two or more darker, longer linear diagonal streaks visible in the upper-right quadrant — these are longer than star trails and cross the field at a different angle. These are likely satellite or aircraft trails captured during individual sub-exposures.
+
+Noise and Background:
+* The background has a significant granular/mottled texture — grey speckle pattern throughout the nominally white background. This is the detector noise and background sky gradient being revealed after the stretch and inversion.
+
+Physical Interpretation:
+* The prominence of the tail in this image (compared to some other images in the series where the tail is barely visible) suggests this is either a later epoch when 3I/ATLAS had developed more tail activity, or a longer integration at a darker site that reveals the fainter tail structure.
+* The narrow, straight ion tail (CO⁺ emission, ~420nm, directed away from the Sun) vs. the more diffuse coma (C₂ emission, ~516nm) creates a morphological distinction visible even in this monochrome image.
+* The tail width and length are measurable relative to the stellar background for scale — providing quantitative data on the physical scale of the ion tail.
+
+RC's Contextual Use:
+* This image shows the most tail-prominent view of 3I/ATLAS in the inverted grayscale series — RC uses this to demonstrate that the ion tail structure is real and directional (consistent with solar wind pressure directing the tail anti-sunward).
+* The narrow, linear tail is the key evidence for an ion tail rather than a dust tail: ion tails are nearly perfectly straight (directed by the interplanetary magnetic field), while dust tails are broader and curved.
+* The presence of a well-developed straight ion tail at this point in 3I/ATLAS's orbit (inside the asteroid belt, 1.6 AU from the Sun) is consistent with solar wind interaction — but the intensity of the tail at this distance may be anomalous for a regular comet.
+
+Text Visible: None visible.
+
+Summary: Wide-field inverted grayscale astronomical photograph of Comet 3I/ATLAS showing: (lower-left) large dark nucleus blob (inverted bright nucleus condensation, ~5-8% frame width), surrounded by diffuse grey coma; extending toward upper-right: a narrow elongated ion tail (~30-40% of frame width). Background: ~30-40 dark star trails at consistent orientation (non-sidereal tracking), 2+ satellite/spacecraft streak trails, moderate background noise/mottled grey texture. RC uses this to document the ion tail morphology — its narrow, straight structure confirming CO⁺ ion tail directed anti-sunward by solar wind, and its development at 1.6 AU from the Sun.

@@ -1,0 +1,45 @@
+Type: False-color inverted/processed astronomical image of Comet 3I/ATLAS — color-inverted and false-color enhanced version of the same November 22, 2025 comet data, showing a pink-magenta gradient coma on a near-white background with inverted star trails.
+
+Overall Image:
+* Wide landscape orientation (approximately 2.5:1 width-to-height ratio) — wider crop of the same data set as 3_1992718713225908224.jpg.
+* Light/near-white background (color inversion of the dark sky background).
+* False-color heat-map or color-inversion processing applied.
+
+Color-Inversion and False-Color Processing:
+* The dark sky background → near-white/pale cream background (inversion).
+* The green comet coma → PINK/MAGENTA/PURPLE spectrum (complementary color to green = magenta in color inversion).
+* The bright white nuclear condensation → SMALL BLACK DOT at the center (inversion of white → black).
+* Star trails → inverted: bright white stars become dark black dashes on the white background.
+
+Coma Structure in False Color:
+* The coma occupies the left-center of the wide frame — a large elliptical gradient blob.
+* Color gradient from center outward:
+  - Innermost: small solid black dot (the inverted bright nucleus — approximately 1-2% of frame width).
+  - Inner zone immediately around the nucleus: deep RED-ORANGE region (the inverted brightest coma zone).
+  - Surrounding the red-orange: BRIGHT PINK / HOT PINK (the main inner coma zone).
+  - Outer zone: MEDIUM PINK → PALE PINK → FADING TO WHITE at the outer edge.
+  - The overall gradient: black nucleus → red → hot pink → medium pink → pale pink → white background.
+* The coma has a slightly ELLIPTICAL shape — wider in the horizontal dimension than vertical, suggesting a faint tail extension toward the right (anti-solar direction).
+* The coma extends approximately 30-35% of the image width and 50-60% of the image height.
+* A faint BLUE-VIOLET fringe is visible around the inner red-orange zone (between the red core and the hot pink outer zone) — this is either a color quantization artifact or represents the blue CO⁺ ion coma contribution being processed differently from the green C₂ coma.
+
+Star Trails (Inverted):
+* Approximately 6-8 inverted star trails visible as small dark dash/oval shapes on the white background.
+* Each trail is dark black (inverted from white) with possible faint color fringing.
+* Positioned scattered around the frame (not concentrated at any particular location).
+* Star trails are shorter than in the original — possibly a shorter sub-exposure stack or different frame crop.
+
+Physical Interpretation:
+* The color inversion + false-color heat map reveals the radial profile of the coma brightness: the color gradient is a visual representation of the surface brightness profile I(r) of the coma as a function of radial distance r from the nucleus.
+* The nuclear inversion to black means the nucleus condensation was saturated or near-saturated in the original exposure — the inverted black dot is a processing saturation artifact.
+* The blue-violet fringe between the red core and pink outer zone may represent a real color gradient in the coma: the innermost coma (closest to the nucleus) may have a different molecular excitation temperature than the outer coma, with different molecular emission bands dominating at different radii.
+* In a standard comet color image: the inner coma (near nucleus) is dominated by direct solar reflection from dust grains (white/yellow) while the outer coma is dominated by molecular emission (green for C₂, blue for CO⁺). In color inversion: yellow/white → purple/black, green → magenta/pink, blue → orange/red. The observed gradient (black → red → pink → white) is consistent with this interpretation.
+
+RC's Contextual Use:
+* RC uses the false-color processed version of the same November 22, 2025 image to reveal the radial color structure of 3I/ATLAS's coma.
+* The prominent dark black nucleus in the inverted image is key: it shows the nucleus was bright enough to saturate the coma in the original — indicating an unusually active or unusually luminous nucleus for an object at 1.604 AU from the Sun.
+* The slight ellipticity of the coma (wider than tall) hints at a nascent tail structure even at this post-perihelion outbound distance.
+
+Text Visible: None (no annotations or labels on this image).
+
+Summary: False-color color-inverted wide-format astronomical image of Comet 3I/ATLAS (November 22, 2025 data from Efrain Morales Rivera / Aguadilla, Puerto Rico). Processing: color inversion + false-color enhancement producing: near-white sky background, central black dot (inverted saturated nucleus), surrounded by deep red-orange inner coma → hot pink → medium pink → pale pink gradient fading to white. Slight horizontal ellipticity suggests faint tail extension. Blue-violet fringe between red core and pink outer coma (possible molecular excitation gradient). ~6-8 inverted star trails as dark dashes on white background. No text. RC uses this to reveal the radial brightness profile and color gradient of 3I/ATLAS's coma in false-color, highlighting the strong nuclear condensation and the layered molecular emission structure.

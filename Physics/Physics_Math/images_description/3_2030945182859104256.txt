@@ -1,0 +1,49 @@
+TYPE: Physics diagram — circular 3-phase generator cross-section with green pointer lines indicating "3 wire coils" at top group; dual-count labeling (3/6 wire coils); variant of 3_2030517955226984449.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. Central circular concentric diagram with satellite circles. Colored text labels. Two green diagonal lines pointing from upper labels toward the central element.
+
+CENTRAL DIAGRAM:
+* Same concentric ring structure as 3_2030517955226984449:
+  - Blue outer ring (stator frame)
+  - Black thick outer ring (stator core)
+  - White annulus (air gap / winding zone)
+  - Red inner circle outline (central magnet N/S boundary)
+  - Black inner filled circle (central rotor/magnet)
+
+SATELLITE ELEMENTS:
+* Same arrangement as 3_2030517955226984449: approximately 8 large black satellite circles + small black dots at intercardinal positions
+* Top cluster: 3 circles in triangular cluster (pointing upward) — the top satellite group
+* Left pair: 2 circles at 9 o'clock
+* Right pair: 2 circles at 3 o'clock
+* Bottom cluster: 3 circles in triangular cluster (pointing downward)
+
+GREEN POINTER LINES (key new feature):
+* Two diagonal green lines originate from the upper region of the diagram
+* Line 1: starts from upper-left text area, angles down-right to point toward the upper satellite circle cluster at the top of the diagram
+* Line 2: starts from upper-right text area, angles down-left to point toward the same top cluster or the central red circle
+* Both lines converge toward the "3 wire coils" top cluster and/or the central element
+* The green lines are annotation pointer arrows indicating: "the 3 top satellite circles = 3 wire coils"
+* Additionally, a small green "V" (chevron/downward pointer) is visible inside the central black circle area, pointing downward — confirming the green lines point to specific internal elements
+
+TEXT LABELS:
+* Red (upper-left, with green pointer): "3 wire coils"
+* Red (upper-right, with green pointer): "3-phase rotating magnetic field U-V-W"
+* Blue (lower-left): "6 wire coils"
+* Blue (lower-right): "3-phase rotating magnetic field U-V-W-U-V-W"
+
+ANNOTATION DIFFERENCE FROM 3_2030517955226984449:
+* 3_2030517955226984449: labels are at lower-left ("3 wire coils") and upper-left ("6 wire coils") without pointer lines
+* This image: green pointer lines connect the text labels to specific satellite elements — making the attribution explicit: the top 3 circles = "3 wire coils (U-V-W)," and the full set of 6 circles = "6 wire coils (U-V-W-U-V-W)"
+* The green "V" inside the central circle likely points toward the bottom cluster (lower 3 circles = another 3-coil set)
+
+PHYSICS INTERPRETATION:
+* The green pointer lines clarify the 3-vs-6 coil ambiguity seen in the previous variants:
+  - The 3 top circles form one 3-phase winding (U, V, W) — the primary stator winding
+  - The 6 circles total (3 top + 3 bottom) form the complete 6-pole stator (U-V-W-U-V-W phase sequence)
+  - The 2 circles at each side (left pair, right pair) form the intermediate poles
+* Or alternatively: the top 3 = "3 wire coils" is the simplified/inner winding, while "6 wire coils" = the full 6-pole outer configuration
+* The central green "V" inside the rotor disc suggests a directional indicator for the rotation direction or field polarity
+
+OVERALL COMMUNICATION: A circular 3-phase generator cross-section diagram with two diagonal green pointer lines explicitly connecting the "3 wire coils" and "3-phase rotating magnetic field U-V-W" labels to the top cluster of 3 satellite circles. The diagram clarifies the relationship between the 3-pole (primary, top cluster) and 6-pole (full ring, U-V-W-U-V-W) winding configurations of the UAP disc generator design.

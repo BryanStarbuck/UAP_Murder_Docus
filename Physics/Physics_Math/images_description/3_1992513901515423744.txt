@@ -1,0 +1,50 @@
+Type: Educational schematic diagram — black-on-white diagram of a rotating magnetic field / electromagnetic ring drive system, showing a ring of 12 pole elements (alternating filled-arc petal shapes) surrounding a central concentric-ring target, with color-coded text annotations in red and green.
+
+Overall Image:
+* White background.
+* Black filled shapes for the main structural elements.
+* Red text for one annotation, green text for two annotations.
+* Symmetrical circular layout: entire diagram has 12-fold or near-12-fold rotational symmetry.
+
+Outer Ring — 12 Electromagnetic Pole Elements:
+* Twelve black filled shapes arranged in a ring at the outer perimeter of the diagram.
+* Each element has a characteristic "petal" or "rounded arc" shape — a crescent or Reuleaux-like form, wider at the outer edge and narrowing toward the center ring.
+* Between adjacent petal elements: white gap regions — the inter-pole spaces where the rotating field's null zones would occur.
+* The twelve petals are evenly spaced at ~30° intervals (360°/12 = 30° per pole).
+* This outer ring of twelve pole elements represents the stator of a 12-pole rotating electromagnetic field generator — a key topology for multi-phase electromagnetic ring drives.
+* For a 3-phase system with 12 poles: each phase controls 4 poles, with poles at 0°, 90°, 180°, 270° for each phase (or equivalently, 4 groups of 3 poles at 120° spacing within each group).
+
+Central Element — Concentric Ring Target:
+* At the center of the outer ring: a nested concentric circle structure with approximately 3-4 rings of decreasing diameter toward the center.
+* Innermost element: a small black filled circle (the "ball" at the center — labeled in green).
+* Below the innermost ball: a short black vertical connection element (resembling a narrow stem or pin) connecting the ball to a larger black node — this is the "pole" element (labeled in green).
+* The concentric rings around the central ball suggest the magnetic field topology lines — the magnetic flux lines curving inward around the central levitated ball.
+
+Text Annotations:
+* RED text — upper-left: "rotating / magnetic / field" — labels the physical phenomenon being depicted: a rotating magnetic field created by energizing the 12 outer poles in sequence.
+* GREEN text — center-right of inner concentric region: "ball" — labels the central object being levitated or rotated by the field (analogous to the galinstan ball or a permanent magnet sphere).
+* GREEN text — center-bottom (within the concentric ring, below the ball): "pole" — labels the connection point at the bottom, representing the south or north pole of the magnetic interaction at the base.
+* RED text — right-center (outside the outer ring): "magnet 2 / N/S" — labels the secondary magnet element whose pole orientation is N on top, S on bottom (or the reverse).
+
+Physical Interpretation:
+* This diagram shows the cross-sectional top view of a 12-pole rotating electromagnetic field system.
+* The 12 outer petal-shaped elements are the electromagnet poles (stators); when energized in sequence with phase-shifted AC currents, they create a rotating magnetic field that sweeps around the circumference.
+* The central "ball" (sphere or conducting liquid like galinstan) sits within this rotating field and is set into rotation by the Lorentz force (eddy current interaction).
+* The "pole" connector at the bottom of the central ball suggests the ball is suspended or coupled to a fixed point — potentially representing the bottom magnet (magnet 1) coupling axis.
+* The concentric rings at the center represent the magnetic field strength contours (flux density as a function of radial distance from the center) — a classic visualization of the magnetic potential well that traps and spins the central object.
+* "Magnet 2 N/S" refers to the top magnet (as established in the companion galinstan schematic 3_1992513865008168962.jpg): the secondary magnet levitated above the galinstan pool by the rotating field.
+
+RC's Contextual Use:
+* This is a more refined/detailed version of the 12-pole rotating magnetic field topology compared to the earlier 3-phase diagrams.
+* 12 poles with 3 phases = 4 poles per phase at 90° intervals — creating a very smooth rotating field with minimal torque ripple, ideal for stable levitation.
+* The circular outer ring topology matches the Schirmer ring-of-electromagnets description: a ring of electromagnets wired to create an alternating N-S pattern around the circumference.
+* RC uses this to argue the UAP ring drive uses a multi-pole rotating electromagnetic field — the "ball" at center being analogous to the spacecraft's core (or the pilot's seat), and the outer ring being the electromagnetic drive ring.
+* The "pole" connection at the bottom of the central ball connects this to the galinstan demonstration: the pole is the physical coupling point of the spinning system to a fixed reference.
+
+Text Visible (complete):
+* "rotating magnetic field" (red, upper-left)
+* "magnet 2 N/S" (red, right-center)
+* "ball" (green, center)
+* "pole" (green, center-bottom within concentric rings)
+
+Summary: Black-on-white educational schematic of a 12-pole rotating magnetic field / electromagnetic ring drive system: 12 black petal-shaped stator elements arranged in an outer ring at 30° intervals, surrounding a central concentric-ring structure (3-4 nested rings) with a small filled black "ball" at the very center and a narrow "pole" connector below it. Red text labels: "rotating magnetic field" (upper-left) and "magnet 2 N/S" (right). Green text labels: "ball" (center) and "pole" (center-bottom). RC uses this to illustrate the 12-pole rotating electromagnetic field topology of the proposed UAP ring drive — the 12 stator poles (3-phase, 4 poles per phase at 90° spacing) create a smooth rotating field that both spins and levitates the central object (galinstan ball or secondary magnet), directly analogous to the Schirmer ring-of-electromagnets propulsion system.

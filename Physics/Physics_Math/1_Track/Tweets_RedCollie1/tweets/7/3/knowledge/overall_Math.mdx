@@ -1,0 +1,283 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+
+Source: Tweets by Red Collie (Dr. Horace Drew), @RedCollie1, Caltech / MRC LMB Cambridge.
+Extracted from: tweets/7/3/ directory.
+
+---
+
+## 1. 3-Phase Rotating Magnetic Field — Mathematical Derivation
+
+Source: YAML 2017877032907247916, YAML 2021005921309385050, MDX 13_2017872609355116544_video.mdx
+
+### Phase Currents
+
+Three coils displaced 120° apart in physical space carry currents:
+
+    I_A(t) = I₀ sin(ωt)
+    I_B(t) = I₀ sin(ωt + 2π/3)
+    I_C(t) = I₀ sin(ωt + 4π/3)
+
+Each coil i produces a magnetic field B_i(t) = B₀ sin(ωt + φᵢ) along its own axis n̂ᵢ,
+where φ_A = 0, φ_B = 2π/3, φ_C = 4π/3.
+
+Defining coil axes in the XY-plane:
+    n̂_A = x̂,  n̂_B = -x̂/2 + √3ŷ/2,  n̂_C = -x̂/2 - √3ŷ/2
+
+Total field (superposition):
+    B(t) = B₀ [ sin(ωt) x̂
+              + sin(ωt + 2π/3)(-x̂/2 + √3ŷ/2)
+              + sin(ωt + 4π/3)(-x̂/2 - √3ŷ/2) ]
+
+Expanding with trigonometric identities sin(A+B) = sinA cosB + cosA sinB:
+
+    B_x(t) = B₀ [sin(ωt) - (1/2)sin(ωt + 2π/3) - (1/2)sin(ωt + 4π/3)]
+            = B₀ sin(ωt) [1 - (1/2)cos(2π/3) - (1/2)cos(4π/3)]
+            - B₀ cos(ωt) [(1/2)sin(2π/3) + (1/2)sin(4π/3)]
+            = B₀ sin(ωt) [1 + 1/4 + 1/4] - B₀ cos(ωt) [√3/4 - √3/4]
+            = (3/2) B₀ sin(ωt)
+
+    B_y(t) = B₀ [(√3/2)sin(ωt + 2π/3) - (√3/2)sin(ωt + 4π/3)]
+            = (√3 B₀/2) [sin(ωt + 2π/3) - sin(ωt + 4π/3)]
+            Using sum-to-product: sin(A) - sin(B) = 2cos((A+B)/2)sin((A-B)/2)
+            A+B = 2ωt + 2π, A-B = 2π/3... etc.
+            Result: B_y(t) = -(3/2) B₀ cos(ωt)
+
+    Therefore:
+    B(t) = (3/2) B₀ [sin(ωt) x̂ - cos(ωt) ŷ]
+          = (3/2) B₀ [cos(ωt - π/2) x̂ + cos(ωt + π) ŷ] ... (rotates clockwise)
+    or equivalently (choosing phase convention):
+    B(t) = (3/2) B₀ [cos(ωt) x̂ + sin(ωt) ŷ]  (counter-clockwise)
+
+Magnitude: |B| = (3/2) B₀ = constant.
+
+Conclusion: The 3-phase coil arrangement produces a rotating field of CONSTANT magnitude
+(3/2)B₀ rotating at angular frequency ω in the XY-plane. This is the key mathematical
+property distinguishing 3-phase from single-phase (which produces oscillating, not rotating,
+field of varying magnitude).
+
+---
+
+## 2. Torque on Magnetic Dipole in Rotating Field
+
+Source: YAML 2017877032907247916, YAML 1978591957686661487
+
+### Synchronous Torque
+
+A magnetic dipole moment m in field B experiences:
+    τ = m × B
+
+For a ring magnet spinning at angular velocity ω_m about Z-axis (synchronized to field):
+    m = m (sin θ cos(ω_m t) x̂ + sin θ sin(ω_m t) ŷ + cos θ ẑ)
+
+where θ is the angle between m and the Z-axis.
+
+If ω_m = ω (synchronous): the torque τ = m × B(t) has a constant component in the ẑ direction
+driving continuous rotation. The synchronous torque (pull-out torque) is:
+    τ_max = m × (3/2) B₀
+
+For the magnet to spin at ω, the applied field must supply enough torque to overcome friction
+and any magnetic braking (homopolar effect).
+
+---
+
+## 3. Gyroscopic Precession — Force Redirection
+
+Source: YAML 2017877032907247916 (note_tweet)
+
+### Angular Momentum of Spinning Flywheel
+
+    L = I Ω ẑ   (spinning flywheel, moment of inertia I, spin rate Ω)
+
+where ẑ is the flywheel spin axis (vertical, for a horizontal flywheel).
+
+### Applied Torque from Newton 3rd Law Reaction
+
+If a downward force F_down = -F ẑ is applied at radius r from the flywheel center:
+    τ_applied = r × F_down = r x̂ × (-F ẑ) = rF ŷ   (or similar, depending on direction)
+
+### Resulting Precession
+
+    dL/dt = τ_applied
+    dΩ_precession / dt = τ_applied / |L| = rF / (I Ω)
+
+Precession occurs in the horizontal (XY) plane, at angular velocity:
+    Ω_p = τ_applied / |L| = rF / (I Ω)
+
+Physical consequence: the downward force F_down causes the flywheel to precess horizontally,
+NOT to move downward. The Z-component of motion is eliminated; the force is "redirected" into
+the XY-plane as precession. This is the mechanism Drew proposes for cancelling the Newton
+reaction force.
+
+### Quantitative Condition for Full Redirection
+
+For the precession to fully absorb the reaction without significant Z-axis displacement:
+    Ω_p << Ω   (gyroscopic approximation valid)
+    i.e., rF << I Ω²
+
+This requires fast spin (large Ω) and/or large moment of inertia (large I) of the counter-
+spinning flywheel. Drew states the flywheel must be "fast-spinning" for this to work.
+
+---
+
+## 4. Homopolar Generator / Faraday Disk — Induced EMF and Force
+
+Source: YAML 1978591957686661487 (note_tweet), txt file 3_1978591003490848768.txt
+
+### Induced EMF in Rotating Conducting Disk
+
+For a conducting disk of radius R rotating at angular velocity ω_d about its axis (Z-axis)
+in an axial magnetic field B_z:
+
+The motional EMF for a radial element dr at radius r:
+    dV = v × B · dr̂ = (ω_d r) × B_z · dr = ω_d B_z r dr
+
+Total EMF from center to rim:
+    V = ∫₀ᴿ ω_d B_z r dr = (1/2) ω_d B_z R²
+
+### Current and Force
+
+If the circuit resistance is R_c:
+    I_rad = V / R_c = ω_d B_z R² / (2 R_c)
+
+The axial Lorentz force on the radial current in the field B_z:
+    F_z = ∫ I_rad × B_z × 2πr dr / R  (integrated over disk)
+
+Simplified: the electromagnetic braking torque on the disk is:
+    τ_brake = B_z² R⁴ ω_d / (4 R_c)
+
+This opposes rotation (Lenz's law). The corresponding axial force component (the "Lorentz
+homopolar force" cited by Drew as the counter-spin / downward reaction in the UFO model)
+depends on the coupling geometry.
+
+### Railgun Force (Linear)
+
+For a linear railgun with rail separation d, rail radius r_rail, current I:
+    F_Lorentz = (μ₀ I² / π) ln(d / r_rail)   [inductance gradient formula]
+
+This is the force on the projectile. In the circular railgun variant (trefoil crop circle
+encoding), the force is tangential, producing torque rather than linear thrust.
+
+---
+
+## 5. Bore-to-Rod Diameter Ratio — Critical Parameter
+
+Source: MDX 13_2007699282548404229_video.mdx
+
+Experimental results (stated):
+
+    Rod diameter: d_rod = 5 mm
+    Magnet bore: d_bore
+
+    d_bore = 5 mm → no rise (mechanical coupling, pushes against rod)
+    d_bore = 6 mm → partial rise, orientation-dependent
+    d_bore = 8 mm → rises in BOTH orientations (vacuum interaction)
+
+The ratio d_bore / d_rod:
+    5/5 = 1.0  → no effect
+    6/5 = 1.2  → partial
+    8/5 = 1.6  → full effect
+
+This suggests a threshold ratio somewhere between 1.2 and 1.6 below which the magnet
+pushes against the rod, and above which it "pushes against the vacuum." No theoretical
+derivation of the threshold is given; it is established experimentally.
+
+---
+
+## 6. Physical Constants — Precision as Argument for Determinism
+
+Source: YAML 1927154646998495336 (note_tweet)
+
+Values cited:
+
+    Electron anomalous magnetic moment (g-factor):
+        g/2 = 1.0011596...  (Drew cites "1.0011596")
+        Current experimental value: g/2 = 1.00115965218073(28)  [CODATA 2018]
+        QED theoretical prediction: g/2 = 1 + α/(2π) + O(α²) + ...
+        where α = 1/137.035999...
+
+    Fine-structure constant:
+        α = e²/(4πε₀ ℏc) = 1/137.035999084(21)  [CODATA 2018]
+        Drew cites "137.035999" (the inverse α⁻¹)
+
+Drew's mathematical argument:
+    If physics is deterministic and particles are well-defined 4D objects, then
+    dimensionless constants (like α and g/2) are calculable from first principles
+    to arbitrary precision. The fact that they ARE measured to 10+ significant figures
+    and match QED predictions is consistent with underlying determinism.
+
+    Counter-argument (not stated by Drew): QED itself predicts these values from
+    quantum field theory, which is inherently probabilistic. The precision is a success
+    of QFT, not evidence against it.
+
+---
+
+## 7. Resonant Frequency Model of Lepton Masses
+
+Source: YAML 1942004654336078127
+
+Referenced model: "Three resonant frequencies of a 'Higgs cantilever' may explain the
+masses of an electron, muon, tau" (YouTube: https://youtu.be/K1xwOcadoMQ).
+
+Known mass ratios to explain:
+    m_μ / m_e = 105.66 / 0.511 ≈ 206.77
+    m_τ / m_e = 1776.86 / 0.511 ≈ 3477.2
+    m_τ / m_μ = 1776.86 / 105.66 ≈ 16.82
+
+For a cantilever beam (clamped-free boundary conditions), the resonant frequencies are:
+    f_n = (β_n L)² / (2π L²) × √(EI / ρA)
+    where β_n L = 1.875, 4.694, 7.855, ... for n = 1, 2, 3
+    Frequency ratios: f₂/f₁ = (4.694/1.875)² ≈ 6.27
+                      f₃/f₁ = (7.855/1.875)² ≈ 17.5
+
+Note that f₃/f₁ ≈ 17.5 is close to m_τ/m_μ ≈ 16.82 — this rough agreement may be what
+motivates the model. The full derivation is in the referenced video, not in the source text.
+
+---
+
+## 8. 3I/ATLAS Orbital Mechanics
+
+Source: YAML 1949622477673652701, YAML 1952947409220448390
+
+    Perihelion distance: r_p = 1.36 AU = 2.03 × 10¹¹ m
+    Interstellar velocity (typical): v_∞ ~ 40–130 km/s (Drew cites 130,000 mph ≈ 58 km/s)
+    
+    Velocity at perihelion (vis-viva, hyperbolic):
+        v_p = √(v_∞² + 2GM_☉/r_p)
+        GM_☉ = 1.33 × 10²⁰ m³/s²
+        v_p = √((58,000)² + 2 × 1.33×10²⁰ / 2.03×10¹¹)
+            = √(3.36×10⁹ + 1.31×10⁹)
+            = √(4.67×10⁹)
+            ≈ 68,300 m/s ≈ 68 km/s
+
+    For the object to "brake" and redirect toward Earth, required ΔV:
+        ΔV ~ 68 km/s (order of magnitude)
+    
+    This is far beyond any known propulsion system but consistent with a vehicle having
+    advanced propulsion (Drew's interpretation: ET craft using 3I/ATLAS as cover).
+
+---
+
+## 9. CT Scan Hounsfield Units — Material Inference
+
+Source: txt file 3_1922921285467684864.txt
+
+For the Buga sphere CT scan:
+
+    Bright white region (interior matrix): near-maximum Hounsfield units.
+        HU ~ 1000+ (comparable to dense metal/bone).
+        For reference: HU(water) = 0, HU(cortical bone) ≈ 700–3000, HU(lead) >> 3000.
+        Suggests a very dense metallic material (possibly a heavy metal alloy).
+
+    Reddish-brown internal inclusion: intermediate HU.
+        HU ~100–400 range (intermediate between soft tissue and bone).
+        Could indicate: different metal alloy, partially filled cavity, or a composite
+        material with intermediate X-ray attenuation coefficient μ.
+        Attenuation: I = I₀ e^(-μx), where μ (linear attenuation coefficient) is
+        lower for the inclusion than for the surrounding matrix.
+
+    Mushroom-shaped geometry: Drew's hypothesis that this is a solid-state Tesla coil.
+        A Tesla coil consists of: primary winding (flat disk/pancake shape) at the base,
+        secondary winding (tall cylinder) above — a "mushroom cap" (secondary) on a "stem"
+        (connecting region) on a "base" (primary). This geometric match motivates the
+        solid-state Tesla coil interpretation.

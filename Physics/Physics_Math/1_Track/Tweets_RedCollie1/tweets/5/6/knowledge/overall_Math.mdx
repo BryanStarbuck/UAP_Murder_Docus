@@ -1,0 +1,218 @@
+# UAP Physics — Mathematical Framework
+## Source Directory: tweets/5/6/
+
+---
+
+## Source: 1913009152957587676.yaml / note_tweet
+
+### Experimental Measurement — Rising Force
+
+Measured result:
+- F_z = 1000 g = 1 kg × 9.81 m/s² = 9.81 N (upward force on aluminum rod)
+- f = 17 Hz (drive frequency of 3-phase coils)
+- ω = 2πf = 2π × 17 ≈ 106.81 rad/s
+- P_in = 250 W
+
+**Power-to-force ratio:**
+η = F_z / P_in = 9.81 N / 250 W = 0.039 N/W = 39 mN/W
+
+**Comparison benchmarks:**
+- Ion thruster: ~60 mN/W
+- Hall-effect thruster: ~50 mN/W
+- Chemical rocket: ~10-20 mN/W
+- Photon rocket (theoretical limit): 3.3 mN/W (= 1/c per watt)
+
+**If the force is real and not a measurement artifact:** 39 mN/W places this device in the realm of high-efficiency electrostatic/electromagnetic thrusters. The output force direction is vertical (Z), and the input is electromagnetic rotational, suggesting electromechanical transduction of rotational energy to translational thrust.
+
+---
+
+## Source: 1926418714796163447.yaml / note_tweet
+
+### Jumping Ring (AC Induction Levitation) — Force Equations
+
+For a conducting ring (or loop) of resistance R, self-inductance L_ring, and mutual inductance M with the driving coil:
+
+EMF_induced = -M dI_primary/dt = -MωI₀cos(ωt)
+
+Induced current in ring: I_ring = (MωI₀) / √(R² + ω²L²) × sin(ωt + φ), where φ = arctan(ωL_ring/R)
+
+Time-averaged upward force:
+<F_z> = (μ₀ π a² b² I₀² ω² M²) / (2(R² + ω²L²) d⁴)   [approximate for coaxial loops separated by distance d]
+
+where a = radius of primary coil, b = radius of ring.
+
+For mercury pool as a distributed conducting disk of radius r_pool and thickness h_pool:
+- Effective resistance: R_eff ≈ 1/(σ_Hg π h_pool) (skin depth limited at high frequency)
+- Skin depth in mercury at 17 Hz: δ = √(2/(μ₀ σ_Hg ω)) = √(2/(4π×10⁻⁷ × 10⁶ × 2π×17)) ≈ √(2/0.134) ≈ 3.9 mm
+- For mercury pools deeper than ~4 mm, field penetration is skin-depth limited at 17 Hz
+
+### Faraday Homopolar Motor for Mercury — Force per Unit Volume
+
+**Lorentz body force density in mercury:**
+f_vol = J × B [N/m³]
+
+For radial current density J = J_r r̂ and axial B = B_z ẑ:
+f_vol = J_r B_z (r̂ × ẑ) = -J_r B_z θ̂
+
+Net tangential force on mercury annulus between r₁ and r₂, height h:
+F_θ = ∫∫∫ f_vol dV = J_r B_z h ∫_{r₁}^{r₂} ∫_0^{2π} r dr dθ = π J_r B_z h (r₂² - r₁²)
+
+Torque about axis:
+τ = ∫_{r₁}^{r₂} J_r B_z h 2π r² dr = (2π J_r B_z h / 3)(r₂³ - r₁³)
+
+Terminal angular velocity (when viscous drag balances electromagnetic torque):
+For mercury viscosity μ_Hg = 1.526×10⁻³ Pa·s, at high Reynolds number: turbulent regime, drag ~ ρ ω² r⁴
+
+---
+
+## Source: 1956301805295685831.yaml / note_tweet
+
+### Geodesic Equation and Spacetime Curvature Modification by Spin
+
+**Standard GR geodesic:**
+d²xᵘ/dτ² + Γᵘ_αβ (dxᵅ/dτ)(dx^β/dτ) = 0
+
+where Γᵘ_αβ = (1/2) gᵘᵛ (∂_α g_βν + ∂_β g_αν - ∂_ν g_αβ) are the Christoffel symbols.
+
+For a weak gravitational field (Newtonian limit), the dominant term gives:
+Γⁱ_00 = -(1/2c²) ∂ᵢΦ_Newtonian, so d²xⁱ/dt² ≈ -∂ᵢΦ = g (downward acceleration)
+
+**Lense-Thirring frame dragging (Kerr metric weak-field limit):**
+Off-diagonal metric components for a rotating body with angular momentum J:
+g_0i ≈ -(2G/c² r³)(J × r)_i
+
+The gravitomagnetic field (analogue of B in electromagnetism):
+B_grav = -(G/c²) [J/r³ - 3(J·r̂)r̂/r³]
+
+**Precession rate of a gyroscope in this field:**
+Ω_LT = (G/c²r³)[3(J·r̂)r̂ - J]   (Lense-Thirring precession)
+
+For a lab-scale gyroscope (J_lab = I ω, I = (1/2)MR²):
+|Ω_LT| = G J_lab / (c² r³) ≈ (6.67×10⁻¹¹ × I × ω) / (c² r³)
+
+For M = 0.1 kg, R = 0.05 m, ω = 2π × 50 Hz:
+I = 0.5 × 0.1 × 0.0025 = 1.25×10⁻⁴ kg·m²
+J_lab = 1.25×10⁻⁴ × 314 = 0.039 kg·m²/s
+|Ω_LT| ≈ (6.67×10⁻¹¹ × 0.039) / (9×10¹⁶ × r³) ≈ 2.9×10⁻²⁶ / r³
+
+At r = 0.1 m: Ω_LT ≈ 2.9×10⁻²³ rad/s
+
+This is 24 orders of magnitude too small to cancel gravitational acceleration (g ≈ 9.81 m/s²).
+
+**Implication:** Drew's claim (fast-spinning disc cancels local gravity) is NOT explained by standard GR Lense-Thirring frame dragging for lab-scale devices. An enhancement by a factor of ~10²⁴ would be required — which would require new physics beyond GR.
+
+Drew explicitly acknowledges: "Our 'physics' is so primitive compared with theirs" — suggesting the mechanism is not in the standard GR Lense-Thirring calculation but in an unknown extension of it.
+
+---
+
+## Source: 1962707853963338041.yaml / referenced_tweets[0].text
+
+### Gyroscopic Precession + 3-Phase Torque → Z-Axis Force
+
+**Angular momentum of spinning disc:**
+L = I ω_z ẑ  where I = (1/2)MR² (solid disc), ω_z = spin angular velocity
+
+**Torque from 3-phase wobble field:**
+τ_⊥ = μ × B_3phase = m B₀ sin(Ω_w t) (oscillating in XY-plane at wobble frequency Ω_w)
+
+**Precession:**
+dL/dt = τ_⊥
+Ω_precession = τ_⊥ / |L| = m B₀ sin(Ω_w t) / (I ω_z)
+
+The precession traces the disc axis through a cone angle θ_p = m B₀ / (I ω_z Ω_w) (for slow wobble relative to spin).
+
+**Helical path of disc face normal during wobble:**
+If the disc normal precesses at Ω_p while the disc itself spins at ω_z, the face normal traces a cone. The tangential velocity of the disc face has components both in XY (from spin) and in Z (from precession cone).
+
+**Effective "propeller pitch" angle:**
+α_pitch = arctan(v_z_precession / v_xy_spin) = arctan(R Ω_p / (R ω_z)) = arctan(Ω_p / ω_z)
+
+For the disc to act as a propeller generating net Z force, the pitch angle must be nonzero:
+F_z ~ (1/2) ρ v_tip² A C_T sin(2α_pitch)
+
+where ρ is medium density, v_tip = R ω_z, A = π R² disc area, C_T is thrust coefficient.
+
+---
+
+## Source: 1981286567118590387.yaml / note_tweet
+
+### Newton's 3rd Law Cancellation via Counter-Rotating Liquid Metal
+
+**The Newton's 3rd Law problem in levitation:**
+If a device generates an upward force F_z on itself, by Newton's 3rd Law it must exert an equal downward force on something else. For a rocket, the "something else" is exhaust mass. For a closed system, there is no net momentum change — the center of mass cannot accelerate.
+
+Drew's proposed solution:
+- Primary system: 3-phase field + spinning magnet → upward force F_z on magnet
+- Reaction: normally this would push down on the coil/frame by F_z (Newton 3rd)
+- Liquid metal spinning via Lorentz force: this spinning conducting liquid has angular momentum L_liq = I_liq ω_liq
+- Drew claims: the Lorentz-force-driven spin of the liquid metal provides a "reaction mass" that absorbs the Newton 3rd downward force
+
+**Mathematical statement of the problem:**
+For momentum conservation in a closed system:
+d/dt(p_magnet + p_frame + p_liquidmetal) = 0
+
+If F_z acts upward on the magnet: dp_magnet/dt = F_z ẑ
+Then: dp_frame/dt + dp_liquidmetal/dt = -F_z ẑ
+
+Drew's claim: dp_liquidmetal/dt = -F_z ẑ (liquid metal absorbs the reaction), so dp_frame/dt ≈ 0.
+
+**How could liquid metal absorb a downward linear momentum?**
+The liquid metal spins (angular momentum), but acquiring downward linear momentum while spinning would require a force with a vertical component on the liquid metal itself. This is not obviously provided by the Lorentz force in the XY-plane. The mechanism by which circular XY spin absorbs Z-axis linear momentum is the unresolved step in Drew's model.
+
+Drew states this is "not in any physics textbook on Earth (of this era)" — acknowledging that the coupling between the liquid metal's XY angular momentum and the Z linear momentum of the frame is the non-standard claim.
+
+---
+
+## Source: 2030521536877318215.yaml / note_tweet
+
+### 9:12 Winding Ratio Analysis — Fractional Winding Factor
+
+**Standard winding analysis:**
+For Q slots and P poles in a 3-phase motor:
+- Slots per pole per phase: q = Q/(3P) = 9/(3×12) = 9/36 = 0.25
+- For integer q: standard concentrated winding → smooth rotating field
+- For fractional q = 1/4: fractional-pitch winding → harmonic-rich MMF distribution
+
+**Magnetomotive force (MMF) spatial harmonics:**
+The stator MMF of a fractional winding produces space harmonics at:
+ν = 6q_k ± 1 for k = 0, ±1, ±2, ...
+
+For q = 1/4:
+ν = ±1, ±5, ±7, ±11, ±13, ... AND sub-harmonics at ν = 1/4, 3/4, 5/4 ...
+
+Sub-harmonic MMF components (ν < 1) produce pole-changing effects and non-synchronous torques that can drive the rotor at frequencies different from the fundamental drive frequency — including potentially in the reverse direction.
+
+**Counter-rotation explanation attempt:**
+The dominant sub-harmonic at ν = -1/4 (negative order = backward traveling wave) could drive the rotor counter to the main field. If the magnitude of this backward-traveling sub-harmonic is larger than the forward fundamental (due to the specific 9:12 geometry), the rotor would preferentially align with and follow the backward wave → counter-rotation.
+
+---
+
+## Source: 2042885601347932556.yaml / note_tweet
+
+### Beat Frequency Analysis of Counter-Spinning Magnets
+
+Central magnet angular velocity: Ω_c = 2π × 50 rad/s (upward direction, +Z axis definition)
+Outer magnets angular velocity: Ω_o = 2π × (30 to 40) rad/s (opposite direction, -Z)
+
+**Interaction field:**
+B_central(t) ~ cos(Ω_c t) (rotating dipole)
+B_outer_k(t) ~ cos(-Ω_o t + 2πk/4) for k = 0,1,2,3
+
+**Beat frequencies produced by central-outer interaction:**
+ω_beat+ = Ω_c + Ω_o = 2π(50 + 35) = 2π × 85 Hz (sum frequency)
+ω_beat- = Ω_c - Ω_o = 2π(50 - 35) = 2π × 15 Hz (difference frequency)
+
+**Resonance condition:**
+If either beat frequency matches the natural mechanical oscillation frequency of the device, amplified oscillatory forces would result. For vertical resonance (bounce mode) of the device mass m on a magnetic spring constant k_eff:
+ω_resonance = √(k_eff/m)
+
+If ω_beat- = ω_resonance → parametric resonance → exponentially growing amplitude of vertical oscillation.
+
+**Significance of non-relative effect:**
+Drew's claim that spinning the central magnet at 50 Hz with stationary outer magnets produces "nothing unusual" means:
+B_interaction(Ω_c, 0) produces no anomalous vertical force.
+But B_interaction(Ω_c, -Ω_o) DOES produce an anomalous force (if Drew's hypothesis is confirmed).
+
+This mathematical difference: the beat frequency ω_beat = Ω_c + Ω_o only exists when BOTH systems spin (counter to each other). With stationary outer magnets, Ω_o = 0, and the beat frequency = Ω_c alone — which produces no vertical effect. This is consistent with the effect being mediated by the beat frequency (Ω_c + Ω_o), not by Ω_c alone.
+
+**Specific prediction:** The anomalous vertical force should appear at the beat frequency ω_beat = Ω_c + Ω_o, and its magnitude should vary with both Ω_c and Ω_o, maximizing when ω_beat matches some resonance condition.

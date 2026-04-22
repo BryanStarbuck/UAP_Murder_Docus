@@ -1,0 +1,58 @@
+TYPE: Text document image — extracted binary code from the Crabwood 2002 crop circle disc formation; text-heavy image with ASCII binary strings, partial decoding table, and small aerial photo inset; labels "START OF CRABWOOD 2002 BINARY CODE" and "END OF BINARY CODE"
+
+CONTENT:
+- Landscape format, white background
+- Title at top-left: "START OF CRABWOOD 2002 BINARY CODE"
+- Footer at bottom-right: "END OF BINARY CODE"
+- A small circular aerial photo inset at upper-right (showing the spiral disc formation from above)
+- A DECODING TABLE at upper-right area
+- Large body of binary code text filling most of the image
+
+BINARY CODE BODY:
+- Multiple lines of 7-bit or 8-bit binary groups
+- Each group is separated by "S" delimiter character (the S appears to mark SPACE characters in ASCII)
+- The binary is rendered in mixed ITALIC and UPRIGHT text — italic appears to denote specific characters or alternating encoding
+- Starts with: "01 01000010S 01100101S 01110111S 01100001S 01110010S 01100101S 00100000S 01110100S 00100000S 01110000S..."
+- The first several groups decode to: "B e w a r e  t [space]..."
+
+DECODING TABLE (upper-right box):
+- A small table showing the binary-to-ASCII mapping for the first word "Beware":
+  01000010 = 66 = B
+  01100101 = 101 = e
+  01110111 = 119 = w
+  01100001 = 97 = a
+  01110010 = 114 = r
+  01100101 = 101 = e
+- This confirms 8-bit ASCII encoding (with standard ASCII code points)
+
+INSET PHOTOGRAPH (upper-right, small circular):
+- Small circular-cropped aerial photograph of the Crabwood 2002 spiral disc formation
+- Shows the concentric rings of encoded dots/circles from above
+- Color: golden-tan grain with visible dot-ring structure
+
+READING PROTOCOL NOTE:
+- The binary groups are separated by "S" characters marking SPACE characters in the message
+- The encoding uses standard 8-bit ASCII (ISO/IEC 646 compatible)
+- The "S" delimiter pattern suggests this is a space-separated word encoding: each word's letters are 8-bit ASCII, spaces between words are literal space characters (0x20 = 00100000)
+- Reading protocol: the disc is read from the OUTSIDE spiral inward, starting at a defined start position
+
+FULL MESSAGE (decoded by researchers):
+"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. [bell] BELIEVE. There is GOOD out there. We OPpose DECEPTION. Conduit CLOSING [bell]"
+
+PHYSICS/INFORMATION THEORY INTERPRETATION:
+1. 8-BIT ASCII ENCODING: The formation uses standard 8-bit ASCII — the same character encoding used by computers since 1963. Using 8-bit ASCII in a crop formation implies either: the makers know human computer encoding conventions, or this is a human-made hoax using standard encoding
+2. SPACE-DELIMITED WORD ENCODING: The "S" delimiter between groups encodes exactly the ASCII SPACE character (0x20). This matches the encoding used in early ASCII computer terminals and in CD-ROM data encoding
+3. SPIRAL READING PATH = CD-ROM ANALOGY: The spiral reading path of the disc data matches a Compact Disc (CD) which stores data in a single spiral track from the hub outward. The disc appeared in 2002 — the year after CD-RW drives became ubiquitous in home computers
+4. MESSAGE CONTENT AS PHYSICS CLAIM: The phrase "Conduit CLOSING" refers to a communication channel or spacetime conduit that was about to close — consistent with wormhole/traversable wormhole physics where a stable Lorentzian wormhole requires continuous negative energy density to remain open, and without it, will "close" (pinch off)
+
+COMPANION IMAGES:
+- 3_1936552493434937344.jpg — aerial documentation of the full Crabwood 2002 formation (alien face + disc)
+
+COLORS:
+- Background: white
+- Binary code text: black (upright) and black italic for certain groups
+- Decoding table: black border, black text
+- Inset photo: golden-tan grain tones
+- Labels: black
+
+IMAGE DIMENSIONS: Approximately 760 x 540 pixels, landscape format

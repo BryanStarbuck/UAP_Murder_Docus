@@ -1,0 +1,39 @@
+Type: Monochrome (desaturated) false-color close-up astronomical image of Comet 3I/ATLAS nucleus condensation — a very heavily processed, pixelated close-up of the nucleus showing a bright white central condensation surrounded by a complex mottled grey-green halo, with a highly irregular/cloud-like coma boundary, against a solid black background.
+
+Overall Image:
+* Portrait orientation (slightly taller than wide).
+* Solid black background.
+* The coma fills approximately 70-80% of the frame.
+* Very severely pixelated — individual pixel blocks at approximately 0.5-1% of image width, indicating extreme upscaling of a low-resolution region.
+* The image is nearly monochrome — all shades of grey-green (a very desaturated image where only a faint green tint is visible in the grey tones).
+
+Coma Structure:
+
+Nucleus (center-left, slightly above center):
+* A bright WHITE BLOB positioned slightly above and left of the geometric center — approximately 15-20% of image width.
+* The white blob has a complex irregular shape: not circular but roughly oval with multiple projections and indentations — appearing like an amorphous cloud shape rather than a smooth Gaussian PSF.
+* The complex shape suggests either: (1) multiple overlapping PSFs from a very short integration stack where the comet moved between sub-exposures, (2) genuine asymmetric outgassing from the nucleus creating an asymmetric inner coma, or (3) processing artifact from the extreme upscaling.
+
+Inner Coma:
+* Surrounding the white nucleus: a MEDIUM GREY diffuse halo — the inner coma.
+* The inner coma has significant brightness variations: brighter patches at upper-right and left-center positions, darker patches at lower-center (creating the complex mottled appearance).
+* The grey inner coma has a faint green tint (just barely visible — essentially a very desaturated dark green-grey).
+
+Outer Coma Boundary:
+* The outer boundary of the coma is highly IRREGULAR — not a smooth circle or ellipse but a highly scalloped, cloud-like boundary with multiple concave and convex lobes.
+* The irregularity of the outer boundary creates a cloud-like appearance — similar to a cumulus cloud's profile.
+* At the lower-left area: the outer coma has a more pronounced notch or bay structure — a significant concavity suggesting either a tail-related feature or a physical asymmetry in the outgassing pattern.
+* The outer coma grades from medium grey → darker grey → mottled dark grey/dark green → black background.
+
+Background (black):
+* Solid black with some square-pixel grid texture visible at the boundary between coma and sky — pixelation artifacts at the image edges.
+
+RC's Contextual Use:
+* This is another variation in the close-up nucleus series (alongside 3_1993678850728075264.jpg, 3_1993953266498195456.jpg, etc.) documenting the inner coma structure.
+* The irregular, cloud-like outer coma boundary is a diagnostic feature — it suggests that the outer coma is not a smooth spherically-symmetric outgassing shell but has discrete structure.
+* The multiple brightness maxima in the inner coma (multiple bright patches visible rather than a single smooth Gaussian) may indicate multiple active vent regions on the nucleus (jets), or it may be the complex speckle pattern from the pixelated upscaling.
+* The near-monochrome rendering (desaturated) removes color information but preserves brightness structure — allowing isophote analysis of the coma brightness distribution without color bias.
+
+Text Visible: None.
+
+Summary: Monochrome/desaturated close-up image of Comet 3I/ATLAS nucleus condensation — heavily pixelated, nearly black-and-white with faint grey-green tint. Central white nucleus blob (~15-20% image width, irregular/cloud-like shape) above and left of center. Complex mottled grey inner coma with multiple brightness patches. Highly irregular scalloped outer coma boundary (cloud-like, with a notch at lower-left). Solid black background. RC uses this monochrome close-up to study the coma brightness distribution without color interference and to document the irregular outer coma boundary structure suggesting non-spherical outgassing or discrete jet activity.

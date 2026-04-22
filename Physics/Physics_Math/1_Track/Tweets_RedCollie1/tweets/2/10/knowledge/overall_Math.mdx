@@ -1,0 +1,195 @@
+# overall_Math.mdx
+# Mathematical Equations, Pieces, and Relationships
+# Exact Equations Preserved — XY and Z-Axis Dynamics
+# Source: END_DIR tweets/2/10/
+
+---
+
+## Section: 1964995821679866198.yaml / page_020.json (Lorentz force analysis)
+### Lorentz Force — Vector Form and Key Scalar Properties
+
+**Full Lorentz force:**
+F = q(E + v × B)
+
+**Magnetic component only (relevant to homopolar motor):**
+F_mag = q(v × B)
+
+**Work done by magnetic force:**
+W = ∫ F_mag · dr = ∫ q(v × B) · v dt = ∫ q[(v × B) · v] dt = 0
+
+Since (v × B) is always perpendicular to v, the dot product (v × B) · v = 0 identically.
+Corollary: The magnetic Lorentz force does not change the kinetic energy of a charged particle; it only changes the direction of motion.
+
+**For a current-carrying conductor segment of length dL:**
+dF = I(dL × B)
+
+where I is the current and dL is the directed length element. For a radial current segment in a perpendicular axial field B = Bẑ, with dL = dr r̂:
+dF = I(dr r̂ × B ẑ) = IB dr (r̂ × ẑ) = IB dr (-φ̂)
+
+This is purely azimuthal — no axial or radial component. The Lorentz force on a radial current in an axial field is purely rotational.
+
+**Torque on a current-carrying disc (Corbino disc geometry):**
+For a disc of inner radius r₁ and outer radius r₂, with total current I flowing radially, in axial field B:
+τ = ∫[r₁ to r₂] r · dF_azimuthal = ∫[r₁ to r₂] r · I · B · dr / (2πr) = IB(r₂ - r₁)/(2π)
+(for uniform current density J = I/(2πr·d) where d is disc thickness)
+
+More precisely, for a current sheet:
+τ = IB(r₂² - r₁²)/(4π)
+
+This torque drives the disc to spin, and the key property is that the reaction torque on the external circuit is zero (not transmitted through a rigid shaft, so the disc spins "freely").
+
+---
+
+## Section: 1940341738113233131.yaml (note_tweet)
+### Force Balance Equations for Gyroscope + Wire Coil System
+
+**Static equilibrium (no coil):**
+F_gravity = F_pole_magnetic
+Mg = μ₀/(4π) · (m₁ · m₂)/(r³) · [angular factors]
+
+where M is gyroscope mass, g is gravitational acceleration, m₁ is gyroscope magnetic moment, m₂ is pole magnet moment, r is separation distance.
+
+**Hypothesis for UFO-like levitation:**
+F_gravity < F_pole + F_coil
+
+**Case A — DC coil repulsion (permanent magnet gyroscope):**
+F_DC = -(3μ₀/4π) · (m₁ · m₂)/(r⁴) [simplified axial dipole-dipole repulsion]
+Condition: F_gravity < F_pole + F_DC
+
+**Case B — AC Lenz repulsion (aluminum disc gyroscope):**
+Induced EMF in the disc: ε ≈ N · dΦ/dt = N · A · dB/dt
+Induced current: I_eddy = ε/R_disc (where R_disc is the eddy current path resistance)
+Lenz repulsion force: F_Lenz ∝ I_eddy · B ∝ (dB/dt) · B / R_disc
+Time-average (for sinusoidal B): <F_Lenz> ∝ ω · B₀² · A / (2 · R_disc)
+
+The AC Lenz force is always repulsive (always opposes relative motion) and has a non-zero time average.
+
+---
+
+## Section: 1955255144645530015.yaml (note_tweet) / video clips
+### Gyroscopic Precession — Angular Momentum and Force Relations
+
+**Precession equation:**
+dL/dt = τ = r_g × F_grav
+
+where:
+- L = Iω (angular momentum of spinning gyroscope)
+- τ = torque from gravity
+- r_g = vector from pivot to center of mass of gyroscope
+- F_grav = -Mg ẑ
+
+**Precession angular velocity:**
+Ω_prec = τ / (L sin θ) = Mg·r_g / (I·ω·sin θ)
+
+where θ is the angle between L and the vertical. For horizontal spin axis (θ = π/2):
+Ω_prec = Mg·r_g / (I·ω)
+
+Note the inverse relationship: faster spin (larger ω) → slower precession. This is the key to why heavy gyroscopes spin slowly enough to be demonstrable with Laithwaite-scale equipment.
+
+**Energy exchange between precession and potential energy (video 13_1955254508520607744):**
+Laithwaite demonstrates that accelerating the precession (by pushing on the inner ring) causes a hanging weight to rise. The energy balance:
+ΔPE = Mgh = ΔKE_prec = ΔKE_external_push
+
+The system acts as a gyroscopic lever: external rotational kinetic energy (push) converts to gravitational potential energy (height gained by weight) via the gyroscope's angular momentum coupling.
+
+---
+
+## Section: 1919870147701178746.yaml (note_tweet)
+### 3-Phase Rotating Magnetic Field — Mathematical Construction
+
+**Phase currents:**
+I₁(t) = I₀ cos(ωt)
+I₂(t) = I₀ cos(ωt − 2π/3)
+I₃(t) = I₀ cos(ωt − 4π/3)
+
+**Coil positions (unit vectors pointing inward, 120° apart):**
+n̂₁ = (1, 0, 0) → coil 1 axis along x
+n̂₂ = (−1/2, √3/2, 0) → coil 2 axis at 120°
+n̂₃ = (−1/2, −√3/2, 0) → coil 3 axis at 240°
+
+**Net rotating field at center:**
+B_net(t) = k[I₁(t)n̂₁ + I₂(t)n̂₂ + I₃(t)n̂₃]
+         = k·I₀·(3/2)[cos(ωt)x̂ + sin(ωt)ŷ]
+
+(after trigonometric reduction using Σ cos(ωt − 2πk/3)·n̂ₖ)
+
+This is a vector of constant magnitude (3/2)kI₀ rotating in the XY-plane at angular frequency ω. This is the mathematical basis of the three-phase rotating field and is independent of the specific coil geometry (axial, inward-pointing, etc.) as long as the 120° spatial separation is maintained.
+
+**The result is a uniformly rotating B-field:**
+|B_net| = (3/2) · k · I₀ = constant (independent of time)
+angle(B_net) = ωt (linearly increasing with time)
+
+This field drives the liquid-metal vortex to spin, and according to Drew's model, also provides the Z-axis coupling when applied below the vortex.
+
+---
+
+## Section: page_020.json (lines 1465–1475, Tesla 1901 analysis)
+### Self-Reinforcing Magnetic Field in Homopolar Lorentz Motor
+
+**Standard Lenz generator:**
+B_total = B_applied − B_induced [opposing, per Lenz's law]
+|B_total| < |B_applied|
+
+**Lorentz homopolar motor:**
+B_total = B_applied + B_induced [reinforcing, per Tesla's analysis]
+|B_total| > |B_applied|
+
+The quantitative form from Ampere's law for the induced field:
+B_induced = μ₀I_spin/(2πR) [for the azimuthal spin current of radius R]
+
+where I_spin is the azimuthal current induced by the Lorentz spin. As B_total > B_applied, the Lorentz force increases, further driving the spin, which increases I_spin, which increases B_total — a runaway positive feedback loop limited only by resistive losses and material constraints. In the liquid-metal case, electrical resistance of the galinstan is the limiting factor.
+
+---
+
+## Section: page_020.json (lines 4069–4075)
+### Circular-to-Helical Motion Conversion — Geometric Equation
+
+**Circular orbit under Lorentz force (XY-plane):**
+Position: x(t) = R cos(ω₀t), y(t) = R sin(ω₀t), z(t) = 0
+Velocity: vx = −Rω₀ sin(ω₀t), vy = Rω₀ cos(ω₀t), vz = 0
+Angular momentum: L = mR²ω₀ẑ
+
+**Helical orbit after 3-phase field coupling:**
+Position: x(t) = R cos(ω₀t), y(t) = R sin(ω₀t), z(t) = vz·t
+Velocity: vx = −Rω₀ sin(ω₀t), vy = Rω₀ cos(ω₀t), vz = constant
+
+The transition from circular to helical requires the addition of a vertical velocity component vz ≠ 0. In Drew's model, the 3-phase rotating field provides this via coupling to the spinning vortex. The mechanism is analogous to an Archimedean screw: the rotating field acts as a helical "thread" that the spinning vortex follows, rising along the thread.
+
+**No-reaction condition on vz:**
+For the upward thrust to be unbalanced (no Newton's Third Law reaction), the force providing vz must not perform work in the standard mechanical sense. Drew's claim is that the Lorentz-force origin of the spin (no work done → no reaction) extends to the 3-phase coupling as well — the field geometry of the rotating field, interacting with the Lorentz-driven vortex, does not create a reactive downward impulse.
+
+---
+
+## Section: 2025616971312836834.yaml (note_tweet)
+### Tesla Homopolar Generator — EMF Equation
+
+**EMF of a rotating conducting disc in axial magnetic field B (Faraday disc):**
+ε = ∫₀ᴿ (v × B) · dr = ∫₀ᴿ (ω·r)·B · dr = BωR²/2
+
+where R is disc radius, ω is angular velocity, B is axial field.
+
+**Two counter-rotating discs (Paulsen/Tesla configuration):**
+EMF₁ = BωR²/2 (disc 1, rotating clockwise)
+EMF₂ = BωR²/2 (disc 2, rotating anti-clockwise)
+Total EMF (in series, counter-rotation adds): ε_total = BωR²
+
+This doubles the EMF compared to a single rotating disc. Current is extracted at the common axle (hub) between the two discs, where the EMFs are in series.
+
+---
+
+## Section: page_020.json (line 836)
+### 3-Phase Wire Coils Below Spinning Metal Vortex — Configuration Summary
+
+"A set of three, 3-phase wire coils lie below the spinning metal vortex."
+
+Geometric relationship:
+- Vortex plane: z = 0 (XY-plane)
+- 3-phase coil plane: z = −d (below the vortex by distance d)
+- Six outer containment coils: at z = 0, radially positioned at R_outer > R_vortex, providing axial B through vortex center
+
+The axial (Z-direction) component of the 3-phase rotating field from the lower coils couples to the spinning vortex. The coupling transfers angular momentum from the XY-rotation into Z-axis translation. The six outer coils provide the axial containment field B₀ẑ that drives the initial Lorentz spin.
+
+Total field at vortex:
+B_total(r, t) = B₀ẑ + B_3phase(r, t)
+
+where B_3phase is the rotating component from the three lower coils, and B₀ is the static axial component from the six outer coils.

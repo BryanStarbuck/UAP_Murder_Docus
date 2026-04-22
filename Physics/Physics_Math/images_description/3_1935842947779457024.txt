@@ -1,0 +1,61 @@
+TYPE: Composite diagram — "How do UFOs fly? spin and counter-spin" three-panel slide (alternate version); left=ring magnet crop circle schematic with rotation indicators, center=electromagnetic coil apparatus line drawing, right=vertical formation schematic with stalk; white background; authored "RC"
+
+CONTENT:
+- White background, landscape format, approximately 960 x 720 pixels
+- Three panels arranged horizontally
+- This is a VARIANT of the "spin and counter-spin" slide already described in 3_1934366717939245056.txt — this version differs in the center panel (uses a technical LINE DRAWING of the electromagnetic apparatus rather than a photograph)
+
+TEXT VISIBLE:
+- TITLE (upper left, bold black, 2 lines): "How do UFOs fly? / spin and counter-spin"
+- No other text labels
+
+LEFT PANEL — RING MAGNET WITH SPIN INDICATORS:
+- The ring magnet crop circle schematic — the same graduated-circle outer ring + inner dot rings + central Corbino bullseye as in 3_1934366649823772672.txt
+- ROTATION INDICATORS:
+  * 5 GREEN CARET SYMBOLS "^" stacked vertically above the formation (indicating upward force/field direction)
+  * 2 RED ">" CARETS on LEFT side of the ring (indicating clockwise rotation viewed from above)
+  * 2 RED ">" CARETS on RIGHT side of the ring (indicating same clockwise direction on both sides)
+  * 2 BLUE ">" CARETS at BOTTOM LEFT (indicating counter-clockwise rotation or counter-field direction)
+  * 2 BLUE ">" CARETS at BOTTOM RIGHT (matching counter-clockwise indicators)
+- The red = outer ring spin direction; blue = inner element counter-spin direction
+- The color coding encodes: outer element spins in one direction (red), inner element counter-spins (blue), net effect is upward (green)
+
+CENTER PANEL — ELECTROMAGNETIC COIL APPARATUS (LINE DRAWING):
+- A TECHNICAL LINE DRAWING (not a photograph) of an electromagnetic/magnetic levitation apparatus
+- Elements visible:
+  * A TALL CYLINDRICAL COIL (multi-layer solenoid): rendered as a series of tightly packed horizontal lines representing wound wire coils; the coil body is a tall cylinder approximately 2× taller than wide
+  * A BASE/PLATFORM below the coil: a wider flat structure supporting the coil
+  * A SUSPENDED ELEMENT above the coil top: a small toroidal/disc shape floating above the coil, connected by thin lines
+  * The suspended element appears to be floating or hovering (not resting on the coil) — implied by the gap between it and the coil top
+  * A HAND outline (faint) at lower left, as if about to interact with the apparatus
+  * Below the coil: a GRANULAR/SAND-LIKE texture pattern (dots and irregular shapes) representing iron filings, sand, or a granular medium on the base platform
+- The drawing style is technical schematic (pen-and-ink) rather than photographic
+- This is the SAME apparatus as shown in the photograph version (3_1934366717939245056.txt) but rendered as a line drawing for clarity
+
+RIGHT PANEL — VERTICAL FORMATION SCHEMATIC:
+- The vertical crop formation schematic identical to companion images in this series
+- ELEMENTS (top to bottom):
+  * A SMALL DOT at the apex (topmost element of the stalk)
+  * A GRADUATED CHAIN OF CIRCLES (largest at bottom, progressively smaller going up) forming the stalk — approximately 8-10 circles of decreasing diameter
+  * A LARGE DISC/RING ELEMENT at the top of the chain (the main disc, now shown at top rather than middle — this panel appears to orient the formation INVERTED from the usual orientation, or the stalk extends downward from the disc)
+  * At the BOTTOM: a CRESCENT/YIN-YANG element (the same concentric-arc + central disc + satellite dot element seen in companion images)
+- This panel shows the formation in its STATIC STATE without the upward motion indicators
+
+PHYSICS ARGUMENT:
+This version of the "spin and counter-spin" slide uses a technical line drawing in the center rather than a photograph, making the electromagnetic apparatus more clearly interpretable. The apparatus is a classic demonstration of:
+1. Magnetic levitation: a conducting ring or superconducting disc floats above a solenoid due to Meissner effect or induced Lenz-law eddy currents
+2. The coil = the "inner spin" element; the suspended disc = the "outer" element that is repelled
+3. The counter-rotating field analogy: the coil produces an alternating magnetic field; the induced eddy currents in the suspended disc flow in the opposite direction (Lenz's law); this opposing current creates a repulsive Meissner-like force
+
+PHYSICS/UAP RELEVANCE — PhD PHYSICIST LEVEL:
+The electromagnetic levitation demonstrated: for an AC solenoid driving current I(t) = I₀cos(ωt), the magnetic field B(t) = μ₀nI₀cos(ωt)·ẑ. In a conducting ring of inductance L_ring and resistance R_ring placed above the solenoid, the induced EMF is ε = -dΦ/dt = μ₀nAI₀ω·sin(ωt), where A is the ring area. The resulting eddy current I_ring(t) = ε/Z (where Z = √(R² + ω²L²)) creates a magnetic moment opposing the solenoid field. The time-averaged levitation force F = ⟨I_ring·(∂B_z/∂z)·A⟩ > 0 (upward). For perfect conductors (R→0): I_ring → -I_solenoid/n (complete flux exclusion, Meissner effect). The counter-spin analogy: the induced ring current circulates counter to the solenoid drive current, exactly as the "blue" counter-spin indicators show in the left panel of this diagram.
+
+COLORS:
+- Left panel indicators: green (^), red (>), blue (>)
+- Left panel formation: solid black
+- Center panel drawing: black ink on white
+- Center panel granular base: gray dots
+- Right panel formation: solid black
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 960 x 720 pixels, landscape orientation

@@ -1,0 +1,38 @@
+TYPE: Physics diagram — trefoil + ring formation with green pointer lines and updated labels: "1 large N/S magnet above" (red, top) and "2 × 8 = 16 N-S magnets below" (blue, bottom); variant of 3_2030945197128097792.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background. Same trefoil + lower ring structure as 3_2030945197128097792. Green pointer lines from labels to elements. Updated text labels with new spatial qualifier words ("above" / "below").
+
+DIAGRAM STRUCTURE (same as previous trefoil + ring diagrams):
+* Upper trefoil: 3-lobe formation with red circle at central vesica intersection
+* Lower ring: blue-outlined ring with approximately 16 small black satellite circles
+
+GREEN POINTER LINES:
+* Two diagonal green lines from upper labels converging toward the lower blue ring — same as 3_2030945197128097792
+
+UPDATED LABELS (key difference from previous version):
+* Red (upper-left): "1 large N/S magnet above" — NEW: "1 large" and "above" added
+* Red (upper-right): "1 large N/S magnet above" — SAME label mirrored
+* Red (left): "3 wire coils U-V-W"
+* Red (right): "3 wire coils U-V-W"
+* Blue (lower-left): "2 x 8 = 16 N-S magnets below" — NEW: "below" added
+* Blue (lower-right): "2 x 8 = 16 N-S magnets below" — SAME label mirrored
+* (Note: "3 wire coils" blue label absent in this version compared to 3_2030945197128097792)
+
+SIGNIFICANCE OF "ABOVE" / "BELOW" LABELS:
+* The addition of spatial qualifiers ("above" and "below") explicitly identifies the vertical position of the generator components:
+  - "1 large N/S magnet above" = the trefoil structure's central vesica region (red-outlined circle) = ONE large permanent magnet positioned ABOVE the stator ring
+  - "2 × 8 = 16 N-S magnets below" = the lower ring's 16 satellite magnets = the LOWER ring of 16 magnets positioned BELOW
+* This vertical specification directly maps to the cross-sectional generator diagram structure: the central magnet is axially above (or axially at the center), and the 16-magnet ring is axially below (or at the rotor perimeter)
+* "1 large" qualifier for the central magnet (vs. "16" small magnets in the lower ring): the central magnet is a large single axial (or central) permanent magnet, while the peripheral magnets are 16 smaller magnets around the disc perimeter
+* This clarifies the Norman Paulsen design: one large central magnet + 16 smaller peripheral magnets, in a vertical two-disc assembly
+
+PHYSICS INTERPRETATION:
+* Vertical assembly specification (above/below):
+  - TOP LAYER (above): 1 large N/S axial magnet + 3-phase stator coil winding (the trefoil = 3 phases)
+  - BOTTOM LAYER (below): 16 N/S peripheral magnets in a ring (the rotor disc with 16 alternating N/S magnets)
+  - This represents the axial-flux permanent magnet synchronous machine (AFPMSM) where the rotor disc with peripheral magnets rotates beneath the fixed stator coil assembly
+* Alternative: the central magnet is the axial field magnet providing the main bias field, and the 16 peripheral magnets are the pole magnets of the rotating disc — as the disc rotates, the 16 alternating N/S magnets sweep past the 3-phase stator coils, generating the 3-phase EMF
+
+OVERALL COMMUNICATION: A variant of the trefoil + ring diagram with two diagonal green pointer lines and updated spatial labels: "1 large N/S magnet above" (trefoil's central red-circle element) and "2 × 8 = 16 N-S magnets below" (lower blue ring with 16 satellite circles). The "above/below" qualifiers explicitly specify the vertical assembly geometry of the UAP power plant: one large central magnet above + sixteen peripheral magnets below, with a 3-phase stator coil winding (U-V-W) in between.

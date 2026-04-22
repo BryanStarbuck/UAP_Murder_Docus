@@ -1,0 +1,185 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: END_DIR tweets/7/4/ — RedCollie1 (Dr. Horace Drew)
+
+## 1. Weight Transfer in Dipole Magnetic Suspension
+
+From image description in 3_1914619703752056837:
+
+Variables:
+  m_man = 100 kg (man's body mass)
+  m_ball = 1 kg (iron ball mass)
+  g = 9.81 m/s^2 (standard gravitational acceleration)
+
+Equations:
+  W_ball = m_ball * g = 1 * 9.81 = 9.81 N         [weight of ball, downward]
+  F_mag = W_ball = 9.81 N                           [magnetic lift force, upward, condition for levitation]
+  F_reaction = -F_mag = -9.81 N                     [Newton's 3rd law: reaction on man's magnet, downward]
+  W_man_effective = m_man * g + |F_reaction|
+                  = 100 * 9.81 + 1 * 9.81
+                  = 9.81 * (100 + 1)
+                  = 9.81 * 101
+                  = 990.81 N
+                  = 101 kg_f
+
+Result: Ball effective weight = 0; Man effective weight = 101 kg_f; System total = 101 kg_f = unchanged.
+
+Conservation check:
+  delta_W_system = W_ball + W_man_effective - (m_man + m_ball) * g
+                = 0 + 990.81 - 101 * 9.81
+                = 990.81 - 990.81 = 0  [Confirmed: system weight conserved]
+
+## 2. 3-Phase Rotating Magnetic Field — Superposition
+
+Standard electromagnetic result (not explicitly derived in sources but is the physical basis):
+
+Three coils at positions phi_k = (k-1) * 2*pi/3 for k = 1, 2, 3, each carrying current:
+  I_k(t) = I_0 * cos(omega_s * t - (k-1) * 2*pi/3)
+
+Magnetic field at center from coil k (small-coil approximation, on-axis dipole field):
+  B_k(t) = B_0 * cos(omega_s * t - (k-1) * 2*pi/3) * (cos(phi_k) x_hat + sin(phi_k) y_hat)
+
+Superposition:
+  B_x(t) = B_0 * sum_{k=1}^{3} cos(omega_s*t - (k-1)*2pi/3) * cos((k-1)*2pi/3)
+          = (3/2) * B_0 * cos(omega_s * t)
+
+  B_y(t) = B_0 * sum_{k=1}^{3} cos(omega_s*t - (k-1)*2pi/3) * sin((k-1)*2pi/3)
+          = (3/2) * B_0 * sin(omega_s * t)
+
+  |B(t)| = sqrt(B_x^2 + B_y^2) = (3/2) * B_0    [constant amplitude]
+  theta(t) = arctan(B_y/B_x) = omega_s * t        [field angle rotates linearly with time]
+
+For N-phase (N=5), same calculation with 5 coils at phi_k = (k-1)*2*pi/5:
+  |B(t)| = (5/2) * B_0   [5-phase gives 25% stronger rotating field than 3-phase]
+  theta(t) = omega_s * t  [same rotation rate]
+
+## 3. External Field Cancellation — 6-Coil N-S-N-S-N-S Configuration
+
+For 6 coils at phi_k = (k-1) * pi/3, alternating north (+z) and south (-z) orientation:
+  Coil moments: m_k = +m_0 * z_hat for k = 1, 3, 5 (north-up, R, G, B phases)
+                m_k = -m_0 * z_hat for k = 2, 4, 6 (south-up, interleaved)
+
+Net dipole moment:
+  M_total = sum_{k=1}^{6} m_k = 3 * m_0 * z_hat + 3 * (-m_0 * z_hat) = 0
+
+External field at large distances r >> R (ring radius):
+  B_dipole(r) ~ mu_0 * M_total / (4*pi*r^3) = 0   [dipole term vanishes]
+  Leading term: quadrupole, decays as r^-5
+
+Practical result: near-zero external field at distances r >> R. Device appears magnetically
+inert to external ferromagnetic objects. The net magnetic moment is zero.
+
+## 4. Critical Height for Levitation Equilibrium
+
+Let F_z(h) = net upward electromagnetic force on rotor at height h above coil plane.
+
+Equilibrium condition:
+  F_z(h_c) = m_rotor * g
+
+where h_c is the critical height.
+
+For small perturbations about h_c:
+  If dF_z/dh < 0 (force decreases with height, as expected for decaying coil field):
+    The equilibrium is UNSTABLE: displacement upward gives F_z < m*g, rotor falls;
+    displacement downward gives F_z > m*g, rotor rises back.
+    This produces oscillation through h_c rather than stable hover.
+
+Force-height dependence approximation (on-axis field of a coil ring of radius R at height h):
+  B_z(h) = (mu_0 * n * I * R^2) / (2 * (R^2 + h^2)^(3/2))
+
+  dB_z/dh = -3 * mu_0 * n * I * R^2 * h / (2 * (R^2 + h^2)^(5/2))  [negative for h > 0]
+
+  The field gradient dB_z/dh is negative and its magnitude increases from h=0, peaks at h = R/2,
+  then decreases. The lift force on a magnetic dipole m_z in a gradient field:
+  F_z = m_z * dB_z/dh
+
+  This reaches maximum near h ~ R/sqrt(2) and falls off for h >> R. So h_c satisfies:
+    m_z * dB_z/dh |_{h=h_c} = m_rotor * g
+
+  For standard parameters (R ~ 30-40 mm coil radius, m_z ~ few mJ/T for a 70mm disc magnet),
+  h_c would be on the order of a few mm to ~2 cm above the coil plane.
+
+## 5. Hubble Angular Resolution Calculation
+
+From YAML 1960831060138451165:
+
+  theta_pixel = 0.04 arcseconds = 0.04 / 3600 * (pi/180) rad
+             = 0.04 * 4.848e-6 rad
+             = 1.939e-7 rad
+
+  At distance d = 3.0e8 km = 3.0e11 m:
+    L_pixel = d * theta_pixel = 3.0e11 * 1.939e-7 = 5.82e4 m = 58.2 km
+
+  At d = 3.87e8 km (second quoted figure):
+    L_pixel = 3.87e11 * 1.939e-7 = 7.50e4 m = 131 km
+
+From YAML 1991689041256017949:
+
+  v_3IATLAS_at_Mars_orbit = 30 km/sec
+  Exposure time: tau = 0.5 sec
+  Smear per frame: delta_x = v * tau = 30 * 0.5 = 15 km
+  Smear for 1.0-sec exposure: delta_x = 30 * 1.0 = 30 km
+
+  Stacked image resolution (N frames): sigma_stack = delta_x / sqrt(N) [if frames are aligned]
+  For N = 50 frames, tau = 0.5 sec each:
+    sigma_stack = 15 / sqrt(50) = 15 / 7.07 = 2.12 km
+
+  Note: the author states 15 km resolution for 0.5-sec exposures, treating each frame
+  as having 15 km smear, and suggests stacking reduces noise but he quotes 15 km as the
+  "resolution" — this appears to be single-frame motion-limited resolution, not stack-enhanced.
+
+## 6. 3I/ATLAS Propulsion Velocity Analysis
+
+From YAML 1988712399256633815 (note_tweet):
+
+  v_obj = 210,000 km/h   [3I/ATLAS heliocentric speed]
+  v_jet ~ v_obj / 2 ~ 105,000 km/h   [stated as "about half of that speed"]
+
+Newton's 3rd Law momentum conservation for jet propulsion:
+  m_dot_jet * v_jet = F_thrust   [thrust equals mass flow rate times exhaust velocity]
+
+Relative velocity (thrust indicator):
+  v_relative = v_jet (exhaust speed in object's rest frame)
+             ~ 105,000 km/h = ~29.2 km/s
+
+Comparison baseline:
+  Normal cometary outgassing speed: ~0.5-1.5 km/s
+  Ratio: 29.2 / 1.0 = ~29x faster than normal comet outgassing
+
+Jets: 6 jets in "hexagonally balanced" pattern.
+Jet propagation rate: spans 3e6 km in 24 hours = 3e6 / 24 = 125,000 km/h = ~34.7 km/s
+  Converting: 34.7 km/s = 34,700 m/s [approximately consistent with quoted figure]
+
+The hexagonal symmetry of 6 jets at 60-degree spacing implies rotational symmetry of order 6,
+consistent with a symmetric propulsion configuration.
+
+## 5-Phase AC Rotating Field (Buga Sphere) — Extended Math
+
+5-coil arrangement at angles phi_k = (k-1) * 72 degrees for k=1..5
+5-phase currents at time offsets Delta_t_k = (k-1) * T/5 where T = 1/f_supply:
+  I_k(t) = I_0 * cos(2*pi*f*t - (k-1)*2*pi/5)
+
+Resultant B at center:
+  B_total = (5/2) * B_0 * [cos(omega_s*t) x_hat + sin(omega_s*t) y_hat]
+
+The rotating field amplitude is (5/2)*B_0 vs (3/2)*B_0 for 3-phase.
+Ratio of field strengths: (5/2)/(3/2) = 5/3 = 1.667
+A 5-phase system provides 67% stronger rotating field than 3-phase with the same individual
+coil field strength B_0. This would drive faster rotor spin at the same power level.
+
+## Gyroscope Angular Momentum
+
+For Buga sphere rotor:
+  Moment of inertia of disc about symmetry axis: I_disc = (1/2) * m * r^2
+  Angular momentum: L = I_disc * omega = (1/2) * m * r^2 * omega
+
+  At angular velocity omega, gyroscopic precession rate:
+    Omega_prec = tau_gravity / L = (m * g * l) / ((1/2) * m * r^2 * omega)
+               = (2 * g * l) / (r^2 * omega)
+
+  where l is the distance from pivot to center of mass of the rotor.
+
+  For increasing omega: Omega_prec decreases as 1/omega.
+  For standard mechanics: no net upward force is generated.
+  The hypothesis that Omega_prec couples to gravity to produce F_z_upward requires
+  additional physics beyond standard mechanics — not derived in source materials.

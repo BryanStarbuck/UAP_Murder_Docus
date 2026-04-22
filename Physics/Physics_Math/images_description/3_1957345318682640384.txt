@@ -1,0 +1,67 @@
+CONTENT TYPE: Scientific diagram — a clean 2D cross-sectional schematic of a rotating fluid paraboloid (or spinning water vortex profile), showing the free-surface shape of a rotating fluid with labeled parameters R (radius) and h (depth), and a rotation symbol at the base.
+
+SUBJECT: A cross-sectional diagram showing the profile of the free surface of a rotating fluid (water) in a container. The surface forms a paraboloid (or approximately parabolic) curve that dips downward at the center and rises toward the edges. Key labeled elements: R (horizontal double-headed arrow indicating the radius at the inflection or reference point), h (vertical double-headed arrow indicating the depth from the flat outer level to some reference point), and a rotation symbol at the bottom center of the axis.
+
+IMAGE CHARACTERISTICS:
+- Landscape format, approximately 900×520 pixels
+- Light gray/white background
+- Blue curve representing the water free surface
+- Thin black vertical line representing the axis of rotation
+- Pink/magenta dots at two symmetric points on the curve
+- Black arrows (R horizontal, h vertical) with labels
+- Curved rotation arrow symbol at the base of the axis
+
+COORDINATE SYSTEM:
+- The vertical axis (axis of rotation) runs from top to bottom as a thin black line through the center
+- The horizontal axis is implied (left-right direction = radial distance from axis)
+- The rotation axis is at x=0 (center)
+
+WATER SURFACE CURVE:
+- A blue line representing the free surface profile z(r) of the rotating fluid
+- The curve is symmetric about the vertical axis
+- At the center (r=0): the surface is at its lowest point (minimum z)
+- At large r: the surface flattens out to a constant level (the "undisturbed" level far from the axis)
+- The shape is approximately parabolic near the axis: z(r) ≈ z₀ + ω²r²/(2g), where ω is angular velocity and g is gravitational acceleration
+- This parabolic profile is the exact solution for the free surface of a rigidly rotating fluid in equilibrium
+
+LABELED PARAMETERS:
+
+R (horizontal double-headed arrow):
+- A horizontal double-headed arrow spanning from one pink/magenta dot to the other
+- Both dots are at the same height on the curve (inflection points or shoulder points)
+- The arrow defines R as the radius at those symmetric points
+- R may represent: the radius of the container, the radius of the vortex core, or the radius at the inflection point of the paraboloid
+
+h (vertical double-headed arrow):
+- A vertical double-headed arrow on the right side
+- Spans from the level of the pink dots (R reference height) downward to the bottom of the image (or to a reference level)
+- h represents the depth below the outer level to the reference points
+
+PINK/MAGENTA DOTS:
+- Two small pink/magenta dots at symmetric positions on the curve
+- One on the left descending portion of the curve, one on the right ascending portion
+- These mark the reference points for both R and h measurements
+- They may indicate: inflection points, the vortex shoulder radius, or measurement calibration points
+
+ROTATION SYMBOL:
+- A curved circular arrow at the base of the vertical axis (below the curve's minimum)
+- Indicates: the fluid rotates around the vertical axis (angular velocity ω)
+- The direction of the curved arrow (clockwise or counterclockwise) indicates the rotation direction
+
+MATHEMATICAL CONTEXT:
+- For a fluid rotating with angular velocity ω:
+  z(r) = z₀ + ω²r²/(2g)
+- The free surface forms a paraboloid of revolution
+- For r = R (the reference radius): z(R) = z₀ + ω²R²/(2g), where h = z(R) - z₀ = ω²R²/(2g)
+- Therefore: ω = √(2gh/R²) — angular velocity can be determined from the measurable parameters h and R
+
+RELEVANCE TO COLLECTION:
+- This diagram is the mathematical companion to the vortex photograph in 3_1957345301125316608.txt
+- Together: photograph shows the actual vortex, this diagram shows its mathematical profile
+- The paraboloid surface shape is directly analogous to the spacetime curvature funnels in 3_1957250775618572288.txt series
+- The spin-vortex connection: the same parabolic curvature z(r) = ω²r²/(2g) appears in:
+  1. Rotating fluid mechanics (Newtonian)
+  2. General relativistic frame-dragging (Lense-Thirring effect produces similar geometry)
+  3. Proposed UAP propulsion via spinning magnetic fields creating localized spacetime curvature
+
+OVERALL SUMMARY: A clean 2D cross-sectional diagram of the free surface profile of a rotating fluid: a symmetric parabolic/paraboloidal curve (blue line) dipping to a minimum at the central rotation axis (vertical black line) and rising to a flat level at large radius. Two pink dots mark the reference points for the labeled parameters R (horizontal radius arrow) and h (vertical depth arrow). A rotation symbol at the axis base indicates angular rotation ω. The surface shape z(r) ≈ z₀ + ω²r²/(2g) is the classical result for a rigidly rotating fluid. In the UAP context, this diagram connects the water vortex photograph (3_1957345301125316608.txt) to the spacetime curvature diagrams (3_1957250775618572288.txt series), showing how spinning fields create the same parabolic curvature as spinning fluids.

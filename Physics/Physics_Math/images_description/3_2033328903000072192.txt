@@ -1,0 +1,62 @@
+TYPE: Analytical slide — "Textpic" binary message decode: ASCII binary encoding of the phrase "Textpic is from the future" with two binary pixel matrices ("fish shape" 14×8 and "cross shape" 10×10); white background with colored text.
+
+CONTENT SUMMARY:
+
+LAYOUT: White background slide with text and two binary pixel matrices. Organized into three sections: (1) title header, (2) ASCII binary decode of the Textpic phrase, (3) two binary pixel matrices with shape labels and a footer note.
+
+HEADER TEXT:
+* Title (bold, centered): "Textpic" computer code is from the future  (xxx.tpc)"
+* Font: black, bold, sans-serif
+* The quotation marks around "Textpic" suggest it is a proper name (a specific computer program or file format)
+
+SECTION 1 — ASCII BINARY DECODE:
+* The phrase "Textpic is from the future !" is spelled out letter by letter with:
+  - Each letter appears as a label above its binary representation
+  - The binary representation is a standard 8-bit ASCII code
+  - Letters shown: T, e, x, t, p, i, c, [space], i, s, [space], f, r, o, m, [space], t, h, e, [space], f, u, t, u, r, e, !
+* Binary color coding:
+  - RED digits: the 1-bits that represent the ASCII code value of each character
+  - BLUE digits: alternate 1-bits (possibly marking a second encoding)
+  - BLACK digits: the 0-bits
+
+* Sample decode verification:
+  - "T" = 01010100 (ASCII 0x54 = 84 = 'T') ✓
+  - "e" = 01100101 (ASCII 0x65 = 101 = 'e') ✓
+  - "x" = 01111000 (ASCII 0x78 = 120 = 'x') ✓
+  - "t" = 01110100 (ASCII 0x74 = 116 = 't') ✓
+  - The binary sequences shown match standard 8-bit ASCII encoding
+
+* Full decoded phrase: "Textpic is from the future !"
+
+SECTION 2 — BINARY PIXEL MATRICES:
+* TWO separate binary matrices displayed side by side, rendered as grids of colored digits
+
+* LEFT MATRIX — "14 × 8 (fish shape)":
+  - 8 rows × 14 columns of 0s and 1s
+  - The 0s are displayed in RED (left side of each row) and BLACK (remaining)
+  - The 1s are displayed in their natural state (right side)
+  - Visual pattern: the left portion is all 0s (approximately 9-10 columns), the right portion transitions to all 1s (approximately 5 columns)
+  - The label "14 x 8 (fish shape)" indicates this binary matrix, when rendered as a pixel image (0=white, 1=black), produces a fish-shaped silhouette
+
+* RIGHT MATRIX — "10 × 10 (cross shape)":
+  - 10 rows × 10 columns
+  - All 1s — a solid 10×10 block of ones
+  - The label "10 x 10 (cross shape)" indicates this represents a cross or plus-sign shape (though the matrix shown is entirely 1s, the cross shape may emerge when combined with the fish shape or via a different rendering)
+
+FOOTER TEXT:
+* "RC > message translated fully in December of 2019"
+* "RC" = initials of the analyst/translator who decoded this message
+* "December of 2019" = the date the full Textpic message was decoded
+
+THESIS:
+* "Textpic" is claimed to be a computer file format (.tpc) encoding both ASCII text AND pixel images simultaneously
+* The thesis: crop circle formations encode Textpic-format messages — the binary pixel patterns in the crop circle's flattened/standing regions encode both readable text ("Textpic is from the future") and small geometric images (fish shape, cross shape)
+* "From the future" implies the Textpic format is a future computer technology being transmitted back or forward in time, or technology from a future civilization communicating with the past
+* The "fish shape" (Ichthys/Christian fish symbol?) and "cross shape" may have additional religious significance matching the Temple Mount/Abrahamic religion theme of the previous slides in this series
+
+RELATIONSHIP TO SERIES:
+* This continues the binary decode series from 3_2033327084916150272.jpg and 3_2033327110342012928.jpg
+* The "CJ picture file" mentioned in those slides may be the same Textpic format analyzed here
+* The decode methodology is: treat crop circle formation as binary pixel image → extract binary data → decode as Textpic (ASCII + pixel shapes)
+
+OVERALL COMMUNICATION: An analytical slide decoding the "Textpic" computer file format (xxx.tpc), claimed to be alien technology from the future encoded in crop circle formations. The slide shows: (1) the full 8-bit ASCII binary encoding of the phrase "Textpic is from the future !" letter by letter with color-coded bits; (2) two binary pixel matrices — a 14×8 matrix described as a "fish shape" and a 10×10 matrix described as a "cross shape." Footer notes that "RC" translated the message fully in December 2019. The Textpic format encodes both readable text and pixel-image shapes simultaneously within a binary data stream.

@@ -1,0 +1,255 @@
+# overall_Magnetics.mdx
+# All Magnetic Field Content — Theory and Applied, Beyond Classical Model
+# Source: END_DIR tweets/4/9/ — @RedCollie1 (Dr. Horace Drew, Caltech/MRC LMB Cambridge)
+
+---
+
+## Source: 1921121004673290468.yaml + 13_1921120807733911552_video.mdx
+
+### Ring-Magnet / Floater-Magnet Focal-Point Topology
+
+**Experimental system**: A ring magnet (all-North-pole orientation in the axial
+direction) and a floater magnet (also North-pole axially), with the floater placed above
+the bore opening of the ring.
+
+**XY-plane field topology**: The ring magnet produces a radially symmetric field in the
+XY plane. At the bore center (r = 0), the field from the inner bore wall is repulsive
+for a same-pole floater. Moving radially outward toward the outer annular mass of the
+ring magnet (r increasing from r_bore/2 toward r_ring_outer), the field becomes
+attractive because the outer annular surface dominates.
+
+**Consequence**: There exists a radius r* such that the net radial force on the floater
+changes sign:
+  F_r(r < r*) < 0  (repulsive, pointing outward from bore center)
+  F_r(r > r*) > 0  (attractive, pointing inward toward bore axis)
+
+This zero crossing r* defines the focal circle in the XY plane. In the axial (Z)
+direction, the geometry similarly produces a stable height h* above the ring face where
+the floater equilibrates — combining the XY focal confinement with Z-axis magnetic
+levitation (supplemented by or balanced against gravity).
+
+**Geometric rule (experimentally established, not from textbooks)**:
+  Stable focal point exists IFF:    d_floater <= d_bore
+
+  d_bore = inner hole diameter of ring magnet
+  d_floater = diameter of floater magnet
+
+Tested ring-floater pairs:
+  Ferrite ring 145 mm OD / 80 mm bore:
+    d_floater = 40 mm: focal point confirmed
+    d_floater = 50 mm: focal point confirmed
+    d_floater = 60 mm: focal point confirmed
+    d_floater = 70 mm: focal point confirmed (strong repulsion + strong inward pull)
+    d_floater = 80 mm (= d_bore): focal point confirmed (strong both ways)
+    d_floater = 100 mm (> d_bore): focal point absent; pure repulsion, no inward pull
+
+  Neodymium ring 100 mm OD / 60 mm bore:
+    d_floater = 40 mm: focal point confirmed
+    d_floater = 50 mm: focal point confirmed
+    d_floater = 60 mm (= d_bore): focal point confirmed
+    d_floater = 70 mm (> d_bore): repulsion only, no focal point
+    d_floater = 80 mm (> d_bore): orientation-dependent: one orientation repulsion only,
+      other orientation attraction only; no focal point in either case
+
+**Spinning magnetic levitation**: When the floater magnet is set spinning (rotational
+axis vertical, i.e., spin axis = Z), the spinning introduces gyroscopic stabilization on
+top of the magnetic focal confinement. Drew terms this "free-floating spinning magnetic
+levitation." The tweet states:
+  "All ring magnets will create a stable focal point nearby, if the floater magnet is no
+  larger than an empty centre of the ring magnet. This then becomes a free-floating
+  point to allow spinning magnetic levitation."
+
+The spin adds angular momentum L = I·ω (where I is the floater moment of inertia about
+Z, ω is its angular velocity) which resists tilting perturbations via the gyroscopic
+torque τ_gyro = ω × L, supplementing the purely static magnetic confinement.
+
+**Status**: Experimental result. Not covered in standard magnetostatics textbooks
+(Drew's explicit claim). No analytical derivation provided in the tweets; pure empirical
+characterization of the focal-point condition.
+
+---
+
+## Source: 1912464896169767391.yaml + 13_1912464551028690944_video.mdx
+
+### "Up the Pole with Spin" — Axial Magnetic Force Enhanced by Rotation
+
+Tweet text: "Up the pole with spin? NEW PHYSICS."
+Video transcription: "Now this is the fierce force on the pole up here. You can't bring
+it down. Very strong up the force."
+
+This describes a spinning magnet or magnetic assembly on an axial pole that exhibits
+an anomalously strong upward force ("up the pole") when spinning, compared to static
+conditions. The word "fierce" and the operator's inability to push it down suggest that
+the Z-axis force magnitude is substantially larger when the magnet is spinning than when
+static. This is consistent with a gyromagnetic effect or a spin-Magnus-like coupling
+between rotational velocity and the external magnetic field, but Drew frames it as "NEW
+PHYSICS" — i.e., the magnitude or character of the effect exceeds what classical
+electrodynamics would predict for a spinning magnetic dipole in a static external field.
+
+In standard electrodynamics, a rotating magnetic dipole does not experience a net
+translational force in a uniform field (only a torque); it can experience a force only
+in a field gradient (F = ∇(m·B)). The claim of an anomalously "fierce" upward force
+that "you can't bring down" implies either: (a) the gradient coupling is much stronger
+than expected, or (b) there is a dynamical amplification of the force when the magnet
+spins that has no classical analog.
+
+**Connection to XY/Z dynamics**: The spin axis here is vertical (Z), and the enhanced
+force is also vertical (Z). The mechanism by which XY-plane rotation produces enhanced
+Z-axis force is the key unknown. This is precisely the coupling Drew is attempting to
+characterize experimentally across multiple tweets.
+
+---
+
+## Source: 1937071903463919724.yaml + 13_1937071657853538304_video.mdx
+
+### Counter-Rotating Magnetic Flywheels: Anomalous Repulsion Resonance
+
+**Device**: Two DC motors (~12–20 V), each driving an aluminium disk carrying 6 permanent
+magnets arranged in alternating North-South (NS-SN-NS) pattern around the periphery.
+Both disks slide along a common rod.
+
+**Static behavior**:
+  - At certain rotational alignments: very strong mutual attraction (F_attract >> 0)
+  - Rotated slightly: very strong mutual repulsion (F_repel >> 0)
+  The force is a periodic function of relative rotational angle θ, oscillating between
+  strong attraction and strong repulsion with periodicity 360°/6 = 60° (6 magnets per disk).
+
+**Dynamic behavior (counter-rotation experiment)**:
+  When both disks spin in opposite directions (disk 1 clockwise, disk 2 anti-clockwise),
+  the two disks spontaneously adopt a mutual repulsion configuration and steadily move
+  apart from one another in "jumpy little steps." The relative phase angle θ_rel(t) = 
+  (ω_1 + ω_2)·t (since they spin oppositely, the relative angular velocity is ω_1 + ω_2)
+  sweeps through all values, but the disks statistically dwell in and reinforce the
+  repulsive alignment rather than averaging to zero net force.
+
+  This is described as a "resonance effect": the mechanical coupling between the disks
+  (via the shared rod) preferentially phase-locks the relative angle at or near the
+  repulsion maxima during counter-rotation, leading to a net time-averaged repulsion
+  rather than zero net force.
+
+**Contrasted with AC-coil experiment**:
+  Replacing one disk with a fast-spinning permanent-magnet disk and the other with an
+  AC magnetic coil: the fast-changing AC field causes attraction (not repulsion). This
+  is attributed to normal electromagnetic induction — the rapidly alternating external
+  field induces eddy currents whose interaction with the permanent magnet produces net
+  attraction.
+
+  A stationary copper coil (no power, just spinning disk nearby) produces repulsion of
+  the disk — correctly attributed to Lenz's law eddy currents induced in the copper by
+  the alternating field of the spinning disk's magnets. This is standard induction.
+
+**Claimed anomaly**: The resonance-type sustained repulsion between two counter-rotating
+permanent-magnet disks is described as "NOT IN ANY TEXTBOOK OR JOURNAL" and as "bizarre,
+unexplained results." The mechanism by which counter-rotation preferentially selects the
+repulsion phase alignment (rather than producing a time-averaged zero force) is not
+explained by simple superposition of static magnetic forces and requires a dynamical
+analysis of the coupled rotors with shared-rod compliance.
+
+**Inspiration**: UFO contactee Norman Paulsen reported seeing two magnetic flywheels
+spinning in opposite directions in a craft. Drew's experiment is a direct laboratory
+attempt to investigate the physical consequences of this geometry.
+
+---
+
+## Source: 1926227948681523477.yaml (note_tweet) + referenced tweet 1926182246303625330
+
+### Homopolar Spin and Brushes — DC Generator Analogy for UFO Propulsion
+
+**Crop-circle evidence cited**: A May 1999 crop picture encodes "homopolar spin." The
+"eye-shaped lines" in the crop formation are identified as "brushes" — the sliding
+electrical contacts used in a homopolar (Faraday-disk) DC generator to extract current
+from a rotating conductor in a magnetic field.
+
+**Homopolar generator physics**: A conducting disk rotating at angular velocity ω in an
+axial magnetic field B (parallel to the rotation axis, i.e., both along Z) generates an
+electromotive force (EMF) given by:
+
+  EMF = (1/2) · ω · B · r²
+
+where r is the disk radius. The current flows radially outward (or inward) from the
+rotation axis to the rim, and is extracted via brushes at the axis and at the rim. This
+is a DC generator with no commutator, no alternating phases — pure DC from a symmetric
+rotating geometry.
+
+**Three-phase vs. homopolar spin**: The referenced tweet (1926182246303625330) states
+that in addition to three- or five-phase spin, "homopolar spin" may also be present in
+the Buga sphere (the spherical UAP object photographed in Buga, Colombia). The
+co-existence of multi-phase spin (which generates a rotating field in XY) and homopolar
+spin (which generates a DC axial current along Z) would represent a superposition of two
+distinct electromagnetic drive modes:
+  - 3-phase component: generates rotating magnetic field in XY plane (propulsive torque)
+  - Homopolar component: generates steady radial current with axial B field (axial force)
+
+**Experimental material**: Drew ordered $1000 of galinstan (a liquid metal alloy:
+gallium-indium-tin eutectic, melting point ~-19°C) to use as the conducting fluid in a
+homopolar device. Galinstan has electrical conductivity ~3.46 × 10^6 S/m and is liquid
+at room temperature, making it suitable for demonstrating free-flowing homopolar currents
+without mechanical brush contacts. A preliminary demonstration used salt water with green
+food dye.
+
+**Buga sphere connection**: The crop picture drawn in June 1999 is claimed to encode the
+Buga sphere's operating principle, with the homopolar brush symbols pointing to a
+homopolar DC generator operating inside or on the surface of the spherical craft.
+
+---
+
+## Source: 1998629281707204708.yaml + referenced tweet text
+
+### Tesla Homopolar Motor: DC Current Flow Geometry in UAP Physics Context
+
+Tweet: "Those are curved lines of DC current flow like in Tesla's homopolar motor."
+
+The referenced tweet (1998543870406365686) describes a Czech Republic 2019 crop picture
+allegedly drawn in response to a woman's question to an alien contact about how UFOs fly.
+Drew identifies curved lines in the crop formation as representing curved DC current
+trajectories in a homopolar motor/generator geometry.
+
+**Homopolar motor principle**: In Tesla's homopolar motor, DC current flows radially
+through a conducting disk rotating in an axial magnetic field. The Lorentz force on
+radial current carriers:
+  F = I · (dl × B)
+where dl is the radial current element and B is the axial field, produces a tangential
+(azimuthal) force — i.e., a torque — that drives rotation. For a radial current element
+at radius r with current I_r and axial field B_z:
+  dF_azimuthal = I_r · B_z · dr
+
+The total torque τ = ∫₀^R I_r · B_z · r dr.
+
+In the UAP context, Drew is claiming that the crop formation depicts the exact current-flow
+geometry of a homopolar motor/generator as the underlying electromagnetic circuit of the
+craft's propulsion system.
+
+**Curved (rather than straight radial) current trajectories**: Standard homopolar motors
+have straight radial current flow in the disk. "Curved lines of DC current flow" suggest
+either: (a) the current path is not purely radial but helical or spiral due to the
+geometry of the current-injection electrodes, or (b) the relevant geometry is a rotating
+spherical or hemispherical conductor rather than a flat disk, causing the geodesic
+current paths to be great-circle arcs rather than straight lines.
+
+---
+
+## Source: 2036202289552359612.yaml + referenced tweet 2036194828409786500
+
+### 3-Phase Coil UFO Model: Rotating Magnetic Field Generation
+
+Referenced tweet describes: "a new, 10-minute video of a simplified model by which to
+study UFO physics. The new model uses just 6 wire coils and one 3-phase power supply."
+
+A 3-phase coil arrangement with 6 coils (2 per phase, 120° apart) driven by a balanced
+3-phase supply generates a rotating magnetic field B(t) in the XY plane:
+
+  B_x(t) = B_0 · cos(ωt)
+  B_y(t) = B_0 · cos(ωt - 2π/3) · sin(2π/3) + B_0 · cos(ωt + 2π/3) · sin(2π/3)
+
+For a properly wound and balanced 3-phase winding with angular symmetry, the resultant
+field magnitude is constant: |B| = (3/2)·B_0, rotating at frequency ω in the XY plane.
+This is identical to the operating principle of a 3-phase AC induction motor stator.
+
+**Connection to counter-rotation (Edwin Fuhr 1974)**: The reference to "spin and
+counter-spin" from Fuhr's 1974 close encounter (a craft moving in one direction while
+the surrounding grass moved in the opposite direction: "grass is moving one way and the
+machine was going the other way," per 13_2036202214574940160_video.mdx) is directly
+analogous to the counter-rotating disk experiment: the outer field rotates in one
+direction (generated by the 3-phase stator) while the inner rotor or craft body rotates
+in the counter-direction. This differential rotation is claimed to be the operative
+physical regime for levitation/propulsion.

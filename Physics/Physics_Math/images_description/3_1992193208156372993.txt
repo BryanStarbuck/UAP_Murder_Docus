@@ -1,0 +1,38 @@
+Type: Annotated astronomical photograph — same technical parameters as 3_1992193177605005312.jpg (narrowband C₂ Swan Band filter, 15nm, Live Stack 114x4s, Analogue Gain=4000), but showing a different processing level or later accumulation stage where the nucleus is more prominent and shows an internal dark structure.
+
+Overall Image:
+* Same square frame and dark grey noisy background as companion image.
+* Identical technical annotations (upper-left):
+  - "Live Stack 114x4s Exp"
+  - "Analogue Gain=4000"
+  - "15nm C2 Swan-Band"
+* Same "SUN" arrow label at lower-left, same direction.
+* The image appears to be the same observation session — either a different processing stage (different stretch/contrast) or a slightly later time during the same live-stack session.
+
+Central Object — Key Difference:
+* The coma in this version shows a MORE DEVELOPED INTERNAL STRUCTURE compared to the companion image:
+  - A compact coma is still visible (approximately circular, ~8-10% of frame width)
+  - INSIDE the coma: a DARK REGION (the nucleus appears as a slightly darker or distinct zone, rather than the uniformly bright core in the companion image)
+  - Specifically: the innermost region shows a small DARK OVAL within the brighter surrounding coma — this is the "nucleus shadow" or a dust cocoon around the nucleus that absorbs some of the coma emission
+* The outer coma boundary appears slightly larger or more diffuse than in the companion image.
+* The coma asymmetry (toward the anti-solar direction) is similarly subtle.
+
+Comparison Between Companion Images:
+* 3_1992193177605005312.jpg: bright/light nucleus core, standard inner coma brightness
+* 3_1992193208156372993.jpg: dark central region within the coma (possible nucleus coma absorption structure or different stretch revealing the inner dark zone)
+* The dark inner region in this image may correspond to the same "inner dark zone" visible in the edge-detection images (3_1992107647152373760.jpg) — the concentric structure of: dark nucleus → bright ring → outer coma.
+
+Physical Significance:
+* The dark central nucleus visible through the bright surrounding coma in narrow-band C₂ filter imaging indicates that:
+  - The nucleus itself does NOT emit strongly at 516nm (C₂) — it is a dark solid body
+  - The C₂ emission comes from the GAS HALO surrounding the nucleus (not the nucleus surface)
+  - This is the standard cometary picture — C₂ molecules are produced by photodissociation of parent molecules (C₃, etc.) at some distance from the nucleus surface, creating a "photodissociation shell" that glows while the nucleus core is relatively dark
+* RC's interpretation: the dark nucleus center = the core of the electromagnetic drive (not emitting at C₂ wavelengths), surrounded by the C₂ emission ring = the active ionization zone.
+
+Text Visible (complete): Same as companion image.
+* "Live Stack 114x4s Exp"
+* "Analogue Gain=4000"
+* "15nm C2 Swan-Band"
+* "SUN" (label on arrow)
+
+Summary: Second frame from the same narrowband C₂ filter observation session as 3_1992193177605005312.jpg, showing a key difference: within the compact circular C₂-emitting coma (~8-10% frame width), a DARK CENTRAL OVAL/REGION is now visible — the nucleus core appearing dark against the bright surrounding C₂ coma. This demonstrates that the nucleus itself does not emit at 516nm (C₂ Swan Band) — the emission comes from the photodissociation shell surrounding the nucleus. RC interprets this as: dark drive core surrounded by the active C₂ emission ring, directly analogous to the electromagnetic ring drive with a dark central disc surrounded by the glowing ring of electromagnets.
