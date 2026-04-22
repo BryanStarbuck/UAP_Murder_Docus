@@ -1,0 +1,252 @@
+# overall_Physics.mdx
+# All Physics Equations and Chains of Reasoning
+# Source: RedCollie1 (Dr. Horace Drew) tweets/videos, directory 9/6
+
+---
+
+## Core Physical Claim: Spin-Magnetic Propulsion
+
+The central physics claim across all source material is:
+
+A permanent magnet rotating at high angular velocity under three-phase AC electromagnetic driving
+forces, positioned inside or below a counter-rotating magnetic flywheel, generates a net upward
+(+Z) translational force on the combined system, with no corresponding downward (-Z) reaction
+force detectable on a weighing scale.
+
+This claim, if valid, constitutes a violation of Newton's Third Law of motion as applied to
+macroscopic electromagnetic systems, or alternatively, it constitutes a transfer of reaction force
+to the field / vacuum rather than to the mechanical support.
+
+---
+
+## Newton's Third Law and the Claimed Anomaly
+
+Classical statement:
+For every action force F_12 exerted by object 1 on object 2, there is an equal and opposite
+reaction force F_21 = -F_12 exerted by object 2 on object 1.
+
+In the spinning magnet system:
+* If the spinning magnet exerts an upward force F_up on the flywheel above it,
+  classical mechanics requires the flywheel to exert an equal downward force F_down = -F_up
+  on the spinning magnet, and through the support, onto the scale.
+* Observed: scale shows no increase in weight when the spin is activated.
+* This is explicitly stated in tweet 1928347152150896786: "We can see only an upward force, in
+  both N or S orientations of the central spinning magnet, and do not see any Newtonian
+  downward force."
+* And from video transcription (13_1964076811551477760): "no change of weight on the scale
+  when we do that even if we go fast."
+
+Possible physical interpretations:
+1. The reaction force is transferred to the rotating electromagnetic field (i.e., to the photon
+   field / electromagnetic stress-energy tensor), not to the mechanical support. The field
+   carries momentum p_EM = epsilon_0 * (E x B) per unit volume, and the reaction force would
+   appear as a change in field momentum, not in the mechanical system weight.
+2. The effect is a measurement artifact (the scale captures steady-state weight only; transient
+   forces during spin-up are not captured).
+3. Genuine violation of Newton's 3rd Law (no mainstream physical mechanism supports this).
+
+---
+
+## Torque and Counter-Torque: Classical vs. Proposed Behavior
+
+Source: tweet 2010858312292790630 (referenced tweet 2010857577387868637).
+
+Classical description:
+"Classical physics usually describes torque and counter-torque by Newton's 3rd Law of
+action-reaction."
+
+For a DC current driving a homopolar motor (Lorentz force spinning):
+* Torque on disc: tau_disc = I * r * B * L (where r = radius, B = axial field, L = path length)
+* Reaction torque on support/brush: tau_reaction = -tau_disc
+
+The question posed: "What happens if the 'green boat' in video 1 is spinning due to DC current
+and a Lorentz force, like for a homopolar motor? Now any extra force..."
+(text truncated in source, continued in later posts)
+
+The question implies: if the reaction torque from a Lorentz-driven spinning disc is somehow
+suppressed or redirected, the disc can spin with action > reaction.
+
+---
+
+## Energy Conservation Argument for Counter-Spin Action > Reaction
+
+Source: tweet 2039849887341396035, with quoted text from 2039847044744118505.
+
+Explicit energy-conservation analysis:
+"Let us consider the various energies E = mv^2 of the spinning objects, which MUST remain conserved.
+First we give spin-energy of E = mv^2 to an upper disc, where v = -2 anticlockwise.
+By Newton's 3rd [Law the lower disc gets opposite spin]..."
+
+Note: The author uses E = mv^2 as a scalar kinetic energy proxy for spinning objects. The standard
+expression is:
+  E_rot = (1/2) * I * omega^2 = (1/2) * m * r^2 * omega^2
+
+For a disc with mass m, radius r, moment of inertia I = (1/2)*m*r^2:
+  E_rot = (1/4) * m * (r*omega)^2 = (1/4) * m * v_rim^2
+
+The author's "E = mv^2" appears to use v as the rim velocity (v = r*omega), so:
+  E_author = m * v^2 = m * (r*omega)^2
+
+This is 4x the standard rotational KE but is a monotonic function of omega, so it tracks
+conservation correctly as a proxy.
+
+The core question: if an upper disc has v = -2 (anticlockwise, pre-spun), and a lower disc is
+then given spin in the opposite direction, how does energy conservation constrain the final
+velocities? And can the pre-loading of one disc into counter-spin allow the total action on the
+other disc to exceed the classical Newtonian reaction?
+
+Physical context: this is related to the gyroscope precession problem and the Magnus effect,
+where coupling between spin angular momentum and translational motion produces forces that can
+appear to violate simple Newtonian intuition.
+
+---
+
+## Lorentz Force Chain of Reasoning (Homopolar Motor)
+
+For a disc magnet of radius R carrying axial field B_z, with radial DC current I_r:
+
+Force per unit volume on current element:
+  dF = J x B = J_r * B_z * phi_hat (azimuthal)
+
+Integrated torque:
+  tau = integral from 0 to R of (J_r * B_z * r * 2*pi*r*dr) -- for uniform current density
+
+Net torque on the disc:
+  tau = (pi/2) * J_0 * B_z * R^4 (for uniform current density J_0)
+
+This torque causes the disc to spin about the Z-axis. The reaction torque on the return current
+path (the external circuit, brushes or galinstan contacts) is equal and opposite.
+
+With galinstan (liquid metal) contacts replacing brushes:
+* No mechanical bearing friction
+* Reaction torque on galinstan is transmitted as fluid rotation in the liquid metal bath
+* If the galinstan itself is allowed to rotate (free liquid surface), the reaction torque is
+  partially absorbed into the angular momentum of the liquid metal, not into a rigid support
+* This could partially decouple the mechanical reaction from the rigid support structure
+
+---
+
+## Three-Phase AC Rotating Field: Force on Magnetic Dipole
+
+For a permanent magnet with magnetic moment mu = mu * z_hat (axial dipole), placed in a
+rotating transverse field B_rot = B_0 * (cos(omega*t) * x_hat + sin(omega*t) * y_hat):
+
+Torque:
+  tau = mu x B_rot
+      = mu_z * B_0 * (cos(omega*t) * (z_hat x x_hat) + sin(omega*t) * (z_hat x y_hat))
+      = mu_z * B_0 * (cos(omega*t) * y_hat - sin(omega*t) * x_hat)
+
+This torque is purely in the XY plane -- it drives rotation of the magnet about Z.
+
+No direct Z-axis translational force arises from this in classical electrodynamics. A translational
+force would require a field gradient: F_z = mu_z * (dB_z/dz).
+
+The Z-axis force, if present, must come from:
+(a) A field gradient in the Z-direction created by the geometry of the coil arrangement and
+    the position of the spinning magnet relative to the flywheel ring.
+(b) A spin-dependent modification of the effective magnetic moment (e.g., through dynamic
+    magnetomechanical coupling) that produces an enhanced dB/dz interaction.
+
+The author's claim that both N-up and S-up orientations of the central magnet produce the same
+upward force is significant: in classical gradient force, the sign of F_z = mu_z * (dB_z/dz)
+depends on the sign of mu_z (i.e., flipping N/S should flip the force direction). If flipping
+N/S does NOT change the direction of the observed force, this cannot be a classical gradient
+force -- it would require a force law dependent on |omega| (angular velocity magnitude) rather
+than on the sign of mu.
+
+---
+
+## Planar Magnetic Attraction / Restoring Force
+
+Central S magnet below the plane of the 4N flywheel ring:
+  U(z) = -mu_0 / (4*pi) * sum over 4 N magnets of [3*(mu_i dot r_hat_ij)^2 - mu_i^2] / r_ij^3
+
+For the central S magnet at position z below the ring plane (z < 0):
+  F_z = -dU/dz > 0 (upward restoring force)
+
+This is a standard dipole-dipole interaction restoring force. It increases as z becomes more
+negative (i.e., as the central magnet moves further below the ring).
+
+When the central magnet is spinning rapidly AND counter-spin is active:
+* Observed: z shifts to z < 0 (central magnet moves below the flywheel).
+* The restoring force F_z > 0 is then applied not just to the central magnet but the entire
+  assembly (because the central magnet is magnetically coupled to the flywheel).
+* If this restoring force exceeds the weight of the assembly, the assembly rises.
+
+---
+
+## Spin Angular Momentum and Gyroscopic Effects
+
+A spinning magnetic disc has both mechanical angular momentum L = I*omega (gyroscopic) and
+magnetic moment mu = gamma * L, where gamma is the gyromagnetic ratio.
+
+For a classical spinning charged sphere:
+  gamma = q / (2m)
+For a ferromagnet:
+  gamma_eff = g * (e / (2m_e)) where g is the Lande g-factor (approximately 2 for electron spin)
+
+When the spinning magnet is subjected to an external field B_ext (either from the counter-spinning
+flywheel or from the three-phase coils), the torque on mu causes precession:
+  dL/dt = mu x B_ext = tau
+
+For a gyroscope with spin angular momentum L_z along Z:
+  Precession frequency: omega_precession = (mu * B_ext) / L_z
+
+This precession has a translational consequence in an inhomogeneous field: the Stern-Gerlach
+force F_z = mu_eff * (dB_z/dz) is modified by the precessing effective dipole moment.
+
+A rapidly precessing magnetic dipole has a time-averaged magnetic moment that depends on the
+angle between L and B_ext. In the rapid precession limit (omega_precession >> 0), the dipole
+adiabatically follows B_ext and the effective Z-force is the standard gradient force. But in a
+transitional regime (omega_spin ~ omega_precession), the coupling becomes resonant and non-trivial.
+
+---
+
+## Electromagnetic Induction: Crop Circle Formation Physics
+
+Source: tweet 2018550866631155739 (note_tweet), tweet 2021498971408171115.
+
+Physical observation argument for non-human crop circle origin:
+"All of the many flattened circles in that field appeared as perfectly round from the air even
+though the crop picture was drawn over 300 metres across rolling hills. If men had made it using
+rope and boards all of those circles would have appeared from the air as ellipses. The rope and
+board theory can thus be ruled out at a 99% level."
+
+Physical reasoning: a circle inscribed on a tilted plane (rolling hill terrain) appears as an
+ellipse in a flat projection (aerial photograph), due to the affine transformation:
+  x' = x * cos(theta)   (for a hillside tilted at angle theta from horizontal)
+  y' = y               (perpendicular to tilt)
+
+The eccentricity of the apparent ellipse: e = sqrt(1 - cos^2(theta)) = sin(theta).
+
+For a 300-meter formation over rolling hills, the terrain tilt is non-negligible. The fact that
+all sub-circles appear perfectly round (not elliptical) from the air implies either:
+(a) The formation was created by a process that compensates for terrain tilt (e.g., a process
+    that applies force vertically, not perpendicular to the ground), or
+(b) The formation creator had a vertical (Z-axis) reference independent of local terrain slope
+    (e.g., a gravitational vertical reference from above, consistent with an aerial device).
+
+---
+
+## Compact Fusion Device Parameters
+
+Source: tweet 2032947705878818969.
+
+Device: 50 mm vacuum-reaction chamber.
+Operating conditions:
+  Gas: argon
+  Voltage: 40 kV DC
+  Power: 6 kilowatts
+  Secondary: 240 volts AC applied to 1 kg copper electrode
+
+At 40 kV DC in argon at reduced pressure, the physics regime is:
+* Paschen curve minimum for argon: approximately 100 V at p*d product of ~0.7 Torr*cm
+* At 40 kV, breakdown occurs at a different p*d range; this is consistent with a glow-discharge
+  or Farnsworth-Hirsch fusor-type configuration (inertial electrostatic confinement, IEC).
+* IEC fusion: ions accelerated radially inward by the electric field undergo fusion reactions
+  near the center. For argon, nuclear fusion is not achieved; fusion requires deuterium or
+  deuterium-tritium. The argon at 40 kV is likely a plasma test run (argon is used as a
+  safe test gas before fusion fuels are introduced).
+* The 6 kW power input at 40 kV corresponds to a current of: I = P/V = 6000/40000 = 0.15 A.
+* This is within the range of IEC fusor operating currents (typically 1-100 mA for experimental
+  devices, up to ~100 mA for higher-power units).

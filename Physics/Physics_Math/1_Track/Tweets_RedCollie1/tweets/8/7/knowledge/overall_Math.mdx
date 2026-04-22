@@ -1,0 +1,189 @@
+## overall_Math.mdx
+## Source: RedCollie1 (Dr. Horace Drew), Caltech / MRC LMB Cambridge
+## Directory: tweets/8/7/
+## Extracted: 2026-04-22
+
+============================
+ALL MATHEMATICAL EQUATIONS, COMPONENTS, AND RELATIONSHIPS
+============================
+
+NOTE: The source material (tweets and video transcriptions) does not contain formal mathematical equations written in standard notation. What follows is a complete extraction of all quantitative relationships, dimensional quantities, scaling arguments, and mathematical structures that can be derived or inferred from the explicit content. Equations are reconstructed to full rigor where the physics is unambiguous.
+
+============================
+I. LORENTZ FORCE — FUNDAMENTAL DRIVING EQUATION
+============================
+
+The Lorentz force on a charge carrier in an electromagnetic field:
+    F = q(E + v × B)
+
+For a current-carrying conductor in an external magnetic field (macroscopic form):
+    dF = I (dL × B)
+
+Or in volume form:
+    f = J × B   [force per unit volume, where J is current density, A/m^2]
+
+Application to homopolar motor (liquid galinstan):
+* B = B_z * z-hat (axial magnetic field from permanent magnet)
+* J = J_r * r-hat (radial current density, from inner to outer electrode under applied DC voltage)
+* Force density: f = J_r * r-hat × B_z * z-hat = J_r * B_z * (r-hat × z-hat) = J_r * B_z * (-phi-hat)
+
+This azimuthal force density drives the galinstan into rotation in the -phi direction (i.e., anti-clockwise if J_r is outward and B_z points up by right-hand convention, or clockwise if J_r is inward).
+
+Switching polarity of DC (+/- → -/+) reverses J_r → -J_r → reverses f → reverses rotation direction.
+Source: YAML 1995658627571728665, MDX 13_1975492158070398976
+
+============================
+II. HOMOPOLAR GENERATOR EMF — FARADAY DISK EQUATION
+============================
+
+For a conducting disc of inner radius r_i and outer radius r_o, rotating at angular velocity omega in an axial magnetic field B_z:
+
+    V_EMF = integral_{r_i}^{r_o} (v × B) . dr
+
+where v = omega * r * phi-hat (azimuthal velocity of a disc element at radius r):
+
+    v × B = (omega * r * phi-hat) × (B_z * z-hat)
+           = omega * r * B_z * (phi-hat × z-hat)
+           = omega * r * B_z * (-r-hat)
+
+Therefore:
+    (v × B) . dr-hat = -omega * r * B_z
+
+    V_EMF = -integral_{r_i}^{r_o} omega * r * B_z dr
+           = -omega * B_z * [r^2 / 2]_{r_i}^{r_o}
+           = -omega * B_z * (r_o^2 - r_i^2) / 2
+
+(Sign convention: EMF drives current outward for positive omega and positive B_z; sign depends on contact geometry.)
+
+Measured values:
+* With liquid galinstan pool and 3-phase driven magnet: I ≈ 0.04 mA [MDX 13_1975492158070398976]
+* With 3-phase power spinning magnet into galinstan: I ≈ 0.15 mA [YAML 1975495221040574744, note_tweet.text]
+* Electrode geometry (Buga sphere): 32 outer electrodes, 16 inner electrodes.
+
+============================
+III. ANGULAR MOMENTUM — CONSERVATION AND GYROSCOPIC PRECESSION
+============================
+
+Angular momentum of spinning magnet:
+    L = I * omega_spin * L-hat
+
+where I is the moment of inertia of the disc magnet (for a solid disc: I = (1/2) M R^2; for an annular disc with hole: I = (1/2) M (R_o^2 + R_i^2)), omega_spin is angular speed, and L-hat is the spin axis unit vector.
+
+Gyroscopic precession rate under applied torque tau:
+    Omega_prec = |tau| / (I * omega_spin)
+
+The rotating magnetic field exerts a torque tau on the spinning magnet proportional to the magnetic coupling strength (product of field amplitude and magnet dipole moment, modulated by the lag angle between field and magnet poles):
+    tau = mu × B_applied
+
+At low omega_spin (Newtonian domain):
+* tau is large relative to L: Omega_prec is large, meaning the spin axis precesses rapidly.
+* The magnet's reaction is primarily translational (downward axial force), producing Newtonian rod-lift.
+
+At high omega_spin (non-Newtonian / top domain):
+* L is large: Omega_prec → 0 for the same tau.
+* The gyroscope "locks" and rises along its spin axis.
+* The rod-reaction vanishes because L cannot be tilted rapidly by tau.
+
+Transition frequency estimate:
+* Newtonian domain: f < ~15 Hz
+* Transition: 15-25 Hz
+* Non-Newtonian top regime: f ≥ 25-30 Hz
+Source: YAML 1915646498899189919
+
+============================
+IV. THREE-PHASE AC FIELD ROTATION — PHASE RELATIONSHIP MATHEMATICS
+============================
+
+Three-phase rotating magnetic field produced by three coils at 120-degree spatial separation, fed by three-phase AC at frequency f:
+
+    B_U(t, phi) = B_max * cos(2*pi*f*t) * cos(phi)
+    B_V(t, phi) = B_max * cos(2*pi*f*t - 2*pi/3) * cos(phi - 2*pi/3)
+    B_W(t, phi) = B_max * cos(2*pi*f*t - 4*pi/3) * cos(phi - 4*pi/3)
+
+Total field sum:
+    B_total = (3/2) * B_max * cos(2*pi*f*t - phi)
+
+This is a uniformly rotating magnetic field of constant amplitude (3/2)*B_max, rotating at angular frequency omega = 2*pi*f.
+
+For 6-coil stator (double-wrapped U-V-W-U-V-W notation):
+* Two complete sets of U-V-W at the same or interleaved positions produce a double-amplitude field or a two-pole-pair field with spatial period pi (rather than 2*pi).
+* Field rotation speed same (omega = 2*pi*f) but two complete field cycles per physical revolution (effectively a 4-pole motor).
+Source: YAML 2032411145626370202
+
+For 5-phase AC (Buga sphere):
+    Five coils at 72-degree intervals:
+    B_k(t, phi) = B_max * cos(2*pi*f*t - 2*pi*(k-1)/5) * cos(phi - 2*pi*(k-1)/5), k = 1,...,5
+    Total: rotating field with 5-fold symmetry, constant amplitude (5/2)*B_max.
+Source: YAML 1970665844293411200
+
+============================
+V. POWER INPUT AND FORCE SCALING
+============================
+
+Experimental power input: 500 W total (variable frequency drive + three-phase coils).
+[MDX 13_1915645568136994817: "only 500 watts in total"]
+
+Force produced at 15 Hz (Newtonian domain): up to 1000 g ≈ 9.81 N
+Force produced in non-Newtonian domain (25-30 Hz): top-like — direction of action reverses (lifts the magnet upward rather than pushing rod upward).
+Estimated anti-gravity effect at bench scale: 300-500 g ≈ 2.9-4.9 N [YAML 1927894736012288203, note_tweet.text]
+Reported possible anti-gravity effect at 50 A counter-spin: 2-3 g ≈ 0.02-0.03 N [YAML 1995658627571728665]
+
+Scale-up proposal:
+* Counter-spin current: 50 A → 250-500 A (5x to 10x increase)
+* Predicted anti-gravity (linear scaling): 2-3 g * 5 ≈ 10-20 g target
+* Linear scaling of Lorentz force with current: F ∝ I (at constant B and geometry), so F scales 5x to 10x.
+Source: YAML 1995658627571728665
+
+============================
+VI. MASS RECOIL — MOMENTUM BALANCE
+============================
+
+System: spinning magnet (mass M_mag) + counter-spinning medium (mass M_medium).
+Total angular momentum conservation:
+    L_total = L_mag + L_medium = I_mag * omega_mag + I_medium * omega_medium = 0
+
+This requires:
+    omega_medium = -(I_mag / I_medium) * omega_mag
+
+If I_mag << I_medium (e.g., small magnet vs. large galinstan pool), then omega_medium << omega_mag — the medium counter-spins slowly.
+
+The claim is that this angular momentum balance (L_total = 0) allows the system to push upward on the vacuum/gravitational field without a downward reaction on the source frame, because the internal counter-spin absorbs the reaction.
+
+Shotgun analogy:
+    p_bullet + p_gun = 0 (momentum conservation)
+    The "counter-spin" is the gun recoil; "upward spin" is the projectile.
+    The proposal is to redirect the recoil into the counter-rotating medium rather than into the craft frame.
+Source: YAML 1984099721565368341, YAML 1995658627571728665
+
+============================
+VII. STATOR GEOMETRY AND COIL ARRANGEMENT — DIMENSIONAL PARAMETERS
+============================
+
+Apparatus dimensions (from TXT preview file):
+* Acrylic frame: multi-tier circular structure, brass support rods 4-6 mm diameter, 8-10 rods total.
+* Upper tier coils: 4 coils, each approximately 80-100 mm apparent diameter, wound with enameled copper wire.
+* Coil angular spacing: approximately 90 degrees (4-pole, compatible with 3-phase if one phase split across two coils) or 60/120 degrees (3-pole 3-phase).
+* Lower tier: one smaller amber/yellow coil (sensing or driving).
+* Central shaft: vertical, chrome/silver, running through magnet hole (14 mm to accommodate 14 mm hole in magnet).
+* Primary magnet: 70 mm diameter, 14 mm axial hole.
+* Repulsion magnet: 60 mm diameter (below primary).
+* Elastic coupling bead: silicone, approximately 20 mm, soft.
+Source: TXT 13_1915645568136994817_preview.txt
+
+============================
+VIII. DOUBLE-STATOR CANCELLATION GEOMETRY — FIELD SUPERPOSITION
+============================
+
+Upper stator field (clockwise rotation, viewed from above): B_upper(t, phi) = B_max * cos(omega*t - phi) * z-hat (for the upward-extending component)
+Lower stator field (anti-clockwise rotation): B_lower(t, phi) = B_max * cos(omega*t + phi) * z-hat
+
+Superposition at midpoint between stators:
+    B_total = B_upper + B_lower = B_max * [cos(omega*t - phi) + cos(omega*t + phi)]
+             = 2 * B_max * cos(omega*t) * cos(phi)
+
+This is a linearly oscillating field (not rotating), with amplitude 2*B_max*cos(phi). A permanent magnet in this field experiences an oscillating (not rotating) torque — no net spin. This is the "cancellation" the investigator describes for a magnet placed between the two stators.
+
+For a magnet above the upper stator only (upward helical extension):
+    B_net_above = B_upper_extended - B_lower_extended (partial cancellation of the downward-extending clockwise field by the anti-clockwise lower stator)
+The anti-clockwise lower stator's field extends upward less strongly than the upper stator's field extends upward, so the cancellation is partial. Net rotating component persists to drive the magnet upward, but downward reaction component is reduced.
+Source: YAML 1934394218669318471

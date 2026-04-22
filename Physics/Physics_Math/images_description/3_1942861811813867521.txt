@@ -1,0 +1,33 @@
+SHAPES:
+- Large circle (outline only, black stroke ~8px thick): centered approximately at pixel (480, 490), diameter ~900px, white fill interior. The circle is not fully closed — the upper-right quadrant is cut open/missing.
+- Ellipse/oval (outline, black stroke): in the lower half of the large circle, oriented horizontally, approximately 600px wide and 280px tall, centered near pixel (490, 680). This oval contains internal elements.
+- Small solid circle (filled black): centered approximately at pixel (490, 620), diameter ~70px, serving as the center of the elliptical structure.
+- Chevron/shield shape below the small circle: a downward-pointing angular bracket or "C"-shaped open cup formed by thick black lines, centered below the small black circle near pixel (490, 700). Width ~200px.
+- Striped arc/sector in upper-right: a wedge-shaped region approximately from 1 o'clock to 3 o'clock on the main circle, filled with alternating black and white horizontal stripes (approximately 7 stripes). Located roughly at pixels (530–780, 120–380).
+- A diagonal straight line (thick, black) runs from approximately pixel (490, 80) downward to the right at roughly 45 degrees, ending near pixel (760, 350), forming the right boundary of the upper-left quadrant.
+- A second straight line (thick, black) runs from approximately pixel (760, 200) downward-left to approximately pixel (680, 380), forming the right boundary of the striped sector.
+
+TEXT: No text is visible in this image.
+
+COLORS:
+- Background: solid white
+- All strokes and fills: black
+- Interior of shapes: white (no color fills used)
+
+PHYSICS CONCEPTS:
+- The image appears to be a stylized schematic or logo. The large circle with an opening and internal elliptical orbit suggests a particle orbit or atomic model concept.
+- The striped arc in the upper quadrant could represent electromagnetic radiation or wave emission from a specific angular sector.
+- The ellipse with a central body and downward-pointing notch/cup resembles representations of a particle orbiting a nucleus, or alternatively a cross-section of a focusing device or magnetic trap (Penning trap, cyclotron cross-section).
+- The chevron/cup below the center could indicate a downward energy emission or a shaped field structure.
+- No axes or equations appear.
+
+SPATIAL RELATIONSHIPS:
+- The large circle dominates the entire image.
+- The upper-left quadrant of the large circle is a plain white half-disk.
+- The upper-right region (roughly a 60-degree wedge) contains the striped arc.
+- The ellipse occupies the lower half of the large circle interior.
+- The small black circle is centered within the ellipse, slightly above center.
+- The chevron shape hangs below the small black circle.
+
+HIGH-LEVEL SUMMARY:
+This is a black-and-white schematic icon or logo-style graphic, possibly representing a cyclotron, synchrotron, or orbital/atomic structure. The combination of a large containing circle with an elliptical inner orbit, a radiating striped arc sector, and a central mass with a downward-pointing field structure suggests a depiction of charged-particle circular motion with associated field emission — consistent with a cyclotron cross-section, a Penning trap schematic, or an abstract symbol for exotic propulsion concepts involving rotating plasma or circular electromagnetic fields. The partial opening in the main circle may represent an injection/extraction port for particles.

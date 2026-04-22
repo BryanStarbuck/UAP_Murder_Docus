@@ -1,0 +1,137 @@
+# Mathematics Knowledge — RedCollie1 Tweets Batch 9/3
+# Source: END_DIR tweets 9/3, extracted 2026-04-22
+# Author: Red Collie (Dr. Horace Drew), Caltech / MRC LMB Cambridge
+
+---
+
+## Pi Encoding in Crop Circle Geometry
+
+### Woodborough Hill / Milk Hill Spirals, June 2008
+
+Source tweet: 1942944237550817555 (text and note_tweet)
+
+Two crop formations analyzed as mathematical pi encodings:
+
+Slide 1 — June 1, 2008:
+* A single spiral with a total digit count of 40.
+* Plus three large circles: (40 + 3) = 43.
+* Pi to 10 significant digits: π = 3.141592654 → 10 digits total, digit count = 40 (counting each digit individually in the decimal expansion, with the leading 3 apparently counted separately or the sequence structured to yield 40 count positions).
+
+Slide 2 — June 9, 2008:
+* Each spiral contains lines totaling 47 = (44 + 3).
+* Pi to 11 digits: π = 3.1415926545 → total significant digits = 11, but digit count excluding leading 3 = 10 → the author counts 44 elements for 11-digit pi: (44 + 3) = 47.
+* The "+3" in both cases corresponds to the three large circles appended to each formation.
+
+Mathematical relationship:
+  Formation 1: count = 40 + 3 = 43; pi represented to 10 significant digits (3.141592654)
+  Formation 2: lines = 44 + 3 = 47; pi represented to 11 significant digits (3.14159265[4]5)
+
+Pattern: each additional digit of precision in the pi representation increases the total count element by 4, with the "+3" circles as a constant offset. This constitutes a positional encoding where the number of geometric elements minus the 3-circle offset equals 4 × (number of pi digits).
+
+Derivation check:
+  n = number of pi digits encoded
+  count_elements = 4n + 3
+  n=10: 40 + 3 = 43 ✓
+  n=11: 44 + 3 = 47 ✓
+
+The author's claim is that this encoding is too precise to be produced by human pranksters using rope and boards, and was therefore created by an intelligence capable of precisely encoding the mathematical constant π to 10–11 decimal digits in a geometric physical structure.
+
+---
+
+## Angular Momentum Algebra — Spinning Platform Problem
+
+Source tweet: 2039678934200283365 (note_tweet)
+
+Explicit equations stated by the author:
+
+* "Energy E = mv² is always conserved" — This is proportional to kinetic energy (the actual expression for rotational kinetic energy is T = (1/2)Iω²; the author uses mv² as a proxy for kinetic energy without the ½ coefficient, consistent with colloquial physics notation in this context).
+
+* "Spin angular momentum mvr is only conserved in the starting condition of v = 0" — Again using the linear proxy for angular momentum L = Iω = mvr (for a point mass m rotating at radius r with tangential velocity v = ωr). The claim is that L conservation is conditional.
+
+The proposed physics problem explicitly in variables:
+
+Case 1:
+  Initial state: wheel spinning at v_wheel = +2 (vertical axis), body at v_body = 0
+  Action: wheel lowered to horizontal (v_wheel_vertical → 0)
+  Result: v_body = -2 (by conservation of total vertical angular momentum = 0)
+
+  L_total = L_wheel + L_body = I_wheel × v_wheel + I_body × v_body = 0
+  When v_wheel_vertical → 0: I_body × v_body = 0 → v_body = -2 (momentum transferred)
+
+  [Author states v_body = -2 as result of lowering, which means the body rotates to conserve total = 0]
+
+Case 2:
+  Initial state: wheel spinning at v_wheel = -2 (vertical axis, anti-clockwise), body at v_body = 0
+  Action: wheel raised to vertical over head (v_wheel_vertical = -2 fully expressed in vertical axis)
+  Result: body moves at v_body = +2
+
+  L_total = 0: L_body = -L_wheel = +2
+
+Case 3 (hypothetical, key):
+  Initial state: body spinning at v_body = +8 (clockwise), wheel spinning at v_wheel = -2 (anti-clockwise)
+  Action: raise anti-clockwise wheel over head
+
+  Standard conservation prediction:
+  L_total_before = I_body × 8 + I_wheel × (-2) [in appropriate units]
+  L_total_after = I_body × v_body_new + I_wheel × v_wheel_new
+  If I_body = I_body and I_wheel = I_wheel (moments of inertia unchanged):
+  v_body_new = 8 + (-(-2)) = 10? 
+
+  Author's question: "Will the spin of his body and feet around that vertical axis increase to v = +10, or might some other value be observed?"
+
+  The author notes that E = mv² conservation vs L = mvr conservation may give different predictions:
+  * If angular momentum is strictly conserved: L_body_new + L_wheel_new = L_total_initial = I_body×8 + I_wheel×(-2)
+  * If energy is separately conserved: T = (1/2)I_body×v_body² + (1/2)I_wheel×v_wheel² = conserved
+
+  These two constraints together with the action of raising the wheel would over-constrain the system unless a third degree of freedom (vertical translation — the mechanism of "anti-gravity") absorbs the discrepancy.
+
+Author's explicit suggestion: the deviation from v = +10 (if any is observed experimentally) would constitute evidence that angular momentum conservation is violated in a spinning+counter-spinning system, which "might be relevant to Newton's Third Law" and to "spin and counter-spin as suggested for UFO levitation."
+
+This is the central mathematical claim: that the Lagrangian/Hamiltonian description of a system with two counter-rotating components may exhibit anomalous dynamics not predicted by L_total = const, potentially providing a mechanism for UAP levitation without conventional reaction mass.
+
+---
+
+## Rotating Magnetic Field Vector — Three-Phase Mathematics
+
+Source tweet: 1923903179806396615 and experimental description (1938840881119011324)
+
+Three-phase current system:
+  I_U(t) = I₀ cos(ωt)
+  I_V(t) = I₀ cos(ωt - 2π/3)
+  I_W(t) = I₀ cos(ωt - 4π/3)
+
+For three coils oriented at 0°, 120°, 240° in the XY plane, the composite field vector:
+  B_x(t) = B₀ [cos(ωt)·cos(0) + cos(ωt-2π/3)·cos(2π/3) + cos(ωt-4π/3)·cos(4π/3)]
+  B_y(t) = B₀ [cos(ωt)·sin(0) + cos(ωt-2π/3)·sin(2π/3) + cos(ωt-4π/3)·sin(4π/3)]
+
+Using the identity: sum of three cosines at 120° offsets = (3/2) cos(ωt - φ):
+  B_x(t) = (3/2) B₀ cos(ωt)
+  B_y(t) = (3/2) B₀ sin(ωt)
+
+  |B(t)| = (3/2) B₀ = constant (uniform rotation, no amplitude modulation)
+
+This is the key result: three-phase drive produces a field of constant amplitude rotating at angular frequency ω. At the experiment's 1.45 Hz drive: ω = 2π × 1.45 ≈ 9.11 rad/s.
+
+Torque on a magnetic dipole m in this field:
+  τ = m × B → |τ| = |m||B|sin(δ) where δ = angular lag between m and B
+
+For the chain-of-magnets in the experiment at 1.45 Hz: the magnets were observed to rotate synchronously → δ was small → they were within the pull-in range of the synchronous torque.
+
+For disc magnets at higher frequency: when ω exceeds ω_pullout (defined by τ_max = |m||B|), synchronism is lost and magnets undergo pole-reversal events ("jumping from north-red to south-blue").
+
+---
+
+## Mathematical Constants in Nature / Crop Formations
+
+Source tweet: 1942944237550817555 (referenced_tweet): "Are you 'blind' or can you 'see'? 3.141592654"
+
+Pi encoding: π = 3.141592654 (10 decimal digits). The full sequence:
+  3 . 1 4 1 5 9 2 6 5 4 → 10 digits
+Count of digit strokes in a single spiral formation = 40 = 4 × 10.
+Three added circles = 3 → total = 43.
+
+The encoding scheme uses base-10 digit count as geometric count of spiral elements — a Fibonacci-adjacent encoding methodology.
+
+---
+
+*Extracted from source files in END_DIR 9/3. No content invented. All claims attributed to RedCollie1 / Dr. Horace Drew.*

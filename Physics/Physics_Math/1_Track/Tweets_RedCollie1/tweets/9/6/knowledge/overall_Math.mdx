@@ -1,0 +1,261 @@
+# overall_Math.mdx
+# All Mathematical Equations, Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets/videos, directory 9/6
+
+---
+
+## Author's Explicit Mathematical Formulation
+
+### Kinetic Energy of Spinning Objects (tweet 2039849887341396035 and quoted 2039847044744118505)
+
+The author's formulation:
+  E = mv^2
+
+where v is described as the velocity of the spinning disc.
+
+Standard rotational KE for a rigid body:
+  E_rot = (1/2) * I * omega^2
+
+For a uniform disc, moment of inertia: I = (1/2) * m * R^2
+  E_rot = (1/4) * m * R^2 * omega^2 = (1/4) * m * v_rim^2
+
+The author's E = mv^2 uses v = rim velocity = R*omega:
+  E_author = m * v_rim^2 = m * R^2 * omega^2 = 4 * E_rot
+
+This is a factor-of-4 rescaled kinetic energy, but it is a monotonically increasing function
+of omega^2, so it correctly tracks which objects have more or less rotational energy.
+
+The conservation condition:
+  E_total = sum_i m_i * v_i^2 = constant
+
+Applied to the counter-spin problem:
+* Upper disc given spin energy E_1 = m_1 * v_1^2, v_1 = -2 (anticlockwise)
+* By classical Newton's 3rd Law, the lower disc gets opposite spin: v_2 = +X such that
+  total angular momentum is conserved.
+* The question: if total energy E_total = m_1*(−2)^2 + m_2*v_2^2 must be conserved,
+  and m_1 = m_2, then v_2^2 = 4, so v_2 = ±2.
+* Classical result: both discs spin at equal and opposite speeds. Action = reaction.
+* Proposed result: if the upper disc is pre-spun to v = -2 BEFORE the lower disc is spun,
+  can the lower disc achieve v > 2? The author's claim is yes, via some mechanism that allows
+  the pre-loaded counter-spin to reduce the reaction coupling.
+
+---
+
+## Three-Phase Rotating Field Mathematics
+
+Three-phase voltage set (balanced):
+  V_a(t) = V_0 * cos(omega * t)
+  V_b(t) = V_0 * cos(omega * t - 2*pi/3)
+  V_c(t) = V_0 * cos(omega * t - 4*pi/3)
+
+For three coils oriented at 0°, 120°, 240° in the XY plane, the magnetic field contributions:
+  B_a = B_0 * cos(omega*t) * cos(0°) x_hat + B_0 * cos(omega*t) * sin(0°) y_hat
+       = B_0 * cos(omega*t) * x_hat
+
+  B_b = B_0 * cos(omega*t - 2*pi/3) * cos(120°) x_hat
+      + B_0 * cos(omega*t - 2*pi/3) * sin(120°) y_hat
+
+  B_c = B_0 * cos(omega*t - 4*pi/3) * cos(240°) x_hat
+      + B_0 * cos(omega*t - 4*pi/3) * sin(240°) y_hat
+
+Summing x-components:
+  B_x = B_0 [cos(omega*t)*1 + cos(omega*t - 2pi/3)*(-1/2) + cos(omega*t - 4pi/3)*(-1/2)]
+      = (3/2) * B_0 * cos(omega*t)
+
+Summing y-components:
+  B_y = B_0 [cos(omega*t)*0 + cos(omega*t - 2pi/3)*(sqrt(3)/2) + cos(omega*t - 4pi/3)*(-sqrt(3)/2)]
+      = (3/2) * B_0 * sin(omega*t)   [with appropriate sign convention]
+
+Resultant field:
+  B_rot = (3/2) * B_0 * [cos(omega*t) x_hat + sin(omega*t) y_hat]
+
+Magnitude: |B_rot| = (3/2) * B_0 = constant (does not vary with time)
+Direction: rotates at angular frequency omega in XY plane.
+
+This is the standard result for a balanced three-phase system producing a constant-amplitude
+rotating field vector.
+
+---
+
+## Five-Phase Rotating Field Mathematics
+
+For five balanced phases at 2*pi/5 = 72° separation:
+  B_k = B_0 * cos(omega*t - 2*pi*k/5) for k = 0,1,2,3,4
+
+Coils oriented at angles 2*pi*k/5 in XY plane.
+
+X-component:
+  B_x = sum_{k=0}^{4} B_0 * cos(omega*t - 2*pi*k/5) * cos(2*pi*k/5)
+      = (5/2) * B_0 * cos(omega*t)  [using the identity sum_{k=0}^{N-1} cos(2pi*k/N)^2 = N/2]
+
+Y-component:
+  B_y = (5/2) * B_0 * sin(omega*t)
+
+Resultant: |B_rot_5phase| = (5/2) * B_0
+
+Higher than three-phase result ((3/2)*B_0) by factor 5/3, giving 67% higher rotating field
+amplitude for the same per-coil field strength B_0.
+
+---
+
+## Dipole-Dipole Potential Energy
+
+For two magnetic dipoles mu_1 and mu_2 separated by vector r:
+  U = (mu_0 / 4*pi) * [mu_1 dot mu_2 / r^3 - 3*(mu_1 dot r_hat)*(mu_2 dot r_hat) / r^3]
+
+For the central S magnet (mu_1 = -mu z_hat, pointing down) and one N flywheel magnet
+(mu_2 = +mu z_hat, pointing up), with the flywheel magnet at position (R, 0, 0) and the
+central magnet at position (0, 0, z):
+
+  r = sqrt(R^2 + z^2)
+  r_hat = (R x_hat - z z_hat) / sqrt(R^2 + z^2)
+
+  mu_1 dot mu_2 = (-mu)(+mu) = -mu^2
+  mu_1 dot r_hat = (-mu) * (-z / sqrt(R^2+z^2)) = mu*z / sqrt(R^2+z^2)
+  mu_2 dot r_hat = (+mu) * (-z / sqrt(R^2+z^2)) = -mu*z / sqrt(R^2+z^2)
+
+  U = (mu_0/4*pi) * [-mu^2/(R^2+z^2)^(3/2) - 3*(mu*z/sqrt(R^2+z^2))*(-mu*z/sqrt(R^2+z^2)) / (R^2+z^2)^(3/2)]
+    = (mu_0/4*pi) * [-mu^2/(R^2+z^2)^(3/2) + 3*mu^2*z^2/(R^2+z^2)^(5/2)]
+    = (mu_0*mu^2/4*pi) * [-1/(R^2+z^2)^(3/2) + 3z^2/(R^2+z^2)^(5/2)]
+
+At z = 0 (central magnet in the ring plane):
+  U(0) = (mu_0*mu^2/4*pi) * [-1/R^3] < 0  (attractive)
+
+Z-force:
+  F_z = -dU/dz
+
+  dU/dz = (mu_0*mu^2/4*pi) * [3z/(R^2+z^2)^(5/2) + 6z/(R^2+z^2)^(5/2) - 15z^3/(R^2+z^2)^(7/2)]
+  (simplified: full derivative of the z-dependent expression)
+
+At z = 0: dU/dz = 0 (force is zero at the equilibrium plane -- the magnet is in the ring plane).
+For z < 0: F_z = -dU/dz > 0 (upward restoring force).
+
+With 4 flywheel magnets: total U and F_z are 4x the single-dipole values (by superposition for
+symmetric arrangement).
+
+---
+
+## Lorentz Force for Homopolar Motor
+
+Current density in radial direction: J_r = I / (2*pi*r*h) [for radial current in a disc of
+height h at radius r]
+
+Force per unit volume: f = J x B = J_r * B_z * phi_hat
+
+Torque per unit volume: dT/dV = r * f_phi = r * J_r * B_z
+
+Total torque:
+  T = integral_V r * J_r * B_z * dV
+    = B_z * integral_0^R integral_0^{2*pi} integral_0^h r * (I/(2*pi*r*h)) * r * dr * d*phi * dz
+    = B_z * I * integral_0^R r * dr
+    = B_z * I * R^2 / 2
+
+For a disc magnet as its own field source, B_z is not uniform but depends on r and z. For the
+axial field at the mid-plane of a disc magnet (magnetization M, thickness t, radius R):
+
+  B_z(r=0, z=t/2) = mu_0 * M * [t / sqrt(t^2 + 4*R^2/4)]  (approximate for disc)
+
+---
+
+## Lenz Force (Annular Induction Motor)
+
+Faraday's law for induced EMF in the annular ring at radius r:
+  EMF = -d(Phi_B)/dt
+
+For a rotating field B_rot = B_0 * cos(omega*t - k*phi) (where k is the pole pair number):
+  Phi_B through a ring segment = B_0 * Area * cos(omega*t - k*phi_ring)
+  EMF = B_0 * Area * omega * sin(omega*t - k*phi_ring)
+
+Induced current (for ring resistance R_ring):
+  I_ind = EMF / R_ring = B_0 * Area * omega * sin(omega*t - k*phi_ring) / R_ring
+
+Lorentz force on induced current in field B_rot:
+  F = I_ind * L x B_rot
+
+Azimuthal force (tangential, causing rotation):
+  F_phi proportional to I_ind * B_0 * cos(phase difference between I and B)
+
+This is the standard induction motor torque, proportional to slip frequency (difference between
+field rotation rate omega and ring mechanical rotation rate omega_mech):
+  T_induction proportional to s * omega (where slip s = (omega - omega_mech) / omega)
+
+---
+
+## Geometric Resonance: 8-Fold Symmetry (Crop Circle Schematic)
+
+Source: TXT file 3_1916658996771168256.txt.
+
+The bullseye concentric ring schematic with approximately 8-fold satellite symmetry:
+* Central disc diameter ~ 290 px
+* White gap ~ 30 px
+* Outer ring width ~ 60 px
+* Satellite circles at 8 positions around outer ring
+
+For an 8-pole electromagnetic machine (8 satellite poles):
+  Pole pitch: tau_p = pi * D / p = pi * D / 8 (where D = outer ring diameter, p = 8 poles)
+  Electrical degrees per mechanical degree: (p/2) = 4 electrical degrees per mechanical degree
+
+For three-phase drive of an 8-pole machine:
+  Number of coils: p = 8, phases = 3, so coils per phase = 8/3 (non-integer -- not standard)
+  More likely: 6-pole or 12-pole interpretation:
+  At 3 o'clock and 9 o'clock: larger satellites (2 extra small dots each) = 3+3 poles at those positions
+  suggesting 12-pole geometry (4 poles per phase for three-phase)
+
+12-pole three-phase machine:
+  Synchronous speed: n_s = 120 * f / p = 120 * 60 / 12 = 600 RPM (at 60 Hz)
+  or n_s = 120 * 50 / 12 = 500 RPM (at 50 Hz)
+
+---
+
+## Magnetic Vortex: Julia Set / Logarithmic Spiral
+
+The rose/vortex pattern in TXT file 3_1916658958691106817.txt (overlapping arc spirals) can be
+described mathematically as:
+
+Logarithmic spiral:
+  r = a * e^(b*theta)
+  where a and b are constants controlling scale and tightness of the spiral.
+
+Multiple overlapping logarithmic spirals with angular offsets:
+  r_k(theta) = a * e^(b*(theta - 2*pi*k/N))  for k = 0, 1, ..., N-1
+
+For N = 4 (the quatrefoil center pattern):
+  The superposition of 4 spirals offset by pi/2 produces a 4-petal rosette in polar coordinates.
+
+In complex dynamics, a Julia set for f(z) = z^2 + c with c near the Mandelbrot set boundary
+produces spiral and rosette structures. For c = 0, the Julia set is the unit circle. For c near
+the period-4 bulb of the Mandelbrot set, Julia sets develop 4-fold symmetric spiral arms.
+
+The physical relevance: rotating magnetic flux configurations in plasma physics (Taylor states,
+reversed-field pinch) can develop spatially structured field topologies resembling these geometric
+patterns. The helicity K = integral (A dot B) dV (where A is the vector potential) is conserved
+in ideal MHD and constrains the topology of the field structure.
+
+---
+
+## Scale Weight Invariance: Electromagnetic Momentum Argument
+
+If the upward force F_up on the flywheel is real but the scale reads no change, a possible
+mathematical resolution via electromagnetic momentum:
+
+Maxwell stress tensor: T_ij = (1/mu_0)*(B_i*B_j - (1/2)*delta_ij*B^2)
+
+Force on volume V:
+  F_i = integral_V (J x B)_i dV + integral_S T_ij * n_j dA - (1/c^2) * d(integral_V S_i dV)/dt
+
+where S = (E x B)/mu_0 is the Poynting vector (electromagnetic energy flux).
+
+The last term: -(1/c^2) * dS_EM/dt represents the rate of change of electromagnetic momentum.
+
+If the reaction force is entirely absorbed into the rate-of-change of the electromagnetic
+momentum stored in the spinning field, the mechanical reaction on the scale is zero while
+the upward force on the flywheel is real.
+
+Condition for this: the rotating three-phase field must store (or shed) angular momentum and
+linear momentum at a rate equal to the claimed reaction force.
+For F_up = 1 kg * g = 9.8 N, the required rate of electromagnetic momentum change:
+  dP_EM/dt = 9.8 N  (in the -Z direction, i.e., the field gains downward momentum)
+
+This is the Feser-type field-momentum anti-gravity proposal: the downward reaction is carried
+by the field, not by the mechanical support. Whether this is consistent with the measured scale
+invariance depends on the field configuration and requires detailed calculation.

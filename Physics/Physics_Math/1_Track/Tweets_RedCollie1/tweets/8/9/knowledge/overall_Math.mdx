@@ -1,0 +1,239 @@
+---
+title: Mathematics — Equations, Components, and Relationships
+source_dir: tweets/8/9
+author: Red Collie (Dr. Horace Drew), @RedCollie1
+extracted: 2026-04-22
+---
+
+# Mathematical Content: Equations, Components, Relationships
+
+## 1. Homopolar Generator EMF
+
+For a conducting disc rotating at angular velocity ω in a uniform axial magnetic field B_z
+(produced by the toroidal ring magnet in the experimental setup):
+
+    EMF = (1/2) ω B_z (r₂² - r₁²)
+
+Components:
+    ω   = angular velocity of disc [rad/s]
+    B_z = axial magnetic flux density [T]
+    r₂  = outer radius of conducting disc [m]
+    r₁  = inner radius of conducting disc (bore radius) [m]
+    EMF = open-circuit terminal voltage [V]
+
+Derivation: The radial velocity of a point at radius r on the spinning disc is v = ωr.
+The motional EMF on a charge carrier at that point is dε = (v × B_z) · dr = ω r B_z dr.
+Integrating from r₁ to r₂:
+    EMF = ∫_{r₁}^{r₂} ω r B_z dr = ω B_z [r²/2]_{r₁}^{r₂} = (1/2) ω B_z (r₂² - r₁²)
+
+This is the Faraday disc / homopolar generator EMF, classical result (Faraday, 1831).
+
+## 2. Lorentz Force on Current-Carrying Conductor
+
+    F = I L × B     [vector form, for straight conductor]
+    dF = I (dL × B) [differential form, for arbitrary conductor geometry]
+
+In the homopolar motor geometry:
+* I = radial current through disc
+* dL = radial element vector dr̂
+* B = B_z ẑ (axial field from ring magnet)
+* dF = I dr (r̂ × ẑ) = I dr (-φ̂)  [azimuthal force, producing rotation]
+
+The torque element:
+    dτ = r × dF = r × I dr (-φ̂) ẑ
+
+Integrated torque:
+    τ = I B_z ∫_{r₁}^{r₂} r dr = (1/2) I B_z (r₂² - r₁²)
+
+Note the symmetry with the EMF formula — this is the manifestation of energy conservation
+(power = τω = EMF × I).
+
+## 3. Three-Phase Field Decomposition
+
+Three coils at 120° phase offset produce a rotating magnetic field vector. For a balanced
+three-phase system with amplitude B₀:
+
+    B_U(t) = B₀ sin(ωt)
+    B_V(t) = B₀ sin(ωt - 2π/3) = B₀ sin(ωt - 120°)
+    B_W(t) = B₀ sin(ωt - 4π/3) = B₀ sin(ωt - 240°)
+
+Resolving into x,y components (for coils spatially oriented at 0°, 120°, 240° in the
+horizontal plane):
+
+    B_x(t) = B_U cos(0°) + B_V cos(120°) + B_W cos(240°)
+            = B₀[sin(ωt) - (1/2)sin(ωt-2π/3) - (1/2)sin(ωt-4π/3)]
+            = (3/2) B₀ cos(ωt)  [by phasor addition]
+
+    B_y(t) = B_U sin(0°) + B_V sin(120°) + B_W sin(240°)
+            = (3/2) B₀ sin(ωt)
+
+Resultant rotating vector:
+    B_total(t) = (3/2) B₀ [cos(ωt) x̂ + sin(ωt) ŷ]
+
+Magnitude: |B_total| = (3/2) B₀ = constant
+Phase: θ(t) = ωt (continuous rotation at angular frequency ω)
+
+This is the mathematical basis for why 3-phase power creates a smoothly rotating field with
+constant magnitude — no pulsation, no dead zones in torque production.
+
+## 4. Torque on Permanent Magnet from Rotating Field
+
+The permanent disc magnet has magnetic moment vector μ (along its axis, ẑ direction when
+horizontal field is applied):
+
+    τ = μ × B_total(t) = μ ẑ × (3/2)B₀[cos(ωt)x̂ + sin(ωt)ŷ]
+
+    |τ| = μ (3/2) B₀ √(cos²(ωt) + sin²(ωt)) = (3/2) μ B₀
+
+For synchronous operation (magnet locked to field rotation), the torque magnitude is constant
+at (3/2)μB₀ — this is the maximum available torque for spin-up. This is why three-phase
+is preferred: the torque is non-pulsating and continuous.
+
+Angular momentum equation for spin-up:
+    I_disc (dω_magnet/dt) = τ_net = τ_drive - τ_friction - τ_drag
+
+At synchrony: dω_magnet/dt → 0 → τ_friction + τ_drag = (3/2)μB₀
+
+## 5. Threshold Frequency Scaling (Empirical Data Math)
+
+Measured pairs (m, f_threshold) from the levitation experiment:
+    (80 g, 15 Hz), (120 g, 20 Hz), (200 g, 25 Hz)
+
+Converting:
+    m₁ = 0.080 kg, ω₁ = 2π × 15 = 94.25 rad/s
+    m₂ = 0.120 kg, ω₂ = 2π × 20 = 125.66 rad/s
+    m₃ = 0.200 kg, ω₃ = 2π × 25 = 157.08 rad/s
+
+Minimum upward force at threshold (force balance):
+    F_z(ω_threshold) = m g
+
+Required force values:
+    F₁ = 0.080 × 9.81 = 0.785 N
+    F₂ = 0.120 × 9.81 = 1.177 N
+    F₃ = 0.200 × 9.81 = 1.962 N
+
+Power ratios between data points:
+    P = F × v_lift (at threshold, v_lift → 0, so power is instantaneous onset power)
+
+If we assume F_z ∝ ω^n, then from the data:
+    F₂/F₁ = (ω₂/ω₁)^n
+    1.177/0.785 = (125.66/94.25)^n
+    1.500 = 1.334^n
+    n = log(1.500)/log(1.334) = 0.405/0.288 = 1.406
+
+    F₃/F₁ = (ω₃/ω₁)^n
+    1.962/0.785 = (157.08/94.25)^n
+    2.500 = 1.667^n
+    n = log(2.500)/log(1.667) = 0.916/0.511 = 1.792
+
+The inconsistency in n across the two ratios (1.41 vs 1.79) means F_z ∝ ω^n with constant
+n does not fit the data exactly. A three-point fit would require n ≈ 1.5–1.6, suggesting
+F_z approximately ∝ ω^(3/2), though no exact formula is stated in source material.
+
+## 6. Galinstan Properties (Quantitative)
+
+Galinstan (Ga-In-Sn eutectic, typical composition Ga 68.5%, In 21.5%, Sn 10%):
+    Melting point: −19°C (liquid at room temperature)
+    Density: ρ ≈ 6,440 kg/m³
+    Electrical conductivity: σ ≈ 3.46 × 10⁶ S/m
+    Kinematic viscosity: ν ≈ 3.73 × 10⁻⁷ m²/s (at 20°C)
+    Magnetic Reynolds number for MHD: Rm = μ₀ σ v L
+        (for MHD relevance, Rm must be ≈ 1 or greater)
+
+For the linear induction motor application, the Lorentz body force per unit volume:
+    f = J × B = (σ E) × B = σ (v_fluid × B) × B = σ B² v_fluid [for J from motional EMF]
+
+This gives an effective electromagnetic viscosity: η_EM = σ B² L² where L is a
+characteristic length scale.
+
+## 7. Aluminum vs. Copper Coil Mass Ratio (Engineering Math)
+
+For identical coil geometry (same wire cross-section and length):
+    Mass_Al / Mass_Cu = ρ_Al / ρ_Cu = 2.70 / 8.96 = 0.301
+
+Copper coil mass: ~1000 g
+Aluminum coil mass at same geometry: ~301 g
+
+Resistance ratio (same geometry, different conductivity):
+    R_Al / R_Cu = σ_Cu / σ_Al = (5.96 × 10⁷) / (3.50 × 10⁷) = 1.703
+
+Aluminum coils are ~70% more resistive at same geometry. To maintain the same field B at
+same current I (same power dissipation):
+    B ∝ N I (for solenoid, N = number of turns, I = current)
+    P = I² R
+    At fixed P: I = √(P/R)
+    B ∝ N √(P/R) → B ∝ √(P σ / geometry)
+
+Aluminum coil produces: B_Al = B_Cu × √(σ_Al/σ_Cu) = B_Cu × √(3.50/5.96) = 0.767 B_Cu
+
+So at same power, aluminum coils produce ~23% less field. With higher-temperature insulation
+allowing more power (higher I before melting), this deficit can be overcome. The net gain is
+in mass: 1000 g → 301 g coil mass while retaining lift capacity.
+
+## 8. 3-Phase Coil Resistance (Stated)
+
+From Drew's video (13_2039489617280507904 transcription):
+"They all have about 18 ohm resistance."
+
+Each coil: R = 18 Ω
+For three-phase delta or wye configuration:
+    Delta: each phase sees R = 18 Ω; line-to-line resistance = 2R/3 × 3 = ... depends on load
+    Wye: each phase sees R = 18 Ω; neutral connected internally
+
+At threshold lift for 200 g (25 Hz): power drawn depends on applied voltage V:
+    P_per_coil = V²/R = V²/18
+
+For typical variable-frequency drive output of ~10–50 V:
+    At 10 V: P_per_coil = 100/18 = 5.6 W, P_total = 16.7 W
+    At 50 V: P_per_coil = 2500/18 = 139 W, P_total = 417 W
+
+These are plausible lab-scale power levels.
+
+## 9. Counter-Spin Momentum Analysis
+
+Classical: Two counter-rotating systems with angular momenta L₁ (CW, central magnet) and
+L₂ (CCW, outer ring):
+
+    L_total = L₁ - L₂
+
+If |L₁| = |L₂|: L_total = 0 → no net angular momentum change → no gyroscopic precession
+torque on the system as a whole.
+
+For force balance (Newton's 3rd Law): The electromagnetic force between the central magnet
+and the drive coils must satisfy:
+    F_{coil→magnet} + F_{magnet→coil} = 0 (Newton's Third Law)
+
+Drew's claim is that adding counter-rotating outer magnets creates a field configuration
+where F_{magnet→coil} is internally canceled by forces from the outer ring, leaving a net
+external force on the magnet without reaction. This would require the total electromagnetic
+momentum (field momentum):
+
+    G_EM = ε₀ ∫ (E × B) dV ≠ 0
+
+to be changing, absorbing the momentum that would otherwise appear as a reaction force. This
+is the only classical mechanism by which apparent Newton's Third Law violation can occur in
+EM systems — hidden field momentum. Whether the proposed counter-spin geometry achieves this
+is the experimental question.
+
+## 10. Discrete Symmetry of the Seven-Fold Crop Picture (Geometric Math)
+
+In the analysis of the Italian crop picture (tweet 1938734013830832398, note_tweet):
+
+"Its seven-fold symmetry is also nearly impossible to draw in crops with many 51.4 degree
+precise angles."
+
+Mathematical derivation:
+    7-fold rotational symmetry requires angles: 360°/7 = 51.428...°
+
+Drew is citing the difficulty of manually producing 51.4° angles (irrational division of
+360°) in crop fields without mechanical aids, as an argument against human manufacture.
+
+Sequence cited: 3, 3, 4, 4, 4, 4, 5 standing tufts of wheat per segment going clockwise.
+Sum: 3+3+4+4+4+4+5 = 27 tufts total.
+These numbers also encode: "Ea" (3-3=6 letters), "Enki" (4-4-4-4=4 letters if broken as
+E-n-k-i), "space" (5 letters) in Drew's decoding system.
+
+Temporal coincidence noted:
+    2025 appearance: 14 years after 2011 appearance = 2 × 7 years
+    Same day (approximately) of same month in both years.
+    7-fold symmetry on 2×7 year anniversary = claimed intentional signal.

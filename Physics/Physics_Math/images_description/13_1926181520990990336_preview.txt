@@ -1,0 +1,41 @@
+IMAGE: 13_1926181520990990336_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view of a glass bowl or large glass salad bowl sitting on a white surface:
+  - Glass bowl: approximately 300px diameter in view, transparent, with visible circular rings of the bowl's contour. The bowl interior is visible — it appears to contain a thin layer of liquid (possibly mercury — a reflective surface is visible) or just a clean, reflective glass base.
+  - Central element inside bowl: a flat metallic element (appears silver/white, approximately 40px diameter) with a central hub/nut. This is the conducting disc of a homopolar motor sitting inside the bowl. A marker pen inscription is visible on the disc or inside the bowl near the center — appears to read "N" and/or "A2" written in blue/black marker.
+  - A copper/orange cylindrical rod (approximately 10px diameter) extends vertically upward from the center element (this is the axle of the homopolar motor).
+  - A black clamp or probe holder (entering from upper-left) holds the axle or applies current — appears to be a multimeter probe or crocodile clip assembly.
+  - Yellow tape tabs: small squares of yellow painter's tape (approximately 20x20px each) attached at approximately 4 positions around the bowl rim — at 12, 4, 7, and 10 o'clock positions roughly.
+  - Red wire: extends from the right side of the bowl rim, connected under a yellow tape tab.
+  - White background surface.
+
+TEXT:
+* Inside bowl near center: "N" and what appears to be "A2" — written in blue/purple marker on the glass or metallic surface of the conducting disc. Medium size, approximately 15-20px tall letters.
+
+COLORS:
+* Bowl: transparent glass
+* Conducting disc: silver/chrome metallic
+* Copper axle: orange-brown copper
+* Tape tabs: yellow painter's tape
+* Wire: red
+* Probe holder: black
+* Background: white
+
+PHYSICS CONCEPTS:
+* This is a top-down view of a homopolar motor experiment using a glass bowl as the conducting vessel.
+* The glass bowl may contain mercury (an excellent liquid-metal electrical conductor) as the conducting medium for the Faraday disc effect — mercury allows radial current flow while the disc rotates.
+* The marking "N" inside the bowl indicates the North pole orientation of the underlying magnet.
+* The yellow tape tabs secure wire connections to the bowl rim (the outer electrical contact) while the copper axle provides the inner contact.
+* In a homopolar motor using mercury-filled bowl: when current flows from the axle radially outward through the mercury to the bowl rim, while an axial magnetic field B is applied (from a magnet below), the Lorentz force F = q*v × B on the mercury (and any conducting disc) drives circular rotation.
+
+SPATIAL RELATIONSHIPS:
+* Glass bowl fills most of the frame (top-down view).
+* Central conducting disc/hub at center.
+* Copper axle rises from center.
+* Yellow tape tabs at bowl rim (approximately 4 positions).
+* Red wire at right.
+* Black probe from upper-left.
+
+HIGH-LEVEL SUMMARY:
+Top-down view of a homopolar motor experimental setup using a glass bowl as the conducting vessel. The bowl contains a central metallic conducting disc on a copper axle (marked "N" for north pole orientation), with yellow tape tabs securing wire connections at the bowl rim. This is the mercury-contact homopolar motor in its glass-bowl configuration, where radial current flow through the conducting medium (possibly mercury) in an axial magnetic field generates the rotational Lorentz force.

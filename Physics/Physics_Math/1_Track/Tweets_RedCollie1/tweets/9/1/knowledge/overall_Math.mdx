@@ -1,0 +1,203 @@
+# overall_Math.mdx
+# All Mathematical Equations, Their Components, and Relationships
+# Source: RedCollie1 (Dr. Horace Drew) tweets, batch 9/1
+# Appended: 2026-04-22
+
+---
+
+## 1. Multi-Phase AC Waveforms
+
+Source: 1953572321861808352.yaml, 1970987567299559428.yaml
+
+### N-Phase AC Voltage Waveforms
+General form for k-th phase in an N-phase AC system:
+  V_k(t) = V_peak * sin(omega * t - 2*pi*(k-1)/N),  k = 1, 2, ..., N
+
+* omega = 2*pi*f (angular frequency, rad/s)
+* f = line frequency (Hz), variable via VFD (Variable Frequency Drive)
+* V_peak = peak voltage amplitude
+* Phase offset between adjacent phases = 2*pi/N radians = 360/N degrees
+
+Three-phase case (N=3):
+  V_U(t) = V_peak * sin(omega*t)
+  V_V(t) = V_peak * sin(omega*t - 2*pi/3)
+  V_W(t) = V_peak * sin(omega*t - 4*pi/3)
+
+Five-phase case (N=5):
+  V_1(t) = V_peak * sin(omega*t)
+  V_2(t) = V_peak * sin(omega*t - 2*pi/5)
+  V_3(t) = V_peak * sin(omega*t - 4*pi/5)
+  V_4(t) = V_peak * sin(omega*t - 6*pi/5)
+  V_5(t) = V_peak * sin(omega*t - 8*pi/5)
+
+Phase separation: 3-phase = 120 degrees; 5-phase = 72 degrees (per author's explicit statement: "72 degree differences of AC phase")
+
+---
+
+## 2. Rotating Magnetic Field Vector
+
+Source: Implied by 3-phase motor theory underlying experiment in 13_1916095047227084800_video.mdx
+
+For N coils placed at equal azimuthal angles theta_k = 2*pi*(k-1)/N in the XY plane, each driven by V_k(t) above, producing axial (Z-directed) flux density B_k(t) = B_0 * sin(omega*t - 2*pi*(k-1)/N) at azimuthal angle theta_k:
+
+The resultant field in the plane:
+  B_x(t) = sum_{k=1}^{N} B_0 * sin(omega*t - 2*pi*(k-1)/N) * cos(2*pi*(k-1)/N)
+  B_y(t) = sum_{k=1}^{N} B_0 * sin(omega*t - 2*pi*(k-1)/N) * sin(2*pi*(k-1)/N)
+
+For N >= 3 (balanced symmetric system):
+  B_x(t) = (N/2) * B_0 * cos(omega*t)
+  B_y(t) = (N/2) * B_0 * sin(omega*t)
+
+Resultant: B(t) = (N/2)*B_0 [cos(omega*t) x_hat + sin(omega*t) y_hat]
+Magnitude: |B(t)| = (N/2)*B_0 = constant
+Direction: rotates at angular velocity omega in XY plane
+
+Note: For N=3, amplitude = (3/2)*B_0; for N=5, amplitude = (5/2)*B_0 (for equal coil strengths).
+The N=5 case has larger amplitude and smoother rotation (torque ripple frequency = N*f = 5f vs 3f for N=3).
+
+---
+
+## 3. Magnetic Torque on Spinning Magnet
+
+Source: Underlying physics of experiment, 13_1916095047227084800_video.mdx
+
+Magnetic dipole moment of disc magnet:
+  m = M_s * V * z_hat (at equilibrium, where M_s is saturation magnetization, V is magnet volume)
+  V = pi * r^2 * t = pi * (0.035)^2 * (0.003) = pi * 0.001225 * 0.003 = 1.155e-5 m^3
+  (using r = 35 mm = 0.035 m, t = 3 mm = 0.003 m as stated in video)
+
+Torque on dipole in field:
+  tau = m x B(t) = |m| * |B| * sin(phi) * n_hat
+  where phi = angle between m and B(t), n_hat = unit vector normal to both
+
+At synchronous spin (phi = constant, lock-in torque):
+  tau_synch = |m| * |B| * sin(delta)
+  where delta is the torque angle (lag angle between m and B)
+
+For synchronous operation (no slip), the magnet spins at exactly omega_field:
+  omega_magnet = omega_field = 2*pi*f
+
+---
+
+## 4. Angular Momentum and Gyroscopic Equations
+
+Source: Underlying the transition described in 13_1916095047227084800_video.mdx
+
+Angular momentum of spinning disc magnet:
+  L = I * omega_magnet (directed along spin axis)
+  I = (1/2) * m_disc * r^2 (moment of inertia of solid disc about symmetry axis)
+  = (1/2) * m_disc * (0.035)^2
+  (mass m_disc not stated; diameter 70 mm, 14 mm hole, 3 mm thick — for NdFeB density ~7500 kg/m^3:
+   V_ring = pi*(0.035^2 - 0.007^2)*0.003 = pi*(0.001225 - 0.000049)*0.003 = 1.109e-5 m^3
+   m_disc ~ 7500 * 1.109e-5 = 0.083 kg = 83 g)
+  I ~ (1/2) * 0.083 * (0.035)^2 = 5.08e-5 kg*m^2
+
+At f = 32 Hz: omega = 2*pi*32 = 201 rad/s
+  L = 5.08e-5 * 201 = 0.0102 kg*m^2/s = 10.2 mN*m*s
+
+Euler's equation (gyroscope precession):
+  dL/dt = tau_external
+  where tau_external is the torque from the rotating magnetic field
+
+Precession angular velocity (if tau perpendicular to L):
+  Omega_precession = tau / L = tau / (I * omega_spin)
+
+For the transition to "top" behavior: when L is large enough that Omega_precession << omega_field, the gyroscope is in the fast-spin (gyroscopic) regime and resists the deflecting force from the axial gradient.
+
+Critical condition for transition (approximate):
+  I * omega_critical^2 >> F_axial * r_characteristic
+  where F_axial is the axial gradient force from the field-screw interaction
+
+The transition observed at ~25–30 Hz in the experiment represents this condition being satisfied.
+
+---
+
+## 5. Scale Force Equations — Mechanical Screw Regime
+
+Source: 13_1916095047227084800_video.mdx
+
+In the Newtonian (mechanical screw) regime, the disc magnet is pushed downward by the rotating field with force F_screw. The rod is simultaneously pushed upward against the stop with reaction force F_reaction = F_screw.
+
+The scale reads: F_scale = M_device * g + F_reaction (if device assembly sits on scale)
+Or if scale is tared: Delta_F_scale = F_reaction = F_screw
+
+Measurements:
+  12 Hz: Delta_F = 0.070 kg * 9.81 = 0.687 N
+  16 Hz: Delta_F = 0.190 kg * 9.81 = 1.865 N
+  18 Hz: Delta_F = 0.250 kg * 9.81 = 2.453 N
+  32 Hz: Delta_F ~= 0 N
+
+F_screw as function of omega_field (empirical, from data points):
+Approximate fit between 12 and 18 Hz: F_screw ~ alpha * omega_field^2 (quadratic, consistent with magnetic force scaling with B^2 and B ~ omega*I/R)
+
+Beyond ~20–25 Hz: F_screw collapses as gyroscopic decoupling begins.
+
+---
+
+## 6. Pi Encoding in Crop Picture
+
+Source: 1942862125040558432.yaml
+
+"3.141592654" — explicit appearance of pi in crop picture of 2008 (as described by author)
+Pi = 3.14159265358979323846...
+
+Author claims this is an alien-encoded mathematical constant appearing in crop circle geometry.
+Mathematical significance: Pi is the ratio of circumference to diameter of a circle; appears universally in:
+  C = 2*pi*r (circumference)
+  A = pi*r^2 (area)
+  Euler's identity: e^(i*pi) + 1 = 0
+  Period of simple harmonic oscillator: T = 2*pi*sqrt(m/k)
+  Angular frequency relation: omega = 2*pi*f
+
+The encoding of pi to 10 significant figures (3.1415926, as stated in tweet) in a physical formation would require:
+* 10 discrete symbols or segments arranged in a recognized positional number system
+* The author claims it was encoded in "3-1-4" pattern with supplementary imagery ("pie with two eyes")
+
+---
+
+## 7. Coil Count and Phase Architecture — Mathematical Summary
+
+Source: 2027850978926727258.yaml, 1970987567299559428.yaml
+
+Configuration 1 (3-phase, 9 coils total):
+  Upper ring: 6 coils, driven as two interlaced 3-phase sets: (U1-V1-W1-U2-V2-W2)
+    Azimuthal spacing: 60 degrees between adjacent coils
+    Phase offset within each 3-phase set: 120 degrees
+    Total field: combination of two 3-phase fields offset by 0 and 60 degrees -> produces 6-pole rotating field
+  Lower ring: 3 coils, driven as U-V-W (single 3-phase set)
+    Azimuthal spacing: 120 degrees
+    Phase offset: 120 degrees
+    Produces 2-pole or 4-pole rotating field depending on winding
+
+Configuration 2 (5-phase, Buga sphere model):
+  5 coils at 72-degree spacing, driven with 72-degree phase offset
+  Produces smoother rotating field (see Section 2 above)
+
+Pole pair number p determines relationship between field rotation rate and rotor spin:
+  omega_rotor = omega_field / p (for p pole pairs)
+  For p=1 (2-pole field): omega_rotor = omega_field directly
+  For p=3 (6-pole field from 6-coil arrangement): omega_rotor = omega_field / 3
+
+---
+
+## 8. Interstellar Object 3I/ATLAS — Quantitative Parameters
+
+Source: 1957656572911579308.yaml, 1975745020272558439.yaml
+
+Velocity: v = 130,000 mph = 130,000 * 0.44704 m/s = 58,115 m/s ≈ 5.81 x 10^4 m/s (as of ~August 2025, approaching Mars)
+Mass: m = 33 * 10^9 * 10^3 kg = 3.3 x 10^13 kg (33 billion tons, assuming metric tons)
+Diameter: d = 5 km = 5000 m, radius r = 2500 m
+Volume (spherical): V = (4/3)*pi*r^3 = (4/3)*pi*(2500)^3 = 6.545 x 10^10 m^3
+Density (derived): rho = m/V = 3.3e13 / 6.545e10 = 504 kg/m^3 (approximately 0.5 g/cm^3 — lower than water, consistent with a porous/hollow body or very low-density composition)
+
+Kinetic energy: KE = (1/2)*m*v^2 = 0.5 * 3.3e13 * (5.81e4)^2 = 5.57 x 10^22 J (55.7 ZJ)
+For comparison: total world energy consumption ~6 x 10^20 J/year — KE of 3I/ATLAS ≈ 93 years of world energy
+
+Nickel-cyanide chemical context (1961226935750815857.yaml):
+Ni-CN coating (nickel plating via electroless or electrolytic deposition using Ni-cyanide bath):
+  Ni^2+ + 2e^- -> Ni(s) (reduction)
+  CN^- acts as complexing ligand in plating bath: [Ni(CN)_4]^2- complex
+  Thermal decomposition of Ni-CN coating releases free Ni and HCN/CN^- gas
+  Avi Loeb cited: "steeply rising production of cyanide and nickel without iron in the gas plume around 3I/ATLAS" — the absence of iron is anomalous for cometary material (which typically has iron, silicon, carbon)
+  Reference: https://avi-loeb.medium.com/a-steeply-rising-production-of-cyanide-and-nickel-without-iron-in-the-gas-plume-around-3i-atlas-536e20674303
+

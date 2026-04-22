@@ -1,0 +1,47 @@
+IMAGE: 13_1967441607168565248_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Tabletop scene on a wooden desk/surface with papers, keyboard background:
+  - The scene shows a homopolar motor demonstration device in close-up, with handwritten design diagrams on paper in the background.
+  - Background papers: two white sheets of paper with pencil-drawn sketches — the sketches show circular diagrams (viewed on left paper: a circular design with a figure-eight or Lemniscate shape inscribed, and a lower oval/loop shape with arrows). This appears to be a design or schematic drawing for the motor. The right paper shows similar circular diagrams. These are clearly engineering design sketches.
+  - Central apparatus: a small homopolar motor assembly:
+    * A vertical screw/threaded rod (brass, approximately 8px diameter, 100px tall) — a standard wood screw.
+    * A gold/brass disc or flat nut at the base of the screw (approximately 20px diameter) — this is the conducting rotor disc of the homopolar motor.
+    * Multiple thin wire connections (blue, fine gauge, approximately 1-2px) radiate from the assembly outward like spokes — these are the current-carrying wires.
+    * A small black block or component is visible at the right side of the assembly — appears to be a block magnet or a ferrite cube.
+  - Right side of assembly: an Energizer battery (AA, clearly identifiable by orange-gold-black color scheme with "Energizer" text partially visible, "AA 1.5" text visible). The battery is held in a black battery holder or clip.
+  - Yellow wire is visible from the upper right.
+  - Keyboard: a computer keyboard is partially visible in the upper background.
+  - Left background: yellow items (alligator clips or tools).
+
+TEXT:
+* "Energizer" — on the battery, orange text, small (approximately 8px tall). Partially visible.
+* "AA 1.5" (or "AA 3.0") — on the battery, partially visible.
+* On background papers: handwritten pencil sketches of circular designs with directional arrows — no clearly legible text labels.
+* "Bu[...]" — handwritten in blue marker on the right paper/surface, partially visible.
+
+COLORS:
+* Battery: orange-gold (Energizer branding)
+* Screw/rod: brass/gold metallic
+* Gold disc: gold metallic
+* Background papers: white with pencil gray sketches
+* Wires: blue, yellow
+* Battery holder: black
+
+PHYSICS CONCEPTS:
+* This is a small tabletop homopolar motor experiment using an AA battery (1.5V Energizer), a brass screw, and a conducting disc. This is the simplest form of homopolar motor:
+  - A battery provides EMF.
+  - Current flows through the brass screw (axle).
+  - A conducting disc (gold-colored disc at the base) sits on a permanent magnet.
+  - The Lorentz force on the current-carrying disc in the magnet's field causes rotation.
+* The design sketches on the background papers show the circular Lemniscate or figure-eight patterns — these may represent the planned current flow paths, magnetic field topologies, or the intended rotor shape for a more complex design.
+* This is the classic DIY homopolar motor demonstration that can be replicated with a battery, a strong magnet, and a piece of wire — demonstrating Faraday's principle at minimal cost.
+
+SPATIAL RELATIONSHIPS:
+* Motor assembly centered in frame.
+* Battery at right.
+* Design papers in background.
+* Keyboard upper-right.
+
+HIGH-LEVEL SUMMARY:
+A small DIY homopolar motor experiment using an Energizer AA battery, a brass screw axle, and conducting disc, surrounded by pencil-drawn design schematics showing circular/lemniscate patterns. This is the tabletop demonstration version of the Faraday disc homopolar motor — requiring only a battery, magnet, and conducting wire to demonstrate Lorentz force-driven rotation. The design sketches suggest plans for a more elaborate implementation.

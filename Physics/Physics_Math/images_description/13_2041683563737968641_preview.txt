@@ -1,0 +1,39 @@
+IMAGE: 13_2041683563737968641_preview.jpg
+
+SHAPES:
+* Same physical experimental device as 13_2041674654021251073_preview.jpg, but viewed from a different angle — slightly elevated and to the side, showing more of the top of the assembly.
+* Large central stainless-steel cylindrical cup/nozzle: centered at approximately (595, 230), outer diameter ~200 pixels. Interior is dark, exterior is polished silver.
+* Multiple red block/wedge components arranged radially around the central cylinder. Visible count from this angle: approximately 8-10 red elements. Each approximately 130-180 pixels wide.
+* Yellow rectangular label tags on multiple components.
+* Multiple wiring harnesses (white, blue, red insulated wire) visible running between and under components.
+* Metal bracket hardware connecting components.
+* White flat mounting surface/bench visible below and around the device.
+* Additional laboratory equipment visible in background (blurred): a cylindrical object upper-left, colored rods or tools upper-right.
+
+TEXT:
+* Yellow labels have text not legible at this resolution.
+* No equations or measurement annotations visible.
+
+COLORS:
+* Central cylinder: polished stainless steel (#8A8A8A to #C0C0C0).
+* Red components: vivid red (#CC2200 to #DD3300).
+* Wiring: white, blue, red.
+* Labels: bright yellow.
+* Mounting surface: white/off-white.
+* Background objects: partially visible, blurred.
+
+PHYSICS CONCEPTS:
+* Same apparatus as 13_2041674654021251073_preview.jpg — electromagnetic or Mach-effect thruster prototype.
+* The side-elevated view reveals the layered stacking of components: the red capacitor/core elements appear to be arranged in two or three tiers vertically, not just a single horizontal plane.
+* This multi-tier arrangement is consistent with a stacked capacitor/piezoelectric design used in Woodward-type Mach effect thrusters where multiple capacitor layers are driven in phase to create a net mass fluctuation force.
+* The circular metal rings at top and bottom of the red component stack likely serve as mechanical clamping and electrical contact rings.
+
+SPATIAL RELATIONSHIPS:
+* The central metallic nozzle/cup protrudes upward from the center of the assembly, slightly above the top of the red component array.
+* The red blocks form a roughly circular/toroidal arrangement below and around the base of the central cylinder.
+* Yellow labels are distributed among the upper-facing surfaces of the red components.
+* The device sits on a flat white bench surface.
+* The viewing angle is approximately 30-40 degrees above horizontal, looking slightly down at the device.
+
+HIGH-LEVEL SUMMARY:
+This is a side-elevated view of the same experimental electromagnetic propulsion device shown in the companion front-on image. The elevated angle reveals the vertical layering of the radially arranged capacitor or ferrite-core elements, showing a stacked disc geometry overall. This is consistent with a Woodward-type Mach effect thruster or a high-current toroidal electromagnetic drive. The multi-layer, radially symmetric component arrangement is characteristic of devices designed to produce a net unidirectional propulsive force through transient mass fluctuation or asymmetric electromagnetic momentum transfer.

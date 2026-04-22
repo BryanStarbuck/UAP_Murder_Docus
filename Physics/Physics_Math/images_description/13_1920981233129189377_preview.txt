@@ -1,0 +1,35 @@
+IMAGE: 13_1920981233129189377_preview.jpg
+
+SHAPES AND ELEMENTS:
+* 3D computer-generated rendering/animation frame. Background is a warm tan/brown gradient surface (like a table or ground plane) with soft shading.
+* Central object: a 3D rendered spinning top (gyroscope):
+  - Shape: a thick disc/flywheel shape with a central axle. The disc appears tilted approximately 30-40 degrees from vertical.
+  - Disc: upper face colored solid bright blue, approximately 200px diameter in the render.
+  - Disc edge/rim: solid red, approximately 20px thick.
+  - Axle: a green cylinder extending through the center of the disc and pointing upper-right, approximately 100px long visible above the disc. The lower axle tip (green, approximately 10px) touches the ground surface.
+  - The axle direction and disc tilt indicate the top is in a precessing state.
+* Shadow: a realistic soft shadow is cast to the left and below the object on the surface.
+* No axes labels, no equations, no grid.
+
+TEXT: None visible.
+
+COLORS:
+* Background/surface: warm tan-brown gradient
+* Disc top face: solid blue
+* Disc rim: solid red
+* Axle: solid green
+
+PHYSICS CONCEPTS:
+* This is a 3D rendered visualization of a gyroscope/spinning top undergoing precession. The tilted orientation of the disc with respect to gravity, combined with the angular momentum of the spinning disc (L = Iω directed along the axle), produces precession about the vertical axis.
+* Precession angular velocity: Ω_p = τ/L = (Mgr)/(Iω), where τ is the gravitational torque, M is mass, g is acceleration, r is distance from pivot to center of mass, I is moment of inertia, and ω is spin rate.
+* The color coding (blue disc face, red rim, green axle) is consistent with visualization of angular momentum vector direction — the green axle represents the angular momentum vector L.
+* This render is part of a pedagogical sequence on gyroscopic physics, angular momentum, and precession — relevant to Laithwaite's gyroscopic experiments and UAP propulsion theories involving spinning components.
+
+SPATIAL RELATIONSHIPS:
+* Spinning top centered slightly left of center in frame.
+* Axle points upper-right.
+* Shadow extends left and lower.
+* Warm gradient surface fills the lower half.
+
+HIGH-LEVEL SUMMARY:
+A 3D computer-rendered animation frame of a tilted gyroscope/spinning top in a precessing state, with a blue disc face, red rim, and green axle representing the angular momentum vector. This is a visualization tool for explaining gyroscopic precession physics, relevant to discussions of angular momentum-based propulsion concepts including Laithwaite's gyroscopic lift claims and inertial mass modification theories in UAP propulsion research.

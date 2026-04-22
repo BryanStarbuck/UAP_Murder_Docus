@@ -1,0 +1,46 @@
+IMAGE: 13_1922284712011431936_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view of a circular metallic disc (conducting plate) with components mounted on it, resting on a white surface:
+  - Disc: aluminum or stainless steel, approximately 300px diameter, polished silver-gray with circular machining marks visible. Scratched surface.
+  - Central vertical rod: a thin cylindrical steel rod (approximately 8px diameter, 50px tall) rises from the geometric center of the disc.
+  - Three disc magnets mounted on the disc surface: positioned at approximately equal angular spacing (120 degrees apart). Each magnet is a small cylindrical disc magnet (approximately 30px diameter, 10px tall):
+    * Upper-left: red top face (south pole up?), with blue tape on upper portion — appears to be two disc magnets stacked, with opposing pole indicated by different tape color.
+    * Upper-right: red-orange face, no blue tape.
+    * Bottom-center: red face, small, slightly smaller than the others.
+  - Blue handwritten text on disc surface:
+    * Upper-left area: "0N" or "ON" written in blue marker (possibly partial — "0N" may mean "0, north").
+    * Upper-right area: "4N3" or similar — appears to be a measurement or identification number.
+    * Right edge: "15" or similar.
+  - White wires: two white wires exit from beneath the disc, visible at the bottom edge.
+  - Red crocodile clip: visible at the left edge, connecting to a wire.
+  - White platform/surface: the disc sits on a white rectangular surface with several screw holes visible (the test bench platform).
+  - Drawing on the white surface: blue lines drawn on the surface to the right of the disc, appearing to be dimensional annotation lines with a number "15" and angle lines — these are measurement or layout markings in blue ink.
+
+TEXT:
+* On disc surface: "0N" (large, blue marker, upper-left), "4N3" (medium, blue marker, upper-right), "15" or similar (small, blue, right side) — likely measurement values or pole identification.
+* On platform surface: "15" and line annotations in blue — dimensioning marks.
+
+COLORS:
+* Disc: silver-gray metallic
+* Magnets: red/orange (south pole face), blue tape on one
+* Text: blue marker
+* Wires: white
+* Platform: white
+
+PHYSICS CONCEPTS:
+* This is a top-down view of a homopolar motor/generator conducting disc with three permanent magnets mounted on it at 120-degree spacing. The disc is the rotor of the device.
+* The magnets create a pattern of magnetic flux perpendicular to the disc surface — as the disc rotates, these magnets sweep through a stationary coil or electromagnet, generating current.
+* The notation "0N", "4N3" etc. may refer to the magnetic flux density measurements (in milliTesla or Gauss) at specific positions, or pole identification numbers.
+* The 120-degree spacing of three magnets creates a 3-pole rotor — a standard configuration for 3-phase permanent magnet generators.
+* The blue layout lines on the surface may indicate the desired magnet positions or wire routing geometry.
+
+SPATIAL RELATIONSHIPS:
+* Disc is the dominant element, top-down view.
+* Three magnets at roughly 120-degree spacing.
+* Central rod at geometric center.
+* Text annotations on disc surface.
+* White platform visible around disc perimeter.
+
+HIGH-LEVEL SUMMARY:
+Top-down view of a circular aluminum conducting disc (Faraday disc / PM generator rotor) with three disc permanent magnets mounted at 120-degree intervals and a central axle rod. The disc surface has handwritten annotations indicating magnetic pole identification and measurements. This is the rotor assembly of a 3-pole permanent magnet generator or homopolar motor being configured for a polyphase electromagnetic experiment.

@@ -1,0 +1,31 @@
+SHAPES:
+* Two large black filled circles (solid black, ~95px diameter each): one at top (~center-x, ~60px from top), one at bottom (~center-x, ~650px from top)
+* A complex vertical chain of rectangular cells connecting the two circles:
+  - Thin vertical double-line "stem" forming the spine
+  - Approximately 15-18 rectangular cells branching left and right from the central stem
+  - Cells alternate sides (left-right-left-right), each containing a distinct glyph/symbol
+  - Each cell is approximately 35x25px
+* Small dots within or adjacent to some cells (black filled, ~5px)
+* The overall structure resembles a DNA helix unrolled or a binary sequence ladder
+
+TEXT (glyphs in cells, reading top to bottom approximately):
+* A colon-like pair of dots at top (just below upper circle)
+* Cells contain symbols resembling: dash "-", "T", "H", "I", "L", bracket "[", "D", "C", vertical line "|", "S" or "Z", bracket/chevron
+* A colon-like pair of dots at bottom (just above lower circle)
+* Slight zigzag or diagonal connector lines between some cells
+
+COLORS:
+* Background: white
+* All elements: solid black
+* No gray or color
+
+SPATIAL RELATIONSHIPS:
+* Upper circle and lower circle connected by the vertical chain of glyph cells
+* Cells branch alternately left and right from the central spine
+* The entire structure is vertically centered in the image
+
+PHYSICS CONCEPT:
+This diagram strongly resembles a binary encoding scheme — specifically, the binary message format of the original 1974 Arecibo message or a related numerical encoding. The two large circles at top and bottom may represent start/stop codons or framing markers. The alternating left-right cells with glyphs suggest a binary bit stream encoded as positions (left = 0, right = 1, or similar). In UAP research this type of encoding appears in analyses of the Chilbolton and Crabwood crop circle messages, where a binary-encoded sequence is proposed to contain mathematical, DNA-related, or atomic structure information from an alleged non-human source.
+
+HIGH-LEVEL SUMMARY:
+A vertical binary-encoding diagram: two large black circles at top and bottom serve as frame markers, with a vertical chain of ~16 rectangular glyph cells alternating left and right from a central spine. The structure resembles a binary sequence representation or DNA-ladder unrolled. No explicit labels. Used in UAP research as a representation or analysis of binary-encoded crop circle messages, particularly the Chilbolton or Crabwood formations.

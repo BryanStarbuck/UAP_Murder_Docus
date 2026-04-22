@@ -1,0 +1,39 @@
+IMAGE: 13_1967443308210495488_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view of a glass bowl containing mercury, on a gray concrete floor:
+  - Glass bowl: approximately 180px diameter, transparent glass with rounded sides — clearly a glass salad/mixing bowl. Slightly chipped or weathered edges visible.
+  - Interior of bowl: filled with a highly reflective liquid metal — silver-mirror surface with characteristic mercury behavior: bright specular highlights, wrinkled/folded surface where probes have disturbed it, and the characteristic "not-quite-flat" surface of mercury due to high surface tension.
+  - In the center of the mercury pool: a crocodile clip (black, approximately 30x15px) is partially submerged, contacting the mercury, connected to a black insulated wire extending upward-right out of the bowl.
+  - A red crocodile clip (approximately same size) contacts the bowl rim at the left-bottom, connected to a red insulated wire extending lower-left out of the bowl.
+  - The mercury has a highly reflective surface showing distortion of the surroundings.
+  - The bowl sits directly on gray concrete floor.
+* The surrounding floor is gray concrete with stains and marks.
+
+TEXT: None visible.
+
+COLORS:
+* Bowl: transparent glass
+* Mercury: bright silver-mirror
+* Red clip: red
+* Black clip: black
+* Wires: red (lower-left), black (upper-right)
+* Floor: gray concrete
+
+PHYSICS CONCEPTS:
+* Mercury (Hg) is a liquid metal at room temperature (melting point -38.83°C). It has electrical conductivity of approximately 1.04 × 10^6 S/m (much lower than copper but sufficient for low-resistance contact in rotating devices).
+* In homopolar motor experiments, mercury serves as the liquid electrical contact that maintains conduction between a stationary circuit and the rotating conducting disc or bowl.
+* The glass bowl filled with mercury is the conducting vessel for the experiment — when current flows from the center contact (black clip) radially through the mercury to the rim (red clip) in the presence of an axial magnetic field from a permanent magnet below the bowl, the Lorentz force drives circular rotation of the mercury (and any floating conductor in it).
+* This is Faraday's original homopolar motor configuration using liquid metal as the active conducting medium.
+* Safety note: mercury is highly toxic — the use of mercury in a home workshop (on a concrete floor) represents significant environmental hazard.
+
+SPATIAL RELATIONSHIPS:
+* Glass bowl centered in frame.
+* Black clip in mercury at center of bowl.
+* Red clip at bowl rim, lower-left.
+* Black wire exits upper-right.
+* Red wire exits lower-left.
+* Mercury fills the bowl interior.
+
+HIGH-LEVEL SUMMARY:
+Top-down view of a glass bowl filled with liquid mercury (Hg) — the highly reflective, mirror-surface liquid metal — with two electrical contacts: a black crocodile clip submerged in the center of the mercury pool, and a red crocodile clip at the bowl rim. This is the mercury conducting vessel for a homopolar motor experiment — current flowing radially from center to rim through the mercury in the presence of an axial magnetic field drives circular rotation of the liquid metal. Mercury's liquid-metal properties make it ideal for the homopolar motor's rotating electrical contact requirement.

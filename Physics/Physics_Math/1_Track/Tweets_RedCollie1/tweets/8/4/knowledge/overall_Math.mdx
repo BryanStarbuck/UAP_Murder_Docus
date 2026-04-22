@@ -1,0 +1,227 @@
+# overall_Math.mdx
+# All Mathematical Equations, Their Components, and Relationships
+
+Source: RedCollie1 (Dr. Horace Drew), X/Twitter posts, batch 8/4
+Extracted: 2026-04-22
+
+====
+
+## Note on Mathematical Explicitness in Source Material
+
+The source tweets contain physics claims and experimental observations, but few fully written-out mathematical equations. Where Drew states a physics principle, the relevant mathematical formalism is reconstructed here at PhD level from the stated physics, preserving exact correspondence to what is claimed without invention of content not present in the sources.
+
+====
+
+## Lorentz Force on a Spinning Magnetic Body
+
+Drew claims: "Newton's 3rd Law does not apply to a spinning Lorentz force."
+(Source: tweet 2007971400427110683)
+
+The Lorentz force on a charge q moving with velocity v in electromagnetic fields E and B:
+
+  F = q(E + v × B)
+
+For a magnetized body (permanent magnet) spinning with angular velocity Ω in an applied field B_ext:
+
+The velocity of a charge at position r within the body (in lab frame):
+  v = Ω × r
+
+The Lorentz force on this charge from B_ext:
+  F_Lorentz = q(v × B_ext) = q((Ω × r) × B_ext)
+
+Expanding the triple cross product:
+  (Ω × r) × B_ext = Ω(r · B_ext) - B_ext(r · Ω)
+
+When integrated over the entire spinning magnetized body (all charges), the net force on the body is:
+
+  F_net = ∫ ρ_charge [(Ω × r) × B_ext] dV
+
+where ρ_charge is the charge density. For a neutral body with equal positive and negative charges, many terms cancel. The net Lorentz force on a spinning neutral magnetic body in an external field is in general non-zero because the magnetization M = (1/V)∫(r × J) dV contributes a current distribution that interacts with B_ext.
+
+For a magnetic dipole m = M V in an external field B:
+  F = ∇(m · B)    [force on a magnetic dipole in a gradient field]
+  τ = m × B       [torque on a magnetic dipole]
+
+These are the standard equations. Drew's claim requires an additional Z-axis force term that is not derivable from these expressions in classical electrodynamics — it would require either:
+  (a) A field momentum contribution: p_field = ε_0 ∫(E × B) dV ≠ 0 under rotation
+  (b) A new force term arising from the spinning geometry
+
+====
+
+## Three-Phase Rotating Field Mathematics
+
+Six coils arranged as UVW, UVW (three phases, two coils per phase, in a ring).
+
+For phase U at angle φ_U = 0:
+  B_U(t) = B_0 cos(ωt) [cos(0) x̂ + sin(0) ŷ] = B_0 cos(ωt) x̂
+
+For phase V at angle φ_V = 2π/3:
+  B_V(t) = B_0 cos(ωt - 2π/3) [cos(2π/3) x̂ + sin(2π/3) ŷ]
+
+For phase W at angle φ_W = 4π/3:
+  B_W(t) = B_0 cos(ωt - 4π/3) [cos(4π/3) x̂ + sin(4π/3) ŷ]
+
+Summing all three:
+  B_total(t) = (3/2) B_0 [cos(ωt) x̂ + sin(ωt) ŷ]
+
+This is a field of constant magnitude (3/2)B_0 rotating at angular frequency ω in the XY-plane (horizontal plane). At ω = 2π × 40 rad/s (40 Hz) or ω = 2π × 50 rad/s (50 Hz):
+  |B_total| = (3/2) B_0 = constant
+  Phase: φ(t) = ωt (linear in time)
+
+Note: with six coils in two UVW pairs at 60° spacing (not 120°), the resultant field magnitude is still constant but the calculation includes both pairs. The field rotates at the electrical frequency.
+
+====
+
+## Torque on the Spinning Permanent Magnet
+
+Torque on the magnet's dipole moment m in the rotating field B_total:
+  τ = m × B_total
+
+If m makes angle θ with B_total:
+  |τ| = m B_total sin(θ)
+
+For sub-synchronous operation (induction motor analogy), the slip angle δ = θ is maintained by the back-EMF of the spinning magnet. The continuous torque drives:
+  I α = τ - τ_friction
+
+where I = moment of inertia of magnet and α = angular acceleration. At steady state (α = 0):
+  τ = τ_friction = constant = m B_total sin(δ_steady)
+
+This determines the slip angle at steady-state spin.
+
+====
+
+## Magnetic Force on the Spinning Magnet: Z-Axis Component
+
+For a magnetic dipole in a non-uniform field (the coil ring is at finite distance below the magnet, so dB/dz ≠ 0):
+
+  F_z = (m · ∇) B_z + m_x (∂B_z/∂x) + m_y (∂B_z/∂y) + m_z (∂B_z/∂z)
+
+For a magnet with dipole moment primarily in the Z-direction (m = m_z ẑ) in the rotating XY-plane field:
+  F_z = m_z (∂B_z/∂z)
+
+If the rotating field B_total is entirely in the XY-plane at the coil location, then B_z = 0 at that plane, but dB_z/dz may be non-zero above or below the coils. For a ring of coils carrying current I_coil at height z = 0, the axial field component at height z above the coil plane is:
+
+  B_z(0, z) = (μ_0 I_coil R²) / [2(R² + z²)^(3/2)]
+
+where R = coil ring radius. The gradient:
+  ∂B_z/∂z = -3μ_0 I_coil R² z / [2(R² + z²)^(5/2)]
+
+This is the classical gradient term. For z > 0 (magnet above the coil), ∂B_z/∂z < 0, so if m_z > 0:
+  F_z = m_z (∂B_z/∂z) < 0    [downward force for magnet above coils, dipole pointing up]
+
+This is the conventional result: a magnetic dipole in a gradient field is attracted toward the stronger field — which for the coil arrangement means downward toward the coils, not upward away from them. For the magnet to rise, a mechanism beyond this simple gradient force is required.
+
+Drew's claim is that spinning the magnet changes this result — i.e., the Lorentz force on the spinning charge distribution generates an additional Z-axis force not captured by F_z = m·∇B.
+
+====
+
+## Anti-Gravity Force Measurement Equations
+
+From tweet 1934367052594397363 (referenced parent tweet):
+  "Small and reproducible anti-gravity effects of 30 to 50 grams, yet much of the upward spinning force of 500 grams (for this small magnet at 20-30 Hertz)."
+
+Force unit conversion (gram-force to Newtons):
+  30 g-force = 0.030 kg × 9.81 m/s² = 0.294 N
+  50 g-force = 0.050 kg × 9.81 m/s² = 0.490 N
+  500 g-force = 0.500 kg × 9.81 m/s² = 4.91 N
+
+Efficiency (net anti-gravity / total upward spinning force):
+  η = F_net_antigravity / F_total_upward = (30 to 50 g) / 500 g = 6% to 10%
+
+This leaves 90-94% of the upward spinning force unaccounted for as net lift — dissipated as heat (eddy currents, hysteresis losses), friction, or canceled by stator reaction forces. The path to scaling up the device requires either (a) increasing efficiency to where F_net > mass of device, or (b) adding the homopolar dynamo reaction cancellation to recover the cancelled 90-94%.
+
+====
+
+## Homopolar Dynamo EMF Equation
+
+Faraday/homopolar dynamo EMF:
+  ε = (1/2) ω B r²
+
+where:
+  ε = electromotive force [V]
+  ω = angular velocity of the conducting disc [rad/s]
+  B = axial magnetic field threading the disc [T]
+  r = radius of the disc [m]
+
+For a self-exciting dynamo, the current generated by ε drives the coil that produces B:
+  I = ε / R_circuit = ω B r² / (2 R_circuit)
+
+The self-sustaining condition requires:
+  B = μ_0 N I / L_coil    [Ampere's law for the coil]
+  I = ω B r² / (2 R_circuit)    [Ohm's law + Faraday EMF]
+
+Combining:
+  B = μ_0 N ω B r² / (2 R_circuit L_coil)
+
+Self-sustaining condition (critical angular velocity):
+  1 = μ_0 N ω r² / (2 R_circuit L_coil)
+  ω_c = 2 R_circuit L_coil / (μ_0 N r²)
+
+For ω > ω_c, the dynamo is self-sustaining. For ω < ω_c, the field decays to zero and the dynamo dies. The liquid-metal (galinstan) dynamo must spin above ω_c for Drew's reaction-cancellation mechanism to function.
+
+Galinstan properties relevant to this calculation:
+  Electrical resistivity: ρ_galinstan ≈ 2.9 × 10^-7 Ω·m (at room temperature)
+  This sets R_circuit ∝ ρ_galinstan × geometry.
+
+For galinstan (density ≈ 6440 kg/m³), the viscous drag on the spinning liquid-metal disc sets a lower bound on the drive power needed to maintain ω > ω_c.
+
+====
+
+## Dual-Counter-Rotating Flywheel Angular Momentum
+
+Inner flywheel (clockwise, angular velocity +ω_inner):
+  L_inner = I_inner ω_inner ẑ
+
+Outer flywheel (anticlockwise, angular velocity -ω_outer):
+  L_outer = -I_outer ω_outer ẑ
+
+Total angular momentum:
+  L_total = (I_inner ω_inner - I_outer ω_outer) ẑ
+
+For L_total = 0 (no net angular momentum, device does not precess):
+  I_inner ω_inner = I_outer ω_outer
+
+This is the design condition for a non-precessing levitation device. Drew's outer flywheel has larger magnets (30 mm vs. the inner's smaller magnets if 16 are used) and larger radius, so I_outer > I_inner. For balance, ω_outer < ω_inner — the outer flywheel must spin slower than the inner.
+
+The 8 inner magnets and 8 outer magnets, driven by 6 three-phase coils arranged as UVW UVW, produce a slip frequency:
+  f_slip = f_rotating_field - f_magnet_rotation
+  τ ∝ sin(2π f_slip t)
+
+The geometry of 8 magnets in a ring (8-fold symmetry) interacting with 6-coil 3-phase field (6-fold symmetry) produces a beating pattern at the least-common-multiple frequency, which could produce pulsed torque rather than constant torque — a detail that would affect smooth vs. pulsed levitation.
+
+====
+
+## Magnet Count: Allowed Combinations
+
+Drew states: "eight magnets in each flywheel" for six coils; "12 or 24 magnets for nine coils."
+
+The pattern: number of magnets must be a multiple of the number of coil pairs (i.e., a multiple of the phase number × 2 for a 3-phase system). For 6 coils (3-phase, 2 coils/phase): multiples of 2 × (something that divides evenly into 6). For 9 coils (3-phase, 3 coils/phase): multiples of 3 × something.
+
+Specific stated values:
+  6 coils: 8 magnets per flywheel (or 16 = 2×8)
+  9 coils: 12 or 24 magnets per flywheel (24 = 2×12)
+
+The underlying requirement: the number of magnets must produce alternating N-S pole faces that, when rotating, present a pole-face spatial frequency matching the spatial harmonic of the coil ring. For a 6-coil ring with 3-phase excitation, the fundamental spatial harmonic is the 3rd (3 N poles and 3 S poles alternating). 8 magnets produce 4 N-S pairs (4th harmonic), which does not exactly match the 3rd harmonic — this would produce sub-harmonic beating. Drew may be working with a configuration that is not at the spatial-harmonic resonance condition, which would explain why efficiency is low (6-10%).
+
+====
+
+## 3I/ATLAS Jet Power Conservation
+
+From tweet note_tweet 2005590873623416947:
+  "The total power of two jet-exhausts emerging from 3I/ATLAS remains conserved."
+  "When the anti-tail jet (left) is weak, the other jet (right) is strong. When the anti-tail jet (left) is strong, the other jet (right) is weak."
+
+Mathematical statement:
+  P_jet1(t) + P_jet2(t) = P_total = constant
+
+where P_jet1, P_jet2 are the powers of the two opposed jets. This anticorrelation (when one goes up, the other goes down, sum constant) is a strict conservation law behavior. For a natural sublimating comet, one expects only anti-solar activity P_jet1(t) ∝ illumination(t), with P_jet2 ≈ 0 at all times.
+
+The observed anticorrelation would imply an active mechanism distributing a fixed internal power budget between two opposed jets — consistent with a propulsion/braking system as Drew claims, not consistent with solar-driven cometary outgassing.
+
+Momentum delivered to object by jets over time dt:
+  dp/dt = P_jet1/v_exhaust × n̂_1 + P_jet2/v_exhaust × n̂_2
+
+where n̂_1 and n̂_2 are the unit vectors of the two jets (opposed: n̂_2 = -n̂_1). If P_jet1 ≠ P_jet2:
+  dp/dt = (P_jet1 - P_jet2) / v_exhaust × n̂_1 ≠ 0
+
+The object accelerates when P_jet1 ≠ P_jet2, and coasts at constant velocity when P_jet1 = P_jet2. This is the "accelerator and brake" analogy stated in the tweet.
