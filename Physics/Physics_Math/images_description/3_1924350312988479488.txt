@@ -1,0 +1,36 @@
+IMAGE TYPE: Scientific graph — Kaplan-Meier survival curve, biomedical statistics
+
+CONTENT SUMMARY:
+A color graph approximately 960 x 720 pixels (landscape). White background with plotted survival curves. This is a standard Kaplan-Meier (KM) survival analysis plot comparing two groups over time.
+
+AXES:
+- X-axis label: "Time (days)" — ranges from 0 to approximately 6000 days (~16.4 years)
+- Y-axis label: "Cumulative Proportion Surviving" — ranges from approximately 0.1 to 1.0 (or 10% to 100%)
+- Grid lines: light gray horizontal and vertical reference grid
+
+DATA SERIES:
+RED SERIES (labeled "Live" or Active treatment):
+- Plotted as red open circles connected by a step-function line (standard KM plot format)
+- Starts at 1.0 (100% survival) at time 0
+- Maintains higher survival proportion throughout the follow-up period
+- Steps down (survival events) less frequently and to a lesser degree than the blue series
+- Ends at a relatively high proportion at the right edge (~0.6-0.7 range at 6000 days)
+
+BLUE SERIES (labeled "Die" or Placebo):
+- Plotted as blue open circles connected by a step-function line
+- Starts at 1.0 at time 0
+- Steps down more steeply and more frequently than the red series
+- Ends at a lower proportion at the right edge (~0.3-0.4 range at 6000 days)
+- Visually separated from the red curve, demonstrating a statistically meaningful difference
+
+ANNOTATIONS:
+- Text annotation on or near the plot: "Longer life due to selenium and coenzyme Q10"
+- Legend identifying red = Active treatment, blue = Placebo (or similar labeling using "Live" and "Die")
+
+STATISTICAL INTERPRETATION:
+The Kaplan-Meier survival estimator S(t) is a non-parametric statistic estimating the survival function from lifetime data. Each downward step in the curve represents one or more deaths/events at that time point. The area between the two curves represents the cumulative difference in survival probability over time. The separation between the red (treatment) and blue (placebo) curves, maintained over the full ~6000-day (~16-year) follow-up period, indicates a sustained mortality benefit of the intervention.
+
+The data depicted corresponds to the KiSel-10 study or its long-term follow-up — a Swedish randomized controlled trial of selenium (200 μg/day) plus CoQ10 (200 mg/day) supplementation in elderly subjects (mean age ~77-78 years at baseline). The study demonstrated statistically significant cardiovascular mortality reduction. The 6000-day follow-up corresponds to approximately 16 years total observation period, consistent with published KiSel-10 extension studies.
+
+PHYSICS/UAP RELEVANCE:
+This graph documents biomedical survival data, not UAP or physics content. Its appearance in this research image series appears to be contextual (personal interest post by the account holder) rather than directly related to UAP propulsion physics. See companion file 3_1924350287327707136.txt for the corresponding text slide about the same selenium/CoQ10 study.

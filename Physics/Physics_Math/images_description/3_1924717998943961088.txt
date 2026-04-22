@@ -1,0 +1,67 @@
+IMAGE TYPE: Mathematical physics diagram — Kruskal-Szekeres spacetime diagram (maximally extended Schwarzschild geometry / black hole)
+
+CONTENT SUMMARY:
+A black-and-white (or high-contrast) diagram approximately 800 x 800 pixels (approximately square). This is a schematic Kruskal-Szekeres (also called Kruskal-Szekeres maximal extension or Penrose-Kruskal) diagram representing the complete causal structure of the maximally extended Schwarzschild black hole spacetime.
+
+GEOMETRIC LAYOUT:
+The diagram is oriented with the standard Kruskal-Szekeres conventions:
+- Horizontal axis: Kruskal-Szekeres spatial coordinate X (or U+V direction)
+- Vertical axis: Kruskal-Szekeres temporal coordinate T (or U-V direction)
+- Origin at center of diagram
+
+PRIMARY STRUCTURAL ELEMENTS:
+
+CENTRAL POINT / BIFURCATION POINT:
+- A black dot is at the center of the diagram (approximately pixel center)
+- This represents the bifurcation surface — the point where the two event horizons cross
+
+RADIATING LINES FROM CENTER:
+- Multiple straight lines radiate outward from the central point in all directions
+- These represent null geodesics (light rays) propagating through the spacetime
+- The lines fill all four quadrants with approximately equal density
+
+EVENT HORIZONS (H+ and H-):
+- Two thick bold diagonal lines drawn at exactly +45° and -45° from horizontal, passing through the central point
+- These are the MOST VISUALLY PROMINENT elements in the diagram
+- Labeled explicitly: "H+" for the future event horizon (one diagonal) and "H-" for the past event horizon (the other diagonal)
+- H+ runs from lower-left to upper-right (or upper-left to lower-right, depending on convention)
+- H- is perpendicular to H+
+- Together they form an X-shape dividing spacetime into four quadrants
+
+FOUR SPACETIME REGIONS:
+- Region I (RIGHT EXTERIOR): Right quadrant — the asymptotically flat exterior region (r > 2M) where external observers exist. This is the physically accessible exterior of the black hole.
+- Region II (UPPER INTERIOR / FUTURE): Upper quadrant — the black hole interior (future singularity). Once inside H+, all timelike curves must reach the upper singularity.
+- Region III (LEFT EXTERIOR): Left quadrant — the parallel exterior region. A mirror image of Region I, causally disconnected from it. In the diagram this region may be unlabeled or labeled differently.
+- Region IV (LOWER INTERIOR / PAST): Lower quadrant — the white hole interior (past singularity). Matter can only emerge from this region.
+
+Explicit label visible: "I" for right exterior, "II" for upper interior, "IV" for lower interior. Region III (left) may be unlabeled or the image may not show a "III" label clearly.
+
+SINGULARITIES:
+- UPPER SINGULARITY: Zigzag line at the top of the diagram, bowing upward or drawn as a wavy/serrated line — represents the future spacelike singularity (r = 0) at the top of Region II
+- LOWER SINGULARITY: Zigzag line at the bottom of the diagram, bowing downward — represents the past singularity (r = 0) at the bottom of Region IV
+- The zigzag convention is standard in Penrose diagram notation for spacelike singularities
+
+DASHED HYPERBOLIC CURVES:
+- Multiple dashed hyperbolic curves visible in Regions I and III (and possibly II and IV)
+- These represent surfaces of constant Schwarzschild radius r (for r > 2M in exterior, r < 2M in interior)
+- Or alternatively: surfaces of constant Schwarzschild time t
+- The hyperbolas are asymptotically tangent to the event horizon diagonals
+
+GREEN CIRCLE AND ARROW:
+- A green filled circle is visible in the left portion of the diagram (Region III)
+- A green rightward-pointing arrow extends from the circle toward the center/singularity
+- This annotation indicates a trajectory — likely a geodesic of an infalling observer or signal traveling from Region III (parallel universe/white hole past) toward the singularity or toward Region I
+
+MATHEMATICAL FRAMEWORK:
+The Kruskal-Szekeres coordinates (T, X) are defined by the transformation from Schwarzschild coordinates (t, r):
+- For Region I (r > 2M): X = √(r/2M - 1) · e^(r/4M) · cosh(t/4M), T = √(r/2M - 1) · e^(r/4M) · sinh(t/4M)
+- The metric becomes: ds² = (32M³/r) · e^(-r/2M) · (-dT² + dX²) + r²dΩ²
+- The event horizons at r = 2M correspond to T = ±X (the 45° lines)
+- The singularity at r = 0 satisfies T² - X² = 1 (the upper/lower hyperbolas)
+- Constant-r surfaces satisfy T² - X² = constant (hyperbolas in T-X plane)
+- Constant-t surfaces satisfy T/X = constant (straight lines through origin)
+
+The Einstein-Rosen bridge (wormhole) in this diagram is the spatial connection between Regions I and III at T = 0 (the horizontal axis through the origin). This bridge is not traversable — any signal or particle attempting to pass from Region I to Region III must travel faster than light, since the bridge pinches off before a subluminal traveler can cross.
+
+PHYSICS/UAP RELEVANCE:
+This diagram is explicitly cited in the companion research slide (3_1924990346553073664.txt) as the mathematical model being "drawn in crops" by the two-circle vesica piscis crop formation at Culliford Tree Barrow (May 18, 2025). The research hypothesis is that the crop formation is encoding: (1) the two-circle geometry of Regions I and III connected by an Einstein-Rosen bridge, (2) the traversable wormhole concept (potentially with exotic matter satisfying the negative energy density requirement), and (3) the spacetime topology of UAP propulsion via dimensional transit. The Kruskal-Szekeres diagram thus serves as the theoretical physics foundation for the UAP wormhole-transit thesis being investigated in this research series.
