@@ -1,0 +1,29 @@
+IMAGE: 13_2033054723696406528_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Black and white diagram on a white background, with black bars at left and right edges (narrow) and a faint green vertical line artifact at the right edge.
+* Center: a large circular arrangement of toroidal magnet cross-sections — a top-view SEG schematic. This is the most detailed and richly rendered version of the SEG roller ring diagram seen in this series.
+* Outer ring: approximately 18-20 individual toroidal rings arranged around a circle. Each element is depicted as an annular ring (donut) in cross-section: each ring has a white body with a black outer boundary and a black filled center hole. The rings overlap each other — adjacent rings share edge areas, creating a dense interlocking ring pattern around the circumference. This represents the outer roller ring of the SEG.
+* Inner center: a concentrically nested bullseye pattern: a large black filled ring (the stator ring), inside which is a white annular region, inside which is a second black-outlined ring (the inner groove or secondary ring), inside which is a white inner circle, inside which is a black filled center disc (the hub/spindle).
+* The overall composition shows: hub at center → white annular space → black stator ring → white annular space → outer roller ring (18-20 interlocked toroids) → white background.
+* The outer roller ring's interlocked overlapping appearance emphasizes the tight packing of the rollers and the interaction between adjacent magnets.
+
+TEXT VISIBLE: None.
+
+COLORS:
+* White: background, toroid bodies, annular spaces
+* Black: toroid outlines, center holes, stator ring, hub disc
+
+PHYSICS CONCEPTS:
+* This diagram is the most detailed official-style schematic of the full SEG stator + roller ring system seen in the series. The 18-20 roller count in the outer ring is the largest count depicted (compared to 8-10 rollers in 13_2029029446406291461, 9 rollers in 13_2030408677577175040, 14-16 rollers in 13_2028704773655207938). With 18 rollers and 3-phase symmetry, the roller count would need to be a multiple of 3 (18 = 6×3), giving 6 rollers per phase — a dense 3-phase 6-poles-per-phase configuration.
+* The overlapping ring representation is significant: in the SEG topology, adjacent toroidal roller magnets interact magnetically across their contact/near-contact regions. The overlap in this diagram explicitly shows that adjacent rollers share magnetic flux coupling regions — the field lines from one roller pass through the near-field zone of its neighbors. This is the mechanism by which the rotating field propagates around the ring.
+* The multi-ring center (bullseye stator) shows the Searl stator layered structure: the stator ring itself has concentric magnetization zones (represented by the nested black/white rings), analogous to the multi-layer banding seen on the individual rollers in 13_2030408677577175040.
+
+SPATIAL RELATIONSHIPS:
+* Center bullseye (hub + stator rings) at exact center.
+* Outer roller ring encircling the stator.
+* Interlocked toroid elements densely packed around circumference.
+* White background outside the ring.
+
+HIGH-LEVEL SUMMARY:
+Highest-detail black-and-white SEG schematic in the series: a top-view diagram showing 18-20 interlocking toroidal roller magnets arranged around the outer ring, surrounding a concentric bullseye stator structure (multiple nested black/white rings). The overlapping ring representation emphasizes inter-roller magnetic coupling. This is the most complete depiction of the full SEG stator + roller ring topology, consistent with a 3-phase 6-poles-per-phase configuration.

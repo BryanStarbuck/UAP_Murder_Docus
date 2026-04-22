@@ -1,0 +1,73 @@
+SHAPES:
+* Composite image with title, three panels, and annotations
+* TITLE (top, underlined): "The schematic drawing of a 'spacetime wormhole'"
+* ANNOTATION (bottom left): "July 28, 2022 at Tawsmead Copse"
+* ANNOTATION (bottom right): "RC thanks to Stonehenge Dronescapes"
+* LEFT PANEL: Blue-on-white crop formation schematic diagram:
+  * Two target-like concentric ring sets, stacked vertically and connected:
+    * UPPER set ("destination"): 3 concentric rings with a filled blue circle at center
+      * Outer ring: approximately 200px diameter
+      * Middle ring: approximately 140px diameter
+      * Inner ring: approximately 80px diameter
+      * Central dot: approximately 30px diameter, solid blue
+    * LOWER set ("source"): 3 concentric rings with a filled blue circle at center
+      * Same dimensions as upper set
+      * Labeled "source"
+  * The two concentric ring sets are connected by a vertical blue line (approximately 15px wide, 80px long) passing through their closest points
+  * A large filled blue circle (approximately 60px diameter) is positioned to the left of the upper set, labeled "Earth"
+  * The labels: "destination" (upper right of upper set), "source" (lower right of lower set), "Earth" (left of the large blue dot)
+* MIDDLE PANEL: Blue wireframe/grid diagram of a wormhole cross-section:
+  * Upper funnel shape: circular disc at top (approximately 150px diameter) with grid lines, narrowing downward into a neck/throat
+  * Narrow throat/neck: approximately 20px wide, approximately 100px tall
+  * Lower funnel shape: circular disc at bottom, mirror image of the upper funnel
+  * The overall shape is two funnels connected at their narrow ends — the classic Morris-Thorne wormhole cross-section
+  * Labeled: "long, narrow throat" (below the middle panel)
+  * Grid lines on the funnel surfaces show the curvature of spacetime
+* RIGHT PANEL: Color rendering/artwork of a spacetime wormhole:
+  * A dramatic space environment background (stars, nebula)
+  * Yellow/gold energy stream entering from the upper left into one mouth of the wormhole
+  * White/bright energy stream exiting from the lower right wormhole mouth
+  * Two white wireframe/grid flat planes representing spacetime sheets
+  * Each spacetime sheet is warped into a funnel at the wormhole mouth
+  * The wormhole connects the two spacetime sheets through the throat
+  * Labeled: "curvature of spacetime" (below the right panel)
+
+TEXT VISIBLE:
+* "The schematic drawing of a 'spacetime wormhole'" — title (underlined)
+* "Earth" — label on the blue dot (left panel)
+* "destination" — label on the upper concentric ring set
+* "source" — label on the lower concentric ring set
+* "long, narrow throat" — label below the wireframe diagram
+* "curvature of spacetime" — label below the artistic rendering
+* "July 28, 2022 at Tawsmead Copse" — formation date and location
+* "RC thanks to Stonehenge Dronescapes" — attribution
+
+COLORS:
+* Left panel: blue and white
+* Middle panel: blue wireframe on white background
+* Right panel: full color — dark blue space background, yellow and white energy streams, white grid planes
+
+PHYSICS CONCEPTS:
+* This image directly addresses spacetime wormhole physics and interprets a crop formation as a schematic of a wormhole:
+  * The Tawsmead Copse 2022 formation (two concentric ring sets connected by a line) is presented as a schematic diagram of a Morris-Thorne traversable wormhole
+  * Morris-Thorne wormhole (1988): A solution to the Einstein field equations G_μν = 8πG/c⁴ T_μν that connects two separate regions of spacetime through a topological handle ("wormhole" or "Einstein-Rosen bridge"). The metric is:
+    ds² = -e^{2Φ(r)} c² dt² + dr²/(1 - b(r)/r) + r² dΩ²
+    where Φ(r) is the redshift function and b(r) is the shape function
+  * For the wormhole to be traversable: the exotic matter with negative energy density (violating the weak energy condition) is required at the throat — specifically T_μν k^μ k^ν < 0 for some null vector k^μ
+  * The crop formation interpretation:
+    * Upper concentric rings = destination spacetime region (mouth 1)
+    * Lower concentric rings = source spacetime region (mouth 2)
+    * Connecting line = the wormhole throat
+    * Large Earth dot = the observer's reference frame
+  * The "long, narrow throat" label on the wireframe corresponds to the mathematical requirement that b(r) < r everywhere along the throat (the "flaring out condition")
+  * For UAP propulsion: a traversable wormhole would allow faster-than-light travel by creating a shortcut through spacetime, bypassing the light-speed barrier without locally exceeding c. This is one of the primary theoretical frameworks for UAP interstellar travel capability
+  * The Casimir effect (negative energy density between parallel conducting plates) is the most commonly cited mechanism for providing the exotic matter required at the wormhole throat
+
+SPATIAL RELATIONSHIPS:
+* Title at top spanning full width
+* Three panels arranged left to right: crop formation schematic / wormhole wireframe / artistic rendering
+* Labels ("destination," "source," "long narrow throat," "curvature of spacetime") positioned below each relevant panel element
+* Attribution text at bottom
+
+HIGH-LEVEL SUMMARY:
+Composite image by researcher RC presenting the July 28, 2022 Tawsmead Copse crop formation as a schematic of a Morris-Thorne traversable spacetime wormhole. The formation consists of two sets of concentric rings connected by a central line, which is interpreted as representing two spacetime regions (source and destination) connected by a narrow wormhole throat. The comparison panels show the standard wormhole visualization (wireframe two-funnel geometry) and a dramatic artistic rendering of spacetime curvature at the wormhole mouths. The Morris-Thorne metric requires exotic matter with negative energy density (T_μν k^μ k^ν < 0) at the throat — theoretically provided by Casimir effect vacuum energy. In UAP physics, traversable wormholes represent the primary theoretical mechanism for faster-than-light interstellar travel without locally violating the speed of light, by creating a topological shortcut through spacetime geometry.

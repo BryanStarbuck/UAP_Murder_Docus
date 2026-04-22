@@ -1,0 +1,46 @@
+IMAGE: 13_2032260628157714433_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Direct axial front-on view of the SEG assembly — camera positioned directly on the axis of the spindle, looking straight into the center of the roller ring and stator.
+* Center: the chrome stator cylinder/collar is in rapid rotation — strong motion blur visible. The stator collar shows a tapered/conical shape tapering toward center where the orange bearing ball is visible at the apex. The overall impression is of a rotating funnel or cone shape at center.
+* Orange bearing ball: visible at the very center of the assembly (apex of the rotating chrome cone/collar).
+* Around the center: 6 large flat disc rollers wrapped in red tape/cloth, each with a yellow label strip. Phase labels visible:
+  - "U1" — top-center roller (yellow strip, black text)
+  - "V" — upper right roller
+  - "W1" — lower right roller
+  - "U" — bottom-center roller
+  - "V" — lower left roller (partially visible)
+  - "W" — upper left roller (partially visible, "W" partially cut off)
+* This confirms the 6-roller 3-phase assignment: U at top and bottom (0°/180°), V at upper-right and lower-left (60°/240°), W at lower-right and upper-left (120°/300°) — or some rotational permutation thereof. The "1" suffix on "U1" and "W1" suggests the two rollers of each phase are distinguished as roller 1 and roller 2 (unlabeled).
+* Extensive wiring: red, blue, yellow alligator-clip leads extend from the rollers in many directions, creating a visually dense wire bundle.
+* Background: white wall with various wires and equipment. Yellow and blue alligator clips visible at right edge.
+
+TEXT VISIBLE:
+* "U1" — yellow strip, black handwriting, top roller
+* "V" — yellow strip, black handwriting, upper right roller
+* "W1" — yellow strip, black handwriting, lower right roller
+* "U" — yellow strip, black handwriting, bottom roller
+* "V" (partial) — lower left
+* "W" (partial) — upper left
+
+COLORS:
+* Red: roller tape wrapping
+* Yellow: phase label strips
+* Black: handwritten phase labels
+* Chrome/silver: rotating stator collar (motion-blurred)
+* Orange: bearing ball at center
+* Red, blue, yellow: test lead wires
+
+PHYSICS CONCEPTS:
+* This direct axial view provides the clearest documentation of the 6-roller 3-phase configuration: all 6 rollers and their U/V/W assignments are visible simultaneously. The "1" suffix distinction (U1/W1) confirms the two rollers per phase are individually labeled, useful for independent measurement or differential sensing of each phase's individual roller.
+* The chrome collar is in rapid rotation — this is another dynamic operating frame. The tapered/cone shape at center combined with the orange bearing ball creates a geometrically significant focal point. In SEG theory, the bearing ball serves as the pivot/contact point for the rotating system, and the chrome collar's rapid spin is consistent with the initial drive phase of an electromagnetic test.
+* The direct axial view shows the 6-fold rotational symmetry of the roller ring explicitly — the rollers are equidistantly spaced at 60° intervals, and the U/V/W phases are evenly distributed at 120° intervals.
+
+SPATIAL RELATIONSHIPS:
+* Orange ball at exact center of frame.
+* Chrome rotating collar surrounding the ball (motion-blurred).
+* 6 rollers in a ring around the collar: U1 top, V upper-right, W1 lower-right, U bottom, V lower-left, W upper-left.
+* Wire harness extending in all directions from rollers.
+
+HIGH-LEVEL SUMMARY:
+Direct axial view of the SEG roller ring in operation (chrome stator collar in rapid rotation, motion-blurred). All six rollers are simultaneously visible with their IEC 3-phase labels: U1 (top), V (upper right), W1 (lower right), U (bottom), V (lower left), W (upper left). This is the definitive documentation frame for the 6-roller 2-poles-per-phase 3-phase SEG configuration, with the orange bearing ball at center and extensive test lead wiring.

@@ -1,0 +1,60 @@
+IMAGE DESCRIPTION: 3_1998940743155830784.jpg
+
+SHAPES AND ELEMENTS:
+* Close-up crop of the previous image (3_1998940724986023937.jpg) — a zoomed-in view of the cometary nucleus and jet region
+* Heavy pixelation throughout — blocky pixel art appearance due to very low resolution or significant digital zoom
+* Black background
+
+CENTRAL DARK REGION:
+* A dark (black/very dark) roughly oval region at approximately upper-center of the image
+* This represents the cometary nucleus or optically thick inner coma core
+
+JET STRUCTURE:
+* A bright white diagonal streak extending from the lower-left boundary of the dark nucleus region toward the upper-left corner
+  * The streak is brightest where it exits the dark nucleus region
+  * The streak fades/diffuses toward the upper-left
+  * This is the same collimated outgassing "Jet" labeled in the previous image
+  * At this zoom level, the jet root (where the jet emerges from the nucleus) is visible as a very bright white-blue-purple point
+
+SURROUNDING COMA:
+* Mottled green and cyan regions surrounding the nucleus
+* Green regions: moderate brightness areas of the inner coma
+* Cyan regions: brighter inner coma concentrations
+* Blue regions (left side): brightest non-jet coma regions — appear as elongated blue zones
+* Black regions: either no signal or very low signal between coma clumps
+
+FALSE-COLOR SCALE:
+* Same color mapping as the previous image:
+  * Black: lowest brightness
+  * Green: moderate brightness
+  * Cyan: higher brightness
+  * Blue: highest brightness (non-jet)
+  * White/white-purple: maximum brightness (jet root)
+
+TEXT: No text visible in this close-up crop.
+
+COLORS:
+* Background: black
+* Coma: mottled green, cyan, blue
+* Nucleus: dark/black
+* Jet: white-blue-purple streak, brightest at origin
+
+PHYSICS CONCEPTS:
+* This is a magnified view of the jet root — where the collimated outgassing stream first emerges from the cometary nucleus surface
+* The extremely bright point at the jet origin indicates a very high surface brightness concentration — the jet contributes a large fraction of the total coma flux in this region
+* The jet root geometry (the angle and width of the jet at its origin) can be used to:
+  * Determine the size of the active sublimation area on the nucleus
+  * Constrain the gas ejection velocity (from jet collimation angle)
+  * Track nucleus rotation (the jet direction changes as the nucleus rotates)
+* At this resolution (4000 km per pixel from the previous annotation), the jet width is approximately 1-2 pixels = 4000-8000 km — consistent with a large, diffuse active region rather than a pinpoint source
+* The blue elongated zones left of center may indicate a second, weaker jet or a broad diffuse outgassing region at a different position angle
+
+SPATIAL RELATIONSHIPS:
+* Dark nucleus: upper-center of frame
+* Jet streak: diagonal, extending from nucleus origin toward upper-left
+* Blue zone: left-center, distinct from the main jet
+* Mottled green/cyan: fills most of the frame
+* Black (background): lower-right corner
+
+HIGH-LEVEL SUMMARY:
+A magnified close-up crop of the cometary jet region from the previous image, showing the jet root at the nucleus interface in maximum detail. The blocky pixelation (4000 km per pixel) reveals the coarse resolution of the original observation. The jet appears as a bright white-blue-purple streak emerging from the dark nucleus at the upper-center. Surrounding the nucleus is a mottled blue, cyan, and green inner coma, with a brighter blue zone to the left possibly indicating a secondary outgassing region. This view allows examination of the jet root geometry for constraining active region size, gas ejection velocity, and nucleus rotation parameters.

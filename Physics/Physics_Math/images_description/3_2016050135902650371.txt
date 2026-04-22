@@ -1,0 +1,34 @@
+IMAGE DESCRIPTION: 3_2016050135902650371.jpg
+
+SHAPES AND TEXT:
+* White background annotated disc schematic — the standard vertical-axis two-magnet disc diagram from the collection
+* Same layout as 3_2015744548140720128.jpg (which had "3-phase rotary induction (15)" and "galinstan?")
+* Top element: red-outlined solid black circle with white dot (magnet, labeled "magnet N/S" upper-right)
+* Trident/fork connector below the top magnet
+* Central beaded ring (ring of small black circles arranged around a larger black disc), with a blue circle outline (analytical overlay)
+* Small hook/curl element between top trident and central ring
+* Large black circle below the beaded ring (intermediate element / second disc)
+* Small curved connector element
+* Bottom element: red-outlined solid black circle with white dot (second magnet, labeled "magnet N/S" lower-center)
+
+TEXT (transcribed exactly):
+"3-phase magnetism" (red, bold) — upper-left area (missing from this image — NOT visible; see note below)
+"magnet N/S" (red, bold) — upper-right
+"3-phase rotary induction (15)" (blue, bold) — left-center
+"galinstan?" (blue, bold, with question mark) — right-center
+"magnet N/S" (red, bold) — lower-center
+
+NOTE: Comparing to 3_2015744548140720128.jpg — this image appears to be essentially the same diagram with possibly the same or similar labels. The upper-left "3-phase magnetism" label may be cut off by the image frame or may not be present in this version.
+
+COLORS: White background, black formation elements, red circle outlines on magnets, blue circle outline on beaded ring, red/blue text labels.
+
+PHYSICS / CONCEPTS:
+* Same as 3_2015744548140720128.jpg — see that entry for full physics analysis
+* This is another instance of the core vertical disc propulsion schematic:
+  - Top magnet (N/S) → trident connection → central 15-coil-pair beaded ring (Muller dynamo spec) → lower disc → bottom magnet (N/S)
+  - The beaded ring labeled "3-phase rotary induction (15)" specifies 15 coil pairs = 30 slots = the Muller dynamo specification
+  - "galinstan?" indicates uncertainty about whether the beaded ring uses Galinstan (Ga-In-Sn liquid metal) as its conductor
+* Key physics: the "(15)" annotation connecting this to the Muller dynamo's 15 coil pairs is the most specific quantitative claim in the entire collection — it identifies the beaded ring element as a 30-slot three-phase induction ring motor
+
+SUMMARY:
+Annotated vertical-axis two-magnet disc diagram with labels "3-phase rotary induction (15)" (blue), "galinstan?" (blue), and "magnet N/S" × 2 (red). Essentially a duplicate or near-duplicate of 3_2015744548140720128.jpg. See that entry for full physics analysis. The (15) annotation specifying 15 coil pairs directly links this formation to the Muller dynamo specification.

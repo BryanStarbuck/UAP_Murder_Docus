@@ -1,0 +1,786 @@
+# overall_Lift.mdx — UAP Physics Knowledge Base
+
+Extracted from 100 tweet directories of @RedCollie1 (Dr. Horace Drew, Caltech/MRC LMB Cambridge).
+
+---
+
+## I. Central Claim: Lift by Spin
+
+Dr. Horace Drew's core assertion: "UFOs rise up by SPIN." More precisely: "UFOs fly using the upward spin force from a fast-spinning magnet, in a 3-phase helical magnetic field." The XY-plane electromagnetic rotation is the input; Z-axis (vertical) lift is the output. This cross-plane coupling — horizontal rotation producing vertical force — is the central unsolved bridge of his research program.
+
+Drew acknowledges (as of mid-2025 through April 2026) that the levitation physics "looks like magic" and has "never been tested before on Earth," though laboratory modeling of electrical engineering components was underway and progressing.
+
+Self-assessment: "I am the only one on Earth working on this important problem (outside of secret military labs)."
+
+---
+
+## II. Proposed Lift Mechanisms (All Variants)
+
+### II.A. Two-Stage Lift: Spinning Magnet + Counter-Spinning Flywheel
+
+The most consistently stated mechanism across all tweet batches.
+
+**Stage 1 — Establish XY-plane spin:**
+
+DC current driven radially through the inner disc magnet (homopolar/Corbino disc motor operation):
+- DC current flows radially through liquid-metal (galinstan or mercury) brushes at inner radius R₁ and outer radius R₂
+- Axial B-field of the disc magnet itself, combined with radial current: Lorentz torque F = I(L × B) in the azimuthal direction
+- Disc accelerates to high angular velocity ω_disc about the vertical Z-axis
+
+**Stage 2 — 3-phase rotating field counter-drives outer flywheel:**
+
+Six outer wire coils (U-V-W-U-V-W configuration) produce a clockwise rotating magnetic field (RMF) in the XY-plane at angular frequency ω_field. The outer ring of 8 magnets (N-S-N-S alternating) counter-rotates against this field at ω_outer (anti-clockwise). The inner disc co-rotates with its field (clockwise). Three additional under-coils (U-V-W) provide a second rotating field axially displaced from the outer six.
+
+**Stage 3 — Z-axis force:**
+
+The co-existence of inner spinning at +ω_inner and outer counter-spinning at −ω_outer (and the axial displacement of the two rotating field sources) produces the Z-axis lift force. Drew's claim: "both sets of magnets shift upward compared to their non-spinning positions." This net upward shift of both the up-excursion and down-excursion equilibria is the mathematical signature of lift.
+
+**Device specification (most detailed version, from video/YAML sources):**
+
+| Component | Specification |
+|-----------|--------------|
+| Central rod | 8 mm stainless steel, vertical Z-axis |
+| Inner disc magnet | 70 mm diameter, 14 mm bore, South polarity, free to slide on rod |
+| Ball coupling | ZrO₂ ceramic (non-magnetic), seated on top of rod |
+| Bearing | ZrO₂ ball bearing, 90 mm inner bore, 115 mm outer edge |
+| Outer ring | 8 N-S-N-S-N-S-N-S magnets attached to bearing outer race |
+| Outer stator coils | 6 wire coils, U-V-W-U-V-W arrangement |
+| Inner lower stator | 3 wire coils, U-V-W arrangement, axially displaced below |
+| Power supplies | Two separate 3-phase supplies (one for each rotating field) |
+| Drive frequencies tested | 12 Hz → 20 Hz → 30 Hz → 40 Hz → 50 Hz |
+
+**Engineering optimization — 6 vs. 9 coils:**
+
+The 6-coil (U-V-W-U-V-W) arrangement is empirically required; 9 coils does not produce the correct topology. The spatial harmonic analysis: with 6 coils in U-V-W-U-V-W, the fundamental harmonic is p=1 (rotating field); harmonics present: n = 1, 5, 7, 11, 13... The 5th backward harmonic is the dominant counter-rotation driver. Nine coils (three 3-phase sets at 0°, 40°, 80° offsets) has different harmonic content and does not produce the necessary counter-rotating outer ring. Alternative: 15 coils (5 × 3) strengthens the 5-fold symmetry harmonic.
+
+---
+
+### II.B. Pulsed (Periodic) Z-Axis Thrust
+
+Rather than continuous thrust, the mechanism produces periodic pulsed upward thrust: "A UFO rises by spin in 'up-down' pulses." The inner spinning magnet oscillates between positions above and below the flywheel plane. Each oscillation cycle produces a net upward displacement if Newton's Third Law is bypassed as claimed.
+
+The silicone bead (viscoelastic coupling) converts pulsed force into quasi-DC sustained force:
+
+G*(ω) = G'(ω) + iG''(ω)
+
+where G' transmits the elastic component of the upward impulse and G'' damps the oscillatory bounce. Time-averaged force:
+
+F_mean = (1/T) ∫₀ᵀ F_up(t) dt
+
+**Measured result:** With silicone bead coupling, approximately 1000 grams-force (9.81 N) upward force at 20–30 Hz drive frequency. Force increases with increasing drive frequency.
+
+**Levitation condition:**
+
+F_mean > M_total · g
+
+where M_total includes coil assembly + structural mass + power connections.
+
+---
+
+### II.C. Vortex Collapse as Lift Impulse
+
+**Vortex formation:** Counter-rotating outer flywheel and inner magnet twist magnetic field lines downward into a concentrated helical vortex. Energy stored: ∫(1/2μ₀) B²_vortex dV over the vortex volume.
+
+**Vortex collapse / breakdown:** When the downward vortex reaches sufficient rotational speed, it undergoes rapid phase transition (analogous to magnetic reconnection). Energy release is directed upward, causing both inner magnet and outer flywheel to "shoot upward."
+
+**Open question on Newton's Third Law:** Drew hypothesizes the collapse is asymmetric in Z, producing only upward impulse with no downward mechanical reaction. The proposed reason: the collapse is analogous to force-generation mechanisms that do not obey classical action-reaction pairs:
+1. Einstein's curved spacetime (gravity acts in an inertia-less fashion)
+2. Lorentz force of electromagnetism (does not obey Newton's Third Law in the mechanical sense)
+3. Alcubierre warp drive (inertia-less propulsion by spacetime metric modification)
+
+---
+
+### II.D. Gyroscopic / Vacuum-Push Mechanism
+
+Drew's alternative framing (especially prominent in later tweet batches):
+
+"The fast-spinning disc changes its nearby 'vacuum of space' into a viscous substance like water. That is called 'gyroscopic inertia'. By making that fast-spinning disc turn more rapidly, we are causing it to PUSH against an unseen (and viscous) vacuum of space. Something like a boat propeller which is turning at very slow speeds."
+
+**Lift generation chain in this model:**
+
+1. Fast spin (ω_spin >> ω_prec) modifies local vacuum — inertial/viscous properties increase in the immediately surrounding space
+2. External torque applied (by 3-phase RMF) → precession rate Ω_prec increases
+3. Increased precession causes spinning disc to "push" against the viscous vacuum in a direction with a net Z-axis component
+4. Net force F_z (upward) > 0 — lift generated
+
+**Extension by 3-phase field:**
+
+Single-phase drive produces a pulsating field (not rotating) → alternating torque → no continuous precession. Three-phase drive produces a constant-magnitude rotating field:
+
+B_net = (3/2)B_max = constant
+
+→ continuous unidirectional torque → smooth, vibration-free precession → steady-state lift. The constant-magnitude property of 3-phase is mathematically essential.
+
+**Governing equation (phenomenological, Drew):**
+
+w = h / a
+
+where:
+- w = angular velocity of spinning disc (rad/s)
+- h = height above ground (m)
+- a = horizontal cross-sectional area (m²)
+
+For a spinning disc of fixed area a, increasing angular velocity w requires increasing height h (the disc rises). Equivalent form: h = w · a. Not derived from existing physical frameworks; presented as phenomenological, from what Drew calls "a future science textbook."
+
+**Optimal lift geometry:** Low h, large a (flat, wide pancake shape). This maximizes the ratio a/h, requiring less angular velocity to achieve a given height.
+
+---
+
+### II.E. Dual Magnetic Vortex (Above and Below Flywheel)
+
+"The mysterious physics of UFO-flight may be based on TWO fast-spinning 'magnetic vortices', one just above a fast-spinning magnetic flywheel, and another just below."
+
+**Physical interpretation:** When a permanent-magnet flywheel rotates rapidly, the flux lines from the spinning poles stretch into helical shapes. Above the flywheel plane, the helical flux creates a toroidal magnetic vortex rotating in one direction. Below, the opposite magnetic pole faces dominate, creating a counter-rotating vortex.
+
+**Stability of vortex attachment points:** The lower vortex is a stable Z-axis equilibrium at z = −z₀ (below the flywheel equatorial plane); the upper vortex at z = +z₀ (above). The potential energy landscape along Z has two minima separated by a potential barrier at z = 0.
+
+**Piston transition as Z-axis work mechanism:** By driving the spinning magnet to rapidly transition between z = −z₀ and z = +z₀, and biasing the transition so the return stroke (downward) requires less energy than the forward stroke (upward), net upward work is extracted per cycle:
+
+F_net = F_up − F_down > 0 (net upward)
+F_net_time_avg = (F_up − F_down) · n_cycles/sec > mg
+
+Inertia-less character condition:
+|∇(m · B)| >> mg / (2 · r_vortex)
+
+where r_vortex is the vortex potential well radius. When satisfied, the flywheel "falls" into a rising potential minimum without inertial resistance.
+
+**Spin direction → Z-axis direction coupling (Fatima 1917 observation, 80,000 witnesses):**
+- Phase 1: disk spinning in one direction → descent (4 minutes)
+- Phase 2: disk spinning in the opposite direction → ascent back into clouds (4 minutes)
+
+Physical implication: reversing flywheel spin swaps which vortex is "up" and which is "down," reversing the Z-axis force direction. Consistent with the dual-vortex model.
+
+---
+
+### II.F. Liquid-Metal Vortex (MHD Lift)
+
+**Step-by-step sequence:**
+
+Step 1: DC current J_r (radial) through liquid metal (galinstan: σ ≈ 3.46×10⁶ S/m; alternatively mercury) in axial background field B_z → Lorentz azimuthal force: F_φ = J_r × B_z → spinning vortex in XY-plane.
+
+Step 2: 3-phase rotating field applied to the spinning vortex.
+
+Step 3: The spinning vortex acquires an induced axial magnetic field. Magnetic Reynolds number:
+
+Rm_vortex = μ₀ σ ω R² ≈ (4π×10⁻⁷)(3.1×10⁵) ≈ 0.39
+
+(for σ = 3.46×10⁶ S/m, ω = 100 rad/s, R = 0.03 m), meaning the induced field is ~0.4 × B_applied — not negligible.
+
+Step 4: Interaction of induced toroidal field B_φ with 3-phase rotating field B_3φ:
+
+(φ̂ × r̂_rotating) = ẑ component when r̂_rotating lies in XY plane
+
+Z-component of Lorentz force density:
+
+f_z = J_φ · B_r = σ v_φ B_r²
+
+where v_φ is the azimuthal spin velocity of the vortex and B_r is the radial fringe field. Force is always positive (upward) for appropriate v_φ direction, and scales as v_φ B_r².
+
+**Dimensional estimate (rough upper bound):** For σ(galinstan) ≈ 3.46×10⁶ S/m, u_θ ~ 0.1 m/s, B_3ph ~ 0.1 T, geometry factor ~ 0.01 m³:
+
+F_z ~ 3.46×10⁶ × 0.1 × 0.1 × 0.01 ≈ 3460 N
+
+**Mercury Vortex Experiment Protocol (Drew's proposed test):**
+
+Step 1: Strong permanent magnet below mercury bath; DC power (three red anodes at periphery, one black cathode at center on copper pole) → mercury spins azimuthally via Lorentz force (J_r × B_z → f_φ).
+
+Step 2: Second strong permanent magnet ABOVE mercury → tall axial N/S field region extending vertically.
+
+Step 3: Increase DC current until v_φ²/r > g → centrifugal tendency overcomes gravity locally → mercury forms a tall vertical column (vortex). Test under vacuum (eliminate aerodynamic drag and buoyancy confounders).
+
+Step 4: Weigh entire assembly on precision scale during high-spin operation. If total weight decreases: anomalous anti-gravity effect demonstrated.
+
+The critical distinction: Steps 1-3 are conventional MHD/fluid mechanics. Step 4 is the anomalous claim. Drew states this has never been done.
+
+**Helical transition for lift (liquid-metal variant):**
+
+If the azimuthal vortex spin can be altered from circular to helical (simultaneous XY rotation and Z-axis translation), the device may "rise up." Three-phase drive of the vortex (vs. DC drive) is proposed to produce this helical transition.
+
+---
+
+### II.F.1. Faraday Disk + 3-Phase Power
+
+"We may have to apply 3-phase power to a Faraday disk to achieve UFO levitation. It has an induced magnetic field when in rapid spin."
+
+Step 1: Disc spins rapidly via DC homopolar motor action (J_r × B_z → azimuthal Lorentz force → spin).
+Step 2: Rapidly spinning disc develops self-induced toroidal B_φ via Ampere's law from circulating current.
+Step 3: Externally applied B_3φ(t) interacts with induced B_φ:
+
+f = J × B, Z-component: f_z = J_φ × B_r ≠ 0
+
+Step 4: Net Z-force (lift) when F_EM,z > mg.
+
+Self-induced field magnitude: B_self ~ μ₀ σ ω_spin R² t (typically small at laboratory rotation rates, but non-negligible at high ω and large σ).
+
+---
+
+### II.G. Counter-Rotating 12-Coil Configuration
+
+"The key to making UFO-style counter-spin work, using a ring of 12 wire coils, given 3-phase AC power as U-V-W-U-V-W-U-V-W-U-V-W, is to wire all of the 'U' coils in series."
+
+Standard induction motor: stator field and rotor current system co-rotate; forces purely azimuthal. No net Z force.
+
+Counter-spin: stator field rotates at ω_field, rotor spins at Ω_mech in the opposite direction. Relative speed = ω_field + Ω_mech (sums rather than differs). This creates:
+1. Much higher induced EMF in the rotor (proportional to relative speed)
+2. Higher induced currents
+3. Larger Lorentz force per unit volume
+4. Force distribution with components in all directions including Z (when up-down symmetry is broken by geometry)
+
+The specific series-wiring of all U-coils maximizes the Z-force-asymmetric field topology at minimum input power.
+
+---
+
+### II.H. Newton's Third Law Bypass — The Core Claim
+
+**Standard case (stationary disc):** F_up on disc = F_down on coil assembly. Weight unchanged. No net lift.
+
+**Spinning disc case (claimed):** F_up on disc is NOT fully cancelled by F_down on coil assembly. The Lorentz geometry of the spinning disc converts what would be a downward reaction force into a tangential (azimuthal) torque, which changes the disc's spin rate rather than pushing it down. This is analogized to the gyroscope 90° force redirect:
+
+"Just as a fast-spinning 'top' will re-direct any applied force sideways by 90 degrees (as in the Lorentz force of electromagnetic physics)."
+
+**Two possible downward reaction partners:**
+1. Downward force against the tabletop (physical surface reaction) — eliminated by lifting device off surface
+2. Downward force against the invisible, resistive vacuum — the vacuum absorbs the reaction, not any solid component
+
+If reaction (1) is eliminated by design, only reaction (2) remains. The device then rises as if pushing against the vacuum below it.
+
+**Complete force balance (Drew's most developed account):**
+
+F_up_inner = k · Ω_inner² · μ_inner² (from inner spinning magnet's vacuum reaction)
+F_up_outer = k · Ω_outer² · μ_outer² (from outer flywheel's vacuum reaction)
+F_total = k(Ω_inner² · μ_inner² + Ω_outer² · μ_outer²)
+
+Levitation condition: F_total ≥ Mg
+
+No net downward reaction on any physical part of the device. The only "equal and opposite" is the downward force on the vacuum — an invisible, non-mechanical reaction partner.
+
+**Total force on system (exact EM theory):**
+
+F_total = ∫(ρ_e E + J × B) dV + d/dt ∫ ε₀(E × B) dV [field momentum term]
+
+Drew's claim requires the field momentum term to be macroscopically significant — achievable at high frequencies (radiation pressure) or by resonance.
+
+---
+
+### II.I. Polarity Independence — Diagnostic Evidence for Non-Classical Mechanism
+
+**Experimental result (multiple sources):** At high frequency (≥ 24–25 Hz), spinning magnets exhibit identical upward force regardless of:
+- Magnetic polarity (North-up vs. South-up): both rise identically
+- Rotation chirality (CW vs. CCW): both produce the same Z-axis force behavior
+
+At low frequency (≤ 10 Hz): polarity-dependent behavior (one orientation rises, one sinks). The frequency threshold separates two dynamical regimes.
+
+**Diagnostic significance:** Simple static dipole-dipole interaction (Kelvin/gradient force) is polarity-dependent:
+
+F_z = ∇(m · B) = m · ∂B_z/∂z ẑ
+
+Sign reverses with pole reversal. The observed polarity independence at high frequency rules out static dipole gradient force as the primary mechanism. Points to a higher-order or rotationally invariant coupling.
+
+**Exception — early dataset (4/5 batch):**
+
+In the horizontal-coil, non-precessing configuration, lift was observed exclusively with South (blue) pole pointing upward. The North (red) pole orientation did not produce sustained lift. This orientation constraint implies a chirality coupling between (a) rotation direction of the spinning magnet (determined by B_z polarity in the initial Lorentz drive) and (b) phase sequence of the 3-phase field. Only the specific relative chirality that produces "upward pole" force generates net Z-axis lift.
+
+Three independent observations established the lift is genuine thrust, not mechanical screw motion:
+1. Central hole pre-drilled in both CW and CCW directions (no thread screw coupling)
+2. At moment of maximum ascent, rod and cork nearly stationary (no spinning-to-translation coupling)
+3. Video observation: "It's a thrust motion. Up with thrust and not spin."
+
+---
+
+### II.J. Spinning Top / Gyroscope Precession-Based Lift
+
+**Spinning top teaching demonstration:**
+
+A spinning top subjected to a horizontal air jet (or the 3-phase field's rotating torque) undergoes precession governed by:
+
+dL/dt = τ = r × F
+
+For L = Iω ẑ and τ_y ŷ (horizontal torque):
+
+Ω_prec = τ / L = τ / (Iω)
+
+Drew's key insight: the spinning state fundamentally changes how the object responds to XY-plane forces. Without spin, XY force → XY motion. With spin, XY force → Z-axis precession and/or vertical displacement. Maximum lift:
+
+F_z = F_vacuum · cos(θ) ∝ sin(θ) · cos(θ) = (1/2)sin(2θ)
+
+Maximum at θ = 45° — the optimal precession half-angle for Z-axis lift from the wobble-spin mechanism.
+
+**Opposite precession direction as lift mechanism:**
+
+Standard top: precesses in same direction as spin → top loses energy → falls. No lift.
+
+Magnetic top: precesses in OPPOSITE direction to spin when gaining energy → top rises. This claimed reversal of precession handedness is the proposed lift mechanism. Evidence cited from three UAP-instructional crop pictures from 2011, 2012, and 2016.
+
+**Gyroscope lifting observed weights (Laithwaite analog):**
+
+Observed phenomenon:
+- Spinning gyroscope at low precession angular velocity Ω_p: does NOT lift any weight off the ground
+- Same gyroscope at high Ω_p: CAN lift "quite large weights"
+
+Lift capacity as a function of precession rate:
+
+M_lift(Ω_p) = M_gyro · [f(Ω_p) - 1] for f(Ω_p) > 1
+
+At ω_p = 0: f = 0, no lift. At ω_p → ∞: f → maximum (potentially > 1).
+
+Critical precession frequency for lift:
+
+Ω_p > √(Mg / (k · I_spin · ω_s))
+
+Decreases as ω_s (spin speed) increases.
+
+**Proposed spacetime coupling (speculative):**
+
+The fast-spinning mass creates a gyroscope-like "torsion" in the local metric (Lense-Thirring analog):
+1. Provides inward-pointing "centripetal" restoring force (stabilizing precessional orbit)
+2. Partially cancels downward gravitational force on gyroscope's center of mass
+
+W_effective = Mg · [1 - (k · Ω_p² · I_spin · ω_s) / (Mg)]
+
+Lift occurs when: k · Ω_p² · I_spin · ω_s > Mg.
+
+**CARET dual counter-rotating flywheel geometry:**
+
+Two magnetic flywheels: L₁ = L ẑ (CW) and L₂ = −L ẑ (CCW). Net angular momentum zero. Proposed force balance:
+
+F_up_total = F_up(flywheel 1) + F_up(flywheel 2) = 2F_up
+F_recoil_total = F_recoil(flywheel 1) + F_recoil(flywheel 2) = 0
+
+Net upward force without recoil — proposed mechanism for free levitation.
+
+---
+
+### II.K. Downward Torsional Force as Lift Mechanism
+
+Drew's statement: "Alien UFOs levitate by a strong, downward-torsional force."
+
+The electromagnetic angular momentum density:
+
+**S** = (1/μ₀)(**E** × **B**) [Poynting vector — energy flux]
+**g** = **S**/c² = ε₀(**E** × **B**) [electromagnetic momentum density]
+**l** = **r** × **g** [electromagnetic angular momentum density]
+
+Z-component of lift from electromagnetic angular momentum flux:
+
+F_z = -(d/dt) ∫ l_z dV + (surface flux of l_z)
+
+If the device sustains a continuous downward angular momentum flux, it maintains a continuous upward force.
+
+**Torsional force topology:**
+- If the field winds CCW viewed from above (left-handed helix): torsional force on medium below is CCW + downward → left-handed screw
+- Craft experiences reaction: CW + upward → right-handed screw → lift with rightward rotation
+
+This is consistent with observed UFO rotation directions and the CCW ground imprints in UAP landing traces.
+
+---
+
+### II.L. Hypotheses on Gravity's Nature
+
+**Hypothesis 1 (Spinning Vortex Through Time):**
+
+"If 'gravity' is a downward pressure into any large mass (a spherical volume of 'low vacuum-pressure'), then if we create a 'spinning vortex' through time (yellow), which is superimposed upon that downward field of pressure, we might see spinning objects 'held up' at high potential-energy, while overall downward pressure remains the same."
+
+**Hypothesis 2 (Gyroscopic Diversion):**
+
+Classical gravitational torque: τ_g = mgr. For a sphere (r = 0 by symmetry): τ_g = 0. No precession, no gravitational coupling. High spin rate → gyroscopic rigidity → decoupling of rotational dynamics from gravity.
+
+Neither hypothesis reduces the gravitational constant G. Both describe electromagnetic/gyroscopic mechanisms that produce upward force exceeding mg without modifying the gravitational field itself.
+
+---
+
+## III. XY-Plane to Z-Axis Coupling: The Physical Bridge
+
+The fundamental paradox: why should horizontal rotation (XY-plane spin) produce vertical (Z-axis) lift?
+
+### Candidate mechanisms within standard physics:
+
+**1. Gyroscopic precession coupling:**
+If the magnetic force on the spinning disc has both horizontal and vertical components, the gyroscopic response to the horizontal component produces a net vertical force:
+
+F_z ∝ F_radial · ω_spin / ω_precession
+
+**2. Magnetohydrodynamic pressure:**
+Rotating magnetic field drives currents in conducting parts. Nested spin system (inner CW + outer CCW) creates a divergent J×B pattern with a net upward component when the field geometry breaks the up-down symmetry (drive coils below or to the side of the lifting magnet):
+
+F_z = ∫∫∫ (J × B)_z dV
+
+**3. Magnetic pressure gradient:**
+In any rotating field of finite spatial extent, fringe fields at coil ends have Z-components. For a solenoid-like coil of radius a and length L:
+
+B_z(z) = (μ₀ n I / 2) [cos α₁ + cos α₂]
+
+The gradient ∂B_z/∂z is maximum near coil ends. Z-force on magnetic dipole:
+
+F_z = m_z ∂B_z/∂z
+
+For the rotating system:
+
+F_lift = ∇(m · B)_z = m_z · ∂B_z/∂z + m_x · ∂B_x/∂z + m_y · ∂B_y/∂z
+
+For a spinning disc magnet with rapidly rotating magnetic moment m(t), the time-averaged force has a net Z component if the field topology has the correct spatial gradient.
+
+**4. Parametric resonance:**
+Time-varying effective potential seen by the central disc magnet (due to counter-rotation of the outer ring). A time-varying potential can extract energy from the rotation and convert it to translational kinetic energy (Z-direction) if the frequency of the potential variation is resonant with the natural oscillation frequency of the disc magnet on its Z-axis equilibrium.
+
+**5. Ponderomotive force:**
+Superposition of two counter-rotating circular fields → linearly polarized oscillating field at 2ω. If the gradient of the field amplitude is non-zero along Z (finite-radius coil stack), net Z-directed ponderomotive force:
+
+F_pond = (μ₀/4) α_m ∇(|H|²)
+
+Drew's summary (2026): "For UFO physics, I can make the upward spinning force with certainty." He does not yet explicitly select among mechanisms; the experimental program is intended to determine which is operative.
+
+---
+
+## IV. The Z-Axis Force Chain (Complete Synthesis)
+
+```
+3-phase power (electrical input, XY-plane rotating field)
+  ↓
+6 outer coils (U-V-W-U-V-W) produce rotating MMF at ω_field
+  ↓
+Outer 8-magnet ring → counter-rotates (backward 5th harmonic coupling)
+Inner disc magnet → co-rotates (fundamental harmonic coupling)
+  ↓
+3 under-coils (U-V-W) provide second rotating field, axially displaced by Δz
+  ↓
+ΔB_z ≈ (∂B_z/∂z) · Δz (Z-gradient from two axially displaced field sources)
+  ↓
+F_z = m_z ∂B_z/∂z on inner magnet → upward force ("jump")
+  ↓
+Silicone bead (viscoelastic coupling) → converts pulsed upward impulse to quasi-DC sustained force
+  ↓
+F_mean > M_total · g → system levitation
+  ↓
+Counter-spin cancellation → eliminates angular momentum reaction → "clean" lift
+```
+
+The first 4 steps are potentially classical (3D FEM simulation required to confirm the field topology). The final step (coupling to gravity) is beyond classical electrodynamics if the effect exceeds what the classical ∂B_z/∂z gradient formula predicts.
+
+---
+
+## V. Experimental Results and Data
+
+### V.A. Core Lift Data (Multiple Experimental Series)
+
+**Series 1 — Ring magnet bore diameter critical parameter:**
+
+| Bore | Rod diameter | Result |
+|------|-------------|--------|
+| 5 mm (same as rod) | 5 mm | Spins, does not rise. Pushes against rod. |
+| 6 mm | 5 mm | Rises partially in one orientation; orientation-dependent. |
+| 8 mm | 5 mm | Rises in ALL orientations (N-up and S-up). "UFO physics 101." |
+
+Conclusion: "The diameter of the pole to the diameter of the center of the magnet is quite critical to get UFO levitation. That's to push against the vacuum of space and not against the rod itself."
+
+**Series 2 — Mass vs. threshold frequency:**
+
+| Total mass | Rise onset frequency |
+|-----------|---------------------|
+| 80 g | ~15 Hz |
+| 120 g | ~20 Hz |
+| 200 g | ~25 Hz |
+
+Inference: F_lift(ω) increases monotonically with ω. System must exceed minimum spin rate before F_lift(ω) ≥ mg.
+
+**Series 3 — Frequency-dependent levitation strength:**
+
+| Frequency | Observed behavior |
+|-----------|-----------------|
+| ~10 Hz | Magnet rises to top of pole. |
+| ~25 Hz | "Rising up quite a lot — You can't push it down any further." Stable levitation above coil surface. |
+| ~28 Hz | "Quite firmly bound up there — You can't push it down, it feels pretty strong." Spring-like stable equilibrium. |
+| ~30 Hz | Magnet stays at top of pole, rotates faster; total weight on scale unchanged. |
+| 40–50 Hz (counter-spin device) | Outer flywheel counter-rotates stably; "UFO goes up" per operator. |
+
+Spring-like levitation at equilibrium height z₀:
+
+F_z(z₀) = Mg → z₀ = λ · ln(F_max / Mg)
+
+Stiffness at equilibrium (∂F_z/∂z at z₀) large enough to resist experimenter's hand.
+
+**Series 4 — Anti-gravity weight measurements (scale readings):**
+
+| Configuration | Anomalous weight measurement |
+|--------------|----------------------------|
+| Single coil, magnet oscillating | 0 to −15 g during up-cycle |
+| Mechanical stop on rod | −10 g |
+| Silicone ball stop, assembly rising | Near-zero scale change despite physical rise |
+| Free counter-rotating coil assembly | −30 to −50 g |
+| Summary statement | "~20–30 g total anti-gravity weight" |
+| Claimed upward force on magnet | ~500 g at 20–30 Hz |
+
+**The 500 g vs. 30–50 g discrepancy:** "Much of the upward spinning force of 500 grams (for this small magnet at 20–30 Hz) seems to be cancelled by a downward reaction of some kind." Proposed explanations: (1) Newton's Third Law reaction in azimuthal rather than axial direction; (2) magnetic short-circuit through paramagnetic (304 SS) rod coupling magnet field back to coils; (3) missing second stage of propulsion design.
+
+**Series 5 — 1 kg upward force on aluminum rod:**
+
+Reported measurement: 1000 g (9.81 N) upward force on an aluminum rod in the "UFO space propeller" rotating-field configuration. Aluminum is non-ferromagnetic; diamagnetic repulsion for Al (χ_Al = 2.1×10⁻⁵) would be micronewtons at laboratory field strengths. The observed 9.81 N requires eddy-current Lorentz force (induction motor principle) as the only plausible classical mechanism — axial linear induction motor action from the rotating field geometry.
+
+**Series 6 — Lenz Levitation Spin Test (Negative Result):**
+
+Setup: AC Lenz levitation coil (150 V AC), aluminum plate, DC motor spinning plate (24 V DC), continuous scale measurement.
+
+Result: No anti-gravity (no weight reduction). Secondary result: fast spin reduces Lenz downward repulsive strength by 80%.
+
+F_Lenz_spinning = 0.20 × F_Lenz_stationary
+
+The 80% reduction in Lenz coupling is characterized as "NOT IN TEXTBOOKS" — a novel result that could be a component of a more complex lift mechanism, even though it did not produce lift by itself.
+
+**Series 7 — Galinstan Homopolar Motor Lift Attempt:**
+
+Magnetic Reynolds number for galinstan at laboratory conditions:
+Rm_vortex = μ₀ σ ω R² ≈ 0.39
+
+At Rm ≈ 0.4, the induced field is on the order of 0.4 × B_applied — physically significant and coupling to the 3-phase field is plausible. Drew's experimental progression: demonstrates DC-driven azimuthal spin; 3-phase interaction with vortex is the next step; lift from combined system not yet demonstrated (as of April 2026).
+
+---
+
+### V.B. Polarity-Selective Lift (Horizontal Coil Configuration)
+
+**Core experimental result:** A ring permanent magnet (100 mm OD, 13 mm bore, 8 mm rod) in a 3-phase rotating field rises axially exclusively when oriented with the South (blue) pole upward. North-up does not produce sustained lift.
+
+Rotation symmetry of the lift force: both CW and CCW rotation of the driving 3-phase field produce the same upward force for South-up orientation. Lift is independent of field handedness; it is a property of the axial gradient structure and the polarity orientation, not of the rotational direction.
+
+Coupled counter-rotation observation: the ascending magnet pole counter-rotates relative to the spinning action below it. This spontaneous angular momentum segregation — inner rising pole counter-rotating relative to base — implies the device naturally partitions angular momentum into opposing axial components as a byproduct of the lift-generating dynamics.
+
+---
+
+### V.C. Buga Orb-Sphere (Colombia)
+
+Physical parameters:
+- Mass: approximately 10 kg
+- Material: aluminum
+- Structure: 5 arc-shaped protrusions ("moons") around upper hemisphere, equally spaced at 72°
+- Drew's interpretation: 5-phase AC wire coil housings
+
+If the Buga orb is a functional levitation device using 5-phase AC:
+- 5-phase configuration provides smooth, continuous torque (low ripple) for sustained hovering without oscillatory rise/fall of 3-phase
+- 10 kg aluminum mass requires minimum thrust: ~98 N (≈ 10,000 g) for full levitation — orders of magnitude above the 30–50 g achieved in lab experiments
+
+Carbon-14 dating of resin: ~12,560 years old (per Dr. Steven Greer, cited by Drew, tweet 1969919223171572119). This would indicate pre-historical construction if accurate.
+
+---
+
+### V.D. New Jersey Drone (December 2024 Observation)
+
+Physical architecture (Drew's reconstruction from observation):
+- Three wire coils (3-phase stator) on top → rotating field in one direction
+- Three wire coils (3-phase stator) on bottom → rotating field in opposite direction (counter-rotation)
+- Central spinning magnetic flywheel between them
+
+The two counter-rotating 3-phase assemblies produce net magnetic pressure gradient along Z-axis if the field topology between them has non-zero ∂(B²)/∂z:
+
+f = −∇P_mag = −(1/2μ₀)∇(B²)
+
+If B² is larger on the bottom (flywheel proximity + coupling to lower coil) than on top, net upward magnetic pressure force results. The device was observed flying over New Jersey; Drew uses it as confirmation the counter-rotating 3-phase assembly is the operative UAP propulsion element.
+
+---
+
+## VI. Observational Evidence from UAP Encounters
+
+### VI.A. Edwin Fuhr, Langenburg, Saskatchewan, Canada — September 1, 1974
+
+Five silver disc-shaped UFOs hovered ~1.5–2 ft above a rape seed field for approximately 15 minutes. Witness: Edwin Fuhr.
+
+Observable parameters documented:
+- **Hover height:** ~1 foot (30 cm) consistent throughout
+- **No downwash felt:** "I couldn't feel anything. You held your hands out like this. You couldn't feel nothing." — no aerodynamic thrust detectable at 15 feet. Conventional helicopter would produce strong downwash (~10–30 m/s) detectable at this range.
+- **Vapor downwash without pressure:** Vapor directed downward during ascent, but no corresponding air movement felt. Inconsistent with reactive thrust vapor; consistent with non-reactive field mechanism.
+- **Crop flattening without wind:** Crop pressed flat directly below objects without wind felt at witness's position. Implies short-range downward body force (< 15 feet) — consistent with strong local magnetic field.
+- **Counter-rotation observed:** "The grass was going one way and the machine was going the other way." Ground effects rotated CW; craft body counter-rotated CCW (or vice versa). This is Drew's counter-rotation signature: the lower vortex drives the grass CW while the craft body counter-rotates.
+- **Step-formation ascent:** Larger central units lifted first; auxiliary outer units followed. Consistent with coupled formation where central units provide primary lift field.
+- **Instantaneous departure:** From hover to disappearance in a duration too short to observe. Canonical UAP instant acceleration.
+- **Post-hover imprints:** Five circular imprints with vegetation pushed outward and downward in a rotating (torsional) pattern — consistent with downward-torsional force from a rotating field source.
+
+**Quantitative note:** The UFO disc spun CW (from above) while grass below spun CCW. The grass spinning CCW is the counter-spin angular momentum exported to the environment — consistent with the helical field vortex model where the downward-directed vortex pushes gas/vegetation CCW while the CW-spinning UFO rises.
+
+---
+
+### VI.B. Saskatchewan, Canada (Canola Field, Undated)
+
+Five craft, ~1 foot hover height for 30–60 minutes.
+
+- **No thrust felt at 15 feet:** "I couldn't feel anything."
+- **Vapor without pressure:** "It came out of the porch [ports]. The vapor was going down. As the thing rolls up, it was pushing his vapor down. But I couldn't feel anything."
+- **Counter-rotation:** "The grass was going one way and the machine was going the other way."
+- **Sequenced ascent:** Three larger central craft took off first; smaller outer craft followed.
+- **Instantaneous departure:** "All of a sudden they started to go slowly. And they just took off as a flat. They were gone."
+
+---
+
+### VI.C. Fatima, Portugal — October 13, 1917 (80,000 Witnesses)
+
+"The Miracle of the Sun" — disc-shaped object visible to massive crowd.
+
+- Phase 1: Disk spinning in one direction → descent toward crowd (4 minutes)
+- Phase 2: Disk spinning in the opposite direction → ascent back into clouds (4 minutes)
+
+Drew's interpretation: "UFO spin and counter-spin at Fatima in 1917." Physical implication: spin direction (CW vs. CCW) controls the sign of the Z-axis velocity. Reversing spin reverses the lift direction. Consistent with the dual-vortex model: reversing flywheel spin swaps which vortex (above or below) provides the upward force.
+
+---
+
+### VI.D. Norman Paulsen (Contactee) — Direct UAP Description
+
+"His propulsion was due to two magnetic discs rotating in opposite directions."
+
+Inner ring + outer ring counter-rotation is the primary propulsion claim — directly corroborating Drew's laboratory architecture of inner disc magnet (CW) and outer counter-rotating ring (CCW).
+
+---
+
+## VII. Observable Signatures of the Lift Mechanism
+
+| Observable | Expected from spin/counter-spin model | Documented in UAP cases |
+|-----------|--------------------------------------|------------------------|
+| Compass needle spinning 360° | Yes — rotating magnetic field rotates compass continuously | Yes — multiple UAP observation cases |
+| Silent operation | Yes — no combustion, no gas expulsion, no mechanical impact | Yes — nearly universal UAP observation |
+| Crop flattening without wind | Yes — strong local downward magnetic body force with short range | Yes — Fuhr 1974, multiple other cases |
+| Counter-rotating ground imprint vs. craft rotation | Yes — lower vortex counter-rotates relative to upper craft | Yes — Fuhr 1974, grass spinning opposite to craft |
+| Pulsed/step ascent | Yes — pulsed upward thrust produces step-wise altitude gain | Yes — multiple close-encounter observations |
+| Helical ascent path | Yes — XY rotation + Z translation → helical trajectory | Yes — multiple UAP departure paths |
+| Electromagnetic hum | Yes — 3-phase field at 20–30 Hz radiates acoustic emission at those frequencies and harmonics | Yes — low-frequency hum reported in many close-encounter UAP observations |
+| Vapor from ports | Consistent with coolant system for the electromagnetic drive | Yes — multiple close-encounter cases |
+
+---
+
+## VIII. Crop Circle Evidence
+
+Drew's interpretation of crop circles as ET-drawn engineering blueprints for the lift mechanism. Key formations cited:
+
+**1991 Barbury Castle (and 2008 repeat):** Pyramid outline (interpreted as Z-directed force field), three inner circles at 120° spacing (interpreted as three-phase coil positions). "Pi to ten digits means 'SPIN'."
+
+**1995 English crop formation:** Four-slide schematic encoding (1) Lorentz disc spin, (2) liquid-metal brushes, (3) 3-phase power (trident symbol), (4) the complete combined device with a "landed UFO schematic" nearby as scale reference.
+
+**1998–1999 blueprints:** First detailed blueprints for UFO physics in crops. 9-coil configuration (6 upper + 3 lower, counter-rotating). Described as "the first detailed blueprint for UFO physics drawn in crops." Drew labels this explicitly as ET-drawn LEGO-type instructions: "I am just following LEGO-type instructions from friendly aliens!"
+
+**July 2012 formation:** Shows both static (no-spin) and active (spin + counter-spin) configurations. Left side: central S magnet at plane of 4 outer N magnets. Right side: both assemblies shifted upward, S magnet moved slightly BELOW N-ring plane. "This is what we would expect for the RISE OF A UFO. It is NOT what we would expect from Newton's Third Law of action-reaction."
+
+**2014 Avebury crop circle:** Same UFO drive seen from 90° away from the 1998 perspective.
+
+**2018 Czech Republic (Bohdankov):** Shows spinning vortex "lifted up" from the empty center of a wire coil below by three-phase power. The crop circle near Czech Republic (2018) also shows three wire coils around the outside, a magnet spinning up in the middle over a bead, another magnet below on a rod.
+
+**2019 Westbury White Horse:** 12–14 vane pinwheel design with curved vanes, described as "spin/counter-spin" formation. "This 'spin/counter-spin' crop picture from 2019 was drawn in the same field as a 'magnetic space propeller' from 2016."
+
+**Brazil 2024–2025 formations:** Two concentric disc-magnet counter-spinning geometry. Both rotors generating upward force despite counter-spinning (resolution of the key physics question about which direction each rotor contributes).
+
+Drew's count: the lift mechanism has been drawn "perhaps 50 times" in crop formations worldwide. The repetition is treated as strong evidence the mechanism is robust and intentionally communicated.
+
+---
+
+## IX. The Open Engineering Problem
+
+**Problem statement (from scale experiment):**
+
+"In the gravity field, if we start spinning, our magnet will always rise up like that. There will always be a strong upward force, which is what we are measuring, along any stabilizing rod. [...] Now that might be a UFO propulsion, if we had only the force up. However, there's also a force down on the three phase coils in both orientations, and the force up is only maybe a tiny bit bigger than the force down. So that's the basic trouble with the UFO levitation. We have to get the force up to be much greater than the force down for spinning magnetism."
+
+**The key distinction:**
+
+- Rotor lift (Z-axis displacement of magnet relative to coil assembly): ACHIEVED at 10–15 Hz
+- System lift (Z-axis displacement of entire apparatus including coil assembly): NOT ACHIEVED (as of April 2026)
+
+The scale measurement proves the system center of mass has not moved. The magnet rises, but the coil assembly sinks proportionally. The apparent "rise" of the magnet is relative motion within the system, not absolute motion of the system.
+
+**Proposed solutions to achieve system lift:**
+
+**Configuration A — Staggered Dual 3-Phase Coil Sets:**
+
+A second set of 3-phase coils, displaced axially by distance d and with phase offset φ relative to the first set, creates a traveling wave magnetic field. Axial force from a linear induction motor:
+
+F_z = (3/2) · (B_z² L r) / (s · R_r / (s · ω_s L_r))
+
+This replaces oscillatory rise/fall with continuous, steady axial thrust.
+
+**Configuration B — DC Dipole Ladder:**
+
+Large DC rectified coil below the 3-phase drive assembly, oriented to attract the spinning magnet (dipole attraction). As 3-phase field drives spinning magnet upward, the large DC coil is attracted upward toward the rising magnet. Because the large DC coil is below the 3-phase drive coils, its upward displacement pulls the entire drive assembly upward. The mechanism: (1) 3-phase field raises the magnet (energy input); (2) dipole coupling converts the magnet's potential energy gain into a pulling force on the coil assembly; (3) coil assembly rises, carried by the rising magnet's magnetic attraction.
+
+**Configuration C — High-voltage plasma counter-spin:**
+
+"They might use a high voltage plasma to get counter spin, rather than 8 magnets, but the current model is simpler to make in a small lab. Otherwise we would need 100 kV DC power!" This sets an energy scale: generating counter-spin via plasma requires ~100 kV DC.
+
+**Counter-rotating coil test result:**
+
+When the 3-phase coil assembly is left free to rotate (not bolted down): the magnet spins CW; the coil assembly counter-rotates CCW. The introduction of counter-rotation of the coil assembly approximately doubles the observed net anti-gravity weight (from ~15–20 g to 30–50 g). Consistent with the spin/counter-spin hypothesis.
+
+---
+
+## X. Discriminating Experiments (Proposed or Required)
+
+**Critical test — vacuum operation:**
+
+Two possible lift mechanisms produce identical signatures in air:
+1. Aerodynamic lift (spinning inner magnet acts as centrifugal fan): requires air, disappears in vacuum. F_thrust = ρ_air · A · v · Δv → 0 as ρ → 0.
+2. Anti-gravity lift (magnetic vortex couples to gravitational field): persists in vacuum.
+
+**Test:** Operate device in vacuum chamber. If lift disappears → aerodynamic (propeller). If lift persists → anomalous (anti-gravity candidate).
+
+**Non-magnetic bearings:**
+
+Specified by Drew to ensure any observed vertical force cannot be attributed to magnetic coupling between the bearing material and the magnet. ZrO₂ ceramic bearings satisfy this requirement.
+
+**Scale measurement protocol:**
+
+Place entire device (coils + disc magnet + galinstan) on precision scale during high-spin counter-rotation operation. If total weight decreases: anomalous anti-gravity effect demonstrated. Drew explicitly states this test must be the final step; partial scale results thus far (−30 to −50 g) are not yet sufficient to claim system-level levitation.
+
+---
+
+## XI. Scaling Arguments and Physical Limits
+
+**Why anti-gravity is superior to rockets:**
+
+Tsiolkovsky rocket equation: v_f = v_e · ln(M₀/M_f). For orbital velocity (~7.9 km/s) with v_e ≈ 4.5 km/s (chemical): M₀/M_f = e^1.76 ≈ 5.8 → >80% of launch mass must be propellant. Magnetic lift (if it works) requires no propellant. Power requirement scales as F_z · v_z, fundamentally more efficient for altitude gain.
+
+**Force scaling with spin rate:**
+
+From the discrete mass vs. threshold frequency data (Series 2), F_lift(ω) ≥ mg when ω > ω_c(m). The force appears to scale faster than linearly with frequency (the threshold for 200 g at 25 Hz vs. 80 g at 15 Hz implies roughly F_z ∝ ω^(1.5 to 2)).
+
+**Buga orb requirement:** 10 kg mass → 98 N minimum lift force. Current lab demonstrations achieve ~0.49 N (50 g). Scale-up required: ~200×. If F_z ∝ ω² and linear in device radius R²: achieving 98 N from 0.49 N requires either ~14× increase in frequency, ~14× increase in radius, or some combination.
+
+---
+
+## XII. Drew's Research Status and Experimental Roadmap
+
+**As of late 2025 through April 2026:**
+
+- DC homopolar motor (Corbino disc) liquid-metal spin: **Demonstrated.** Galinstan vortex driven by Lorentz force.
+- 3-phase rotating field driving spinning disc magnet: **Demonstrated.** Inner disc magnet rises along Z-axis on pole.
+- Spin/counter-spin with 6-coil stator + 8-magnet outer ring: **Demonstrated.** Outer ring counter-rotates against field.
+- Inner disc rising while outer ring spins: **Demonstrated.** Video confirmation (batch 1/7).
+- Silicone bead coupling producing smooth lift: **Demonstrated.** ~1000 g upward force at 20–30 Hz.
+- Net system-level weight change on precision scale: **Partial.** −30 to −50 g with counter-rotating coil assembly; full system levitation NOT yet achieved.
+- Full anti-gravity scale test with complete spin/counter-spin device: **Planned.** Next experimental step.
+- Mercury vortex anti-gravity in vacuum: **Proposed.** Not yet attempted.
+
+Drew's self-assessment (exact quote): "I am making lots of progress on UFO physics. It all has to do with spin and counter-spin of two sets of magnets. Technically however, a small working model is very hard to build! I made a 'first' crude model today, which spins nicely in both directions. Once I improve the engineering somewhat, I will show and explain in a lab video."
+
+And: "Of course it will take a while to understand UFO anti-gravity physics, in a way to relate to what we already know."
+
+Origin of research program: "The first [alien contact] was in 1965, when I saw a silver saucer close in daylight. I got some kind of message saying to do research on 'DNA' and 'gravity'."
+
+---
+
+## XIII. Gravity Claims Summary Table
+
+| Claim | Evidence Type | Evidence Strength |
+|-------|--------------|-----------------|
+| Spinning magnet rises on 3-phase powered pole (rotor-level) | Experimental observation (Drew, video-confirmed) | Direct observation, single researcher, unreplicated |
+| Polarity independence of Z-axis rise at high frequency | Experimental (multiple configurations tested) | Consistent internal experimental result |
+| Spinning Lenz disc reduces downward repulsion by 80% | Experimental measurement (Drew) | Claimed novel, unreplicated |
+| −30 to −50 g anomalous weight reduction (counter-rotating coil) | Scale measurement (Drew) | Partial; total weight not negative |
+| ~500 g upward force on spinning magnet at 20–30 Hz | Experimental (Drew) | Observed, but mostly cancelled by reaction |
+| ~1000 g smooth upward force (silicone bead coupling) | Experimental (Drew) | Rotor-level only; no system lift |
+| 1 kg upward force on aluminum rod (space propeller) | Experimental (Drew) | Reported result; mechanism compatible with classical eddy-current LIM |
+| Spinning vortex cancels gravity pressure | Theoretical model (Drew) | Speculative, no derivation |
+| Counter-rotating vortex producing Z-axis rise (April 2026) | Experimental (Drew): "two concentric sets of magnets spinning in opposite directions create 'vortices' which make a central magnet either go down or rise up" | Most recent result; direction (up vs. down) is controllable |
+| Mercury vortex anti-gravity | Proposed experiment (not yet done) | Untested hypothesis |
+| Full system levitation (device rises off scale) | NOT YET DEMONSTRATED | Target of ongoing research |
+
+The gravity mechanism is explicitly not claimed to involve:
+- Modification of G (Newton's gravitational constant)
+- Alcubierre metric engineering or negative energy density
+- Graviton manipulation
+- Spacetime curvature (GR-level effects)
+
+The claim is purely an electromagnetic mechanism that produces upward force exceeding mg without expelling reaction mass, with Newton's Third Law partially bypassed through spin/counter-spin geometry and vacuum coupling.
+
+---
+
+*This information was compiled by Claude AI research.*

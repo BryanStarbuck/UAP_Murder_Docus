@@ -1,0 +1,44 @@
+SHAPES:
+* Digital astronomical diagram (~870x640px) on a black background — a solar system inner planet orbit diagram showing the trajectory of interstellar object 3I/Atlas
+
+Primary elements:
+* Black background representing space
+* Coordinate crosshairs: two perpendicular thin white/gray lines (horizontal and vertical) centered in the image, forming a standard X-Y reference frame. A white dashed diagonal line also crosses the diagram from upper-left to lower-right.
+* Concentric colored orbital ellipses (four, each representing a planet's orbit):
+  - Innermost orbit (yellow/gold, ~100px diameter): Mercury's orbit, labeled "Mercury" in white text; a small circle marker on the orbit shows Mercury's current position
+  - Second orbit (green, ~200px diameter): presumably Earth's inner orbit or Venus's outer limit (labeled "Venus" in white); small circle marker for Venus position
+  - Third orbit (cyan/light blue, ~350px diameter): labeled "Earth" in white text on the right side; small circle marker for Earth's position at upper-right
+  - Outermost orbit (red, ~580px diameter): labeled "Mars" in white text at lower-center; small circle marker for Mars's position at lower-left
+* Interstellar trajectory: a bright cyan/turquoise diagonal line (~800px long) entering from upper-left and exiting toward lower-right — this is the hyperbolic trajectory of 3I/Atlas as it passes through the inner solar system. The line intersects the inner orbits and is labeled:
+  - "3I/ATLAS" in white text at the lower-left where the trajectory line meets the Mars orbit
+* The trajectory is a straight line (or very slight curve at this scale), indicating a hyperbolic flyby rather than a bound elliptical orbit
+
+TEXT:
+* "Mercury" — white label inside innermost orbit
+* "Venus" — white label near second orbit (left of center)
+* "Earth" — white label at right side of third orbit
+* "Mars" — white label at lower-center near outermost orbit
+* "3I/ATLAS" — white label at lower-left where the trajectory meets the Mars orbit
+
+COLORS:
+* Background: black
+* Mercury orbit: yellow/gold
+* Second orbit (Venus): green
+* Third orbit (Earth): cyan/light blue
+* Outermost orbit (Mars): red
+* 3I/Atlas trajectory line: bright cyan/turquoise
+* Planet position markers: small white circles
+* Labels: white text
+* Crosshairs: gray-white
+
+SPATIAL RELATIONSHIPS:
+* Four concentric orbital ellipses centered on the Sun (at the center crosshair intersection)
+* Mercury innermost, Mars outermost
+* 3I/Atlas trajectory enters from upper-left, crosses inside the Mars orbit and possibly the Earth orbit, exits lower-right
+* Trajectory appears to pass between Venus and Earth orbits at closest approach
+
+PHYSICS CONCEPT:
+This solar system orbital diagram shows the hyperbolic trajectory of 3I/Atlas — the third confirmed interstellar object detected passing through our solar system (after 1I/Oumuamua in 2017 and 2I/Borisov in 2019). The trajectory line enters from outside the solar system, passes through the inner solar system (inside Mars orbit, potentially inside Earth orbit), and exits on the other side. The bright cyan trajectory line contrasts with the colored planetary orbits for easy visualization of the approach geometry. In UAP research, 3I/Atlas is being analyzed as a potential interstellar probe (cf. Avi Loeb's Galileo Project / Project Lyra research), following the probe hypothesis proposed for 1I/Oumuamua. The trajectory parameters (hyperbolic excess velocity, perihelion distance, inclination) are being compared against natural comet/asteroid populations to identify anomalous characteristics.
+
+HIGH-LEVEL SUMMARY:
+Digital astronomical diagram of the inner solar system (black background) showing the hyperbolic trajectory of interstellar object 3I/Atlas passing through the solar system. The four inner planetary orbits are shown in color-coded concentric ellipses: Mercury (yellow), Venus (green), Earth (cyan), Mars (red), each with position markers. A bright cyan diagonal trajectory line represents 3I/Atlas's hyperbolic flyby path, entering from upper-left and exiting lower-right, labeled "3I/ATLAS." Crosshair reference lines and a dashed diagonal trajectory reference line complete the diagram. Used in UAP research to analyze the geometry of 3I/Atlas's solar system passage as part of interstellar probe investigation.
