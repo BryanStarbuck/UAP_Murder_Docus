@@ -1,0 +1,31 @@
+TYPE: Explanatory diagram — 5×5 binary matrix with circles highlighting the 1-positions; red border
+
+CONTENT:
+- White background with a red rectangular border
+- A 5×5 grid of large binary digits (0s and 1s)
+- The "1" digits are enclosed in circle rings (outline circles, not filled)
+
+BINARY MATRIX (5 rows × 5 columns):
+Row 1: 0   0   0   0   (1)   ← "1" circled
+Row 2: 0   0   (1)  (1)  0   ← both "1"s circled
+Row 3: (1)  0   0   0   (1)   ← both "1"s circled
+Row 4: 0   0   (1)  0   0   ← "1" circled
+Row 5: 0   0   (1)  0   (1)   ← both "1"s circled
+
+CIRCLE STYLE:
+- The circles around the "1" digits are thin black outline circles (ring/circle outlines only, no fill)
+- The "0" digits are plain (no circle)
+- All digits are large, approximately 60-70px
+
+RED BORDER:
+- A thick red rectangular border frames the entire 5×5 grid
+
+VISUAL COMPARISON:
+This is essentially the same data as in 3_2006681944835371014.jpg but with a different visual style:
+- In the companion image: red circles and connecting red lines
+- In this image: thin black outline circles only, red border around the grid, no connecting lines
+
+OVERALL:
+This represents the Crabwood crop circle (2002) binary message star map — the same 5×5 matrix of 1-positions extracted from the 25-word alien message.
+
+IMAGE DIMENSIONS: Approximately 960 x 780 pixels, landscape

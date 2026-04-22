@@ -1,0 +1,35 @@
+TYPE: Astronomical image pair — false-color coronagraph / heliospheric imager data
+
+CONTENT:
+Two side-by-side images showing solar corona or heliospheric data in false color (red color map):
+
+LEFT IMAGE:
+- False-color image with red-dominant color scheme (black-red-orange-yellow-white thermal palette)
+- Shows what appears to be a solar coronagraph view or heliospheric imager data
+- Central region: very bright white-yellow point (either saturated detector center or actual bright source)
+- To the upper-right of center: a multicolored compact bright source — showing blue, green, yellow, red — possibly a planet or very bright foreground object; this could be Venus or Jupiter as seen by a space-based coronagraph (LASCO, STEREO, etc.)
+- Surrounding the central bright region: a diffuse orange-red scattered light halo (F-corona or K-corona glow)
+- Extended tail: a broad diffuse orange region extends toward the lower-left (could be a comet dust trail or coronal streamer)
+- A circular shadow or occulting disk is visible at center (blocking the sun's disk in coronagraph mode)
+- Dark artifact lines (detector gaps or data artifacts) cross the image
+
+RIGHT IMAGE:
+- Similar false-color red-scale data, possibly the same instrument at a different time or with different processing
+- Central region: bright white-yellow point (sun center blocked by occulter, or same instrument)
+- Small bright point visible toward upper-right (planet transiting the field of view)
+- Surrounding corona: orange-red diffuse glow
+- Extended bright region fills most of the right side of the image — a very large oval/elliptical region of diffuse orange brightness extending from the center rightward
+- This could be a sungrazing comet's dust trail, a large solar eruption, or CME structure
+
+COLORS:
+- Background: black
+- Low-brightness regions: dark red
+- Medium brightness: orange
+- High brightness: yellow-white
+- Saturated: white
+- Special features: blue-green-yellow (possible planet or artifact)
+
+IMAGE DIMENSIONS: Approximately 860 x 430 pixels, landscape
+
+CONTEXT:
+Space-based heliospheric or coronagraphic instrument data (likely from SOHO/LASCO, STEREO/HI, or similar). The false-color red scale is standard for these instruments. Used to illustrate solar plasma physics, cometary behavior near the sun, or interplanetary space weather phenomena.

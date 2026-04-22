@@ -21,3 +21,4 @@ yarn-error.log*
 
 # Large video files (exceed GitHub 100MB limit)
 static/videos/*.mp4
+Physics/Physics_Math/videos/

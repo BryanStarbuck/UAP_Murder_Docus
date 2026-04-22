@@ -1,0 +1,34 @@
+Type: Physics/engineering diagram — black line drawing on white background showing a circular electromagnetic device schematic. Technical diagram style.
+
+Background: White.
+
+Overall dimensions: approximately 600x600px. The main diagram is nearly square with a prominent outer circle.
+
+OUTER CIRCLE:
+* A single thick black circular outline, approximately 500px diameter, centered in the image.
+* This represents the outer boundary of the device (possibly a conducting disk or annular plate).
+
+INNER CIRCLE (labeled R₁):
+* A smaller circle approximately 120px diameter, centered within the outer circle (at the center of the image).
+* Thick black outline, filled white interior.
+* Label "R₁" in bold black serif font positioned inside the circle slightly above center.
+* A black arrow points rightward from the circle center toward the circle boundary, indicating the radius R₁.
+
+OUTER RADIUS LABEL:
+* "R₂" label in bold black serif font positioned in the lower-right area between the inner and outer circles, with a line/arrow indicating the outer radius measurement.
+
+CURRENT LABELS:
+* "I_in" — black text with subscript, positioned at the lower-left, with a black arrow pointing downward (↓). This indicates the input current direction.
+* "I_out" — black text with subscript, positioned at lower-center, with a black arrow pointing downward (↓). This indicates the output current direction.
+
+VOLTAGE TAPS:
+* At the right side of the inner circle, pointing rightward: 5 small circular cross-section symbols (circles with X patterns inside them, approximately 15px diameter each), arranged horizontally in a row.
+* These are labeled "voltage taps" with a black horizontal line above them connecting to the label text in small serif font.
+* These symbols represent wire cross-sections going into the page (current going away from viewer) — standard electrical schematic notation for connection points.
+
+SPIRAL CURRENT PATH:
+* Inside the outer circle but outside the inner circle (the annular region): 3-4 curved black lines forming an outward spiral pattern.
+* The lines curve from the lower-right quadrant, sweeping upward and to the left, suggesting a spiraling current path.
+* At the endpoints of the spiral lines: small black arrowheads indicating the direction of current flow (flowing inward/counterclockwise toward the inner circle).
+
+Summary: This is a schematic diagram of a Faraday disk (homopolar generator) or disk-type electromagnetic device. It shows a conducting disk with inner radius R₁ and outer radius R₂. Current I_in flows into the device at one point, flows through the annular disk region following a spiral path (shown by the curved arrows), and exits as I_out. The voltage taps at the inner radius allow measurement of the induced EMF. This type of device is directly related to homopolar generator/motor theory, which is discussed in the context of UAP propulsion — particularly the Searl Effect Generator and related electromagnetic disk devices where rotating conducting disks in magnetic fields generate radial currents.

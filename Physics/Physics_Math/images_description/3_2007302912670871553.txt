@@ -1,0 +1,44 @@
+TYPE: Annotated diagram — 5×5 binary pixel grid with star map labels; red border
+
+CONTENT:
+- Same 5×5 grid layout as 3_2007302877862404097.txt but with text annotations added to specific cells
+- White background with thick red rectangular border
+- 5×5 grid of large square cells — solid black (1s) and white/outlined (0s)
+
+GRID PATTERN (same as companion images):
+Row 1: □  □  □  Zeta 1  ■(1)    — Column 4 labeled "Zeta 1", column 5 black with "1" in yellow
+Row 2: □  RA  binary star [black]  □  — Column 2 labeled "RA", columns 3-4 merged black labeled "binary star" in yellow
+Row 3: ■  17min  □  17  ■         — Column 1 black, column 2 "17 min", column 4 "17", column 5 black
+Row 4: □  □  ■  4  □              — Column 3 black, column 4 labeled "4"
+Row 5: □  45sec  ■  5  ■          — Column 2 "45 sec", column 3 black, column 4 "5", column 5 black
+
+STAR MAP ANNOTATIONS:
+The filled (black) cells and some white cells are labeled with astronomical data identifying the star system:
+- "Zeta 1" — label for the first star of the Zeta Reticuli binary pair
+- "binary star" — label in yellow text on merged black cells (columns 3-4 of row 2), indicating the binary star system
+- "RA" — Right Ascension label (column 2, row 2)
+- "17 min" — Right Ascension coordinate component (17 minutes)
+- "17" — additional coordinate value
+- "4" — additional coordinate value (possibly declination component)
+- "45 sec" — Right Ascension component (45 seconds)
+- "5" — additional coordinate value
+- "1" — in yellow text on the black cell at row 1, column 5
+
+ASTRONOMICAL INTERPRETATION:
+The annotations decode the 5×5 binary matrix as containing the celestial coordinates of the Zeta Reticuli binary star system:
+- RA 17h 17m 45s (Right Ascension approximately 17 hours, 17 minutes, 45 seconds)
+- This corresponds to the coordinates of Zeta Reticuli (a binary star system ~39 light-years from Earth in the constellation Reticulum)
+
+COLORS:
+- Background: white
+- Grid border: red (thick)
+- Black cells: solid black
+- White cells: white with black outline
+- "binary star" text: yellow on black background
+- "1" text: yellow on black background
+- Other label text: black on white
+
+IMAGE DIMENSIONS: Approximately 960 x 780 pixels, landscape
+
+CONTEXT:
+This annotated version of the 5×5 star map matrix identifies the star system encoded in the Crabwood 2002 crop circle message. The claim is that the anomalous capitalizations in the 25-word message encode coordinates pointing to the Zeta Reticuli system — the same system associated with the Betty and Barney Hill abduction star map (1961). The "binary star" label reinforces the Zeta Reticuli identification as it is a binary star system (Zeta1 and Zeta2 Reticuli).

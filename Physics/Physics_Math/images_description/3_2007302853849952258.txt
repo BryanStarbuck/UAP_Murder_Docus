@@ -1,0 +1,27 @@
+TYPE: Explanatory text diagram — Crabwood 2002 binary message star map analysis (duplicate of 3_2006681911763283971 and 3_2007187175792881664)
+
+CONTENT:
+This image is an exact duplicate of 3_2007187175792881664.txt and 3_2006681911763283971.txt — showing the same analysis of the Crabwood 2002 binary message's embedded star map via false capitalizations.
+
+TITLE (underlined, bold black):
+"25 words in total create a 5 x 5-bit 'star map' by false capitalizations"
+
+MESSAGE WITH BINARY ENCODING:
+Line 1: "Beware the bearers of FALSE" → 0 0 0 0 1
+Line 2: "gifts & their BROKEN PROMISES. Much" → 0 0 1 1 0
+Line 3: "PAIN but still time. BELIEVE." → 1 0 0 0 1
+Line 4: "There is GOOD out there." → 0 0 1 0 0
+Line 5: "We oppose DECEPTION. Conduit CLOSING." → 0 0 1 0 1
+
+The 5×5 binary matrix formed by the capitalized word positions (red) encodes a star map when the "1" positions are plotted on a 5×5 grid.
+
+COLORS:
+- Background: white
+- Title: black bold underlined
+- Lowercase words: black bold
+- Capitalized words: red bold
+- Binary rows: black (0) and red (1)
+
+IMAGE DIMENSIONS: Approximately 960 x 560 pixels, landscape
+
+See also: 3_2006681911763283971.txt, 3_2007187175792881664.txt (identical images)

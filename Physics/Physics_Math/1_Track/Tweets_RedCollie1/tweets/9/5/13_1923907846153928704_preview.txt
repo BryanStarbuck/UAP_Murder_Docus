@@ -1,0 +1,54 @@
+TYPE: Diagram — simplified educational cartoon of a steam engine / thermodynamic heat engine
+
+CONTENT OVERVIEW:
+A simplified cartoon-style educational diagram illustrating the operating principle of a steam engine. The diagram shows the major components of a classic reciprocating steam engine: a boiler with fire heat source, a steam pipe, a piston cylinder, a piston rod, a crank mechanism, and a flywheel. All components are rendered in a flat, iconographic style suitable for introductory thermodynamics or physics education. Background is cream/light yellow.
+
+STRUCTURAL ELEMENTS:
+1. Boiler (left side):
+   - A horizontal cylindrical vessel rendered in brownish-tan color, labeled "BOILER" in bold dark text on its body
+   - Positioned on the left side of the diagram, horizontal orientation (major axis horizontal)
+   - The boiler appears to rest on a support or platform
+   - A campfire heat source is depicted beneath the boiler: yellow triangular flame shapes with brown log/wood icons beneath, representing combustion providing heat energy to the boiler
+
+2. Steam pipe:
+   - A red U-shaped or L-shaped pipe exits the top-right of the boiler and rises vertically upward
+   - This pipe carries steam from the boiler to the cylinder
+   - Rendered as a solid red rectangular/tubular shape
+
+3. Steam cylinder / piston housing:
+   - A rectangular gray housing (approximately the same height as the boiler diameter) positioned to the right of and above the boiler
+   - Inside or adjacent to the housing, a red piston element is visible — either the piston face or a piston rod shown in red
+   - This is the expansion cylinder where steam pressure does mechanical work on the piston
+
+4. Piston rod and crank:
+   - A horizontal rod extending from the piston rightward to a crank mechanism
+   - The crank converts linear piston motion to rotational flywheel motion
+   - A connecting rod or crank arm is visible linking the piston rod to the flywheel axle
+
+5. Flywheel (right side):
+   - A large dark gray circular disc (the largest single element in the diagram, approximately 200px apparent diameter)
+   - Has a small circular hub/cutout at its center representing the axle
+   - The flywheel stores rotational kinetic energy to smooth out the intermittent piston impulses
+   - Positioned at the far right of the diagram
+
+6. Base platform:
+   - A gray horizontal platform/base on which the entire apparatus rests
+   - Simple rectangular shape
+
+COLORS: Cream/light yellow background; brown/tan boiler body; red (steam pipe, piston element); gray (cylinder housing, base platform, flywheel); yellow (flames); dark brown/black (text labels, wood logs).
+
+PHYSICS CONTEXT:
+This diagram illustrates the fundamental Carnot/Rankine thermodynamic cycle as implemented in a reciprocating steam engine:
+- Heat input Q_H from combustion raises water temperature and pressure in the boiler (isobaric heating)
+- High-pressure steam expands in the cylinder, doing work W on the piston (approximate adiabatic or polytropic expansion)
+- Work is transferred via piston rod and crank to the flywheel (mechanical work output)
+- The flywheel represents the useful mechanical work output of the heat engine
+- Thermodynamic efficiency is bounded by the Carnot efficiency η = 1 - T_C/T_H
+
+In the context of UAP physics research, steam engine thermodynamics represents the classical Carnot limit that UAP propulsion systems allegedly transcend — the implication being that UAP power sources operate on physical principles not bound by conventional thermodynamic efficiency constraints.
+
+SPATIAL RELATIONSHIPS:
+- Left-to-right energy flow: heat source (far left) → boiler → steam pipe → cylinder → piston rod → flywheel (far right)
+- Vertical arrangement: boiler at mid-height, campfire below, steam pipe rising above before connecting to cylinder
+
+SUMMARY: Educational cartoon diagram of a reciprocating steam engine. Shows (left to right): a campfire beneath a labeled "BOILER" cylinder, a red steam pipe leading to a piston cylinder, a piston rod and crank mechanism, and a large dark flywheel. Cream background with simple flat-color rendering. Illustrates the basic thermodynamic heat engine cycle relevant as a baseline comparison to claimed UAP exotic propulsion systems.

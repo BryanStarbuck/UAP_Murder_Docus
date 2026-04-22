@@ -1,0 +1,28 @@
+Type: Scientific diagram/chart — two side-by-side false-color astronomical images with axes, scale bars, and labels. Appears to be from a peer-reviewed paper or professional astronomical observation report.
+
+Background: White.
+
+OVERALL LAYOUT:
+* Two rectangular panels side by side, approximately equal size (~350x400px each).
+* Both panels show the same coordinate system and scale but different spectral emission maps.
+
+LEFT PANEL:
+* Label in upper-left: "CN" (in black bold, approximately 14pt) — indicates this is a map of Cyanide (CN) emission or absorption.
+* X-axis label: "ΔRA [arcsec]" — Right Ascension offset in arcseconds, ranging from approximately -8 to +6 arcsec.
+* Y-axis label: "ΔDec [arcsec]" — Declination offset in arcseconds, ranging from approximately -7 to +11 arcsec.
+* Dashed gridlines at 0,0 intersection (the central position of the source).
+* Scale bar at top: A red horizontal line with brackets, labeled "~6,000 km" in red — indicating the physical scale of the image at the distance of the object.
+* Color map: False-color image using a dark blue/purple to teal/green to yellow gradient (typical astronomical false color: dark = low emission, yellow = peak emission).
+* Central bright region: A bright yellow/green spot approximately 30-40px in diameter, located slightly below and left of center (approximately ΔRA=0, ΔDec=-1 arcsec), representing the peak emission of CN.
+* Background: Diffuse blue-purple emission surrounding the central peak, with some variation across the field.
+* Large yellow arrow in lower-right area pointing to the lower-left (←↙), labeled "Sun" — this indicates the direction toward the Sun from the observed object, useful for determining the object's orientation relative to the solar direction.
+
+RIGHT PANEL:
+* Label in upper-left: "Ni" (in black bold) — indicates this is a map of Nickel (Ni) emission.
+* Same axes, same scale, same general layout as the left panel.
+* Same red scale bar: "~6,000 km"
+* Similar central bright spot (peak emission) at approximately the same position, slightly smaller or similar in intensity.
+* Same "Sun" arrow at lower-right pointing lower-left.
+* Similar blue-purple to teal-green-yellow false-color palette.
+
+Summary: This is a professional astronomical spectral map showing the spatial distribution of CN (cyanogen/cyanide) and Ni (nickel) emission from an astronomical object — most likely a comet nucleus or comet coma observed at close range, or possibly a protoplanetary disk or newly discovered compact object. The scale bar (~6,000 km) is consistent with a comet nucleus observation (comets have nuclei of ~1-50 km, so this would be a relatively large coma or inner coma region at roughly ~1 AU from Earth). The CN and Ni emission maps are both concentrated at the same central position. The "Sun" direction indicator is characteristic of cometary observation papers. The angular scale (arcseconds) combined with ~6,000 km physical scale implies the object is at a few AU from Earth or at a different distance. This type of image appears in the context of UAP/interstellar object research — possibly related to analysis of Oumuamua or Borisov (the interstellar objects), or claimed analysis of recovered UAP material.

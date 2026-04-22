@@ -1,0 +1,46 @@
+TYPE: Physics diagram — 3D illustration of the Lorentz force law on a current-carrying conductor in a magnetic field.
+
+CONTENT SUMMARY: A full-color 3D rendered diagram illustrating the Lorentz force (F = IL × B) acting on a straight current-carrying cylindrical conductor placed in an external magnetic field. The image uses a right-hand rule hand gesture and labeled color-coded vectors to show the relationship between current direction (I), magnetic field (B), and resulting force (F).
+
+DIAGRAM ELEMENTS:
+
+CENTRAL OBJECT — CONDUCTOR:
+- A cylindrical rod/conductor rendered in yellow-green or lime-green color, oriented diagonally from lower-left to upper-right in the 3D perspective.
+- The cylinder has visible 3D shading indicating a rounded surface. Length approximately 400px, diameter approximately 40px at image scale.
+- Green arrows labeled "I" (current) point along the cylinder axis indicating the direction of conventional current flow (upward/rightward along the conductor).
+
+MAGNETIC FIELD — BLOCK MAGNETS:
+- Two rectangular block magnets rendered in dark charcoal/black, one above and one below the conductor, forming a gap through which the conductor passes.
+- The magnets appear to be horseshoe or C-shaped pole faces oriented to create a vertical magnetic field through the conductor gap.
+- A blue arrow labeled "B" indicates the direction of the magnetic field (horizontal, pointing from the magnet face into the conductor gap region).
+
+FORCE INDICATOR:
+- A red arrow labeled "F" pointing perpendicular to both the current direction (I) and the magnetic field (B) — indicating the direction of the Lorentz force on the conductor.
+- The force arrow is the largest single arrow in the diagram, emphasizing the output result of the cross-product F = IL × B.
+
+RIGHT-HAND RULE HAND:
+- A realistic rendered or photographic human hand in the lower-right portion of the image, demonstrating the right-hand rule.
+- The hand is oriented with fingers pointing in the direction of current (I) and curling toward the magnetic field (B), with the thumb pointing in the direction of the force (F).
+- Skin-toned, realistic 3D appearance.
+
+TEXT LABELS:
+- "force" — red text, adjacent to the red F arrow.
+- "current" — green text, adjacent to the green I arrows along the conductor.
+- "magnetic field" — blue text, adjacent to the blue B arrow.
+
+COLORS:
+- Yellow-green cylinder (conductor).
+- Black/dark charcoal block magnets.
+- Green arrows and "current" label.
+- Blue arrow and "magnetic field" label.
+- Red arrow and "force" label.
+- Skin-toned hand.
+- White or light gray background.
+
+PHYSICS/UAP CONTEXT: This diagram illustrates F = q(v × B) in the macroscopic current-carrying wire form: F = IL × B, where I is current, L is the vector length of the conductor, and B is the magnetic field. This is the foundational law governing:
+- Homopolar/Faraday disc generators: radial Lorentz force drives current from center to rim when disc rotates in axial magnetic field.
+- Electromagnetic propulsion: sustained Lorentz force on a current-carrying conductor in a magnetic field produces continuous thrust.
+- Norman Paulsen's UAP power plant: counter-rotating magnetic discs with 12 magnets generate Lorentz forces in a configuration that produces both electrical current and mechanical thrust.
+The right-hand rule hand gesture confirms the vector cross-product relationship: point fingers along I, curl toward B, thumb indicates F.
+
+OVERALL COMMUNICATION: A clear 3D pedagogical diagram of the Lorentz force on a current-carrying conductor, labeled with force/current/magnetic field vectors and supplemented by a right-hand rule gesture — the fundamental electromagnetic law underlying Faraday disc generators and electromagnetic propulsion systems relevant to UAP propulsion research.

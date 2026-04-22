@@ -1,0 +1,36 @@
+TYPE: Explanatory diagram — 5×5 binary matrix with geometric shape overlay
+
+CONTENT:
+- White background
+- A 5×5 grid of binary digits (0s and 1s) displayed in large black text
+- Some digits are circled in RED and connected with RED lines
+
+BINARY MATRIX (5 rows × 5 columns):
+Row 1: 0   0   0   0   [1]   ← "1" circled in red
+Row 2: 0   0   [1]  [1]  0   ← both "1"s circled in red, connected by a line
+Row 3: [1]  0   0   0   [1]   ← both "1"s circled in red
+Row 4: 0   0   [1]  0   0   ← "1" circled in red
+Row 5: 0   0   [1]  0   [1]   ← both "1"s circled in red
+
+RED GEOMETRIC OVERLAY:
+The circled "1" positions are connected by red lines forming a diamond/rhombus shape:
+- The connection goes: (Row 2, Col 3) and (Row 2, Col 4) at top
+- (Row 3, Col 1) and (Row 3, Col 5) at left and right
+- (Row 4, Col 3) at bottom of diamond
+- The lines connecting these circled positions form a diamond (rhombus) pattern
+
+MATHEMATICAL ANALYSIS:
+The 1-positions in the 5×5 matrix are:
+(1,5), (2,3), (2,4), (3,1), (3,5), (4,3), (5,3), (5,5)
+
+The connected red positions form a geometric shape that the creator interprets as a "star map" — with the positions of the 1s in the 5×5 grid representing star locations.
+
+COLORS:
+- Digits: black
+- Circled digits: red circles and red connecting lines
+- Background: white
+
+IMAGE DIMENSIONS: Approximately 960 x 680 pixels, landscape
+
+CONTEXT:
+This diagram shows the binary "star map" extracted from the Crabwood Farm House crop circle (2002) message analysis described in companion image 3_2006681911763283971.jpg. The 25 words at odd/false capitalizations encode a 5×5 binary matrix; the 1-positions form this geometric pattern claimed to represent nearby star systems.

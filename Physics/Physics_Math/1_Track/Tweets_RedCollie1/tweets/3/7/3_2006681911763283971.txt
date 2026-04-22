@@ -1,0 +1,45 @@
+TYPE: Text-heavy explanatory slide — white background, black and red text, binary data analysis
+
+TITLE (top, bold, underlined, centered, approximately 16px):
+"25 words in total create a 5 x 5-bit
+'star map' by false capitalizations"
+
+CONTENT:
+Five lines of text, each followed by a row of binary digits (0s and 1s):
+
+LINE 1: "Beware the bearers of FALSE"
+- "FALSE" is in RED, bold, capitalized
+- Binary row: 0   0   0   0   1
+- (The "1" corresponds to the position of the capitalized word "FALSE")
+
+LINE 2: "gifts & their BROKEN PROMISES. Much"
+- "BROKEN PROMISES" in RED, bold, capitalized
+- Binary row: 0   0   1   1   0
+- (Two adjacent 1s corresponding to "BROKEN" and "PROMISES")
+
+LINE 3: "PAIN but still time. BELIEVE."
+- "PAIN" and "BELIEVE" in RED, bold, capitalized
+- Binary row: 1   0   0   0   1
+- (1s at positions 1 and 5)
+
+LINE 4: "There is GOOD out there."
+- "GOOD" in RED, bold, capitalized
+- Binary row: 0   0   1   0   0
+- (1 at position 3)
+
+LINE 5: "We oppose DECEPTION. Conduit CLOSING."
+- "DECEPTION" and "CLOSING" in RED, bold, capitalized
+- Binary row: 0   0   1   0   1
+- (1s at positions 3 and 5)
+
+OVERALL STRUCTURE:
+- 25 words total (5 lines × 5 words each)
+- The 5×5 binary matrix formed by reading the 1-positions creates a "star map"
+- The text reads as an alleged alien message containing warnings about deception and false gifts
+
+TEXT OF THE FULL MESSAGE:
+"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. BELIEVE. There is GOOD out there. We oppose DECEPTION. Conduit CLOSING."
+
+This is the alleged message decoded from a crop circle at Crabwood Farm House, Hampshire (August 15, 2002) — one of the most famous alleged alien message crop circles.
+
+IMAGE DIMENSIONS: Approximately 960 x 680 pixels, landscape

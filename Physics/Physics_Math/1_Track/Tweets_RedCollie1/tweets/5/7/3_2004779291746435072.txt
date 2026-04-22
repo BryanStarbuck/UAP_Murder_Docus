@@ -1,0 +1,29 @@
+TYPE: Black and white technical diagram — electromagnetic or electrical device schematic, disk geometry
+
+CONTENT:
+- Black line art on white background
+- A circular/disk-shaped device diagram showing cross-section or top-down view
+
+MAIN STRUCTURE:
+- Large outer circle (the disk boundary), approximately spanning 80% of the image
+- Inner concentric structure:
+  - A smaller solid circle near the upper-center labeled "R₁" with an arrow indicating its radius — this represents the inner radius of the annular region
+  - The outer disk boundary implicitly defines "R₂" (outer radius), labeled with an arrow in the lower-right interior
+  - Three concentric arc curves visible in the upper portion of the outer disk region, curving from upper-right toward lower-left — these may represent electromagnetic field lines, current flow paths, or inductance coils
+
+ANNOTATIONS:
+- "R₁" — label with arrow inside the small inner circle, indicating inner radius
+- "R₂" — label with arrow in the body of the disk, indicating outer radius
+- "I_in" — label with arrow pointing downward on the left side, indicating incoming current
+- "I_out" — label with arrow pointing downward at the bottom center, indicating outgoing current
+- "voltage taps" — label on the right side, with a row of 5-6 symbols (X-in-circle symbols, representing tapped terminals or connection points) arranged horizontally
+
+SYMBOLS:
+- The X-in-circle symbols (⊗) are standard electronics notation for connections going "into the page" or representing voltage measurement points
+
+OVERALL INTERPRETATION:
+This appears to be a schematic of a Faraday disk or homopolar generator/motor — a disk rotating between magnetic poles with current flowing radially from center to rim (or vice versa). The labels I_in and I_out indicate radial current flow, R₁ and R₂ define the disk annulus geometry, the concentric arcs may represent the magnetic field lines, and the voltage taps suggest measurement points around the rim.
+
+Alternatively, this could represent a magnetohydrodynamic (MHD) disk or a Biefeld-Brown effect device — both relevant to exotic propulsion physics.
+
+IMAGE DIMENSIONS: Approximately 630 x 620 pixels, near-square

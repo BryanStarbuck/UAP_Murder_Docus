@@ -159,6 +159,80 @@ It will be called by p_knowledge_from_dirs.md.
 
 
 
+
+========================================================================
+
+p_skill_img_move.md
+
+input dir:
+~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/images_description
+
+
+The goal is to go in a loop through every single text file in the input directory. I'm going to figure out the number of steps in the output directory. It will be passed in a list of files in the above directory. The goal is to loop through the list of files that we are provided. Not anything else, but just the list of files we are provided, and they will be in the input directory. These are the number of steps to carry out for each one of those. 
+
+#1: do a search through about a hundred of these end-of-run output directories. You may well do a command-line search. Know that we don't have content indexing turned on on this computer, so use command-line tools that won't use Mac OS-level content indexing.
+
+You can have it search through and find key files. The above file name came from an image that was in a tweet. The directories below will likely include one or more that will reference that tweet and that will probably match the file name partially. Find the best directory for this file that we're focused on now from the input directory; that we should move that file out of the input directory over to the destination directory that best matches. It has similar files that are talking about the most similar things; very often the ID, the file name, or the ID of the tweet. Move them to the appropriate directory. 
+
+
+This will loop through each and every image or file in the list of images or files we are given as input into this skill. 
+
+Output Dir:
+
+END_DIR is the end directory of this pattern:
+~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/
+
+
+
+
+
+========================================================================
+
+p_skill_img_move.md
+
+input dir:
+~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/images_description
+
+
+The goal is to go in a loop through every single text file in the input directory. I'm going to figure out the number of steps in the output directory. It will be passed in a list of files in the above directory. The goal is to loop through the list of files that we are provided. Not anything else, but just the list of files we are provided, and they will be in the input directory. These are the number of steps to carry out for each one of those. 
+
+#1: do a search through about a hundred of these end-of-run output directories. You may well do a command-line search. Know that we don't have content indexing turned on on this computer, so use command-line tools that won't use Mac OS-level content indexing.
+
+You can have it search through and find key files. The above file name came from an image that was in a tweet. The directories below will likely include one or more that will reference that tweet and that will probably match the file name partially. Find the best directory for this file that we're focused on now from the input directory; that we should move that file out of the input directory over to the destination directory that best matches. It has similar files that are talking about the most similar things; very often the ID, the file name, or the ID of the tweet. Move them to the appropriate directory. 
+
+
+This will loop through each and every image or file in the list of images or files we are given as input into this skill. 
+
+Output Dir:
+
+END_DIR is the end directory of this pattern:
+~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/
+
+
+
+========================================================================
+
+p_skill_video_move.md
+
+input dir:
+/Users/bryan/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/video_transcriptions
+
+
+The goal is to go in a loop through every single text file in the input directory. I'm going to figure out the number of steps in the output directory. It will be passed in a list of files in the above directory. The goal is to loop through the list of files that we are provided. Not anything else, but just the list of files we are provided, and they will be in the input directory. These are the number of steps to carry out for each one of those. 
+
+#1: do a search through about a hundred of these end-of-run output directories. You may well do a command-line search. Know that we don't have content indexing turned on on this computer, so use command-line tools that won't use Mac OS-level content indexing.
+
+You can have it search through and find key files. The above file name came from an image that was in a tweet. The directories below will likely include one or more that will reference that tweet and that will probably match the file name partially. Find the best directory for this file that we're focused on now from the input directory; that we should move that file out of the input directory over to the destination directory that best matches. It has similar files that are talking about the most similar things; very often the ID, the file name, or the ID of the tweet. Move them to the appropriate directory. 
+
+
+This will loop through each and every image or file in the list of images or files we are given as input into this skill. 
+
+Output Dir:
+
+END_DIR is the end directory of this pattern:
+~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/Tweets_RedCollie1/tweets/{Dir_Level_1}/{Dir_Level_2}/
+
+
 ========================================================================
 
 p_js_concatonate.md

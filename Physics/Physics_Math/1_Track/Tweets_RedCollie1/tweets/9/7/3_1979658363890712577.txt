@@ -1,0 +1,39 @@
+Type: Diagram/infographic — white background with colored geometric shapes and labeled text. Explains a binary encoding system using visual symbols.
+
+Background: White.
+
+TITLE (bold underlined black serif, approximately 16pt, centered):
+"Four symbols, three overlapping binary codes in 8-bit ASCII"
+
+UPPER SECTION — "Code 1" (red):
+* Left group (labeled "Code 1" in red bold serif at left margin): A red ellipse/oval outline containing two shapes side by side:
+  - Left: a large solid red filled square (approximately 60x60px)
+  - Right: a large hollow/outlined red square (approximately 60x60px, red outline only, white interior)
+* Labels below (in red bold): "binary 0" under the filled square, "binary 1" under the outlined square
+* Right group (no additional Code 1 label): A red ellipse/oval outline containing two shapes:
+  - Left: a solid red filled narrow rectangle (approximately 20x60px)
+  - Right: a hollow/outlined red narrow rectangle (approximately 20x60px, red outline only)
+* Labels below (in red bold): "binary 0" under the filled narrow rectangle, "binary 1" under the outlined narrow rectangle
+
+LOWER SECTION — "Code 2" (blue) and "Code 3" (green):
+* "Code 2" label in blue bold at left margin.
+* Blue circle outlines containing:
+  - Left blue circle: solid blue filled square (~60x60px), labeled "binary 0" in blue below
+  - Right blue circle: hollow/outlined blue square (~60x60px), labeled "binary 1" in blue below
+* "Code 3" label in dark green bold at right margin.
+* Green circle outlines containing:
+  - Left green circle: solid dark green filled narrow rectangle (~20x60px), labeled "binary 0" in green below
+  - Right green circle: hollow/outlined green narrow rectangle (~20x60px), labeled "binary 1" in green below
+
+CAPTION (black sans-serif, approximately 10-11pt, centered at bottom):
+'"CJ" sighting of a UFO near Wadley, Georgia on June 29, 2015 and follow-up contacts.
+Investigated by Linda Moulton Howe, Reporter and Editor, Earthfiles.com.
+Translated by Red Collie (Dr. Horace R. Drew).'
+
+COLOR CODING SUMMARY:
+* Code 1 (red): distinguishes squares (wide) from rectangles (narrow) in red
+* Code 2 (blue): wide filled square = 0, wide outline square = 1
+* Code 3 (green): narrow filled rectangle = 0, narrow outline rectangle = 1
+* These three overlapping codes each define binary values using the same four symbols, enabling 8-bit ASCII encoding through 3 different interpretive layers
+
+Summary: This diagram explains a visual binary encoding scheme reportedly used in a UFO communication event near Wadley, Georgia (June 29, 2015), investigated by Linda Moulton Howe. The four symbols (filled wide square, outlined wide square, filled narrow rectangle, outlined narrow rectangle) encode binary 0 and 1 differently depending on which of three "code layers" (Code 1 = red, Code 2 = blue, Code 3 = green) is applied. The entire visual signal can be decoded as 8-bit ASCII text using any of the three overlapping coding schemes. Translated by Dr. Horace R. Drew (known as "Red Collie").

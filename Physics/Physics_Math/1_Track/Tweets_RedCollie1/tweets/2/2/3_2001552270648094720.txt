@@ -1,0 +1,37 @@
+TYPE: Text-heavy explanatory slide — white background, black/red/blue text
+
+TITLE (top center, bold, approximately 18-20px):
+"Textpic" computer code is from the future   (xxx.tpc)
+
+UPPER SECTION — Binary encoding demonstration:
+- Shows the phrase "Textpic is from the future!" spelled out in ASCII binary
+- Letters are displayed one per column with their binary representations beneath
+- Letter names listed: T, e, x, t, p, i, c, [space], i, s, [space], f, r, o, m, [space], t, h, e, [space], f, u, t, u, r, e, !
+- Each letter has its 8-bit ASCII binary code shown below it
+- Some digits are colored RED and some BLUE to highlight specific bits, consistent with multi-stream encoding
+- Format: letter label (black text), then binary sequence with colored digits interspersed
+
+LOWER SECTION — Two binary grid patterns:
+Left grid (approximately 14 columns x 8 rows):
+- Grid of 0s and 1s with some RED 0s visible
+- Labeled below: "14 x 8 (fish shape)"
+
+Center grid (approximately 10 columns x 10 rows):
+- Grid of 0s and 1s, forming a cross/plus shape in 1s
+- Labeled below: "10 x 10 (cross shape)"
+
+Right grid (approximately 10 columns x 10 rows):
+- Grid of all 1s, forming a filled rectangle
+- No separate label visible
+
+FOOTER TEXT (small, centered, approximately 12px):
+"RC > message translated fully in December of 2019"
+
+COLOR SCHEME:
+- Black text for primary content
+- Red digits/text for one data stream
+- Blue digits/text for a second data stream
+- White background throughout
+
+CONTEXT:
+This slide is part of a series claiming that an alleged extraterrestrial or future-origin text encoding called "Textpic" uses a custom binary system. The three visual patterns (fish, cross, filled rectangle) are presented as embedded shapes within the binary data. The "RC" in the footer likely refers to a researcher/decoder's initials.

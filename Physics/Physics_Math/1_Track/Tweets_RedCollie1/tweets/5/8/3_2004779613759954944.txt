@@ -1,0 +1,49 @@
+TYPE: Physics diagram — Faraday disk / homopolar generator schematic
+
+CONTENT:
+- Color diagram on white background showing a rotating disk in a magnetic field
+
+BACKGROUND:
+- A grid of red "×" symbols covering the entire background (outside the disk region)
+- These × symbols represent a magnetic field B directed INTO the page (standard physics notation)
+- Label "B" in red italic text near the upper-left, identifying the field
+
+DISK:
+- A large circle drawn in BLUE representing the disk or conductor
+- The disk interior is filled with a lighter gray/white
+- A small blue "+" symbol at the exact center of the disk (the rotation axis)
+- A small blue "-" symbol at the top edge of the disk (the negative terminal/rim contact)
+- A dark vertical line from center to top (representing a radius element or the velocity vector v)
+- "v" label in green next to this radial line (indicating the velocity of the disk element)
+
+SPOKES:
+- Multiple gray diagonal lines radiating from center to rim (approximately 12-14 spokes equally spaced)
+- These spokes represent the wire segments that cut magnetic flux lines as the disk rotates
+
+VELOCITY ARROWS:
+- Green arrows along each spoke and at the rim, showing the local velocity direction (tangential to rotation) for each segment
+- The arrows point in a consistent direction (counterclockwise rotation implied)
+- Arrow curved at bottom showing rotation direction (curved arrow with arrowhead at lower rim)
+
+LABELS:
+- "wire slice cutting the magnetic flux" — black text label on the right side, with a diagonal line pointing to one of the gray spoke elements inside the disk
+
+PHYSICS CONCEPT:
+This diagram illustrates the Faraday homopolar disk generator (also called a unipolar generator or acyclic generator):
+- A conducting disk rotates in a uniform axial magnetic field (B into the page)
+- Each radial element cuts magnetic flux lines, generating an EMF by the motional EMF equation: dε = (v × B)·dl
+- The total EMF is ε = ωBR²/2 where ω is angular velocity and R is disk radius
+- Current flows radially (center to rim or vice versa), producing DC without commutator
+- The homopolar generator is the simplest electromagnetic induction device
+
+COLORS:
+- × symbols: red
+- Disk outline: blue
+- Center and terminal markers: blue
+- Velocity vector: green, italic label
+- Arrows: green
+- Background field label B: red, italic
+- Spoke elements: gray
+- Text labels: black
+
+IMAGE DIMENSIONS: Approximately 960 x 680 pixels, landscape

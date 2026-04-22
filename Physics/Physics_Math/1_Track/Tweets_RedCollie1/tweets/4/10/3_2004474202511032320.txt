@@ -1,0 +1,24 @@
+TYPE: Black and white bitmap/pixel image — appears to be a zoomed/cropped section of the 2001 Chilbolton crop formation binary data
+
+CONTENT:
+- Black dots on white background in a grid-like arrangement
+- The dots vary in size (larger and smaller black circles/blobs)
+- The pattern represents a binary pixel grid — black dots represent 1s and white spaces represent 0s (or vice versa)
+- The image is heavily blurred/low resolution, making individual pixels hard to distinguish
+- The right portion of the image shows a large solid black rectangular region (approximately the right 30% of the image)
+- The left and center portions show scattered dot patterns of varying sizes
+
+STRUCTURE:
+- Overall approximately 30-40 columns x 50-60 rows of pixel positions
+- The dots are unevenly sized — some are large (3-4 pixels) and some are small (1-2 pixels), suggesting this is a close-up of a bitmap that has been zoomed or interpolated
+- No text, labels, or axes visible
+
+COLORS:
+- Pure black dots
+- Pure white background
+- High contrast
+
+IMAGE DIMENSIONS: Approximately 590 x 770 pixels, portrait
+
+CONTEXT:
+This appears to be a zoomed or extracted section of the 2001 Chilbolton crop formation binary data, specifically either the "Arecibo reply" grid section or the "alien face" pixel pattern. The large black region on the right may represent a filled section of the binary message (a long string of 1s). This type of image is used in Chilbolton formation analysis to decode the embedded binary message.

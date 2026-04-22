@@ -1,0 +1,39 @@
+TYPE: Explanatory diagram — 5×5 binary pixel grid (filled squares for 1s, empty for 0s); red border
+
+CONTENT:
+- White background with a thick red rectangular border
+- A 5×5 grid of large square cells
+
+GRID CONTENTS:
+Each cell is either:
+- SOLID BLACK FILLED SQUARE (representing binary "1")
+- WHITE/EMPTY OUTLINED SQUARE (representing binary "0")
+
+PATTERN (same data as companion images):
+Row 1: □  □  □  □  ■   (0,0,0,0,1)
+Row 2: □  □  ■  ■  □   (0,0,1,1,0)
+Row 3: ■  □  □  □  ■   (1,0,0,0,1)
+Row 4: □  □  ■  □  □   (0,0,1,0,0)
+Row 5: □  □  ■  □  ■   (0,0,1,0,1)
+
+Where ■ = solid black filled square and □ = white outlined square
+
+VISUAL APPEARANCE:
+- All 25 cells have clear black outlines
+- The 8 cells that are "1"s are completely filled with black
+- The 17 cells that are "0"s are white/empty
+- The arrangement creates a visual pixel-art pattern that, when the black squares are connected visually, forms a diamond-like or star-map-like shape
+
+This is the same 5×5 matrix as in companion images but rendered as filled/empty pixel squares rather than 0/1 numbers.
+
+COLORS:
+- Background: white
+- Cell borders: black
+- "1" cells: solid black
+- "0" cells: white
+- Frame: red
+
+IMAGE DIMENSIONS: Approximately 960 x 780 pixels, landscape
+
+CONTEXT:
+Third in a series of three representations of the same binary data from the Crabwood 2002 crop circle star map, showing the pattern in pixel/bitmap form rather than numerical form.

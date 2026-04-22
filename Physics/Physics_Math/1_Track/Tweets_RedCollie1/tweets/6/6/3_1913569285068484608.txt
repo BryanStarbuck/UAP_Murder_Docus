@@ -1,0 +1,47 @@
+TYPE: Scientific visualization / physics diagram — 3D rendered illustration of electromagnetic field lines and magnetic vector field around a cylindrical or bar magnet. High-quality computer-generated image.
+
+BACKGROUND: Soft white-to-orange gradient (warm ambient light), creating a glowing field effect.
+
+CONTENT:
+A 3D computer-rendered visualization showing the magnetic field configuration of what appears to be a cylindrical bar magnet or solenoid. The image communicates the spatial distribution of the magnetic vector field and field lines in three-dimensional space.
+
+CENTRAL OBJECT (the magnet/solenoid):
+- A thick, bright orange-red cylinder running horizontally across the image from left to right
+- The cylinder has a glowing appearance, with the brightest red at the center transitioning to deeper orange-red at the ends
+- The left end appears slightly darker/recessed (this is the "south" pole or far end)
+- The right end appears brighter and more intense (closer to viewer)
+- A blue curved arrow overlaps the cylinder near the left-center portion, indicating the direction of current flow or the direction of the magnetic moment vector
+- The cylinder represents a solenoid with current flowing in a specific direction, generating the surrounding magnetic field
+
+MAGNETIC FIELD LINES (green/teal curves):
+- Numerous curved green/teal field lines emanate from the right end (north pole region) of the cylinder
+- The field lines curve in characteristic dipole patterns: they emerge from the right pole, sweep outward in large arcs, and return to the left pole (south end)
+- The field lines near the axis are more tightly curved (stronger field near the poles)
+- Far from the axis, the field lines spread out widely
+- The density of field lines is greatest near the cylinder ends, indicating maximum field strength there
+
+MAGNETIC FIELD VECTORS (yellow/gold arrows):
+- Numerous short yellow-gold arrows are distributed throughout the surrounding space
+- These represent the local direction and relative magnitude of the B-field vector at sample points
+- Near the north pole (right end): arrows point outward/rightward, away from the pole
+- Along the equatorial plane: arrows point generally parallel to the cylinder axis
+- Near the south pole (left end): arrows point inward/leftward, toward the pole
+- Far from the magnet: arrows become smaller/shorter (weaker field)
+- A single purple arrow is visible at the far left — this may represent the applied current direction or a different field component
+
+COLORS:
+- Cylinder: Bright orange-red gradient
+- Field lines: Teal/dark green
+- Vector arrows: Yellow-gold, varying brightness by distance
+- Background gradient: White (center) to soft orange (edges)
+- Blue arrow: Indicating circulation direction (right-hand rule)
+
+PHYSICS CONTENT:
+This is a standard visualization of the magnetic dipole field B(r) = (μ₀/4π)[3(m·r̂)r̂ - m]/r³ for a bar magnet or solenoid. The field lines follow the expected dipole pattern, looping from north pole to south pole through external space and from south to north through the interior. This type of visualization is commonly used in:
+- Electromagnetic theory instruction
+- Solenoid/electromagnet design
+- MRI coil analysis
+- UAP propulsion research (rotating magnetic field configurations)
+
+HIGH-LEVEL SUMMARY:
+High-quality 3D rendered physics visualization of the magnetic dipole field of a horizontal cylindrical bar magnet or solenoid. Shows both continuous field lines (green curves) and discrete field vectors (yellow arrows) in the surrounding space, with a blue arrow indicating current/moment direction. Standard dipole field topology with field emerging from right (north) pole and returning to left (south) pole. Directly relevant to electromagnetic propulsion and rotating magnetic field analysis in UAP physics research.

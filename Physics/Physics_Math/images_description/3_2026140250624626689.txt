@@ -1,0 +1,47 @@
+TYPE: Physics diagram — annotated schematic of the Lorentz force law.
+
+CONTENT SUMMARY: A black-and-white (with color labels) physics diagram illustrating the Lorentz force law: F = q(v × B). The diagram shows the relationship between a moving charge/current-carrying conductor, an external magnetic field (B), and the resulting force (F). The diagram uses geometric symbols to represent vectors and their cross-product relationship.
+
+DIAGRAM ELEMENTS:
+
+LEFT ELEMENT — CONDUCTOR IN MAGNETIC FIELD:
+- A large outer circle (thin black outline, approximately 300px diameter) representing the cross-section of a conductor or disc.
+- Around the inner circumference of this outer circle: 3 filled black dots positioned at approximately 10 o'clock, 4 o'clock, and 7 o'clock positions (i.e., three points approximately equally spaced, at the positions of a 3-phase electrical system).
+- Inside the outer circle: a dashed-line inner circle (approximately 200px diameter, concentric) — representing a magnetic flux region or inner conductor boundary.
+- At the center: a large solid filled black circle (approximately 100px diameter) — representing the main conductor cross-section, central disc, or magnetic core.
+- The combination represents a coaxial conductor, a homopolar disc cross-section, or a magnetic ring with central pole.
+
+CONNECTING ELEMENT:
+- A thick horizontal black line extends from the right edge of the left circle element to the left edge of the right circle element — representing a conducting wire or mechanical connection.
+
+RIGHT ELEMENT — SMALLER CONDUCTOR/MAGNET:
+- A smaller outer circle (approximately 120px diameter, thin black outline) to the right.
+- A small filled black dot at the center.
+- A thin line extends from the center dot to the right, then bends slightly downward (possibly representing a wire exit point or connection).
+- This smaller element represents a secondary conductor, brush contact, or return current path.
+
+LOWER ELEMENT — MAGNETIC FIELD:
+- A large solid filled black circle (approximately 150px diameter) below and between the main elements.
+- Inside the black circle: the cyan/blue letter "B" in large bold text — indicating this is the magnetic field vector.
+- This represents the external magnetic field vector pointing into the page (or represented as a large disc magnet below the circuit).
+
+FORCE INDICATOR:
+- A small solid black filled triangle (arrowhead, approximately 40px) to the right of the "B" circle.
+- The letter "F" in red, adjacent to the triangle — indicating the direction of the resulting Lorentz force.
+
+TEXT LABELS:
+- "B" — cyan/blue, inside the black circle (magnetic field).
+- "F" — red, next to the black triangle (force direction).
+- "Lorentz force" — black text, lower-left corner, approximately 16px.
+
+BACKGROUND: White.
+
+COLORS: Black circles and lines, cyan "B" label, red "F" label, white background.
+
+PHYSICS/UAP CONTEXT: The Lorentz force (F = q(E + v×B)) is the fundamental force on a charged particle moving through electromagnetic fields. In the context of UAP propulsion and Faraday disc generators:
+- A disc (the left circle) rotating in a magnetic field (the lower "B" circle) produces a Lorentz force on the charges within the disc.
+- This force drives current radially (from center to rim or rim to center), generating electromotive force.
+- The same principle applies in reverse: if current is driven through the disc in an external magnetic field, a torque/force is generated on the disc.
+- This diagram appears in the context of the Faraday disc generator discussion (see companion images 3_2025611240379432960.jpg and 3_2025611264727371777.jpg), providing the underlying physics for why rotating discs in magnetic fields generate electrical current or mechanical force — the foundation of the claimed UAP levitation mechanism.
+
+OVERALL COMMUNICATION: A labeled physics diagram illustrating the Lorentz force relationship between a rotating conductor (disc), an external magnetic field (B), and the resulting force (F) — the fundamental electromagnetic law underlying the Faraday disc generator operation and the proposed UAP levitation mechanism.

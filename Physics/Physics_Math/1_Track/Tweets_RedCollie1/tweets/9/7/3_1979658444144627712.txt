@@ -1,0 +1,57 @@
+Type: Text/data diagram — white background with mixed text, binary data, and colored formatting. Shows decoded ASCII message from binary data.
+
+Background: White.
+
+TITLE (black bold centered, approximately 14pt):
+'"Textpic" computer code is from the future   (xxx.tpc)'
+
+DECODED MESSAGE SECTION (upper portion):
+* The text spells out letter-by-letter: "T e x t p i c   i s   f r o m   t h e   f u t u r e !"
+* Each letter is separated by spaces to show the individual character mapping.
+* Below each letter: an 8-bit binary code representation.
+* Specific binary codes visible (with certain bits highlighted in red/blue):
+  - T: 01010100
+  - e: 01100101 (with some bits in red/blue bold)
+  - x: 01111000
+  - t: 01110100
+  - p: 01110000
+  - i: 01101001
+  - c: 01100011
+  - [space]: 00100000
+  - i: 01101001
+  - s: 01110011
+  - [space]: 00100000
+  - f: 01100110
+  - r: 01110010
+  - o: 01101111
+  - m: 01101101
+  - [space]: 00100000
+  - t: 01110100
+  - h: 01101000
+  - e: 01100101
+  - [space]: 00100000
+  - f: 01100110
+  - u: 01110101
+  - t: 01110100
+  - u: 01110101
+  - r: 01110010
+  - e: 01100101
+  - !: 00100001 01111 (slightly different formatting at end)
+
+* Some bits within the binary strings are rendered in RED BOLD and some in BLUE BOLD, indicating the "Code 1," "Code 2," "Code 3" layers from the prior image's encoding scheme.
+
+BINARY GRID SECTION (lower portion):
+* A large rectangular grid of 0s and 1s arranged in rows and columns.
+* The grid appears to be approximately 24 columns wide and 10+ rows tall.
+* Left portion of grid: all 0s (approximately 14 columns)
+* Right portion of grid: all 1s (approximately 10 columns)
+* Certain 0s in the left portion are highlighted in RED BOLD
+* The grid is divided into labeled regions:
+  - "14 x 8 (fish shape)" — labeled in red text, referring to the left section of the grid containing mostly 0s with some red-highlighted 0s
+  - "10 x 10 (cross shape)" — labeled below the middle section in black text
+  - The right section (all 1s) is unlabeled
+
+ATTRIBUTION (black centered, approximately 10pt):
+"RC > message translated fully in December of 2019"
+
+Summary: This slide shows the decoded binary message "Textpic is from the future!" alongside the 8-bit ASCII binary representations of each character. The binary grid below represents the visual shape encoding — "14 x 8 fish shape" and "10 x 10 cross shape" are geometric binary patterns that, when decoded using the visual symbol coding scheme from the prior image, spell out the message. "RC" refers to Red Collie (Dr. Horace R. Drew), who claims to have fully translated the message in December 2019. The claim is that a non-human intelligence communicated via a visual signal that referenced future computer file format "Textpic" (.tpc), suggesting advance knowledge of human technology.

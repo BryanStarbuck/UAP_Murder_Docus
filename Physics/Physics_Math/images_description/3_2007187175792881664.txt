@@ -1,0 +1,41 @@
+TYPE: Explanatory text diagram — Crabwood 2002 binary message star map analysis (duplicate of 3_2006681911763283971)
+
+CONTENT:
+This image is a duplicate of the text slide described in 3_2006681911763283971.txt, showing the same analysis of the Crabwood 2002 binary message's embedded star map.
+
+TITLE (underlined, bold black):
+"25 words in total create a 5 x 5-bit 'star map' by false capitalizations"
+
+MESSAGE TEXT WITH BINARY ANNOTATIONS:
+The full decoded Crabwood message is displayed in five lines (5 words per line), with each word either in black (lowercase = binary 0) or red (CAPITALIZED = binary 1). Below each line of text, the corresponding binary row values are shown:
+
+Line 1: "Beware the bearers of FALSE" → 0 0 0 0 1
+Line 2: "gifts & their BROKEN PROMISES. Much" → 0 0 1 1 0
+Line 3: "PAIN but still time. BELIEVE." → 1 0 0 0 1
+Line 4: "There is GOOD out there." → 0 0 1 0 0
+Line 5: "We oppose DECEPTION. Conduit CLOSING." → 0 0 1 0 1
+
+CAPITALIZED WORDS (red text = binary 1):
+- Line 1: FALSE (position 5)
+- Line 2: BROKEN, PROMISES (positions 3, 4)
+- Line 3: PAIN, BELIEVE (positions 1, 5)
+- Line 4: GOOD (position 3)
+- Line 5: DECEPTION, CLOSING (positions 3, 5)
+
+THIS ENCODES THE 5×5 MATRIX:
+Row 1: 0 0 0 0 1
+Row 2: 0 0 1 1 0
+Row 3: 1 0 0 0 1
+Row 4: 0 0 1 0 0
+Row 5: 0 0 1 0 1
+
+COLORS:
+- Background: white
+- Title: black bold underlined
+- Lowercase words: black bold
+- Capitalized words: red bold
+- Binary digit rows: black bold (0s) and red bold (1s)
+
+IMAGE DIMENSIONS: Approximately 960 x 560 pixels, landscape
+
+See also: 3_2006681911763283971.txt (companion description of identical image)

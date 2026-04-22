@@ -1,0 +1,40 @@
+IMAGE TYPE: Physics diagram / 3D rendering — Faraday/homopolar generator (unipolar generator) schematic
+
+CONTENT SUMMARY:
+A 3D rendered physics diagram, approximately 680 x 570 pixels, showing a schematic of a homopolar (unipolar) generator or Faraday disc generator. The rendering uses clean 3D isometric-style illustration.
+
+THE APPARATUS COMPONENTS:
+
+UPPER MAGNET (red bar, labeled "N"):
+At the top of the diagram, a large rectangular red bar with the letter "N" in white bold sans-serif text on its face. This represents the north pole of a permanent bar magnet. The magnet appears to be approximately the same width as the rotating disc below it.
+
+LOWER MAGNET/YOKE (gray, labeled "S"):
+At the bottom, a gray rectangular block with "S" in dark red/maroon text on its face. This represents the south pole. The gray block is wider and lower-profile than the upper red magnet.
+
+ROTATING DISC (copper/brown colored):
+Between the two magnets, centered horizontally, a flat disc oriented horizontally (plane perpendicular to the vertical magnetic field axis). The disc is rendered in copper/brown color, suggesting it is made of a conducting material (copper). The disc appears to be approximately 20-30cm diameter (estimated from relative proportions). A thin vertical axle passes through the center of the disc, extending both above and below it, connecting to the magnet assembly.
+
+CIRCUIT CONNECTIONS (orange lines):
+Orange/amber line connections run from two points on the apparatus to a measuring device:
+- One connection appears to be from the central axle of the disc (the sliding contact at the axle)
+- One connection appears to be from the outer edge of the disc (the sliding contact at the rim)
+- Both orange lines run to the right side of the image, connecting to a white circular gauge/meter (approximately 70px diameter) representing a voltmeter, ammeter, or galvanometer
+
+The two connection points (center axle + rim edge) are the characteristic output terminals of a homopolar generator.
+
+MEASURING DEVICE: A white circular dial/gauge at the right of the image, with orange wire connections — representing the electrical measuring instrument that detects/measures the generated current.
+
+BACKGROUND: Simple gray/white gradient background.
+
+COLORS: Red upper magnet; gray/silver structure; copper/brown disc; orange connection wires; white gauge.
+
+PHYSICS RELEVANCE:
+A homopolar (Faraday) generator is a DC electrical generator that operates through continuous rotation of a conducting disc in a uniform magnetic field aligned with the rotation axis. Key physics:
+- The EMF generated is: ε = ½ωBr² (where ω is angular velocity, B is field strength, r is disc radius)
+- No commutation needed — produces true DC with no ripple
+- First demonstrated by Michael Faraday in 1831
+In UAP physics research, homopolar generators are highly significant because:
+1. They are central to many free energy device claims (some researchers claim correctly-configured homopolar generators can exceed conventional energy conservation predictions)
+2. They produce unidirectional current without slip-ring losses in principle
+3. The rotating magnetic field topology is connected to inertial mass reduction claims (spinning strong magnetic fields may affect local spacetime curvature according to some researchers)
+4. Norman Paulsen's claimed UAP propulsion description (seen in companion text images) specifically mentions "two magnetic discs rotating in opposite directions" — matching a counter-rotating homopolar generator configuration

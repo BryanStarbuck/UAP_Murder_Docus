@@ -1,0 +1,30 @@
+TYPE: Explanatory diagram — 5×5 binary pixel grid (filled squares for 1s, empty for 0s); red border (duplicate of 3_2006842172310712320)
+
+CONTENT:
+This image is a duplicate of 3_2006842172310712320.txt — the same 5×5 pixel grid representation of the Crabwood 2002 star map binary data.
+
+GRID CONTENTS:
+- White background with thick red rectangular border
+- 5×5 grid of large square cells, each either solid black (binary 1) or white/outlined (binary 0)
+
+PATTERN:
+Row 1: □  □  □  □  ■   (0,0,0,0,1)
+Row 2: □  □  ■  ■  □   (0,0,1,1,0)
+Row 3: ■  □  □  □  ■   (1,0,0,0,1)
+Row 4: □  □  ■  □  □   (0,0,1,0,0)
+Row 5: □  □  ■  □  ■   (0,0,1,0,1)
+
+Where ■ = solid black filled square and □ = white outlined square
+
+BINARY POSITIONS OF 1s:
+- (1,5), (2,3), (2,4), (3,1), (3,5), (4,3), (5,3), (5,5)
+
+VISUAL:
+- All 25 cells have clear black outlines
+- 8 cells are filled black ("1"), 17 cells are white/empty ("0")
+- Red border frames the entire grid
+- The pattern creates a visual that, when interpreted as star positions, maps to the Zeta Reticuli binary star system and associated stars
+
+IMAGE DIMENSIONS: Approximately 960 x 780 pixels, landscape
+
+See also: 3_2006842172310712320.txt (identical image), 3_2007302912670871553.txt (annotated version with star labels)

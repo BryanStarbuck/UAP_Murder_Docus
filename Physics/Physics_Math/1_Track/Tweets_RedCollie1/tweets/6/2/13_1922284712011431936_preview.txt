@@ -1,0 +1,37 @@
+TYPE: Photograph — overhead view of a metallic disc rotor with permanent magnets and handwritten annotations on a white surface
+
+CONTENT OVERVIEW:
+A top-down view of what appears to be a Halbach array or multi-pole permanent magnet rotor disc, with handwritten blue ink annotations on the white surface surrounding it. Three permanent magnets are visible on the disc surface, and the disc is on a white board with technical measurement markings drawn around it.
+
+STRUCTURAL ELEMENTS:
+- Metallic disc rotor: A flat metal disc (aluminum or steel), approximately 20cm apparent diameter, with a brushed/satin finish. Positioned centrally with a thin vertical metal shaft/pin at its center (the rotation axis).
+- Three permanent magnets on disc surface:
+  * Upper-left magnet: A disc-shaped magnet approximately 25px diameter. Bicolor red and blue top face (indicating N and S poles marked or visible — this is a bicolor labeled magnet with red=N, blue=S or similar)
+  * Upper-right magnet: Similar disc-shaped magnet approximately 20px diameter. Red top face only (fully one pole showing).
+  * Lower-center magnet: Similar disc-shaped magnet approximately 20px diameter. Red top face.
+  All three magnets are embedded or adhered to the disc surface at roughly 120-degree intervals.
+- White surface with handwritten annotations:
+  * Blue pen/marker text is written directly on the white surface board around the disc
+  * Visible text includes:
+    - "30" written in large blue letters at the left side (possibly indicating degrees or mm)
+    - "N3" written in blue at the upper right (possibly indicating "magnet 3" or "North 3")
+    - "3.0" possibly written at upper center-right
+  * There appear to be additional technical notes or measurements at other positions
+  * Straight lines or angle markers drawn at the right side of the board (visible as pencil/pen lines at approximately 45-degree and 90-degree angles, with "15p" or similar notation)
+- Central shaft: A thin metallic pin/shaft approximately 3mm diameter, extending approximately 2cm above the disc surface.
+- Alligator clip (red): Visible at far left edge, connecting a wire to the disc or its base.
+- Base wiring: A black rectangular element is visible at the bottom-center of the disc base (possibly a magnetic sensor or connection point).
+
+BACKGROUND: Plain white board/surface with the handwritten annotations mentioned above. Smooth, flat, slightly scuffed white material (white-painted wood, foam board, or white MDF).
+
+MAGNET CONFIGURATION:
+Three magnets at approximately 120-degree intervals on the disc surface is a 3-pole rotor configuration. If the magnets alternate polarity (N-S-N or S-N-S), this is a standard 3-pole brushless motor/generator rotor. The mixed red/blue top face of the upper-left magnet may indicate it is oriented differently from the others (bipolar marking visible on its face).
+
+PHYSICS CONTEXT:
+This appears to be a carefully constructed rotor for a 3-phase brushless motor or generator experiment:
+- The 3 magnets at 120-degree intervals are the standard rotor magnet configuration for a 3-phase BLDC motor
+- The handwritten annotations suggest precise placement calculations
+- The thin central shaft allows the rotor to spin freely when properly mounted
+- The surrounding white surface with dimensional notes suggests this is being set up with specific geometric precision
+
+SUMMARY: Overhead view of a metallic disc (approximately 20cm diameter) with three disc-shaped permanent magnets embedded at approximately 120-degree intervals, a central thin shaft/pin, a red alligator clip connection at left, and a black sensor/connection element at the base. The white surrounding surface is annotated with blue handwritten text including "30," "N3," and other measurement notes, indicating careful geometric layout for a 3-pole rotor in a brushless motor/generator experiment.
