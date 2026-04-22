@@ -1,0 +1,61 @@
+SHAPES:
+* Diagram (~960x560px) on white background — an educational/analytical diagram explaining a four-symbol, three-code binary encoding system
+
+Title text (top, black underlined):
+* "Four symbols, three overlapping binary codes in 8-bit ASCII"
+
+UPPER ROW — Code 1 (red):
+* Label: "Code 1" (red text, left side)
+* A large red oval/ellipse outline (~400px wide, ~120px tall) containing TWO SYMBOLS:
+  - Left symbol inside the ellipse: a FILLED RED SQUARE (~50x50px) labeled "binary 0" below
+  - Right symbol inside the ellipse: an OPEN/OUTLINE SQUARE (red border, white interior, ~50x50px) labeled "binary 1" below
+* The ellipse represents the grouping of these two symbols as "Code 1"
+* Adjacent to the ellipse, to the right: another pair of symbols ALSO inside the Code 1 ellipse (the ellipse extends further right):
+  - Left: a FILLED RED RECTANGLE (tall and thin, ~20x50px) labeled "binary 0"
+  - Right: an OPEN/OUTLINE RECTANGLE (red border, ~20x50px) labeled "binary 1"
+* So Code 1 uses: filled shape = binary 0, outline shape = binary 1 (shape-fill encoding)
+
+LOWER ROW — Codes 2 and 3:
+* Left portion: "Code 2" label (blue text)
+* A blue circle outline (~130px diameter) containing:
+  - A FILLED BLUE SQUARE (~50x50px) labeled "binary 0"
+  - Next to it: a smaller blue circle (~130px) containing an OPEN/OUTLINE SQUARE, labeled "binary 1"
+* Right portion: "Code 3" label (green text)
+* A green circle outline (~130px) containing:
+  - A FILLED GREEN RECTANGLE (tall, thin, ~20x50px) labeled "binary 0"
+  - Next to it: a green circle containing an OPEN/OUTLINE RECTANGLE (green border), labeled "binary 1"
+
+Caption text (bottom, black):
+* '"CJ" sighting of a UFO near Wadley, Georgia on June 29, 2015 and follow-up contacts.'
+* 'Investigated by Linda Moulton Howe, Reporter and Editor, Earthfiles.com.'
+* 'Translated by Red Collie (Dr. Horace R. Drew).'
+
+TEXT (verbatim):
+* Title: "Four symbols, three overlapping binary codes in 8-bit ASCII"
+* "Code 1" (red)
+* "binary 0" (below left symbols in Code 1)
+* "binary 1" (below right symbols in Code 1)
+* "Code 2" (blue)
+* "binary 0" / "binary 1" (below Code 2 symbols)
+* "Code 3" (green)
+* "binary 0" / "binary 1" (below Code 3 symbols)
+* Caption: as quoted above
+
+COLORS:
+* Code 1 symbols and ellipse: red
+* Code 2 symbols and circles: blue
+* Code 3 symbols and circles: green
+* Text: black (title, caption), red (Code 1 label), blue (Code 2 label), green (Code 3 label)
+* Background: white
+
+SPATIAL RELATIONSHIPS:
+* Title at top
+* Code 1 (red) in upper row — wide horizontal ellipse spanning most of image width, containing 4 symbols (filled square, outline square, filled rectangle, outline rectangle)
+* Code 2 (blue) and Code 3 (green) in lower row — two circles each containing a pair of symbols
+* Caption at bottom
+
+PHYSICS CONCEPT:
+This diagram presents a sophisticated multi-layer binary encoding analysis of visual symbols received during a UAP contact experience near Wadley, Georgia (June 29, 2015, witness "CJ"), investigated by Linda Moulton Howe (Earthfiles.com reporter) and decoded by Dr. Horace R. Drew (Red Collie). The encoding system uses FOUR visual symbols (filled square, outline square, filled rectangle, outline rectangle) to simultaneously carry THREE independent binary codes: Code 1 uses filled vs. outline status as the bit encoding (filled = 0, outline = 1); Code 2 uses square shape to encode one bit stream; Code 3 uses rectangle shape to encode a third bit stream. This is steganographic multiplexing — multiple information channels carried simultaneously by the same visual symbols. In information theory terms: this is a form of MIMO (Multiple Input Multiple Output) encoding where the channel capacity is multiplied by using orthogonal encoding dimensions (fill status, width, shape). The three 8-bit ASCII streams can be decoded independently by reading the respective symbol attribute. This type of multiply-redundant encoding in a single visual symbol stream is significant because: (1) It demonstrates sophisticated information-theoretic design by the ET communicator — encoding three independent messages in a visually simple symbol system; (2) The use of 8-bit ASCII implies knowledge of specific human computational standards (ASCII dates to 1963); (3) The method was transmitted in a visual field experience (flashing symbols in the witness's visual field) — consistent with direct neural interface communication rather than radio transmission; (4) Linda Moulton Howe's investigation and RC's (Dr. Drew's) translation represents a collaboration between investigative journalism and academic analysis of ET communication.
+
+HIGH-LEVEL SUMMARY:
+Educational diagram (~960x560px) titled "Four symbols, three overlapping binary codes in 8-bit ASCII" — documenting the encoding system used in ET symbols received by witness "CJ" during a UAP sighting near Wadley, Georgia (June 29, 2015), investigated by Linda Moulton Howe (Earthfiles.com) and decoded by Red Collie (Dr. Horace R. Drew). The diagram shows: Code 1 (red ellipse) — four symbols where fill status encodes binary (filled shape = 0, outline = 1); Code 2 (blue circles) — square-based binary; Code 3 (green circles) — rectangle-based binary. The four physical symbols simultaneously carry three independent binary streams (steganographic MIMO encoding), all decoded as 8-bit ASCII. This represents an information-theoretically sophisticated communication system demonstrating ET knowledge of human ASCII standards.

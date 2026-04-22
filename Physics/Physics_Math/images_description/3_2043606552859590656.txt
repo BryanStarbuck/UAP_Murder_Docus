@@ -1,0 +1,41 @@
+SHAPES:
+* Black-on-white digital schematic — a plan-view (top-down) diagram of the spinning disc system
+* OUTER RING OF GRADUATED CIRCLES: A ring of black circles arranged around a large circumference (approximately 420px diameter)
+  * The circles vary in size — largest at the top and right, smallest at the lower portions — creating a perspective effect (as if the ring is tilted slightly from top-view)
+  * Approximately 24-28 circles in the outer ring
+  * Each circle: ranges from approximately 30px (large) to 8px (small) in diameter
+* CENTRAL CONCENTRIC CIRCLE ELEMENT: At the exact center (approximately 280px inside the outer ring)
+  * A small circle-within-circle target: approximately 40px outer diameter, 20px inner diameter, with a small central dot
+  * This is the rotation axis / center hub indicator (with center hole)
+* VERTICAL STEM ELEMENT:
+  * FROM TOP: A vertical sequence of decreasing circles extending upward from the top of the outer ring — approximately 6-8 circles decreasing in size from the outer ring up to a small terminal bead (totaling approximately 80px above the ring)
+  * The stem extends above the top of the outer ring
+  * FROM BOTTOM (below the central element): A similar sequence of decreasing circles extending downward from the center element — approximately 6-8 decreasing circles, creating a Fibonacci-decreasing tail below the center
+* HORIZONTAL DOTTED ARC: Inside the outer ring, a dotted arc (line of very small dots) traces approximately a semicircle across the interior — this represents either a reference radius or an intermediate coupling ring
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Black silhouette on white background
+
+PHYSICS CONCEPTS:
+* This is a plan-view (top-down) schematic of the complete spinning disc system, showing:
+  1. OUTER GRADUATED CIRCLE RING: The approximately 24-28 circles of varying size represent the outer permanent magnet ring — the same ring shown in companion images (3_2042960619109036032, 3_2043453533111132160) but in plan view. The perspective sizing (larger at top, smaller at bottom) shows the ring as seen from slightly above — confirming this is a near-vertical overhead view
+  2. CENTRAL CONCENTRIC CIRCLE: The central hub (rotation axis) shown as a bull's-eye — same as the axis element in companion disc schematics
+  3. VERTICAL STEM (ABOVE): The decreasing-circle sequence above the top of the outer ring represents the top disc with its axis extending above — the "tail" of graduated circles is the same stacked-disc stem from the companion side-view schematics (3_2042732691930648576), now seen from above
+  4. DECREASING CIRCLE SEQUENCE (BELOW CENTER): The sequence of decreasing circles below the central hub represents the Birkeland current vortex tail or exhaust column extending below the disc — the decreasing sizes encode the diminishing current density with distance from the disc
+  5. DOTTED INTERIOR ARC: The dotted semicircle arc inside the outer ring marks:
+     * The intermediate coupling radius (the corotation or contact brush radius)
+     * A standing wave pattern on the disc surface (the first harmonic of the azimuthal standing electromagnetic wave)
+     * The boundary between the inner rotor zone and outer stator coupling zone
+
+SPATIAL RELATIONSHIPS:
+* Outer circle ring: defines the outer boundary (~420px diameter)
+* Central concentric circle target: exact geometric center
+* Graduated decreasing circles (above): upward extension of the top disc stem
+* Decreasing circles (below center): downward Birkeland current tail
+* Dotted interior arc: inside the outer ring, at approximately 65% of the ring radius
+
+HIGH-LEVEL SUMMARY:
+Black-on-white plan-view (top-down) digital schematic of the spinning electromagnetic disc system, showing: an outer ring of approximately 24-28 graduated circles (perspective-sized, largest at top — representing the outer permanent magnet ring viewed from above); a central concentric bull's-eye element (rotation axis with center hole); a vertical sequence of decreasing circles extending upward above the outer ring (the top disc axis stem seen from above); a downward sequence of decreasing circles below the center (Birkeland current exhaust column below the disc); and a dotted interior semicircular arc (intermediate coupling radius or standing wave boundary). This overhead plan-view complements the side-view schematics in companion images 3_2042732691930648576 and 3_2043453515625005056, providing the same physical system from an orthogonal perspective.

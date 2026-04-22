@@ -1,0 +1,60 @@
+SHAPES:
+* Diagram (~960x640px) on white background — a complex binary-to-ASCII translation analysis document
+
+Title text (top, centered, black):
+* '"Textpic" computer code is from the future (xxx.tpc)'
+
+Upper section — ASCII decode:
+* A multi-row display showing the binary-to-ASCII translation of the phrase "Textpic is from the future !" with the following layout:
+  - Row 1: Individual letters spaced across the top: T, e, x, t, p, i, c
+  - Row 2: 8-bit binary strings for each letter, with certain bits highlighted in RED:
+    * T = 01010100
+    * e = 01100101
+    * x = 01111000
+    * t = 01110100 (with highlighted bits)
+    * p = 01110000
+    * i = 01101001
+    * c = 01100011
+  - Continued rows: "space i s space f r o" → "01000000 01101001 01110011 01000000 01100110 01110010 01101111"
+  - Continued: "m space t h e space f" → "01101101 01000000 01110100 01101000 01100101 01000000 01100110"
+  - Final rows: "u t u r e !" → "01110101 01110100 01110101 01110010 01100101 00100001 0111"
+  - The phrase being decoded: "Textpic is from the future !"
+  - Certain bits in red indicate a secondary encoding (the triple-overlay encoding from 3_1979658363890712577)
+
+Lower section — Binary pixel grid:
+* A BINARY PIXEL GRID displayed below the ASCII text — a visual representation of two shapes encoded in binary:
+  - Left portion: a grid of 0s and 1s with the label "14 x 8 (fish shape)" in blue text
+    * The grid shows: a pattern of 0s on the left (~14 columns × 8 rows) with some red 0s indicating the secondary code stream
+    * The 1s appear in a concentrated region creating a "fish" shaped profile
+  - Center portion: labeled "10 x 10 (cross shape)" — a square grid showing a cross/plus shape
+    * The 1s appear in two perpendicular bands (horizontal and vertical) forming a cross/plus symbol
+  - Right portion: a solid block of 1s creating a rectangular region
+* The entire pixel grid uses binary 0 and 1 values, with red-colored 0s highlighting the secondary channel
+
+Caption (bottom):
+* "RC > message translated fully in December of 2019"
+
+TEXT (verbatim):
+* Title: '"Textpic" computer code is from the future (xxx.tpc)'
+* Decoded phrase: "Textpic is from the future !"
+* Labels: "14 x 8 (fish shape)" (blue), "10 x 10 (cross shape)" (blue/green)
+* Attribution: "RC > message translated fully in December of 2019"
+
+COLORS:
+* Most binary text: black
+* Certain highlighted bits: red (secondary code stream indicators)
+* Shape labels: blue, green
+* Title: black
+* Background: white
+
+SPATIAL RELATIONSHIPS:
+* Title at top
+* ASCII binary decode rows in upper section
+* Binary pixel grid in lower section with labeled shapes
+* Attribution at bottom
+
+PHYSICS CONCEPT:
+This diagram presents RC's (Dr. Horace R. Drew's) complete December 2019 translation of the "Textpic" binary code received during the "CJ" Wadley, Georgia UAP contact (June 29, 2015), using the three-code ASCII system from 3_1979658363890712577. The translated message is "Textpic is from the future !" — with "Textpic" apparently being the name or format designation of the communication protocol itself (a file format "xxx.tpc"). The "is from the future" component is a remarkable claim: if authentic, the ET communicator is asserting that the communication protocol they are using ("Textpic") is a technology that does not exist in 2015 but will exist in the future — implying either time travel capability, access to foreknowledge, or that the ETs exist in a temporal reference frame different from Earth's. The binary pixel grid below encodes TWO VISUAL SHAPES simultaneously within the binary data: (1) A "fish shape" in 14×8 pixel grid — relevant because the ichthys (fish symbol) is a Christian symbol, suggesting ET knowledge of human religious iconography; (2) A "cross shape" in 10×10 pixel grid — also directly Christian/religious. The combination "fish + cross" within a message claiming to come "from the future" has significant eschatological resonance in contactee literature. RC's translation methodology — identifying the three overlapping binary codes, then rendering the decoded data as pixel images to reveal the hidden shape content — is an information-theoretically rigorous approach: it treats the ET communication as a multi-stream compressed data format and decompresses it to reveal both textual (ASCII) and visual (pixel map) content simultaneously embedded in the same bit stream.
+
+HIGH-LEVEL SUMMARY:
+Binary-to-ASCII translation diagram (~960x640px) titled '"Textpic" computer code is from the future (xxx.tpc)' — RC's December 2019 complete translation of the "CJ" Wadley, Georgia ET binary contact (June 29, 2015). Upper section: 8-bit ASCII decode of each character in the phrase "Textpic is from the future !" with red-highlighted bits indicating the secondary code stream (from the three-code encoding system in 3_1979658363890712577). Lower section: binary pixel grid revealing two hidden visual images simultaneously encoded in the data stream — a "14×8 fish shape" (ichthys/Christian fish symbol) and a "10×10 cross shape" — both decoded as geometric pixel images. The message claims the "Textpic" communication protocol is from the future, suggesting ET foreknowledge or temporal asymmetry. RC identified and translated this encoding fully in December 2019.
