@@ -1,0 +1,234 @@
+---
+title: Physics — Equations, Chains of Reasoning, Mechanical/EM Relationships, Beyond Newtonian
+source_dir: tweets/8/9
+author: Red Collie (Dr. Horace Drew), @RedCollie1
+extracted: 2026-04-22
+---
+
+# Physics: Equations, Reasoning Chains, and Non-Classical Claims
+
+## 1. Homopolar Motor / Faraday Disc Physics (Classical Baseline)
+
+The experimental starting point is the ring homopolar motor (video 13_1915717464387969024,
+tweet 1915717905691664490).
+
+### Governing Equations
+
+Faraday disc EMF for a conducting disc rotating at angular velocity ω in axial field B_z:
+
+    EMF = ∫_{r_inner}^{r_outer} (v × B) · dr
+        = ∫_{r_inner}^{r_outer} (ω r B_z) dr
+        = (1/2) ω B_z (r_outer² - r_inner²)
+
+For motor operation (driving current I radially):
+
+    Torque τ = ∫_{r_inner}^{r_outer} r × (I/A)(dr × B_z)
+
+where A is the cross-sectional area of the conductor. The integrated torque becomes:
+
+    τ = I B_z (r_outer² - r_inner²) / 2  [for uniform current density]
+
+The Lorentz force per unit volume on conducting material carrying current density J in field B:
+
+    f = J × B
+
+For radial current density J_r in axial field B_z:
+    f_φ = J_r B_z   (azimuthal force component → rotation)
+    f_z = 0          (no axial force in purely radial current + axial field geometry)
+
+Key point: in the pure Faraday disc geometry, no Z-axis force (lift) is produced. The
+homopolar motor is therefore the classical base from which Drew's claimed anomalous Z-axis
+lift departs.
+
+## 2. Three-Phase Rotating Magnetic Field Physics (Classical)
+
+Three coils UVW at 120° spatial offset, driven at 120° temporal phase offset:
+
+    B_U(t) = B₀ cos(ωt)         [spatially at 0°]
+    B_V(t) = B₀ cos(ωt - 2π/3) [spatially at 120°]
+    B_W(t) = B₀ cos(ωt - 4π/3) [spatially at 240°]
+
+The resultant horizontal field vector magnitude is constant and rotates at angular frequency ω:
+
+    |B_total(t)| = (3/2) B₀ = constant
+
+    θ_field(t) = ωt
+
+This is the standard result for a balanced three-phase winding (Nikola Tesla's rotating
+magnetic field, cited by Drew as the inventor).
+
+The rotating field interacts with the axial magnetic moment μ of the permanent disc magnet:
+
+    τ = μ × B_total(t)
+
+This torque, applied continuously as the field rotates, accelerates the magnet to spin at or
+near ω (synchronous operation) or below ω (induction/asynchronous operation with slip).
+
+## 3. Spin-Up Dynamics and the Lift-Frequency Relationship
+
+Empirical data from the levitation experiment (video 13_2039489617280507904):
+
+    m_total = 80 g  →  f_threshold ≈ 15 Hz  →  ω_threshold ≈ 94.2 rad/s
+    m_total = 120 g →  f_threshold ≈ 20 Hz  →  ω_threshold ≈ 125.7 rad/s
+    m_total = 200 g →  f_threshold ≈ 25 Hz  →  ω_threshold ≈ 157.1 rad/s
+
+Dimensional analysis of a hypothetical force law F_z = k ω^α m^β:
+
+At lift threshold, F_z = m g:
+    k ω^α m^β = m g
+    k ω^α = m^(1-β) g
+
+From the data:
+    m₁ = 0.080 kg, ω₁ = 94.2 rad/s
+    m₂ = 0.120 kg, ω₂ = 125.7 rad/s
+    m₃ = 0.200 kg, ω₃ = 157.1 rad/s
+
+If k ω^α = m^(1-β) g:
+    ω₂/ω₁ = (m₂/m₁)^((1-β)/α) = (120/80)^((1-β)/α) = 1.5^((1-β)/α)
+    125.7/94.2 = 1.334
+
+    1.5^((1-β)/α) = 1.334
+    (1-β)/α = log(1.334)/log(1.5) = 0.288/0.405 = 0.711
+
+Similarly for the third pair:
+    ω₃/ω₁ = (200/80)^((1-β)/α) = 2.5^((1-β)/α)
+    157.1/94.2 = 1.667
+    2.5^((1-β)/α) = 1.667
+    (1-β)/α = log(1.667)/log(2.5) = 0.511/0.916 = 0.558
+
+The exponent ratio is not consistent across the three data points, suggesting either
+measurement noise or that the functional form is not a pure power law. Drew does not
+derive an explicit scaling relation. The data is presented as experimental evidence of lift.
+
+## 4. The Reversal Test: Distinguishing Mechanical vs. Field-Mediated Lift
+
+Drew inverts the magnet 180° and observes that lift is preserved with ~150 g load. His
+reasoning:
+
+* If lift were due to mechanical contact forces (rod friction, pneumatic drag pushing up),
+  reversing the magnet orientation would not change those forces — they would remain upward.
+* If lift were due to a purely mechanical gyroscopic effect (conservation of angular momentum
+  of a spinning body), reversal of the magnet would not affect it — the angular momentum L = Iω
+  continues in the same direction.
+* HOWEVER: if the source of lift were, say, a specific polarity of the magnetic field
+  interacting with the driving coils (North pole preferentially pulled up), then reversing
+  would push the magnet DOWN, not up. The reversal test shows lift persists → the lift is NOT
+  due to a specific pole orientation.
+
+Drew's conclusion: "So we know this pushed against the vacuum not to pull itself."
+
+Physics interpretation: The lift is associated with the spinning state itself (angular
+velocity ω, moment of inertia I, and field configuration), not with the polarity orientation
+of the static dipole moment. This is consistent with a classical gyroscopic Magnus-type effect
+OR with Drew's non-classical vacuum-interaction claim.
+
+## 5. Force Balance and Scaling to Full-Size Propulsion
+
+Drew explicitly addresses the coil-mass vs. lift-mass efficiency problem:
+
+    System mass: ~1000 g (copper coils) + 80 g (magnet) + mechanical structure
+    Useful lift at 25 Hz: 200 g (magnet + collars)
+    Efficiency: 200 g lift / 1000 g coil mass = 0.20 (below break-even for flight)
+
+Proposed engineering solution:
+* Replace copper coils (ρ = 8.96 g/cm³) with aluminum coils (ρ = 2.70 g/cm³):
+  mass reduction factor ≈ 8.96/2.70 = 3.32 for identical coil geometry.
+  Aluminum coil mass ≈ 1000/3.32 = 301 g.
+* Use higher-temperature insulation to allow P = I²R operation at higher current and power
+  without conductor degradation → higher B field → higher F_z at same or lower frequency.
+
+This is a standard engineering optimization (material selection + thermal management), with
+the goal of achieving mass efficiency η = F_z / (m_total × g) > 1.
+
+## 6. Counter-Spin and Newton's Third Law
+
+Classical statement (Newton's Third Law applied to magnetic propulsion):
+For any electromagnetic system producing an upward force F_up on the magnet, there exists
+an equal and opposite downward force F_down on the field-producing coils:
+
+    F_up = -F_down   (Newton's Third Law)
+
+This is enforced by conservation of momentum and is not violated in any known classical or
+quantum field theory for systems with no expulsion of mass or radiation.
+
+Drew's proposed exception mechanism:
+* A counter-rotating outer ring of magnets generates a counter-field that, Drew claims,
+  cancels the downward reaction on the coils while preserving the upward force on the
+  central magnet.
+* The counter-spin is specifically modeled on the Edwin Fuhr (Canada, 1974) UAP observation
+  where the craft itself rotated clockwise while the surrounding grass rotated counter-clockwise
+  (video 13_1995658911228329985, transcript: "It's going counterclockwise. Grass is moving one
+  way and the machine was going the other way.").
+
+Stated test (tweet 1927937215071670353, note_tweet): "If the rising magnet and pole do not
+create any downward back-reaction in those six, 3-phase wire coils, then we will have an
+authentic 'UFO'."
+
+## 7. QED and QCD Criticism (tweet 1953355302453043415)
+
+Drew makes a brief but pointed claim: "Grok is not intelligent, and does not even realize
+that QED and QCD are fundamentally in error (as Dirac said)."
+
+This references Paul Dirac's late-career criticisms of quantum field theory, particularly:
+* Dirac's objections to renormalization: "This is just not sensible mathematics. And to those
+  who feel that, this is a sign that the theory is fundamentally wrong."
+* Dirac's advocacy for a theory with no infinities.
+
+Drew aligns his physics program with Dirac's critique — implying that the anomalous magnetic
+levitation effects he observes may require a corrected quantum field theory (beyond QED/QCD)
+to explain. He does not provide explicit alternative equations.
+
+## 8. Galinstan Spin via 3-Phase Linear Induction (tweet reference 2014994939780932026)
+
+Proposed liquid-metal rotor:
+* Galinstan (Ga-In-Sn eutectic, liquid at room temperature, electrical conductivity
+  σ ≈ 3.46 × 10⁶ S/m) as a liquid-metal rotor.
+* Drive mechanism: 3-phase linear induction motor principle, producing a traveling EM wave:
+    B(x,t) = B₀ cos(kx - ωt)
+* Induced EMF in the liquid: ε ∝ (dB/dt) × volume
+* Induced current density: J = σ E_induced (Ohm's law in the conductor frame)
+* Lorentz body force on the liquid: f = J × B (body force per unit volume, drives bulk flow)
+
+Alternatively, Lorentz force ("two crossed lizards" = two mutually perpendicular currents in
+crossed B fields):
+    F = I₁(L₁ × B) + I₂(L₂ × B)
+
+The "right-hand rule" describes the cross product geometry for force direction.
+
+## 9. 3I/ATLAS Anomalous Jet Streams (tweet 1989090430865334557)
+
+Drew cites a Daily Mail report:
+"New photos of 3I/ATLAS spotted two giant jet-like streams blasting out for hundreds of
+thousands of miles from the object's surface, which defy the laws of science."
+
+Standard comet tail physics:
+* Cometary tails are produced by solar radiation pressure (photon momentum transfer) acting
+  on dust grains and by solar wind interaction with ionized gas (Type I ion tail, radially
+  away from Sun; Type II dust tail, along orbit path).
+* Two simultaneous jet-like streams NOT aligned with the solar radiation vector are
+  inconsistent with passive radiation pressure physics.
+* Drew implies this anomaly supports the interpretation of 3I/ATLAS as a controlled UAP
+  rather than a natural comet.
+
+This is a claim about anomalous astrophysical observations, not a laboratory physics result.
+
+## 10. Spin Mechanisms: Two Fundamental Routes (Drew's Taxonomy)
+
+Drew asserts (note_tweet 1966850678472753648):
+"There are only two ways to make something spin: by the Lorentz force and/or by 3-phase power."
+
+Formalization:
+
+Route 1 — Lorentz Force:
+    F = q(v × B)
+    Integrated as dF = I(dL × B) for current-carrying conductor
+    Produces torque τ = r × dF → angular acceleration α = τ/I_moment
+
+Route 2 — 3-Phase Rotating Magnetic Field:
+    B_rotating(t) = (3/2)B₀ [cos(ωt) x̂ + sin(ωt) ŷ]
+    Torque on magnetic moment: τ = μ × B_rotating
+    → Synchronous spin at field frequency ω or asynchronous with slip
+
+These two routes are not independent: the rotating field itself acts via Lorentz forces on
+the rotor. Drew's taxonomy distinguishes DC Lorentz-driven rotation (homopolar motor) from
+AC 3-phase-driven rotation (induction/synchronous motor). Both are classical EM.

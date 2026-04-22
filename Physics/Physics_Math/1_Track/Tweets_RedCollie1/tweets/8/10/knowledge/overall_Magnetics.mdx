@@ -1,0 +1,200 @@
+# overall_Magnetics.mdx
+# All Magnetic Field Content: Theory, Applied, Beyond Classical EM
+# Source: RedCollie1 (Dr. Horace Drew) tweets and associated video/image transcriptions, batch 8/10
+# Extracted 2026-04-22. Append only; never overwrite.
+
+---
+
+## 1. Three-Phase Rotating Magnetic Field: Fundamental Configuration
+
+Source: YAML 1916093709445194077; MDX 13_1916093512992653312_video.mdx
+
+### Three-Phase Field Geometry
+A three-phase AC system drives three spatially separated coils, each displaced by 120 degrees
+in phase angle (phi_k = k * 2*pi/3, k = 0, 1, 2).
+
+If each coil produces a field component:
+B_k(t) = B_0 * cos(omega*t - phi_k) * hat_n_k
+
+where hat_n_k is the unit vector along coil k's axis, then for three coils arranged at 120-degree
+spatial intervals in a plane, the superposition produces a spatially rotating field of constant
+magnitude B_0, rotating at angular frequency omega:
+B_total = B_0 * [cos(omega*t) * hat_x + sin(omega*t) * hat_y]
+
+This is the standard symmetrical three-phase rotating field.
+
+### XY-Plane vs. Z-Axis Field Orientation
+The experiment explicitly distinguishes two configurations:
+(a) Vertical wire coils: field vector rotates in the HORIZONTAL (XY) plane. The axis of rotation
+is vertical (Z-axis). This is the standard configuration for a three-phase induction motor.
+(b) Horizontal wire coils: field vector rotates about an axis in the horizontal plane. This places
+the rotating field 90 degrees from configuration (a).
+
+The critical experiment uses vertical wire coils (configuration a), producing a horizontal rotating
+field, and drives a vertical-axis-of-symmetry permanent magnet into spin.
+
+### Z-Axis Field Implications
+When the rotating field is in the XY-plane, the torque on the permanent magnet dipole (moment
+vector m aligned with the magnet's axis, initially vertical, i.e., along Z):
+tau = m x B_total
+
+B_total rotates in XY; m is along Z. The cross product m x B_total lies in the XY-plane and
+acts to precess the magnet's spin axis. This is the mechanism underlying the Newtonian-to-non-
+Newtonian spin transition (see overall_Physics.mdx).
+
+---
+
+## 2. Magnetic Repulsion Bearing
+
+Source: MDX 13_1916093512992653312_video.mdx
+
+Configuration: "below there's another magnet holding it up by repulsion of stability."
+This is a passive magnetic bearing:
+- A fixed lower magnet (same pole facing up) repels the lower end of the magnet/rod assembly.
+- Provides passive Z-axis support force F_z = -dU_mag/dz, where U_mag is the potential energy
+of the dipole-dipole interaction.
+- For two co-axial magnetic dipoles with moments m_1 and m_2 aligned anti-parallel (repulsive):
+  U(z) = (mu_0 / 4*pi) * (2*m_1*m_2 / z^3) [leading term, dipole approximation]
+  F_z = -dU/dz = -3*(mu_0 / 2*pi) * (m_1*m_2 / z^4) [repulsive, upward on upper magnet]
+
+This provides a non-contact, passive Z-axis support that allows free rotation without mechanical
+bearing friction (neglecting air drag).
+
+Note: passive magnetic bearings are unstable in all but the axial direction by Earnshaw's Theorem
+(no stable equilibrium of a static charge/dipole in free space from static fields alone). The
+vertical confinement is stabilized here by the rod constraint (the rod slides in a guide), providing
+radial confinement mechanically while the magnetic repulsion provides axial support.
+
+---
+
+## 3. Permanent Magnet Dimensions and Spin Dynamics
+
+Source: MDX 13_1916093512992653312_video.mdx
+
+Magnet dimensions: 70 mm diameter, 14 mm central hole (annular magnet, ring magnet type).
+Mounted on 8 mm aluminum rod.
+
+For a ring magnet of outer radius R_out = 35 mm, inner radius R_in = 7 mm, height h (not
+specified explicitly), the axial magnetic field on-axis and the dipole moment are determined by:
+m = M * V_magnet = M * pi*(R_out^2 - R_in^2)*h
+
+where M is magnetization (A/m). The moment of inertia for rotation about the Z-axis:
+I_z = (1/2) * rho * V * (R_out^2 + R_in^2)
+
+For the angular momentum at critical frequency f_c = 25 Hz:
+L = I_z * omega_c = I_z * 2*pi*f_c
+
+The gyroscopic precession rate Omega_p = tau / L = (m x B) / (I_z * omega_c), which decreases
+as omega_c increases, explaining the transition from Newtonian screw-advance to gyroscopic levitation.
+
+---
+
+## 4. Five-Phase Power for Buga Orb-Sphere
+
+Source: MDX 13_1934832086625710080_video.mdx; YAML 1934832303014072827
+
+Five-phase system: five coils at 72-degree phase spacing (phi_k = k * 2*pi/5, k = 0..4).
+The five-phase rotating field:
+B_total(t) = (5*B_0/2) * [cos(omega*t) * hat_x + sin(omega*t) * hat_y]
+
+The magnitude of the rotating field for an N-phase balanced system is (N/2)*B_0, so five-phase
+gives 2.5*B_0 amplitude rotating field vs. (3/2)*B_0 for three-phase. Five-phase is smoother
+(lower harmonic content, reduced torque ripple) and produces a higher effective field amplitude
+per coil current than three-phase.
+
+Laboratory three-phase analog: three coils at 120-degree spacing drive the experiment with
+comparable geometry to what the Buga orb-sphere allegedly uses with five phases.
+
+---
+
+## 5. Lorentz Force on Conducting Fluids (Galinstan)
+
+Source: YAML 1995974865439129760; YAML 2014995810874966207 (referenced_tweet)
+
+Maxwell equation (Ampere's law with displacement current):
+curl B = mu_0 * (J + epsilon_0 * dE/dt)
+
+For a conductor in quasi-static approximation (low frequency, displacement current negligible):
+curl B ~ mu_0 * J
+J = sigma * (E + v x B) [Ohm's law in a moving conductor, sigma = conductivity]
+
+The electromagnetic body force on the conducting fluid:
+f_body = J x B [N/m^3]
+
+For DC conduction through galinstan:
+J applied by external electrodes; B applied by external permanent magnets or coils.
+The J x B force drives azimuthal rotation.
+
+For three-phase induction drive (no DC electrodes):
+Traveling magnetic wave induces eddy currents J_eddy in galinstan.
+J_eddy x B_applied produces distributed torque, driving rotation without ohmic electrode contact.
+This is the homopolar induction drive principle.
+
+Right-hand rule: J x B gives direction of force. The experimenter notes "interesting how they
+describe the right-hand rule!" in the context of crop circle imagery showing this principle.
+
+---
+
+## 6. Counter-Rotating Magnetic Flywheels: Angular Momentum Cancellation
+
+Source: YAML 2027846997080977894
+
+Two magnetic flywheels spinning in opposite directions:
+Flywheel 1: angular momentum L_1 = I_1 * omega_1 (e.g., +Z direction)
+Flywheel 2: angular momentum L_2 = I_2 * (-omega_2) (-Z direction)
+Net angular momentum: L_net = L_1 - L_2 = I_1*omega_1 - I_2*omega_2
+
+For L_net = 0: I_1*omega_1 = I_2*omega_2 (balanced counter-rotation).
+
+With zero net angular momentum, the system can generate forces in any direction without
+gyroscopic reaction torque coupling. The magnetic coupling between the two spinning flywheels
+produces rotating fields that can drive each other or interact with an external field.
+
+The CARET program (claimed origin: classified reverse-engineering study) is cited as having
+studied this architecture. Crop circle imagery is claimed to show this counter-rotating double
+flywheel design "many places."
+
+---
+
+## 7. Three-Phase Inside, Linear Induction Outside Topology
+
+Source: YAML 2014995810874966207
+
+Proposed dual-drive topology for galinstan-based propulsion:
+- Inner region: standard three-phase rotating field from coils surrounding the liquid metal.
+  Produces rotating field B_inner(t) in XY-plane.
+- Outer region: linear induction motor arrangement, producing a traveling magnetic wave along
+  the Z-axis or the phi-direction.
+
+The interaction:
+- Inner field drives bulk rotation of galinstan (azimuthal current J_phi induced or directly driven).
+- Outer linear induction field modifies the J distribution in galinstan to produce net Z-directed
+  Lorentz force.
+
+This separation of azimuthal spin drive (inner, 3-phase) from linear propulsion drive (outer,
+linear induction) may allow independent control of spin rate and thrust vector.
+
+---
+
+## 8. Electromagnetic Device Hardware: Coil Configuration for Experiments
+
+Source: TXT 13_1916093512992653312_preview.txt
+
+Two large spool-wound coil assemblies, each approximately 10 cm diameter, wound with multiple
+layers of copper wire. The coil inductance (for a multi-layer solenoid):
+L = mu_0 * N^2 * A / l [single-layer approximation]
+or for multi-layer, using Nagaoka's coefficient K_L:
+L = K_L * mu_0 * N^2 * A / l
+
+Uniform layer-by-layer winding ensures:
+1. Predictable inductance (L determined by geometry).
+2. Reduced self-resonance frequency (smaller parasitic capacitance between turns compared
+   to random winding).
+3. Reproducible field distribution: B(z) = mu_0 * n * I * K_L (uniform field for long solenoid,
+   with end corrections for finite length).
+
+Power supply type: ATX modified bench supply (12V DC rail, ~20A capability typical). This
+suggests three-phase waveforms are generated by a downstream inverter/driver stage, not by
+the ATX supply directly (ATX provides DC; inverter creates three-phase AC from DC).
+
+*Extracted from source files by AI. No content has been invented; all content is drawn directly from the source materials.*
