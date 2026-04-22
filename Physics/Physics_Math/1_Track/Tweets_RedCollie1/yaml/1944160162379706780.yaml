@@ -1,0 +1,78 @@
+id: '1944160162379706780'
+url: https://x.com/RedCollie1/status/1944160162379706780
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: NEW! See https://t.co/4sC7ylwmFf https://t.co/HeLtnHteo2
+created_at: '2025-07-12T22:21:18.000Z'
+lang: en
+conversation_id: '1944160162379706780'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 35
+  reply_count: 28
+  like_count: 272
+  quote_count: 6
+  bookmark_count: 51
+  impression_count: 13192
+entities:
+  urls:
+  - start: 9
+    end: 32
+    url: https://t.co/4sC7ylwmFf
+    expanded_url: https://www.cropcircleconnector.com/2025/beech/beech2025a.html
+    display_url: cropcircleconnector.com/2025/beech/bee…
+    images:
+    - url: https://pbs.twimg.com/news_img/2037759114009276416/6AI03xv2?format=jpg&name=orig
+      width: 800
+      height: 1200
+    - url: https://pbs.twimg.com/news_img/2037759114009276416/6AI03xv2?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Crop Circle at Beech Clump, Nr Ludwell, Wiltshire. Reported 12th July 2025
+    description: Beech Clump, Nr Ludwell, Wiltshire. Reported 12th July No permission
+      to enter has been granted as of yet, keep an eye on Monique's page here for
+      updates FOR VISITING THE CROP
+    unwound_url: https://www.cropcircleconnector.com/2025/beech/beech2025a.html
+  - start: 33
+    end: 56
+    url: https://t.co/HeLtnHteo2
+    expanded_url: https://x.com/RedCollie1/status/1944160162379706780/photo/1
+    display_url: pic.x.com/HeLtnHteo2
+    media_key: '3_1944160086513123328'
+attachments:
+  media_keys:
+  - '3_1944160086513123328'
+media:
+- media_key: '3_1944160086513123328'
+  type: photo
+  width: 800
+  height: 460
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvsLTE8bgAAf2m1.png
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

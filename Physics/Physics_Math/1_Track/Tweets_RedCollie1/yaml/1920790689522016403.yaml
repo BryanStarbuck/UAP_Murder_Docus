@@ -1,0 +1,84 @@
+id: '1920790689522016403'
+url: https://x.com/RedCollie1/status/1920790689522016403
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Propeller 🛸 https://t.co/NffAzo1bRG
+created_at: '2025-05-09T10:39:21.000Z'
+lang: fr
+conversation_id: '1920735553605214500'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 35
+  quote_count: 0
+  bookmark_count: 11
+  impression_count: 4956
+entities:
+  urls:
+  - start: 12
+    end: 35
+    url: https://t.co/NffAzo1bRG
+    expanded_url: https://x.com/RedCollie1/status/1920790689522016403/photo/1
+    display_url: pic.x.com/NffAzo1bRG
+    media_key: '3_1920790528654012420'
+  - start: 12
+    end: 35
+    url: https://t.co/NffAzo1bRG
+    expanded_url: https://x.com/RedCollie1/status/1920790689522016403/photo/1
+    display_url: pic.x.com/NffAzo1bRG
+    media_key: '3_1920790570638741504'
+attachments:
+  media_keys:
+  - '3_1920790528654012420'
+  - '3_1920790570638741504'
+media:
+- media_key: '3_1920790528654012420'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqgEzxxbcAQBoxa.jpg
+- media_key: '3_1920790570638741504'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqgE2OLXkAAy4NV.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1920735553605214500'
+  text: 'Here is a simple, clear summary of my latest progress at re-creating the
+    physics of "UFO levitation".
+
+    Do you know what the "focal point" of a ring-magnet might be? Neither did I, until
+    a few days ago!
+
+    Please watch, study and see what you think?
+
+    Tried to make this video as simple https://t.co/JE3LU65Brj'
+has_video: false
+has_image: true
+media_count: 2

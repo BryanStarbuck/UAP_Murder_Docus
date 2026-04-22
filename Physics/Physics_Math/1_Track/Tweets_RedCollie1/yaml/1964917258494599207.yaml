@@ -1,0 +1,157 @@
+id: '1964917258494599207'
+url: https://x.com/RedCollie1/status/1964917258494599207
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'In a final post today, I will explain the physics behind a potentially new
+  way to get non-Newtonian forces for UFO levitation.
+
+  Movie 1 shows how spin angular momentum is usually conserved in most physical systems.
+  If you spin a "wheel" one way, then a "boat" spins the other way. https://t.co/ixYSH8JqBj'
+created_at: '2025-09-08T05:02:35.000Z'
+lang: en
+conversation_id: '1964917258494599207'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 21
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 1949
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/ixYSH8JqBj
+    expanded_url: https://x.com/RedCollie1/status/1964917258494599207/video/1
+    display_url: pic.x.com/ixYSH8JqBj
+    media_key: '13_1964912194107457536'
+  - start: 280
+    end: 303
+    url: https://t.co/ixYSH8JqBj
+    expanded_url: https://x.com/RedCollie1/status/1964917258494599207/video/1
+    display_url: pic.x.com/ixYSH8JqBj
+    media_key: '13_1964912403545804801'
+  - start: 280
+    end: 303
+    url: https://t.co/ixYSH8JqBj
+    expanded_url: https://x.com/RedCollie1/status/1964917258494599207/video/1
+    display_url: pic.x.com/ixYSH8JqBj
+    media_key: '13_1964913091323502592'
+attachments:
+  media_keys:
+  - '13_1964912194107457536'
+  - '13_1964912403545804801'
+  - '13_1964913091323502592'
+media:
+- media_key: '13_1964912194107457536'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964912194107457536/img/lv5lmV6G_ANuxqcK.jpg
+  duration_ms: 23256
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912194107457536/vid/avc1/480x270/MdEc5jnwM8SRMSYt.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912194107457536/vid/avc1/640x360/WFUJzAfVA4R5nSwf.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912194107457536/vid/avc1/1280x720/f2OLUAXRNtkfRDuD.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964912194107457536/pl/fWxrMxQUKHHp37h4.m3u8?v=9e7
+  public_metrics:
+    view_count: 959
+- media_key: '13_1964912403545804801'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964912403545804801/img/k_zWNliK99Sr8Ccu.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912403545804801/vid/avc1/480x270/MNUPpI5HMSOxjxlf.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912403545804801/vid/avc1/640x360/h2bFtopQ4GjJe589.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964912403545804801/vid/avc1/1280x720/KeuLe3aCP04kguBz.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964912403545804801/pl/Ikhi1QA5p8376e4t.m3u8
+  public_metrics:
+    view_count: 174
+- media_key: '13_1964913091323502592'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964913091323502592/img/d__aJ2BZtCZ4yzKF.jpg
+  duration_ms: 31120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964913091323502592/vid/avc1/480x270/lgf9dfPOgXC9_iLs.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964913091323502592/vid/avc1/640x360/GOGs3gT-2hieBTOs.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964913091323502592/pl/BeKLp1hd1LNsm30I.m3u8
+  public_metrics:
+    view_count: 114
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "In a final post today, I will explain the physics behind a potentially new\
+    \ way to get non-Newtonian forces for UFO levitation.\nMovie 1 shows how spin\
+    \ angular momentum is usually conserved in most physical systems. If you spin\
+    \ a \"wheel\" one way, then a \"boat\" spins the other way.\nMovie 2 shows how\
+    \ the Lorentz force of electromagnetism seems to be an exception to this general\
+    \ rule. A large magnet and small wires spin in opposite directions, when electric\
+    \ current is added. Yet the large magnet is MUCH heavier than those small wires!\
+    \ Still they spin at approximately the same speed in opposite directions.\nMovie\
+    \ 3 shows how that same Lorentz force of electromagnetism can make liquid mercury\
+    \ spin in an aluminum bowl, when DC current is added. We can see forward spinning\
+    \ motion, but no reverse counter-spinning motion, like for the \"kick\" of a shotgun.\
+    \ \nThis may be because the Lorentz force comes about, after an inward or outward\
+    \ electrical force curves 90 degrees, due the underlying spin of an electron.\
+    \ Any 3rd Law reactive force would therefore point in some non-spinning direction,\
+    \ and become undetectable. \nSuch a non-Newtonian force would be a pre-requisite\
+    \ in any model of UFO-style propulsion. Still, for the examples shown in movies\
+    \ 2 and 3, the conductor only spins in a plane, and does not go upward!\nTo make\
+    \ such a non-Newtonian force GO UPWARD, could we use 3-phase power to create a\
+    \ \"helical\" magnetic field? \nWhen the induced magnetic field of that mercury\
+    \ vortex gets acted upon by a 3-phase magnetic field, the Lorentz force might\
+    \ begin to follow an upward 3-D \"helix\", rather than a 2-D \"plane\". \nI will\
+    \ test this interesting and plausible hypothesis soon. Others can also test if\
+    \ they wish. This exception to Newton's 3rd Law seems wide enough to \"drive a\
+    \ truck through\". TO THE STARS! \U0001F6F8"

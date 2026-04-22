@@ -1,0 +1,75 @@
+id: '1959423377011363896'
+url: https://x.com/RedCollie1/status/1959423377011363896
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Q &gt; "Watch the water" 🛸 https://t.co/3NZQJ2uRoa
+created_at: '2025-08-24T01:11:52.000Z'
+lang: en
+conversation_id: '1959423377011363896'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 42
+  reply_count: 11
+  like_count: 206
+  quote_count: 1
+  bookmark_count: 36
+  impression_count: 10607
+entities:
+  urls:
+  - start: 27
+    end: 50
+    url: https://t.co/3NZQJ2uRoa
+    expanded_url: https://x.com/RedCollie1/status/1959423377011363896/video/1
+    display_url: pic.x.com/3NZQJ2uRoa
+    media_key: '13_1959423125181104128'
+attachments:
+  media_keys:
+  - '13_1959423125181104128'
+media:
+- media_key: '13_1959423125181104128'
+  type: video
+  width: 608
+  height: 1080
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1959423125181104128/img/lVCASU3Vjs5fLccD.jpg
+  duration_ms: 30534
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959423125181104128/vid/avc1/320x568/jYm9AVVY6kGRGz-L.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959423125181104128/vid/avc1/480x852/Nse89pGkAlF1-06M.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959423125181104128/vid/avc1/608x1080/olcggmh_lIDOgcT_.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1959423125181104128/pl/J-BUY4YnzZATS9Li.m3u8?v=3fa
+  public_metrics:
+    view_count: 5702
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

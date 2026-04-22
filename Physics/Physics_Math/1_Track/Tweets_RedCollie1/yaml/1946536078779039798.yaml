@@ -1,0 +1,69 @@
+id: '1946536078779039798'
+url: https://x.com/RedCollie1/status/1946536078779039798
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Christnas in July 2025 in Australia ✝️ https://t.co/pwiMLNut5J
+created_at: '2025-07-19T11:42:20.000Z'
+lang: en
+conversation_id: '1946536078779039798'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1076
+entities:
+  urls:
+  - start: 39
+    end: 62
+    url: https://t.co/pwiMLNut5J
+    expanded_url: https://x.com/RedCollie1/status/1946536078779039798/video/1
+    display_url: pic.x.com/pwiMLNut5J
+    media_key: '7_1946536045157208064'
+attachments:
+  media_keys:
+  - '7_1946536045157208064'
+media:
+- media_key: '7_1946536045157208064'
+  type: video
+  width: 320
+  height: 568
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/ext_tw_video_thumb/1946536045157208064/pu/img/YM_vDL2g_7CBj1qy.jpg
+  duration_ms: 48475
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/ext_tw_video/1946536045157208064/pu/vid/avc1/320x568/wFqKwYnBzB-7sS5T.mp4?tag=12
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/ext_tw_video/1946536045157208064/pu/pl/Yrv0pVlN5N-BdeI9.m3u8?tag=12&v=16e
+  public_metrics:
+    view_count: 486
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

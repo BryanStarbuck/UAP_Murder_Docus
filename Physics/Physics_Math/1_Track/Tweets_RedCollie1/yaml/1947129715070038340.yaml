@@ -1,0 +1,78 @@
+id: '1947129715070038340'
+url: https://x.com/RedCollie1/status/1947129715070038340
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Winter in Australia 4 https://t.co/vSh2bgTAQk
+created_at: '2025-07-21T03:01:14.000Z'
+lang: en
+conversation_id: '1947129715070038340'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1292
+entities:
+  urls:
+  - start: 22
+    end: 45
+    url: https://t.co/vSh2bgTAQk
+    expanded_url: https://x.com/RedCollie1/status/1947129715070038340/video/1
+    display_url: pic.x.com/vSh2bgTAQk
+    media_key: '13_1947129624921534465'
+attachments:
+  media_keys:
+  - '13_1947129624921534465'
+media:
+- media_key: '13_1947129624921534465'
+  type: video
+  width: 1080
+  height: 1920
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1947129624921534465/img/i_SO7NYtlrvxZFyI.jpg
+  duration_ms: 19546
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1947129624921534465/vid/avc1/1080x1920/N_mDJa1KdLdGNxQS.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1947129624921534465/pl/eef-YDWM8nMOTQGf.m3u8?v=cfc
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1947129624921534465/vid/avc1/320x568/BDybTlFOROir9gg8.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1947129624921534465/vid/avc1/480x852/tTiY2r4W88EqwS2R.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1947129624921534465/vid/avc1/720x1280/wqqtg722neJO1GlY.mp4
+  public_metrics:
+    view_count: 581
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

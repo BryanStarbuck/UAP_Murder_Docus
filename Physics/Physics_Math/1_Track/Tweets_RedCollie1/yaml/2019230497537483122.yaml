@@ -1,0 +1,85 @@
+id: '2019230497537483122'
+url: https://x.com/RedCollie1/status/2019230497537483122
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I pretty much have it now.\nSix wire coils given 3-phase power as U-V-W-U-V-W\
+  \ in series will make a magnetic field spin very well, opposite the direction of\
+  \ the rotating magnetic field, using 8 N-S-N-S-N-S-N-S magnets. \nA big magnet placed\
+  \ at the center will not spin at all.\nIf we https://t.co/7EBa2VRsLa"
+created_at: '2026-02-05T02:04:00.000Z'
+lang: en
+conversation_id: '2019230497537483122'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 4
+  like_count: 68
+  quote_count: 0
+  bookmark_count: 14
+  impression_count: 2185
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/7EBa2VRsLa
+    expanded_url: https://x.com/RedCollie1/status/2019230497537483122/video/1
+    display_url: pic.x.com/7EBa2VRsLa
+    media_key: '13_2019229679966908419'
+attachments:
+  media_keys:
+  - '13_2019229679966908419'
+media:
+- media_key: '13_2019229679966908419'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019229679966908419/img/bXradOYbZfWviXEa.jpg
+  duration_ms: 176342
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019229679966908419/vid/avc1/480x270/8Zlgiy4jbrp3LDFu.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019229679966908419/vid/avc1/640x360/1_UyNsQ-bIK_I3He.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019229679966908419/vid/avc1/1280x720/iYvt69ckkJ-JIxwf.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019229679966908419/pl/JWEnOIHtA3a8kbkb.m3u8
+  public_metrics:
+    view_count: 783
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "I pretty much have it now.\nSix wire coils given 3-phase power as U-V-W-U-V-W\
+    \ in series will make a magnetic field spin very well, opposite the direction\
+    \ of the rotating magnetic field, using 8 N-S-N-S-N-S-N-S magnets. \nA big magnet\
+    \ placed at the center will not spin at all.\nIf we used 9 coils, then we would\
+    \ need 12 N-S magnets, as Norman Paulson saw on a UFO. \nPlease compare with videos\
+    \ of \"alien drones\" as shown in comments below? \U0001F6F8"

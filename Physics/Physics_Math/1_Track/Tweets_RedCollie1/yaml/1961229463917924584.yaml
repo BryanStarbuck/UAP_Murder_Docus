@@ -1,0 +1,76 @@
+id: '1961229463917924584'
+url: https://x.com/RedCollie1/status/1961229463917924584
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Nickel (and cyanide) are being released as 3I/ATLAS gets closer to the Sun.\
+  \ No iron. \nThis combination can only come from the heat-related decay of a nickel-cyanide\
+  \ coating, which is often used to protect other metals (such as iron) from corrosion.\
+  \ No possible source in nature is https://t.co/opEPM3kUDU"
+created_at: '2025-08-29T00:48:36.000Z'
+lang: en
+conversation_id: '1961226935750815857'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 11
+  reply_count: 4
+  like_count: 47
+  quote_count: 1
+  bookmark_count: 10
+  impression_count: 5037
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/opEPM3kUDU
+    expanded_url: https://x.com/RedCollie1/status/1961229463917924584/photo/1
+    display_url: pic.x.com/opEPM3kUDU
+    media_key: '3_1961228360580993025'
+attachments:
+  media_keys:
+  - '3_1961228360580993025'
+media:
+- media_key: '3_1961228360580993025'
+  type: photo
+  width: 1000
+  height: 671
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzeuzYvaEAEyOA5.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1961226935750815857'
+  text: New evidence for "nickel electroplating" of 3I/ATLAS! Nickel-cyanide coating
+    is a protective layer made by electroplating, to provide a durable, bright, and
+    corrosion-resistant surface for other metals. When that coating gets hot, free
+    nickel and cyanide will be released into a
+has_video: false
+has_image: true
+media_count: 1
+note_tweet:
+  text: "Nickel (and cyanide) are being released as 3I/ATLAS gets closer to the Sun.\
+    \ No iron. \nThis combination can only come from the heat-related decay of a nickel-cyanide\
+    \ coating, which is often used to protect other metals (such as iron) from corrosion.\
+    \ No possible source in nature is known. \nThe coated outer surface of 3I/ATLAS\
+    \ is getting hotter and hotter as it approaches our Sun. So we begin to see both\
+    \ nickel and cyanide in its gaseous coma."

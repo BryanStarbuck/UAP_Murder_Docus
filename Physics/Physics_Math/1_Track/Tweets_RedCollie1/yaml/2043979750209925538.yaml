@@ -1,0 +1,84 @@
+id: '2043979750209925538'
+url: https://x.com/RedCollie1/status/2043979750209925538
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The careful study of alien crop pictures has led me to discover a new kind\
+  \ of physics, where a non-spinning magnetic attraction turns into a spinning magnetic\
+  \ repulsion. \nThis \"may\" have something to do with the mysterious UFO physics.\
+  \ I will be studying it more soon.\U0001F6F8\nWhen I https://t.co/nyFbSGeKsT"
+created_at: '2026-04-14T09:08:42.000Z'
+lang: en
+conversation_id: '2043979750209925538'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 3
+  like_count: 119
+  quote_count: 1
+  bookmark_count: 26
+  impression_count: 3731
+entities:
+  urls:
+  - start: 277
+    end: 300
+    url: https://t.co/nyFbSGeKsT
+    expanded_url: https://x.com/RedCollie1/status/2043979750209925538/video/1
+    display_url: pic.x.com/nyFbSGeKsT
+    media_key: '13_2043978897302401026'
+attachments:
+  media_keys:
+  - '13_2043978897302401026'
+media:
+- media_key: '13_2043978897302401026'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2043978897302401026/img/b-tGJm5n1iSPHe-e.jpg
+  duration_ms: 92292
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043978897302401026/vid/avc1/480x270/1DovSjtctMo7XofX.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043978897302401026/vid/avc1/640x360/7gz23hPxWP1nIPHG.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043978897302401026/vid/avc1/1280x720/hODbg9GbqknH8qzA.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2043978897302401026/pl/K7S7lI5PBC2FnUmT.m3u8?v=efe
+  public_metrics:
+    view_count: 1810
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "The careful study of alien crop pictures has led me to discover a new kind\
+    \ of physics, where a non-spinning magnetic attraction turns into a spinning magnetic\
+    \ repulsion. \nThis \"may\" have something to do with the mysterious UFO physics.\
+    \ I will be studying it more soon.\U0001F6F8\nWhen I see some kind of unusual\
+    \ physics drawn in crops, I often try to build a similar device in the lab.\U0001F600"

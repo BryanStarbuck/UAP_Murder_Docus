@@ -1,0 +1,75 @@
+id: '2003697542178222524'
+url: https://x.com/RedCollie1/status/2003697542178222524
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"I am the offspring of David, and the bright morning star"
+
+  ✝️✝️✝️⭐️⭐️⭐️ Christmas Eve 2025 https://t.co/VRuxHzcAjP'
+created_at: '2025-12-24T05:21:35.000Z'
+lang: en
+conversation_id: '2003697542178222524'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 6
+  like_count: 35
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1673
+entities:
+  urls:
+  - start: 91
+    end: 114
+    url: https://t.co/VRuxHzcAjP
+    expanded_url: https://x.com/RedCollie1/status/2003697542178222524/photo/1
+    display_url: pic.x.com/VRuxHzcAjP
+    media_key: '3_2003696314832535554'
+  - start: 91
+    end: 114
+    url: https://t.co/VRuxHzcAjP
+    expanded_url: https://x.com/RedCollie1/status/2003697542178222524/photo/1
+    display_url: pic.x.com/VRuxHzcAjP
+    media_key: '3_2003697174207725568'
+attachments:
+  media_keys:
+  - '3_2003696314832535554'
+  - '3_2003697174207725568'
+media:
+- media_key: '3_2003696314832535554'
+  type: photo
+  width: 500
+  height: 319
+  alt_text: null
+  url: https://pbs.twimg.com/media/G86PLqtaQAIdUne.jpg
+- media_key: '3_2003697174207725568'
+  type: photo
+  width: 700
+  height: 700
+  alt_text: null
+  url: https://pbs.twimg.com/media/G86P9sIbAAA7yYA.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

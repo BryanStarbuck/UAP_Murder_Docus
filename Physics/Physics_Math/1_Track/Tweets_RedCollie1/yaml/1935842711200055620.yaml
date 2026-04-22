@@ -1,0 +1,124 @@
+id: '1935842711200055620'
+url: https://x.com/RedCollie1/status/1935842711200055620
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'I will try next to see whether adding "fast spin", to the rising magnet in
+  an AC "jumping ring" experiment, could give more upward force for UFO levitation?
+
+  Three wire coils with 3-phase power, and a spinning magnet, do not give enough upward
+  force.
+
+  This "collie dog" may have https://t.co/izZK0vgSL5'
+created_at: '2025-06-19T23:30:43.000Z'
+lang: en
+conversation_id: '1935842711200055620'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 3
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1472
+entities:
+  urls:
+  - start: 277
+    end: 300
+    url: https://t.co/izZK0vgSL5
+    expanded_url: https://x.com/RedCollie1/status/1935842711200055620/video/1
+    display_url: pic.x.com/izZK0vgSL5
+    media_key: '3_1935841541605732352'
+  - start: 277
+    end: 300
+    url: https://t.co/izZK0vgSL5
+    expanded_url: https://x.com/RedCollie1/status/1935842711200055620/video/1
+    display_url: pic.x.com/izZK0vgSL5
+    media_key: '13_1935842247334854656'
+  - start: 277
+    end: 300
+    url: https://t.co/izZK0vgSL5
+    expanded_url: https://x.com/RedCollie1/status/1935842711200055620/video/1
+    display_url: pic.x.com/izZK0vgSL5
+    media_key: '3_1935842325961273344'
+attachments:
+  media_keys:
+  - '3_1935841541605732352'
+  - '13_1935842247334854656'
+  - '3_1935842325961273344'
+media:
+- media_key: '3_1935841541605732352'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gt19oCTasAA9Dq0.jpg
+- media_key: '13_1935842247334854656'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1935842247334854656/img/j1v7dWnF9YxXt-eO.jpg
+  duration_ms: 8233
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1935842247334854656/vid/avc1/360x270/CK7wxDPpw6G_lvF_.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1935842247334854656/vid/avc1/480x360/40vv0WerHwdHhSB0.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1935842247334854656/vid/avc1/640x480/GT2sXRaCr7XNLr64.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1935842247334854656/pl/zu_yGgD17OGu2pqK.m3u8
+  public_metrics:
+    view_count: 568
+- media_key: '3_1935842325961273344'
+  type: photo
+  width: 800
+  height: 450
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gt1-VsQWcAAg-nZ.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  entities:
+    urls:
+    - start: 315
+      end: 338
+      url: https://t.co/Vt1f2LWd0D
+      expanded_url: https://youtu.be/QER9D2iXJ40
+      display_url: youtu.be/QER9D2iXJ40
+  text: 'I will try next to see whether adding "fast spin", to the rising magnet in
+    an AC "jumping ring" experiment, could give more upward force for UFO levitation?
+
+    Three wire coils with 3-phase power, and a spinning magnet, do not give enough
+    upward force.
+
+    This "collie dog" may have been "barking up the wrong tree"! 🐶🐶🐶
+
+    https://t.co/Vt1f2LWd0D'

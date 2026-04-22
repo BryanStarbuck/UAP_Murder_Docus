@@ -1,0 +1,126 @@
+id: '2030409779731153070'
+url: https://x.com/RedCollie1/status/2030409779731153070
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'This is how those friendly aliens make their "lower base or wheel" turn, by
+  using 9 x 3-phase wire coils (wired as UVW-UVW-UVW) and 12 N-S magnets (slide 1
+  and video 2).
+
+  As the next step, a "large central magnet" seems to be driven upward by precession
+  from the center (slides 3 https://t.co/Rtbd6FdO5u'
+created_at: '2026-03-07T22:26:29.000Z'
+lang: en
+conversation_id: '2030409779731153070'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 18
+  reply_count: 8
+  like_count: 120
+  quote_count: 0
+  bookmark_count: 40
+  impression_count: 2474
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/Rtbd6FdO5u
+    expanded_url: https://x.com/RedCollie1/status/2030409779731153070/video/1
+    display_url: pic.x.com/Rtbd6FdO5u
+    media_key: '3_2030408633918615552'
+  - start: 279
+    end: 302
+    url: https://t.co/Rtbd6FdO5u
+    expanded_url: https://x.com/RedCollie1/status/2030409779731153070/video/1
+    display_url: pic.x.com/Rtbd6FdO5u
+    media_key: '13_2030408677577175040'
+  - start: 279
+    end: 302
+    url: https://t.co/Rtbd6FdO5u
+    expanded_url: https://x.com/RedCollie1/status/2030409779731153070/video/1
+    display_url: pic.x.com/Rtbd6FdO5u
+    media_key: '3_2030408718433882112'
+  - start: 279
+    end: 302
+    url: https://t.co/Rtbd6FdO5u
+    expanded_url: https://x.com/RedCollie1/status/2030409779731153070/video/1
+    display_url: pic.x.com/Rtbd6FdO5u
+    media_key: '3_2030408745084506113'
+attachments:
+  media_keys:
+  - '3_2030408633918615552'
+  - '13_2030408677577175040'
+  - '3_2030408718433882112'
+  - '3_2030408745084506113'
+media:
+- media_key: '3_2030408633918615552'
+  type: photo
+  width: 1000
+  height: 849
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC115R2a8AAalP2.jpg
+- media_key: '13_2030408677577175040'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2030408677577175040/img/uozPIbsU5oxGp1NO.jpg
+  duration_ms: 6272
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030408677577175040/vid/avc1/480x270/mSGX9hfqKSHhzrKq.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030408677577175040/vid/avc1/640x360/peT_Jv8V9pISBl-u.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030408677577175040/vid/avc1/1280x720/p_xh-flQThjCealm.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2030408677577175040/pl/qVUlT5kTwRXsl2lj.m3u8
+  public_metrics:
+    view_count: 1130
+- media_key: '3_2030408718433882112'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC11-MsbkAA3-lj.jpg
+- media_key: '3_2030408745084506113'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC11_v-b0AEEpV5.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: 'This is how those friendly aliens make their "lower base or wheel" turn,
+    by using 9 x 3-phase wire coils (wired as UVW-UVW-UVW) and 12 N-S magnets (slide
+    1 and video 2).
+
+    As the next step, a "large central magnet" seems to be driven upward by precession
+    from the center (slides 3 and 4). All clear? 🛸🥳'

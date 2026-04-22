@@ -1,0 +1,76 @@
+id: '1999369896988401796'
+url: https://x.com/RedCollie1/status/1999369896988401796
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@ManzoBanana @chrisramsay52 Part 2 https://t.co/X09sUpk3al'
+created_at: '2025-12-12T06:45:04.000Z'
+lang: en
+conversation_id: '1999279111106363750'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 524
+entities:
+  mentions:
+  - start: 0
+    end: 12
+    username: ManzoBanana
+    id: '1388068883857387520'
+  - start: 13
+    end: 27
+    username: chrisramsay52
+    id: '590500852'
+  urls:
+  - start: 35
+    end: 58
+    url: https://t.co/X09sUpk3al
+    expanded_url: https://www.youtube.com/watch?v=amdta6_PjOA
+    display_url: youtube.com/watch?v=amdta6…
+    images:
+    - url: https://pbs.twimg.com/news_img/2046035497345064960/KDinvpBv?format=jpg&name=orig
+      width: 1280
+      height: 720
+    - url: https://pbs.twimg.com/news_img/2046035497345064960/KDinvpBv?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Earthfiles
+    description: '295 likes, 33 comments. "Interview with "C.J" Part 2: Binary Code
+      Telepathic Download"'
+    unwound_url: https://www.youtube.com/watch?v=amdta6_PjOA
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '1999349182557999521'
+  text: '@RedCollie1 @chrisramsay52 Do you have a link to her interview with him?'
+has_video: false
+has_image: false
+media_count: 0

@@ -1,0 +1,100 @@
+id: '1977882888159793194'
+url: https://x.com/RedCollie1/status/1977882888159793194
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: I wonder why they aren't showing us the high-resolution photos of 3I/ATLAS?
+  🧐🥸🧐 https://t.co/ZxJcdljhXr
+created_at: '2025-10-13T23:43:22.000Z'
+lang: en
+conversation_id: '1977882888159793194'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 66
+  reply_count: 58
+  like_count: 614
+  quote_count: 5
+  bookmark_count: 75
+  impression_count: 58919
+entities:
+  urls:
+  - start: 80
+    end: 103
+    url: https://t.co/ZxJcdljhXr
+    expanded_url: https://x.com/RedCollie1/status/1977882888159793194/photo/1
+    display_url: pic.x.com/ZxJcdljhXr
+    media_key: '3_1977882470713634816'
+  - start: 80
+    end: 103
+    url: https://t.co/ZxJcdljhXr
+    expanded_url: https://x.com/RedCollie1/status/1977882888159793194/photo/1
+    display_url: pic.x.com/ZxJcdljhXr
+    media_key: '3_1977882614045564928'
+  - start: 80
+    end: 103
+    url: https://t.co/ZxJcdljhXr
+    expanded_url: https://x.com/RedCollie1/status/1977882888159793194/photo/1
+    display_url: pic.x.com/ZxJcdljhXr
+    media_key: '3_1977882664188444672'
+  - start: 80
+    end: 103
+    url: https://t.co/ZxJcdljhXr
+    expanded_url: https://x.com/RedCollie1/status/1977882888159793194/photo/1
+    display_url: pic.x.com/ZxJcdljhXr
+    media_key: '3_1977882683238961152'
+attachments:
+  media_keys:
+  - '3_1977882470713634816'
+  - '3_1977882614045564928'
+  - '3_1977882664188444672'
+  - '3_1977882683238961152'
+media:
+- media_key: '3_1977882470713634816'
+  type: photo
+  width: 1648
+  height: 1216
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3LZoLpbsAAW8bA.jpg
+- media_key: '3_1977882614045564928'
+  type: photo
+  width: 960
+  height: 520
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3LZwhmbYAAkBfA.jpg
+- media_key: '3_1977882664188444672'
+  type: photo
+  width: 1500
+  height: 1108
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3LZzcZbAAAQslP.jpg
+- media_key: '3_1977882683238961152'
+  type: photo
+  width: 960
+  height: 520
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3LZ0jXa0AAIeJK.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 4

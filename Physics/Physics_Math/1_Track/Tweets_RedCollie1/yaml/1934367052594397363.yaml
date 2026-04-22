@@ -1,0 +1,107 @@
+id: '1934367052594397363'
+url: https://x.com/RedCollie1/status/1934367052594397363
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Thanks to Margaret! It may have something to do with this, but I don't understand
+  it yet. The crop artists compare UFO levitation to a well-known "jumping ring".
+  https://t.co/N8OFeLuy3y
+created_at: '2025-06-15T21:46:58.000Z'
+lang: en
+conversation_id: '1934194761935770022'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1032
+entities:
+  urls:
+  - start: 162
+    end: 185
+    url: https://t.co/N8OFeLuy3y
+    expanded_url: https://x.com/RedCollie1/status/1934367052594397363/photo/1
+    display_url: pic.x.com/N8OFeLuy3y
+    media_key: '3_1934366649823772672'
+  - start: 162
+    end: 185
+    url: https://t.co/N8OFeLuy3y
+    expanded_url: https://x.com/RedCollie1/status/1934367052594397363/photo/1
+    display_url: pic.x.com/N8OFeLuy3y
+    media_key: '3_1934366669214003200'
+  - start: 162
+    end: 185
+    url: https://t.co/N8OFeLuy3y
+    expanded_url: https://x.com/RedCollie1/status/1934367052594397363/photo/1
+    display_url: pic.x.com/N8OFeLuy3y
+    media_key: '3_1934366693549342720'
+  - start: 162
+    end: 185
+    url: https://t.co/N8OFeLuy3y
+    expanded_url: https://x.com/RedCollie1/status/1934367052594397363/photo/1
+    display_url: pic.x.com/N8OFeLuy3y
+    media_key: '3_1934366717939245056'
+attachments:
+  media_keys:
+  - '3_1934366649823772672'
+  - '3_1934366669214003200'
+  - '3_1934366693549342720'
+  - '3_1934366717939245056'
+media:
+- media_key: '3_1934366649823772672'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GthAOCQbwAAcryd.jpg
+- media_key: '3_1934366669214003200'
+  type: photo
+  width: 1160
+  height: 791
+  alt_text: null
+  url: https://pbs.twimg.com/media/GthAPKfbMAA8nLo.jpg
+- media_key: '3_1934366693549342720'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GthAQlJbAAAYiMX.jpg
+- media_key: '3_1934366717939245056'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GthASAAbYAA1HCr.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1934194761935770022'
+  text: "This 7-minute video shows my second attempt to reproduce the UFO-like levitation\
+    \ of that Buga orb-sphere. \nWe do see small and reproducible anti-gravity effects\
+    \ of 30 to 50 grams, yet much of the upward spinning force of 500 grams (for this\
+    \ small magnet at 20-30 Hertz) seems to https://t.co/A2X5gRN96j"
+has_video: false
+has_image: true
+media_count: 4

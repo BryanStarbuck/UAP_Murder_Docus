@@ -1,0 +1,71 @@
+id: '2030378856662851802'
+url: https://x.com/RedCollie1/status/2030378856662851802
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@NZDanSmart 3-phase AC power https://t.co/gSBNYpe6Wh'
+created_at: '2026-03-07T20:23:36.000Z'
+lang: en
+conversation_id: '2030171038814982507'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 120
+entities:
+  urls:
+  - start: 29
+    end: 52
+    url: https://t.co/gSBNYpe6Wh
+    expanded_url: https://x.com/RedCollie1/status/2030378856662851802/photo/1
+    display_url: pic.x.com/gSBNYpe6Wh
+    media_key: '3_2030378851713560576'
+  mentions:
+  - start: 0
+    end: 11
+    username: NZDanSmart
+    id: '1867034987498819584'
+attachments:
+  media_keys:
+  - '3_2030378851713560576'
+media:
+- media_key: '3_2030378851713560576'
+  type: photo
+  width: 828
+  height: 458
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC1azufaMAANGpo.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2030309631533187088'
+  text: "@RedCollie1 All circles in those crop circles are multiples of 3. \n12 inner\
+    \ and outer circles in the OP pics. \nThen 6 arms outwards from a central point\
+    \ for the pic in your comment, with a total of 30 dots around the circumference.\
+    \ \nSeems like a 3-6-9 resonance pattern might be involved"
+has_video: false
+has_image: true
+media_count: 1

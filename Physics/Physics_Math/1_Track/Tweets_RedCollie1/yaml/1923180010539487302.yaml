@@ -1,0 +1,81 @@
+id: '1923180010539487302'
+url: https://x.com/RedCollie1/status/1923180010539487302
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "NEW first of 2025! \nThe Gallops, Nr Sutton Verny, Wiltshire, 15th May\nhttps://t.co/yigKgaJIKq\
+  \ https://t.co/yBHYUph4bS"
+created_at: '2025-05-16T00:53:40.000Z'
+lang: en
+conversation_id: '1923180010539487302'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 91
+  reply_count: 26
+  like_count: 527
+  quote_count: 7
+  bookmark_count: 91
+  impression_count: 35511
+entities:
+  urls:
+  - start: 70
+    end: 93
+    url: https://t.co/yigKgaJIKq
+    expanded_url: https://www.cropcircleconnector.com/2025/gallops/gallops2025a.html
+    display_url: cropcircleconnector.com/2025/gallops/g…
+    status: 200
+    unwound_url: https://www.cropcircleconnector.com/2025/gallops/gallops2025a.html
+  - start: 94
+    end: 117
+    url: https://t.co/yBHYUph4bS
+    expanded_url: https://x.com/RedCollie1/status/1923180010539487302/photo/1
+    display_url: pic.x.com/yBHYUph4bS
+    media_key: '3_1923179966268841984'
+  - start: 94
+    end: 117
+    url: https://t.co/yBHYUph4bS
+    expanded_url: https://x.com/RedCollie1/status/1923180010539487302/photo/1
+    display_url: pic.x.com/yBHYUph4bS
+    media_key: '3_1923180002054635521'
+attachments:
+  media_keys:
+  - '3_1923179966268841984'
+  - '3_1923180002054635521'
+media:
+- media_key: '3_1923179966268841984'
+  type: photo
+  width: 1200
+  height: 1187
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrCB_WiaIAAeBJb.jpg
+- media_key: '3_1923180002054635521'
+  type: photo
+  width: 1500
+  height: 810
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrCCBb2aAAE3bBG.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

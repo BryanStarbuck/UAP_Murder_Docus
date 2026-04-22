@@ -1,0 +1,131 @@
+id: '2040686929197609136'
+url: https://x.com/RedCollie1/status/2040686929197609136
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "It seems likely that alien UFOs use this kind of \"rapid counter-spin\" as\
+  \ part of their propulsion systems. \nCrop picture from July 28, 2025 near Lyme\
+  \ Regis.\nI will investigate the physics in more detail soon.\U0001F6F8 https://t.co/z7dImsinz1"
+created_at: '2026-04-05T07:04:12.000Z'
+lang: en
+conversation_id: '2040686929197609136'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 31
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 3215
+entities:
+  urls:
+  - start: 210
+    end: 233
+    url: https://t.co/z7dImsinz1
+    expanded_url: https://x.com/RedCollie1/status/2040686929197609136/video/1
+    display_url: pic.x.com/z7dImsinz1
+    media_key: '13_2040686237212921856'
+  - start: 210
+    end: 233
+    url: https://t.co/z7dImsinz1
+    expanded_url: https://x.com/RedCollie1/status/2040686929197609136/video/1
+    display_url: pic.x.com/z7dImsinz1
+    media_key: '3_2040686259560128512'
+  - start: 210
+    end: 233
+    url: https://t.co/z7dImsinz1
+    expanded_url: https://x.com/RedCollie1/status/2040686929197609136/video/1
+    display_url: pic.x.com/z7dImsinz1
+    media_key: '13_2040686290426109952'
+  - start: 210
+    end: 233
+    url: https://t.co/z7dImsinz1
+    expanded_url: https://x.com/RedCollie1/status/2040686929197609136/video/1
+    display_url: pic.x.com/z7dImsinz1
+    media_key: '3_2040686341575647232'
+attachments:
+  media_keys:
+  - '13_2040686237212921856'
+  - '3_2040686259560128512'
+  - '13_2040686290426109952'
+  - '3_2040686341575647232'
+media:
+- media_key: '13_2040686237212921856'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2040686237212921856/img/nZYqjlswm7XkZFqA.jpg
+  duration_ms: 7107
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686237212921856/vid/avc1/480x270/NpaqLA3hNIHxb62A.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686237212921856/vid/avc1/640x360/fm6OuV2YfWdhs7jn.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686237212921856/vid/avc1/1280x720/4oNtKCcuoyg4rD0y.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2040686237212921856/pl/KbHzwfG7T6YYfQWZ.m3u8
+  public_metrics:
+    view_count: 909
+- media_key: '3_2040686259560128512'
+  type: photo
+  width: 960
+  height: 934
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFH5V08aIAAp_tE.jpg
+- media_key: '13_2040686290426109952'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2040686290426109952/img/TkxcnwD094cCNMad.jpg
+  duration_ms: 7040
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686290426109952/vid/avc1/480x270/xRKJuanQoluF0tsK.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686290426109952/vid/avc1/640x360/zls6Z7NC3HNEZymL.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040686290426109952/vid/avc1/1280x720/VlprR1rsB1UpeylM.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2040686290426109952/pl/FIcvumLM-v9CW_q7.m3u8
+  public_metrics:
+    view_count: 371
+- media_key: '3_2040686341575647232'
+  type: photo
+  width: 900
+  height: 818
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFH5ameboAATuHQ.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

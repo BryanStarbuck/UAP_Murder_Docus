@@ -1,0 +1,112 @@
+id: '2034802025809285546'
+url: https://x.com/RedCollie1/status/2034802025809285546
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "You see, our E.T. friends are showing us the same \"blueprints\" for UFO-flight\
+  \ in rural Brazil 2025/2026, as in England or Europe (slides 1 and 2). \nI just\
+  \ built a small, working prototype in my private lab (video 3). Six wire coils around\
+  \ the outside with 1-2-3-phase power. Three https://t.co/IVk7Mr2y97"
+created_at: '2026-03-20T01:19:42.000Z'
+lang: en
+conversation_id: '2034802025809285546'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 22
+  reply_count: 7
+  like_count: 127
+  quote_count: 3
+  bookmark_count: 46
+  impression_count: 5430
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/IVk7Mr2y97
+    expanded_url: https://x.com/RedCollie1/status/2034802025809285546/video/1
+    display_url: pic.x.com/IVk7Mr2y97
+    media_key: '3_2034801125262860290'
+  - start: 281
+    end: 304
+    url: https://t.co/IVk7Mr2y97
+    expanded_url: https://x.com/RedCollie1/status/2034802025809285546/video/1
+    display_url: pic.x.com/IVk7Mr2y97
+    media_key: '3_2034801141708726277'
+  - start: 281
+    end: 304
+    url: https://t.co/IVk7Mr2y97
+    expanded_url: https://x.com/RedCollie1/status/2034802025809285546/video/1
+    display_url: pic.x.com/IVk7Mr2y97
+    media_key: '13_2034801198885416960'
+attachments:
+  media_keys:
+  - '3_2034801125262860290'
+  - '3_2034801141708726277'
+  - '13_2034801198885416960'
+media:
+- media_key: '3_2034801125262860290'
+  type: photo
+  width: 690
+  height: 722
+  alt_text: null
+  url: https://pbs.twimg.com/media/HD0Q17PboAIDUya.jpg
+- media_key: '3_2034801141708726277'
+  type: photo
+  width: 708
+  height: 708
+  alt_text: null
+  url: https://pbs.twimg.com/media/HD0Q24gboAU305f.jpg
+- media_key: '13_2034801198885416960'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034801198885416960/img/s1ss3tanRSITJyBp.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034801198885416960/vid/avc1/480x270/75h_dnD9yPwpkb-k.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034801198885416960/vid/avc1/640x360/iAFjkqGte2HK6etL.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034801198885416960/vid/avc1/1280x720/tTlLT5gxKq1iIuyI.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034801198885416960/pl/WFzSMdkFPLz6gxhb.m3u8?v=cfc
+  public_metrics:
+    view_count: 2970
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "You see, our E.T. friends are showing us the same \"blueprints\" for UFO-flight\
+    \ in rural Brazil 2025/2026, as in England or Europe (slides 1 and 2). \nI just\
+    \ built a small, working prototype in my private lab (video 3). Six wire coils\
+    \ around the outside with 1-2-3-phase power. Three wire coils at the center with\
+    \ 3-phase power.\nTwo sets of magnets spin in opposite directions. Slide 1 shows\
+    \ \"no spin\". Slide 2 shows \"with outer spin\".\nCompare with video 3. PERFECT\
+    \ MATCH.\U0001F6F8"

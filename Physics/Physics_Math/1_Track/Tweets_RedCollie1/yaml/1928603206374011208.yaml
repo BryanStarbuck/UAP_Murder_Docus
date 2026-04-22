@@ -1,0 +1,112 @@
+id: '1928603206374011208'
+url: https://x.com/RedCollie1/status/1928603206374011208
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Jaime in his new and excellent movie compares symbols on the Buga orb-sphere\
+  \ to several \"crop pictures\" (see time 5:40 onward).\nhttps://t.co/h3ToGmfvPv\
+  \ \nFor example, its strange symbol with a \"chip\" resembles this \"fractal tree\
+  \ antenna\" drawn next to Chilbolton radio telescope in https://t.co/FL1rKRA4N3"
+created_at: '2025-05-31T00:03:30.000Z'
+lang: en
+conversation_id: '1928603206374011208'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 31
+  reply_count: 11
+  like_count: 165
+  quote_count: 4
+  bookmark_count: 46
+  impression_count: 9304
+entities:
+  urls:
+  - start: 128
+    end: 151
+    url: https://t.co/h3ToGmfvPv
+    expanded_url: https://www.youtube.com/watch?v=yt5JKy54OuI
+    display_url: youtube.com/watch?v=yt5JKy…
+    status: 200
+    unwound_url: https://www.youtube.com/watch?v=yt5JKy54OuI
+  - start: 281
+    end: 304
+    url: https://t.co/FL1rKRA4N3
+    expanded_url: https://x.com/RedCollie1/status/1928603206374011208/photo/1
+    display_url: pic.x.com/FL1rKRA4N3
+    media_key: '3_1928601872992186368'
+  - start: 281
+    end: 304
+    url: https://t.co/FL1rKRA4N3
+    expanded_url: https://x.com/RedCollie1/status/1928603206374011208/photo/1
+    display_url: pic.x.com/FL1rKRA4N3
+    media_key: '3_1928601903031791618'
+  - start: 281
+    end: 304
+    url: https://t.co/FL1rKRA4N3
+    expanded_url: https://x.com/RedCollie1/status/1928603206374011208/photo/1
+    display_url: pic.x.com/FL1rKRA4N3
+    media_key: '3_1928601938712735744'
+attachments:
+  media_keys:
+  - '3_1928601872992186368'
+  - '3_1928601903031791618'
+  - '3_1928601938712735744'
+media:
+- media_key: '3_1928601872992186368'
+  type: photo
+  width: 900
+  height: 799
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsPFL3DaMAA1LaB.jpg
+- media_key: '3_1928601903031791618'
+  type: photo
+  width: 718
+  height: 466
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsPFNm9aMAI2JZL.png
+- media_key: '3_1928601938712735744'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsPFPr4aMAAblF0.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3
+note_tweet:
+  entities:
+    urls:
+    - start: 128
+      end: 151
+      url: https://t.co/YK9ij5YkJk
+      expanded_url: https://www.youtube.com/watch?v=yt5JKy54OuI
+      display_url: youtube.com/watch?v=yt5JKy…
+  text: "Jaime in his new and excellent movie compares symbols on the Buga orb-sphere\
+    \ to several \"crop pictures\" (see time 5:40 onward).\nhttps://t.co/YK9ij5YkJk\
+    \ \nFor example, its strange symbol with a \"chip\" resembles this \"fractal tree\
+    \ antenna\" drawn next to Chilbolton radio telescope in 2000 (then again in 2002).\n\
+    Are we using the WRONG antennas to try and detect radio transmissions from other\
+    \ worlds?\nInstead of using a \"dish\" antenna, should we use a \"fractal\" antenna\
+    \ instead, somewhat like the antennas used in our mobile phones? \U0001F600\n\
+    SETI astronomers, please take note!"

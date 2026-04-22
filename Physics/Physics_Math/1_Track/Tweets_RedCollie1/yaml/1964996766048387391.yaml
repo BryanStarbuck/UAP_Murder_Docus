@@ -1,0 +1,83 @@
+id: '1964996766048387391'
+url: https://x.com/RedCollie1/status/1964996766048387391
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "You can see the \"Lorentz force\" here in salt water, using DC power, a large\
+  \ magnet, and a green food dye. \nWhat a great experiment this would be for high-school\
+  \ students! TEACH YOUR CHILDREN WELL. https://t.co/nDzWnP8E0T"
+created_at: '2025-09-08T10:18:31.000Z'
+lang: en
+conversation_id: '1964995821679866198'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1420
+entities:
+  urls:
+  - start: 197
+    end: 220
+    url: https://t.co/nDzWnP8E0T
+    expanded_url: https://x.com/RedCollie1/status/1964996766048387391/video/1
+    display_url: pic.x.com/nDzWnP8E0T
+    media_key: '13_1964996566814728192'
+attachments:
+  media_keys:
+  - '13_1964996566814728192'
+media:
+- media_key: '13_1964996566814728192'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964996566814728192/img/jgVOBaYgPU-F7hJ5.jpg
+  duration_ms: 46440
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964996566814728192/vid/avc1/480x270/JRaN-1MLVy7ZyfT7.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964996566814728192/vid/avc1/640x360/eYucQE_aYopJSIya.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964996566814728192/vid/avc1/1280x720/IPMBh0HMxAEZXIgL.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964996566814728192/pl/ghEI9WpzQtGU4dOS.m3u8?v=fa1
+  public_metrics:
+    view_count: 633
+referenced_tweets:
+- type: replied_to
+  id: '1964995821679866198'
+  text: "Various kinds of alien symbology for \"our\" scientific concepts have been\
+    \ drawn in crops, whether for chemistry, astronomy, nuclear power or electromagnetism.\
+    \ \nOne of the most common and repeated alien-symbols is that for the Lorentz\
+    \ force of electromagnetism, as shown in slides 1 https://t.co/ntA9J945lc"
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,96 @@
+id: '1980913948204617895'
+url: https://x.com/RedCollie1/status/1980913948204617895
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'A powerful coronal mass ejection from our Sun (center) is about to strike 3I/ATLAS
+  (green). This could be an "accident".
+
+  Alternatively, if 3I/ATLAS has its own strong magnetism, then some of the Sun''s
+  magnetic energy might "jump" toward it? https://t.co/8EYw7UmcIO'
+created_at: '2025-10-22T08:27:43.000Z'
+lang: en
+conversation_id: '1980913948204617895'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 7
+  like_count: 34
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 3073
+entities:
+  urls:
+  - start: 241
+    end: 264
+    url: https://t.co/8EYw7UmcIO
+    expanded_url: https://x.com/RedCollie1/status/1980913948204617895/video/1
+    display_url: pic.x.com/8EYw7UmcIO
+    media_key: '13_1980913751478976512'
+  - start: 241
+    end: 264
+    url: https://t.co/8EYw7UmcIO
+    expanded_url: https://x.com/RedCollie1/status/1980913948204617895/video/1
+    display_url: pic.x.com/8EYw7UmcIO
+    media_key: '16_1980913785419296768'
+attachments:
+  media_keys:
+  - '13_1980913751478976512'
+  - '16_1980913785419296768'
+media:
+- media_key: '13_1980913751478976512'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1980913751478976512/img/kAWd5UZXPgH0Q0DZ.jpg
+  duration_ms: 9809
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980913751478976512/vid/avc1/480x270/1Yr2k6q9ers9nTFo.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980913751478976512/vid/avc1/640x360/PkFa-7mbjbHq3F-1.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980913751478976512/vid/avc1/1280x720/3YuUjteXgJbX_rIw.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1980913751478976512/pl/yCdCTjzJGbE7v09D.m3u8
+  public_metrics:
+    view_count: 1494
+- media_key: '16_1980913785419296768'
+  type: animated_gif
+  width: 320
+  height: 172
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G32el66XcAAkOQu.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G32el66XcAAkOQu.mp4
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 2

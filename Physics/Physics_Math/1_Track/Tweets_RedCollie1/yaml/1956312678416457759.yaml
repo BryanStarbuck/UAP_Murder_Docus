@@ -1,0 +1,87 @@
+id: '1956312678416457759'
+url: https://x.com/RedCollie1/status/1956312678416457759
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@mikeod88 Laithwaite saw a big weight loss in someone''s hand, as did this
+  grad student from Sydney Uni, but no change of overall weight appears on a scale
+  below.
+
+  This is an anomaly which I do not yet understand. https://t.co/VwDU2cdRU4'
+created_at: '2025-08-15T11:11:03.000Z'
+lang: en
+conversation_id: '1956260439614218473'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 9
+  quote_count: 1
+  bookmark_count: 3
+  impression_count: 5915
+entities:
+  mentions:
+  - start: 0
+    end: 9
+    username: mikeod88
+    id: '336413353'
+  urls:
+  - start: 212
+    end: 235
+    url: https://t.co/VwDU2cdRU4
+    expanded_url: https://x.com/RedCollie1/status/1956312678416457759/video/1
+    display_url: pic.x.com/VwDU2cdRU4
+    media_key: '13_1956312560929792001'
+attachments:
+  media_keys:
+  - '13_1956312560929792001'
+media:
+- media_key: '13_1956312560929792001'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956312560929792001/img/_S7F93KIi8zh943K.jpg
+  duration_ms: 86886
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956312560929792001/vid/avc1/480x270/HOIxeGDHZKcGrqPW.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956312560929792001/vid/avc1/640x360/r0PSFneYVtmqKxZY.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956312560929792001/vid/avc1/1280x720/CByEBYzJKFIGRXzz.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956312560929792001/pl/2J8Abd923_s_gpIn.m3u8?v=2ea
+  public_metrics:
+    view_count: 1872
+referenced_tweets:
+- type: replied_to
+  id: '1956311350428287200'
+  text: ''
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,108 @@
+id: '1924248812933259674'
+url: https://x.com/RedCollie1/status/1924248812933259674
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The same UFO-drive seen from 90 degrees away.
+
+  Six wire coils in a ring-shape surround a central spinning magnet, powered by three,
+  3-phase wire coils. https://t.co/LDtVPQspr8'
+created_at: '2025-05-18T23:40:42.000Z'
+lang: en
+conversation_id: '1924247528960385526'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 35
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 1929
+entities:
+  urls:
+  - start: 151
+    end: 174
+    url: https://t.co/LDtVPQspr8
+    expanded_url: https://x.com/RedCollie1/status/1924248812933259674/photo/1
+    display_url: pic.x.com/LDtVPQspr8
+    media_key: '3_1924248523303718912'
+  - start: 151
+    end: 174
+    url: https://t.co/LDtVPQspr8
+    expanded_url: https://x.com/RedCollie1/status/1924248812933259674/photo/1
+    display_url: pic.x.com/LDtVPQspr8
+    media_key: '3_1924248608821350400'
+  - start: 151
+    end: 174
+    url: https://t.co/LDtVPQspr8
+    expanded_url: https://x.com/RedCollie1/status/1924248812933259674/photo/1
+    display_url: pic.x.com/LDtVPQspr8
+    media_key: '3_1924248631139295233'
+  - start: 151
+    end: 174
+    url: https://t.co/LDtVPQspr8
+    expanded_url: https://x.com/RedCollie1/status/1924248812933259674/photo/1
+    display_url: pic.x.com/LDtVPQspr8
+    media_key: '3_1924248686583791616'
+attachments:
+  media_keys:
+  - '3_1924248523303718912'
+  - '3_1924248608821350400'
+  - '3_1924248631139295233'
+  - '3_1924248686583791616'
+media:
+- media_key: '3_1924248523303718912'
+  type: photo
+  width: 900
+  height: 1025
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrRN1jsWkAAF7tk.jpg
+- media_key: '3_1924248608821350400'
+  type: photo
+  width: 972
+  height: 947
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrRN6iRWEAA2Juu.jpg
+- media_key: '3_1924248631139295233'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrRN71aW4AEyjHA.jpg
+- media_key: '3_1924248686583791616'
+  type: photo
+  width: 615
+  height: 1500
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrRN_D9WwAAKo7l.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1924247528960385526'
+  text: "While I am waiting for parts to arrive, I would like to remind everyone that\
+    \ UFOs fly due to some kind of fast SPIN, powered by a rotating magnetic field\
+    \ (wavy lines). \nIn 2014 near Avebury, they even drew the same \"UFO drive \"\
+    \ from a perspective 90 degrees away from those https://t.co/yIUFniIpvs"
+has_video: false
+has_image: true
+media_count: 4

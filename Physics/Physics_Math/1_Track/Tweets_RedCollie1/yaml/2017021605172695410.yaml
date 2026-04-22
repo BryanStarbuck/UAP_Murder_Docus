@@ -1,0 +1,75 @@
+id: '2017021605172695410'
+url: https://x.com/RedCollie1/status/2017021605172695410
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I did the first high-resolution x-ray image of DNA back in 1980 with Dick Dickerson\
+  \ at Caltech. \nWhat would I know? Now I am working to solve \"anti-gravity\". \U0001F606\
+  \ https://t.co/hC4idGzbBO"
+created_at: '2026-01-29T23:46:39.000Z'
+lang: en
+conversation_id: '2017021605172695410'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 7
+  like_count: 48
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1651
+entities:
+  urls:
+  - start: 160
+    end: 183
+    url: https://t.co/hC4idGzbBO
+    expanded_url: https://x.com/RedCollie1/status/2017021605172695410/photo/1
+    display_url: pic.x.com/hC4idGzbBO
+    media_key: '3_2017021493897809922'
+  - start: 160
+    end: 183
+    url: https://t.co/hC4idGzbBO
+    expanded_url: https://x.com/RedCollie1/status/2017021605172695410/photo/1
+    display_url: pic.x.com/hC4idGzbBO
+    media_key: '3_2017021541301862400'
+attachments:
+  media_keys:
+  - '3_2017021493897809922'
+  - '3_2017021541301862400'
+media:
+- media_key: '3_2017021493897809922'
+  type: photo
+  width: 900
+  height: 526
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_3mXLAbUAI4IEI.jpg
+- media_key: '3_2017021541301862400'
+  type: photo
+  width: 640
+  height: 583
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_3mZ7mbwAALpLC.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,103 @@
+id: '1978442825663479922'
+url: https://x.com/RedCollie1/status/1978442825663479922
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@UAPWatchers @Z_i_i_X very easy! https://t.co/gug0KFBR0w'
+created_at: '2025-10-15T12:48:21.000Z'
+lang: en
+conversation_id: '1977417073900101799'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 4
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 3832
+entities:
+  urls:
+  - start: 33
+    end: 56
+    url: https://t.co/gug0KFBR0w
+    expanded_url: https://x.com/RedCollie1/status/1978442825663479922/photo/1
+    display_url: pic.x.com/gug0KFBR0w
+    media_key: '3_1978442729115021312'
+  - start: 33
+    end: 56
+    url: https://t.co/gug0KFBR0w
+    expanded_url: https://x.com/RedCollie1/status/1978442825663479922/photo/1
+    display_url: pic.x.com/gug0KFBR0w
+    media_key: '16_1978442758991081472'
+  - start: 33
+    end: 56
+    url: https://t.co/gug0KFBR0w
+    expanded_url: https://x.com/RedCollie1/status/1978442825663479922/photo/1
+    display_url: pic.x.com/gug0KFBR0w
+    media_key: '3_1978442784060387328'
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+  - start: 13
+    end: 21
+    username: Z_i_i_X
+    id: '1863604989496598528'
+attachments:
+  media_keys:
+  - '3_1978442729115021312'
+  - '16_1978442758991081472'
+  - '3_1978442784060387328'
+media:
+- media_key: '3_1978442729115021312'
+  type: photo
+  width: 615
+  height: 1500
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3TXLg1a8AAifjt.jpg
+- media_key: '16_1978442758991081472'
+  type: animated_gif
+  width: 500
+  height: 282
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G3TXNQIbcAAXfAL.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G3TXNQIbcAAXfAL.mp4
+- media_key: '3_1978442784060387328'
+  type: photo
+  width: 900
+  height: 818
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3TXOthasAATuKc.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1978442113558671683'
+  text: '@Z_i_i_X @RedCollie1 That''s an insignia. Horace is trying to teach me but
+    I am hopeless 😂'
+has_video: true
+has_image: true
+media_count: 3

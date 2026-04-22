@@ -1,0 +1,147 @@
+id: '1967444571488686081'
+url: https://x.com/RedCollie1/status/1967444571488686081
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "THREE TEACHING LESSONS, VERY SIMPLE: \nWhen we blow air (from the \"right\"\
+  ) onto a spinning top, does it go to the \"left\" like for a non-spinning top, by\
+  \ Newton's Law of Action-Reaction?\nNo, it goes \"up\" instead! See movie 1. \n\
+  When it goes \"up\", is there any counter-force of https://t.co/9SWpdjmbB9"
+created_at: '2025-09-15T04:25:13.000Z'
+lang: en
+conversation_id: '1967444571488686081'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 4
+  reply_count: 0
+  like_count: 18
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1877
+entities:
+  urls:
+  - start: 274
+    end: 297
+    url: https://t.co/9SWpdjmbB9
+    expanded_url: https://x.com/RedCollie1/status/1967444571488686081/video/1
+    display_url: pic.x.com/9SWpdjmbB9
+    media_key: '13_1967439755995660288'
+  - start: 274
+    end: 297
+    url: https://t.co/9SWpdjmbB9
+    expanded_url: https://x.com/RedCollie1/status/1967444571488686081/video/1
+    display_url: pic.x.com/9SWpdjmbB9
+    media_key: '13_1967441607168565248'
+  - start: 274
+    end: 297
+    url: https://t.co/9SWpdjmbB9
+    expanded_url: https://x.com/RedCollie1/status/1967444571488686081/video/1
+    display_url: pic.x.com/9SWpdjmbB9
+    media_key: '13_1967443308210495488'
+attachments:
+  media_keys:
+  - '13_1967439755995660288'
+  - '13_1967441607168565248'
+  - '13_1967443308210495488'
+media:
+- media_key: '13_1967439755995660288'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1967439755995660288/img/GqxiJ35DDCQYS-xD.jpg
+  duration_ms: 26800
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967439755995660288/vid/avc1/480x270/_idbVAYwfdr4giOm.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967439755995660288/vid/avc1/640x360/AUw9sn6xckLUhOUQ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967439755995660288/vid/avc1/1280x720/xkMA4nzIkb7fnLdm.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1967439755995660288/pl/jGsfjL248UB7BJR9.m3u8?v=cfc
+  public_metrics:
+    view_count: 827
+- media_key: '13_1967441607168565248'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1967441607168565248/img/r6rM-31LsTB6ZyM1.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967441607168565248/vid/avc1/480x270/aDHNTO0XjwbyQzSH.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967441607168565248/vid/avc1/640x360/xoJittjnzFcFgync.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967441607168565248/vid/avc1/1280x720/NTn-HTwvEBOUOM9w.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1967441607168565248/pl/-nww2QHf3OnAxHIJ.m3u8
+  public_metrics:
+    view_count: 98
+- media_key: '13_1967443308210495488'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1967443308210495488/img/Sh7sLf-j9thjMN0f.jpg
+  duration_ms: 19680
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967443308210495488/vid/avc1/480x270/bMUxlNQ8UGXBVibI.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967443308210495488/vid/avc1/640x360/LpbnElsm6bk8v0zi.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967443308210495488/vid/avc1/1280x720/22tMkvjbE7zQogGc.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1967443308210495488/pl/JMWqoScsGTBAEzdY.m3u8
+  public_metrics:
+    view_count: 56
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "THREE TEACHING LESSONS, VERY SIMPLE: \nWhen we blow air (from the \"right\"\
+    ) onto a spinning top, does it go to the \"left\" like for a non-spinning top,\
+    \ by Newton's Law of Action-Reaction?\nNo, it goes \"up\" instead! See movie 1.\
+    \ \nWhen it goes \"up\", is there any counter-force of reaction, which makes the\
+    \ applied jet of air go \"down\"?\nNo, again! Study movie 1. \nConsider next the\
+    \ Lorentz force which makes a permanent-magnet, brushed, homopolar motor SPIN.\
+    \  \nDoes it cause any back-reaction? \nNo, for a third time. See movie 2. \n\
+    Consider finally the Lorentz force which makes a liquid-metal, homopolar motor\
+    \ SPIN.\nDoes it cause any back-reaction?\nNo, for a fourth time. Study movie\
+    \ 3. \nHow do UFOs fly? Do they violate any true \"laws of physics\"? \nOr do\
+    \ they just use a certain kind of physics, which our Great Professors do not teach\
+    \ in their Schools? \nHow do fish travel? \U0001F41F\U0001F41F\U0001F41F"

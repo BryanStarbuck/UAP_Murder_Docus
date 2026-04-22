@@ -1,0 +1,75 @@
+id: '1989931060122259519'
+url: https://x.com/RedCollie1/status/1989931060122259519
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The carbon-brush homopolar motor. https://t.co/Enzs3KlJoQ
+created_at: '2025-11-16T05:38:30.000Z'
+lang: en
+conversation_id: '1989930921110491413'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 32
+  quote_count: 0
+  bookmark_count: 9
+  impression_count: 1651
+entities:
+  urls:
+  - start: 34
+    end: 57
+    url: https://t.co/Enzs3KlJoQ
+    expanded_url: https://x.com/RedCollie1/status/1989931060122259519/video/1
+    display_url: pic.x.com/Enzs3KlJoQ
+    media_key: '13_1989931011082444800'
+attachments:
+  media_keys:
+  - '13_1989931011082444800'
+media:
+- media_key: '13_1989931011082444800'
+  type: video
+  width: 320
+  height: 568
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1989931011082444800/img/ds-vNG2F596EqjTi.jpg
+  duration_ms: 16000
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1989931011082444800/vid/avc1/320x568/8GO2blUoadk2Vzor.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1989931011082444800/pl/BfO-kkrndZpU6bXt.m3u8?v=cd1
+  public_metrics:
+    view_count: 915
+referenced_tweets:
+- type: replied_to
+  id: '1989930921110491413'
+  text: "Time to teach everyone some \"alien\" symbols for electrical physics! \n\
+    Slide 1 shows the \"Lorentz force\" as drawn in crops 1995, using alien symbols\
+    \ rather than our inscrutable textbook equations. Much easier to understand. \n\
+    \"B\" is a N/S magnetic field. The dashed line shows how https://t.co/TxOg9gmEqk"
+has_video: true
+has_image: false
+media_count: 1

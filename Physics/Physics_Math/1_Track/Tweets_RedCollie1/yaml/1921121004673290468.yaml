@@ -1,0 +1,75 @@
+id: '1921121004673290468'
+url: https://x.com/RedCollie1/status/1921121004673290468
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: All ring magnets will create a stable focal point nearby, if the floater magnet
+  is no larger than an empty centre of the ring magnet. This then becomes a free~floating
+  point to allow spinning magnetic levitation. Please watch, learn and enjoy! 🛸🛸🛸
+  https://t.co/iy8mWJMmJ0
+created_at: '2025-05-10T08:31:54.000Z'
+lang: en
+conversation_id: '1921121004673290468'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 52
+  reply_count: 13
+  like_count: 394
+  quote_count: 3
+  bookmark_count: 151
+  impression_count: 19677
+entities:
+  urls:
+  - start: 248
+    end: 271
+    url: https://t.co/iy8mWJMmJ0
+    expanded_url: https://x.com/RedCollie1/status/1921121004673290468/video/1
+    display_url: pic.x.com/iy8mWJMmJ0
+    media_key: '13_1921120807733911552'
+attachments:
+  media_keys:
+  - '13_1921120807733911552'
+media:
+- media_key: '13_1921120807733911552'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1921120807733911552/img/SM3ybXHJOKCactfK.jpg
+  duration_ms: 285009
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1921120807733911552/vid/avc1/480x270/9jEO62KskE27A63e.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1921120807733911552/vid/avc1/640x360/cyOPsvh6fMd16rSo.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1921120807733911552/pl/TWw3etPqRLQvY54j.m3u8
+  public_metrics:
+    view_count: 10543
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

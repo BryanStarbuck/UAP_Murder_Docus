@@ -1,0 +1,109 @@
+id: '1914291048945443134'
+url: https://x.com/RedCollie1/status/1914291048945443134
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: AC versus DC power at 6.6 kV https://t.co/jgx47BXqj7
+created_at: '2025-04-21T12:12:06.000Z'
+lang: de
+conversation_id: '1913912117994086451'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 532
+entities:
+  urls:
+  - start: 29
+    end: 52
+    url: https://t.co/jgx47BXqj7
+    expanded_url: https://x.com/RedCollie1/status/1914291048945443134/video/1
+    display_url: pic.x.com/jgx47BXqj7
+    media_key: '13_1914290934143188992'
+  - start: 29
+    end: 52
+    url: https://t.co/jgx47BXqj7
+    expanded_url: https://x.com/RedCollie1/status/1914291048945443134/video/1
+    display_url: pic.x.com/jgx47BXqj7
+    media_key: '13_1914290978443411456'
+attachments:
+  media_keys:
+  - '13_1914290934143188992'
+  - '13_1914290978443411456'
+media:
+- media_key: '13_1914290934143188992'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914290934143188992/img/CDwj-lRP1pEH6iN1.jpg
+  duration_ms: 9880
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290934143188992/vid/avc1/480x270/-Ka5CI-HblkB1_QU.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290934143188992/vid/avc1/640x360/K5oNmK3s-dFXJIfg.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290934143188992/vid/avc1/1280x720/sfuOZ23UBFmTW70e.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914290934143188992/pl/ORmSYhwetzPLyI9H.m3u8?tag=16
+  public_metrics:
+    view_count: 171
+- media_key: '13_1914290978443411456'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914290978443411456/img/mA7PmQ4zTj2BuIyq.jpg
+  duration_ms: 11440
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290978443411456/vid/avc1/480x270/4D09a1ft8a6Fwt6V.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290978443411456/vid/avc1/640x360/k0xiAAlXes32EuVd.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914290978443411456/vid/avc1/1280x720/zx7xKJLJ7uk5IFEV.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914290978443411456/pl/rly17ByIsWWXtVSz.m3u8?tag=16
+  public_metrics:
+    view_count: 53
+referenced_tweets:
+- type: replied_to
+  id: '1913912117994086451'
+  text: "You can see here that ordinary air, once ionized at 6.6 kV, spins down toward\
+    \ a horizontal N-S spinning magnet, just as if there were a \"vortex\" created\
+    \ in space. \nNever measured before! Not in textbooks or journals.\n\"A fool is\
+    \ a man who has never done an experiment\" Erasmus https://t.co/8pVm5MoUHL"
+has_video: true
+has_image: false
+media_count: 2

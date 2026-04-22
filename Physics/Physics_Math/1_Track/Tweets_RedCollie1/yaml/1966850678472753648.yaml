@@ -1,0 +1,184 @@
+id: '1966850678472753648'
+url: https://x.com/RedCollie1/status/1966850678472753648
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Look, my friends, it MAY BE that aliens have already given anti-gravity tech
+  to the US military in secret.
+
+  But they will NEVER allow such knowledge to be shared openly.
+
+  Thus millions of physicists worldwide will know NOTHING about this important subject.
+
+  Don''t you think it might https://t.co/y5nqopsk7Q'
+created_at: '2025-09-13T13:05:18.000Z'
+lang: en
+conversation_id: '1966850678472753648'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 58
+  reply_count: 53
+  like_count: 529
+  quote_count: 3
+  bookmark_count: 188
+  impression_count: 70519
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/y5nqopsk7Q
+    expanded_url: https://x.com/RedCollie1/status/1966850678472753648/video/1
+    display_url: pic.x.com/y5nqopsk7Q
+    media_key: '13_1966849762998841346'
+  - start: 280
+    end: 303
+    url: https://t.co/y5nqopsk7Q
+    expanded_url: https://x.com/RedCollie1/status/1966850678472753648/video/1
+    display_url: pic.x.com/y5nqopsk7Q
+    media_key: '13_1966849814777516032'
+  - start: 280
+    end: 303
+    url: https://t.co/y5nqopsk7Q
+    expanded_url: https://x.com/RedCollie1/status/1966850678472753648/video/1
+    display_url: pic.x.com/y5nqopsk7Q
+    media_key: '13_1966849882691694592'
+  - start: 280
+    end: 303
+    url: https://t.co/y5nqopsk7Q
+    expanded_url: https://x.com/RedCollie1/status/1966850678472753648/video/1
+    display_url: pic.x.com/y5nqopsk7Q
+    media_key: '13_1966849984579739648'
+attachments:
+  media_keys:
+  - '13_1966849762998841346'
+  - '13_1966849814777516032'
+  - '13_1966849882691694592'
+  - '13_1966849984579739648'
+media:
+- media_key: '13_1966849762998841346'
+  type: video
+  width: 1280
+  height: 1620
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966849762998841346/img/nq92m9u2oNg1hNTl.jpg
+  duration_ms: 15185
+  variants:
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966849762998841346/pl/AHJzESok-8id0pxB.m3u8?v=cfc
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849762998841346/vid/avc1/320x404/-NQOP7bk9jFeCDHR.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849762998841346/vid/avc1/720x910/UN9ZKPBFbx7Y_4Lb.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849762998841346/vid/avc1/1280x1620/ZQUwJrj8Bqyt6LyS.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849762998841346/vid/avc1/480x606/4WUidkdIW8P9uyfH.mp4
+  public_metrics:
+    view_count: 36629
+- media_key: '13_1966849814777516032'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966849814777516032/img/eiCTiULaNYyX1zu6.jpg
+  duration_ms: 26259
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849814777516032/vid/avc1/480x270/wNTN7VVWn_4j_pTu.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849814777516032/vid/avc1/640x360/v8IQzckaZXOOT0-q.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849814777516032/vid/avc1/1280x720/7TBu5njPHGua4BxO.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966849814777516032/pl/Xzd6oZchVt4LRUmB.m3u8?v=cfc
+  public_metrics:
+    view_count: 10148
+- media_key: '13_1966849882691694592'
+  type: video
+  width: 1280
+  height: 1046
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966849882691694592/img/T0x7pQao-phTun1f.jpg
+  duration_ms: 22144
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849882691694592/vid/avc1/330x270/e2t0yRQmvJt9c3to.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849882691694592/vid/avc1/880x720/fCYFeFvgPvmyJcHW.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966849882691694592/pl/8V3XxqH1QXQZdmxR.m3u8?v=cfc
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849882691694592/vid/avc1/440x360/HB59RjWT6kPLBz26.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849882691694592/vid/avc1/1280x1046/0AHUBmkWB1oSY188.mp4
+  public_metrics:
+    view_count: 3820
+- media_key: '13_1966849984579739648'
+  type: video
+  width: 601
+  height: 508
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966849984579739648/img/wyTQ2l-OEbHLLLi8.jpg
+  duration_ms: 14066
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849984579739648/vid/avc1/318x270/2CO-6Qmpx9Qlln4b.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849984579739648/vid/avc1/424x360/vDzIEqXn3rcxFPGn.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966849984579739648/vid/avc1/600x508/D3lsL6e7GO2qLZ1P.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966849984579739648/pl/WbFI6BkQ7k-cF45l.m3u8?v=cfc
+  public_metrics:
+    view_count: 2344
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 4
+note_tweet:
+  text: "Look, my friends, it MAY BE that aliens have already given anti-gravity tech\
+    \ to the US military in secret.\nBut they will NEVER allow such knowledge to be\
+    \ shared openly.\nThus millions of physicists worldwide will know NOTHING about\
+    \ this important subject.\nDon't you think it might be wise, therefore, for me\
+    \ to re-discover \"UFO physics\" in my small private lab, then share it openly\
+    \ with the world? \nIt has to be done in a way so that millions of physicists\
+    \ will know that it is real, and how to reproduce or develop it further in their\
+    \ own labs, with minimal time and expense. \nAlien drones are flying all around\
+    \ us. \U0001F6F8\nWatch them all SPIN. Consider the underlying physics. There\
+    \ are only two ways to make something spin: by the Lorentz force and/or by 3-phase\
+    \ power."

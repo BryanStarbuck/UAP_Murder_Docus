@@ -1,0 +1,78 @@
+id: '1924393137453281418'
+url: https://x.com/RedCollie1/status/1924393137453281418
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Mr. Matumba Part 4 😝😜🥲 https://t.co/8AziLFwYjY
+created_at: '2025-05-19T09:14:12.000Z'
+lang: tl
+conversation_id: '1924391571358941666'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 894
+entities:
+  urls:
+  - start: 23
+    end: 46
+    url: https://t.co/8AziLFwYjY
+    expanded_url: https://x.com/RedCollie1/status/1924393137453281418/video/1
+    display_url: pic.x.com/8AziLFwYjY
+    media_key: '13_1924393015038050304'
+attachments:
+  media_keys:
+  - '13_1924393015038050304'
+media:
+- media_key: '13_1924393015038050304'
+  type: video
+  width: 500
+  height: 432
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1924393015038050304/img/qwij6sOBl_Cyjld5.jpg
+  duration_ms: 131333
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1924393015038050304/vid/avc1/312x270/lfqKlYXAdkNFP5ED.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1924393015038050304/vid/avc1/500x432/SSaNca-2wLZwP7pi.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1924393015038050304/pl/az8GzN4jjZiouqjk.m3u8
+  public_metrics:
+    view_count: 221
+referenced_tweets:
+- type: replied_to
+  id: '1924391571358941666'
+  text: "Every once in a while, I post a famous phone conversation between the trickster\
+    \ \"Mr. Matumba\" with Jim Schnabel, a \"reporter\" whose job in 1991 was to convince\
+    \ the English public that crop circles were \"not real\" (along with his friend\
+    \ Robert Irving whom I know). \nThe exposed https://t.co/7DPkF6YXZZ"
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,4 @@
+# Ignore all video files in this directory.
+# The .gitignore itself is checked in so the directory is visible in git.
+*
+!.gitignore

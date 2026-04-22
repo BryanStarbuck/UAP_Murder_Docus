@@ -1,0 +1,142 @@
+id: '1997885735605510491'
+url: https://x.com/RedCollie1/status/1997885735605510491
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "We can see in slide 1 and movie 2, how 3I/ATLAS may move forward through space\
+  \ like for an electromagnetic railgun, which expels BLUE argon (or xexon) gas. \n\
+  Ray has also noticed (movie 3) that the blue exhaust of 3I/ATLAS spins rapidly like\
+  \ a \"whirling tornado\".\nThey showed us in https://t.co/1VGblV80PE"
+created_at: '2025-12-08T04:27:32.000Z'
+lang: en
+conversation_id: '1997885735605510491'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 964
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/1VGblV80PE
+    expanded_url: https://x.com/RedCollie1/status/1997885735605510491/video/1
+    display_url: pic.x.com/1VGblV80PE
+    media_key: '3_1997883346786127872'
+  - start: 281
+    end: 304
+    url: https://t.co/1VGblV80PE
+    expanded_url: https://x.com/RedCollie1/status/1997885735605510491/video/1
+    display_url: pic.x.com/1VGblV80PE
+    media_key: '13_1997883367304667136'
+  - start: 281
+    end: 304
+    url: https://t.co/1VGblV80PE
+    expanded_url: https://x.com/RedCollie1/status/1997885735605510491/video/1
+    display_url: pic.x.com/1VGblV80PE
+    media_key: '13_1997883390377512960'
+  - start: 281
+    end: 304
+    url: https://t.co/1VGblV80PE
+    expanded_url: https://x.com/RedCollie1/status/1997885735605510491/video/1
+    display_url: pic.x.com/1VGblV80PE
+    media_key: '3_1997883423588077568'
+attachments:
+  media_keys:
+  - '3_1997883346786127872'
+  - '13_1997883367304667136'
+  - '13_1997883390377512960'
+  - '3_1997883423588077568'
+media:
+- media_key: '3_1997883346786127872'
+  type: photo
+  width: 1798
+  height: 855
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7noUZPbEAAgiO2.jpg
+- media_key: '13_1997883367304667136'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1997883367304667136/img/OpugVlAkenC3rGxn.jpg
+  duration_ms: 42120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883367304667136/vid/avc1/480x270/5axtUNdI2uUGn6uS.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883367304667136/vid/avc1/640x360/wzs1gXrxuE0KbT85.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883367304667136/vid/avc1/1280x720/J8I2Okx-paV4oAer.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1997883367304667136/pl/mMwfHV2vAfCl2mr-.m3u8
+  public_metrics:
+    view_count: 465
+- media_key: '13_1997883390377512960'
+  type: video
+  width: 960
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1997883390377512960/img/eMw8CdG-KK1d-Jtv.jpg
+  duration_ms: 38866
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883390377512960/vid/avc1/360x270/xvEm3AxFK0n2qqKc.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883390377512960/vid/avc1/480x360/mbqKDoVPZwGwiYMj.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997883390377512960/vid/avc1/960x720/n3ZxGsL-dLPCUFkq.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1997883390377512960/pl/A7-lAc9Dk1n6cinC.m3u8
+  public_metrics:
+    view_count: 90
+- media_key: '3_1997883423588077568'
+  type: photo
+  width: 528
+  height: 1577
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7noY3Wb0AAe91t.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "We can see in slide 1 and movie 2, how 3I/ATLAS may move forward through\
+    \ space like for an electromagnetic railgun, which expels BLUE argon (or xexon)\
+    \ gas. \nRay has also noticed (movie 3) that the blue exhaust of 3I/ATLAS spins\
+    \ rapidly like a \"whirling tornado\".\nThey showed us in crops how that might\
+    \ work. \nHow an ordinary LINEAR railgun (movie 2) may become a CIRCULAR SPINNING\
+    \ railgun (movie 3 or slide 4).\nWe just need to rotate the \"n-s\" magnetic field,\
+    \ and the high-voltage, DC electrical field, in synchrony with one another. Then\
+    \ we will get \"blue tornados\". \nThank you, E.T. friends! Study and learn please,\
+    \ Earth scientists.\U0001F921"

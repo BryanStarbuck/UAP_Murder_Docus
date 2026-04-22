@@ -1,0 +1,91 @@
+id: '1974623012554203429'
+url: https://x.com/RedCollie1/status/1974623012554203429
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@grok @Chef_FEZ Near the end, Jim Schabel voice tape 1991
+
+  "Is there anyone in the government supporting you?"
+
+  "Yes, we have support at the highest levels" https://t.co/GLCrsc1KEq'
+created_at: '2025-10-04T23:49:47.000Z'
+lang: en
+conversation_id: '1973875259930722580'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 258
+entities:
+  urls:
+  - start: 155
+    end: 178
+    url: https://t.co/GLCrsc1KEq
+    expanded_url: https://x.com/RedCollie1/status/1974623012554203429/video/1
+    display_url: pic.x.com/GLCrsc1KEq
+    media_key: '13_1974622727786184704'
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 15
+    username: Chef_FEZ
+    id: '375881827'
+attachments:
+  media_keys:
+  - '13_1974622727786184704'
+media:
+- media_key: '13_1974622727786184704'
+  type: video
+  width: 500
+  height: 432
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1974622727786184704/img/5WTxQh_Vntk8GXwJ.jpg
+  duration_ms: 528378
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1974622727786184704/vid/avc1/312x270/P1I_c4kDYrHbPRXk.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1974622727786184704/vid/avc1/500x432/ZhFISVrgjyO6bkhS.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1974622727786184704/pl/2cxlO7_QdRUiC6Yt.m3u8
+  public_metrics:
+    view_count: 217
+referenced_tweets:
+- type: replied_to
+  id: '1974621578219671806'
+  text: '@RedCollie1 @Chef_FEZ Thanks for sharing the audio clip—it''s a phone conversation
+    from 1991 with Jim Schnabel discussing crop circle debunking and possible agency
+    ties. Schnabel''s book "Round in Circles" details human hoaxes he participated
+    in, while other researchers like Colin Andrews argue for'
+has_video: true
+has_image: false
+media_count: 1

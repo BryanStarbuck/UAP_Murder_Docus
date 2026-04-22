@@ -1,0 +1,81 @@
+id: '2007748027658948971'
+url: https://x.com/RedCollie1/status/2007748027658948971
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The Newtonian 3rd Law reaction can be counter-spin but not downward. https://t.co/akY9gWRhBB
+created_at: '2026-01-04T09:36:46.000Z'
+lang: en
+conversation_id: '2007700816019562994'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 913
+entities:
+  urls:
+  - start: 69
+    end: 92
+    url: https://t.co/akY9gWRhBB
+    expanded_url: https://x.com/RedCollie1/status/2007748027658948971/video/1
+    display_url: pic.x.com/akY9gWRhBB
+    media_key: '13_2007747945261940736'
+attachments:
+  media_keys:
+  - '13_2007747945261940736'
+media:
+- media_key: '13_2007747945261940736'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2007747945261940736/img/Cg_-La_z6IwKDG-N.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007747945261940736/vid/avc1/480x270/izQoKXwu04lXxNZy.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007747945261940736/vid/avc1/640x360/sKdUuTEio3bAvYlg.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007747945261940736/vid/avc1/1280x720/9b7koJKI-NwcqB-6.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2007747945261940736/pl/cqKjs95upBpftAZj.m3u8
+  public_metrics:
+    view_count: 439
+referenced_tweets:
+- type: replied_to
+  id: '2007700816019562994'
+  text: "I did a simple control experiment today, while setting up for a large experiment\
+    \ next week. In this brief video, I show where the \"upward force\" of UFO levitation\
+    \ comes from. It is so SIMPLE! \nCertain details of the device must be arranged\
+    \ correctly, just like for adjusting the https://t.co/vRkTNZ85Cz"
+has_video: true
+has_image: false
+media_count: 1

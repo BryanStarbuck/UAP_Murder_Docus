@@ -1,0 +1,66 @@
+id: '1965660341972738541'
+url: https://x.com/RedCollie1/status/1965660341972738541
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The green color is NICKEL. https://t.co/p1rywIW1ZX
+created_at: '2025-09-10T06:15:20.000Z'
+lang: en
+conversation_id: '1965426616622100855'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 2328
+entities:
+  urls:
+  - start: 27
+    end: 50
+    url: https://t.co/p1rywIW1ZX
+    expanded_url: https://x.com/RedCollie1/status/1965660341972738541/photo/1
+    display_url: pic.x.com/p1rywIW1ZX
+    media_key: '3_1965660220824453120'
+attachments:
+  media_keys:
+  - '3_1965660220824453120'
+media:
+- media_key: '3_1965660220824453120'
+  type: photo
+  width: 1000
+  height: 671
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0dtjmtbgAA3hpJ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1965426616622100855'
+  text: "The \"coma\" and \"tail\" of 3I/ATLAS are both now turning \"green\", because\
+    \ so much NICKEL has been released into the gas phase. \nhttps://t.co/rxORTActQO\n\
+    Slide 1 real color, slide 2 inverted color. \nResearch has shown that the \"tails\"\
+    \ of \"comets\" NEVER TURN GREEN. So what are we https://t.co/V9xaJ6fekA"
+has_video: false
+has_image: true
+media_count: 1

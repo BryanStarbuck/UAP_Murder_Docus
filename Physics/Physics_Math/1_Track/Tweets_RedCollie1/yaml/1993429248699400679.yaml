@@ -1,0 +1,76 @@
+id: '1993429248699400679'
+url: https://x.com/RedCollie1/status/1993429248699400679
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@spiritstem_ They live in another universe related to ours, like the two sides
+  of a Mobius strip. We are so close.... https://t.co/85IP9ZoEDd'
+created_at: '2025-11-25T21:19:03.000Z'
+lang: en
+conversation_id: '1993417138468475373'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 379
+entities:
+  urls:
+  - start: 118
+    end: 141
+    url: https://t.co/85IP9ZoEDd
+    expanded_url: https://x.com/RedCollie1/status/1993429248699400679/photo/1
+    display_url: pic.x.com/85IP9ZoEDd
+    media_key: '16_1993429067937562624'
+  mentions:
+  - start: 0
+    end: 12
+    username: spiritstem_
+    id: '1490078884511076358'
+attachments:
+  media_keys:
+  - '16_1993429067937562624'
+media:
+- media_key: '16_1993429067937562624'
+  type: animated_gif
+  width: 666
+  height: 500
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G6oVLPdbQAAqd5O.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G6oVLPdbQAAqd5O.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1993417138468475373'
+  text: "The shape of these infinity symbol crop circles (esp the serpentine \U0001F40D\
+    \ style of the newer one)  bring to mind the ouroboros -- \n\nwhich is a reflection\
+    \ of the cyclical (and non-linear) nature of TIME ♾\n\nnotice how well they fit\
+    \ together 17 (= 8 ♾) years apart https://t.co/7iQVsR5lTV https://t.co/20AnYVREbY"
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,85 @@
+id: '1936372682729332911'
+url: https://x.com/RedCollie1/status/1936372682729332911
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Ordinary Lenz levitation WITHOUT spin.
+
+  No anti-gravity effect.
+
+  Upward and downward forces cancel. https://t.co/Jkmtu5eW0j'
+created_at: '2025-06-21T10:36:38.000Z'
+lang: en
+conversation_id: '1936371306309771275'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 5
+  impression_count: 1211
+entities:
+  urls:
+  - start: 98
+    end: 121
+    url: https://t.co/Jkmtu5eW0j
+    expanded_url: https://x.com/RedCollie1/status/1936372682729332911/video/1
+    display_url: pic.x.com/Jkmtu5eW0j
+    media_key: '13_1936372506547388416'
+attachments:
+  media_keys:
+  - '13_1936372506547388416'
+media:
+- media_key: '13_1936372506547388416'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1936372506547388416/img/Lpmzux53U4gvfoLA.jpg
+  duration_ms: 73400
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1936372506547388416/vid/avc1/480x270/r10fNL6yZqWcCh6T.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1936372506547388416/vid/avc1/640x360/PB6-VsurYVlapuBU.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1936372506547388416/vid/avc1/1280x720/MhL0BRmi0O31owr-.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1936372506547388416/pl/LskBie9D3NTbj4to.m3u8
+  public_metrics:
+    view_count: 476
+referenced_tweets:
+- type: replied_to
+  id: '1936371306309771275'
+  text: "Here I will show the experiment I am doing next, to try and understand how\
+    \ UFOs, drones or orbs fly? \nLooking first at movie 1, we can see \"fast spin\"\
+    \ by a beaded, magnetic flywheel of some kind.\nLooking next at slide 2, we can\
+    \ see two sets of 3-phase wire coils, which make that https://t.co/bsTM4nIH81"
+has_video: true
+has_image: false
+media_count: 1

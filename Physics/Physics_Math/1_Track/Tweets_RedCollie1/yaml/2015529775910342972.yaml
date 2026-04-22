@@ -1,0 +1,119 @@
+id: '2015529775910342972'
+url: https://x.com/RedCollie1/status/2015529775910342972
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'This is pretty much how UFO physics seems to work.
+
+  For those with "eyes to see". I am building it. https://t.co/sl61mDOe2H'
+created_at: '2026-01-25T20:58:39.000Z'
+lang: en
+conversation_id: '2015529775910342972'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 12
+  reply_count: 7
+  like_count: 91
+  quote_count: 0
+  bookmark_count: 29
+  impression_count: 5191
+entities:
+  urls:
+  - start: 99
+    end: 122
+    url: https://t.co/sl61mDOe2H
+    expanded_url: https://x.com/RedCollie1/status/2015529775910342972/video/1
+    display_url: pic.x.com/sl61mDOe2H
+    media_key: '3_2015529597992050688'
+  - start: 99
+    end: 122
+    url: https://t.co/sl61mDOe2H
+    expanded_url: https://x.com/RedCollie1/status/2015529775910342972/video/1
+    display_url: pic.x.com/sl61mDOe2H
+    media_key: '3_2015529628845449216'
+  - start: 99
+    end: 122
+    url: https://t.co/sl61mDOe2H
+    expanded_url: https://x.com/RedCollie1/status/2015529775910342972/video/1
+    display_url: pic.x.com/sl61mDOe2H
+    media_key: '3_2015529660952838144'
+  - start: 99
+    end: 122
+    url: https://t.co/sl61mDOe2H
+    expanded_url: https://x.com/RedCollie1/status/2015529775910342972/video/1
+    display_url: pic.x.com/sl61mDOe2H
+    media_key: '13_2015529702174478336'
+attachments:
+  media_keys:
+  - '3_2015529597992050688'
+  - '3_2015529628845449216'
+  - '3_2015529660952838144'
+  - '13_2015529702174478336'
+media:
+- media_key: '3_2015529597992050688'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_iZfZqaIAACBDM.jpg
+- media_key: '3_2015529628845449216'
+  type: photo
+  width: 690
+  height: 722
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_iZhMmboAA5J6c.jpg
+- media_key: '3_2015529660952838144'
+  type: photo
+  width: 708
+  height: 708
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_iZjENbgAAW-jq.jpg
+- media_key: '13_2015529702174478336'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2015529702174478336/img/0B8BAaObSEh6skU7.jpg
+  duration_ms: 13504
+  variants:
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2015529702174478336/pl/yR6M3KvWa6_0keCM.m3u8?v=cfc
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015529702174478336/vid/avc1/720x730/yFqMCCZEQianyAro.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015529702174478336/vid/avc1/480x486/m59Zwbx21oEwhCQe.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015529702174478336/vid/avc1/1000x1014/KtxQAy9VdorjD6Ke.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015529702174478336/vid/avc1/320x324/Q_1QmmBIkk1-NzA0.mp4
+  public_metrics:
+    view_count: 2020
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

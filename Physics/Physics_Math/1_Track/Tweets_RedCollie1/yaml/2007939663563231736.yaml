@@ -1,0 +1,76 @@
+id: '2007939663563231736'
+url: https://x.com/RedCollie1/status/2007939663563231736
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Spinning three-phase magnetism outside, with a an electromagnetic Corbino-disc\
+  \ inside. \nThat is how UFOs fly. PUZZLE. \nLorentz spin, then a 3-phase counter-spin.\
+  \ \nWho can help me to solve it?\nWhere are the great physicists of our day? \U0001F6F8\
+  \ https://t.co/8wzV1YExq3"
+created_at: '2026-01-04T22:18:16.000Z'
+lang: en
+conversation_id: '2007939663563231736'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 2
+  like_count: 28
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1148
+entities:
+  urls:
+  - start: 237
+    end: 260
+    url: https://t.co/8wzV1YExq3
+    expanded_url: https://x.com/RedCollie1/status/2007939663563231736/photo/1
+    display_url: pic.x.com/8wzV1YExq3
+    media_key: '3_2007938933628522496'
+  - start: 237
+    end: 260
+    url: https://t.co/8wzV1YExq3
+    expanded_url: https://x.com/RedCollie1/status/2007939663563231736/photo/1
+    display_url: pic.x.com/8wzV1YExq3
+    media_key: '3_2007938952490352640'
+attachments:
+  media_keys:
+  - '3_2007938933628522496'
+  - '3_2007938952490352640'
+media:
+- media_key: '3_2007938933628522496'
+  type: photo
+  width: 960
+  height: 747
+  alt_text: null
+  url: https://pbs.twimg.com/media/G92h0lWa0AA6BL9.jpg
+- media_key: '3_2007938952490352640'
+  type: photo
+  width: 900
+  height: 860
+  alt_text: null
+  url: https://pbs.twimg.com/media/G92h1rnbgAAh1Ce.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

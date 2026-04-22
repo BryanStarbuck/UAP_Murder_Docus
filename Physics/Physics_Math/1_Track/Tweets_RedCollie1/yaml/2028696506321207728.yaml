@@ -1,0 +1,134 @@
+id: '2028696506321207728'
+url: https://x.com/RedCollie1/status/2028696506321207728
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: I pretty much have it solved now, except a need for less friction by clever
+  engineering. Other slides in the first comment below give a precise solution when
+  we use 6 rather than 9 outer wire coils. 🛸 https://t.co/PS5GAhWi8U
+created_at: '2026-03-03T04:58:33.000Z'
+lang: en
+conversation_id: '2028696506321207728'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 38
+  reply_count: 19
+  like_count: 299
+  quote_count: 1
+  bookmark_count: 179
+  impression_count: 13895
+entities:
+  urls:
+  - start: 201
+    end: 224
+    url: https://t.co/PS5GAhWi8U
+    expanded_url: https://x.com/RedCollie1/status/2028696506321207728/video/1
+    display_url: pic.x.com/PS5GAhWi8U
+    media_key: '13_2028696061452439552'
+  - start: 201
+    end: 224
+    url: https://t.co/PS5GAhWi8U
+    expanded_url: https://x.com/RedCollie1/status/2028696506321207728/video/1
+    display_url: pic.x.com/PS5GAhWi8U
+    media_key: '3_2028696094520274944'
+  - start: 201
+    end: 224
+    url: https://t.co/PS5GAhWi8U
+    expanded_url: https://x.com/RedCollie1/status/2028696506321207728/video/1
+    display_url: pic.x.com/PS5GAhWi8U
+    media_key: '3_2028696113969262593'
+  - start: 201
+    end: 224
+    url: https://t.co/PS5GAhWi8U
+    expanded_url: https://x.com/RedCollie1/status/2028696506321207728/video/1
+    display_url: pic.x.com/PS5GAhWi8U
+    media_key: '13_2028696138199785472'
+attachments:
+  media_keys:
+  - '13_2028696061452439552'
+  - '3_2028696094520274944'
+  - '3_2028696113969262593'
+  - '13_2028696138199785472'
+media:
+- media_key: '13_2028696061452439552'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2028696061452439552/img/C9X7B6RAtZPD6fU2.jpg
+  duration_ms: 120920
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696061452439552/vid/avc1/480x270/-IGB_bsVaZcAS5rb.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696061452439552/vid/avc1/640x360/QyWnEe93HY2pO-dy.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696061452439552/vid/avc1/1280x720/6o0fZTyrcVwFinfW.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2028696061452439552/pl/4yavcM1ykhIJcFkE.m3u8
+  public_metrics:
+    view_count: 7527
+- media_key: '3_2028696094520274944'
+  type: photo
+  width: 1000
+  height: 849
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCdgWXcacAAz_XA.jpg
+- media_key: '3_2028696113969262593'
+  type: photo
+  width: 680
+  height: 655
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCdgXf5acAEtiHj.jpg
+- media_key: '13_2028696138199785472'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2028696138199785472/img/cV5Qo627oTRs943z.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696138199785472/vid/avc1/320x324/gBwUt3UUS6CHRC_J.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696138199785472/vid/avc1/1000x1014/0SH8trta40W7y6sr.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696138199785472/vid/avc1/720x730/k_HJyqCJiHB91GC9.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028696138199785472/vid/avc1/480x486/S8YlRGewvQZD9Uy6.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2028696138199785472/pl/5UP6g_vaboWRVDYT.m3u8?v=cfc
+  public_metrics:
+    view_count: 655
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

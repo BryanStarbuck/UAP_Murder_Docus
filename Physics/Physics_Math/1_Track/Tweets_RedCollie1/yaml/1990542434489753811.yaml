@@ -1,0 +1,82 @@
+id: '1990542434489753811'
+url: https://x.com/RedCollie1/status/1990542434489753811
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '3I/ATLAS on November 17, 2015.
+
+  I have inverted light for dark, to help you see an anti-tail on the left, and a
+  series of fan-like jets (thrusters?) on the right.
+
+  https://t.co/RCbiewKJ7x https://t.co/S4icZmfjDT'
+created_at: '2025-11-17T22:07:53.000Z'
+lang: en
+conversation_id: '1990542434489753811'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 9
+  like_count: 104
+  quote_count: 0
+  bookmark_count: 10
+  impression_count: 9035
+entities:
+  urls:
+  - start: 162
+    end: 185
+    url: https://t.co/RCbiewKJ7x
+    expanded_url: https://avi-loeb.medium.com/magnificent-images-of-jets-around-3i-atlas-e4ad8acc723c
+    display_url: avi-loeb.medium.com/magnificent-im…
+    images:
+    - url: https://pbs.twimg.com/news_img/1998947959048957952/BL9E2k4W?format=jpg&name=orig
+      width: 1200
+      height: 738
+    - url: https://pbs.twimg.com/news_img/1998947959048957952/BL9E2k4W?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Magnificent Images of Jets Around 3I/ATLAS
+    description: The astrophotographer Satoru Murata released here a stunning image
+      of the interstellar object 3I/ATLAS combining 24 exposures of 60 seconds…
+    unwound_url: https://avi-loeb.medium.com/magnificent-images-of-jets-around-3i-atlas-e4ad8acc723c
+  - start: 186
+    end: 209
+    url: https://t.co/S4icZmfjDT
+    expanded_url: https://x.com/RedCollie1/status/1990542434489753811/photo/1
+    display_url: pic.x.com/S4icZmfjDT
+    media_key: '3_1990542132843851777'
+attachments:
+  media_keys:
+  - '3_1990542132843851777'
+media:
+- media_key: '3_1990542132843851777'
+  type: photo
+  width: 2000
+  height: 1140
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5_ThgKbMAE03do.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,148 @@
+id: '1956522809716535664'
+url: https://x.com/RedCollie1/status/1956522809716535664
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "A VORTEX in water, caused by a fast-spinning stir magnet (shown upside-down).\
+  \ \nA VORTEX in spacetime, caused by the fast-spinning disc-mass of a gyroscope.\
+  \ It allows that disc-mass to remain high off the ground (due to a loss of \"downward\"\
+  \ gravity), and also causes spontaneous https://t.co/sHqXMpNKow"
+created_at: '2025-08-16T01:06:02.000Z'
+lang: en
+conversation_id: '1956522809716535664'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 28
+  quote_count: 0
+  bookmark_count: 9
+  impression_count: 3898
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/sHqXMpNKow
+    expanded_url: https://x.com/RedCollie1/status/1956522809716535664/video/1
+    display_url: pic.x.com/sHqXMpNKow
+    media_key: '13_1956513852885213184'
+  - start: 278
+    end: 301
+    url: https://t.co/sHqXMpNKow
+    expanded_url: https://x.com/RedCollie1/status/1956522809716535664/video/1
+    display_url: pic.x.com/sHqXMpNKow
+    media_key: '13_1956513878655053824'
+  - start: 278
+    end: 301
+    url: https://t.co/sHqXMpNKow
+    expanded_url: https://x.com/RedCollie1/status/1956522809716535664/video/1
+    display_url: pic.x.com/sHqXMpNKow
+    media_key: '13_1956516018417004544'
+attachments:
+  media_keys:
+  - '13_1956513852885213184'
+  - '13_1956513878655053824'
+  - '13_1956516018417004544'
+media:
+- media_key: '13_1956513852885213184'
+  type: video
+  width: 501
+  height: 726
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956513852885213184/img/PICvMVdl8MEDvnj_.jpg
+  duration_ms: 7050
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956513852885213184/vid/avc1/320x462/aKwJIAmWTWMDuWmy.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956513852885213184/vid/avc1/500x724/WNwgS9Fcj0hBy-nS.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956513852885213184/pl/huwpuCKcm5iUlqKC.m3u8
+  public_metrics:
+    view_count: 1217
+- media_key: '13_1956513878655053824'
+  type: video
+  width: 572
+  height: 408
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956513878655053824/img/UxHFMJVJceA8sfnV.jpg
+  duration_ms: 10066
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956513878655053824/vid/avc1/378x270/k1YWiopCPJtcRoac.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956513878655053824/vid/avc1/572x408/FWK56w50POPBoiKz.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956513878655053824/pl/swJ7SeE6EJuzbr6v.m3u8
+  public_metrics:
+    view_count: 460
+- media_key: '13_1956516018417004544'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956516018417004544/img/6jtJG16WMS_pz-SH.jpg
+  duration_ms: 33466
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956516018417004544/vid/avc1/480x270/Kvba8guFM03noJZ9.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956516018417004544/vid/avc1/640x360/HqZvRiLI_SW0h_4d.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956516018417004544/vid/avc1/1280x720/u3IBKIvgQMlUS3N2.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956516018417004544/pl/24RA-inUAl5fgAbx.m3u8
+  public_metrics:
+    view_count: 240
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "A VORTEX in water, caused by a fast-spinning stir magnet (shown upside-down).\
+    \ \nA VORTEX in spacetime, caused by the fast-spinning disc-mass of a gyroscope.\
+    \ It allows that disc-mass to remain high off the ground (due to a loss of \"\
+    downward\" gravity), and also causes spontaneous precession as the gyroscope falls,\
+    \ but does not change the scale-weight below. \nA VORTEX in spacetime, caused\
+    \ by a fast-rotating magnetic field (above on a Dremel). It causes a magnet (200\
+    \ mm below) to spin high on a pole, without falling (due to a loss of \"downward\"\
+    \ gravity), but does not change the scale-weight below. \nHow are those three\
+    \ kinds of vortex propagated? \nHow do they reduce the \"downward\" force of gravity\
+    \ in a local sense, while affected objects remain inside of each vortex? \nHow\
+    \ can overall weight on a scale below remain unchanged? \U0001F9D0\nOur common\
+    \ notions of Newtonian gravity, or General Relativity, will NOT explain these\
+    \ interesting and unambiguous observations. \nOverall weight seems to be conserved,\
+    \ whether a \"vortex\" is formed far above a scale or not. \nWithin any \"vortex\"\
+    , a heavy gyroscope (or spinning magnet) may feel \"incredibly light\", since\
+    \ they are not affected there in a local sense by \"downward\" gravity. \nWe can\
+    \ see now why Newton was worried about \"water spinning in a bucket\"! \nPerhaps\
+    \ we should study how large planetary masses, or small fast-spinning objects,\
+    \ affect the underlying structure of spacetime, by curvature and/or twist?"

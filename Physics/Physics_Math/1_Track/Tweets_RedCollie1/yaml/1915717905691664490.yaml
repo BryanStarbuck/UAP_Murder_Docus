@@ -1,0 +1,82 @@
+id: '1915717905691664490'
+url: https://x.com/RedCollie1/status/1915717905691664490
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "This is a VERY EASY type of experiment to carry out, and you don't even need\
+  \ to spin the upper magnet by hand! \nNo relevance however to real UFO physics,\
+  \ for which the spinning magnet would need to become weightless. I am working on\
+  \ it. https://t.co/fnUHmFzZsa"
+created_at: '2025-04-25T10:41:55.000Z'
+lang: en
+conversation_id: '1915359976211833311'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 694
+entities:
+  urls:
+  - start: 237
+    end: 260
+    url: https://t.co/fnUHmFzZsa
+    expanded_url: https://x.com/RedCollie1/status/1915717905691664490/video/1
+    display_url: pic.x.com/fnUHmFzZsa
+    media_key: '13_1915717464387969024'
+attachments:
+  media_keys:
+  - '13_1915717464387969024'
+media:
+- media_key: '13_1915717464387969024'
+  type: video
+  width: 1280
+  height: 960
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1915717464387969024/img/8ruDeWIVjerx7rU2.jpg
+  duration_ms: 15181
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1915717464387969024/vid/avc1/360x270/hB3Pdm52NGnF7Dmd.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1915717464387969024/vid/avc1/480x360/Gwdtc0qxU2sk2K26.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1915717464387969024/vid/avc1/960x720/W9QnasZeNoTPhEgx.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1915717464387969024/pl/9jge77s4PW81u7JC.m3u8?tag=16
+  public_metrics:
+    view_count: 286
+referenced_tweets:
+- type: replied_to
+  id: '1915359976211833311'
+  text: This is just "magnetic repulsion" holding it up, but you can see why we need
+    "spin"? 🛸🛸🛸 https://t.co/Sw7zjcWNKR
+has_video: true
+has_image: false
+media_count: 1

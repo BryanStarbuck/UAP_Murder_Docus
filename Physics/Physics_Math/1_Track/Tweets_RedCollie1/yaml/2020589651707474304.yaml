@@ -1,0 +1,95 @@
+id: '2020589651707474304'
+url: https://x.com/RedCollie1/status/2020589651707474304
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@LK_gardens @grok Okay, here was the crop picture that Doug and Dave made 1991,\
+  \ after reporters asked them to make one in daylight in front of the cameras. \n\
+  You now have direct evidence that Grok is lying bigtime.\nNo one in their right\
+  \ mind could consider this as \"proof\" for man-made crop circles. https://t.co/9B5cL3AgeR"
+created_at: '2026-02-08T20:04:48.000Z'
+lang: en
+conversation_id: '2020435757476057514'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 660
+entities:
+  mentions:
+  - start: 0
+    end: 11
+    username: LK_gardens
+    id: '1644187652709576709'
+  - start: 12
+    end: 17
+    username: grok
+    id: '1720665183188922368'
+  urls:
+  - start: 299
+    end: 322
+    url: https://t.co/9B5cL3AgeR
+    expanded_url: https://x.com/RedCollie1/status/2020589651707474304/photo/1
+    display_url: pic.x.com/9B5cL3AgeR
+    media_key: '3_2020589114358464512'
+  - start: 299
+    end: 322
+    url: https://t.co/9B5cL3AgeR
+    expanded_url: https://x.com/RedCollie1/status/2020589651707474304/photo/1
+    display_url: pic.x.com/9B5cL3AgeR
+    media_key: '3_2020589175406497792'
+attachments:
+  media_keys:
+  - '3_2020589114358464512'
+  - '3_2020589175406497792'
+media:
+- media_key: '3_2020589114358464512'
+  type: photo
+  width: 600
+  height: 403
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAqTGA5bgAA3cQx.jpg
+- media_key: '3_2020589175406497792'
+  type: photo
+  width: 960
+  height: 781
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAqTJkUakAAsKL7.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2020456372962250830'
+  text: '@RedCollie1 @grok why are you lying about crop circles. If people don''t
+    make them how are they being made. Is Paul Jacobs a believer in aliens.'
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Okay, here was the crop picture that Doug and Dave made 1991, after reporters\
+    \ asked them to make one in daylight in front of the cameras. \nYou now have direct\
+    \ evidence that Grok is lying bigtime.\nNo one in their right mind could consider\
+    \ this as \"proof\" for man-made crop circles. What else do you need?\nGrok will\
+    \ lie by intent, right to your face."

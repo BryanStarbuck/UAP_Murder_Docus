@@ -1,0 +1,75 @@
+id: '1936553093199757428'
+url: https://x.com/RedCollie1/status/1936553093199757428
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Oh, sure, it was made by \"two old English guys with rope and boards, after\
+  \ leaving the pub late at night\". \nDrawn next to a BBC radio tower at Crabwood.\n\
+  \"We oppose deception\" (referring to the BBC). https://t.co/Of5dpSCAp0"
+created_at: '2025-06-21T22:33:31.000Z'
+lang: en
+conversation_id: '1936553093199757428'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 142
+  reply_count: 33
+  like_count: 1148
+  quote_count: 13
+  bookmark_count: 430
+  impression_count: 103767
+entities:
+  urls:
+  - start: 199
+    end: 222
+    url: https://t.co/Of5dpSCAp0
+    expanded_url: https://x.com/RedCollie1/status/1936553093199757428/photo/1
+    display_url: pic.x.com/Of5dpSCAp0
+    media_key: '3_1936552493434937344'
+  - start: 199
+    end: 222
+    url: https://t.co/Of5dpSCAp0
+    expanded_url: https://x.com/RedCollie1/status/1936553093199757428/photo/1
+    display_url: pic.x.com/Of5dpSCAp0
+    media_key: '3_1936552511122321408'
+attachments:
+  media_keys:
+  - '3_1936552493434937344'
+  - '3_1936552511122321408'
+media:
+- media_key: '3_1936552493434937344'
+  type: photo
+  width: 700
+  height: 525
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuAEO4QWIAAPwA8.jpg
+- media_key: '3_1936552511122321408'
+  type: photo
+  width: 700
+  height: 525
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuAEP6JWMAAWUSr.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

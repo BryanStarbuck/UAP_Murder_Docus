@@ -1,0 +1,78 @@
+id: '1914870002001567817'
+url: https://x.com/RedCollie1/status/1914870002001567817
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "After 200 years, our leading academic physicists are still talking about a\
+  \ \"Faraday Paradox\". \nPlease watch here for 3 minutes to become enlightened?\n\
+  \"The problem is all inside your head\" she said to me.\n\"The answer is simple,\
+  \ if you take it logically.\" \U0001F604 https://t.co/9YWq9F5snP"
+created_at: '2025-04-23T02:32:39.000Z'
+lang: en
+conversation_id: '1914870002001567817'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 28
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 2874
+entities:
+  urls:
+  - start: 256
+    end: 279
+    url: https://t.co/9YWq9F5snP
+    expanded_url: https://x.com/RedCollie1/status/1914870002001567817/video/1
+    display_url: pic.x.com/9YWq9F5snP
+    media_key: '13_1914869704390533120'
+attachments:
+  media_keys:
+  - '13_1914869704390533120'
+media:
+- media_key: '13_1914869704390533120'
+  type: video
+  width: 1280
+  height: 960
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914869704390533120/img/066TvejsMs8bVu-W.jpg
+  duration_ms: 181414
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914869704390533120/vid/avc1/360x270/_EImyl_KEfFLuJC9.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914869704390533120/vid/avc1/480x360/x3mgXgTbVycFeMgX.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914869704390533120/vid/avc1/960x720/DxxqECJvBqQy6LDt.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914869704390533120/pl/Ay6IxX5Yhvci-kB3.m3u8?tag=16
+  public_metrics:
+    view_count: 849
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

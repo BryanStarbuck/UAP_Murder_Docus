@@ -1,0 +1,89 @@
+id: '1919302216826982465'
+url: https://x.com/RedCollie1/status/1919302216826982465
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Hexagonal drone-UFO over California on April 25, 2025, compared with the final
+  crop picture "UFO" on October 14, 2024 near Ipuacu, Brazil. What are the odds? https://t.co/NUkKaX2YcL
+created_at: '2025-05-05T08:04:42.000Z'
+lang: en
+conversation_id: '1919302216826982465'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 4
+  like_count: 32
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 3469
+entities:
+  urls:
+  - start: 158
+    end: 181
+    url: https://t.co/NUkKaX2YcL
+    expanded_url: https://x.com/RedCollie1/status/1919302216826982465/video/1
+    display_url: pic.x.com/NUkKaX2YcL
+    media_key: '13_1919302070332801024'
+  - start: 158
+    end: 181
+    url: https://t.co/NUkKaX2YcL
+    expanded_url: https://x.com/RedCollie1/status/1919302216826982465/video/1
+    display_url: pic.x.com/NUkKaX2YcL
+    media_key: '3_1919302108274454528'
+attachments:
+  media_keys:
+  - '13_1919302070332801024'
+  - '3_1919302108274454528'
+media:
+- media_key: '13_1919302070332801024'
+  type: video
+  width: 1280
+  height: 1046
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1919302070332801024/img/2HUNgcUMtCN0PY6S.jpg
+  duration_ms: 22144
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919302070332801024/vid/avc1/330x270/YzOfYIRd57-LJJJu.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919302070332801024/vid/avc1/440x360/kSwSssLki5XfGpT4.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919302070332801024/vid/avc1/880x720/UX4B9JT8jhaIOaIg.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1919302070332801024/pl/1tF7SaL1c354kxwP.m3u8?tag=16&v=cfc
+  public_metrics:
+    view_count: 1246
+- media_key: '3_1919302108274454528'
+  type: photo
+  width: 1000
+  height: 998
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqK7GTxbcAAdfgz.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2

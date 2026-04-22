@@ -1,0 +1,70 @@
+id: '2006479996576215264'
+url: https://x.com/RedCollie1/status/2006479996576215264
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'After this news article appeared, then was censored, I encountered the international
+  conspiracy to "cover up" alien-made crop pictures. The 1% will understand.
+
+  https://t.co/xvOjofMyiG https://t.co/1SB7yhN29b'
+created_at: '2025-12-31T21:38:04.000Z'
+lang: en
+conversation_id: '2006479996576215264'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 9
+  reply_count: 6
+  like_count: 49
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1767
+entities:
+  urls:
+  - start: 160
+    end: 183
+    url: https://t.co/xvOjofMyiG
+    expanded_url: https://www.news.com.au/technology/science/space/theyre-real-and-contain-hidden-messages-scientist-says/news-story/05f450e958f71dac46a2a61f47968f16
+    display_url: news.com.au/technology/sci…
+    status: 403
+    unwound_url: https://www.news.com.au/technology/science/space/theyre-real-and-contain-hidden-messages-scientist-says/news-story/05f450e958f71dac46a2a61f47968f16
+  - start: 184
+    end: 207
+    url: https://t.co/1SB7yhN29b
+    expanded_url: https://x.com/RedCollie1/status/2006479996576215264/photo/1
+    display_url: pic.x.com/1SB7yhN29b
+    media_key: '3_2006479456249286656'
+attachments:
+  media_keys:
+  - '3_2006479456249286656'
+media:
+- media_key: '3_2006479456249286656'
+  type: photo
+  width: 1500
+  height: 1794
+  alt_text: null
+  url: https://pbs.twimg.com/media/G9hyb0bbkAAZ30W.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

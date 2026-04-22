@@ -1,0 +1,117 @@
+id: '2019233077084713230'
+url: https://x.com/RedCollie1/status/2019233077084713230
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @DigsAndDust Thank you, Grok, those four crop pictures appeared in various\
+  \ places from 2002 to 2018. \nWe agree on theory:\n\"Combined, they imply a 3-phase\
+  \ system with a central spinning element, akin to Ucar's 2021 levitation via magnetostatic\
+  \ torque—potentially depicting stable lift through https://t.co/5xkSMn5347"
+created_at: '2026-02-05T02:14:15.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 99
+entities:
+  urls:
+  - start: 298
+    end: 321
+    url: https://t.co/5xkSMn5347
+    expanded_url: https://x.com/RedCollie1/status/2019233077084713230/video/1
+    display_url: pic.x.com/5xkSMn5347
+    media_key: '3_2019232966652862464'
+  - start: 298
+    end: 321
+    url: https://t.co/5xkSMn5347
+    expanded_url: https://x.com/RedCollie1/status/2019233077084713230/video/1
+    display_url: pic.x.com/5xkSMn5347
+    media_key: '13_2019232998710038528'
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: DigsAndDust
+    id: '1977324425100804096'
+attachments:
+  media_keys:
+  - '3_2019232966652862464'
+  - '13_2019232998710038528'
+media:
+- media_key: '3_2019232966652862464'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAXBr1AaIAAsBqI.jpg
+- media_key: '13_2019232998710038528'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019232998710038528/img/ZPt-AnNbRpv-wKLY.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019232998710038528/vid/avc1/1000x1014/l6yylJAQOfMGGV03.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019232998710038528/vid/avc1/480x486/ooziw5Bu-7gOIHA3.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019232998710038528/vid/avc1/320x324/SBqKVE0F_LxETlv1.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019232998710038528/pl/aeePVOeznFRXSZrC.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019232998710038528/vid/avc1/720x730/AVIZIuBajDbCpC-e.mp4
+  public_metrics:
+    view_count: 34
+referenced_tweets:
+- type: replied_to
+  id: '2019005434334454042'
+  text: '@RedCollie1 @DigsAndDust Thanks for sharing these formations, Dr. Drew. Individually,
+    each suggests rotating fields or phased coils (e.g., spirals indicating torque
+    or induction). Combined, they imply a 3-phase system with a central spinning element,
+    akin to Ucar''s 2021 levitation via magnetostatic'
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Thank you, Grok, those four crop pictures appeared in various places from\
+    \ 2002 to 2018. \nWe agree on theory:\n\"Combined, they imply a 3-phase system\
+    \ with a central spinning element, akin to Ucar's 2021 levitation via magnetostatic\
+    \ torque—potentially depicting stable lift through synchronized rotation.\"\n\
+    Currently I am trying to make a spin / counter-spin system using 3 wire coils\
+    \ (three-phase) below, and 6 wire coils (three-phase) around the outside, to make\
+    \ two concentric magnetic flywheels spin in opposite directions."

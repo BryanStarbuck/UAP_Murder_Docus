@@ -1,0 +1,108 @@
+id: '2044925361457398171'
+url: https://x.com/RedCollie1/status/2044925361457398171
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Some people were asking about where the rising force of a UFO comes from? So\
+  \ I made a simple teaching film (video 1). \nThe YouTube link is here:\n“A disc\
+  \ magnet spins in a 3-phase helical magnetic field, and rises against the vacuum”\n\
+  https://t.co/fBes9ek4qO\nThis kind of \"magnet https://t.co/aWVXJyXqlR"
+created_at: '2026-04-16T23:46:13.000Z'
+lang: en
+conversation_id: '2044925361457398171'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 4
+  like_count: 41
+  quote_count: 0
+  bookmark_count: 9
+  impression_count: 2259
+entities:
+  urls:
+  - start: 233
+    end: 256
+    url: https://t.co/fBes9ek4qO
+    expanded_url: https://youtu.be/qeaClYeoZa4
+    display_url: youtu.be/qeaClYeoZa4
+    images:
+    - url: https://pbs.twimg.com/news_img/2044925366427676672/ul1muRUv?format=jpg&name=orig
+      width: 1280
+      height: 720
+    - url: https://pbs.twimg.com/news_img/2044925366427676672/ul1muRUv?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: redcollie1
+    description: 4 likes. "A disc magnet spins in a 3-phase helical magnetic field,
+      and rises against the vacuum"
+    unwound_url: https://www.youtube.com/watch?v=qeaClYeoZa4&feature=youtu.be
+  - start: 278
+    end: 301
+    url: https://t.co/aWVXJyXqlR
+    expanded_url: https://x.com/RedCollie1/status/2044925361457398171/video/1
+    display_url: pic.x.com/aWVXJyXqlR
+    media_key: '13_2044924356170854400'
+attachments:
+  media_keys:
+  - '13_2044924356170854400'
+media:
+- media_key: '13_2044924356170854400'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2044924356170854400/img/6k_vE5B5pk8yXJ0b.jpg
+  duration_ms: 306706
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2044924356170854400/vid/avc1/480x270/Q_0dlXMGmQsSeyLu.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2044924356170854400/vid/avc1/640x360/gh0AeebKh48or_Gh.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2044924356170854400/vid/avc1/1280x720/sfzjaNxeRlicSVj-.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2044924356170854400/pl/6ngnnyUZe2uv5kVf.m3u8
+  public_metrics:
+    view_count: 871
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  entities:
+    urls:
+    - start: 233
+      end: 256
+      url: https://t.co/7uZNFz7XwT
+      expanded_url: https://youtu.be/qeaClYeoZa4
+      display_url: youtu.be/qeaClYeoZa4
+  text: "Some people were asking about where the rising force of a UFO comes from?\
+    \ So I made a simple teaching film (video 1). \nThe YouTube link is here:\n“A\
+    \ disc magnet spins in a 3-phase helical magnetic field, and rises against the\
+    \ vacuum”\nhttps://t.co/7uZNFz7XwT\nThis kind of \"magnet rising\" physics has\
+    \ been drawn in alien-made crop pictures at least two dozen times."

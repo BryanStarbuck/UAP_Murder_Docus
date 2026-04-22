@@ -1,0 +1,72 @@
+id: '1971332491660476417'
+url: https://x.com/RedCollie1/status/1971332491660476417
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Many people commenting here seem to be so DUMB, that they cannot understand\
+  \ this. \nLook at the landscape slide below.\nThree-phase power like for the fans\
+  \ in your kitchen or bathroom. \nThree wire coils. Makes things SPIN. \n1⃣2⃣3⃣ https://t.co/fAyjtX2kK7"
+created_at: '2025-09-25T21:54:26.000Z'
+lang: en
+conversation_id: '1971139849920110690'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1320
+entities:
+  urls:
+  - start: 229
+    end: 252
+    url: https://t.co/fAyjtX2kK7
+    expanded_url: https://x.com/RedCollie1/status/1971332491660476417/photo/1
+    display_url: pic.x.com/fAyjtX2kK7
+    media_key: '16_1971332286403706882'
+attachments:
+  media_keys:
+  - '16_1971332286403706882'
+media:
+- media_key: '16_1971332286403706882'
+  type: animated_gif
+  width: 220
+  height: 286
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G1uURRlaAAIj8ul.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G1uURRlaAAIj8ul.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1971139849920110690'
+  text: "If there were any doubt that the Buga orb-sphere is real, this simple comparison\
+    \ to a 2016 crop picture should dispel any uncertainties.\nWhoever is making the\
+    \ crop pictures, also made the Buga orb-sphere. A big number \"3\" in the second\
+    \ slide means \"3-phase power\". \nThis seems https://t.co/0gL9YfiLUQ"
+has_video: true
+has_image: false
+media_count: 1

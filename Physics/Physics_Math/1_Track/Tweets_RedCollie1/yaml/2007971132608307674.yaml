@@ -1,0 +1,84 @@
+id: '2007971132608307674'
+url: https://x.com/RedCollie1/status/2007971132608307674
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@DogsAndSciFi bypass https://t.co/vbqUwM3T25'
+created_at: '2026-01-05T00:23:18.000Z'
+lang: en
+conversation_id: '2007700816019562994'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 27
+entities:
+  urls:
+  - start: 21
+    end: 44
+    url: https://t.co/vbqUwM3T25
+    expanded_url: https://x.com/RedCollie1/status/2007971132608307674/video/1
+    display_url: pic.x.com/vbqUwM3T25
+    media_key: '13_2007971058230644737'
+  mentions:
+  - start: 0
+    end: 13
+    username: DogsAndSciFi
+    id: '1574371604146311168'
+attachments:
+  media_keys:
+  - '13_2007971058230644737'
+media:
+- media_key: '13_2007971058230644737'
+  type: video
+  width: 960
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2007971058230644737/img/5geBY5GBGr_nJBvZ.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007971058230644737/vid/avc1/360x270/IgdjZfvnw__sO6ON.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007971058230644737/vid/avc1/480x360/FzVhXK6qsZR7--9Q.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2007971058230644737/vid/avc1/960x720/WhHBKRgbOBFDMfnn.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2007971058230644737/pl/8DM1q2KsIdtdiN6P.m3u8
+  public_metrics:
+    view_count: 22
+referenced_tweets:
+- type: replied_to
+  id: '2007786944215089284'
+  text: '@RedCollie1 Bypassing Newton''s 3rd Law? Love the audacity! That''s the kind
+    of thinking that creates paradigm shifts. Can''t wait for part 2!'
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,81 @@
+id: '1956314099559944372'
+url: https://x.com/RedCollie1/status/1956314099559944372
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Incredibly light. Why no change of weight on a scale? https://t.co/3gwg0ijiQy
+created_at: '2025-08-15T11:16:42.000Z'
+lang: en
+conversation_id: '1956313629000872139'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1097
+entities:
+  urls:
+  - start: 54
+    end: 77
+    url: https://t.co/3gwg0ijiQy
+    expanded_url: https://x.com/RedCollie1/status/1956314099559944372/video/1
+    display_url: pic.x.com/3gwg0ijiQy
+    media_key: '13_1956313988444442624'
+attachments:
+  media_keys:
+  - '13_1956313988444442624'
+media:
+- media_key: '13_1956313988444442624'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956313988444442624/img/pYMbRbqSDktc7mCa.jpg
+  duration_ms: 37866
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956313988444442624/vid/avc1/360x270/wNdukTZqMs5-gDAa.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956313988444442624/vid/avc1/480x360/gOxqNmc3fnGiSdh-.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956313988444442624/vid/avc1/640x480/4musRa8twt2CHndZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956313988444442624/pl/d8xvSkcogDVgNIXD.m3u8?v=5d7
+  public_metrics:
+    view_count: 541
+referenced_tweets:
+- type: replied_to
+  id: '1956313629000872139'
+  text: "DOES ANYONE HAVE A GOOD IDEA?\nHow can it feel \"incredibly light\", yet\
+    \ no change of overall weight can be seen when he stands on a scale?\nMany other\
+    \ people have reported the same anomaly since 1974. This little collie dog needs\
+    \ a bigger brain! \n\U0001F436 https://t.co/u4x50icEPL"
+has_video: true
+has_image: false
+media_count: 1

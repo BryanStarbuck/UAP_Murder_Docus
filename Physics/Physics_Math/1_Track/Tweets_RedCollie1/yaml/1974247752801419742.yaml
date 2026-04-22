@@ -1,0 +1,82 @@
+id: '1974247752801419742'
+url: https://x.com/RedCollie1/status/1974247752801419742
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: My friend "S.A." photographed this "alien orb" over the Cley Hill crop picture,
+  not long after it appeared. https://t.co/aJl97izWdS
+created_at: '2025-10-03T22:58:38.000Z'
+lang: en
+conversation_id: '1973875259930722580'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 39
+  quote_count: 1
+  bookmark_count: 9
+  impression_count: 4322
+entities:
+  urls:
+  - start: 108
+    end: 131
+    url: https://t.co/aJl97izWdS
+    expanded_url: https://x.com/RedCollie1/status/1974247752801419742/photo/1
+    display_url: pic.x.com/aJl97izWdS
+    media_key: '3_1974247449947701248'
+  - start: 108
+    end: 131
+    url: https://t.co/aJl97izWdS
+    expanded_url: https://x.com/RedCollie1/status/1974247752801419742/photo/1
+    display_url: pic.x.com/aJl97izWdS
+    media_key: '3_1974247516909809667'
+attachments:
+  media_keys:
+  - '3_1974247449947701248'
+  - '3_1974247516909809667'
+media:
+- media_key: '3_1974247449947701248'
+  type: photo
+  width: 474
+  height: 395
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2XvmIDagAAVAcD.jpg
+- media_key: '3_1974247516909809667'
+  type: photo
+  width: 1000
+  height: 840
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2XvqBgbMAMtvDr.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1973875259930722580'
+  text: 'Okay, all of you "geniuses" out there, let''s ask Grok whether humans would
+    be capable of making this large, detailed and spectacular crop picture, unseen
+    within four hours of English summer-darkness?
+
+    All of those finely-detailed (dotted) features are individually-wrapped stems
+    of https://t.co/yKN22eQNUt'
+has_video: false
+has_image: true
+media_count: 2

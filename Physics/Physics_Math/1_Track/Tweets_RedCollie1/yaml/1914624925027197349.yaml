@@ -1,0 +1,80 @@
+id: '1914624925027197349'
+url: https://x.com/RedCollie1/status/1914624925027197349
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: If we could just make the rotating magnetic field RISE UP along with the spinning
+  magnetic flywheel, we would have "UFO levitation". https://t.co/VILzrSZmcc
+created_at: '2025-04-22T10:18:48.000Z'
+lang: en
+conversation_id: '1914619995071660117'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 553
+entities:
+  urls:
+  - start: 133
+    end: 156
+    url: https://t.co/VILzrSZmcc
+    expanded_url: https://x.com/RedCollie1/status/1914624925027197349/video/1
+    display_url: pic.x.com/VILzrSZmcc
+    media_key: '13_1914624838960078851'
+attachments:
+  media_keys:
+  - '13_1914624838960078851'
+media:
+- media_key: '13_1914624838960078851'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914624838960078851/img/xZAMoXwf90MeBs2c.jpg
+  duration_ms: 38100
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914624838960078851/vid/avc1/480x270/OKF_sbnBqtBgkUGm.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914624838960078851/vid/avc1/640x360/FizqyXF7Iu0f68CH.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914624838960078851/vid/avc1/1280x720/JylOsqLFYr2NXG2n.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914624838960078851/pl/506NfvC5dMFZoz5M.m3u8?tag=16
+  public_metrics:
+    view_count: 227
+referenced_tweets:
+- type: replied_to
+  id: '1914619995071660117'
+  text: I will try to explain UFO physics simply as possible here. Let's see whether
+    you get it? Please read on into Comments! https://t.co/ZVkYKxxJPf
+has_video: true
+has_image: false
+media_count: 1

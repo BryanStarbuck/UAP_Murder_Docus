@@ -1,0 +1,79 @@
+id: '1984919708135735352'
+url: https://x.com/RedCollie1/status/1984919708135735352
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "If any small spaceships detached from 3I/ATLAS at perihelion, and did a hot-bright-blue\
+  \ rocket burn, to slow down from 130,000 mph to 67,000 mph (quite possible), then\
+  \ this is what they were/are doing.\nGo ahead, ask anyone you wish, make my day.\
+  \ \nhttps://t.co/gzcLPfArGm https://t.co/mRIw7qdslH"
+created_at: '2025-11-02T09:45:11.000Z'
+lang: en
+conversation_id: '1984919708135735352'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 38
+  reply_count: 35
+  like_count: 345
+  quote_count: 2
+  bookmark_count: 85
+  impression_count: 50576
+entities:
+  urls:
+  - start: 247
+    end: 270
+    url: https://t.co/gzcLPfArGm
+    expanded_url: https://www.youtube.com/watch?v=V2f-MZ2HRHQ
+    display_url: youtube.com/watch?v=V2f-MZ…
+    images:
+    - url: https://pbs.twimg.com/news_img/2044972349313679361/i_Wt6Wfs?format=jpg&name=orig
+      width: 480
+      height: 360
+    - url: https://pbs.twimg.com/news_img/2044972349313679361/i_Wt6Wfs?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: technomage116
+    description: 1.7K likes, 67 comments. "Cool Hand Luke - Failure to Communicate"
+    unwound_url: https://www.youtube.com/watch?v=V2f-MZ2HRHQ
+  - start: 271
+    end: 294
+    url: https://t.co/mRIw7qdslH
+    expanded_url: https://x.com/RedCollie1/status/1984919708135735352/photo/1
+    display_url: pic.x.com/mRIw7qdslH
+    media_key: '3_1984918955329511424'
+attachments:
+  media_keys:
+  - '3_1984918955329511424'
+media:
+- media_key: '3_1984918955329511424'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G4vZRfha4AALdC-.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,80 @@
+id: '1974614548859789569'
+url: https://x.com/RedCollie1/status/1974614548859789569
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@Chef_FEZ @grok This is what Grok said, which is a REALLY BIG LIE. With no\
+  \ evidence to support it whatsoever. \n@grok Oct 4\n\"Yes, humans have created similar\
+  \ complex crop circles overnight using planks, ropes, GPS, and teams of 20-30 people.\
+  \ Examples like the 2012 Hackpen Hill cube were made in a"
+created_at: '2025-10-04T23:16:09.000Z'
+lang: en
+conversation_id: '1973875259930722580'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 702
+entities:
+  mentions:
+  - start: 0
+    end: 9
+    username: Chef_FEZ
+    id: '375881827'
+  - start: 10
+    end: 15
+    username: grok
+    id: '1720665183188922368'
+  - start: 111
+    end: 116
+    username: grok
+    id: '1720665183188922368'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '1974614063012589957'
+  text: "@Chef_FEZ @grok Are you kidding me? Grok is totally full of shit.\nThe 2012\
+    \ Hackpen Hill cube appeared in a brief time without any permission given by the\
+    \ farmer Mr. Hussey, whom I met in 2017. \nLater that farmer began to give talks\
+    \ at crop-circle conferences about it, because he had become https://t.co/eC9FsaxFmw"
+has_video: false
+has_image: false
+media_count: 0
+note_tweet:
+  text: "This is what Grok said, which is a REALLY BIG LIE. With no evidence to support\
+    \ it whatsoever. \n@grok Oct 4\n\"Yes, humans have created similar complex crop\
+    \ circles overnight using planks, ropes, GPS, and teams of 20-30 people. Examples\
+    \ like the 2012 Hackpen Hill cube were made in a few hours of darkness, leaving\
+    \ minimal traces with practice.\""
+  entities:
+    mentions:
+    - start: 95
+      end: 100
+      username: grok
+      id: '1720665183188922368'

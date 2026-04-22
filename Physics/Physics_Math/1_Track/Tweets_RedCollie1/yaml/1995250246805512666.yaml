@@ -1,0 +1,71 @@
+id: '1995250246805512666'
+url: https://x.com/RedCollie1/status/1995250246805512666
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@nic_moneypenny \"Believe. There is GOOD out there.\" \nThe GOOD ones were\
+  \ warning us about the BAD ones.\nQ-17 \"There are more GOOD than BAD\". https://t.co/uXvkPwGpFj"
+created_at: '2025-11-30T21:55:03.000Z'
+lang: en
+conversation_id: '1995065721118986735'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 3
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 518
+entities:
+  mentions:
+  - start: 0
+    end: 15
+    username: nic_moneypenny
+    id: '134910622'
+  urls:
+  - start: 140
+    end: 163
+    url: https://t.co/uXvkPwGpFj
+    expanded_url: https://x.com/RedCollie1/status/1995250246805512666/photo/1
+    display_url: pic.x.com/uXvkPwGpFj
+    media_key: '3_1995249999450710016'
+attachments:
+  media_keys:
+  - '3_1995249999450710016'
+media:
+- media_key: '3_1995249999450710016'
+  type: photo
+  width: 960
+  height: 1055
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7CNTZ9boAA4Jf4.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1995246286191407316'
+  text: '@RedCollie1 I think we are all pretty adult now and I don''t really want
+    any details just simply high level proof of malevolent rather than benevolent
+    NHI would be welcome'
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,87 @@
+id: '2014598852159168754'
+url: https://x.com/RedCollie1/status/2014598852159168754
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: DUH. https://t.co/tTA8E1VzEK
+created_at: '2026-01-23T07:19:30.000Z'
+lang: und
+conversation_id: '2014595166938791985'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 365
+entities:
+  urls:
+  - start: 5
+    end: 28
+    url: https://t.co/tTA8E1VzEK
+    expanded_url: https://x.com/RedCollie1/status/2014598852159168754/video/1
+    display_url: pic.x.com/tTA8E1VzEK
+    media_key: '13_2014598785461284864'
+attachments:
+  media_keys:
+  - '13_2014598785461284864'
+media:
+- media_key: '13_2014598785461284864'
+  type: video
+  width: 996
+  height: 1010
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2014598785461284864/img/gO4xGu-QuS8je_Pu.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598785461284864/vid/avc1/996x1010/D4gsGssFqK-HoUs4.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598785461284864/vid/avc1/480x486/TkRy6GHCu_CELETM.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598785461284864/vid/avc1/320x324/aHcU925NHhQ8WiSq.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2014598785461284864/pl/TMD5eHAuf7mXP8e0.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598785461284864/vid/avc1/720x730/Q6NmSmXQ1Gd5nc7G.mp4
+  public_metrics:
+    view_count: 138
+referenced_tweets:
+- type: replied_to
+  id: '2014595166938791985'
+  text: 'Some of the "new" physics which may underlie UFO levitation. Spin and counter-spin
+    within 3-phase magnetic fields! 1⃣2⃣3⃣🛸
+
+    Taught to us by aliens. Great Learned Professors in our Schools don''t know. Imagine
+    that. 🤡
+
+    This is also why compasses spin near UFOs. https://t.co/bdBmWZYfyR'
+has_video: true
+has_image: false
+media_count: 1

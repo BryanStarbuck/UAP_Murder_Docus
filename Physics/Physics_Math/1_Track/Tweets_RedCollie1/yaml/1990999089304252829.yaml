@@ -1,0 +1,85 @@
+id: '1990999089304252829'
+url: https://x.com/RedCollie1/status/1990999089304252829
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'A large triangular UFO flew near the ISS earlier today. Everyone can see two
+  big RED exhausts. NASA SkyCam footage. What are you going to say tomorrow, guys?
+
+  "Planet Venus"
+
+  "Weather balloon"
+
+  "Ice crystals" 😅😂🤣 https://t.co/EynZFLflIk'
+created_at: '2025-11-19T04:22:28.000Z'
+lang: en
+conversation_id: '1990999089304252829'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 411
+  reply_count: 229
+  like_count: 2746
+  quote_count: 36
+  bookmark_count: 544
+  impression_count: 215568
+entities:
+  urls:
+  - start: 210
+    end: 233
+    url: https://t.co/EynZFLflIk
+    expanded_url: https://x.com/RedCollie1/status/1990999089304252829/video/1
+    display_url: pic.x.com/EynZFLflIk
+    media_key: '13_1990997596966694912'
+attachments:
+  media_keys:
+  - '13_1990997596966694912'
+media:
+- media_key: '13_1990997596966694912'
+  type: video
+  width: 1607
+  height: 1020
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1990997596966694912/img/bRuxPDWAAjEXn24r.jpg
+  duration_ms: 10026
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990997596966694912/vid/avc1/1606x1020/f8JA4ReVvutdj7Rf.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1990997596966694912/pl/kRrv38rUouhTZLhd.m3u8?v=cfc
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990997596966694912/vid/avc1/1134x720/5mGwfOGGZOsKWTiX.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990997596966694912/vid/avc1/424x270/EMqevY9YrUQRWsy1.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990997596966694912/vid/avc1/566x360/xb1aLSTYt7LTWNHp.mp4
+  public_metrics:
+    view_count: 116154
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

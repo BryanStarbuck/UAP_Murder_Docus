@@ -1,0 +1,127 @@
+id: '2020095640081191056'
+url: https://x.com/RedCollie1/status/2020095640081191056
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I am busy making new parts for a complete, small-scale UFO drive, which works\
+  \ according to the spin / counter-spin principles shown in a movie and three crop\
+  \ picture slides below. \nWhy isn't anyone else doing this? Why was Galileo the\
+  \ only one to make a good telescope? Why were https://t.co/4ZP69UrkEs"
+created_at: '2026-02-07T11:21:46.000Z'
+lang: en
+conversation_id: '2020095640081191056'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 6
+  like_count: 62
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 3052
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/4ZP69UrkEs
+    expanded_url: https://x.com/RedCollie1/status/2020095640081191056/video/1
+    display_url: pic.x.com/4ZP69UrkEs
+    media_key: '13_2020094356288647169'
+  - start: 279
+    end: 302
+    url: https://t.co/4ZP69UrkEs
+    expanded_url: https://x.com/RedCollie1/status/2020095640081191056/video/1
+    display_url: pic.x.com/4ZP69UrkEs
+    media_key: '3_2020094405018021889'
+  - start: 279
+    end: 302
+    url: https://t.co/4ZP69UrkEs
+    expanded_url: https://x.com/RedCollie1/status/2020095640081191056/video/1
+    display_url: pic.x.com/4ZP69UrkEs
+    media_key: '3_2020094424802553857'
+  - start: 279
+    end: 302
+    url: https://t.co/4ZP69UrkEs
+    expanded_url: https://x.com/RedCollie1/status/2020095640081191056/video/1
+    display_url: pic.x.com/4ZP69UrkEs
+    media_key: '3_2020094763324919808'
+attachments:
+  media_keys:
+  - '13_2020094356288647169'
+  - '3_2020094405018021889'
+  - '3_2020094424802553857'
+  - '3_2020094763324919808'
+media:
+- media_key: '13_2020094356288647169'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2020094356288647169/img/ZqDUC4J42d7bOh6i.jpg
+  duration_ms: 13504
+  variants:
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2020094356288647169/pl/Quytp8Zw58YNLldb.m3u8?v=cfc
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2020094356288647169/vid/avc1/480x486/DcMRSvhy65Gj7g3w.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2020094356288647169/vid/avc1/320x324/DTTXPrEKZDprkRyk.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2020094356288647169/vid/avc1/720x730/3KFrIt1VIm3zh_Pf.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2020094356288647169/vid/avc1/1000x1014/BTK_DdjL48nFGlkM.mp4
+  public_metrics:
+    view_count: 1088
+- media_key: '3_2020094405018021889'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAjRKI_acAEm58e.jpg
+- media_key: '3_2020094424802553857'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAjRLSsacAECWwh.jpg
+- media_key: '3_2020094763324919808'
+  type: photo
+  width: 960
+  height: 974
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAjRe_yb0AAA0ny.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "I am busy making new parts for a complete, small-scale UFO drive, which works\
+    \ according to the spin / counter-spin principles shown in a movie and three crop\
+    \ picture slides below. \nWhy isn't anyone else doing this? Why was Galileo the\
+    \ only one to make a good telescope? Why were the Wright Brothers the only ones\
+    \ to make an airplane? Why was Fred Sanger the only one to invent DNA sequencing?\
+    \ Why was Tesla the only one to invent polyphase power?\U0001F921"

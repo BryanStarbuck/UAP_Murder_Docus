@@ -1,0 +1,79 @@
+id: '2010860829403713613'
+url: https://x.com/RedCollie1/status/2010860829403713613
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "A Somali policeman shot and killed this innocent woman, barefoot in her pyjamas,\
+  \ while the mainstream media said nothing.\nAll left-wing propaganda outlets. \n\
+  https://t.co/OFCWtfXjPQ https://t.co/XZLHJWK7nf"
+created_at: '2026-01-12T23:45:56.000Z'
+lang: en
+conversation_id: '2010860829403713613'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 10
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 1073
+entities:
+  urls:
+  - start: 157
+    end: 180
+    url: https://t.co/OFCWtfXjPQ
+    expanded_url: https://www.cbsnews.com/news/mohamed-noor-trial-prosecutor-cop-shot-justine-damond-woman-who-called-911-without-saying-a-word/
+    display_url: cbsnews.com/news/mohamed-n…
+    images:
+    - url: https://pbs.twimg.com/news_img/2020665219253522434/BRLwN-pc?format=jpg&name=orig
+      width: 640
+      height: 336
+    - url: https://pbs.twimg.com/news_img/2020665219253522434/BRLwN-pc?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Cop shot woman who called 911 "without saying a word," prosecutor says
+    description: Justine Damond had called to report a possible assault before she
+      was fatally shot by the former Minneapolis officer in July 2017
+    unwound_url: https://www.cbsnews.com/news/mohamed-noor-trial-prosecutor-cop-shot-justine-damond-woman-who-called-911-without-saying-a-word/
+  - start: 181
+    end: 204
+    url: https://t.co/XZLHJWK7nf
+    expanded_url: https://x.com/RedCollie1/status/2010860829403713613/photo/1
+    display_url: pic.x.com/XZLHJWK7nf
+    media_key: '3_2010860213969321984'
+attachments:
+  media_keys:
+  - '3_2010860213969321984'
+media:
+- media_key: '3_2010860213969321984'
+  type: photo
+  width: 799
+  height: 557
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-gCteqbgAAav3k.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

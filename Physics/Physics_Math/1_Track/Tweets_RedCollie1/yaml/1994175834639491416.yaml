@@ -1,0 +1,105 @@
+id: '1994175834639491416'
+url: https://x.com/RedCollie1/status/1994175834639491416
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "If we \"sharpen\" Ray's new image of 3I/ATLAS, we can see many narrow tendrils\
+  \ of ionized nickel gas (green) flowing from in to out (as shown schematically in\
+  \ slide 2). \nThis result suggests that 3I/ATLAS may create a strong, DC electric\
+  \ field radially. When we add a central core https://t.co/s0puswWDiu"
+created_at: '2025-11-27T22:45:43.000Z'
+lang: en
+conversation_id: '1994170139860996320'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 13
+  reply_count: 7
+  like_count: 56
+  quote_count: 4
+  bookmark_count: 19
+  impression_count: 22284
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/s0puswWDiu
+    expanded_url: https://x.com/RedCollie1/status/1994175834639491416/photo/1
+    display_url: pic.x.com/s0puswWDiu
+    media_key: '3_1994174108993769472'
+  - start: 279
+    end: 302
+    url: https://t.co/s0puswWDiu
+    expanded_url: https://x.com/RedCollie1/status/1994175834639491416/photo/1
+    display_url: pic.x.com/s0puswWDiu
+    media_key: '3_1994174134717480960'
+  - start: 279
+    end: 302
+    url: https://t.co/s0puswWDiu
+    expanded_url: https://x.com/RedCollie1/status/1994175834639491416/photo/1
+    display_url: pic.x.com/s0puswWDiu
+    media_key: '3_1994174156695568384'
+attachments:
+  media_keys:
+  - '3_1994174108993769472'
+  - '3_1994174134717480960'
+  - '3_1994174156695568384'
+media:
+- media_key: '3_1994174108993769472'
+  type: photo
+  width: 1000
+  height: 1153
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6y6yVra0AA7S__.jpg
+- media_key: '3_1994174134717480960'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6y6z1gbgAAFK6m.jpg
+- media_key: '3_1994174156695568384'
+  type: photo
+  width: 590
+  height: 680
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6y61HYagAAmme0.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1994170139860996320'
+  text: "The \"extended\" shape of that two-armed, clockwise spin-wave means that\
+    \ the outer gaseous coma of 3I/ATLAS may be spinning along electromagnetic field\
+    \ lines, possibly by a Lorentz force. \nRather than by \"friction\" of the gaseous\
+    \ material with a fast-spinning hard center. \nIn other https://t.co/TtOXQM9lOR"
+has_video: false
+has_image: true
+media_count: 3
+note_tweet:
+  text: "If we \"sharpen\" Ray's new image of 3I/ATLAS, we can see many narrow tendrils\
+    \ of ionized nickel gas (green) flowing from in to out (as shown schematically\
+    \ in slide 2). \nThis result suggests that 3I/ATLAS may create a strong, DC electric\
+    \ field radially. When we add a central core magnet to that electric field, then\
+    \ the nickel gas spins by a Lorentz force (generating two big \"spin waves\" as\
+    \ shown in slide 1). \nThis would be a good hypothesis to explain the detailed\
+    \ structural shape of 3I/ATLAS and its coma,  and also why its nickel ion coma\
+    \ spins so rapidly! \nIf we ever get really-good, uncensored images of 3I/ATLAS,\
+    \ we can test that plausible hypothesis further."

@@ -1,0 +1,85 @@
+id: '1923907905826455903'
+url: https://x.com/RedCollie1/status/1923907905826455903
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Reversal of force by a special valve in James Watt's steam engine! REAL SCIENCE
+  https://t.co/8qmtEd5VBY
+created_at: '2025-05-18T01:06:03.000Z'
+lang: en
+conversation_id: '1923901850493059279'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 953
+entities:
+  urls:
+  - start: 80
+    end: 103
+    url: https://t.co/8qmtEd5VBY
+    expanded_url: https://x.com/RedCollie1/status/1923907905826455903/video/1
+    display_url: pic.x.com/8qmtEd5VBY
+    media_key: '13_1923907846153928704'
+attachments:
+  media_keys:
+  - '13_1923907846153928704'
+media:
+- media_key: '13_1923907846153928704'
+  type: video
+  width: 1280
+  height: 960
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1923907846153928704/img/qVBVE2fjqQvae1B5.jpg
+  duration_ms: 8475
+  variants:
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923907846153928704/vid/avc1/960x720/VjHPF1j8ZhUK9-J0.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923907846153928704/vid/avc1/360x270/xFFg1UHue-wnWjsw.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923907846153928704/vid/avc1/1280x960/eY1WfQcM_TOjV0De.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923907846153928704/vid/avc1/480x360/B4Oz6RKJFVcyEQuN.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1923907846153928704/pl/FmbLRrY3gyYDlBsK.m3u8
+  public_metrics:
+    view_count: 441
+referenced_tweets:
+- type: replied_to
+  id: '1923901850493059279'
+  text: "The \"valve\" in James Watt's steam engine was a feat of genius. It worked\
+    \ just like an early DC motor, by a reversal of force, halfway through each rotary\
+    \ cycle. \nHe changed the world, and began the Industrial Revolution.\nLet's see\
+    \ what we can do now with \"anti-gravity\"?"
+has_video: true
+has_image: false
+media_count: 1

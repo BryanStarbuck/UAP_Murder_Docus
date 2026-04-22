@@ -1,0 +1,104 @@
+id: '2013193232939995462'
+url: https://x.com/RedCollie1/status/2013193232939995462
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "A 3-phase magnetic field spins \"up\" a magnet inside, and also makes the grass\
+  \ below turn clockwise. \nMeanwhile the rest of the UFO (all of its outer part)\
+  \ spins anti-clockwise, but FOR SOME REASON it does not spin \"down\"! \nThat is\
+  \ the SECRET PUZZLE. https://t.co/9AeeTQlNNc"
+created_at: '2026-01-19T10:14:04.000Z'
+lang: en
+conversation_id: '2013193232939995462'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 22
+  reply_count: 5
+  like_count: 158
+  quote_count: 2
+  bookmark_count: 97
+  impression_count: 16098
+entities:
+  urls:
+  - start: 250
+    end: 273
+    url: https://t.co/9AeeTQlNNc
+    expanded_url: https://x.com/RedCollie1/status/2013193232939995462/video/1
+    display_url: pic.x.com/9AeeTQlNNc
+    media_key: '13_2013192605786386432'
+  - start: 250
+    end: 273
+    url: https://t.co/9AeeTQlNNc
+    expanded_url: https://x.com/RedCollie1/status/2013193232939995462/video/1
+    display_url: pic.x.com/9AeeTQlNNc
+    media_key: '3_2013192913501798401'
+  - start: 250
+    end: 273
+    url: https://t.co/9AeeTQlNNc
+    expanded_url: https://x.com/RedCollie1/status/2013193232939995462/video/1
+    display_url: pic.x.com/9AeeTQlNNc
+    media_key: '3_2013193208142913539'
+attachments:
+  media_keys:
+  - '13_2013192605786386432'
+  - '3_2013192913501798401'
+  - '3_2013193208142913539'
+media:
+- media_key: '13_2013192605786386432'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2013192605786386432/img/_VHEhoSyO7IkFd4M.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013192605786386432/vid/avc1/480x270/8ilrLvCdIhCTJQ_P.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013192605786386432/vid/avc1/640x360/0bPXAx_nnnur64iK.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013192605786386432/vid/avc1/1280x720/KtWL2FRfDA4_jfri.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2013192605786386432/pl/NqNhq0FyE3jW-mP2.m3u8
+  public_metrics:
+    view_count: 9453
+- media_key: '3_2013192913501798401'
+  type: photo
+  width: 2399
+  height: 2475
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_BMSdmbwAE9iiE.jpg
+- media_key: '3_2013193208142913539'
+  type: photo
+  width: 960
+  height: 941
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_BMjnOWYAMJXJ_.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

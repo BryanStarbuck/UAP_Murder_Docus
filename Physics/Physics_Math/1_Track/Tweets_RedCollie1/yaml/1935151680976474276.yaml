@@ -1,0 +1,64 @@
+id: '1935151680976474276'
+url: https://x.com/RedCollie1/status/1935151680976474276
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: This slide shows the novel, 4-symbol coding format which people of the future
+  used. I call it "TEXTPIC" or "xxx.tpc" https://t.co/0mouxKDDBr
+created_at: '2025-06-18T01:44:48.000Z'
+lang: en
+conversation_id: '1935149107724829033'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 946
+entities:
+  urls:
+  - start: 117
+    end: 140
+    url: https://t.co/0mouxKDDBr
+    expanded_url: https://x.com/RedCollie1/status/1935151680976474276/photo/1
+    display_url: pic.x.com/0mouxKDDBr
+    media_key: '3_1935151422762532864'
+attachments:
+  media_keys:
+  - '3_1935151422762532864'
+media:
+- media_key: '3_1935151422762532864'
+  type: photo
+  width: 700
+  height: 525
+  alt_text: null
+  url: https://pbs.twimg.com/media/GtsJ91RaQAAjMyE.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1935149107724829033'
+  text: ''
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,75 @@
+id: '1945640555469484070'
+url: https://x.com/RedCollie1/status/1945640555469484070
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Crop circles teach us "Star Knowledge".
+
+  The blind will see. Those who think they can already see, by reading textbooks or
+  watching TV, will remain blind. 🧐😎 https://t.co/8Qwc8qwvBC'
+created_at: '2025-07-17T00:23:51.000Z'
+lang: en
+conversation_id: '1945640555469484070'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 21
+  reply_count: 5
+  like_count: 80
+  quote_count: 3
+  bookmark_count: 28
+  impression_count: 3970
+entities:
+  urls:
+  - start: 157
+    end: 180
+    url: https://t.co/8Qwc8qwvBC
+    expanded_url: https://x.com/RedCollie1/status/1945640555469484070/video/1
+    display_url: pic.x.com/8Qwc8qwvBC
+    media_key: '13_1945639910221746177'
+attachments:
+  media_keys:
+  - '13_1945639910221746177'
+media:
+- media_key: '13_1945639910221746177'
+  type: video
+  width: 480
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1945639910221746177/img/3dxgRCHMFQkBezz9.jpg
+  duration_ms: 222493
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945639910221746177/vid/avc1/360x270/x1Dn2bIzCokuFbFj.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945639910221746177/vid/avc1/480x360/9e_OemdKwaWmflOx.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1945639910221746177/pl/Eo1AHEZzGifskByk.m3u8?tag=14&v=5fa
+  public_metrics:
+    view_count: 1418
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

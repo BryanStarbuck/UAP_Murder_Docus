@@ -1,0 +1,92 @@
+id: '2046722132219138383'
+url: https://x.com/RedCollie1/status/2046722132219138383
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: A UFO rises by spin in "up-down" pulses. https://t.co/n6IGdBGc5Z
+created_at: '2026-04-21T22:45:57.000Z'
+lang: en
+conversation_id: '2046520282811441300'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 365
+entities:
+  urls:
+  - start: 41
+    end: 64
+    url: https://t.co/n6IGdBGc5Z
+    expanded_url: https://x.com/RedCollie1/status/2046722132219138383/photo/1
+    display_url: pic.x.com/n6IGdBGc5Z
+    media_key: '3_2046721688507965440'
+  - start: 41
+    end: 64
+    url: https://t.co/n6IGdBGc5Z
+    expanded_url: https://x.com/RedCollie1/status/2046722132219138383/photo/1
+    display_url: pic.x.com/n6IGdBGc5Z
+    media_key: '3_2046722009510645761'
+  - start: 41
+    end: 64
+    url: https://t.co/n6IGdBGc5Z
+    expanded_url: https://x.com/RedCollie1/status/2046722132219138383/photo/1
+    display_url: pic.x.com/n6IGdBGc5Z
+    media_key: '3_2046722079295430656'
+attachments:
+  media_keys:
+  - '3_2046721688507965440'
+  - '3_2046722009510645761'
+  - '3_2046722079295430656'
+media:
+- media_key: '3_2046721688507965440'
+  type: photo
+  width: 640
+  height: 600
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGdqiB2a4AA__1t.jpg
+- media_key: '3_2046722009510645761'
+  type: photo
+  width: 600
+  height: 649
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGdq0trbEAEj8pw.jpg
+- media_key: '3_2046722079295430656'
+  type: photo
+  width: 900
+  height: 818
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGdq4xpaYAAAWg7.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2046520282811441300'
+  text: "Two crop pictures from 2012 (slides 1 and 2) now seem to be well understood\
+    \ in terms of UFO physics. Their detailed interpretations are shown in slides\
+    \ 3 and 4. \nOn the left-hand side of slides 3 and 4, we can see a South \"S\"\
+    \ disc magnet (blue), held in place by four outer North https://t.co/i6G7E4ctwk"
+has_video: false
+has_image: true
+media_count: 3

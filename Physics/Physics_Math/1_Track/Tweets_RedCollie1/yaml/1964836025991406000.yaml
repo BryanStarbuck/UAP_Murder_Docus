@@ -1,0 +1,78 @@
+id: '1964836025991406000'
+url: https://x.com/RedCollie1/status/1964836025991406000
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Part 4. This movie shows a typical homopolar motor. Compare with crops. https://t.co/sOSMUUfuKe
+created_at: '2025-09-07T23:39:48.000Z'
+lang: en
+conversation_id: '1964819645942452454'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 470
+entities:
+  urls:
+  - start: 72
+    end: 95
+    url: https://t.co/sOSMUUfuKe
+    expanded_url: https://x.com/RedCollie1/status/1964836025991406000/video/1
+    display_url: pic.x.com/sOSMUUfuKe
+    media_key: '13_1964836005359591424'
+attachments:
+  media_keys:
+  - '13_1964836005359591424'
+media:
+- media_key: '13_1964836005359591424'
+  type: video
+  width: 320
+  height: 568
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964836005359591424/img/x7QUVlqxyY2XWIC9.jpg
+  duration_ms: 16000
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964836005359591424/vid/avc1/320x568/M3MexZIpINx-K3eI.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964836005359591424/pl/wthYqogEBcwA29G5.m3u8
+  public_metrics:
+    view_count: 201
+referenced_tweets:
+- type: replied_to
+  id: '1964819645942452454'
+  text: 'We may have to apply 3-phase power to a Faraday disk to achieve UFO levitation.
+
+    It has an induced magnetic field when in rapid spin.
+
+    Part 1 of a new study of "homopolar" E.T. messages.
+
+    LEARN AND ENJOY! More soon. https://t.co/Nt0r2lyl1I'
+has_video: true
+has_image: false
+media_count: 1

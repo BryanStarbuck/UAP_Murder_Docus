@@ -1,0 +1,105 @@
+id: '2028589966574633030'
+url: https://x.com/RedCollie1/status/2028589966574633030
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Quick physics lesson!
+
+  Movie 1 shows how Newton''s 3rd Law causes a spinning disc to create counter-spin
+  in another part of the device to which it is attached.
+
+  Okay, now let''s ask: what if we spin two discs (or magnetic flywheels) in opposite
+  directions at the same time?
+
+  That is https://t.co/OETE7t5knM'
+created_at: '2026-03-02T21:55:12.000Z'
+lang: en
+conversation_id: '2028589966574633030'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 9
+  reply_count: 6
+  like_count: 58
+  quote_count: 0
+  bookmark_count: 12
+  impression_count: 3006
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/OETE7t5knM
+    expanded_url: https://x.com/RedCollie1/status/2028589966574633030/video/1
+    display_url: pic.x.com/OETE7t5knM
+    media_key: '13_2028588573575069696'
+  - start: 278
+    end: 301
+    url: https://t.co/OETE7t5knM
+    expanded_url: https://x.com/RedCollie1/status/2028589966574633030/video/1
+    display_url: pic.x.com/OETE7t5knM
+    media_key: '3_2028588592755613696'
+attachments:
+  media_keys:
+  - '13_2028588573575069696'
+  - '3_2028588592755613696'
+media:
+- media_key: '13_2028588573575069696'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2028588573575069696/img/U6npZ3sJdZ9Fcdr5.jpg
+  duration_ms: 23256
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028588573575069696/vid/avc1/480x270/XT8MoP5g2f7h9JyF.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028588573575069696/vid/avc1/640x360/Efonsh31MRmf0whA.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028588573575069696/vid/avc1/1280x720/fy_XKjJTqC78uwUr.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2028588573575069696/pl/0YvlRdwcBSnrHkfV.m3u8?v=e7c
+  public_metrics:
+    view_count: 1647
+- media_key: '3_2028588592755613696'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCb-k8KboAA_CMj.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Quick physics lesson!\nMovie 1 shows how Newton's 3rd Law causes a spinning\
+    \ disc to create counter-spin in another part of the device to which it is attached.\n\
+    Okay, now let's ask: what if we spin two discs (or magnetic flywheels) in opposite\
+    \ directions at the same time?\nThat is what we were shown in some famous crop\
+    \ pictures from 2002 (slide 2). Somehow that makes a UFO \"rise up\". \nTry to\
+    \ calculate the effects from classical physics if you can! Why do two counter-spinning\
+    \ discs \"rise up\", under certain circumstances? \U0001F6F8\nI am not really\
+    \ sure, so I am building small-scale physical models for detailed study."

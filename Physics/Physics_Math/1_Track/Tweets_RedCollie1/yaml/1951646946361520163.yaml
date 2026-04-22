@@ -1,0 +1,61 @@
+id: '1951646946361520163'
+url: https://x.com/RedCollie1/status/1951646946361520163
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "It's the same man (\"Quetzal\"). Think \"bird\". \nHe loves Archimedean spirals.\
+  \ \nHow much more obvious can he get? https://t.co/j5K8sSfvJt"
+created_at: '2025-08-02T14:11:06.000Z'
+lang: en
+conversation_id: '1951646946361520163'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 53
+  reply_count: 29
+  like_count: 479
+  quote_count: 3
+  bookmark_count: 209
+  impression_count: 42182
+entities:
+  urls:
+  - start: 111
+    end: 134
+    url: https://t.co/j5K8sSfvJt
+    expanded_url: https://x.com/RedCollie1/status/1951646946361520163/photo/1
+    display_url: pic.x.com/j5K8sSfvJt
+    media_key: '3_1951646472837238784'
+attachments:
+  media_keys:
+  - '3_1951646472837238784'
+media:
+- media_key: '3_1951646472837238784'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxWkIHSbkAAe2Qd.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

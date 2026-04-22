@@ -1,0 +1,59 @@
+id: '2007970800310370343'
+url: https://x.com/RedCollie1/status/2007970800310370343
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@RobertMiller the rod is stainless steel, but still slightly paramagnetic.
+
+  no other stainless "dowel pins" are available.
+
+  this one is 304, I would need 316.'
+created_at: '2026-01-05T00:21:59.000Z'
+lang: en
+conversation_id: '2007700816019562994'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 34
+entities:
+  mentions:
+  - start: 0
+    end: 13
+    username: RobertMiller
+    id: '14160985'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '2007772250699903434'
+  text: '@RedCollie1 Noting the magnetic disk was sticking to the rod and wondering
+    if a non-ferrous rod would be better or if it would negatively impact the experiment?'
+has_video: false
+has_image: false
+media_count: 0

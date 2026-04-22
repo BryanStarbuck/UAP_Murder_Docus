@@ -1,0 +1,131 @@
+id: '2028380325014122685'
+url: https://x.com/RedCollie1/status/2028380325014122685
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@WhitleyStrieber Hello, Whitley, you are quite correct. Please see a new video
+  at the top of my page? I am studying how to make effective 3-phase spin and counter-spin
+  in a variety of simple models. Two counter-spinning discs may cancel Newton''s 3rd
+  Law. https://t.co/H4eD6oBtoA'
+created_at: '2026-03-02T08:02:09.000Z'
+lang: en
+conversation_id: '2028248514904703048'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 333
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: WhitleyStrieber
+    id: '19170041'
+  urls:
+  - start: 255
+    end: 278
+    url: https://t.co/H4eD6oBtoA
+    expanded_url: https://x.com/RedCollie1/status/2028380325014122685/video/1
+    display_url: pic.x.com/H4eD6oBtoA
+    media_key: '3_2028379744077754368'
+  - start: 255
+    end: 278
+    url: https://t.co/H4eD6oBtoA
+    expanded_url: https://x.com/RedCollie1/status/2028380325014122685/video/1
+    display_url: pic.x.com/H4eD6oBtoA
+    media_key: '13_2028379764327956480'
+  - start: 255
+    end: 278
+    url: https://t.co/H4eD6oBtoA
+    expanded_url: https://x.com/RedCollie1/status/2028380325014122685/video/1
+    display_url: pic.x.com/H4eD6oBtoA
+    media_key: '13_2028379834754461696'
+attachments:
+  media_keys:
+  - '3_2028379744077754368'
+  - '13_2028379764327956480'
+  - '13_2028379834754461696'
+media:
+- media_key: '3_2028379744077754368'
+  type: photo
+  width: 600
+  height: 368
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCZAoWNaMAAMjhC.jpg
+- media_key: '13_2028379764327956480'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2028379764327956480/img/a_mA9Nve0cBVi85P.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379764327956480/vid/avc1/720x730/BNolj7ld-8sjZnke.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379764327956480/vid/avc1/320x324/pJyhL7ypqd7BSAji.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379764327956480/vid/avc1/1000x1014/6yfyS1x71zX3QFbD.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379764327956480/vid/avc1/480x486/a2iIlT2_PjNtDoTe.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2028379764327956480/pl/xh-v9FiVx0ZpIDQs.m3u8
+  public_metrics:
+    view_count: 176
+- media_key: '13_2028379834754461696'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2028379834754461696/img/9zuYtMM0TcM5vp3j.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379834754461696/vid/avc1/480x270/KlYnsCps9LlRW3gP.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379834754461696/vid/avc1/640x360/dikoN-9defuZy7bF.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2028379834754461696/vid/avc1/1280x720/5dN23wqpDWXcC679.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2028379834754461696/pl/nWshCYmpxf_6pys6.m3u8
+  public_metrics:
+    view_count: 53
+referenced_tweets:
+- type: replied_to
+  id: '2028375420064702868'
+  text: '@RedCollie1 Very much depends on the speed of the rotation and the power
+    of the magnet. But this is the key to the mastery of gravity.'
+has_video: true
+has_image: true
+media_count: 3

@@ -1,0 +1,143 @@
+id: '2036194828409786500'
+url: https://x.com/RedCollie1/status/2036194828409786500
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here is my new, 10-minute video of a simplified model by which to study \"\
+  UFO physics\". \U0001F6F8\nThe new model (video 1) uses just 6 wire coils and one\
+  \ 3-phase power supply. It also matches well what has been drawn in crops recently\
+  \ (slides 2, 3, 4). \nMany other close comparisons will https://t.co/K65JcGx3lf"
+created_at: '2026-03-23T21:34:12.000Z'
+lang: en
+conversation_id: '2036194828409786500'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 7
+  reply_count: 10
+  like_count: 69
+  quote_count: 2
+  bookmark_count: 17
+  impression_count: 3954
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/K65JcGx3lf
+    expanded_url: https://x.com/RedCollie1/status/2036194828409786500/video/1
+    display_url: pic.x.com/K65JcGx3lf
+    media_key: '13_2036192068780048384'
+  - start: 278
+    end: 301
+    url: https://t.co/K65JcGx3lf
+    expanded_url: https://x.com/RedCollie1/status/2036194828409786500/video/1
+    display_url: pic.x.com/K65JcGx3lf
+    media_key: '3_2036192174963040257'
+  - start: 278
+    end: 301
+    url: https://t.co/K65JcGx3lf
+    expanded_url: https://x.com/RedCollie1/status/2036194828409786500/video/1
+    display_url: pic.x.com/K65JcGx3lf
+    media_key: '3_2036192210807562243'
+  - start: 278
+    end: 301
+    url: https://t.co/K65JcGx3lf
+    expanded_url: https://x.com/RedCollie1/status/2036194828409786500/video/1
+    display_url: pic.x.com/K65JcGx3lf
+    media_key: '13_2036192231409983488'
+attachments:
+  media_keys:
+  - '13_2036192068780048384'
+  - '3_2036192174963040257'
+  - '3_2036192210807562243'
+  - '13_2036192231409983488'
+media:
+- media_key: '13_2036192068780048384'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036192068780048384/img/5Qhdoi8B6BLI4Ojd.jpg
+  duration_ms: 615781
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192068780048384/vid/avc1/480x270/5QHQqh4V9tHvaOCE.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192068780048384/vid/avc1/640x360/MGalUj3YH92YC-T0.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192068780048384/vid/avc1/1280x720/sMgBSr-jbbQOJJRL.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036192068780048384/pl/n9UfiH_f9glna0ka.m3u8
+  public_metrics:
+    view_count: 1269
+- media_key: '3_2036192174963040257'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEIB_rMaIAEpgWp.jpg
+- media_key: '3_2036192210807562243'
+  type: photo
+  width: 960
+  height: 934
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEICBwuaIAMN8CY.jpg
+- media_key: '13_2036192231409983488'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036192231409983488/img/1qJenu6qY7tCVnic.jpg
+  duration_ms: 7040
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192231409983488/vid/avc1/480x270/hdMYTT6KmVhLh-WS.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192231409983488/vid/avc1/640x360/zbNBwET0IuOYdzkv.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036192231409983488/vid/avc1/1280x720/DOraDy0dSMPCTUP-.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036192231409983488/pl/VvzJXRaeZV2NugLm.m3u8
+  public_metrics:
+    view_count: 55
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Here is my new, 10-minute video of a simplified model by which to study \"\
+    UFO physics\". \U0001F6F8\nThe new model (video 1) uses just 6 wire coils and\
+    \ one 3-phase power supply. It also matches well what has been drawn in crops\
+    \ recently (slides 2, 3, 4). \nMany other close comparisons will be shown in second\
+    \ half of the movie. We certainly seem to be on the \"right track\"! \nWhat is\
+    \ truly remarkable here, is that we can get fast, powerful, clockwise spin, as\
+    \ well as fast, powerful, anti-clockwise counter-spin, from the SAME 3-phase,\
+    \ clockwise rotating magnetic field! \nNow we might expect two, counter-rotating,\
+    \ magnetic discs to have strong and novel effects on Newton's Third Law of action-reaction,\
+    \ and will study such effects soon.\U0001F600"

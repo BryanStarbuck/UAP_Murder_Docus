@@ -1,0 +1,108 @@
+id: '1943838561599729681'
+url: https://x.com/RedCollie1/status/1943838561599729681
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"This was the structure of the wheels. Each appeared to be made like a wheel\
+  \ within a wheel. As the creatures moved, they could go in any of four directions.\
+  \ But the wheels DID NOT CHANGE DIRECTION as the creatures moved. All four rims\
+  \ of those wheels were full of eyes.\" \nEzekiel https://t.co/vv9D8zBkz5"
+created_at: '2025-07-12T01:03:22.000Z'
+lang: en
+conversation_id: '1943838561599729681'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 7
+  reply_count: 6
+  like_count: 34
+  quote_count: 2
+  bookmark_count: 8
+  impression_count: 2318
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/vv9D8zBkz5
+    expanded_url: https://x.com/RedCollie1/status/1943838561599729681/video/1
+    display_url: pic.x.com/vv9D8zBkz5
+    media_key: '3_1943838295382720512'
+  - start: 281
+    end: 304
+    url: https://t.co/vv9D8zBkz5
+    expanded_url: https://x.com/RedCollie1/status/1943838561599729681/video/1
+    display_url: pic.x.com/vv9D8zBkz5
+    media_key: '13_1943838363595026434'
+  - start: 281
+    end: 304
+    url: https://t.co/vv9D8zBkz5
+    expanded_url: https://x.com/RedCollie1/status/1943838561599729681/video/1
+    display_url: pic.x.com/vv9D8zBkz5
+    media_key: '3_1943838541802614786'
+attachments:
+  media_keys:
+  - '3_1943838295382720512'
+  - '13_1943838363595026434'
+  - '3_1943838541802614786'
+media:
+- media_key: '3_1943838295382720512'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvnmoXkWgAA5W85.jpg
+- media_key: '13_1943838363595026434'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1943838363595026434/img/WNx0n1co0m5TuhOq.jpg
+  duration_ms: 12045
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1943838363595026434/vid/avc1/480x270/HB-h0b_mPjaUyADO.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1943838363595026434/vid/avc1/640x360/2fH8wKgW-TMF5Kex.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1943838363595026434/pl/qIXoFFAUsH7lKThF.m3u8?tag=14
+  public_metrics:
+    view_count: 1140
+- media_key: '3_1943838541802614786'
+  type: photo
+  width: 216
+  height: 234
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gvnm2tjbsAIZTCL.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "\"This was the structure of the wheels. Each appeared to be made like a wheel\
+    \ within a wheel. As the creatures moved, they could go in any of four directions.\
+    \ But the wheels DID NOT CHANGE DIRECTION as the creatures moved. All four rims\
+    \ of those wheels were full of eyes.\" \nEzekiel 1:15 describing a 3-axis gyroscope,\
+    \ with many small magnets along the outer perimeter of each wheel.\nTheologians\
+    \ are not good at physics. Not as good as Yahweh anyway!"

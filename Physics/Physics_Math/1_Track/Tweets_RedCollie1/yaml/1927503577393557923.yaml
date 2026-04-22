@@ -1,0 +1,82 @@
+id: '1927503577393557923'
+url: https://x.com/RedCollie1/status/1927503577393557923
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: A N-S magnet will also rise up, when we spin a horizontal N-S, permanent magnet
+  below. https://t.co/NvfnaEvxmx
+created_at: '2025-05-27T23:13:58.000Z'
+lang: en
+conversation_id: '1927341040354169205'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 10
+  reply_count: 3
+  like_count: 69
+  quote_count: 0
+  bookmark_count: 11
+  impression_count: 4959
+entities:
+  urls:
+  - start: 87
+    end: 110
+    url: https://t.co/NvfnaEvxmx
+    expanded_url: https://x.com/RedCollie1/status/1927503577393557923/video/1
+    display_url: pic.x.com/NvfnaEvxmx
+    media_key: '13_1927503318328242176'
+attachments:
+  media_keys:
+  - '13_1927503318328242176'
+media:
+- media_key: '13_1927503318328242176'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1927503318328242176/img/RbQKIwF8mwF8mg2O.jpg
+  duration_ms: 19600
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1927503318328242176/vid/avc1/478x270/F52aD_fdONzm1Zzk.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1927503318328242176/vid/avc1/638x360/lzYn1TU6nTqDN3aI.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1927503318328242176/vid/avc1/852x480/-lEnrTN8PzNgUJqg.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1927503318328242176/pl/RY6C62ozyh6NKJvF.m3u8?v=1a9
+  public_metrics:
+    view_count: 3478
+referenced_tweets:
+- type: replied_to
+  id: '1927341040354169205'
+  text: "What should we do when friendly aliens give us instructions for new physics,\
+    \ related to UFO levitation? \nPersonally I chose to follow their leads. And what\
+    \ did I find? Something entirely new! \nNobody has ever seen magnetic rotation/levitation\
+    \ due to alternating N-S-N-S-N-S wire https://t.co/sg8KiMYcrM"
+has_video: true
+has_image: false
+media_count: 1

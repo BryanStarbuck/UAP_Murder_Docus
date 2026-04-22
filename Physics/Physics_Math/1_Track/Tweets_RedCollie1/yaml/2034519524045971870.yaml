@@ -1,0 +1,72 @@
+id: '2034519524045971870'
+url: https://x.com/RedCollie1/status/2034519524045971870
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@maniaUFO June 19, 2005 in crops. https://t.co/1JDiv0lZId'
+created_at: '2026-03-19T06:37:08.000Z'
+lang: en
+conversation_id: '2033871777370165444'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 63
+entities:
+  urls:
+  - start: 34
+    end: 57
+    url: https://t.co/1JDiv0lZId
+    expanded_url: https://x.com/RedCollie1/status/2034519524045971870/photo/1
+    display_url: pic.x.com/1JDiv0lZId
+    media_key: '3_2034519418269777920'
+  mentions:
+  - start: 0
+    end: 9
+    username: maniaUFO
+    id: '2293697022'
+attachments:
+  media_keys:
+  - '3_2034519418269777920'
+media:
+- media_key: '3_2034519418269777920'
+  type: photo
+  width: 829
+  height: 851
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDwQoa6awAAkOMu.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2033871777370165444'
+  text: 'Mysterious 2,000-Year-Old Disco Colgante - Unknown High-Tech Device...🧐🤔
+
+    The 2,000-year-old Disco Colgante is an object that was produced for unknown reasons,
+    or at least it seems so to us, modern humans. Was it an ancient tool, a high-tech
+    device, ritual artifact or does it https://t.co/QqXHcM0pop'
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,83 @@
+id: '2011341856257556922'
+url: https://x.com/RedCollie1/status/2011341856257556922
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "This is also why a compass spins near or under a UFO, because of its strong,\
+  \ fast-rotating magnetic field.\nEven a border collie could understand! \nBut not\
+  \ most humans on Earth, even our Great Learned Professors of Physics in the Schools.\
+  \ \U0001F973\U0001F921 https://t.co/ul27nLkN8M"
+created_at: '2026-01-14T07:37:22.000Z'
+lang: en
+conversation_id: '2011295457029603525'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 5
+  like_count: 26
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1615
+entities:
+  urls:
+  - start: 241
+    end: 264
+    url: https://t.co/ul27nLkN8M
+    expanded_url: https://x.com/RedCollie1/status/2011341856257556922/video/1
+    display_url: pic.x.com/ul27nLkN8M
+    media_key: '13_2011341558927462400'
+attachments:
+  media_keys:
+  - '13_2011341558927462400'
+media:
+- media_key: '13_2011341558927462400'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2011341558927462400/img/uZNfgUuFEd6Y4fb5.jpg
+  duration_ms: 21966
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011341558927462400/vid/avc1/478x270/bJH5wQSgbIf56wMd.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011341558927462400/vid/avc1/638x360/YR4De4P1HmsB-6wC.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011341558927462400/vid/avc1/852x480/iH_-SxEH383RES5R.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2011341558927462400/pl/-Z1UdkFS5HzQbGpn.m3u8?v=8dc
+  public_metrics:
+    view_count: 965
+referenced_tweets:
+- type: replied_to
+  id: '2011295457029603525'
+  text: "Even a Border Collie could understand (the upward force of UFO levitation)\
+    \ \nWoof, woof says the red border collie!\n\"Some animals are smarter than some\
+    \ humans.\"\nJohn Locke, 1690, Essay On Human Understanding.\nhttps://t.co/IGOMXbzWHv"
+has_video: true
+has_image: false
+media_count: 1

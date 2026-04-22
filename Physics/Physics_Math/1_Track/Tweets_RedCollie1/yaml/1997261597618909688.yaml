@@ -1,0 +1,147 @@
+id: '1997261597618909688'
+url: https://x.com/RedCollie1/status/1997261597618909688
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'My friend and I spun liquid-metal galinstan with a DC battery and a permanent
+  magnet below, to check whether the Lorentz spin of that metallic liquid creates
+  a back-reaction "torque" by Newton''s 3rd Law?
+
+  We placed the entire device on a "Lazy Susan" bearing that could spin https://t.co/HiweD5VZr6'
+created_at: '2025-12-06T11:07:26.000Z'
+lang: en
+conversation_id: '1997261597618909688'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 34
+  reply_count: 13
+  like_count: 229
+  quote_count: 5
+  bookmark_count: 83
+  impression_count: 18424
+entities:
+  urls:
+  - start: 274
+    end: 297
+    url: https://t.co/HiweD5VZr6
+    expanded_url: https://x.com/RedCollie1/status/1997261597618909688/video/1
+    display_url: pic.x.com/HiweD5VZr6
+    media_key: '13_1997258262782357504'
+  - start: 274
+    end: 297
+    url: https://t.co/HiweD5VZr6
+    expanded_url: https://x.com/RedCollie1/status/1997261597618909688/video/1
+    display_url: pic.x.com/HiweD5VZr6
+    media_key: '13_1997258284475256832'
+  - start: 274
+    end: 297
+    url: https://t.co/HiweD5VZr6
+    expanded_url: https://x.com/RedCollie1/status/1997261597618909688/video/1
+    display_url: pic.x.com/HiweD5VZr6
+    media_key: '13_1997259301308817408'
+attachments:
+  media_keys:
+  - '13_1997258262782357504'
+  - '13_1997258284475256832'
+  - '13_1997259301308817408'
+media:
+- media_key: '13_1997258262782357504'
+  type: video
+  width: 720
+  height: 1280
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1997258262782357504/img/4wmZy-TT5fNbMZ4d.jpg
+  duration_ms: 25425
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258262782357504/vid/avc1/320x568/j5StpYfoBgWxP62i.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258262782357504/vid/avc1/480x852/Kr_UKk6a1_YHVNb2.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258262782357504/vid/avc1/720x1280/NdWazb8WeTslj0Y6.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1997258262782357504/pl/Cn2GR9GBdFwpXtsA.m3u8?v=09d
+  public_metrics:
+    view_count: 11334
+- media_key: '13_1997258284475256832'
+  type: video
+  width: 720
+  height: 1280
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1997258284475256832/img/u9v7yPf8OyKTM-Bg.jpg
+  duration_ms: 30130
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258284475256832/vid/avc1/320x568/_zb9txcCa6ocj7tt.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258284475256832/vid/avc1/480x852/D9xHhLVGOcB8gTxG.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997258284475256832/vid/avc1/720x1280/5txoBeGZerjwkEZY.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1997258284475256832/pl/CgdaT6o0KC9uRGnI.m3u8?v=022
+  public_metrics:
+    view_count: 2875
+- media_key: '13_1997259301308817408'
+  type: video
+  width: 960
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1997259301308817408/img/rINFSu9-p4HG92qU.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997259301308817408/vid/avc1/360x270/VFmRwgAYtGCSg0pe.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997259301308817408/vid/avc1/480x360/vJ-52q-K0JcCQrYQ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1997259301308817408/vid/avc1/960x720/PAdLmSrwRENo4qCO.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1997259301308817408/pl/YmCC28HmyofQsRwx.m3u8?v=54b
+  public_metrics:
+    view_count: 1296
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "My friend and I spun liquid-metal galinstan with a DC battery and a permanent\
+    \ magnet below, to check whether the Lorentz spin of that metallic liquid creates\
+    \ a back-reaction \"torque\" by Newton's 3rd Law?\nWe placed the entire device\
+    \ on a \"Lazy Susan\" bearing that could spin freely. We looked, and felt carefully\
+    \ with our fingers, but there was no apparent torque (see videos 1 and 2). \n\
+    We expected this result from previous studies (by others) of a Lorentz force using\
+    \ \"brushes\" (see video 3).\nYet the Lorentz force seems to behave totally differently\
+    \ from 3-phase magnetism, which causes a central magnet to spin one way, and three\
+    \ wire coils to spin the other way!\nNow if we can make 3-phase magnetism act\
+    \ in a similar fashion, by combining it with a Lorentz force, then we will have\
+    \ discovered \"UFO levitation\". Upward force without downward counter-force.\U0001F6F8"

@@ -1,0 +1,101 @@
+id: '2039678934200283365'
+url: https://x.com/RedCollie1/status/2039678934200283365
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Here is an interesting problem in physics for you!
+
+  Our friend first reduces spin angular momentum around his vertical axis to zero,
+  by lowering the spinning wheel to horizontal (times 0:12 to 0:20).
+
+  That makes his body and feet move anti-clockwise with velocity v = -2, because v
+  https://t.co/p9xqtnyUlc'
+created_at: '2026-04-02T12:18:47.000Z'
+lang: en
+conversation_id: '2039678934200283365'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 8
+  like_count: 29
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 2726
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/p9xqtnyUlc
+    expanded_url: https://x.com/RedCollie1/status/2039678934200283365/video/1
+    display_url: pic.x.com/p9xqtnyUlc
+    media_key: '13_2039678248859422720'
+attachments:
+  media_keys:
+  - '13_2039678248859422720'
+media:
+- media_key: '13_2039678248859422720'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039678248859422720/img/CTjoMCcs6cNQKAnu.jpg
+  duration_ms: 30630
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039678248859422720/vid/avc1/480x270/_gcmCCsVon3J_Fnc.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039678248859422720/vid/avc1/640x360/6QIRKi3dcMK1vwRZ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039678248859422720/vid/avc1/1280x720/BevK9qF7zomYUx_-.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039678248859422720/pl/MetRCCqMxzt5VRFj.m3u8?v=37b
+  public_metrics:
+    view_count: 1439
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Here is an interesting problem in physics for you!\nOur friend first reduces\
+    \ spin angular momentum around his vertical axis to zero, by lowering the spinning\
+    \ wheel to horizontal (times 0:12 to 0:20).\nThat makes his body and feet move\
+    \ anti-clockwise with velocity v = -2, because v = -2 from the vertical spinning\
+    \ wheel has been lost, and spin angular momentum is conserved. \nNext he increases\
+    \ spin angular momentum around his vertical axis from zero to v = -2, by raising\
+    \ the spinning wheel over his head (times 0:20 to 0:31). \nThat makes his body\
+    \ and feet move clockwise with velocity v = +2, because spin angular momentum\
+    \ is again conserved. \nSo far, so good. Now let us consider another hypothetical\
+    \ (but important) case, where the man is spinning rapidly clockwise with v = +8,\
+    \ BEFORE he raises the anti-clockwise spinning wheel with v = -2 over his head.\
+    \ \nWill the spin of his body and feet around that vertical axis increase to v\
+    \ = +10, or might some other value be observed? \nPlease note that \"energy\"\
+    \ E =mv2 is always conserved, whereas \"spin angular momentum\" mvr is only conserved\
+    \ in the starting condition of v = 0 for his body and feet, not moving in either\
+    \ direction.\nHow might this be relevant to Newton's Third Law? \nHow might this\
+    \ be relevant to \"spin\" and \"counter-spin\" as suggested for UFO levitation?\
+    \ \nI will try to test these ideas by experiment soon.\U0001F6F8\nPlease write\
+    \ your concise answers below."

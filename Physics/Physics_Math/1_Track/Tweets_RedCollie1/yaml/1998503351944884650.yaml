@@ -1,0 +1,86 @@
+id: '1998503351944884650'
+url: https://x.com/RedCollie1/status/1998503351944884650
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'We have to get rid of the downward, counter-spin force, to get an upward spinning
+  magnet to work like a UFO.
+
+  Hopefully a counter-spinning Lorentz force will do this? https://t.co/8CqAkdG2Ua'
+created_at: '2025-12-09T21:21:44.000Z'
+lang: en
+conversation_id: '1998500737366827151'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 7
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 1283
+entities:
+  urls:
+  - start: 166
+    end: 189
+    url: https://t.co/8CqAkdG2Ua
+    expanded_url: https://x.com/RedCollie1/status/1998503351944884650/video/1
+    display_url: pic.x.com/8CqAkdG2Ua
+    media_key: '13_1998502143406518272'
+attachments:
+  media_keys:
+  - '13_1998502143406518272'
+media:
+- media_key: '13_1998502143406518272'
+  type: video
+  width: 720
+  height: 900
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1998502143406518272/img/VlRL9hyThJULpgxc.jpg
+  duration_ms: 45433
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998502143406518272/vid/avc1/320x400/5QYi_60K61Qlk-QK.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998502143406518272/vid/avc1/480x600/9DJYhyY3Bf4ehyTD.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998502143406518272/vid/avc1/720x900/XCXRF1jipjjrEc-W.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1998502143406518272/pl/wF_I_DoRXWgp-doU.m3u8?v=44b
+  public_metrics:
+    view_count: 567
+referenced_tweets:
+- type: replied_to
+  id: '1998500737366827151'
+  text: 'Let''s look at some more "alien" physics that were drawn in crops 2012, meant
+    to teach us the physics of UFO levitation!
+
+    Slide 1 shows a "3-phase rotating" crop picture from Germany 2012. Many "small
+    dots" in the landscape below appear "propelled" from left to right. A light green
+    https://t.co/4qdUyY5PlS'
+has_video: true
+has_image: false
+media_count: 1

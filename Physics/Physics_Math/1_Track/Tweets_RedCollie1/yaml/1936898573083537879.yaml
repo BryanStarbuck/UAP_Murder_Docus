@@ -1,0 +1,80 @@
+id: '1936898573083537879'
+url: https://x.com/RedCollie1/status/1936898573083537879
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: NEW https://t.co/0SMUFFef89 https://t.co/BO3iHnBN4S
+created_at: '2025-06-22T21:26:20.000Z'
+lang: und
+conversation_id: '1936898573083537879'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 46
+  reply_count: 16
+  like_count: 314
+  quote_count: 8
+  bookmark_count: 57
+  impression_count: 11248
+entities:
+  urls:
+  - start: 4
+    end: 27
+    url: https://t.co/0SMUFFef89
+    expanded_url: https://www.cropcircleconnector.com/2025/hackpenhill/hackpenhill2025a.html
+    display_url: cropcircleconnector.com/2025/hackpenhi…
+    status: 200
+    unwound_url: https://www.cropcircleconnector.com/2025/hackpenhill/hackpenhill2025a.html
+  - start: 28
+    end: 51
+    url: https://t.co/BO3iHnBN4S
+    expanded_url: https://x.com/RedCollie1/status/1936898573083537879/photo/1
+    display_url: pic.x.com/BO3iHnBN4S
+    media_key: '3_1936898522109898752'
+  - start: 28
+    end: 51
+    url: https://t.co/BO3iHnBN4S
+    expanded_url: https://x.com/RedCollie1/status/1936898573083537879/photo/1
+    display_url: pic.x.com/BO3iHnBN4S
+    media_key: '3_1936898543597363200'
+attachments:
+  media_keys:
+  - '3_1936898522109898752'
+  - '3_1936898543597363200'
+media:
+- media_key: '3_1936898522109898752'
+  type: photo
+  width: 800
+  height: 800
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuE-8ZhW8AAnnE-.png
+- media_key: '3_1936898543597363200'
+  type: photo
+  width: 800
+  height: 670
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuE-9pkXoAApNmn.png
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

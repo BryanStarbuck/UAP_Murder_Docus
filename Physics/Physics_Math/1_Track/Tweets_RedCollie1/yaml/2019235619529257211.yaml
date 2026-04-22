@@ -1,0 +1,129 @@
+id: '2019235619529257211'
+url: https://x.com/RedCollie1/status/2019235619529257211
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @DigsAndDust Indeed. My latest results for \"outside\" UFO counter-spin\
+  \ are shown here. Everything seems to be working perfectly. The entire device still\
+  \ needs to be assembled and tested. \nInterestingly we can spin 6 outer coils 3-phase\
+  \ clockwise, and likewise spin 3 inner-lower coils 3-phase https://t.co/Xy8iAUEVDv"
+created_at: '2026-02-05T02:24:21.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 118
+entities:
+  urls:
+  - start: 298
+    end: 321
+    url: https://t.co/Xy8iAUEVDv
+    expanded_url: https://x.com/RedCollie1/status/2019235619529257211/video/1
+    display_url: pic.x.com/Xy8iAUEVDv
+    media_key: '13_2019233817635221507'
+  - start: 298
+    end: 321
+    url: https://t.co/Xy8iAUEVDv
+    expanded_url: https://x.com/RedCollie1/status/2019235619529257211/video/1
+    display_url: pic.x.com/Xy8iAUEVDv
+    media_key: '3_2019234875174486016'
+  - start: 298
+    end: 321
+    url: https://t.co/Xy8iAUEVDv
+    expanded_url: https://x.com/RedCollie1/status/2019235619529257211/video/1
+    display_url: pic.x.com/Xy8iAUEVDv
+    media_key: '3_2019235580358586370'
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: DigsAndDust
+    id: '1977324425100804096'
+attachments:
+  media_keys:
+  - '13_2019233817635221507'
+  - '3_2019234875174486016'
+  - '3_2019235580358586370'
+media:
+- media_key: '13_2019233817635221507'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019233817635221507/img/cDRGWgysYhse3_2t.jpg
+  duration_ms: 176342
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019233817635221507/vid/avc1/480x270/2yUGdEs4BNk9EsCb.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019233817635221507/vid/avc1/640x360/cxq-lZpYjA9Pe6pF.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019233817635221507/vid/avc1/1280x720/buVj4H-QqRRzWOsV.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019233817635221507/pl/RWbAwB1IQSKStDXL.m3u8
+  public_metrics:
+    view_count: 49
+- media_key: '3_2019234875174486016'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAXDa6zbAAAPEML.jpg
+- media_key: '3_2019235580358586370'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAXED90acAImoRY.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2019233421176824113'
+  text: '@RedCollie1 @DigsAndDust Thanks for the update, Dr. Drew. Ucar''s 2021 paper
+    (in Symmetry journal) details levitation via rotating magnets and magnetostatic
+    torque, aligning with your counter-spin setup idea. Using 3-phase coils for opposing
+    flywheels sounds promising for testing torque synchronization.'
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "Indeed. My latest results for \"outside\" UFO counter-spin are shown here.\
+    \ Everything seems to be working perfectly. The entire device still needs to be\
+    \ assembled and tested. \nInterestingly we can spin 6 outer coils 3-phase clockwise,\
+    \ and likewise spin 3 inner-lower coils 3-phase clockwise, but still get counter-spin\
+    \ outside, due to a particular arrangement of rotor magnets as shown! \nThe outer\
+    \ and inner 3-phase magnetic field will thus not \"interfere\" with one another,\
+    \ even though two sets of magnets spin in opposite directions. No loss of power.\
+    \ \nThis kind of \"UFO physics\" is shown in many crop pictures, for example in\
+    \ slides 2 and 3 below."

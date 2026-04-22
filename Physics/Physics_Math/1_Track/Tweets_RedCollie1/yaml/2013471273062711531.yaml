@@ -1,0 +1,88 @@
+id: '2013471273062711531'
+url: https://x.com/RedCollie1/status/2013471273062711531
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: So close. It's like a "space propeller". 🛸 https://t.co/078JzV0YGF
+created_at: '2026-01-20T04:38:54.000Z'
+lang: en
+conversation_id: '2013471273062711531'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 5
+  like_count: 62
+  quote_count: 1
+  bookmark_count: 17
+  impression_count: 3349
+entities:
+  urls:
+  - start: 43
+    end: 66
+    url: https://t.co/078JzV0YGF
+    expanded_url: https://x.com/RedCollie1/status/2013471273062711531/video/1
+    display_url: pic.x.com/078JzV0YGF
+    media_key: '13_2013471192431112192'
+  - start: 43
+    end: 66
+    url: https://t.co/078JzV0YGF
+    expanded_url: https://x.com/RedCollie1/status/2013471273062711531/video/1
+    display_url: pic.x.com/078JzV0YGF
+    media_key: '3_2013471212865835009'
+attachments:
+  media_keys:
+  - '13_2013471192431112192'
+  - '3_2013471212865835009'
+media:
+- media_key: '13_2013471192431112192'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2013471192431112192/img/E1KWCQ0-bk8iOuAv.jpg
+  duration_ms: 72576
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013471192431112192/vid/avc1/480x270/qN9h7d2s3cfuP2Dz.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013471192431112192/vid/avc1/640x360/xnLFEoxPF8orO_oB.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013471192431112192/vid/avc1/1280x720/-C1EQCtdYYUVpIEE.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2013471192431112192/pl/wzOyzejWk9R1I21y.m3u8
+  public_metrics:
+    view_count: 1539
+- media_key: '3_2013471212865835009'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_FJZnhX0AEgclH.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2

@@ -1,0 +1,71 @@
+id: '1920651706850754877'
+url: https://x.com/RedCollie1/status/1920651706850754877
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@FoJAk3 May 8 is 25 days (board game) until a 5-year delta for this post on\
+  \ June 3, 2020.\n\"The future has all been planned\" \nA-M-A-Z-I-N-G https://t.co/at0aoZW1xL"
+created_at: '2025-05-09T01:27:05.000Z'
+lang: en
+conversation_id: '1920614136892850178'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 19
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 972
+entities:
+  mentions:
+  - start: 0
+    end: 7
+    username: FoJAk3
+    id: '1192595600610676739'
+  urls:
+  - start: 139
+    end: 162
+    url: https://t.co/at0aoZW1xL
+    expanded_url: https://x.com/RedCollie1/status/1920651706850754877/photo/1
+    display_url: pic.x.com/at0aoZW1xL
+    media_key: '3_1920651188954882048'
+attachments:
+  media_keys:
+  - '3_1920651188954882048'
+media:
+- media_key: '3_1920651188954882048'
+  type: photo
+  width: 1000
+  height: 1098
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqeGFI8WYAAfntY.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1920614136892850178'
+  text: "Howard Moon  5/8/25  5:36 PM est\n\n                   ⚪️⚪️⚪️⚪️⚪️\n     \
+    \              ⚪️⚪️⚪️⚪️⚪️\n                   ⚫️⚫️      ⚪️⚪️\n               \
+    \    ⚫️⚫️⚫️⚫️⚫️\n                   ⚫️⚫️⚫️⚫️⚫️ https://t.co/Aqb8jdsl0U"
+has_video: false
+has_image: true
+media_count: 1

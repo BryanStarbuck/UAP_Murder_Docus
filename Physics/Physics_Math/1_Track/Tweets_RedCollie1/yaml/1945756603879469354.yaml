@@ -1,0 +1,142 @@
+id: '1945756603879469354'
+url: https://x.com/RedCollie1/status/1945756603879469354
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'I suspect that a 3-phase spinning magnet has to be attached to a "ball joint",
+  in order to capture the upward, anti-gravity force of a spinning gyroscope or top.
+
+  Please study an alien-made crop picture in slide 1 closely. Do you see a "ball joint"
+  below the spinning magnet? https://t.co/qc1Nx2tzOZ'
+created_at: '2025-07-17T08:04:59.000Z'
+lang: en
+conversation_id: '1945756603879469354'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 7
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 1105
+entities:
+  urls:
+  - start: 275
+    end: 298
+    url: https://t.co/qc1Nx2tzOZ
+    expanded_url: https://x.com/RedCollie1/status/1945756603879469354/video/1
+    display_url: pic.x.com/qc1Nx2tzOZ
+    media_key: '3_1945754705956585472'
+  - start: 275
+    end: 298
+    url: https://t.co/qc1Nx2tzOZ
+    expanded_url: https://x.com/RedCollie1/status/1945756603879469354/video/1
+    display_url: pic.x.com/qc1Nx2tzOZ
+    media_key: '3_1945754729666981888'
+  - start: 275
+    end: 298
+    url: https://t.co/qc1Nx2tzOZ
+    expanded_url: https://x.com/RedCollie1/status/1945756603879469354/video/1
+    display_url: pic.x.com/qc1Nx2tzOZ
+    media_key: '13_1945754759043977217'
+  - start: 275
+    end: 298
+    url: https://t.co/qc1Nx2tzOZ
+    expanded_url: https://x.com/RedCollie1/status/1945756603879469354/video/1
+    display_url: pic.x.com/qc1Nx2tzOZ
+    media_key: '13_1945755387052888064'
+attachments:
+  media_keys:
+  - '3_1945754705956585472'
+  - '3_1945754729666981888'
+  - '13_1945754759043977217'
+  - '13_1945755387052888064'
+media:
+- media_key: '3_1945754705956585472'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/GwC1mJSWQAAhj4w.jpg
+- media_key: '3_1945754729666981888'
+  type: photo
+  width: 1000
+  height: 1000
+  alt_text: null
+  url: https://pbs.twimg.com/media/GwC1nhnWMAAmArh.jpg
+- media_key: '13_1945754759043977217'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1945754759043977217/img/uy7RXXvbSqiWflA0.jpg
+  duration_ms: 14047
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945754759043977217/vid/avc1/480x270/SrPT1L_JegchHEm3.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945754759043977217/vid/avc1/640x360/20POwZgEhoAY6Hp2.mp4?tag=14
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945754759043977217/vid/avc1/1280x720/ILuO2i0UPdzZD0TB.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1945754759043977217/pl/mFnFmtqC6iFIbNPh.m3u8?tag=14
+  public_metrics:
+    view_count: 355
+- media_key: '13_1945755387052888064'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1945755387052888064/img/w9QLPmXt4QWA02zG.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945755387052888064/vid/avc1/480x270/vQWjQx50In7P2IAz.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945755387052888064/vid/avc1/640x360/L8QBTeg4k7m3vy_w.mp4?tag=14
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945755387052888064/vid/avc1/1280x720/owboALeaTSQAhmsr.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1945755387052888064/pl/WDHKTBTVtDcXVq_I.m3u8?tag=14
+  public_metrics:
+    view_count: 74
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "I suspect that a 3-phase spinning magnet has to be attached to a \"ball joint\"\
+    , in order to capture the upward, anti-gravity force of a spinning gyroscope or\
+    \ top.\nPlease study an alien-made crop picture in slide 1 closely. Do you see\
+    \ a \"ball joint\" below the spinning magnet?\nWorking slowly on that problem\
+    \ now, with many detailed technical problems! All by myself, the rest of the physicists\
+    \ and engineers seem \"blind\". \n\"When you are up to your ass in alligators,\
+    \ it is hard to remember that your objective was to drain the swamp\" Caltech\
+    \ saying \U0001F68D"

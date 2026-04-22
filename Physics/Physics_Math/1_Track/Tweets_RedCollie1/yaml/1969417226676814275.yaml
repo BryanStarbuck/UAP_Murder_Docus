@@ -1,0 +1,69 @@
+id: '1969417226676814275'
+url: https://x.com/RedCollie1/status/1969417226676814275
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Just to clarify matters, this is the image of an "integrated chip with a fractal
+  antenna" from a recent science-journal paper, which matches what has been engraved
+  into the top of the Buga orb-sphere. https://t.co/ckQVXuscko
+created_at: '2025-09-20T15:03:51.000Z'
+lang: en
+conversation_id: '1969361682016452638'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 4
+  reply_count: 2
+  like_count: 14
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1747
+entities:
+  urls:
+  - start: 201
+    end: 224
+    url: https://t.co/ckQVXuscko
+    expanded_url: https://x.com/RedCollie1/status/1969417226676814275/photo/1
+    display_url: pic.x.com/ckQVXuscko
+    media_key: '3_1969416793291964417'
+attachments:
+  media_keys:
+  - '3_1969416793291964417'
+media:
+- media_key: '3_1969416793291964417'
+  type: photo
+  width: 960
+  height: 933
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1TGI5rbQAEVBX9.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1969361682016452638'
+  text: 'So much money spent on the nearly-worthless SETI program, which uses "dish"
+    antennas, to look for radio signals from intelligent life elsewhere.
+
+    The E.T. crop artists drew a "fractal tree" antenna, next to the Chilbolton radio-telescope,
+    as a helpful suggestion, to help them find https://t.co/Bh7Urnbk4v'
+has_video: false
+has_image: true
+media_count: 1

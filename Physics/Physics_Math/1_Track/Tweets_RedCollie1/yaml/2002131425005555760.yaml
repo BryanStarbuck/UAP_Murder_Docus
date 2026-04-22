@@ -1,0 +1,152 @@
+id: '2002131425005555760'
+url: https://x.com/RedCollie1/status/2002131425005555760
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'NOTES ON UFO ANTI-GRAVITY PHYSICS!
+
+  As shown in  video 1 (Edwin Fuhr, Canada 1974), a low-hovering UFO may spin one
+  way for its solid body, while pressing down on the ground below in an opposite direction.
+
+  We have reproduced that spin / counter-spin effect as shown in video 2. https://t.co/9VY4hzcDZa'
+created_at: '2025-12-19T21:38:24.000Z'
+lang: en
+conversation_id: '2002131425005555760'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 6
+  like_count: 67
+  quote_count: 0
+  bookmark_count: 22
+  impression_count: 7335
+entities:
+  urls:
+  - start: 277
+    end: 300
+    url: https://t.co/9VY4hzcDZa
+    expanded_url: https://x.com/RedCollie1/status/2002131425005555760/video/1
+    display_url: pic.x.com/9VY4hzcDZa
+    media_key: '13_2002128875002998786'
+  - start: 277
+    end: 300
+    url: https://t.co/9VY4hzcDZa
+    expanded_url: https://x.com/RedCollie1/status/2002131425005555760/video/1
+    display_url: pic.x.com/9VY4hzcDZa
+    media_key: '13_2002128932087476229'
+  - start: 277
+    end: 300
+    url: https://t.co/9VY4hzcDZa
+    expanded_url: https://x.com/RedCollie1/status/2002131425005555760/video/1
+    display_url: pic.x.com/9VY4hzcDZa
+    media_key: '13_2002128987397763077'
+attachments:
+  media_keys:
+  - '13_2002128875002998786'
+  - '13_2002128932087476229'
+  - '13_2002128987397763077'
+media:
+- media_key: '13_2002128875002998786'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2002128875002998786/img/nVL3f54LCsQady_U.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128875002998786/vid/avc1/480x270/a1pB66xDQC2iXG8W.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128875002998786/vid/avc1/640x360/6L1QGGj8D_tlKyJb.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128875002998786/vid/avc1/1280x720/rIjWs3t4p7biM0s5.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2002128875002998786/pl/f6NuEzH22L0x0uD_.m3u8?v=f8c
+  public_metrics:
+    view_count: 4239
+- media_key: '13_2002128932087476229'
+  type: video
+  width: 720
+  height: 900
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2002128932087476229/img/BYWBG-o1e7GfvUB-.jpg
+  duration_ms: 45433
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128932087476229/vid/avc1/320x400/FnPYmUnEsEsYV7Vw.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128932087476229/vid/avc1/480x600/YgZcDk7JPCqe51ww.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128932087476229/vid/avc1/720x900/hkejy_1VvQuI8oYP.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2002128932087476229/pl/22YPiC3NcNHSlfun.m3u8?v=dba
+  public_metrics:
+    view_count: 923
+- media_key: '13_2002128987397763077'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2002128987397763077/img/H67-xf-4-UspbCbE.jpg
+  duration_ms: 23256
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128987397763077/vid/avc1/480x270/hNcVldg9ZZlxooDm.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128987397763077/vid/avc1/640x360/WU2FCiWvbfoUye6I.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2002128987397763077/vid/avc1/1280x720/I568LWKaPJdgC1g6.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2002128987397763077/pl/0kuK0zX7h3JqnP-M.m3u8?v=40c
+  public_metrics:
+    view_count: 527
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "NOTES ON UFO ANTI-GRAVITY PHYSICS!\nAs shown in  video 1 (Edwin Fuhr, Canada\
+    \ 1974), a low-hovering UFO may spin one way for its solid body, while pressing\
+    \ down on the ground below in an opposite direction.\nWe have reproduced that\
+    \ spin / counter-spin effect as shown in video 2. Thus we are on the \"right track\"\
+    .\nThe general physics of spin and counter-spin are shown in video 3 (from \"\
+    The Action Lab\"). If we spin a central magnet in a UFO, upward with 3-phase power,\
+    \ then the rest of the craft will spin in a reverse sense (and downward) by Newton's\
+    \ 3rd law of action-reaction. \nDoes everyone understand?\nSo to get \"anti-gravity\"\
+    , we will have to replace (at least partly) that downward, counter-spinning force\
+    \ with some other kind of spin, which does not push the entire craft downward.\n\
+    That is what we will try next with counter-spinning liquid metal (galinstan) and\
+    \ a 6-volt DC battery, placed over another magnet below (the Lorentz force). \n\
+    These kinds of physics have been drawn many places, repeatedly, in alien-made\
+    \ crop pictures. Earth is a very primitive world. We need \"disclosure\". \U0001F47D\
+    \U0001F6F8"

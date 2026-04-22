@@ -1,0 +1,81 @@
+id: '1942033499692945417'
+url: https://x.com/RedCollie1/status/1942033499692945417
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Yumbo, Columbia. How does it fly? https://t.co/pijZmGPZvP
+created_at: '2025-07-07T01:30:42.000Z'
+lang: en
+conversation_id: '1942032833985560854'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 669
+entities:
+  urls:
+  - start: 34
+    end: 57
+    url: https://t.co/pijZmGPZvP
+    expanded_url: https://x.com/RedCollie1/status/1942033499692945417/video/1
+    display_url: pic.x.com/pijZmGPZvP
+    media_key: '13_1942033406667186176'
+attachments:
+  media_keys:
+  - '13_1942033406667186176'
+media:
+- media_key: '13_1942033406667186176'
+  type: video
+  width: 854
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1942033406667186176/img/ubIYAqKvxOAfS7iT.jpg
+  duration_ms: 15274
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942033406667186176/vid/avc1/480x270/i5B7NgKyljquT3bW.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942033406667186176/vid/avc1/640x360/AEDOXCSUrA-yorSx.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942033406667186176/vid/avc1/854x480/beb2UdtB6UAmktRk.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1942033406667186176/pl/JuEid9GeRAR7yAYh.m3u8
+  public_metrics:
+    view_count: 324
+referenced_tweets:
+- type: replied_to
+  id: '1942032833985560854'
+  text: "CURRENT WORKING HYPOTHESIS FOR THE MYSTERIOUS BUGA SPHERE \U0001F6F8\nWe\
+    \ cannot see any other working parts.\nAround the top we can see \"5 lunar crescents\"\
+    \ that symbolize 5-phase AC power.\nThey may create a fast-rotating magnetic field\
+    \ to spin up a \"magnetic\" gyroscope rotor. \nGyroscopes https://t.co/NjMQ4pectr"
+has_video: true
+has_image: false
+media_count: 1

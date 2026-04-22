@@ -1,0 +1,79 @@
+id: '1995249139144446091'
+url: https://x.com/RedCollie1/status/1995249139144446091
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'IMAGINE THAT. 💛💛💛
+
+  https://t.co/ms0QoY7UYW https://t.co/SKKmGS6Pai'
+created_at: '2025-11-30T21:50:39.000Z'
+lang: en
+conversation_id: '1995249139144446091'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 17
+  reply_count: 7
+  like_count: 117
+  quote_count: 1
+  bookmark_count: 24
+  impression_count: 17637
+entities:
+  urls:
+  - start: 18
+    end: 41
+    url: https://t.co/ms0QoY7UYW
+    expanded_url: https://avi-loeb.medium.com/are-the-jets-from-3i-atlas-pulsed-like-a-heartbeat-fe39dc583d25
+    display_url: avi-loeb.medium.com/are-the-jets-f…
+    images:
+    - url: https://pbs.twimg.com/news_img/1995101528311345153/7Eq2KDra?format=jpg&name=orig
+      width: 768
+      height: 768
+    - url: https://pbs.twimg.com/news_img/1995101528311345153/7Eq2KDra?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Are the Jets from 3I/ATLAS Pulsed Like a Heartbeat?
+    description: Following its detection on July 1, 2025, the light from the interstellar
+      object 3I/ATLAS showed pulsating variability with a period of…
+    unwound_url: https://avi-loeb.medium.com/are-the-jets-from-3i-atlas-pulsed-like-a-heartbeat-fe39dc583d25
+  - start: 42
+    end: 65
+    url: https://t.co/SKKmGS6Pai
+    expanded_url: https://x.com/RedCollie1/status/1995249139144446091/photo/1
+    display_url: pic.x.com/SKKmGS6Pai
+    media_key: '3_1995248888115290112'
+attachments:
+  media_keys:
+  - '3_1995248888115290112'
+media:
+- media_key: '3_1995248888115290112'
+  type: photo
+  width: 2000
+  height: 735
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7CMSt6a4AA4qc7.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

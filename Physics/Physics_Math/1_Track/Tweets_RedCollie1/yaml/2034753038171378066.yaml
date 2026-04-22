@@ -1,0 +1,126 @@
+id: '2034753038171378066'
+url: https://x.com/RedCollie1/status/2034753038171378066
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Of course I have to study it more, and look for anti-gravity effects, but can
+  only work at a certain rate.
+
+  MANY images from contactees, or drawn in crops, show "spin / counter-spin" as a
+  means of getting UFO levitation. Here are just a FEW. https://t.co/c6QVPxzopy'
+created_at: '2026-03-19T22:05:02.000Z'
+lang: en
+conversation_id: '2034573176802582892'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 771
+entities:
+  urls:
+  - start: 241
+    end: 264
+    url: https://t.co/c6QVPxzopy
+    expanded_url: https://x.com/RedCollie1/status/2034753038171378066/video/1
+    display_url: pic.x.com/c6QVPxzopy
+    media_key: '3_2034752821678239744'
+  - start: 241
+    end: 264
+    url: https://t.co/c6QVPxzopy
+    expanded_url: https://x.com/RedCollie1/status/2034753038171378066/video/1
+    display_url: pic.x.com/c6QVPxzopy
+    media_key: '3_2034752852162453504'
+  - start: 241
+    end: 264
+    url: https://t.co/c6QVPxzopy
+    expanded_url: https://x.com/RedCollie1/status/2034753038171378066/video/1
+    display_url: pic.x.com/c6QVPxzopy
+    media_key: '3_2034752891375034370'
+  - start: 241
+    end: 264
+    url: https://t.co/c6QVPxzopy
+    expanded_url: https://x.com/RedCollie1/status/2034753038171378066/video/1
+    display_url: pic.x.com/c6QVPxzopy
+    media_key: '13_2034752926321975296'
+attachments:
+  media_keys:
+  - '3_2034752821678239744'
+  - '3_2034752852162453504'
+  - '3_2034752891375034370'
+  - '13_2034752926321975296'
+media:
+- media_key: '3_2034752821678239744'
+  type: photo
+  width: 600
+  height: 368
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDzk6SXa8AAApK3.jpg
+- media_key: '3_2034752852162453504'
+  type: photo
+  width: 960
+  height: 974
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDzk8D7bIAAdbBT.jpg
+- media_key: '3_2034752891375034370'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDzk-WAboAIJ6k3.jpg
+- media_key: '13_2034752926321975296'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034752926321975296/img/zbZj6PeYNU0nc8EU.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034752926321975296/vid/avc1/480x270/G32iZkYQ7RdkBati.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034752926321975296/vid/avc1/640x360/tSDejwIYwsi0uS42.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034752926321975296/vid/avc1/1280x720/uaetgeFXMaWfaZ1v.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034752926321975296/pl/eNCA0KEeP397CwpC.m3u8
+  public_metrics:
+    view_count: 249
+referenced_tweets:
+- type: replied_to
+  id: '2034573176802582892'
+  text: 'In case some people do not understand, I have now solved the problem of how
+    to create magnetic spin, along with magnetic counter-spin, in a small model which
+    may produce "UFO physics" (video 1).
+
+    Slide 2 shows one of many crop-picture instructions on how to build this device,
+    from https://t.co/zLDbboaVu7'
+has_video: true
+has_image: true
+media_count: 4

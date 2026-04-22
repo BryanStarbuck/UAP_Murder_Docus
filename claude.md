@@ -75,8 +75,63 @@ Energy/               # UAP Energy Systems Murders — maps to navbar "UAP Energ
 └── Details/          # Individual profiles
 Physics/              # UAP Physics Murders — maps to navbar "UAP Physics Murders"
 ├── index.md          # Main overview (from source README.md)
-└── Details/          # Individual profiles
+├── Details/          # Individual profiles
+└── Physics_Math/     # Science & math research — NOT published to website (see below)
+    ├── videos/       # Physics/propulsion research videos (local only)
+    └── images/       # Physics/propulsion research images (local only)
 ```
+
+## Physics_Math: Science & Math Research Area
+
+`Physics/Physics_Math/` is a **local research area** for documenting the physics and math behind UAP propulsion and energy systems. It is separate from the murder/profile content and is **not published to the Docusaurus website**.
+
+### Purpose
+
+- Research and document different UAP propulsion system theories and methods
+- Research and document UAP energy system theories
+- Organized by "tracks" — each track represents a different physics approach or method (e.g., zero-point energy, inertial mass reduction, warp fields, electromagnetic propulsion, etc.)
+- Focuses on the science and math itself, not on people who died
+
+### Media Storage (Physics_Math only)
+
+These directories hold videos and images **specifically for physics/math research**. They are intentionally separate from the murder-profile media (which lives elsewhere under each investigation's `other/` directories).
+
+| Directory | Purpose |
+|-----------|---------|
+| `Physics/Physics_Math/videos/` | Physics and propulsion research videos — local reference only, not linked from web pages |
+| `Physics/Physics_Math/images/` | Physics and propulsion research images — local reference only, not linked from web pages |
+
+**Key distinction**: The `videos/` and `images/` under `Physics_Math/` are science/math reference media. They are NOT the same as murder-investigation media (which tracks IPFS hashes and gets embedded in profile pages). Physics_Math media does not need IPFS tracking or web page embedding.
+
+### Physics_Math Content Standard: PhD-Level Only
+
+All content created under `Physics/Physics_Math/` targets an audience of **PhD-level physicists and mathematicians**. This is non-negotiable.
+
+**Default behavior — always write at PhD level:**
+- Preserve all mathematical formalism in full — tensors, differential geometry, Lagrangians, Hamiltonians, field equations, exact solutions, boundary conditions, operator algebra, gauge theory, topology, etc.
+- Never simplify, summarize, or omit equations to make content more accessible
+- Use precise technical terminology throughout — no colloquial substitutions
+- Derive results rigorously; do not hand-wave steps
+- Include dimensional analysis, units, and limiting cases where relevant
+- Present competing theoretical frameworks with their full mathematical structure, not just qualitative descriptions
+- Cite primary literature (papers, preprints, patents) with enough specificity that a researcher can locate and verify them
+
+**The distinction between "UAP physics" and classical/Newtonian physics:**
+- Classical/Newtonian mechanics (F=ma, conservation laws, orbital mechanics) is baseline assumed knowledge — do not explain it
+- Special and general relativity, standard model quantum field theory, and thermodynamics are also assumed knowledge at the PhD level
+- The subject matter here is physics *beyond* this baseline: zero-point field theory, metric engineering, non-Abelian gauge extensions, exotic matter with negative energy density, higher-dimensional spacetime models, quantum gravity candidates, inertial mass reduction mechanisms, transient gravitomagnetic effects, etc.
+- When a thesis engages with mainstream physics (e.g., the Alcubierre metric is a solution to the Einstein field equations), present the full GR machinery — not just "it warps spacetime"
+
+**When and only when writing for a mass audience:**
+- This must be explicitly requested using language like "explain for a mass audience," "write a lay summary," or "ELI5"
+- Even then, keep the PhD-level version as the primary content; the lay explanation is a clearly labeled addendum
+- Do not use mass-audience framing as the default under any circumstances
+
+**What this means in practice:**
+- A section on the Alcubierre warp drive includes the full stress-energy tensor T_μν, the York time analysis of the expansion/contraction of the warp bubble, the negative energy density requirement with exact magnitude, and the known proposals for satisfying the weak energy condition
+- A section on zero-point energy includes the QED vacuum energy density calculation, the Casimir effect derivation, and the renormalization issues with the cosmological constant
+- A section on inertial mass reduction includes Woodward's Mach effect transient mass fluctuation derivation from the Abraham-Lorentz force and the full experimental apparatus specification
+- Do NOT write: "The craft bends space around it." DO write: the metric ansatz, the geodesic equations for test particles inside the bubble, and the required form of T_μν to source the geometry
 
 ## Config Files
 

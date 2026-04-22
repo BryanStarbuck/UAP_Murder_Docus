@@ -1,0 +1,90 @@
+id: '1945336678715187592'
+url: https://x.com/RedCollie1/status/1945336678715187592
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@spiritstem_ Overlay the \"spider\" motif with a \"Seed of Life\" from sacred\
+  \ geometry, rather than with a normal spider-web. \nThey are weaving a \"Web of\
+  \ Life\". https://t.co/Duf3APRuJP"
+created_at: '2025-07-16T04:16:21.000Z'
+lang: en
+conversation_id: '1945301782579622369'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 0
+  like_count: 24
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1194
+entities:
+  urls:
+  - start: 157
+    end: 180
+    url: https://t.co/Duf3APRuJP
+    expanded_url: https://x.com/RedCollie1/status/1945336678715187592/photo/1
+    display_url: pic.x.com/Duf3APRuJP
+    media_key: '3_1945336562147057664'
+  - start: 157
+    end: 180
+    url: https://t.co/Duf3APRuJP
+    expanded_url: https://x.com/RedCollie1/status/1945336678715187592/photo/1
+    display_url: pic.x.com/Duf3APRuJP
+    media_key: '3_1945336583336435712'
+  mentions:
+  - start: 0
+    end: 12
+    username: spiritstem_
+    id: '1490078884511076358'
+attachments:
+  media_keys:
+  - '3_1945336562147057664'
+  - '3_1945336583336435712'
+media:
+- media_key: '3_1945336562147057664'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gv85S-Na4AACHMn.jpg
+- media_key: '3_1945336583336435712'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gv85UNJXIAA3LLH.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1945301782579622369'
+  text: 'The spider crop circle 🕷️🌾arrived July 10th in Dorset, UK and is created
+    using sacred geometry -- not AI
+
+
+    (see the torus &amp; flower of life grid)
+
+
+    📹: Crop Circles from the Air https://t.co/XO8Gz1352m'
+has_video: false
+has_image: true
+media_count: 2

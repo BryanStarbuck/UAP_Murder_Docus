@@ -1,0 +1,75 @@
+id: '1981182259689578642'
+url: https://x.com/RedCollie1/status/1981182259689578642
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@UAPWatchers No tail 😅 https://t.co/F46FfLG9zd'
+created_at: '2025-10-23T02:13:53.000Z'
+lang: en
+conversation_id: '1981166939423560055'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1031
+entities:
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+  urls:
+  - start: 23
+    end: 46
+    url: https://t.co/F46FfLG9zd
+    expanded_url: https://x.com/RedCollie1/status/1981182259689578642/photo/1
+    display_url: pic.x.com/F46FfLG9zd
+    media_key: '3_1981182210435604480'
+attachments:
+  media_keys:
+  - '3_1981182210435604480'
+media:
+- media_key: '3_1981182210435604480'
+  type: photo
+  width: 900
+  height: 582
+  alt_text: null
+  url: https://pbs.twimg.com/media/G36SuUBWYAAMKGP.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1981166939423560055'
+  text: '🚨 Avi Loeb just claimed that 3I/ATLAS’s anti-tail “turned into a tail.”
+
+
+    But take a closer look, he’s using old data, and the morphology hasn’t changed.
+
+    Same imaging set, same geometry, same plume orientation.
+
+    The so called “tail flip” he describes isn’t a real-time evolution. https://t.co/mKsLUQkNta'
+has_video: false
+has_image: true
+media_count: 1

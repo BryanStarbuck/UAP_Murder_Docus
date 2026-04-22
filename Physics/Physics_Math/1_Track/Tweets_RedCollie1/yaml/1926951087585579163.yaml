@@ -1,0 +1,81 @@
+id: '1926951087585579163'
+url: https://x.com/RedCollie1/status/1926951087585579163
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"Magnet\" on a \"pole\" with a \"ball\", given a 3-phase, rotating magnetic\
+  \ field (2014 near Avebury). \nI saw this one on the first day with Mary Rodwell.\
+  \ It was a 2-3 km walk from the Red Lion. https://t.co/mjiBokjCNa"
+created_at: '2025-05-26T10:38:34.000Z'
+lang: en
+conversation_id: '1926943991410360706'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 30
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2394
+entities:
+  urls:
+  - start: 190
+    end: 213
+    url: https://t.co/mjiBokjCNa
+    expanded_url: https://x.com/RedCollie1/status/1926951087585579163/photo/1
+    display_url: pic.x.com/mjiBokjCNa
+    media_key: '3_1926950595308498944'
+  - start: 190
+    end: 213
+    url: https://t.co/mjiBokjCNa
+    expanded_url: https://x.com/RedCollie1/status/1926951087585579163/photo/1
+    display_url: pic.x.com/mjiBokjCNa
+    media_key: '3_1926950628787433472'
+attachments:
+  media_keys:
+  - '3_1926950595308498944'
+  - '3_1926950628787433472'
+media:
+- media_key: '3_1926950595308498944'
+  type: photo
+  width: 900
+  height: 870
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gr3nW2UXMAA9FNy.jpg
+- media_key: '3_1926950628787433472'
+  type: photo
+  width: 960
+  height: 975
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gr3nYzCXMAAmJeV.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1926943991410360706'
+  text: "What would you do if friendly aliens asked you to do a certain laboratory\
+    \ experiment, on a dozen different occasions from 1998 to 2024? \nYOU DO IT! What\
+    \ might they be trying to teach us?\nPlease watch and learn. \U0001F604\U0001F6F8\
+    \ https://t.co/r9d6cDJHFl"
+has_video: false
+has_image: true
+media_count: 2

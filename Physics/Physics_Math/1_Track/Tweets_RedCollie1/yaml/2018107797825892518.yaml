@@ -1,0 +1,92 @@
+id: '2018107797825892518'
+url: https://x.com/RedCollie1/status/2018107797825892518
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"Quetzalcoatl Headdress" (2009) https://t.co/Gi77lgwdAt'
+created_at: '2026-02-01T23:42:48.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 25
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 2567
+entities:
+  urls:
+  - start: 32
+    end: 55
+    url: https://t.co/Gi77lgwdAt
+    expanded_url: https://x.com/RedCollie1/status/2018107797825892518/photo/1
+    display_url: pic.x.com/Gi77lgwdAt
+    media_key: '3_2018107424721575936'
+  - start: 32
+    end: 55
+    url: https://t.co/Gi77lgwdAt
+    expanded_url: https://x.com/RedCollie1/status/2018107797825892518/photo/1
+    display_url: pic.x.com/Gi77lgwdAt
+    media_key: '3_2018107509828177920'
+  - start: 32
+    end: 55
+    url: https://t.co/Gi77lgwdAt
+    expanded_url: https://x.com/RedCollie1/status/2018107797825892518/photo/1
+    display_url: pic.x.com/Gi77lgwdAt
+    media_key: '3_2018107761213788160'
+attachments:
+  media_keys:
+  - '3_2018107424721575936'
+  - '3_2018107509828177920'
+  - '3_2018107761213788160'
+media:
+- media_key: '3_2018107424721575936'
+  type: photo
+  width: 747
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAHCAqkboAAJoAj.png
+- media_key: '3_2018107509828177920'
+  type: photo
+  width: 1100
+  height: 1099
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAHCFnnbUAARE9O.jpg
+- media_key: '3_2018107761213788160'
+  type: photo
+  width: 960
+  height: 568
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAHCUQGbUAAd0Ry.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2018081054264107165'
+  text: "I have known since 2017 that \"Q\" is a human E.T. military strategist from\
+    \ the stars, assigned to protect Earth from an enemy invasion soon. \nWe have\
+    \ told you this MANY TIMES. I know it with CERTAINTY. His full name is \"Quetzal\"\
+    \ (like the bird). \nHe met Donald and Melania in https://t.co/aINeHNyosd"
+has_video: false
+has_image: true
+media_count: 3

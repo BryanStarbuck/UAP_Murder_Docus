@@ -1,0 +1,155 @@
+id: '1959451148194382208'
+url: https://x.com/RedCollie1/status/1959451148194382208
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "How do UFOs fly? I have done a lot of experiments now, and have also gotten\
+  \ useful clues by studying numerous E.T.-made crop pictures. \nYou don't believe\
+  \ me? Look please at video 1, slide 2, video 3 and video 4 below. Also four more\
+  \ \"UFO\" crop pictures shown in comments. \nI have https://t.co/GPZ0Odj3HP"
+created_at: '2025-08-24T03:02:13.000Z'
+lang: en
+conversation_id: '1959451148194382208'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 6
+  like_count: 30
+  quote_count: 1
+  bookmark_count: 3
+  impression_count: 5432
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/GPZ0Odj3HP
+    expanded_url: https://x.com/RedCollie1/status/1959451148194382208/video/1
+    display_url: pic.x.com/GPZ0Odj3HP
+    media_key: '13_1959450870925713409'
+  - start: 280
+    end: 303
+    url: https://t.co/GPZ0Odj3HP
+    expanded_url: https://x.com/RedCollie1/status/1959451148194382208/video/1
+    display_url: pic.x.com/GPZ0Odj3HP
+    media_key: '3_1959450901384712193'
+  - start: 280
+    end: 303
+    url: https://t.co/GPZ0Odj3HP
+    expanded_url: https://x.com/RedCollie1/status/1959451148194382208/video/1
+    display_url: pic.x.com/GPZ0Odj3HP
+    media_key: '13_1959450926298914816'
+  - start: 280
+    end: 303
+    url: https://t.co/GPZ0Odj3HP
+    expanded_url: https://x.com/RedCollie1/status/1959451148194382208/video/1
+    display_url: pic.x.com/GPZ0Odj3HP
+    media_key: '13_1959450945341075456'
+attachments:
+  media_keys:
+  - '13_1959450870925713409'
+  - '3_1959450901384712193'
+  - '13_1959450926298914816'
+  - '13_1959450945341075456'
+media:
+- media_key: '13_1959450870925713409'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1959450870925713409/img/5hFPwAG6ZkXAky4o.jpg
+  duration_ms: 38100
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450870925713409/vid/avc1/480x270/QOzq4KpTtof3Ky1C.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450870925713409/vid/avc1/640x360/4lPHt1A3SOscw-gy.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450870925713409/vid/avc1/1280x720/S8ssSLfrFRXVrhUx.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1959450870925713409/pl/P_QzBtNCMlp10zjZ.m3u8?v=5f0
+  public_metrics:
+    view_count: 1943
+- media_key: '3_1959450901384712193'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzFeNpPa0AEp3BR.jpg
+- media_key: '13_1959450926298914816'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1959450926298914816/img/5dy3OI6sCXa61eZ1.jpg
+  duration_ms: 26926
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450926298914816/vid/avc1/480x270/Sq2rqQq2hZeNwFOH.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450926298914816/vid/avc1/640x360/EjFLU2oj-_ieWjfk.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450926298914816/vid/avc1/1280x720/DzEcORsbdkHWTVoM.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1959450926298914816/pl/DqjDe5i5fzMuGMS7.m3u8
+  public_metrics:
+    view_count: 388
+- media_key: '13_1959450945341075456'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1959450945341075456/img/a9JJq0zRuXLm2Gj9.jpg
+  duration_ms: 48048
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450945341075456/vid/avc1/480x270/FVZptR8sIpfyni8P.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450945341075456/vid/avc1/640x360/9Et_YQ_05xDYBhu0.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1959450945341075456/vid/avc1/1280x720/DIdjTe8bMDImarFS.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1959450945341075456/pl/G_88yRzmlCQ_V5Xh.m3u8
+  public_metrics:
+    view_count: 246
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "How do UFOs fly? I have done a lot of experiments now, and have also gotten\
+    \ useful clues by studying numerous E.T.-made crop pictures. \nYou don't believe\
+    \ me? Look please at video 1, slide 2, video 3 and video 4 below. Also four more\
+    \ \"UFO\" crop pictures shown in comments. \nI have not yet come to the end-stage\
+    \ of this research, where we can make it \"fly like a UFO\", but there seems to\
+    \ be no other path to follow. Study please and share! Right now no other scientists\
+    \ or inventors are helping. \U0001F6F8"

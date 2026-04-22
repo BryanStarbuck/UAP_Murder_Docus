@@ -1,0 +1,85 @@
+id: '2015732599189344728'
+url: https://x.com/RedCollie1/status/2015732599189344728
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@TechSoulGeeta I suspect that both sets of coils are 3-phase, without any permanent
+  magnetism. https://t.co/YCeWp5QMZq'
+created_at: '2026-01-26T10:24:36.000Z'
+lang: en
+conversation_id: '2015686897872613784'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 3
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 138
+entities:
+  urls:
+  - start: 95
+    end: 118
+    url: https://t.co/YCeWp5QMZq
+    expanded_url: https://x.com/RedCollie1/status/2015732599189344728/photo/1
+    display_url: pic.x.com/YCeWp5QMZq
+    media_key: '3_2015732556097003520'
+  - start: 95
+    end: 118
+    url: https://t.co/YCeWp5QMZq
+    expanded_url: https://x.com/RedCollie1/status/2015732599189344728/photo/1
+    display_url: pic.x.com/YCeWp5QMZq
+    media_key: '3_2015732586514182144'
+  mentions:
+  - start: 0
+    end: 14
+    username: TechSoulGeeta
+    id: '1361674300332273671'
+attachments:
+  media_keys:
+  - '3_2015732556097003520'
+  - '3_2015732586514182144'
+media:
+- media_key: '3_2015732556097003520'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_lSFHhaIAAAW9s.jpg
+- media_key: '3_2015732586514182144'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_lSG41bcAABCEf.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2015731542631632970'
+  text: "@RedCollie1 Wow, this is seriously impressive hands-on work @RedCollie1 \U0001F47D\
+    \U0001F6F8  \nSeeing you actually build and spin these 3-phase coil setups from\
+    \ the crop blueprints is next-level. The way the central field cancels while the\
+    \ outer magnets get that fast counter-rotation it really visualizes"
+has_video: false
+has_image: true
+media_count: 2

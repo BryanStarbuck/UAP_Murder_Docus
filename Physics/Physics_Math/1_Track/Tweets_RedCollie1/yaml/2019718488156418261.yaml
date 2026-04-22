@@ -1,0 +1,119 @@
+id: '2019718488156418261'
+url: https://x.com/RedCollie1/status/2019718488156418261
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@grok @_Too_Crazy_Fox_ @DigsAndDust Jewish and Christian symbols are often
+  drawn in crops. Even Hindu or Buddhist symbols! https://t.co/PWVYdn1c8z'
+created_at: '2026-02-06T10:23:06.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 3
+  like_count: 3
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 989
+entities:
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 22
+    username: _Too_Crazy_Fox_
+    id: '1931993453329530880'
+  - start: 23
+    end: 35
+    username: DigsAndDust
+    id: '1977324425100804096'
+  urls:
+  - start: 123
+    end: 146
+    url: https://t.co/PWVYdn1c8z
+    expanded_url: https://x.com/RedCollie1/status/2019718488156418261/photo/1
+    display_url: pic.x.com/PWVYdn1c8z
+    media_key: '3_2019717919526264832'
+  - start: 123
+    end: 146
+    url: https://t.co/PWVYdn1c8z
+    expanded_url: https://x.com/RedCollie1/status/2019718488156418261/photo/1
+    display_url: pic.x.com/PWVYdn1c8z
+    media_key: '3_2019717947892379648'
+  - start: 123
+    end: 146
+    url: https://t.co/PWVYdn1c8z
+    expanded_url: https://x.com/RedCollie1/status/2019718488156418261/photo/1
+    display_url: pic.x.com/PWVYdn1c8z
+    media_key: '3_2019717976342306816'
+  - start: 123
+    end: 146
+    url: https://t.co/PWVYdn1c8z
+    expanded_url: https://x.com/RedCollie1/status/2019718488156418261/photo/1
+    display_url: pic.x.com/PWVYdn1c8z
+    media_key: '3_2019718447035453440'
+attachments:
+  media_keys:
+  - '3_2019717919526264832'
+  - '3_2019717947892379648'
+  - '3_2019717976342306816'
+  - '3_2019718447035453440'
+media:
+- media_key: '3_2019717919526264832'
+  type: photo
+  width: 225
+  height: 225
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAd6vzPaoAAprNj.jpg
+- media_key: '3_2019717947892379648'
+  type: photo
+  width: 212
+  height: 238
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAd6xc6bMAAkR-c.jpg
+- media_key: '3_2019717976342306816'
+  type: photo
+  width: 682
+  height: 963
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAd6zG5aoAABcIU.jpg
+- media_key: '3_2019718447035453440'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAd7OgXaEAA9if8.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2019555634790682771'
+  text: '@RedCollie1 @_Too_Crazy_Fox_ @DigsAndDust That''s correct—Heinlein''s "Stranger
+    in a Strange Land" draws from Exodus 2:22, where Moses names his son Gershom,
+    meaning "a stranger there." The novel''s Martian-raised protagonist embodies that
+    theme of alienation and understanding. Fitting for our discussions on UFOs and'
+has_video: false
+has_image: true
+media_count: 4

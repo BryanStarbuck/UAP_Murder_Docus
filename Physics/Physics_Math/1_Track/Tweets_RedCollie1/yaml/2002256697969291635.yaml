@@ -1,0 +1,90 @@
+id: '2002256697969291635'
+url: https://x.com/RedCollie1/status/2002256697969291635
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '3I/ATLAS today on December 19 by Sebastian Voltmer.
+
+  Personally I do not see how this could be a "comet", but if you want to believe
+  it is a "comet", then leave some cookies out for Santa''s reindeer in five days.
+  https://t.co/9r1sd8x11x'
+created_at: '2025-12-20T05:56:11.000Z'
+lang: en
+conversation_id: '2002256697969291635'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 305
+  reply_count: 73
+  like_count: 2016
+  quote_count: 19
+  bookmark_count: 239
+  impression_count: 107482
+entities:
+  urls:
+  - start: 212
+    end: 235
+    url: https://t.co/9r1sd8x11x
+    expanded_url: https://x.com/RedCollie1/status/2002256697969291635/photo/1
+    display_url: pic.x.com/9r1sd8x11x
+    media_key: '3_2002256337254891520'
+  - start: 212
+    end: 235
+    url: https://t.co/9r1sd8x11x
+    expanded_url: https://x.com/RedCollie1/status/2002256697969291635/photo/1
+    display_url: pic.x.com/9r1sd8x11x
+    media_key: '3_2002256374001250304'
+  - start: 212
+    end: 235
+    url: https://t.co/9r1sd8x11x
+    expanded_url: https://x.com/RedCollie1/status/2002256697969291635/photo/1
+    display_url: pic.x.com/9r1sd8x11x
+    media_key: '3_2002256402698629120'
+attachments:
+  media_keys:
+  - '3_2002256337254891520'
+  - '3_2002256374001250304'
+  - '3_2002256402698629120'
+media:
+- media_key: '3_2002256337254891520'
+  type: photo
+  width: 2000
+  height: 1434
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8lxh8NaQAAvXuq.jpg
+- media_key: '3_2002256374001250304'
+  type: photo
+  width: 2000
+  height: 1434
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8lxkFGbMAAyVLB.jpg
+- media_key: '3_2002256402698629120'
+  type: photo
+  width: 2000
+  height: 1270
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8lxlwAacAARmf4.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

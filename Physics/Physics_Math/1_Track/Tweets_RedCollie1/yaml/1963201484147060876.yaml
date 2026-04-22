@@ -1,0 +1,88 @@
+id: '1963201484147060876'
+url: https://x.com/RedCollie1/status/1963201484147060876
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Looking carefully at slide 4, do you see how two outer circles spin in opposite\
+  \ directions?\nAlso at the centre of this crop picture near Milk Hill in July 2011,\
+  \ for which I took the first photos as shown in slide 2 (in a driving wind and rainstorm).\
+  \ \nSo that may be how it works, https://t.co/NhAAKRHeS4"
+created_at: '2025-09-03T11:24:42.000Z'
+lang: en
+conversation_id: '1963122578001994134'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1227
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/NhAAKRHeS4
+    expanded_url: https://x.com/RedCollie1/status/1963201484147060876/photo/1
+    display_url: pic.x.com/NhAAKRHeS4
+    media_key: '3_1963200930415005696'
+  - start: 280
+    end: 303
+    url: https://t.co/NhAAKRHeS4
+    expanded_url: https://x.com/RedCollie1/status/1963201484147060876/photo/1
+    display_url: pic.x.com/NhAAKRHeS4
+    media_key: '3_1963200965668216832'
+attachments:
+  media_keys:
+  - '3_1963200930415005696'
+  - '3_1963200965668216832'
+media:
+- media_key: '3_1963200930415005696'
+  type: photo
+  width: 600
+  height: 546
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz6w2EAaUAAYYvh.jpg
+- media_key: '3_1963200965668216832'
+  type: photo
+  width: 440
+  height: 404
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz6w4HVboAAQuav.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1963122578001994134'
+  text: "I am beginning some new experiments on UFO levitation soon. It is a \"magnetic\
+    \ cube-puzzle\" which friendly ET's want us to solve! \nLorentz spin anti-clockwise\
+    \ (think \"Corbino disc\"), then 3-phase spin clockwise. What will happen? \n\
+    If you have a left-handed \"screw\", then you make https://t.co/txxEjNSMLA"
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Looking carefully at slide 4, do you see how two outer circles spin in opposite\
+    \ directions?\nAlso at the centre of this crop picture near Milk Hill in July\
+    \ 2011, for which I took the first photos as shown in slide 2 (in a driving wind\
+    \ and rainstorm). \nSo that may be how it works, even through they have not shown\
+    \ us many essential details."

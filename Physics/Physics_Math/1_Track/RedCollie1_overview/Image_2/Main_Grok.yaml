@@ -1,0 +1,56 @@
+black_circles:
+  # Central black circle containing 'S' (under blue ring)
+  - x: 200
+    y: 185
+    radius: 19
+  # Black circle at top of inner blue ring
+  - x: 200
+    y: 125
+    radius: 13
+  # Black circle at bottom of inner blue ring
+  - x: 200
+    y: 245
+    radius: 13
+  # Top chain of smaller black circles (extending upward from top inner black)
+  - x: 200
+    y: 105
+    radius: 8
+  - x: 200
+    y: 90
+    radius: 8
+  - x: 200
+    y: 75
+    radius: 8
+  # Bottom chain of smaller black circles (extending downward from bottom inner black)
+  - x: 200
+    y: 265
+    radius: 8
+  - x: 200
+    y: 280
+    radius: 8
+  - x: 200
+    y: 295
+    radius: 8
+  - x: 200
+    y: 310
+    radius: 8
+  - x: 200
+    y: 325
+    radius: 8
+  - x: 200
+    y: 345
+    radius: 8
+red_circle:
+  # Large outer red ring/circle (thick outline encompassing the structure)
+  x: 200
+  y: 185
+  radius: 130
+blue_circles:
+  # Larger blue ring (midway between center and outer red)
+  - x: 200
+    y: 185
+    radius: 85
+  # Smaller blue ring immediately around the central 'S' black circle
+  - x: 200
+    y: 185
+    radius: 32

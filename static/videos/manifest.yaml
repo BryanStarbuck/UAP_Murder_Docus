@@ -115,3 +115,13 @@ videos:
   investigation: Energy
   added_date: '2026-04-19'
   pinned: true
+
+- filename: 2046851260788125940.mp4
+  ipfs_cid: QmcWGbrcRvZWsNPYJmy5VQBX2BDMn9U9Dh7nNVKcjWBCRc
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmcWGbrcRvZWsNPYJmy5VQBX2BDMn9U9Dh7nNVKcjWBCRc
+  source_url: https://x.com/MasterNumber/status/2046851260788125940
+  source_author: '@MasterNumber'
+  description: 'Amy Eskridge YouTuber clip — time travel discussion from her exotic physics YouTube channel'
+  investigation: UAPs, Energy, Physics
+  added_date: '2026-04-22'
+  pinned: true

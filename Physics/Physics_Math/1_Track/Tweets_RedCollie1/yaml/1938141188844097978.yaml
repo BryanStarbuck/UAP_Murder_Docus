@@ -1,0 +1,87 @@
+id: '1938141188844097978'
+url: https://x.com/RedCollie1/status/1938141188844097978
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'For those of you who like new physics experiments, I tested today whether "spinning
+  Lenz levitation" could produce any anti-gravity effects, like for a UFO?
+
+  The answer was "NO" but in second half of the video, I confirmed that fast spin
+  reduces the downward, repulsive strength of https://t.co/yNyE1p39Wk'
+created_at: '2025-06-26T07:44:02.000Z'
+lang: en
+conversation_id: '1938141188844097978'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 17
+  quote_count: 0
+  bookmark_count: 10
+  impression_count: 1377
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/yNyE1p39Wk
+    expanded_url: https://x.com/RedCollie1/status/1938141188844097978/video/1
+    display_url: pic.x.com/yNyE1p39Wk
+    media_key: '13_1938140068872609792'
+attachments:
+  media_keys:
+  - '13_1938140068872609792'
+media:
+- media_key: '13_1938140068872609792'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1938140068872609792/img/tCYWjIYf39_Cqqkf.jpg
+  duration_ms: 126200
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938140068872609792/vid/avc1/478x270/jcW-HM6kjPGinRWn.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938140068872609792/vid/avc1/638x360/pO2iTxkx_hm9_S0f.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938140068872609792/vid/avc1/852x480/hku4RPhx4rQ2fZnM.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1938140068872609792/pl/NFyZFpNH4p0CAz_e.m3u8?v=da1
+  public_metrics:
+    view_count: 612
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "For those of you who like new physics experiments, I tested today whether\
+    \ \"spinning Lenz levitation\" could produce any anti-gravity effects, like for\
+    \ a UFO?\nThe answer was \"NO\" but in second half of the video, I confirmed that\
+    \ fast spin reduces the downward, repulsive strength of Lenz levitation by 80%.\
+    \ \nWhen a fast spinning aluminum disc becomes \"gyroscopic\", it only repels\
+    \ a nearby AC magnetic field by 20% that of a stationary disc. \nPlease watch\
+    \ and learn! NOT IN TEXTBOOKS"

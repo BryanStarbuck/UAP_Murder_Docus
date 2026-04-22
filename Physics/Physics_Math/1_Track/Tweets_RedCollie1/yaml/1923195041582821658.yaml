@@ -1,0 +1,75 @@
+id: '1923195041582821658'
+url: https://x.com/RedCollie1/status/1923195041582821658
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "NEW! Two sets of three trees in the landscape nearby are like \"arrows\" to\
+  \ suggest (in the complete landscape there) a \"serpent descending\". \nThink \"\
+  Quetzalcoatl\". \U0001F604 https://t.co/rWSc9u0c2A"
+created_at: '2025-05-16T01:53:23.000Z'
+lang: en
+conversation_id: '1923195041582821658'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 37
+  reply_count: 14
+  like_count: 218
+  quote_count: 2
+  bookmark_count: 46
+  impression_count: 11125
+entities:
+  urls:
+  - start: 165
+    end: 188
+    url: https://t.co/rWSc9u0c2A
+    expanded_url: https://x.com/RedCollie1/status/1923195041582821658/photo/1
+    display_url: pic.x.com/rWSc9u0c2A
+    media_key: '3_1923194873970413568'
+  - start: 165
+    end: 188
+    url: https://t.co/rWSc9u0c2A
+    expanded_url: https://x.com/RedCollie1/status/1923195041582821658/photo/1
+    display_url: pic.x.com/rWSc9u0c2A
+    media_key: '3_1923194903267618816'
+attachments:
+  media_keys:
+  - '3_1923194873970413568'
+  - '3_1923194903267618816'
+media:
+- media_key: '3_1923194873970413568'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrCPjGDb0AA3AxQ.jpg
+- media_key: '3_1923194903267618816'
+  type: photo
+  width: 750
+  height: 405
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrCPkzMbsAAaKf-.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

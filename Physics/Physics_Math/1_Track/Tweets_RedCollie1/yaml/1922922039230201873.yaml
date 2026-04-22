@@ -1,0 +1,109 @@
+id: '1922922039230201873'
+url: https://x.com/RedCollie1/status/1922922039230201873
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I can't say for sure, but let me ask you please:\nCould the CT scan of that\
+  \ orb-sphere show a solid-state Tesla coil?\nHigh-frequency \"lightning emissions\"\
+  \ might push it forward through space.\n\"Interesting\" said Mr. Spock. \nThanks\
+  \ to Marius. \U0001F601\nhttps://t.co/R9r0H8CKxD https://t.co/s0lsjSCWlA"
+created_at: '2025-05-15T07:48:34.000Z'
+lang: en
+conversation_id: '1922922039230201873'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 2
+  like_count: 27
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1273
+entities:
+  urls:
+  - start: 242
+    end: 265
+    url: https://t.co/R9r0H8CKxD
+    expanded_url: https://www.instructables.com/Solid-State-Tesla-Coil-Made-Easy/
+    display_url: instructables.com/Solid-State-Te…
+    status: 200
+    unwound_url: https://www.instructables.com/Solid-State-Tesla-Coil-Made-Easy/
+  - start: 266
+    end: 289
+    url: https://t.co/s0lsjSCWlA
+    expanded_url: https://x.com/RedCollie1/status/1922922039230201873/photo/1
+    display_url: pic.x.com/s0lsjSCWlA
+    media_key: '3_1922921285467684864'
+  - start: 266
+    end: 289
+    url: https://t.co/s0lsjSCWlA
+    expanded_url: https://x.com/RedCollie1/status/1922922039230201873/photo/1
+    display_url: pic.x.com/s0lsjSCWlA
+    media_key: '3_1922921341100892160'
+  - start: 266
+    end: 289
+    url: https://t.co/s0lsjSCWlA
+    expanded_url: https://x.com/RedCollie1/status/1922922039230201873/photo/1
+    display_url: pic.x.com/s0lsjSCWlA
+    media_key: '3_1922921376442351616'
+  - start: 266
+    end: 289
+    url: https://t.co/s0lsjSCWlA
+    expanded_url: https://x.com/RedCollie1/status/1922922039230201873/photo/1
+    display_url: pic.x.com/s0lsjSCWlA
+    media_key: '3_1922921417860853760'
+attachments:
+  media_keys:
+  - '3_1922921285467684864'
+  - '3_1922921341100892160'
+  - '3_1922921376442351616'
+  - '3_1922921417860853760'
+media:
+- media_key: '3_1922921285467684864'
+  type: photo
+  width: 960
+  height: 876
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq-WuJdWwAATIlE.jpg
+- media_key: '3_1922921341100892160'
+  type: photo
+  width: 960
+  height: 664
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq-WxYtWIAAvk2p.jpg
+- media_key: '3_1922921376442351616'
+  type: photo
+  width: 960
+  height: 1238
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq-WzcXaAAA-j9r.jpg
+- media_key: '3_1922921417860853760'
+  type: photo
+  width: 960
+  height: 1001
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq-W12qWMAA_sW4.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 4

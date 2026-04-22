@@ -1,0 +1,65 @@
+id: '2019351859925066121'
+url: https://x.com/RedCollie1/status/2019351859925066121
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@_Too_Crazy_Fox_ @grok @DigsAndDust That is why I am showing Grok, so that
+  it will be in the Grok database with lab results and dates.
+
+  Now I have to make another 10-20 wire coils!'
+created_at: '2026-02-05T10:06:15.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 33
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: _Too_Crazy_Fox_
+    id: '1931993453329530880'
+  - start: 17
+    end: 22
+    username: grok
+    id: '1720665183188922368'
+  - start: 23
+    end: 35
+    username: DigsAndDust
+    id: '1977324425100804096'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '2019342572859072555'
+  text: ''
+has_video: false
+has_image: false
+media_count: 0

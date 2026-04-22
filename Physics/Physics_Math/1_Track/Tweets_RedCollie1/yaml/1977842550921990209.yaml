@@ -1,0 +1,82 @@
+id: '1977842550921990209'
+url: https://x.com/RedCollie1/status/1977842550921990209
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Liquid metal spinning by a Lorentz force https://t.co/l1lzFpHWZo
+created_at: '2025-10-13T21:03:05.000Z'
+lang: en
+conversation_id: '1977836071359742215'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1077
+entities:
+  urls:
+  - start: 41
+    end: 64
+    url: https://t.co/l1lzFpHWZo
+    expanded_url: https://x.com/RedCollie1/status/1977842550921990209/video/1
+    display_url: pic.x.com/l1lzFpHWZo
+    media_key: '13_1977842470991060992'
+attachments:
+  media_keys:
+  - '13_1977842470991060992'
+media:
+- media_key: '13_1977842470991060992'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1977842470991060992/img/jxJnxtNzcGU1YEmv.jpg
+  duration_ms: 32640
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1977842470991060992/vid/avc1/480x270/fklLbe4RSieVTrPy.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1977842470991060992/vid/avc1/640x360/-U64PQhoJLJ_YtnY.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1977842470991060992/vid/avc1/1280x720/6GPre82h64LIsSpr.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1977842470991060992/pl/ySIpQdxYmghrteKx.m3u8?v=840
+  public_metrics:
+    view_count: 606
+referenced_tweets:
+- type: replied_to
+  id: '1977836071359742215'
+  text: 'Many important clues to UFO levitation have been drawn in crop fields worldwide,
+    such as this interesting example from 2009.
+
+    If you don''t understand what it means, then please consider that the E.T. crop
+    artists might be FAR more intelligent than yourself, and try to find a https://t.co/F6dGh2lYJ8'
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,108 @@
+id: '1968961339222557090'
+url: https://x.com/RedCollie1/status/1968961339222557090
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "You see for this series of \"UFO\" crop pictures from August 1998 to May 1999,\
+  \ that a set of three, 3-phase wire coils lie below the spinning metal vortex. \n\
+  Slide 2 and 4: an \"Andorian alien\" with \"antennae\" is telling us how to fly\
+  \ through space! \U0001F605\U0001F602\U0001F923 https://t.co/hK50kLTlUH"
+created_at: '2025-09-19T08:52:19.000Z'
+lang: en
+conversation_id: '1968863383266148583'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 2468
+entities:
+  urls:
+  - start: 250
+    end: 273
+    url: https://t.co/hK50kLTlUH
+    expanded_url: https://x.com/RedCollie1/status/1968961339222557090/photo/1
+    display_url: pic.x.com/hK50kLTlUH
+    media_key: '3_1968960341850910720'
+  - start: 250
+    end: 273
+    url: https://t.co/hK50kLTlUH
+    expanded_url: https://x.com/RedCollie1/status/1968961339222557090/photo/1
+    display_url: pic.x.com/hK50kLTlUH
+    media_key: '3_1968960372574130176'
+  - start: 250
+    end: 273
+    url: https://t.co/hK50kLTlUH
+    expanded_url: https://x.com/RedCollie1/status/1968961339222557090/photo/1
+    display_url: pic.x.com/hK50kLTlUH
+    media_key: '3_1968960411526651904'
+  - start: 250
+    end: 273
+    url: https://t.co/hK50kLTlUH
+    expanded_url: https://x.com/RedCollie1/status/1968961339222557090/photo/1
+    display_url: pic.x.com/hK50kLTlUH
+    media_key: '3_1968961291961389056'
+attachments:
+  media_keys:
+  - '3_1968960341850910720'
+  - '3_1968960372574130176'
+  - '3_1968960411526651904'
+  - '3_1968961291961389056'
+media:
+- media_key: '3_1968960341850910720'
+  type: photo
+  width: 900
+  height: 1025
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1Mm_7ja8AAkG8i.jpg
+- media_key: '3_1968960372574130176'
+  type: photo
+  width: 960
+  height: 1194
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1MnBuAaEAAGGrk.jpg
+- media_key: '3_1968960411526651904'
+  type: photo
+  width: 615
+  height: 1500
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1MnD_HaYAAERL6.jpg
+- media_key: '3_1968961291961389056'
+  type: photo
+  width: 480
+  height: 360
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1Mn3O_aUAAN5Ul.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1968863383266148583'
+  text: "You can see here a NEW video, which shows the second critical step, of trying\
+    \ to make a UFO-propulsion drive from a spinning vortex of the liquid metal \"\
+    galinstan\". \nThe spin force is a bit weak with 11 \"thin\" magnets around the\
+    \ outside, but am I try to reduce total weight.\nWe https://t.co/aiiwlB5TBe"
+has_video: false
+has_image: true
+media_count: 4

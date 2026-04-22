@@ -1,0 +1,106 @@
+id: '1992007523407466702'
+url: https://x.com/RedCollie1/status/1992007523407466702
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Here is an interesting study of the Corbino disc, which I made a few years
+  ago, relevant to my current studies of "UFO physics".
+
+  If we need spin of a magnet by 3-phase power, balanced by the counter-spin of some
+  conductive fluid or ionic gas outside, should we use galinstan, or https://t.co/rrSfxFyxMX'
+created_at: '2025-11-21T23:09:37.000Z'
+lang: en
+conversation_id: '1992007523407466702'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1022
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/rrSfxFyxMX
+    expanded_url: https://x.com/RedCollie1/status/1992007523407466702/video/1
+    display_url: pic.x.com/rrSfxFyxMX
+    media_key: '13_1992006576060903424'
+  - start: 279
+    end: 302
+    url: https://t.co/rrSfxFyxMX
+    expanded_url: https://x.com/RedCollie1/status/1992007523407466702/video/1
+    display_url: pic.x.com/rrSfxFyxMX
+    media_key: '3_1992006597342834688'
+attachments:
+  media_keys:
+  - '13_1992006576060903424'
+  - '3_1992006597342834688'
+media:
+- media_key: '13_1992006576060903424'
+  type: video
+  width: 960
+  height: 540
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1992006576060903424/img/HQ6IOc-GoMkF3Q5l.jpg
+  duration_ms: 54100
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1992006576060903424/vid/avc1/480x270/0peM2Nq3CgnSaUul.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1992006576060903424/vid/avc1/640x360/8zqYGTzTXLmMa1F_.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1992006576060903424/vid/avc1/960x540/PsTZ3WEN9y0_cf-C.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1992006576060903424/pl/2Cv29lE3LJIdluOt.m3u8
+  public_metrics:
+    view_count: 352
+- media_key: '3_1992006597342834688'
+  type: photo
+  width: 960
+  height: 974
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6UHcjjasAAtfb3.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Here is an interesting study of the Corbino disc, which I made a few years\
+    \ ago, relevant to my current studies of \"UFO physics\".\nIf we need spin of\
+    \ a magnet by 3-phase power, balanced by the counter-spin of some conductive fluid\
+    \ or ionic gas outside, should we use galinstan, or argon ions at high voltage?\
+    \ The full video was posted here.\nLearn, speculate and enjoy! \n“A big capacitor\
+    \ can change the spin-direction of a Corbino disc with 11 kV AC power”\nhttps://t.co/e7oXjKNnqz"
+  entities:
+    urls:
+    - start: 454
+      end: 477
+      url: https://t.co/e7oXjKNnqz
+      expanded_url: https://www.youtube.com/watch?v=AMJJyF-H9XU
+      display_url: youtube.com/watch?v=AMJJyF…

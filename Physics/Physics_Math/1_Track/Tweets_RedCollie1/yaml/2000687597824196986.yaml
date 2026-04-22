@@ -1,0 +1,88 @@
+id: '2000687597824196986'
+url: https://x.com/RedCollie1/status/2000687597824196986
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @chrisramsay52: SFC Jeremy Weeks recounts his family’s Encounter with a
+  Massive UFO in 2015 https://t.co/M57a0Jg9ZZ'
+created_at: '2025-12-15T22:01:08.000Z'
+lang: en
+conversation_id: '2000687597824196986'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 19
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  mentions:
+  - start: 3
+    end: 17
+    username: chrisramsay52
+    id: '590500852'
+  urls:
+  - start: 95
+    end: 118
+    url: https://t.co/M57a0Jg9ZZ
+    expanded_url: https://x.com/chrisramsay52/status/2000605460768960538/video/1
+    display_url: pic.x.com/M57a0Jg9ZZ
+    media_key: '13_2000605356297236491'
+attachments:
+  media_keys:
+  - '13_2000605356297236491'
+media:
+- media_key: '13_2000605356297236491'
+  type: video
+  width: 1080
+  height: 1920
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2000605356297236491/img/UUZmdZBJpHH1_NkL.jpg
+  duration_ms: 126918
+  variants:
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2000605356297236491/vid/avc1/720x1280/wT76UxFZOPlQkECb.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2000605356297236491/vid/avc1/480x852/BuzRRdCT-abcMYA5.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2000605356297236491/vid/avc1/320x568/mtBVhSmbd2SrcdAx.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2000605356297236491/vid/avc1/1080x1920/YbV2DY0uvn7_bn4J.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2000605356297236491/pl/emBkf7UD3LKXyurT.m3u8?v=d1d
+  public_metrics:
+    view_count: 4108
+referenced_tweets:
+- type: retweeted
+  id: '2000605460768960538'
+  text: SFC Jeremy Weeks recounts his family’s Encounter with a Massive UFO in 2015
+    https://t.co/M57a0Jg9ZZ
+has_video: true
+has_image: false
+media_count: 1

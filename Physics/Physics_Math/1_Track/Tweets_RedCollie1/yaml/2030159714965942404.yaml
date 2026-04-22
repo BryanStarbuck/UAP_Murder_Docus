@@ -1,0 +1,108 @@
+id: '2030159714965942404'
+url: https://x.com/RedCollie1/status/2030159714965942404
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'UFOs fly by means of a "rotating magnetic field".
+
+  A "long wavy" symbol, which aliens draw to describe such a field, is the same as
+  Laithwaite used in 1974.
+
+  🛸👽
+
+  You would have to be VERY DUMB not to understand! https://t.co/MnN02O0HcY'
+created_at: '2026-03-07T05:52:49.000Z'
+lang: en
+conversation_id: '2030159714965942404'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 11
+  like_count: 120
+  quote_count: 0
+  bookmark_count: 42
+  impression_count: 5619
+entities:
+  urls:
+  - start: 209
+    end: 232
+    url: https://t.co/MnN02O0HcY
+    expanded_url: https://x.com/RedCollie1/status/2030159714965942404/video/1
+    display_url: pic.x.com/MnN02O0HcY
+    media_key: '3_2030159331849818113'
+  - start: 209
+    end: 232
+    url: https://t.co/MnN02O0HcY
+    expanded_url: https://x.com/RedCollie1/status/2030159714965942404/video/1
+    display_url: pic.x.com/MnN02O0HcY
+    media_key: '3_2030159349180719104'
+  - start: 209
+    end: 232
+    url: https://t.co/MnN02O0HcY
+    expanded_url: https://x.com/RedCollie1/status/2030159714965942404/video/1
+    display_url: pic.x.com/MnN02O0HcY
+    media_key: '13_2030159370751987712'
+attachments:
+  media_keys:
+  - '3_2030159331849818113'
+  - '3_2030159349180719104'
+  - '13_2030159370751987712'
+media:
+- media_key: '3_2030159331849818113'
+  type: photo
+  width: 708
+  height: 960
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCyTJ_RaUAE16yD.jpg
+- media_key: '3_2030159349180719104'
+  type: photo
+  width: 960
+  height: 975
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCyTK_1a4AACwyx.jpg
+- media_key: '13_2030159370751987712'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2030159370751987712/img/5rRwmoQJo8QZy7Wo.jpg
+  duration_ms: 27027
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030159370751987712/vid/avc1/480x270/LYl7MAV3lmZMcq8O.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030159370751987712/vid/avc1/640x360/oO0OBqbSpCOnZyS8.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2030159370751987712/vid/avc1/1280x720/FDENpuMfkr1Yhe22.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2030159370751987712/pl/uGn6hFFDG39bufK-.m3u8?v=cfc
+  public_metrics:
+    view_count: 2664
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

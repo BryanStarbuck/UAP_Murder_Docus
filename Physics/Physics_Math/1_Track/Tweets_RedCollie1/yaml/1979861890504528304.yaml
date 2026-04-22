@@ -1,0 +1,106 @@
+id: '1979861890504528304'
+url: https://x.com/RedCollie1/status/1979861890504528304
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Four very similar crop pictures (made by E.T.) https://t.co/eCrNJkrSV2
+created_at: '2025-10-19T10:47:13.000Z'
+lang: en
+conversation_id: '1979719286961975535'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1023
+entities:
+  urls:
+  - start: 47
+    end: 70
+    url: https://t.co/eCrNJkrSV2
+    expanded_url: https://x.com/RedCollie1/status/1979861890504528304/photo/1
+    display_url: pic.x.com/eCrNJkrSV2
+    media_key: '3_1979861779095199744'
+  - start: 47
+    end: 70
+    url: https://t.co/eCrNJkrSV2
+    expanded_url: https://x.com/RedCollie1/status/1979861890504528304/photo/1
+    display_url: pic.x.com/eCrNJkrSV2
+    media_key: '3_1979861808207839233'
+  - start: 47
+    end: 70
+    url: https://t.co/eCrNJkrSV2
+    expanded_url: https://x.com/RedCollie1/status/1979861890504528304/photo/1
+    display_url: pic.x.com/eCrNJkrSV2
+    media_key: '3_1979861847969783808'
+  - start: 47
+    end: 70
+    url: https://t.co/eCrNJkrSV2
+    expanded_url: https://x.com/RedCollie1/status/1979861890504528304/photo/1
+    display_url: pic.x.com/eCrNJkrSV2
+    media_key: '3_1979861880509284352'
+attachments:
+  media_keys:
+  - '3_1979861779095199744'
+  - '3_1979861808207839233'
+  - '3_1979861847969783808'
+  - '3_1979861880509284352'
+media:
+- media_key: '3_1979861779095199744'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3nhzF9XoAAhiHV.jpg
+- media_key: '3_1979861808207839233'
+  type: photo
+  width: 960
+  height: 914
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3nh0yaXQAEXHDa.jpg
+- media_key: '3_1979861847969783808'
+  type: photo
+  width: 960
+  height: 891
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3nh3GiWYAAvVjo.jpg
+- media_key: '3_1979861880509284352'
+  type: photo
+  width: 900
+  height: 941
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3nh4_wXwAAeX-t.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1979719286961975535'
+  text: 'I am still working to make a small replica of a "flying saucer" (like the
+    one I saw in daylight 1965), as time and materials permit.
+
+    Here is my latest effort (video 1). Interestingly its upper-bowl rises and spins
+    anti-clockwise, as its inner magnet rise and spins clockwise! https://t.co/nCfGzW0gDQ'
+has_video: false
+has_image: true
+media_count: 4

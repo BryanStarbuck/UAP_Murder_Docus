@@ -1,0 +1,68 @@
+id: '2031313613387083802'
+url: https://x.com/RedCollie1/status/2031313613387083802
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Omarboucher This was the latest, one year later. https://t.co/v5MAQY4ahA'
+created_at: '2026-03-10T10:18:00.000Z'
+lang: en
+conversation_id: '2031308605828583575'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 96
+entities:
+  urls:
+  - start: 50
+    end: 73
+    url: https://t.co/v5MAQY4ahA
+    expanded_url: https://x.com/RedCollie1/status/2031313613387083802/photo/1
+    display_url: pic.x.com/v5MAQY4ahA
+    media_key: '3_2031313525625454592'
+  mentions:
+  - start: 0
+    end: 12
+    username: Omarboucher
+    id: '25450704'
+attachments:
+  media_keys:
+  - '3_2031313525625454592'
+media:
+- media_key: '3_2031313525625454592'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDCs46JaAAAljaV.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2031311230636322908'
+  text: '@RedCollie1 This is the latest crop circle in Brazil?'
+has_video: false
+has_image: true
+media_count: 1

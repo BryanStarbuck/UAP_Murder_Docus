@@ -1,0 +1,110 @@
+id: '2006485846372032886'
+url: https://x.com/RedCollie1/status/2006485846372032886
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Some crop pictures show us the images from alien physics. \nSlide 1 shows a\
+  \ crop picture from 2012 near Avebury, which illustrates the physics of a \"Corbino\
+  \ disc\" (slide 2 from textbooks on Earth). \nMovie 3 shows a real (liquid) Corbino\
+  \ disc with spin.\nSeriously you can't https://t.co/FZpQqjBso8"
+created_at: '2025-12-31T22:01:19.000Z'
+lang: en
+conversation_id: '2006485846372032886'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 14
+  reply_count: 6
+  like_count: 83
+  quote_count: 0
+  bookmark_count: 29
+  impression_count: 4631
+entities:
+  urls:
+  - start: 272
+    end: 295
+    url: https://t.co/FZpQqjBso8
+    expanded_url: https://x.com/RedCollie1/status/2006485846372032886/video/1
+    display_url: pic.x.com/FZpQqjBso8
+    media_key: '3_2006484703055052800'
+  - start: 272
+    end: 295
+    url: https://t.co/FZpQqjBso8
+    expanded_url: https://x.com/RedCollie1/status/2006485846372032886/video/1
+    display_url: pic.x.com/FZpQqjBso8
+    media_key: '3_2006484721119932418'
+  - start: 272
+    end: 295
+    url: https://t.co/FZpQqjBso8
+    expanded_url: https://x.com/RedCollie1/status/2006485846372032886/video/1
+    display_url: pic.x.com/FZpQqjBso8
+    media_key: '13_2006484741005127683'
+attachments:
+  media_keys:
+  - '3_2006484703055052800'
+  - '3_2006484721119932418'
+  - '13_2006484741005127683'
+media:
+- media_key: '3_2006484703055052800'
+  type: photo
+  width: 960
+  height: 923
+  alt_text: null
+  url: https://pbs.twimg.com/media/G9h3NOTaAAAcF04.jpg
+- media_key: '3_2006484721119932418'
+  type: photo
+  width: 598
+  height: 615
+  alt_text: null
+  url: https://pbs.twimg.com/media/G9h3ORmaMAI7EdE.jpg
+- media_key: '13_2006484741005127683'
+  type: video
+  width: 960
+  height: 750
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2006484741005127683/img/YyBKyoKusEgVhS3h.jpg
+  duration_ms: 10110
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006484741005127683/vid/avc1/344x270/5XxvA9F3QSqCqwj_.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006484741005127683/vid/avc1/460x360/VuFdHgKWo1FO3p7a.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006484741005127683/vid/avc1/960x750/7tpV2QX630xL5PWy.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2006484741005127683/pl/7_NbDVyy1Wf1M0Gh.m3u8
+  public_metrics:
+    view_count: 2415
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "Some crop pictures show us the images from alien physics. \nSlide 1 shows\
+    \ a crop picture from 2012 near Avebury, which illustrates the physics of a \"\
+    Corbino disc\" (slide 2 from textbooks on Earth). \nMovie 3 shows a real (liquid)\
+    \ Corbino disc with spin.\nSeriously you can't understand what this means?\nThe\
+    \ 1% will know. Completely obvious! \U0001F6F8"

@@ -1,0 +1,80 @@
+id: '1925430753061741016'
+url: https://x.com/RedCollie1/status/1925430753061741016
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Crop-circle orb compared with the Buga orb.
+
+  "What is your IQ?" asked the robot bartender. https://t.co/QJMuZsqD4X'
+created_at: '2025-05-22T05:57:18.000Z'
+lang: en
+conversation_id: '1925429620968689877'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 932
+entities:
+  urls:
+  - start: 90
+    end: 113
+    url: https://t.co/QJMuZsqD4X
+    expanded_url: https://x.com/RedCollie1/status/1925430753061741016/photo/1
+    display_url: pic.x.com/QJMuZsqD4X
+    media_key: '3_1925430291252056064'
+  - start: 90
+    end: 113
+    url: https://t.co/QJMuZsqD4X
+    expanded_url: https://x.com/RedCollie1/status/1925430753061741016/photo/1
+    display_url: pic.x.com/QJMuZsqD4X
+    media_key: '3_1925430461796618240'
+attachments:
+  media_keys:
+  - '3_1925430291252056064'
+  - '3_1925430461796618240'
+media:
+- media_key: '3_1925430291252056064'
+  type: photo
+  width: 1000
+  height: 840
+  alt_text: null
+  url: https://pbs.twimg.com/media/GriApgXbEAAjbQl.jpg
+- media_key: '3_1925430461796618240'
+  type: photo
+  width: 888
+  height: 900
+  alt_text: null
+  url: https://pbs.twimg.com/media/GriAzbsakAAFie_.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1925429620968689877'
+  text: "Yes, Virginia, those orb-spheres seem to be observational devices used by\
+    \ the E.T. crop artists.\nThe British government clearly knows!\nOne would have\
+    \ to be very stupid not to understand. \n\U0001F6F8\nhttps://t.co/jYVDi2l55e https://t.co/0rqmpgFL9K"
+has_video: false
+has_image: true
+media_count: 2

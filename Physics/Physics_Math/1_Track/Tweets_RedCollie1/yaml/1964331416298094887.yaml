@@ -1,0 +1,88 @@
+id: '1964331416298094887'
+url: https://x.com/RedCollie1/status/1964331416298094887
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '3I/ATLAS, latest photo in true colors.
+
+  "Ordinary comet" 🤡 https://t.co/7rdhDIU2MO'
+created_at: '2025-09-06T14:14:39.000Z'
+lang: en
+conversation_id: '1964331416298094887'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 313
+  reply_count: 174
+  like_count: 2360
+  quote_count: 34
+  bookmark_count: 384
+  impression_count: 268080
+entities:
+  urls:
+  - start: 58
+    end: 81
+    url: https://t.co/7rdhDIU2MO
+    expanded_url: https://x.com/RedCollie1/status/1964331416298094887/photo/1
+    display_url: pic.x.com/7rdhDIU2MO
+    media_key: '3_1964331203680718848'
+  - start: 58
+    end: 81
+    url: https://t.co/7rdhDIU2MO
+    expanded_url: https://x.com/RedCollie1/status/1964331416298094887/photo/1
+    display_url: pic.x.com/7rdhDIU2MO
+    media_key: '3_1964331224010543107'
+  - start: 58
+    end: 81
+    url: https://t.co/7rdhDIU2MO
+    expanded_url: https://x.com/RedCollie1/status/1964331416298094887/photo/1
+    display_url: pic.x.com/7rdhDIU2MO
+    media_key: '3_1964331244642324480'
+attachments:
+  media_keys:
+  - '3_1964331203680718848'
+  - '3_1964331224010543107'
+  - '3_1964331244642324480'
+media:
+- media_key: '3_1964331203680718848'
+  type: photo
+  width: 2000
+  height: 1085
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0K00oCa0AA4b_C.jpg
+- media_key: '3_1964331224010543107'
+  type: photo
+  width: 2000
+  height: 1359
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0K01zxbUAMqa6W.jpg
+- media_key: '3_1964331244642324480'
+  type: photo
+  width: 2000
+  height: 1452
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0K03AobUAAUtTb.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

@@ -1,0 +1,81 @@
+id: '2039176288649592984'
+url: https://x.com/RedCollie1/status/2039176288649592984
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Using 9 wire coils arranged as a ring, with 3-phase power as U-V-W-U-V-W-U-V-W,
+  we would need 12 or 24 magnets on each flywheel. https://t.co/DqLLdtiBik
+created_at: '2026-04-01T03:01:27.000Z'
+lang: en
+conversation_id: '2039175553719357443'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 668
+entities:
+  urls:
+  - start: 129
+    end: 152
+    url: https://t.co/DqLLdtiBik
+    expanded_url: https://x.com/RedCollie1/status/2039176288649592984/photo/1
+    display_url: pic.x.com/DqLLdtiBik
+    media_key: '3_2039176266407120896'
+  - start: 129
+    end: 152
+    url: https://t.co/DqLLdtiBik
+    expanded_url: https://x.com/RedCollie1/status/2039176288649592984/photo/1
+    display_url: pic.x.com/DqLLdtiBik
+    media_key: '3_2039176283058548736'
+attachments:
+  media_keys:
+  - '3_2039176266407120896'
+  - '3_2039176283058548736'
+media:
+- media_key: '3_2039176266407120896'
+  type: photo
+  width: 600
+  height: 368
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEycAqGakAALCTq.jpg
+- media_key: '3_2039176283058548736'
+  type: photo
+  width: 600
+  height: 377
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEycBoIbMAA3l5b.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2039175553719357443'
+  text: 'Here I try to build a small UFO-levitation device (movie 1) based on alien-made
+    crop pictures (slide 2, movie 4), and also a slow-motion video of an alien drone
+    videotaped over California 2025 (movie 3).
+
+    My device uses 8 (or 16) magnets on each inner or outer flywheel, powered by https://t.co/uXmJvMXeve'
+has_video: false
+has_image: true
+media_count: 2

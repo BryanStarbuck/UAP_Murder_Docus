@@ -1,0 +1,109 @@
+id: '2028586815138246944'
+url: https://x.com/RedCollie1/status/2028586815138246944
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@WhitleyStrieber \"TOPSIDE DESTRUCTION\"\nWe can see a MISSILE FROM THE EAST\
+  \ in slide 4.\nOne text message, two bitmap pictures (2016). \nThis is NOT a joke\
+  \ or hoax. https://t.co/9nw9FpL8QC"
+created_at: '2026-03-02T21:42:40.000Z'
+lang: en
+conversation_id: '2028376987547431161'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 6
+  quote_count: 1
+  bookmark_count: 4
+  impression_count: 2584
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: WhitleyStrieber
+    id: '19170041'
+  urls:
+  - start: 161
+    end: 184
+    url: https://t.co/9nw9FpL8QC
+    expanded_url: https://x.com/RedCollie1/status/2028586815138246944/photo/1
+    display_url: pic.x.com/9nw9FpL8QC
+    media_key: '3_2028585396213530624'
+  - start: 161
+    end: 184
+    url: https://t.co/9nw9FpL8QC
+    expanded_url: https://x.com/RedCollie1/status/2028586815138246944/photo/1
+    display_url: pic.x.com/9nw9FpL8QC
+    media_key: '3_2028585483908067328'
+  - start: 161
+    end: 184
+    url: https://t.co/9nw9FpL8QC
+    expanded_url: https://x.com/RedCollie1/status/2028586815138246944/photo/1
+    display_url: pic.x.com/9nw9FpL8QC
+    media_key: '3_2028585964604723200'
+  - start: 161
+    end: 184
+    url: https://t.co/9nw9FpL8QC
+    expanded_url: https://x.com/RedCollie1/status/2028586815138246944/photo/1
+    display_url: pic.x.com/9nw9FpL8QC
+    media_key: '3_2028586468529393664'
+attachments:
+  media_keys:
+  - '3_2028585396213530624'
+  - '3_2028585483908067328'
+  - '3_2028585964604723200'
+  - '3_2028586468529393664'
+media:
+- media_key: '3_2028585396213530624'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCb7q4HaQAAKC54.jpg
+- media_key: '3_2028585483908067328'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCb7v-zasAAMhW1.jpg
+- media_key: '3_2028585964604723200'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCb8L9ibkAAFGmr.jpg
+- media_key: '3_2028586468529393664'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCb8pSzb0AAxtnG.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2028423031203496123'
+  text: ''
+has_video: false
+has_image: true
+media_count: 4

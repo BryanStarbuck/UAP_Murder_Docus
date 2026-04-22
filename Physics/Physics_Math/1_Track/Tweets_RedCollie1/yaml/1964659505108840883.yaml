@@ -1,0 +1,92 @@
+id: '1964659505108840883'
+url: https://x.com/RedCollie1/status/1964659505108840883
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Ketzahl @uBF2fV1cVQxRjQo Flow of electrons through a spinning homopolar disc
+  (Tesla). https://t.co/OTLUfvbveH'
+created_at: '2025-09-07T11:58:22.000Z'
+lang: en
+conversation_id: '1964601204035768769'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 145
+entities:
+  mentions:
+  - start: 0
+    end: 8
+    username: Ketzahl
+    id: '1674765819098587139'
+  - start: 9
+    end: 25
+    username: uBF2fV1cVQxRjQo
+    id: '1246455737284325376'
+  urls:
+  - start: 87
+    end: 110
+    url: https://t.co/OTLUfvbveH
+    expanded_url: https://x.com/RedCollie1/status/1964659505108840883/photo/1
+    display_url: pic.x.com/OTLUfvbveH
+    media_key: '3_1964659271616102401'
+  - start: 87
+    end: 110
+    url: https://t.co/OTLUfvbveH
+    expanded_url: https://x.com/RedCollie1/status/1964659505108840883/photo/1
+    display_url: pic.x.com/OTLUfvbveH
+    media_key: '3_1964659300158345216'
+attachments:
+  media_keys:
+  - '3_1964659271616102401'
+  - '3_1964659300158345216'
+media:
+- media_key: '3_1964659271616102401'
+  type: photo
+  width: 960
+  height: 774
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0PfMsVbAAEx8Wf.jpg
+- media_key: '3_1964659300158345216'
+  type: photo
+  width: 600
+  height: 537
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0PfOWqbEAAjJK8.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1964654761665528116'
+  text: '@uBF2fV1cVQxRjQo The record for the largest and most circle formation is
+    still held by a motif found at Milk Hill, Wiltshire, England. On Aug, 12, 2001,
+    with 409 small circular pattern to form a six-armed design with approximately
+    243 meters diameter each.
+
+
+    I''m Brazilian, studying them for 25 yrs https://t.co/PccjaFcSQH'
+has_video: false
+has_image: true
+media_count: 2

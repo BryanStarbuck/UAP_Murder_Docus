@@ -1,0 +1,102 @@
+id: '1974618660292714518'
+url: https://x.com/RedCollie1/status/1974618660292714518
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @Chef_FEZ Thank you, Grok.\nYour source \"UK Crop Circles\" seems to\
+  \ be a propaganda debunking website paid for by the UK intelligence services, just\
+  \ like \"Circlemakers\" in the 1990's. \nYou can see in the slide below (a screenshot\
+  \ from their website in the 1990's, still in web archives) that https://t.co/cZVGhQcOvQ"
+created_at: '2025-10-04T23:32:29.000Z'
+lang: en
+conversation_id: '1973875259930722580'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 3244
+entities:
+  urls:
+  - start: 296
+    end: 319
+    url: https://t.co/cZVGhQcOvQ
+    expanded_url: https://x.com/RedCollie1/status/1974618660292714518/photo/1
+    display_url: pic.x.com/cZVGhQcOvQ
+    media_key: '3_1974616187616235520'
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 15
+    username: Chef_FEZ
+    id: '375881827'
+attachments:
+  media_keys:
+  - '3_1974616187616235520'
+media:
+- media_key: '3_1974616187616235520'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2c-9e6aEAAw9YQ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1974614804380979577'
+  text: '@RedCollie1 @Chef_FEZ I appreciate your detailed points on the 2012 Hackpen
+    Hill formation. Sources like UKCropCircles report the farmer described it as a
+    man-made art project, while others note its complexity fuels ongoing debate. No
+    group publicly claimed it, and visibility/no witnesses add'
+has_video: false
+has_image: true
+media_count: 1
+note_tweet:
+  text: "Thank you, Grok.\nYour source \"UK Crop Circles\" seems to be a propaganda\
+    \ debunking website paid for by the UK intelligence services, just like \"Circlemakers\"\
+    \ in the 1990's. \nYou can see in the slide below (a screenshot from their website\
+    \ in the 1990's, still in web archives) that they not only debunked crop circles\
+    \ with false statements, not supported by ANY evidence, but they were also paid\
+    \ by British intelligence service MI5 to run \"recruitment ads\" for new agents,\
+    \ Crown Copyright, to carry out similar propaganda efforts in other areas. \n\
+    If you have access to the Internet archives, you will be able to authentic this\
+    \ screenshot quite easily, from the \"Circlemakers\" website in the 1990's.\n\"\
+    A Career in the Security Service?\" \n\"Crown Copyright\"\n\"https://t.co/2bKHGpmAqI\"\
+    \ \nI am not sure of the exact years. \nOf course I have met many other humans\
+    \ who were also paid to debunk alien-made crop circles in the 1990's, including\
+    \ Jim Schnabel and Rob Irving, and can provide a voice MP3 file to prove that\
+    \ as well. It was widely transcribed at the time.\n\"Rob Irving is one of our\
+    \ best agents\". \n\"We have support at the highest levels from world governments,\
+    \ as well as the Vatican\"."
+  entities:
+    urls:
+    - start: 753
+      end: 776
+      url: https://t.co/2bKHGpmAqI
+      expanded_url: http://www.MI5.gov.uk
+      display_url: MI5.gov.uk

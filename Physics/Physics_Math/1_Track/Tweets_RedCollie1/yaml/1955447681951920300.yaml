@@ -1,0 +1,72 @@
+id: '1955447681951920300'
+url: https://x.com/RedCollie1/status/1955447681951920300
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Chirp https://t.co/vaGCfpuz07
+created_at: '2025-08-13T01:53:52.000Z'
+lang: en
+conversation_id: '1955105077963919836'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 791
+entities:
+  urls:
+  - start: 6
+    end: 29
+    url: https://t.co/vaGCfpuz07
+    expanded_url: https://x.com/RedCollie1/status/1955447681951920300/video/1
+    display_url: pic.x.com/vaGCfpuz07
+    media_key: '13_1955447627912552448'
+attachments:
+  media_keys:
+  - '13_1955447627912552448'
+media:
+- media_key: '13_1955447627912552448'
+  type: video
+  width: 560
+  height: 560
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955447627912552448/img/wA1HtMjpGqUq1TR1.jpg
+  duration_ms: 6062
+  variants:
+  - bit_rate: 5184000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955447627912552448/vid/avc1/540x540/mXrKEzO6Jr_8D_Ix.mp4?tag=23
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955447627912552448/pl/URf_auJCWwEgsGxB.m3u8?tag=23
+  public_metrics:
+    view_count: 250
+referenced_tweets:
+- type: replied_to
+  id: '1955105077963919836'
+  text: New painting today by my wife! She had one as a pet when she was young. https://t.co/oC258Lh7q7
+has_video: true
+has_image: false
+media_count: 1

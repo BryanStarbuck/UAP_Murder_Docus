@@ -1,0 +1,116 @@
+id: '1941311746519728300'
+url: https://x.com/RedCollie1/status/1941311746519728300
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "A crop picture from Ashmore Down in 2020 suggested that we should spin a magnet\
+  \ \"off axis\", using 3-phase power, to get UFO levitation (slide 1).\nI tried that\
+  \ using a 60 mm magnet with a 20 mm hole in the middle (video 2). \nIt did rise\
+  \ up strongly, except the spin motion was very https://t.co/7X1AIlQEXw"
+created_at: '2025-07-05T01:42:42.000Z'
+lang: en
+conversation_id: '1941311746519728300'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 6
+  like_count: 21
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 4442
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/7X1AIlQEXw
+    expanded_url: https://x.com/RedCollie1/status/1941311746519728300/video/1
+    display_url: pic.x.com/7X1AIlQEXw
+    media_key: '3_1941310549268078592'
+  - start: 281
+    end: 304
+    url: https://t.co/7X1AIlQEXw
+    expanded_url: https://x.com/RedCollie1/status/1941311746519728300/video/1
+    display_url: pic.x.com/7X1AIlQEXw
+    media_key: '13_1941310585410551808'
+  - start: 281
+    end: 304
+    url: https://t.co/7X1AIlQEXw
+    expanded_url: https://x.com/RedCollie1/status/1941311746519728300/video/1
+    display_url: pic.x.com/7X1AIlQEXw
+    media_key: '16_1941310612078014464'
+attachments:
+  media_keys:
+  - '3_1941310549268078592'
+  - '13_1941310585410551808'
+  - '16_1941310612078014464'
+media:
+- media_key: '3_1941310549268078592'
+  type: photo
+  width: 900
+  height: 941
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvDrqLfXoAATFNm.jpg
+- media_key: '13_1941310585410551808'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1941310585410551808/img/QjjfBSCKh5Rl11li.jpg
+  duration_ms: 70760
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1941310585410551808/vid/avc1/480x270/Hs3HLC5LXBM8YooO.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1941310585410551808/vid/avc1/640x360/MoB0RCY7jHRAhHr5.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1941310585410551808/vid/avc1/1280x720/U6Re0ikUWM_gL70T.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1941310585410551808/pl/RHyajmsDZl-8FuGM.m3u8?v=ff1
+  public_metrics:
+    view_count: 1169
+- media_key: '16_1941310612078014464'
+  type: animated_gif
+  width: 800
+  height: 728
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/GvDrt1ebMAA_IPq.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/GvDrt1ebMAA_IPq.mp4
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "A crop picture from Ashmore Down in 2020 suggested that we should spin a\
+    \ magnet \"off axis\", using 3-phase power, to get UFO levitation (slide 1).\n\
+    I tried that using a 60 mm magnet with a 20 mm hole in the middle (video 2). \n\
+    It did rise up strongly, except the spin motion was very noisy and lopsided, plus\
+    \ there was only an oscillating loss of weight on the scale below (when the magnet\
+    \ went into free-fall).\nPerhaps we should make it spin off-axis using a \"gyroscope\"\
+    \ kind of motion, as shown in movie 3?\nMore tests\U0001F6F8 soon!"

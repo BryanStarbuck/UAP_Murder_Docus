@@ -1,0 +1,107 @@
+id: '1912108899605598494'
+url: https://x.com/RedCollie1/status/1912108899605598494
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: OPPOSITE https://t.co/l8KRNBi0wo
+created_at: '2025-04-15T11:41:01.000Z'
+lang: en
+conversation_id: '1912108172971790596'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 514
+entities:
+  urls:
+  - start: 9
+    end: 32
+    url: https://t.co/l8KRNBi0wo
+    expanded_url: https://x.com/RedCollie1/status/1912108899605598494/photo/1
+    display_url: pic.x.com/l8KRNBi0wo
+    media_key: '3_1912108740326703104'
+  - start: 9
+    end: 32
+    url: https://t.co/l8KRNBi0wo
+    expanded_url: https://x.com/RedCollie1/status/1912108899605598494/photo/1
+    display_url: pic.x.com/l8KRNBi0wo
+    media_key: '3_1912108780193550336'
+  - start: 9
+    end: 32
+    url: https://t.co/l8KRNBi0wo
+    expanded_url: https://x.com/RedCollie1/status/1912108899605598494/photo/1
+    display_url: pic.x.com/l8KRNBi0wo
+    media_key: '3_1912108827312271360'
+  - start: 9
+    end: 32
+    url: https://t.co/l8KRNBi0wo
+    expanded_url: https://x.com/RedCollie1/status/1912108899605598494/photo/1
+    display_url: pic.x.com/l8KRNBi0wo
+    media_key: '3_1912108869133697024'
+attachments:
+  media_keys:
+  - '3_1912108740326703104'
+  - '3_1912108780193550336'
+  - '3_1912108827312271360'
+  - '3_1912108869133697024'
+media:
+- media_key: '3_1912108740326703104'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GoksxL8XwAAv8qV.jpg
+- media_key: '3_1912108780193550336'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GokszgdXkAA1IkE.jpg
+- media_key: '3_1912108827312271360'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Goks2P_WMAA8-Ko.jpg
+- media_key: '3_1912108869133697024'
+  type: photo
+  width: 960
+  height: 700
+  alt_text: null
+  url: https://pbs.twimg.com/media/Goks4ryWgAA8GsJ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1912108172971790596'
+  text: 'Here we can see further studies of the "upward pole" force described in previous
+    videos (posted below).
+
+    When using a 100 mm permanent-magnet (13 mm hole, 8 mm rod) as a spinning object
+    in a 3-phase magnetic field, we see "upward pole" forces only for the blue "South"
+    orientation https://t.co/wMv95JfwdG'
+has_video: false
+has_image: true
+media_count: 4

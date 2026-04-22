@@ -1,0 +1,145 @@
+id: '1923560870476644469'
+url: https://x.com/RedCollie1/status/1923560870476644469
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Here you can see the FIRST "pole-ball" experiment, based on a CT scan of a
+  mysterious orb-sphere analyzed by Jaime Maussan and colleagues in Mexico last week.
+
+  It also matches a famous crop picture near Avebury in 2014, which Jaime and Fernando
+  visited! We had lunch together at https://t.co/foGtUDp3Dy'
+created_at: '2025-05-17T02:07:04.000Z'
+lang: en
+conversation_id: '1923560870476644469'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 9
+  reply_count: 7
+  like_count: 60
+  quote_count: 2
+  bookmark_count: 12
+  impression_count: 4821
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/foGtUDp3Dy
+    expanded_url: https://x.com/RedCollie1/status/1923560870476644469/video/1
+    display_url: pic.x.com/foGtUDp3Dy
+    media_key: '13_1923558674410229760'
+  - start: 278
+    end: 301
+    url: https://t.co/foGtUDp3Dy
+    expanded_url: https://x.com/RedCollie1/status/1923560870476644469/video/1
+    display_url: pic.x.com/foGtUDp3Dy
+    media_key: '3_1923558726641868800'
+  - start: 278
+    end: 301
+    url: https://t.co/foGtUDp3Dy
+    expanded_url: https://x.com/RedCollie1/status/1923560870476644469/video/1
+    display_url: pic.x.com/foGtUDp3Dy
+    media_key: '3_1923558762092040192'
+  - start: 278
+    end: 301
+    url: https://t.co/foGtUDp3Dy
+    expanded_url: https://x.com/RedCollie1/status/1923560870476644469/video/1
+    display_url: pic.x.com/foGtUDp3Dy
+    media_key: '13_1923558782346444801'
+attachments:
+  media_keys:
+  - '13_1923558674410229760'
+  - '3_1923558726641868800'
+  - '3_1923558762092040192'
+  - '13_1923558782346444801'
+media:
+- media_key: '13_1923558674410229760'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1923558674410229760/img/y5SZQ-f3gaEv828J.jpg
+  duration_ms: 86360
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558674410229760/vid/avc1/480x270/p1p__yNLmlNqrzA6.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558674410229760/vid/avc1/640x360/e5VjEv-l3tUxZn9d.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558674410229760/vid/avc1/1280x720/zbsXrF77dKzU4IG3.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1923558674410229760/pl/OOTXKXt0IYBVvx6Q.m3u8?v=174
+  public_metrics:
+    view_count: 1468
+- media_key: '3_1923558726641868800'
+  type: photo
+  width: 960
+  height: 876
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrHaeG4XYAA_Vz6.jpg
+- media_key: '3_1923558762092040192'
+  type: photo
+  width: 960
+  height: 975
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrHagK8WEAADbR5.jpg
+- media_key: '13_1923558782346444801'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1923558782346444801/img/1_uF16kxAnH7nHfw.jpg
+  duration_ms: 6206
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558782346444801/vid/avc1/480x270/J7fzOpCstuzu72w3.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558782346444801/vid/avc1/640x360/xWga6EqRflMaysUg.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923558782346444801/vid/avc1/1280x720/y2l9x-ICLnL1j_Ws.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1923558782346444801/pl/KerylUd5C4-8UBBV.m3u8
+  public_metrics:
+    view_count: 167
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Here you can see the FIRST \"pole-ball\" experiment, based on a CT scan of\
+    \ a mysterious orb-sphere analyzed by Jaime Maussan and colleagues in Mexico last\
+    \ week.\nIt also matches a famous crop picture near Avebury in 2014, which Jaime\
+    \ and Fernando visited! We had lunch together at the Barge later. \nThat fast-spinning\
+    \ magnet, given 3-phase magnetic power, spins like a \"propellor\" when it is\
+    \ fully in contact with the \"ball\". \nAn indented shape at the top of the magnet\
+    \ (used typically to \"screw\" it into a wall) fits nicely against the round ball,\
+    \ and reduces friction.\nI will do proper tests of this \"pole-ball\" mechanism\
+    \ once needed materials arrive. Think \"James Watt\" steam engine? \nThese are\
+    \ REAL experiments. What most physicists do today is just \"chicken scratching\"\
+    \ abstract-symbols on paper, as Einstein once said. \U0001F601\U0001F6F8"

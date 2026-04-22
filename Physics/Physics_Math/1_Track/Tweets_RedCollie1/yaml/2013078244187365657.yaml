@@ -1,0 +1,81 @@
+id: '2013078244187365657'
+url: https://x.com/RedCollie1/status/2013078244187365657
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 3-phase power. Only one wire coil is "ON" at any time. https://t.co/ZL24IFPNtR
+created_at: '2026-01-19T02:37:09.000Z'
+lang: en
+conversation_id: '2012993319564095886'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 521
+entities:
+  urls:
+  - start: 55
+    end: 78
+    url: https://t.co/ZL24IFPNtR
+    expanded_url: https://x.com/RedCollie1/status/2013078244187365657/video/1
+    display_url: pic.x.com/ZL24IFPNtR
+    media_key: '13_2013078137089740800'
+attachments:
+  media_keys:
+  - '13_2013078137089740800'
+media:
+- media_key: '13_2013078137089740800'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2013078137089740800/img/cDi7VxcyDyGRkDO7.jpg
+  duration_ms: 7680
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013078137089740800/vid/avc1/480x270/bruoAP5EU3JsGAEB.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013078137089740800/vid/avc1/640x360/OlWFkTE4P0V24rUC.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2013078137089740800/vid/avc1/1280x720/LPWAQH-DUCDfgY2g.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2013078137089740800/pl/YHGz1zY0ioh8JJtg.m3u8
+  public_metrics:
+    view_count: 277
+referenced_tweets:
+- type: replied_to
+  id: '2012993319564095886'
+  text: "UFO PHYSICS LESSON! Look carefully at slide 1. \nDo you see how only one\
+    \ of those three wire coils is \"ON\" at any time? In this drawing, the one on\
+    \ the right. \nSuch is \"3-phase power\", which creates a rotating magnetic field.\
+    \ U-V-W-U-V-W-U-V-W. \nMy current model is shown in slide https://t.co/jPKsCLxqkh"
+has_video: true
+has_image: false
+media_count: 1

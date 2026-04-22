@@ -1,0 +1,129 @@
+id: '2033117919140618637'
+url: https://x.com/RedCollie1/status/2033117919140618637
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "My God, people, are you \"thick as a plank\"? \nThe English. \U0001F6F8 https://t.co/ZbnEfsRZdV"
+created_at: '2026-03-15T09:47:40.000Z'
+lang: en
+conversation_id: '2033117919140618637'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 8
+  like_count: 43
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 3094
+entities:
+  urls:
+  - start: 60
+    end: 83
+    url: https://t.co/ZbnEfsRZdV
+    expanded_url: https://x.com/RedCollie1/status/2033117919140618637/video/1
+    display_url: pic.x.com/ZbnEfsRZdV
+    media_key: '13_2033117504953036800'
+  - start: 60
+    end: 83
+    url: https://t.co/ZbnEfsRZdV
+    expanded_url: https://x.com/RedCollie1/status/2033117919140618637/video/1
+    display_url: pic.x.com/ZbnEfsRZdV
+    media_key: '3_2033117527849701376'
+  - start: 60
+    end: 83
+    url: https://t.co/ZbnEfsRZdV
+    expanded_url: https://x.com/RedCollie1/status/2033117919140618637/video/1
+    display_url: pic.x.com/ZbnEfsRZdV
+    media_key: '3_2033117545742618624'
+  - start: 60
+    end: 83
+    url: https://t.co/ZbnEfsRZdV
+    expanded_url: https://x.com/RedCollie1/status/2033117919140618637/video/1
+    display_url: pic.x.com/ZbnEfsRZdV
+    media_key: '13_2033117562503086081'
+attachments:
+  media_keys:
+  - '13_2033117504953036800'
+  - '3_2033117527849701376'
+  - '3_2033117545742618624'
+  - '13_2033117562503086081'
+media:
+- media_key: '13_2033117504953036800'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2033117504953036800/img/eTWvC_XFcJIckq_l.jpg
+  duration_ms: 19119
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117504953036800/vid/avc1/480x270/Kr7bpC0U_7JDpjpA.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117504953036800/vid/avc1/640x360/hAONje47XsLZ9AGl.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117504953036800/vid/avc1/1280x720/o0agUK0TvewRd9Jt.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2033117504953036800/pl/3iW_Pwkn-1CVqNNx.m3u8?v=6c4
+  public_metrics:
+    view_count: 1256
+- media_key: '3_2033117527849701376'
+  type: photo
+  width: 960
+  height: 934
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDcVnqIaEAA-Udh.jpg
+- media_key: '3_2033117545742618624'
+  type: photo
+  width: 960
+  height: 539
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDcVosyaUAA7KRx.jpg
+- media_key: '13_2033117562503086081'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2033117562503086081/img/s_AzQEnd41IIofY2.jpg
+  duration_ms: 7040
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117562503086081/vid/avc1/480x270/ovLrFMsNQ6tPnz4k.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117562503086081/vid/avc1/640x360/oUBzIA6diQHu77uA.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2033117562503086081/vid/avc1/1280x720/-84QCrDtNDycHvWG.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2033117562503086081/pl/ne28tYhz_Xaoc645.m3u8
+  public_metrics:
+    view_count: 280
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

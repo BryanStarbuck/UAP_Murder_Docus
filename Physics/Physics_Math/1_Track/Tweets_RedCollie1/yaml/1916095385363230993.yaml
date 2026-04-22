@@ -1,0 +1,81 @@
+id: '1916095385363230993'
+url: https://x.com/RedCollie1/status/1916095385363230993
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Here is another confirmatory video, showing a "transition" https://t.co/uBOhPhPkr9
+created_at: '2025-04-26T11:41:53.000Z'
+lang: en
+conversation_id: '1916093709445194077'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 626
+entities:
+  urls:
+  - start: 59
+    end: 82
+    url: https://t.co/uBOhPhPkr9
+    expanded_url: https://x.com/RedCollie1/status/1916095385363230993/video/1
+    display_url: pic.x.com/uBOhPhPkr9
+    media_key: '13_1916095047227084800'
+attachments:
+  media_keys:
+  - '13_1916095047227084800'
+media:
+- media_key: '13_1916095047227084800'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1916095047227084800/img/2ot-jFF5youXhnL7.jpg
+  duration_ms: 213040
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916095047227084800/vid/avc1/480x270/_mCF1HzpP9aLRUWZ.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916095047227084800/vid/avc1/640x360/LsuA3caPlKOlGgep.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916095047227084800/vid/avc1/1280x720/BoVmd6XyuwB-SV80.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1916095047227084800/pl/LIj9EWf1vDV3a6Uz.m3u8?tag=16
+  public_metrics:
+    view_count: 192
+referenced_tweets:
+- type: replied_to
+  id: '1916093709445194077'
+  text: Here you can see a transition between Newtonian and non-Newtonian forms of
+    spin for a magnet in a 3-phase magnetic field. If we could just CAPTURE as much
+    upward force from the non-Newtonian phase, as from the Newtonian phase, then the
+    great problem of "UFO propulsion" would be https://t.co/O1WXihNW66
+has_video: true
+has_image: false
+media_count: 1

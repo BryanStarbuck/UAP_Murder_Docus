@@ -1,0 +1,67 @@
+id: '2001552719312752848'
+url: https://x.com/RedCollie1/status/2001552719312752848
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@SBriskets You can  begin here (about 20% of the total message content). \n\
+  https://t.co/EUfHDSOyyN"
+created_at: '2025-12-18T07:18:49.000Z'
+lang: en
+conversation_id: '2001232388878426551'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 163
+entities:
+  mentions:
+  - start: 0
+    end: 10
+    username: SBriskets
+    id: '1288643702311866370'
+  urls:
+  - start: 74
+    end: 97
+    url: https://t.co/EUfHDSOyyN
+    expanded_url: https://x.com/RedCollie1/status/2001551616386990255
+    display_url: x.com/RedCollie1/sta…
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: quoted
+  id: '2001551616386990255'
+  text: "@realDavidBauer The translated text and two bitmap files are shown here.\
+    \ They are living underground in burial vaults, and preparing to build the Third\
+    \ Temple, where the Dome of the Rock \"used\" to be (in their future timeline).\
+    \ \nSlide 2 shows the exact lat-long point or origin. \nI do not yet https://t.co/Fl3jg0LIgf"
+- type: replied_to
+  id: '2001349928719937645'
+  text: '@RedCollie1 Can you link the ten pages of text plus the two others?'
+has_video: false
+has_image: false
+media_count: 0

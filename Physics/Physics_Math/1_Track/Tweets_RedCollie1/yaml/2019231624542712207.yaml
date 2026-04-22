@@ -1,0 +1,143 @@
+id: '2019231624542712207'
+url: https://x.com/RedCollie1/status/2019231624542712207
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: alien drones spin in exactly the same way https://t.co/gxm7DEirmM
+created_at: '2026-02-05T02:08:29.000Z'
+lang: en
+conversation_id: '2019230497537483122'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 25
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 880
+entities:
+  urls:
+  - start: 42
+    end: 65
+    url: https://t.co/gxm7DEirmM
+    expanded_url: https://x.com/RedCollie1/status/2019231624542712207/video/1
+    display_url: pic.x.com/gxm7DEirmM
+    media_key: '13_2019231432443645952'
+  - start: 42
+    end: 65
+    url: https://t.co/gxm7DEirmM
+    expanded_url: https://x.com/RedCollie1/status/2019231624542712207/video/1
+    display_url: pic.x.com/gxm7DEirmM
+    media_key: '13_2019231456686665732'
+  - start: 42
+    end: 65
+    url: https://t.co/gxm7DEirmM
+    expanded_url: https://x.com/RedCollie1/status/2019231624542712207/video/1
+    display_url: pic.x.com/gxm7DEirmM
+    media_key: '13_2019231482276126720'
+attachments:
+  media_keys:
+  - '13_2019231432443645952'
+  - '13_2019231456686665732'
+  - '13_2019231482276126720'
+media:
+- media_key: '13_2019231432443645952'
+  type: video
+  width: 1503
+  height: 1154
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019231432443645952/img/Dk33F1HgI-z0Rt6k.jpg
+  duration_ms: 29350
+  variants:
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231432443645952/vid/avc1/468x360/HSZI_1jfnNEu8HTZ.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231432443645952/vid/avc1/350x270/ucG2NRet83qIGRLK.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231432443645952/vid/avc1/936x720/XkINNUxHCaflbXQa.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231432443645952/vid/avc1/1502x1154/eXHwFB31X7mxkNQT.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019231432443645952/pl/2WKEIH8oPf_dizOI.m3u8
+  public_metrics:
+    view_count: 431
+- media_key: '13_2019231456686665732'
+  type: video
+  width: 1280
+  height: 1620
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019231456686665732/img/bDW6QcRspdn4zxdt.jpg
+  duration_ms: 15185
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231456686665732/vid/avc1/1280x1620/Xyv6ljQ0IOM6T2ER.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231456686665732/vid/avc1/480x606/j1fEUHEfWHPshRm3.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231456686665732/vid/avc1/720x910/eG75Br0BbdxwnifX.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019231456686665732/pl/vNs4BVfY0YDlycO1.m3u8
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231456686665732/vid/avc1/320x404/hLjgP92fKixBHJrz.mp4
+  public_metrics:
+    view_count: 56
+- media_key: '13_2019231482276126720'
+  type: video
+  width: 700
+  height: 1210
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019231482276126720/img/HAPgiG6Z7Y9IB_ut.jpg
+  duration_ms: 11166
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231482276126720/vid/avc1/320x552/dblszP7SAiY_Ujlt.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231482276126720/vid/avc1/480x828/2Z_H9eKmSDhUdzZJ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019231482276126720/vid/avc1/700x1210/kLq4xqDokAN-U_YZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019231482276126720/pl/QGHetsmdRQSRobkr.m3u8
+  public_metrics:
+    view_count: 51
+referenced_tweets:
+- type: replied_to
+  id: '2019230497537483122'
+  text: "I pretty much have it now.\nSix wire coils given 3-phase power as U-V-W-U-V-W\
+    \ in series will make a magnetic field spin very well, opposite the direction\
+    \ of the rotating magnetic field, using 8 N-S-N-S-N-S-N-S magnets. \nA big magnet\
+    \ placed at the center will not spin at all.\nIf we https://t.co/7EBa2VRsLa"
+has_video: true
+has_image: false
+media_count: 3

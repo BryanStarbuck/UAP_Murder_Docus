@@ -1,0 +1,69 @@
+id: '2029086223097315729'
+url: https://x.com/RedCollie1/status/2029086223097315729
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "They drew only 14 or 15 small symbols for the big ring of magnets in this 1999\
+  \ crop picture, not to be \"literal\", but to suggest artistically a \"fast clockwise\
+  \ motion\". \nYou can study details below to confirm. The big ring still has \"\
+  16 magnets\" as viewed when not spinning. https://t.co/WwYyIQJM39"
+created_at: '2026-03-04T06:47:08.000Z'
+lang: en
+conversation_id: '2029030819709501647'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 21
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1903
+entities:
+  urls:
+  - start: 275
+    end: 298
+    url: https://t.co/WwYyIQJM39
+    expanded_url: https://x.com/RedCollie1/status/2029086223097315729/photo/1
+    display_url: pic.x.com/WwYyIQJM39
+    media_key: '3_2029085869198684160'
+attachments:
+  media_keys:
+  - '3_2029085869198684160'
+media:
+- media_key: '3_2029085869198684160'
+  type: photo
+  width: 1000
+  height: 2175
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCjC2PRaMAAugi7.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2029085302464365005'
+  text: "I just need to make that outer ring of magnets counter-spin with less friction,\
+    \ as the big central magnet forward-spins, and rises up through its empty center.\n\
+    You can see two more crop pictures of the same \"UFO\" series 1998-1999 below.\
+    \ \nIn other words, instead of placing that https://t.co/bGu3ZmwBnA"
+has_video: false
+has_image: true
+media_count: 1

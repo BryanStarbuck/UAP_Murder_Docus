@@ -1,0 +1,104 @@
+id: '1916452144557003176'
+url: https://x.com/RedCollie1/status/1916452144557003176
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "TEACHING EXERCISE:\nUFOs rise like an \"AC jumping ring\".\nYou would have\
+  \ to be an idiot/woke/Afghan-hound, to think that those two crop pictures were made\
+  \ by \"vandals with rope and boards\". \nStudy the landscape image carefully.\n\U0001F921\
+  \U0001F921\U0001F921 https://t.co/huEQe2kVPy"
+created_at: '2025-04-27T11:19:31.000Z'
+lang: en
+conversation_id: '1916452144557003176'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 21
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1496
+entities:
+  urls:
+  - start: 230
+    end: 253
+    url: https://t.co/huEQe2kVPy
+    expanded_url: https://x.com/RedCollie1/status/1916452144557003176/video/1
+    display_url: pic.x.com/huEQe2kVPy
+    media_key: '3_1916451121419444224'
+  - start: 230
+    end: 253
+    url: https://t.co/huEQe2kVPy
+    expanded_url: https://x.com/RedCollie1/status/1916452144557003176/video/1
+    display_url: pic.x.com/huEQe2kVPy
+    media_key: '13_1916451166030106624'
+  - start: 230
+    end: 253
+    url: https://t.co/huEQe2kVPy
+    expanded_url: https://x.com/RedCollie1/status/1916452144557003176/video/1
+    display_url: pic.x.com/huEQe2kVPy
+    media_key: '3_1916451213127864320'
+attachments:
+  media_keys:
+  - '3_1916451121419444224'
+  - '13_1916451166030106624'
+  - '3_1916451213127864320'
+media:
+- media_key: '3_1916451121419444224'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GpiaJCGa4AAPkcz.jpg
+- media_key: '13_1916451166030106624'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1916451166030106624/img/CXMmBaUKGXKgSQvt.jpg
+  duration_ms: 8233
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916451166030106624/vid/avc1/360x270/fE7IZMdEm7rYpH9m.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916451166030106624/vid/avc1/480x360/j12tCJ685e2iAPv6.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1916451166030106624/vid/avc1/640x480/uaXKuibtJ_OM4giU.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1916451166030106624/pl/1ihqdVtSUWGARl5F.m3u8?tag=16
+  public_metrics:
+    view_count: 527
+- media_key: '3_1916451213127864320'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GpiaOXvaUAAZdr-.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

@@ -1,0 +1,83 @@
+id: '2034171758136418658'
+url: https://x.com/RedCollie1/status/2034171758136418658
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Here is a 7-minute video with full detail of electrical engineering, and showing
+  how we built this new devices according to a series of "plans" drawn in crops. 🛸
+  https://t.co/O69CblIJyZ
+created_at: '2026-03-18T07:35:14.000Z'
+lang: en
+conversation_id: '2034132025507254299'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 4
+  like_count: 43
+  quote_count: 0
+  bookmark_count: 16
+  impression_count: 1223
+entities:
+  urls:
+  - start: 162
+    end: 185
+    url: https://t.co/O69CblIJyZ
+    expanded_url: https://x.com/RedCollie1/status/2034171758136418658/video/1
+    display_url: pic.x.com/O69CblIJyZ
+    media_key: '13_2034171356779364352'
+attachments:
+  media_keys:
+  - '13_2034171356779364352'
+media:
+- media_key: '13_2034171356779364352'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034171356779364352/img/QvY6pYacIQwKcaaJ.jpg
+  duration_ms: 416616
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034171356779364352/vid/avc1/480x270/SOOo8C1in3tHudKE.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034171356779364352/vid/avc1/640x360/p0L7irfq1dUz4g6Z.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034171356779364352/vid/avc1/1280x720/d3wr0WvnuBno6YFY.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034171356779364352/pl/W5y2ynd66eOmcPDv.m3u8
+  public_metrics:
+    view_count: 561
+referenced_tweets:
+- type: replied_to
+  id: '2034132025507254299'
+  text: "Video 1 shows a short clip of a new spin / counter-spin device I have just\
+    \ made, as a model to test UFO-levitation physics. \nNow we are using a non-magnetic\
+    \ ZrO2 ball-bearing, and everything works fine!\nVideos 2 and 3 show spin / counter-spin\
+    \ as witnessed by two UFO contactees, https://t.co/zEFStYkA9w"
+has_video: true
+has_image: false
+media_count: 1

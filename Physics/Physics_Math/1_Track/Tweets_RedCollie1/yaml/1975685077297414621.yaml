@@ -1,0 +1,98 @@
+id: '1975685077297414621'
+url: https://x.com/RedCollie1/status/1975685077297414621
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@UAPWatchers @real_TI_28 Full movie brightened https://t.co/hYamBD9Dxd'
+created_at: '2025-10-07T22:10:03.000Z'
+lang: en
+conversation_id: '1975658744949125618'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 17
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 915
+entities:
+  urls:
+  - start: 47
+    end: 70
+    url: https://t.co/hYamBD9Dxd
+    expanded_url: https://x.com/RedCollie1/status/1975685077297414621/video/1
+    display_url: pic.x.com/hYamBD9Dxd
+    media_key: '13_1975685004018724864'
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+  - start: 13
+    end: 24
+    username: real_TI_28
+    id: '1587599362904817664'
+attachments:
+  media_keys:
+  - '13_1975685004018724864'
+media:
+- media_key: '13_1975685004018724864'
+  type: video
+  width: 1200
+  height: 900
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1975685004018724864/img/PmUw_SoPv_m6dPyY.jpg
+  duration_ms: 9002
+  variants:
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1975685004018724864/pl/zGx_XbjjW3Ar_GCH.m3u8
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685004018724864/vid/avc1/480x360/quFBL-44-JJ8s_x3.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685004018724864/vid/avc1/1200x900/dqlZagX8hljfxm4G.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685004018724864/vid/avc1/960x720/aCwgOnki_qcrT2ML.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685004018724864/vid/avc1/360x270/-b1tPXZOn76YpSKN.mp4
+  public_metrics:
+    view_count: 540
+referenced_tweets:
+- type: replied_to
+  id: '1975658744949125618'
+  text: '🚨Close Up Of 3I/ATLAS From ESA Image
+
+
+    @real_TI_28 Has taken the ESA image and blown it up.
+
+    What do you think about this?
+
+
+    #3IATLAS #ufotwitter #uapX https://t.co/p6zWtKHhFg'
+has_video: true
+has_image: false
+media_count: 1

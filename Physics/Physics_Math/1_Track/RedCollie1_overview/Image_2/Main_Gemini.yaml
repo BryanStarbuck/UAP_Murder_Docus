@@ -1,0 +1,68 @@
+```yaml
+circles:
+  non_solid_circles:
+    - color: red
+      description: "Outer red boundary circle"
+      x: 250
+      y: 400
+      radius: 180
+    - color: blue
+      description: "Inner large blue circle"
+      x: 250
+      y: 420
+      radius: 140
+    - color: blue
+      description: "Small blue circle outlining the center 'S' black circle"
+      x: 250
+      y: 420
+      radius: 55
+  black_circles:
+    - description: "Topmost circle (partially out of frame)"
+      x: 250
+      y: 10
+      radius: 70
+    - description: "Second large circle from top"
+      x: 250
+      y: 120
+      radius: 80
+    - description: "Small circle above the inner gap"
+      x: 250
+      y: 240
+      radius: 15
+    - description: "Medium circle above the center 'S'"
+      x: 250
+      y: 300
+      radius: 30
+    - description: "Center circle (labeled 'S')"
+      x: 250
+      y: 420
+      radius: 50
+    - description: "Medium circle below the center 'S'"
+      x: 250
+      y: 530
+      radius: 30
+    - description: "Circle further below center"
+      x: 250
+      y: 600
+      radius: 25
+    - description: "Circle intersecting bottom of the large blue circle"
+      x: 250
+      y: 650
+      radius: 15
+    - description: "Circle intersecting bottom of the red circle"
+      x: 250
+      y: 690
+      radius: 12
+    - description: "Decreasing circle 1"
+      x: 250
+      y: 720
+      radius: 10
+    - description: "Decreasing circle 2"
+      x: 250
+      y: 745
+      radius: 8
+    - description: "Bottom-most visible decreasing circle"
+      x: 250
+      y: 765
+      radius: 6
+```

@@ -1,0 +1,72 @@
+id: '2025744564510928903'
+url: https://x.com/RedCollie1/status/2025744564510928903
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@DissidentDeluxe everything https://t.co/ECYv0O225U'
+created_at: '2026-02-23T01:28:35.000Z'
+lang: en
+conversation_id: '2025613213208019360'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 53
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: DissidentDeluxe
+    id: '1992954059389857792'
+  urls:
+  - start: 28
+    end: 51
+    url: https://t.co/ECYv0O225U
+    expanded_url: https://x.com/RedCollie1/status/2025744564510928903/photo/1
+    display_url: pic.x.com/ECYv0O225U
+    media_key: '3_2025744520051339264'
+attachments:
+  media_keys:
+  - '3_2025744520051339264'
+media:
+- media_key: '3_2025744520051339264'
+  type: photo
+  width: 751
+  height: 817
+  alt_text: null
+  url: https://pbs.twimg.com/media/HBzj6HtasAACwc9.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2025637367919296769'
+  text: '@RedCollie1 Just curios, what exactly is this proving? Theres nothing surprising
+    in the video, a magnet suspended on a pole over other magnets will naturally repel
+    and hover. Spinning with voltage is how an electric motor works.
+
+    What am i missing here?'
+has_video: false
+has_image: true
+media_count: 1

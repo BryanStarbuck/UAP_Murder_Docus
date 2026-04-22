@@ -1,0 +1,84 @@
+id: '1963919404313219295'
+url: https://x.com/RedCollie1/status/1963919404313219295
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "These two crop pictures likewise show a blueprint for the SAME alien drone.\n\
+  Slide 1 shows two sets of staggered 3-phase wire coils, plus a central spinning\
+  \ flywheel. \nSlide 2 shows \"3-phase AC power\". https://t.co/f9X3Ml0qOR"
+created_at: '2025-09-05T10:57:28.000Z'
+lang: en
+conversation_id: '1963915629892899295'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1057
+entities:
+  urls:
+  - start: 201
+    end: 224
+    url: https://t.co/f9X3Ml0qOR
+    expanded_url: https://x.com/RedCollie1/status/1963919404313219295/photo/1
+    display_url: pic.x.com/f9X3Ml0qOR
+    media_key: '3_1963918877966086144'
+  - start: 201
+    end: 224
+    url: https://t.co/f9X3Ml0qOR
+    expanded_url: https://x.com/RedCollie1/status/1963919404313219295/photo/1
+    display_url: pic.x.com/f9X3Ml0qOR
+    media_key: '3_1963918896114843648'
+attachments:
+  media_keys:
+  - '3_1963918877966086144'
+  - '3_1963918896114843648'
+media:
+- media_key: '3_1963918877966086144'
+  type: photo
+  width: 960
+  height: 914
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0E90HDaMAALJz7.jpg
+- media_key: '3_1963918896114843648'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0E91KqaQAAbmMS.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1963915629892899295'
+  text: 'This alien UFO-drone, which was photographed over Canada in January 2025,
+    shows the basic working-parts of an anti-gravity device.
+
+    As shown in video 1, it has a magnetic flywheel which SPINS very quickly to hold
+    it up.
+
+    As shown in slide 2, it has three small "balls" on each end, https://t.co/wGLF6kSIqw'
+has_video: false
+has_image: true
+media_count: 2

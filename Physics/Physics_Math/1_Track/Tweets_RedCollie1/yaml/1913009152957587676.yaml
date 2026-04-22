@@ -1,0 +1,91 @@
+id: '1913009152957587676'
+url: https://x.com/RedCollie1/status/1913009152957587676
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The "rising force" of an aluminum rod, when coupled to the spin motion of a
+  ring magnet in a 3-phase magnetic field, by seamless friction without any "screws",
+  easily reaches 1000 grams (or 1 kg) at 17 Hertz, 250 watts.
+
+  This result is not in textbooks. You will not learn it in https://t.co/R5LJNH3Pga'
+created_at: '2025-04-17T23:18:18.000Z'
+lang: en
+conversation_id: '1913006319789089228'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 722
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/R5LJNH3Pga
+    expanded_url: https://x.com/RedCollie1/status/1913009152957587676/video/1
+    display_url: pic.x.com/R5LJNH3Pga
+    media_key: '13_1913007628550389760'
+attachments:
+  media_keys:
+  - '13_1913007628550389760'
+media:
+- media_key: '13_1913007628550389760'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913007628550389760/img/i581kMTAnTX3j1sn.jpg
+  duration_ms: 38960
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913007628550389760/vid/avc1/480x270/dkjDv7zxUtPHAsW9.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913007628550389760/vid/avc1/640x360/0_OwGwwAR9fjr5PN.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913007628550389760/vid/avc1/1280x720/hVpEc1xnZwpR2EPQ.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913007628550389760/pl/tdK0OocYhbKslNuf.m3u8?tag=16
+  public_metrics:
+    view_count: 218
+referenced_tweets:
+- type: replied_to
+  id: '1913006319789089228'
+  text: ''
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "The \"rising force\" of an aluminum rod, when coupled to the spin motion\
+    \ of a ring magnet in a 3-phase magnetic field, by seamless friction without any\
+    \ \"screws\", easily reaches 1000 grams (or 1 kg) at 17 Hertz, 250 watts.\nThis\
+    \ result is not in textbooks. You will not learn it in the schools. Free to share\
+    \ elsewhere however, to help educate interested students! \nNow we just need to\
+    \ COUPLE that \"strong rising force\" (by any means) to the 3-phase wire coils\
+    \ which generate a rotating magnetic field, causing it to SPIN. \nThen we will\
+    \ have a \"UFO\". Understand please? \U0001F6F8"

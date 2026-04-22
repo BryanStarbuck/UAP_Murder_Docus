@@ -1,0 +1,126 @@
+id: '1912464896169767391'
+url: https://x.com/RedCollie1/status/1912464896169767391
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Up the pole with spin? NEW PHYSICS. \nMore soon! \U0001F6F8 https://t.co/SLFcqqXrPk"
+created_at: '2025-04-16T11:15:37.000Z'
+lang: en
+conversation_id: '1912464896169767391'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 45
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 2769
+entities:
+  urls:
+  - start: 50
+    end: 73
+    url: https://t.co/SLFcqqXrPk
+    expanded_url: https://x.com/RedCollie1/status/1912464896169767391/video/1
+    display_url: pic.x.com/SLFcqqXrPk
+    media_key: '13_1912464551028690944'
+  - start: 50
+    end: 73
+    url: https://t.co/SLFcqqXrPk
+    expanded_url: https://x.com/RedCollie1/status/1912464896169767391/video/1
+    display_url: pic.x.com/SLFcqqXrPk
+    media_key: '13_1912464595727310848'
+  - start: 50
+    end: 73
+    url: https://t.co/SLFcqqXrPk
+    expanded_url: https://x.com/RedCollie1/status/1912464896169767391/video/1
+    display_url: pic.x.com/SLFcqqXrPk
+    media_key: '3_1912464635728465920'
+  - start: 50
+    end: 73
+    url: https://t.co/SLFcqqXrPk
+    expanded_url: https://x.com/RedCollie1/status/1912464896169767391/video/1
+    display_url: pic.x.com/SLFcqqXrPk
+    media_key: '3_1912464673661702144'
+attachments:
+  media_keys:
+  - '13_1912464551028690944'
+  - '13_1912464595727310848'
+  - '3_1912464635728465920'
+  - '3_1912464673661702144'
+media:
+- media_key: '13_1912464551028690944'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1912464551028690944/img/ATQTQbqDx5EZA2L3.jpg
+  duration_ms: 17680
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912464551028690944/vid/avc1/480x270/mXSMZJp50o55ys0K.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912464551028690944/vid/avc1/640x360/UAq3PjgzBIMWI_B7.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912464551028690944/vid/avc1/1280x720/IenkT1Y8ZM-IVWQC.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1912464551028690944/pl/Vw-p_yaPO4YeZPhf.m3u8?tag=16&v=dfc
+  public_metrics:
+    view_count: 902
+- media_key: '13_1912464595727310848'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1912464595727310848/img/F0CA9_CqPMMW-HUp.jpg
+  duration_ms: 10176
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912464595727310848/vid/avc1/480x270/zSCEphcrSyWE_xQK.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912464595727310848/vid/avc1/640x360/phiA3wxkdZX2F8qS.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1912464595727310848/pl/xj80CRrMBqo5axiv.m3u8?tag=16
+  public_metrics:
+    view_count: 114
+- media_key: '3_1912464635728465920'
+  type: photo
+  width: 600
+  height: 649
+  alt_text: null
+  url: https://pbs.twimg.com/media/GopwdBoXkAAnSZw.jpg
+- media_key: '3_1912464673661702144'
+  type: photo
+  width: 600
+  height: 640
+  alt_text: null
+  url: https://pbs.twimg.com/media/GopwfO8W0AAWLn_.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

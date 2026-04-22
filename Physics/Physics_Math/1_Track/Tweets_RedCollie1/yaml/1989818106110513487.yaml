@@ -1,0 +1,75 @@
+id: '1989818106110513487'
+url: https://x.com/RedCollie1/status/1989818106110513487
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'What we have here is a failure to communicate. 🚀
+
+  3I/ATLAS seems to use a ring of six powerful ion thrusters. https://t.co/EU8oPaXOaG'
+created_at: '2025-11-15T22:09:40.000Z'
+lang: en
+conversation_id: '1989818106110513487'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 42
+  reply_count: 25
+  like_count: 384
+  quote_count: 3
+  bookmark_count: 33
+  impression_count: 33549
+entities:
+  urls:
+  - start: 109
+    end: 132
+    url: https://t.co/EU8oPaXOaG
+    expanded_url: https://x.com/RedCollie1/status/1989818106110513487/photo/1
+    display_url: pic.x.com/EU8oPaXOaG
+    media_key: '3_1989817680141119488'
+  - start: 109
+    end: 132
+    url: https://t.co/EU8oPaXOaG
+    expanded_url: https://x.com/RedCollie1/status/1989818106110513487/photo/1
+    display_url: pic.x.com/EU8oPaXOaG
+    media_key: '3_1989817698419945472'
+attachments:
+  media_keys:
+  - '3_1989817680141119488'
+  - '3_1989817698419945472'
+media:
+- media_key: '3_1989817680141119488'
+  type: photo
+  width: 1806
+  height: 920
+  alt_text: null
+  url: https://pbs.twimg.com/media/G51AoziacAAerWl.jpg
+- media_key: '3_1989817698419945472'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G51Ap3obMAAKQUJ.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

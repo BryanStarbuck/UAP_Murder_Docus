@@ -1,0 +1,67 @@
+id: '1989821797349691738'
+url: https://x.com/RedCollie1/status/1989821797349691738
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Why does 3I/ATLAS glow green due to nickel?
+
+  DUH. https://t.co/znJ8PbQ3rK'
+created_at: '2025-11-15T22:24:20.000Z'
+lang: en
+conversation_id: '1989818106110513487'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 4
+  like_count: 14
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 4357
+entities:
+  urls:
+  - start: 49
+    end: 72
+    url: https://t.co/znJ8PbQ3rK
+    expanded_url: https://x.com/RedCollie1/status/1989821797349691738/photo/1
+    display_url: pic.x.com/znJ8PbQ3rK
+    media_key: '3_1989821774431911936'
+attachments:
+  media_keys:
+  - '3_1989821774431911936'
+media:
+- media_key: '3_1989821774431911936'
+  type: photo
+  width: 800
+  height: 400
+  alt_text: null
+  url: https://pbs.twimg.com/media/G51EXH9aAAAuNkU.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1989818106110513487'
+  text: 'What we have here is a failure to communicate. 🚀
+
+    3I/ATLAS seems to use a ring of six powerful ion thrusters. https://t.co/EU8oPaXOaG'
+has_video: false
+has_image: true
+media_count: 1

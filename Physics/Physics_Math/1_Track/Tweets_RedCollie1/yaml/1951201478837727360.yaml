@@ -1,0 +1,69 @@
+id: '1951201478837727360'
+url: https://x.com/RedCollie1/status/1951201478837727360
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'That message has been repeated three times now.
+
+  In different countries, in different years. It seems certain beyond any reasonable
+  doubt. https://t.co/XJeaUnVrCs'
+created_at: '2025-08-01T08:40:58.000Z'
+lang: en
+conversation_id: '1951159613774283194'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 0
+  like_count: 19
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 2142
+entities:
+  urls:
+  - start: 138
+    end: 161
+    url: https://t.co/XJeaUnVrCs
+    expanded_url: https://x.com/RedCollie1/status/1951201478837727360/photo/1
+    display_url: pic.x.com/XJeaUnVrCs
+    media_key: '3_1951201206556299264'
+attachments:
+  media_keys:
+  - '3_1951201206556299264'
+media:
+- media_key: '3_1951201206556299264'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxQPKNIaEAA6T8s.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1951159613774283194'
+  text: "I am going to give a brief talk on 3I/ATLAS tomorrow for UFO NSW at Burwood\
+    \ around 3 PM. \nEveryone here already should know the basics, but I made several\
+    \ new slides (posted below), about how we were apparently WARNED of this new space-vessel\
+    \ event, back in 2015. \nTen years ago, https://t.co/M4sOjXylFY"
+has_video: false
+has_image: true
+media_count: 1

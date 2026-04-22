@@ -1,0 +1,171 @@
+id: '2039104083945218325'
+url: https://x.com/RedCollie1/status/2039104083945218325
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: While government officials are just beginning to reveal that aliens really DO
+  exist, and are flying mysterious UFOs around Earth, and as millions of other "scientists"
+  refuse to study these problems, I am continuing with my private lab research, meant
+  to help understand (or https://t.co/iPcB3hF89D
+created_at: '2026-03-31T22:14:32.000Z'
+lang: en
+conversation_id: '2039104083945218325'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 11
+  reply_count: 5
+  like_count: 85
+  quote_count: 0
+  bookmark_count: 36
+  impression_count: 5971
+entities:
+  urls:
+  - start: 275
+    end: 298
+    url: https://t.co/iPcB3hF89D
+    expanded_url: https://x.com/RedCollie1/status/2039104083945218325/video/1
+    display_url: pic.x.com/iPcB3hF89D
+    media_key: '3_2039098937894977536'
+  - start: 275
+    end: 298
+    url: https://t.co/iPcB3hF89D
+    expanded_url: https://x.com/RedCollie1/status/2039104083945218325/video/1
+    display_url: pic.x.com/iPcB3hF89D
+    media_key: '13_2039098988482420736'
+  - start: 275
+    end: 298
+    url: https://t.co/iPcB3hF89D
+    expanded_url: https://x.com/RedCollie1/status/2039104083945218325/video/1
+    display_url: pic.x.com/iPcB3hF89D
+    media_key: '3_2039099264132161536'
+  - start: 275
+    end: 298
+    url: https://t.co/iPcB3hF89D
+    expanded_url: https://x.com/RedCollie1/status/2039104083945218325/video/1
+    display_url: pic.x.com/iPcB3hF89D
+    media_key: '13_2039099804341706752'
+attachments:
+  media_keys:
+  - '3_2039098937894977536'
+  - '13_2039098988482420736'
+  - '3_2039099264132161536'
+  - '13_2039099804341706752'
+media:
+- media_key: '3_2039098937894977536'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HExVri8bQAAOjcQ.jpg
+- media_key: '13_2039098988482420736'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039098988482420736/img/-kZVqO5mmvnWGBT3.jpg
+  duration_ms: 23023
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039098988482420736/vid/avc1/480x270/KODUAU9krZM3hBtZ.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039098988482420736/vid/avc1/640x360/f-iFwpzrdVh-D3fe.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039098988482420736/vid/avc1/1280x720/CU3KTL5der5voVaM.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039098988482420736/pl/u-5muBtwHvBA4Ado.m3u8?v=08e
+  public_metrics:
+    view_count: 2715
+- media_key: '3_2039099264132161536'
+  type: photo
+  width: 898
+  height: 875
+  alt_text: null
+  url: https://pbs.twimg.com/media/HExV-iRboAAci6m.jpg
+- media_key: '13_2039099804341706752'
+  type: video
+  width: 1002
+  height: 668
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039099804341706752/img/xpRHHKkCtjYH43ej.jpg
+  duration_ms: 28119
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039099804341706752/vid/avc1/404x270/ob9JJjgh-VT5-Vs6.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039099804341706752/vid/avc1/540x360/QrzmSVcMSBk2QxWg.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039099804341706752/vid/avc1/1002x668/ONFkXdCY2VYKWwkf.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039099804341706752/pl/25d2N6cx1YPjNps2.m3u8?v=3dd
+  public_metrics:
+    view_count: 537
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  entities:
+    urls:
+    - start: 1835
+      end: 1858
+      url: https://t.co/XyH0rbVbL8
+      expanded_url: https://www.youtube.com/watch?v=_OBkZJrGGz4
+      display_url: youtube.com/watch?v=_OBkZJ…
+  text: "While government officials are just beginning to reveal that aliens really\
+    \ DO exist, and are flying mysterious UFOs around Earth, and as millions of other\
+    \ \"scientists\" refuse to study these problems, I am continuing with my private\
+    \ lab research, meant to help understand (or reverse engineer) UFO physics, as\
+    \ well as the physics of that metallic orb being studied by Jaime and Fernando\
+    \ in Mexico! \nIt seems to involve the spin of two magnetic discs in opposite\
+    \ directions, which is why I am building and studying such models now. \nIn crops,\
+    \ they often show 6 wire coils (given 3-phase power) that make two magnetic discs\
+    \ spin in opposite directions (slide 1 and movie 2). That makes the device \"\
+    lift up\" (slide 1). \nThe Buga orb shows just 5 wire coils (\"moon\" shapes)\
+    \ embedded in aluminum around the outside (slide 3). This may represent the same\
+    \ spin / counter-spin physics, but using 5-phase AC power (rather than 6 wire\
+    \ coils, wired as 2 x 3 in series). \nFinally, many UFO contactees or (close observers)\
+    \ have seen spin and counter-spin by two magnetic discs, as described in movie\
+    \ 4. \nOther people are talking about \"alien-human breeding programs\". Just\
+    \ to remind everyone, we did the DNA analysis of a hair sample from a beautiful\
+    \ alien-human hybrid woman, who collected sperm from Peter Khoury in 1992 for\
+    \ breeding purposes. \nPlease watch Peter's interview on \"Area 52\". She had\
+    \ no \"belly button\", which means that she matured in some device other than\
+    \ a normal placenta! \nFinally, we have solved the basic principles of 4-symbol\
+    \ alien computing, as first shown to US military contactee \"CJ\" (Jeremy Weeks)\
+    \ in 2015. He is the \"radar technician\" interviewed recently on \"Area 52\"\
+    . \nMy friend Rodney Graphics has prepared a series of programs to read, write\
+    \ and encrypt alien code (see “Triple binary code Encode and Decode tool”\nhttps://t.co/XyH0rbVbL8\n\
+    No one is helping. Almost all other humans on planet Earth today remain \"asleep\"\
+    . I will get some coffee, then go into the lab again to make more anti-gravity\
+    \ measurements and movies! \U0001F920\U0001F6F8\nIt took about seven years, after\
+    \ the discovery of a double helix for DNA in 1953, to decipher the Genetic Code\
+    \ in 1960. \nMany years may also be required to make an effective anti-gravity\
+    \ device, based on the principles described above. Especially if no one else is\
+    \ working on it. \U0001F921"

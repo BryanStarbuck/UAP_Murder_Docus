@@ -1,0 +1,159 @@
+id: '1964864724551745953'
+url: https://x.com/RedCollie1/status/1964864724551745953
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The homopolar motor changes its sense of spin, depending on whether we apply\
+  \ an N/S versus S/N external magnetic field, and also whether the current electrons\
+  \ go out-to-in, versus in-to-out. \nInterestingly, as may be deduced from videos\
+  \ 1 or 2, and as shown EXPLICITLY in video 3, https://t.co/tBYRkOuH5O"
+created_at: '2025-09-08T01:33:50.000Z'
+lang: en
+conversation_id: '1964864724551745953'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1118
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/tBYRkOuH5O
+    expanded_url: https://x.com/RedCollie1/status/1964864724551745953/video/1
+    display_url: pic.x.com/tBYRkOuH5O
+    media_key: '13_1964863613530955777'
+  - start: 281
+    end: 304
+    url: https://t.co/tBYRkOuH5O
+    expanded_url: https://x.com/RedCollie1/status/1964864724551745953/video/1
+    display_url: pic.x.com/tBYRkOuH5O
+    media_key: '13_1964863652840062977'
+  - start: 281
+    end: 304
+    url: https://t.co/tBYRkOuH5O
+    expanded_url: https://x.com/RedCollie1/status/1964864724551745953/video/1
+    display_url: pic.x.com/tBYRkOuH5O
+    media_key: '13_1964863674977558529'
+  - start: 281
+    end: 304
+    url: https://t.co/tBYRkOuH5O
+    expanded_url: https://x.com/RedCollie1/status/1964864724551745953/video/1
+    display_url: pic.x.com/tBYRkOuH5O
+    media_key: '3_1964863703070941184'
+attachments:
+  media_keys:
+  - '13_1964863613530955777'
+  - '13_1964863652840062977'
+  - '13_1964863674977558529'
+  - '3_1964863703070941184'
+media:
+- media_key: '13_1964863613530955777'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964863613530955777/img/SZvOv9GG9Bwyzjwf.jpg
+  duration_ms: 34000
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863613530955777/vid/avc1/480x270/j0mcQGrqrA1KK73g.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863613530955777/vid/avc1/640x360/FCerEfW8E2c7poCX.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863613530955777/vid/avc1/1280x720/X-DcYiYriQ2nxIpe.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964863613530955777/pl/t2jl2AYuu6-2xNiC.m3u8
+  public_metrics:
+    view_count: 454
+- media_key: '13_1964863652840062977'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964863652840062977/img/fcHymsD0Z9KLltyo.jpg
+  duration_ms: 32599
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863652840062977/vid/avc1/480x270/UQ65c_JtqI6xwHGV.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863652840062977/vid/avc1/640x360/g8k2WVbVKAgCFhNJ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863652840062977/vid/avc1/1280x720/-rDMdTJgcGnZpEM9.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964863652840062977/pl/fNC1mn9j3LL8ydTg.m3u8
+  public_metrics:
+    view_count: 54
+- media_key: '13_1964863674977558529'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964863674977558529/img/lBXj4YXCzwXc-wBk.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863674977558529/vid/avc1/480x270/qstJ6pB13XDN2pjq.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863674977558529/vid/avc1/640x360/BKZNWUHOmG1HIaEf.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964863674977558529/vid/avc1/1280x720/mOc4GjGq3gSydyMk.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964863674977558529/pl/uxTmLWAtoM4Ku5Ks.m3u8
+  public_metrics:
+    view_count: 43
+- media_key: '3_1964863703070941184'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0SZIK2aIAA2aRI.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "The homopolar motor changes its sense of spin, depending on whether we apply\
+    \ an N/S versus S/N external magnetic field, and also whether the current electrons\
+    \ go out-to-in, versus in-to-out. \nInterestingly, as may be deduced from videos\
+    \ 1 or 2, and as shown EXPLICITLY in video 3, its spin angular momentum as caused\
+    \ by a sideways, curvy Lorentz force does NOT seem to follow Newton's 3rd Law\
+    \ of \"action-reaction\". \nThat is exactly what we need to create \"UFO levitation\"\
+    , so long as its spinning motion (which creates little or no counter-spinning\
+    \ force by Newton's 3rd Law) can be converted to a force going UP against gravity!\
+    \ \U0001F6F8\nThus a \"window\" in modern physics DOES EXIST, which may permit\
+    \ upward, no-counter-force UFO-levitation.\nStudy nature, \"teachers\" and \"\
+    textbooks\". \U0001F921"

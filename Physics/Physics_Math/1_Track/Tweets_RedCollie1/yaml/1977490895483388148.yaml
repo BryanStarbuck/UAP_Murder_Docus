@@ -1,0 +1,93 @@
+id: '1977490895483388148'
+url: https://x.com/RedCollie1/status/1977490895483388148
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@UAPWatchers Going from left to right. Color enhanced a bit. \nReal image (left)\
+  \ and inverted image (right). https://t.co/lmygIlhm6z"
+created_at: '2025-10-12T21:45:44.000Z'
+lang: en
+conversation_id: '1977417073900101799'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 18
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 2669
+entities:
+  urls:
+  - start: 108
+    end: 131
+    url: https://t.co/lmygIlhm6z
+    expanded_url: https://x.com/RedCollie1/status/1977490895483388148/photo/1
+    display_url: pic.x.com/lmygIlhm6z
+    media_key: '3_1977490521112428544'
+  - start: 108
+    end: 131
+    url: https://t.co/lmygIlhm6z
+    expanded_url: https://x.com/RedCollie1/status/1977490895483388148/photo/1
+    display_url: pic.x.com/lmygIlhm6z
+    media_key: '3_1977490536505466880'
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+attachments:
+  media_keys:
+  - '3_1977490521112428544'
+  - '3_1977490536505466880'
+media:
+- media_key: '3_1977490521112428544'
+  type: photo
+  width: 1648
+  height: 1216
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3F1JtmbwAA4DKk.jpg
+- media_key: '3_1977490536505466880'
+  type: photo
+  width: 1500
+  height: 1108
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3F1Km8a4AA5ypx.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1977417073900101799'
+  text: '3I/ATLAS Seen With Gemini North
+
+
+    Does anyone have Tif editing software that could take a look at the image?
+
+
+    Download the image:
+
+    https://t.co/Ok6HT1QQrf
+
+
+    #ufotwitter #uapX #3IATLAS https://t.co/N2SboJ7Mqi'
+has_video: false
+has_image: true
+media_count: 2

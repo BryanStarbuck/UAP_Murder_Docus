@@ -1,0 +1,131 @@
+id: '2036251319745520121'
+url: https://x.com/RedCollie1/status/2036251319745520121
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@Omarboucher Brazil 2024, 2025 near Ipuacu. \nSix wire coils as an \"outer\
+  \ ring\" like in my new movie.\n3-phase power (three semi-circular shapes). \nCounter-spin\
+  \ outside (narrow zig-zag lines). \n3-phase spin inside (triangular shape). \nBig\
+  \ inner ring to represent a stainless-steel tube. \nEasy to https://t.co/eq36Ny4wsO"
+created_at: '2026-03-24T01:18:41.000Z'
+lang: en
+conversation_id: '2036194828409786500'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 2
+  quote_count: 1
+  bookmark_count: 2
+  impression_count: 1541
+entities:
+  urls:
+  - start: 294
+    end: 317
+    url: https://t.co/eq36Ny4wsO
+    expanded_url: https://x.com/RedCollie1/status/2036251319745520121/video/1
+    display_url: pic.x.com/eq36Ny4wsO
+    media_key: '3_2036249376574808066'
+  - start: 294
+    end: 317
+    url: https://t.co/eq36Ny4wsO
+    expanded_url: https://x.com/RedCollie1/status/2036251319745520121/video/1
+    display_url: pic.x.com/eq36Ny4wsO
+    media_key: '3_2036250267247865856'
+  - start: 294
+    end: 317
+    url: https://t.co/eq36Ny4wsO
+    expanded_url: https://x.com/RedCollie1/status/2036251319745520121/video/1
+    display_url: pic.x.com/eq36Ny4wsO
+    media_key: '13_2036250409845792773'
+  - start: 294
+    end: 317
+    url: https://t.co/eq36Ny4wsO
+    expanded_url: https://x.com/RedCollie1/status/2036251319745520121/video/1
+    display_url: pic.x.com/eq36Ny4wsO
+    media_key: '3_2036250804466921472'
+  mentions:
+  - start: 0
+    end: 12
+    username: Omarboucher
+    id: '25450704'
+attachments:
+  media_keys:
+  - '3_2036249376574808066'
+  - '3_2036250267247865856'
+  - '13_2036250409845792773'
+  - '3_2036250804466921472'
+media:
+- media_key: '3_2036249376574808066'
+  type: photo
+  width: 1000
+  height: 998
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEI2BPzaIAI6qHj.jpg
+- media_key: '3_2036250267247865856'
+  type: photo
+  width: 750
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEI21F0acAAv3J_.jpg
+- media_key: '13_2036250409845792773'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036250409845792773/img/3Omh3z2H7a40WIU7.jpg
+  duration_ms: 23023
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036250409845792773/vid/avc1/480x270/LhWVlb64h6BBZuoG.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036250409845792773/vid/avc1/640x360/S4PyIb0F56Lhwzv2.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036250409845792773/vid/avc1/1280x720/xk3z-QMNehc0Dpt3.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036250409845792773/pl/FudsPKoGg-VwFB6j.m3u8
+  public_metrics:
+    view_count: 393
+- media_key: '3_2036250804466921472'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEI3UXHasAAp8V_.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2036241656471490686'
+  text: '@RedCollie1 I am already subscribe Dr. Drew!'
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Brazil 2024, 2025 near Ipuacu. \nSix wire coils as an \"outer ring\" like\
+    \ in my new movie.\n3-phase power (three semi-circular shapes). \nCounter-spin\
+    \ outside (narrow zig-zag lines). \n3-phase spin inside (triangular shape). \n\
+    Big inner ring to represent a stainless-steel tube. \nEasy to see and understand!\
+    \ \U0001F6F8"

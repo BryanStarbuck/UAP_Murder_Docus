@@ -1,0 +1,101 @@
+id: '1954773142985150765'
+url: https://x.com/RedCollie1/status/1954773142985150765
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "It seems that I am on the right track to developing \"anti-gravity\", but still\
+  \ have one more difficult step to go! \nIf you study slide 1, which was the first\
+  \ great crop picture in history (1991), you can see that we should use 3-phase power\
+  \ to spin a  magnetic-top clockwise (top https://t.co/finiPDt0Zu"
+created_at: '2025-08-11T05:13:29.000Z'
+lang: en
+conversation_id: '1954773142985150765'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 973
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/finiPDt0Zu
+    expanded_url: https://x.com/RedCollie1/status/1954773142985150765/video/1
+    display_url: pic.x.com/finiPDt0Zu
+    media_key: '3_1954769569832468480'
+  - start: 279
+    end: 302
+    url: https://t.co/finiPDt0Zu
+    expanded_url: https://x.com/RedCollie1/status/1954773142985150765/video/1
+    display_url: pic.x.com/finiPDt0Zu
+    media_key: '13_1954769617718849536'
+attachments:
+  media_keys:
+  - '3_1954769569832468480'
+  - '13_1954769617718849536'
+media:
+- media_key: '3_1954769569832468480'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyC8kSObgAAWezg.jpg
+- media_key: '13_1954769617718849536'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1954769617718849536/img/DxkXtWN9NZMCfUdA.jpg
+  duration_ms: 58080
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954769617718849536/vid/avc1/480x270/rIeDfGBF7KTdMI43.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954769617718849536/vid/avc1/640x360/eVE8VCv_HGhCHPhF.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954769617718849536/vid/avc1/1280x720/EHv3ZDa-IFXveV2f.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1954769617718849536/pl/6rFcXZFmXyrfqpmV.m3u8
+  public_metrics:
+    view_count: 386
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "It seems that I am on the right track to developing \"anti-gravity\", but\
+    \ still have one more difficult step to go! \nIf you study slide 1, which was\
+    \ the first great crop picture in history (1991), you can see that we should use\
+    \ 3-phase power to spin a  magnetic-top clockwise (top center), then have it precess\
+    \ in the opposite direction anti-clockwise (lower right). \nNext in my recent\
+    \ lab movie 2, I could make a magnetic-top spin clockwise, but precess anti-clockwise\
+    \ in the opposite direction. Essentially the same thing.\nYet I still have to\
+    \ make that spinning, precessing magnet rise-up strongly (against the vacuum)\
+    \ with high rpm! Work is underway. \U0001F6F8"

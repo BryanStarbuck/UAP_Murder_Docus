@@ -1,0 +1,77 @@
+id: '2001552379276406833'
+url: https://x.com/RedCollie1/status/2001552379276406833
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@NeibergerJ42625 Because an English word message can easily be faked.
+
+  This novel, 4-symbol format had never been seen on Earth before (in our time), before
+  I solved it in 2019.
+
+  I call it "textpic" or ".tpc".
+
+  A teaching example is shown below (not the real message, greatly simplified). https://t.co/xOO7Hbn54I'
+created_at: '2025-12-18T07:17:28.000Z'
+lang: en
+conversation_id: '2001232388878426551'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 156
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: NeibergerJ42625
+    id: '1920156286991446016'
+  urls:
+  - start: 286
+    end: 309
+    url: https://t.co/xOO7Hbn54I
+    expanded_url: https://x.com/RedCollie1/status/2001552379276406833/photo/1
+    display_url: pic.x.com/xOO7Hbn54I
+    media_key: '3_2001552270648094720'
+attachments:
+  media_keys:
+  - '3_2001552270648094720'
+media:
+- media_key: '3_2001552270648094720'
+  type: photo
+  width: 700
+  height: 525
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8bxL3tbMAAGfJs.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2001415752822460584'
+  text: '@RedCollie1 Why would an advanced race that knows English encode it into
+    ASCII first and then represent it in a four symbol code rather than just using
+    English since they clearly know it? That''s not efficient at all.'
+has_video: false
+has_image: true
+media_count: 1

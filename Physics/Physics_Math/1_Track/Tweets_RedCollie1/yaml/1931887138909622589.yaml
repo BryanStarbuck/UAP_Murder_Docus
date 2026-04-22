@@ -1,0 +1,86 @@
+id: '1931887138909622589'
+url: https://x.com/RedCollie1/status/1931887138909622589
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Explosion? 💥💥💥 https://t.co/iLIe7a0sAP
+created_at: '2025-06-09T01:32:41.000Z'
+lang: en
+conversation_id: '1931887138909622589'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 80
+  reply_count: 57
+  like_count: 460
+  quote_count: 8
+  bookmark_count: 140
+  impression_count: 38881
+entities:
+  urls:
+  - start: 15
+    end: 38
+    url: https://t.co/iLIe7a0sAP
+    expanded_url: https://x.com/RedCollie1/status/1931887138909622589/photo/1
+    display_url: pic.x.com/iLIe7a0sAP
+    media_key: '3_1931886991475699712'
+  - start: 15
+    end: 38
+    url: https://t.co/iLIe7a0sAP
+    expanded_url: https://x.com/RedCollie1/status/1931887138909622589/photo/1
+    display_url: pic.x.com/iLIe7a0sAP
+    media_key: '3_1931887003492302848'
+  - start: 15
+    end: 38
+    url: https://t.co/iLIe7a0sAP
+    expanded_url: https://x.com/RedCollie1/status/1931887138909622589/photo/1
+    display_url: pic.x.com/iLIe7a0sAP
+    media_key: '3_1931887019803942912'
+attachments:
+  media_keys:
+  - '3_1931886991475699712'
+  - '3_1931887003492302848'
+  - '3_1931887019803942912'
+media:
+- media_key: '3_1931886991475699712'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs9w-7EbcAApnvO.jpg
+- media_key: '3_1931887003492302848'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs9w_n1aQAAZ-y7.jpg
+- media_key: '3_1931887019803942912'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs9xAkmaIAALdiR.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

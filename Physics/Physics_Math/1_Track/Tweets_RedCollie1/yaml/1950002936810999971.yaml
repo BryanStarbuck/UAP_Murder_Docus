@@ -1,0 +1,83 @@
+id: '1950002936810999971'
+url: https://x.com/RedCollie1/status/1950002936810999971
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 3I/ATLAS https://t.co/Xq7m9yZVVg
+created_at: '2025-07-29T01:18:24.000Z'
+lang: en
+conversation_id: '1950002702391406849'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1988
+entities:
+  urls:
+  - start: 9
+    end: 32
+    url: https://t.co/Xq7m9yZVVg
+    expanded_url: https://x.com/RedCollie1/status/1950002936810999971/video/1
+    display_url: pic.x.com/Xq7m9yZVVg
+    media_key: '13_1950002872260935680'
+attachments:
+  media_keys:
+  - '13_1950002872260935680'
+media:
+- media_key: '13_1950002872260935680'
+  type: video
+  width: 1500
+  height: 1068
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1950002872260935680/img/9Ss9azpERU7039PK.jpg
+  duration_ms: 4150
+  variants:
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950002872260935680/vid/avc1/504x360/Jzk0lTl9UFVxkDZ_.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950002872260935680/vid/avc1/378x270/xU9BX-kCAiNdr4XU.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950002872260935680/vid/avc1/1010x720/vdRcftzfKepiHPP3.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950002872260935680/vid/avc1/1500x1068/g0mfvNuLU8hmMb-g.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1950002872260935680/pl/J-IH2J2XLK7oFlvn.m3u8
+  public_metrics:
+    view_count: 1149
+referenced_tweets:
+- type: replied_to
+  id: '1950002702391406849'
+  text: 'Elon knows. DARK FOREST
+
+    Of course he must know, being CEO of Space X. https://t.co/djsM4tiGKa'
+has_video: true
+has_image: false
+media_count: 1

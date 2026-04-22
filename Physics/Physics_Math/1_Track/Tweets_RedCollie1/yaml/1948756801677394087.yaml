@@ -1,0 +1,66 @@
+id: '1948756801677394087'
+url: https://x.com/RedCollie1/status/1948756801677394087
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Hint: slide 6. https://t.co/HPoBryclhs'
+created_at: '2025-07-25T14:46:42.000Z'
+lang: en
+conversation_id: '1948751934678335661'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1317
+entities:
+  urls:
+  - start: 15
+    end: 38
+    url: https://t.co/HPoBryclhs
+    expanded_url: https://x.com/RedCollie1/status/1948756801677394087/photo/1
+    display_url: pic.x.com/HPoBryclhs
+    media_key: '3_1948756746367062016'
+attachments:
+  media_keys:
+  - '3_1948756746367062016'
+media:
+- media_key: '3_1948756746367062016'
+  type: photo
+  width: 1000
+  height: 662
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gwtf75Ta0AAECGZ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1948751934678335661'
+  text: "TEACHING EXERCISE: to understand what a new crop picture in Germany means\
+    \ (slide 1), you need to take into account five other informative images, and\
+    \ know what they all mean. \nThree of those images are shown in the main post\
+    \ (slides 2, 3, 4), while two others are shown in the https://t.co/voO7RnQj8F"
+has_video: false
+has_image: true
+media_count: 1

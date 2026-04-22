@@ -1,0 +1,109 @@
+id: '2017881713154883946'
+url: https://x.com/RedCollie1/status/2017881713154883946
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @OpenKultur1 Please feel free to inform other interested inventors if\
+  \ you wish, this is \"open source\" and not \"patented\"? \nWe plan to test various\
+  \ counter-rotating flywheels soon, using 12 small outer wire-coils arranged in a\
+  \ large ring to make then spin.\nSuch spin by 3-phase power can be https://t.co/2W7VIQZbzb"
+created_at: '2026-02-01T08:44:25.000Z'
+lang: en
+conversation_id: '2017453696750334151'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 198
+entities:
+  urls:
+  - start: 296
+    end: 319
+    url: https://t.co/2W7VIQZbzb
+    expanded_url: https://x.com/RedCollie1/status/2017881713154883946/video/1
+    display_url: pic.x.com/2W7VIQZbzb
+    media_key: '13_2017880327830872064'
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: OpenKultur1
+    id: '486435378'
+attachments:
+  media_keys:
+  - '13_2017880327830872064'
+media:
+- media_key: '13_2017880327830872064'
+  type: video
+  width: 1280
+  height: 1620
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2017880327830872064/img/_m1yAsgbGSp1m0Lx.jpg
+  duration_ms: 15185
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017880327830872064/vid/avc1/1280x1620/H7iXoROSRwE_wwDI.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017880327830872064/vid/avc1/320x404/pNIhA7DSa2EHoaPV.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017880327830872064/vid/avc1/720x910/MJsx9Hdn5W5TDp8E.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2017880327830872064/pl/jciVurwec04h_7QR.m3u8
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017880327830872064/vid/avc1/480x606/OwG0u-pdOCXv8Wm-.mp4
+  public_metrics:
+    view_count: 111
+referenced_tweets:
+- type: replied_to
+  id: '2017877274792526089'
+  text: '@RedCollie1 @OpenKultur1 Fascinating progress! For your counter-rotating
+    flywheel idea, consider offsetting the outer flywheel''s axis slightly to induce
+    precession, potentially redirecting the reaction force asymmetrically (inspired
+    by gyroscopic torque studies in Phys. Rev. Lett.). Simulating via FEM'
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Please feel free to inform other interested inventors if you wish, this is\
+    \ \"open source\" and not \"patented\"? \nWe plan to test various counter-rotating\
+    \ flywheels soon, using 12 small outer wire-coils arranged in a large ring to\
+    \ make then spin.\nSuch spin by 3-phase power can be either \"with\" or \"against\"\
+    \ the spinning direction of a 3-phase applied  magnetic field, depending on how\
+    \ we arrange the small rotor magnets. \nMany videos of \"mystery drones\" (seen\
+    \ for example over New Jersey in December 2024) show this fast-spinning, \"outer\
+    \ flywheel\" effect, with one set of triangular lights (3-phase wire coils?) placed\
+    \ on each end.\nUnfortunately, such amateur videos do not show enough details\
+    \ to deduce a complete understanding of how they fly. \nThose advanced, mystery\
+    \ drones are widely speculated to be of alien origin. Hence these videos may be\
+    \ informative concerning UFO propulsion."

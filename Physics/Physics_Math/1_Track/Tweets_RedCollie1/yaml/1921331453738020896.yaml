@@ -1,0 +1,75 @@
+id: '1921331453738020896'
+url: https://x.com/RedCollie1/status/1921331453738020896
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Mainstream physics 2022: “Magnets should not hover when they are close together.”
+  Yet akin to what Galileo said in 1600:”Still they hover!” You would have to be really
+  dumb to follow mainstream physics now, and what they force students to learn in
+  the schools. 🤡 https://t.co/8VpJBMPBbi'
+created_at: '2025-05-10T22:28:09.000Z'
+lang: en
+conversation_id: '1921331453738020896'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 12
+  like_count: 51
+  quote_count: 3
+  bookmark_count: 14
+  impression_count: 3628
+entities:
+  urls:
+  - start: 263
+    end: 286
+    url: https://t.co/8VpJBMPBbi
+    expanded_url: https://x.com/RedCollie1/status/1921331453738020896/video/1
+    display_url: pic.x.com/8VpJBMPBbi
+    media_key: '13_1921331159574708224'
+attachments:
+  media_keys:
+  - '13_1921331159574708224'
+media:
+- media_key: '13_1921331159574708224'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1921331159574708224/img/0Gg8c3OcGtp9IwHe.jpg
+  duration_ms: 285009
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1921331159574708224/vid/avc1/480x270/wYTSd1NqZdtVDtsG.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1921331159574708224/vid/avc1/640x360/B-DwqER6c-d_AtTp.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1921331159574708224/pl/8nCs0sxwR_gtYzz6.m3u8
+  public_metrics:
+    view_count: 1941
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

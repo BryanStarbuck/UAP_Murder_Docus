@@ -1,0 +1,107 @@
+id: '2021965586583236767'
+url: https://x.com/RedCollie1/status/2021965586583236767
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @Omarboucher Ask your A.I. creators to study this alien 4 symbol code\
+  \ and Rodney's reverse engineering. \nIt will also provide a new method of encryption\
+  \ that can defy near-future quantum computers. \nThe US DOD already have these codes,\
+  \ since they visited Jeremy Weeks twice at his home, but https://t.co/bc1lb1COeg"
+created_at: '2026-02-12T15:12:16.000Z'
+lang: en
+conversation_id: '2021692098093752745'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 4
+  like_count: 9
+  quote_count: 1
+  bookmark_count: 3
+  impression_count: 1794
+entities:
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: Omarboucher
+    id: '25450704'
+  urls:
+  - start: 297
+    end: 320
+    url: https://t.co/bc1lb1COeg
+    expanded_url: https://x.com/RedCollie1/status/2021965586583236767/photo/1
+    display_url: pic.x.com/bc1lb1COeg
+    media_key: '3_2021964395862220800'
+  - start: 297
+    end: 320
+    url: https://t.co/bc1lb1COeg
+    expanded_url: https://x.com/RedCollie1/status/2021965586583236767/photo/1
+    display_url: pic.x.com/bc1lb1COeg
+    media_key: '3_2021964693221572608'
+attachments:
+  media_keys:
+  - '3_2021964395862220800'
+  - '3_2021964693221572608'
+media:
+- media_key: '3_2021964395862220800'
+  type: photo
+  width: 960
+  height: 707
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA9157va4AAM8IB.jpg
+- media_key: '3_2021964693221572608'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA92LPfagAAU62Y.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2021963399672774784'
+  text: '@RedCollie1 @Omarboucher Agreed—emulation in binary can mimic quaternary
+    logic, but native hardware would unlock efficiency gains in density and power,
+    akin to DNA''s base-4 advantages. Transitioning chips to multi-state logic (e.g.,
+    via memristors or quantum bits) is a promising path. If Rodney''s code is'
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Ask your A.I. creators to study this alien 4 symbol code and Rodney's reverse\
+    \ engineering. \nIt will also provide a new method of encryption that can defy\
+    \ near-future quantum computers. \nThe US DOD already have these codes, since\
+    \ they visited Jeremy Weeks twice at his home, but are not releasing them to the\
+    \ public. \nLuis Elizondo's book on UFOs is titled \"Imminent\" which was the\
+    \ first word given to \"CJ\" in 2015. \nThey all know, but are not sharing such\
+    \ valuable information with the public. \n“Triple binary code Encode and Decode\
+    \ tool”\nhttps://t.co/XyH0rbVbL8"
+  entities:
+    urls:
+    - start: 539
+      end: 562
+      url: https://t.co/XyH0rbVbL8
+      expanded_url: https://www.youtube.com/watch?v=_OBkZJrGGz4
+      display_url: youtube.com/watch?v=_OBkZJ…

@@ -1,0 +1,86 @@
+id: '1991669131113033798'
+url: https://x.com/RedCollie1/status/1991669131113033798
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@TechSoulGeeta Those MAVEN images were also "pixelated" to hide something.
+  Just like the James Webb images from two months ago. This has nothing to do with
+  "cosmic rays". https://t.co/6hMdnG6xOI'
+created_at: '2025-11-21T00:44:58.000Z'
+lang: en
+conversation_id: '1991627593339269408'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 1
+  like_count: 15
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 7379
+entities:
+  urls:
+  - start: 171
+    end: 194
+    url: https://t.co/6hMdnG6xOI
+    expanded_url: https://x.com/RedCollie1/status/1991669131113033798/photo/1
+    display_url: pic.x.com/6hMdnG6xOI
+    media_key: '3_1991668742259171328'
+  - start: 171
+    end: 194
+    url: https://t.co/6hMdnG6xOI
+    expanded_url: https://x.com/RedCollie1/status/1991669131113033798/photo/1
+    display_url: pic.x.com/6hMdnG6xOI
+    media_key: '3_1991668914728890372'
+  mentions:
+  - start: 0
+    end: 14
+    username: TechSoulGeeta
+    id: '1361674300332273671'
+attachments:
+  media_keys:
+  - '3_1991668742259171328'
+  - '3_1991668914728890372'
+media:
+- media_key: '3_1991668742259171328'
+  type: photo
+  width: 3874
+  height: 3999
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6PUKzSbYAA5dEw.jpg
+- media_key: '3_1991668914728890372'
+  type: photo
+  width: 943
+  height: 659
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6PUU1yacAQKbkv.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1991640736308359635'
+  text: '@RedCollie1 @RedCollie1 Interesting analysis! The speckled patterns in MAVEN''s
+    UV image of 3I/ATLAS could be due to cosmic ray hits or sensor noise, common in
+    low-light space imaging (see NASA’s MAVEN IUVS docs). NASA doesn’t claim the coma
+    fills the entire field HiRISE/MAVEN data shows a'
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,85 @@
+id: '1948915087441600660'
+url: https://x.com/RedCollie1/status/1948915087441600660
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: First Mars, then? 3I/ATLAS https://t.co/SQd9dIwXeg
+created_at: '2025-07-26T01:15:40.000Z'
+lang: en
+conversation_id: '1948909284542349707'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 32
+  reply_count: 9
+  like_count: 168
+  quote_count: 4
+  bookmark_count: 80
+  impression_count: 22444
+entities:
+  urls:
+  - start: 27
+    end: 50
+    url: https://t.co/SQd9dIwXeg
+    expanded_url: https://x.com/RedCollie1/status/1948915087441600660/video/1
+    display_url: pic.x.com/SQd9dIwXeg
+    media_key: '13_1948914967396450309'
+attachments:
+  media_keys:
+  - '13_1948914967396450309'
+media:
+- media_key: '13_1948914967396450309'
+  type: video
+  width: 1200
+  height: 1136
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1948914967396450309/img/DZK0Msxx_feAovXs.jpg
+  duration_ms: 22916
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1948914967396450309/vid/avc1/284x270/ipM8EijtM8t0Z7Sj.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1948914967396450309/vid/avc1/380x360/HYdk3GypDaEo6Etb.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1948914967396450309/pl/esaZFRv6q1esXv2O.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1948914967396450309/vid/avc1/760x720/nARPRA__tcN8BnAf.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1948914967396450309/vid/avc1/1200x1136/Kcj2M0bBA5pyyT6t.mp4
+  public_metrics:
+    view_count: 19404
+referenced_tweets:
+- type: replied_to
+  id: '1948909284542349707'
+  text: 'We were warned about a "space vessel threat" back in 2016 by the Emerthers,
+    a friendly E.T. race who are opposed to certain enemy "grey aliens" (slide 1).
+
+    "Embrace this space-vessel threat. Imminent threat soon to Earth''s leaders and
+    civilizations. Evolutionary advancement needed https://t.co/imlkEtCkE3'
+has_video: true
+has_image: false
+media_count: 1

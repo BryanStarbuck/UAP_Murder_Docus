@@ -1,0 +1,106 @@
+id: '2029822286375870895'
+url: https://x.com/RedCollie1/status/2029822286375870895
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Drawn in crops 2007/2014, six big wire coils outside, two rings inside which
+  spin and counter-spin. https://t.co/SuSFASr81r
+created_at: '2026-03-06T07:32:00.000Z'
+lang: en
+conversation_id: '2029818904512811019'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 0
+  like_count: 12
+  quote_count: 0
+  bookmark_count: 5
+  impression_count: 1087
+entities:
+  urls:
+  - start: 100
+    end: 123
+    url: https://t.co/SuSFASr81r
+    expanded_url: https://x.com/RedCollie1/status/2029822286375870895/photo/1
+    display_url: pic.x.com/SuSFASr81r
+    media_key: '3_2029822130049966080'
+  - start: 100
+    end: 123
+    url: https://t.co/SuSFASr81r
+    expanded_url: https://x.com/RedCollie1/status/2029822286375870895/photo/1
+    display_url: pic.x.com/SuSFASr81r
+    media_key: '3_2029822162752917507'
+  - start: 100
+    end: 123
+    url: https://t.co/SuSFASr81r
+    expanded_url: https://x.com/RedCollie1/status/2029822286375870895/photo/1
+    display_url: pic.x.com/SuSFASr81r
+    media_key: '3_2029822193681727488'
+  - start: 100
+    end: 123
+    url: https://t.co/SuSFASr81r
+    expanded_url: https://x.com/RedCollie1/status/2029822286375870895/photo/1
+    display_url: pic.x.com/SuSFASr81r
+    media_key: '3_2029822276758294528'
+attachments:
+  media_keys:
+  - '3_2029822130049966080'
+  - '3_2029822162752917507'
+  - '3_2029822193681727488'
+  - '3_2029822276758294528'
+media:
+- media_key: '3_2029822130049966080'
+  type: photo
+  width: 972
+  height: 947
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCtgeQra4AA-5NS.jpg
+- media_key: '3_2029822162752917507'
+  type: photo
+  width: 960
+  height: 747
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCtggKgaUAMwcy5.jpg
+- media_key: '3_2029822193681727488'
+  type: photo
+  width: 2582
+  height: 2475
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCtgh9uagAAHS18.jpg
+- media_key: '3_2029822276758294528'
+  type: photo
+  width: 1000
+  height: 909
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCtgmzNaUAABUtl.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2029818904512811019'
+  text: "This new video explains how to make \"Prototype One\" of a simple device,\
+    \ which may recreate UFO physics. \nIt generates a special kind of magnetic spin\
+    \ and counter-spin, that has never been seen before, but which is supposedly the\
+    \ underlying source of UFO physics, according to many https://t.co/N36k5sfnaT"
+has_video: false
+has_image: true
+media_count: 4

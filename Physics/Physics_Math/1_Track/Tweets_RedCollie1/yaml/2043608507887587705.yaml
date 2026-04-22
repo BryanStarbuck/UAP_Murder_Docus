@@ -1,0 +1,128 @@
+id: '2043608507887587705'
+url: https://x.com/RedCollie1/status/2043608507887587705
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'We may almost be there! Can a novel up-and-down spin-motion. discovered in
+  my lab today (never seen before on Earth), release gravitational energy in pulses?
+
+  What I did in the lab today (movie 1) seems to match two famous crop pictures (from
+  2012) shown in slides 2, 3 and 4.
+
+  This https://t.co/LlHjLSYsgf'
+created_at: '2026-04-13T08:33:31.000Z'
+lang: en
+conversation_id: '2043608507887587705'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 3
+  like_count: 63
+  quote_count: 1
+  bookmark_count: 12
+  impression_count: 2130
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/LlHjLSYsgf
+    expanded_url: https://x.com/RedCollie1/status/2043608507887587705/video/1
+    display_url: pic.x.com/LlHjLSYsgf
+    media_key: '13_2043606527630786560'
+  - start: 281
+    end: 304
+    url: https://t.co/LlHjLSYsgf
+    expanded_url: https://x.com/RedCollie1/status/2043608507887587705/video/1
+    display_url: pic.x.com/LlHjLSYsgf
+    media_key: '3_2043606552859590656'
+  - start: 281
+    end: 304
+    url: https://t.co/LlHjLSYsgf
+    expanded_url: https://x.com/RedCollie1/status/2043608507887587705/video/1
+    display_url: pic.x.com/LlHjLSYsgf
+    media_key: '3_2043606571452895232'
+  - start: 281
+    end: 304
+    url: https://t.co/LlHjLSYsgf
+    expanded_url: https://x.com/RedCollie1/status/2043608507887587705/video/1
+    display_url: pic.x.com/LlHjLSYsgf
+    media_key: '3_2043606594374799360'
+attachments:
+  media_keys:
+  - '13_2043606527630786560'
+  - '3_2043606552859590656'
+  - '3_2043606571452895232'
+  - '3_2043606594374799360'
+media:
+- media_key: '13_2043606527630786560'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2043606527630786560/img/iNwJSD4-9U6pXWxO.jpg
+  duration_ms: 108908
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043606527630786560/vid/avc1/480x270/bGy1GeKTrI-HuNWS.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043606527630786560/vid/avc1/640x360/Cua8vHtuKvrZgsBY.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2043606527630786560/vid/avc1/1280x720/qCelPb8hWrMegUFQ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2043606527630786560/pl/kRRfBnVbwrpfGPL2.m3u8?v=f12
+  public_metrics:
+    view_count: 1014
+- media_key: '3_2043606552859590656'
+  type: photo
+  width: 483
+  height: 580
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFxZVRPbQAAupTL.jpg
+- media_key: '3_2043606571452895232'
+  type: photo
+  width: 241
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFxZWWgakAA8q3R.png
+- media_key: '3_2043606594374799360'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFxZXr5bEAAiv60.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: 'We may almost be there! Can a novel up-and-down spin-motion. discovered in
+    my lab today (never seen before on Earth), release gravitational energy in pulses?
+
+    What I did in the lab today (movie 1) seems to match two famous crop pictures
+    (from 2012) shown in slides 2, 3 and 4.
+
+    This is an easily testable hypothesis, with major possible outcomes.😀🛸😀'

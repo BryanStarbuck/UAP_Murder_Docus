@@ -1,0 +1,108 @@
+id: '1985574679185408398'
+url: https://x.com/RedCollie1/status/1985574679185408398
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'IMAGINE THAT.
+
+  Learn to how understand alien messages.
+
+  With thanks to Canal Ideal and Michael O''Donnell. https://t.co/IN7M8XgKR4'
+created_at: '2025-11-04T05:07:48.000Z'
+lang: en
+conversation_id: '1985574679185408398'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 13
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1467
+entities:
+  urls:
+  - start: 104
+    end: 127
+    url: https://t.co/IN7M8XgKR4
+    expanded_url: https://x.com/RedCollie1/status/1985574679185408398/video/1
+    display_url: pic.x.com/IN7M8XgKR4
+    media_key: '3_1985574356219789312'
+  - start: 104
+    end: 127
+    url: https://t.co/IN7M8XgKR4
+    expanded_url: https://x.com/RedCollie1/status/1985574679185408398/video/1
+    display_url: pic.x.com/IN7M8XgKR4
+    media_key: '13_1985574379523321856'
+  - start: 104
+    end: 127
+    url: https://t.co/IN7M8XgKR4
+    expanded_url: https://x.com/RedCollie1/status/1985574679185408398/video/1
+    display_url: pic.x.com/IN7M8XgKR4
+    media_key: '3_1985574400612319232'
+attachments:
+  media_keys:
+  - '3_1985574356219789312'
+  - '13_1985574379523321856'
+  - '3_1985574400612319232'
+media:
+- media_key: '3_1985574356219789312'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/G44tW2GbAAA-oN6.jpg
+- media_key: '13_1985574379523321856'
+  type: video
+  width: 1280
+  height: 1046
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1985574379523321856/img/jrDWpktWz86f3CeU.jpg
+  duration_ms: 22144
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985574379523321856/vid/avc1/330x270/iIY8Fzs7-Zaa6pnn.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985574379523321856/vid/avc1/880x720/Gwq1FGxIIU6CS9P7.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1985574379523321856/pl/olIQRlLClcLh_Hv7.m3u8?v=cfc
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985574379523321856/vid/avc1/440x360/jMRdxqc6L873kkNG.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985574379523321856/vid/avc1/1280x1046/Bn55FWdmtvd3jrFN.mp4
+  public_metrics:
+    view_count: 709
+- media_key: '3_1985574400612319232'
+  type: photo
+  width: 750
+  height: 731
+  alt_text: null
+  url: https://pbs.twimg.com/media/G44tZbebQAAgTZn.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

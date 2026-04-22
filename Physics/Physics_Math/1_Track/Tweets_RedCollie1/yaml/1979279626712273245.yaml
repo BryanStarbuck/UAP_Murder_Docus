@@ -1,0 +1,86 @@
+id: '1979279626712273245'
+url: https://x.com/RedCollie1/status/1979279626712273245
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "3I/ATLAS come to town, doo dah, doo dah,\nAlien spaceship five miles long,\
+  \ oh, the doo dah dey! \nhttps://t.co/8RT2dI6V6X https://t.co/he9yigZ0VC"
+created_at: '2025-10-17T20:13:30.000Z'
+lang: en
+conversation_id: '1979279626712273245'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 47
+  reply_count: 39
+  like_count: 432
+  quote_count: 6
+  bookmark_count: 61
+  impression_count: 44315
+entities:
+  urls:
+  - start: 96
+    end: 119
+    url: https://t.co/8RT2dI6V6X
+    expanded_url: https://www.youtube.com/watch?v=fT4Olcnrerk
+    display_url: youtube.com/watch?v=fT4Olc…
+    status: 200
+    title: Camptown Races - The Countdown Kids | Kids Songs & Nursery Rhymes | Lyrics
+      Video
+    description: The Camptown ladies sing this song, doo-dah! doo-dah! Sing along
+      with The Countdown Kids to this classic folk song.🔔 Subscribe for fun kids songs
+      and nurser...
+    unwound_url: https://www.youtube.com/watch?v=fT4Olcnrerk
+  - start: 120
+    end: 143
+    url: https://t.co/he9yigZ0VC
+    expanded_url: https://x.com/RedCollie1/status/1979279626712273245/photo/1
+    display_url: pic.x.com/he9yigZ0VC
+    media_key: '3_1979278586881208320'
+  - start: 120
+    end: 143
+    url: https://t.co/he9yigZ0VC
+    expanded_url: https://x.com/RedCollie1/status/1979279626712273245/photo/1
+    display_url: pic.x.com/he9yigZ0VC
+    media_key: '3_1979278607496138752'
+attachments:
+  media_keys:
+  - '3_1979278586881208320'
+  - '3_1979278607496138752'
+media:
+- media_key: '3_1979278586881208320'
+  type: photo
+  width: 1200
+  height: 922
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3fPY1qXcAAJKTp.jpg
+- media_key: '3_1979278607496138752'
+  type: photo
+  width: 900
+  height: 458
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3fPaCdWUAA4Z38.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

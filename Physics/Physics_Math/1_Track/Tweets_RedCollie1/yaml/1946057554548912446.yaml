@@ -1,0 +1,172 @@
+id: '1946057554548912446'
+url: https://x.com/RedCollie1/status/1946057554548912446
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'TEACHING EXERCISE: We can see with our own eyes,  that a spinning top "rises
+  up" against downward gravity, as we increase its rate of spin (videos 1 and 2).
+
+  We can see a similar effect with a spinning disc-magnet (video 3). Yet as it lifts
+  off the ground, its connection to the https://t.co/iDMvkIX4Qp'
+created_at: '2025-07-18T04:00:51.000Z'
+lang: en
+conversation_id: '1946057554548912446'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 4
+  like_count: 24
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 3150
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/iDMvkIX4Qp
+    expanded_url: https://x.com/RedCollie1/status/1946057554548912446/video/1
+    display_url: pic.x.com/iDMvkIX4Qp
+    media_key: '13_1946055004315373569'
+  - start: 278
+    end: 301
+    url: https://t.co/iDMvkIX4Qp
+    expanded_url: https://x.com/RedCollie1/status/1946057554548912446/video/1
+    display_url: pic.x.com/iDMvkIX4Qp
+    media_key: '13_1946055062100271104'
+  - start: 278
+    end: 301
+    url: https://t.co/iDMvkIX4Qp
+    expanded_url: https://x.com/RedCollie1/status/1946057554548912446/video/1
+    display_url: pic.x.com/iDMvkIX4Qp
+    media_key: '13_1946055082283311104'
+  - start: 278
+    end: 301
+    url: https://t.co/iDMvkIX4Qp
+    expanded_url: https://x.com/RedCollie1/status/1946057554548912446/video/1
+    display_url: pic.x.com/iDMvkIX4Qp
+    media_key: '3_1946055108032163840'
+attachments:
+  media_keys:
+  - '13_1946055004315373569'
+  - '13_1946055062100271104'
+  - '13_1946055082283311104'
+  - '3_1946055108032163840'
+media:
+- media_key: '13_1946055004315373569'
+  type: video
+  width: 1280
+  height: 990
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1946055004315373569/img/kaLOSwyV4oOGWmD0.jpg
+  duration_ms: 7174
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055004315373569/vid/avc1/1280x990/kSFMMV5rOKT7CQNg.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055004315373569/vid/avc1/930x720/Vx3QRjk_8Gre6PkV.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1946055004315373569/pl/quPSksCH35TPcPtK.m3u8
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055004315373569/vid/avc1/348x270/cu_nbYs7MOe0wD9v.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055004315373569/vid/avc1/464x360/ZC-pDhhinWr4U_Z5.mp4
+  public_metrics:
+    view_count: 816
+- media_key: '13_1946055062100271104'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1946055062100271104/img/x-Q1zNBYyy7kymw3.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055062100271104/vid/avc1/480x270/aUXXn2yaFTkITqFM.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055062100271104/vid/avc1/640x360/40-U_rytKBXUdQfb.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055062100271104/vid/avc1/1280x720/5WgFXfosM1vinb4Q.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1946055062100271104/pl/IFzkSXuEE5falbpA.m3u8
+  public_metrics:
+    view_count: 313
+- media_key: '13_1946055082283311104'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1946055082283311104/img/lDJt9EVurz2QsUAg.jpg
+  duration_ms: 23123
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055082283311104/vid/avc1/480x270/ObNVidNT6VITEuKr.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055082283311104/vid/avc1/640x360/4A0FiyOt0ClJh9AX.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1946055082283311104/vid/avc1/1280x720/VDcDgHSDsIf3obtR.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1946055082283311104/pl/CebQYHNiz0-y93bJ.m3u8
+  public_metrics:
+    view_count: 214
+- media_key: '3_1946055108032163840'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GwHGz2OXcAA6Uxd.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "TEACHING EXERCISE: We can see with our own eyes,  that a spinning top \"\
+    rises up\" against downward gravity, as we increase its rate of spin (videos 1\
+    \ and 2).\nWe can see a similar effect with a spinning disc-magnet (video 3).\
+    \ Yet as it lifts off the ground, its connection to the lower device becomes unstable,\
+    \ and it flies off.\nIf we wish to make this easily-seen, indisputable, anti-gravity\
+    \ force useful for UFO or orb-sphere \"levitation\", we need to do two things\
+    \ in a technical sense.\nFirstly, allow for almost-frictionless rotation about\
+    \ two separate axes: namely an upper axis of magnetic spin, and a lower axis of\
+    \ precession. \nSecondly, as the spinning disc-magnet rises up against gravity,\
+    \ we need to somehow \"hold it down\" without much friction, thereby allowing\
+    \ it to \"pull up\" the entire craft. \nBoth of those requirements were drawn\
+    \ in the first great crop picture from 1991 near Barbury Castle (slide 4). \n\
+    I am trying to make this great technical advance all by myself, on a somewhat\
+    \ backward world, where all they can understand is \"rockets\". \U0001F680\U0001F6F8\
+    \nThat can explode under your feet! Fun, fun, fun. \nIn summary, we should be\
+    \ able to get a powerful anti-gravity force during the \"transition\" between\
+    \ low rpm and high rpm, as the axis of precession\" becomes more vertical. \n\
+    Does everyone understand? Not in textbooks. Don't waste your time looking there.\
+    \ \nYOU CAN SEE IT, BUT THE GREAT \"HERR DOCTEUR PROFESSORS\" DO NOT KNOW \U0001F921\
+    \n\"In science, you have to know what you are doing\" (Max Perutz)"

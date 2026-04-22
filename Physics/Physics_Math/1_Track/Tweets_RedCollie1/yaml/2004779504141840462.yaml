@@ -1,0 +1,103 @@
+id: '2004779504141840462'
+url: https://x.com/RedCollie1/status/2004779504141840462
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The homopolar motor / Corbino disc as drawn in crops.
+
+  Part of UFO propulsion. https://t.co/IDtEtv3ABK'
+created_at: '2025-12-27T05:00:55.000Z'
+lang: en
+conversation_id: '2004779504141840462'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 2
+  like_count: 39
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 1991
+entities:
+  urls:
+  - start: 78
+    end: 101
+    url: https://t.co/IDtEtv3ABK
+    expanded_url: https://x.com/RedCollie1/status/2004779504141840462/video/1
+    display_url: pic.x.com/IDtEtv3ABK
+    media_key: '13_2004779233978318855'
+  - start: 78
+    end: 101
+    url: https://t.co/IDtEtv3ABK
+    expanded_url: https://x.com/RedCollie1/status/2004779504141840462/video/1
+    display_url: pic.x.com/IDtEtv3ABK
+    media_key: '3_2004779265301377024'
+  - start: 78
+    end: 101
+    url: https://t.co/IDtEtv3ABK
+    expanded_url: https://x.com/RedCollie1/status/2004779504141840462/video/1
+    display_url: pic.x.com/IDtEtv3ABK
+    media_key: '3_2004779291746435072'
+attachments:
+  media_keys:
+  - '13_2004779233978318855'
+  - '3_2004779265301377024'
+  - '3_2004779291746435072'
+media:
+- media_key: '13_2004779233978318855'
+  type: video
+  width: 960
+  height: 750
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2004779233978318855/img/mCQJ20vKVVzL8-jT.jpg
+  duration_ms: 10110
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2004779233978318855/vid/avc1/344x270/M33zYwCHxsaOpkzr.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2004779233978318855/vid/avc1/460x360/EeY89qNZz-OWgCRx.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2004779233978318855/vid/avc1/960x750/vkJ_cSdH2iZPTcZG.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2004779233978318855/pl/YpvPe5hkyKO56_wu.m3u8
+  public_metrics:
+    view_count: 1092
+- media_key: '3_2004779265301377024'
+  type: photo
+  width: 960
+  height: 923
+  alt_text: null
+  url: https://pbs.twimg.com/media/G9JoHrlbcAAbD7a.jpg
+- media_key: '3_2004779291746435072'
+  type: photo
+  width: 598
+  height: 615
+  alt_text: null
+  url: https://pbs.twimg.com/media/G9JoJOGbAAA9fuA.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

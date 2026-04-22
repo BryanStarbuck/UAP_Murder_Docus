@@ -1,0 +1,154 @@
+id: '1956114001387250141'
+url: https://x.com/RedCollie1/status/1956114001387250141
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Slide 1 shows a brief summary of the experimental findings by Eric Laithwaite
+  (1974) on gyroscopic spin, precession, downward gravity and "anti-gravity".
+
+  Videos 2 and 3 show such effects so clearly, that even a high-school student can
+  understand.
+
+  Slide 4 summarizes another video https://t.co/3OarYD4kGH'
+created_at: '2025-08-14T22:01:35.000Z'
+lang: en
+conversation_id: '1956114001387250141'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 6
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1064
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/3OarYD4kGH
+    expanded_url: https://x.com/RedCollie1/status/1956114001387250141/video/1
+    display_url: pic.x.com/3OarYD4kGH
+    media_key: '3_1956109882509418499'
+  - start: 280
+    end: 303
+    url: https://t.co/3OarYD4kGH
+    expanded_url: https://x.com/RedCollie1/status/1956114001387250141/video/1
+    display_url: pic.x.com/3OarYD4kGH
+    media_key: '13_1956109900087746561'
+  - start: 280
+    end: 303
+    url: https://t.co/3OarYD4kGH
+    expanded_url: https://x.com/RedCollie1/status/1956114001387250141/video/1
+    display_url: pic.x.com/3OarYD4kGH
+    media_key: '13_1956109917850624000'
+  - start: 280
+    end: 303
+    url: https://t.co/3OarYD4kGH
+    expanded_url: https://x.com/RedCollie1/status/1956114001387250141/video/1
+    display_url: pic.x.com/3OarYD4kGH
+    media_key: '3_1956109941007339520'
+attachments:
+  media_keys:
+  - '3_1956109882509418499'
+  - '13_1956109900087746561'
+  - '13_1956109917850624000'
+  - '3_1956109941007339520'
+media:
+- media_key: '3_1956109882509418499'
+  type: photo
+  width: 1000
+  height: 1314
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyV_kwCa4AMTV5u.jpg
+- media_key: '13_1956109900087746561'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956109900087746561/img/Lw9Gf2IyR0HNQyNC.jpg
+  duration_ms: 39100
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109900087746561/vid/avc1/360x270/UXZdkagHVsPhEHYd.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109900087746561/vid/avc1/480x360/D_rsEhDa5xs8ZNeU.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109900087746561/vid/avc1/640x480/E6MozB7ej6vJ6pbz.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956109900087746561/pl/GWzyvZ-6X5NJPkHW.m3u8
+  public_metrics:
+    view_count: 379
+- media_key: '13_1956109917850624000'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1956109917850624000/img/lli7Xs0-2MWk5Zdt.jpg
+  duration_ms: 25600
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109917850624000/vid/avc1/360x270/LR8-xFDm6xBapLLQ.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109917850624000/vid/avc1/480x360/MGM1YHi6KTkATn1r.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1956109917850624000/vid/avc1/640x480/mLBLIxCgF1kIFGHl.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1956109917850624000/pl/BPflCQlggIniuv4l.m3u8
+  public_metrics:
+    view_count: 54
+- media_key: '3_1956109941007339520'
+  type: photo
+  width: 1000
+  height: 1586
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyV_oJ9aUAA9CBA.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Slide 1 shows a brief summary of the experimental findings by Eric Laithwaite\
+    \ (1974) on gyroscopic spin, precession, downward gravity and \"anti-gravity\"\
+    .\nVideos 2 and 3 show such effects so clearly, that even a high-school student\
+    \ can understand.\nSlide 4 summarizes another video shown elsewhere on this page.\
+    \ \nWhy did the Cambridge academics revile Eric Laithwaite for such clear, obvious\
+    \ findings? \nWhy did biologists in the 19th century ignore Gregor Mendel?\nWhy\
+    \ did geologists ridicule Alfred Wegener in the 1950s, before Fred Vine?\nWhy\
+    \ did medical doctors ridicule Ignaz Semmelweis in the 19th century, even when\
+    \ many women were dying of infections during childbirth?\nWhat is \"dogmatism\"\
+    ? \nEric Laithwaite's work did not solve the problem of UFO levitation per se,\
+    \ but it did draw our attention to some interesting physical correlations!\nI\
+    \ only learned about this subject, after many dozens of \"instructional physics\"\
+    \ crop pictures were drawn to bring it to our attention, from 1991 to 2024. \n\
+    So I am working to find the solution, and build a small working model, in my private\
+    \ lab at my own expense.\nThe blind will see, while those who believe they can\
+    \ already see, will remain blind. \U0001F6F8\nModern physics is burying itself\
+    \ in a deep grave, from which its textbook theories (which deny the existence\
+    \ of UFOs) will never recover.\U0001F600"

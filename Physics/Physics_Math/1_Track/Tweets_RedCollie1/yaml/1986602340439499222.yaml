@@ -1,0 +1,80 @@
+id: '1986602340439499222'
+url: https://x.com/RedCollie1/status/1986602340439499222
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The central spinning magnet can wobble off-axis slightly, just as drawn in crops
+  England 2020 (Ashmore Down). 🛸 https://t.co/EH654WJoAC
+created_at: '2025-11-07T01:11:21.000Z'
+lang: en
+conversation_id: '1986374447021060386'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 955
+entities:
+  urls:
+  - start: 112
+    end: 135
+    url: https://t.co/EH654WJoAC
+    expanded_url: https://x.com/RedCollie1/status/1986602340439499222/photo/1
+    display_url: pic.x.com/EH654WJoAC
+    media_key: '3_1986601990403858434'
+  - start: 112
+    end: 135
+    url: https://t.co/EH654WJoAC
+    expanded_url: https://x.com/RedCollie1/status/1986602340439499222/photo/1
+    display_url: pic.x.com/EH654WJoAC
+    media_key: '3_1986602269895499782'
+attachments:
+  media_keys:
+  - '3_1986601990403858434'
+  - '3_1986602269895499782'
+media:
+- media_key: '3_1986601990403858434'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5HT_BwbIAIw6_D.jpg
+- media_key: '3_1986602269895499782'
+  type: photo
+  width: 941
+  height: 900
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5HUPS8bIAYiLDI.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1986374447021060386'
+  text: "Here js an AMAZING DETAIL of the new crop picture in Brazil on November 3,\
+    \ 2025. \nIts central circle is offset very slightly, in a direction where that\
+    \ image of an \"alien man\" in the landscape, intends to \"walk on the Earth\"\
+    . \nIncredible planning and precision! https://t.co/aGjgaO2Qme"
+has_video: false
+has_image: true
+media_count: 2

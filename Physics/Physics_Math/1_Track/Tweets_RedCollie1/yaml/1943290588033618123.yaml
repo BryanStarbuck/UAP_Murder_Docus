@@ -1,0 +1,84 @@
+id: '1943290588033618123'
+url: https://x.com/RedCollie1/status/1943290588033618123
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"Flying serpent looks into the lens of a digital camera\" \nWho could it be?\
+  \ \U0001F605\U0001F602\U0001F923\nThose three thin lines match three telephone poles\
+  \ on the other side of the crop picture (see another photo posted above). https://t.co/6YlTFdvilg"
+created_at: '2025-07-10T12:45:55.000Z'
+lang: en
+conversation_id: '1943252552231092725'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 7
+  reply_count: 7
+  like_count: 43
+  quote_count: 1
+  bookmark_count: 13
+  impression_count: 2709
+entities:
+  urls:
+  - start: 202
+    end: 225
+    url: https://t.co/6YlTFdvilg
+    expanded_url: https://x.com/RedCollie1/status/1943290588033618123/photo/1
+    display_url: pic.x.com/6YlTFdvilg
+    media_key: '3_1943289957348683776'
+  - start: 202
+    end: 225
+    url: https://t.co/6YlTFdvilg
+    expanded_url: https://x.com/RedCollie1/status/1943290588033618123/photo/1
+    display_url: pic.x.com/6YlTFdvilg
+    media_key: '3_1943290179533574146'
+attachments:
+  media_keys:
+  - '3_1943289957348683776'
+  - '3_1943290179533574146'
+media:
+- media_key: '3_1943289957348683776'
+  type: photo
+  width: 600
+  height: 741
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gvfz65NaMAAugP3.jpg
+- media_key: '3_1943290179533574146'
+  type: photo
+  width: 700
+  height: 844
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gvf0H06akAIyw60.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1943252552231092725'
+  text: 'People ask "why are there no crop circles in the USA?"
+
+    That question is easy enough to answer, by describing what happened when a real,
+    ET-made crop picture DID appear in the USA.
+
+    Near Chualar, California in December of 2013, the hired hand of a local farmer
+    found a large and https://t.co/kaqtkqCfdj'
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,97 @@
+id: '1935612958295621684'
+url: https://x.com/RedCollie1/status/1935612958295621684
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@orion7710 And here is the rest. \"Spin\" is not just a mathematical construct\
+  \ but something real. It never \"collapses\". \nTwo different spin-states may be\
+  \ two different topologies for two linked rotations in 4-D xyzt, say (++, --) versus\
+  \ (+-, -+).\nWe see a similar effect when studying rings https://t.co/OTYGvDBjpJ"
+created_at: '2025-06-19T08:17:45.000Z'
+lang: en
+conversation_id: '1935544799198855320'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 38
+entities:
+  mentions:
+  - start: 0
+    end: 10
+    username: orion7710
+    id: '1025496103632941056'
+  urls:
+  - start: 290
+    end: 313
+    url: https://t.co/OTYGvDBjpJ
+    expanded_url: https://x.com/RedCollie1/status/1935612958295621684/video/1
+    display_url: pic.x.com/OTYGvDBjpJ
+    media_key: '13_1935610801450070016'
+attachments:
+  media_keys:
+  - '13_1935610801450070016'
+media:
+- media_key: '13_1935610801450070016'
+  type: video
+  width: 640
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1935610801450070016/img/u30MNYh73FfozzvB.jpg
+  duration_ms: 114514
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1935610801450070016/vid/avc1/480x270/5ex0dkbV7hkddL4w.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1935610801450070016/vid/avc1/640x360/SSX9ucQQM8J9vz2m.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1935610801450070016/pl/P8rAaefI8aot8anV.m3u8
+  public_metrics:
+    view_count: 25
+referenced_tweets:
+- type: replied_to
+  id: '1935564353320661167'
+  text: '@RedCollie1 Hi! Lately I have been reviewing QM. One premise which inherently
+    bothers is the mathematical modeling of a measurement process of a physical observable.
+    Take the component of spin angular momentum along the z-axis. The most general
+    spin state is I𝛙&gt; = c₊I+&gt; + c₋I-&gt;, where 1/'
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "And here is the rest. \"Spin\" is not just a mathematical construct but something\
+    \ real. It never \"collapses\". \nTwo different spin-states may be two different\
+    \ topologies for two linked rotations in 4-D xyzt, say (++, --) versus (+-, -+).\n\
+    We see a similar effect when studying rings of DNA (plasmids) that can have widely-different\
+    \ 3-D geometries, but well-defined and discrete topologies (called \"linking numbers\"\
+    ).\nThe various \"orbitals\" may likewise represent various circular linking-numbers\
+    \ of a closed electron path s, p, d, f, etc. The 3-D geometries will be probabilistic,\
+    \ like for rings of DNA, but their TOPOLOGIES will be well-defined.\nPersonally\
+    \ I think the mainstream quantum physics is just \"mathematical trick-playing\"\
+    \ like with \"epicycles\" and \"deferents\". \n\"Wave-particle duality\" REALLY?"

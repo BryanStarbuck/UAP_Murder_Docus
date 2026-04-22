@@ -1,0 +1,77 @@
+id: '2024591358997287307'
+url: https://x.com/RedCollie1/status/2024591358997287307
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Many people cannot understand what I am doing or saying, because I am WAY AHEAD
+  of their thoughts on alien matters. Trump knows, and hopefully will disclose soon.
+  He is "Q+". https://t.co/u8m9XBdjgy
+created_at: '2026-02-19T21:06:09.000Z'
+lang: en
+conversation_id: '2024591358997287307'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 6
+  like_count: 73
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 4261
+entities:
+  urls:
+  - start: 175
+    end: 198
+    url: https://t.co/u8m9XBdjgy
+    expanded_url: https://x.com/RedCollie1/status/2024591358997287307/video/1
+    display_url: pic.x.com/u8m9XBdjgy
+    media_key: '13_2024590881463160834'
+attachments:
+  media_keys:
+  - '13_2024590881463160834'
+media:
+- media_key: '13_2024590881463160834'
+  type: video
+  width: 1280
+  height: 712
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2024590881463160834/img/r8vlK5c-Cp-zu14f.jpg
+  duration_ms: 38545
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2024590881463160834/vid/avc1/484x270/2M1cNvrRrEMetcNq.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2024590881463160834/vid/avc1/646x360/liphxGYVhKFWXFX1.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2024590881463160834/vid/avc1/1280x712/snvoTBe-_H3cdJX1.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2024590881463160834/pl/64Y2uhW7Eb2Knu77.m3u8?v=626
+  public_metrics:
+    view_count: 2286
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

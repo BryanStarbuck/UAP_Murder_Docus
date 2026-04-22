@@ -1,0 +1,77 @@
+id: '1955448855811739966'
+url: https://x.com/RedCollie1/status/1955448855811739966
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @RedCollie1: Grok https://t.co/xICUvNOoYV'
+created_at: '2025-08-13T01:58:32.000Z'
+lang: en
+conversation_id: '1955448855811739966'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  mentions:
+  - start: 3
+    end: 14
+    username: RedCollie1
+    id: '1070522825646063617'
+  urls:
+  - start: 21
+    end: 44
+    url: https://t.co/xICUvNOoYV
+    expanded_url: https://x.com/RedCollie1/status/1955448702489022851/video/1
+    display_url: pic.x.com/xICUvNOoYV
+    media_key: '13_1955448646377541634'
+attachments:
+  media_keys:
+  - '13_1955448646377541634'
+media:
+- media_key: '13_1955448646377541634'
+  type: video
+  width: 560
+  height: 560
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955448646377541634/img/coLQnyi8UeKPXMrL.jpg
+  duration_ms: 6062
+  variants:
+  - bit_rate: 5184000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955448646377541634/vid/avc1/540x540/cRwGQGuTHs4WBd9K.mp4?tag=23
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955448646377541634/pl/hX5XD87a-LmlGXNE.m3u8?tag=23
+  public_metrics:
+    view_count: 439
+referenced_tweets:
+- type: retweeted
+  id: '1955448702489022851'
+  text: Grok https://t.co/xICUvNOoYV
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,140 @@
+id: '2040924022414999649'
+url: https://x.com/RedCollie1/status/2040924022414999649
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Something about a fast-spinning gyroscope. I will study the physics in my small
+  model. https://t.co/HsBKBE4Lj4
+created_at: '2026-04-05T22:46:20.000Z'
+lang: en
+conversation_id: '2040686929197609136'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 784
+entities:
+  urls:
+  - start: 87
+    end: 110
+    url: https://t.co/HsBKBE4Lj4
+    expanded_url: https://x.com/RedCollie1/status/2040924022414999649/video/1
+    display_url: pic.x.com/HsBKBE4Lj4
+    media_key: '13_2040923689236287488'
+  - start: 87
+    end: 110
+    url: https://t.co/HsBKBE4Lj4
+    expanded_url: https://x.com/RedCollie1/status/2040924022414999649/video/1
+    display_url: pic.x.com/HsBKBE4Lj4
+    media_key: '13_2040923897072324608'
+  - start: 87
+    end: 110
+    url: https://t.co/HsBKBE4Lj4
+    expanded_url: https://x.com/RedCollie1/status/2040924022414999649/video/1
+    display_url: pic.x.com/HsBKBE4Lj4
+    media_key: '13_2040923946653192192'
+attachments:
+  media_keys:
+  - '13_2040923689236287488'
+  - '13_2040923897072324608'
+  - '13_2040923946653192192'
+media:
+- media_key: '13_2040923689236287488'
+  type: video
+  width: 996
+  height: 1010
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2040923689236287488/img/wqPyVAy9Jai-Vhlj.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923689236287488/vid/avc1/320x324/zNmLXxTfAoqhD8Iy.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2040923689236287488/pl/mO7_ooLDoDNWcjND.m3u8
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923689236287488/vid/avc1/480x486/yseHsGfPW501UZJ8.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923689236287488/vid/avc1/720x730/8cVnwFSvPYYE7LPw.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923689236287488/vid/avc1/996x1010/td5_g4t_6GGnK5Jc.mp4
+  public_metrics:
+    view_count: 290
+- media_key: '13_2040923897072324608'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2040923897072324608/img/rpAGF2Q4rMjMw1KL.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923897072324608/vid/avc1/480x270/x7ChzXOgmylnDEFl.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923897072324608/vid/avc1/640x360/u2CJSD6K8L2VjYhy.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923897072324608/vid/avc1/1280x720/84Q3XUSbh8ipAOLF.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2040923897072324608/pl/YS0ThiGCXQR1eOSb.m3u8
+  public_metrics:
+    view_count: 36
+- media_key: '13_2040923946653192192'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2040923946653192192/img/NMCGxwHSGSzWcCNJ.jpg
+  duration_ms: 23256
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923946653192192/vid/avc1/480x270/hUvBI4Oz5PEjyhkl.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923946653192192/vid/avc1/640x360/pUMWTL9vYuZpgO-U.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2040923946653192192/vid/avc1/1280x720/inNsWOg4KEzRM2Bp.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2040923946653192192/pl/sp0h8ZlFyV3YPdU_.m3u8
+  public_metrics:
+    view_count: 24
+referenced_tweets:
+- type: replied_to
+  id: '2040686929197609136'
+  text: "It seems likely that alien UFOs use this kind of \"rapid counter-spin\" as\
+    \ part of their propulsion systems. \nCrop picture from July 28, 2025 near Lyme\
+    \ Regis.\nI will investigate the physics in more detail soon.\U0001F6F8 https://t.co/z7dImsinz1"
+has_video: true
+has_image: false
+media_count: 3

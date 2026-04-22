@@ -1,0 +1,116 @@
+id: '1954660889283756531'
+url: https://x.com/RedCollie1/status/1954660889283756531
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Movie 1 shows how Eric Laithwaite described a \"rotating magnetic field\" in\
+  \ 1980. \nSlides 2, 3 and 4 show how the E.T. crop artists describe a \"rotating\
+  \ magnetic field\", which they use to fly their UFO or orb-spheres. \U0001F6F8 https://t.co/Wrqf5zYd8Q"
+created_at: '2025-08-10T21:47:26.000Z'
+lang: en
+conversation_id: '1954660889283756531'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 14
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1054
+entities:
+  urls:
+  - start: 219
+    end: 242
+    url: https://t.co/Wrqf5zYd8Q
+    expanded_url: https://x.com/RedCollie1/status/1954660889283756531/video/1
+    display_url: pic.x.com/Wrqf5zYd8Q
+    media_key: '13_1954660018697158657'
+  - start: 219
+    end: 242
+    url: https://t.co/Wrqf5zYd8Q
+    expanded_url: https://x.com/RedCollie1/status/1954660889283756531/video/1
+    display_url: pic.x.com/Wrqf5zYd8Q
+    media_key: '3_1954660167527882752'
+  - start: 219
+    end: 242
+    url: https://t.co/Wrqf5zYd8Q
+    expanded_url: https://x.com/RedCollie1/status/1954660889283756531/video/1
+    display_url: pic.x.com/Wrqf5zYd8Q
+    media_key: '3_1954660279532564480'
+  - start: 219
+    end: 242
+    url: https://t.co/Wrqf5zYd8Q
+    expanded_url: https://x.com/RedCollie1/status/1954660889283756531/video/1
+    display_url: pic.x.com/Wrqf5zYd8Q
+    media_key: '3_1954660316920635392'
+attachments:
+  media_keys:
+  - '13_1954660018697158657'
+  - '3_1954660167527882752'
+  - '3_1954660279532564480'
+  - '3_1954660316920635392'
+media:
+- media_key: '13_1954660018697158657'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1954660018697158657/img/6hNRYSvkRe0up7wi.jpg
+  duration_ms: 27027
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954660018697158657/vid/avc1/480x270/PlOsc-aYEdcIgU8W.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954660018697158657/vid/avc1/640x360/0Z8P3vwEISlZaYDL.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1954660018697158657/vid/avc1/1280x720/m5gJquuIroJZyyqZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1954660018697158657/pl/cDYl082HCgGqcmZn.m3u8
+  public_metrics:
+    view_count: 344
+- media_key: '3_1954660167527882752'
+  type: photo
+  width: 708
+  height: 960
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyBZEO4a4AAM4v6.jpg
+- media_key: '3_1954660279532564480'
+  type: photo
+  width: 960
+  height: 882
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyBZKwIasAAvdWx.jpg
+- media_key: '3_1954660316920635392'
+  type: photo
+  width: 960
+  height: 1028
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyBZM7abYAA1UIX.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

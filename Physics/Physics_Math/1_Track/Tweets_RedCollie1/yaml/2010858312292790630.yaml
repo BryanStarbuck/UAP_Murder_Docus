@@ -1,0 +1,66 @@
+id: '2010858312292790630'
+url: https://x.com/RedCollie1/status/2010858312292790630
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 2011 https://t.co/iZJw0hMUYt
+created_at: '2026-01-12T23:35:56.000Z'
+lang: und
+conversation_id: '2010857577387868637'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 481
+entities:
+  urls:
+  - start: 5
+    end: 28
+    url: https://t.co/iZJw0hMUYt
+    expanded_url: https://x.com/RedCollie1/status/2010858312292790630/photo/1
+    display_url: pic.x.com/iZJw0hMUYt
+    media_key: '3_2010858265773817857'
+attachments:
+  media_keys:
+  - '3_2010858265773817857'
+media:
+- media_key: '3_2010858265773817857'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-gA8FEbQAEOy_j.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2010857577387868637'
+  text: "Classical physics usually describes torque and counter-torque by Newton's\
+    \ 3rd Law of action-reaction (see video 1).\nBut what happens if the \"green boat\"\
+    \ in video 1 is spinning due to DC current and a Lorentz force, like for a homopolar\
+    \ motor? (see video 2). \nNow any extra force https://t.co/bRhysECLC7"
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,81 @@
+id: '1995117407442981165'
+url: https://x.com/RedCollie1/status/1995117407442981165
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Tmeier123 "BLIND" 💯 https://t.co/0UIxbJjKKa'
+created_at: '2025-11-30T13:07:12.000Z'
+lang: en
+conversation_id: '1995065721118986735'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 14
+  quote_count: 3
+  bookmark_count: 6
+  impression_count: 7923
+entities:
+  mentions:
+  - start: 0
+    end: 10
+    username: Tmeier123
+    id: '915071680569073664'
+  urls:
+  - start: 21
+    end: 44
+    url: https://t.co/0UIxbJjKKa
+    expanded_url: https://x.com/RedCollie1/status/1995117407442981165/photo/1
+    display_url: pic.x.com/0UIxbJjKKa
+    media_key: '3_1995117265264762880'
+  - start: 21
+    end: 44
+    url: https://t.co/0UIxbJjKKa
+    expanded_url: https://x.com/RedCollie1/status/1995117407442981165/photo/1
+    display_url: pic.x.com/0UIxbJjKKa
+    media_key: '3_1995117310466732033'
+attachments:
+  media_keys:
+  - '3_1995117265264762880'
+  - '3_1995117310466732033'
+media:
+- media_key: '3_1995117265264762880'
+  type: photo
+  width: 1000
+  height: 2318
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7AUlQla4AAHuFh.jpg
+- media_key: '3_1995117310466732033'
+  type: photo
+  width: 585
+  height: 681
+  alt_text: null
+  url: https://pbs.twimg.com/media/G7AUn4-aMAEjAMd.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1995113338569650685'
+  text: '@RedCollie1 WHY are we blind no one has answered yet?!'
+has_video: false
+has_image: true
+media_count: 2

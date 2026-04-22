@@ -1,0 +1,79 @@
+id: '2015736031564410905'
+url: https://x.com/RedCollie1/status/2015736031564410905
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: These two crop pictures from Brazil 2024 and 2025 (plus another from 2016) confirm
+  the spinning 6-and-3 arrangement. Deduced from many crop pictures drawn in England
+  or Europe. https://t.co/JlJPxggFFg
+created_at: '2026-01-26T10:38:15.000Z'
+lang: en
+conversation_id: '2015686897872613784'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 417
+entities:
+  urls:
+  - start: 177
+    end: 200
+    url: https://t.co/JlJPxggFFg
+    expanded_url: https://x.com/RedCollie1/status/2015736031564410905/photo/1
+    display_url: pic.x.com/JlJPxggFFg
+    media_key: '3_2015735935413940224'
+  - start: 177
+    end: 200
+    url: https://t.co/JlJPxggFFg
+    expanded_url: https://x.com/RedCollie1/status/2015736031564410905/photo/1
+    display_url: pic.x.com/JlJPxggFFg
+    media_key: '3_2015735953072259072'
+attachments:
+  media_keys:
+  - '3_2015735935413940224'
+  - '3_2015735953072259072'
+media:
+- media_key: '3_2015735935413940224'
+  type: photo
+  width: 690
+  height: 722
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_lVJ0dWcAAeOjc.jpg
+- media_key: '3_2015735953072259072'
+  type: photo
+  width: 708
+  height: 708
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_lVK2PbAAAOQQM.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2015686897872613784'
+  text: Here are some new studies of alien UFO electrical engineering, as drawn in
+    many crop pictures, and then reproduced in my private lab. https://t.co/Kly2iQNtfh
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,65 @@
+id: '2008295626753360204'
+url: https://x.com/RedCollie1/status/2008295626753360204
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Just add 3-phase magnetism https://t.co/sJjsasvHr5
+created_at: '2026-01-05T21:52:44.000Z'
+lang: en
+conversation_id: '2008295445022601460'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 646
+entities:
+  urls:
+  - start: 27
+    end: 50
+    url: https://t.co/sJjsasvHr5
+    expanded_url: https://x.com/RedCollie1/status/2008295626753360204/photo/1
+    display_url: pic.x.com/sJjsasvHr5
+    media_key: '3_2008295565147377664'
+attachments:
+  media_keys:
+  - '3_2008295565147377664'
+media:
+- media_key: '3_2008295565147377664'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G97mLRSaEAA-4cZ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2008295445022601460'
+  text: 'Do you understand the physics?
+
+    To get a UFO, just add 3-phase magnetism! https://t.co/gSTPQc0jNx'
+has_video: false
+has_image: true
+media_count: 1

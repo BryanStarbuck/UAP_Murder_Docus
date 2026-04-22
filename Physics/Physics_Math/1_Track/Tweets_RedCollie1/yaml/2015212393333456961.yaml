@@ -1,0 +1,84 @@
+id: '2015212393333456961'
+url: https://x.com/RedCollie1/status/2015212393333456961
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@AlboMP 15 dead, 40 wounded at Bondi because you supported radical Islam for
+  two full years.
+
+  Take the tomato. https://t.co/hvnPRnf2hw'
+created_at: '2026-01-24T23:57:30.000Z'
+lang: en
+conversation_id: '2014503473753293274'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 736
+entities:
+  urls:
+  - start: 110
+    end: 133
+    url: https://t.co/hvnPRnf2hw
+    expanded_url: https://x.com/RedCollie1/status/2015212393333456961/video/1
+    display_url: pic.x.com/hvnPRnf2hw
+    media_key: '13_2015212128488325120'
+  mentions:
+  - start: 0
+    end: 7
+    username: AlboMP
+    id: '254515782'
+attachments:
+  media_keys:
+  - '13_2015212128488325120'
+media:
+- media_key: '13_2015212128488325120'
+  type: video
+  width: 538
+  height: 360
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2015212128488325120/img/B-fT8THRSyXk7mFg.jpg
+  duration_ms: 46323
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015212128488325120/vid/avc1/402x270/yvARZVQWIe6Q8YQ_.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2015212128488325120/vid/avc1/538x360/06HDn9-BVBAo5E9a.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2015212128488325120/pl/da_bMw0_M17IYu1x.m3u8
+  public_metrics:
+    view_count: 431
+referenced_tweets:
+- type: replied_to
+  id: '2014503473753293274'
+  text: We’re determined to build Australia’s future and make the greatest country
+    on earth even greater. https://t.co/DqvQ3Fi1Ry
+has_video: true
+has_image: false
+media_count: 1

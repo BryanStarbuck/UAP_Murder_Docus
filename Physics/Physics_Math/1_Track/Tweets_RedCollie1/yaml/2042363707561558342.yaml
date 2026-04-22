@@ -1,0 +1,66 @@
+id: '2042363707561558342'
+url: https://x.com/RedCollie1/status/2042363707561558342
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: This guy LOL. "Flying serpent". https://t.co/QH57wsTiYM
+created_at: '2026-04-09T22:07:07.000Z'
+lang: en
+conversation_id: '2042174151151215026'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 511
+entities:
+  urls:
+  - start: 32
+    end: 55
+    url: https://t.co/QH57wsTiYM
+    expanded_url: https://x.com/RedCollie1/status/2042363707561558342/photo/1
+    display_url: pic.x.com/QH57wsTiYM
+    media_key: '3_2042363544960974848'
+attachments:
+  media_keys:
+  - '3_2042363544960974848'
+media:
+- media_key: '3_2042363544960974848'
+  type: photo
+  width: 700
+  height: 844
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFfu0r-bQAAAmap.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2042174151151215026'
+  text: "First crop picture of 2026 on April 6 near Bondip Hill, lat 51.015 N, long\
+    \ -2.685 W.\n\"Serpent looking down at a pyramid\"\nA \"Celtic cross\" ✝️was drawn\
+    \ in yellow oilseed rape, just to the right of his head. What is he \"thinking\"\
+    ? \nEl Castillo: serpent descending to Earth. https://t.co/2NvsvnA0zD"
+has_video: false
+has_image: true
+media_count: 1

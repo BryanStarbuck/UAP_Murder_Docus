@@ -1,0 +1,105 @@
+id: '2030947082576802098'
+url: https://x.com/RedCollie1/status/2030947082576802098
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I was looking at slide 1 upside-down. Now it is right-side-up. Everything suddenly\
+  \ fits! I have confirmed this change using the original field photos. \nThose 3-phase\
+  \ wire coils U-V-W should be placed ABOVE 6 other wire coils U-V-W-U-V-W below,\
+  \ and their associated 2 x 8 = 16 https://t.co/qzow3cWlQa"
+created_at: '2026-03-09T10:01:32.000Z'
+lang: en
+conversation_id: '2030947082576802098'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 19
+  reply_count: 16
+  like_count: 128
+  quote_count: 1
+  bookmark_count: 31
+  impression_count: 2734
+entities:
+  urls:
+  - start: 276
+    end: 299
+    url: https://t.co/qzow3cWlQa
+    expanded_url: https://x.com/RedCollie1/status/2030947082576802098/photo/1
+    display_url: pic.x.com/qzow3cWlQa
+    media_key: '3_2030945182859104256'
+  - start: 276
+    end: 299
+    url: https://t.co/qzow3cWlQa
+    expanded_url: https://x.com/RedCollie1/status/2030947082576802098/photo/1
+    display_url: pic.x.com/qzow3cWlQa
+    media_key: '3_2030945197128097792'
+  - start: 276
+    end: 299
+    url: https://t.co/qzow3cWlQa
+    expanded_url: https://x.com/RedCollie1/status/2030947082576802098/photo/1
+    display_url: pic.x.com/qzow3cWlQa
+    media_key: '3_2030945238446145536'
+attachments:
+  media_keys:
+  - '3_2030945182859104256'
+  - '3_2030945197128097792'
+  - '3_2030945238446145536'
+media:
+- media_key: '3_2030945182859104256'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC9d4iabkAA8tGb.jpg
+- media_key: '3_2030945197128097792'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC9d5XkbIAAnetC.jpg
+- media_key: '3_2030945238446145536'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/HC9d7xfagAAEWGp.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3
+note_tweet:
+  text: "I was looking at slide 1 upside-down. Now it is right-side-up. Everything\
+    \ suddenly fits! I have confirmed this change using the original field photos.\
+    \ \nThose 3-phase wire coils U-V-W should be placed ABOVE 6 other wire coils U-V-W-U-V-W\
+    \ below, and their associated 2 x 8 = 16 small magnets. \nIt should be much easier\
+    \ to build a small-scale UFO model now. \nThis reminds me of when I was trying\
+    \ to solve for the first x-ray crystal structure of left-handed DNA, while the\
+    \ electron density map was stacked as right-handed!\nhttps://t.co/MSORcEbufv \n\
+    Slide 1 from 1998. Slide 2 from 1999. Slide 3 from 2018."
+  entities:
+    urls:
+    - start: 520
+      end: 543
+      url: https://t.co/MSORcEbufv
+      expanded_url: https://www.nature.com/articles/286567a0
+      display_url: nature.com/articles/28656…

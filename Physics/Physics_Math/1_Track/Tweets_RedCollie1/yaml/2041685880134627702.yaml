@@ -1,0 +1,179 @@
+id: '2041685880134627702'
+url: https://x.com/RedCollie1/status/2041685880134627702
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'I was wondering "how many magnets: to include on the outer flywheel, whether
+  4 N-N-N-N or 8 N-S-N-S-N-S-N-S? Edwin Fuhr''s close-up observation of some small
+  UFOs in Canada 1974 gives us the answer!
+
+  As shown in video 1, the small UFO he saw had 4 (four) magnets spinning around its
+  https://t.co/EosX8CFatJ'
+created_at: '2026-04-08T01:13:41.000Z'
+lang: en
+conversation_id: '2041685880134627702'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 17
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 905
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/EosX8CFatJ
+    expanded_url: https://x.com/RedCollie1/status/2041685880134627702/video/1
+    display_url: pic.x.com/EosX8CFatJ
+    media_key: '13_2041683537192218625'
+  - start: 281
+    end: 304
+    url: https://t.co/EosX8CFatJ
+    expanded_url: https://x.com/RedCollie1/status/2041685880134627702/video/1
+    display_url: pic.x.com/EosX8CFatJ
+    media_key: '13_2041683563737968641'
+  - start: 281
+    end: 304
+    url: https://t.co/EosX8CFatJ
+    expanded_url: https://x.com/RedCollie1/status/2041685880134627702/video/1
+    display_url: pic.x.com/EosX8CFatJ
+    media_key: '13_2041683584633991170'
+  - start: 281
+    end: 304
+    url: https://t.co/EosX8CFatJ
+    expanded_url: https://x.com/RedCollie1/status/2041685880134627702/video/1
+    display_url: pic.x.com/EosX8CFatJ
+    media_key: '13_2041683608465977344'
+attachments:
+  media_keys:
+  - '13_2041683537192218625'
+  - '13_2041683563737968641'
+  - '13_2041683584633991170'
+  - '13_2041683608465977344'
+media:
+- media_key: '13_2041683537192218625'
+  type: video
+  width: 960
+  height: 540
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041683537192218625/img/t-ITHHEd3sL8w10y.jpg
+  duration_ms: 10844
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683537192218625/vid/avc1/480x270/P2WMV00B4YoBFijN.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683537192218625/vid/avc1/640x360/R_ssCxMVfMpeYDyc.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683537192218625/vid/avc1/960x540/HYaVQMY97EYthM2a.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041683537192218625/pl/pewv31PhfnetiDAj.m3u8
+  public_metrics:
+    view_count: 389
+- media_key: '13_2041683563737968641'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041683563737968641/img/2xG0UDWC4YeSzsmt.jpg
+  duration_ms: 14814
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683563737968641/vid/avc1/480x270/arDGJ0gYSjRQUPec.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683563737968641/vid/avc1/640x360/Z-h8nlEwXzOOgJ0F.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683563737968641/vid/avc1/1280x720/I8xZfONsXMOZ-L5s.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041683563737968641/pl/HlxpkXgcp8MMPKLM.m3u8
+  public_metrics:
+    view_count: 129
+- media_key: '13_2041683584633991170'
+  type: video
+  width: 960
+  height: 540
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041683584633991170/img/MeBLakyLjc7lEtBw.jpg
+  duration_ms: 5138
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683584633991170/vid/avc1/480x270/hzGEyRDKmMZAG3e_.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683584633991170/vid/avc1/640x360/504pYY2pHtg0yvgb.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683584633991170/vid/avc1/960x540/_vNUIRhcK8k_leXY.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041683584633991170/pl/TN734sjnLUUM2VAE.m3u8
+  public_metrics:
+    view_count: 52
+- media_key: '13_2041683608465977344'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041683608465977344/img/V0znCGF0xxincQsj.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683608465977344/vid/avc1/480x270/WWiLTXeLSEAaoH3r.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683608465977344/vid/avc1/640x360/1dVAY3VZZ1LidSpz.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041683608465977344/vid/avc1/1280x720/lYpaDlTmypmQs9bd.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041683608465977344/pl/PLiLqASvQuuoDm99.m3u8
+  public_metrics:
+    view_count: 53
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 4
+note_tweet:
+  text: "I was wondering \"how many magnets: to include on the outer flywheel, whether\
+    \ 4 N-N-N-N or 8 N-S-N-S-N-S-N-S? Edwin Fuhr's close-up observation of some small\
+    \ UFOs in Canada 1974 gives us the answer!\nAs shown in video 1, the small UFO\
+    \ he saw had 4 (four) magnets spinning around its lower perimeter.\nAs shown in\
+    \ video 2, my current lab model also has 4 magnets N-N-N-N, which spin in exactly\
+    \ the same way!\nVideo 3 shows an animation of Fuhr's UFO when it was spinning\
+    \ more rapidly and rising up. Now it is hard to count \"how many\".\nVideo 4 shows\
+    \ how he saw outer parts of the UFO spinning one way, but grass below spinning\
+    \ the other way. I call that \"spin\" and \"counter-spin\". It is also part of\
+    \ my new model, and I am studying the physics. \nThe advantage of having 4 magnets\
+    \ rather than 8, on the outer flywheel, is that now we have a strong magnetic\
+    \ field created inside the \"ring\" of those 4 N-N-N-N magnets, with which the\
+    \ central fast-spinning magnet can interact, perhaps in a non-Newtonian sense.\
+    \ \U0001F600\U0001F6F8"

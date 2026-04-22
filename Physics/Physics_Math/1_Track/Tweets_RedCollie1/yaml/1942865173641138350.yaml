@@ -1,0 +1,82 @@
+id: '1942865173641138350'
+url: https://x.com/RedCollie1/status/1942865173641138350
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: On the same day as that pi 3.1415926 crop picture in 2008, they drew another
+  picture in crops, saying how they are "looking down at us" (with "one eye") through
+  a spacetime wormhole. Does everybody understand? https://t.co/2aYpwwvjX5
+created_at: '2025-07-09T08:35:28.000Z'
+lang: en
+conversation_id: '1942712322100977917'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 4
+  reply_count: 7
+  like_count: 80
+  quote_count: 0
+  bookmark_count: 15
+  impression_count: 7725
+entities:
+  urls:
+  - start: 210
+    end: 233
+    url: https://t.co/2aYpwwvjX5
+    expanded_url: https://x.com/RedCollie1/status/1942865173641138350/photo/1
+    display_url: pic.x.com/2aYpwwvjX5
+    media_key: '3_1942864884372283392'
+  - start: 210
+    end: 233
+    url: https://t.co/2aYpwwvjX5
+    expanded_url: https://x.com/RedCollie1/status/1942865173641138350/photo/1
+    display_url: pic.x.com/2aYpwwvjX5
+    media_key: '16_1942865021027139584'
+attachments:
+  media_keys:
+  - '3_1942864884372283392'
+  - '16_1942865021027139584'
+media:
+- media_key: '3_1942864884372283392'
+  type: photo
+  width: 937
+  height: 909
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvZxUY-XIAAd7Mn.jpg
+- media_key: '16_1942865021027139584'
+  type: animated_gif
+  width: 220
+  height: 220
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/GvZxcWDawAA0EEk.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/GvZxcWDawAA0EEk.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1942712322100977917'
+  text: "Are you \"blind\" or can you \"see\"? \n3.141592654 https://t.co/kt3ZRDB3er"
+has_video: true
+has_image: true
+media_count: 2

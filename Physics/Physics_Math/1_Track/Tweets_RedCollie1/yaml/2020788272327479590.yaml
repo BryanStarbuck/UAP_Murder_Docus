@@ -1,0 +1,84 @@
+id: '2020788272327479590'
+url: https://x.com/RedCollie1/status/2020788272327479590
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@debraregypt Worse than you could possibly imagine.
+
+  You have bee deceived. https://t.co/MBTglux17V'
+created_at: '2026-02-09T09:14:03.000Z'
+lang: en
+conversation_id: '2020439292653568413'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 49
+entities:
+  mentions:
+  - start: 0
+    end: 12
+    username: debraregypt
+    id: '26730649'
+  urls:
+  - start: 75
+    end: 98
+    url: https://t.co/MBTglux17V
+    expanded_url: https://x.com/RedCollie1/status/2020788272327479590/photo/1
+    display_url: pic.x.com/MBTglux17V
+    media_key: '3_2020788122406244353'
+  - start: 75
+    end: 98
+    url: https://t.co/MBTglux17V
+    expanded_url: https://x.com/RedCollie1/status/2020788272327479590/photo/1
+    display_url: pic.x.com/MBTglux17V
+    media_key: '3_2020788171211145216'
+attachments:
+  media_keys:
+  - '3_2020788122406244353'
+  - '3_2020788171211145216'
+media:
+- media_key: '3_2020788122406244353'
+  type: photo
+  width: 600
+  height: 403
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAtIFzpaUAEWYAm.jpg
+- media_key: '3_2020788171211145216'
+  type: photo
+  width: 960
+  height: 781
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAtIIpdaAAAVhvf.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2020503183483916600'
+  text: '@RedCollie1 Both are true...  Doug and Dave did do a few.    Obviously done
+    to discredit the true Crop Circles. Wonder what their bank account would reveal.'
+has_video: false
+has_image: true
+media_count: 2

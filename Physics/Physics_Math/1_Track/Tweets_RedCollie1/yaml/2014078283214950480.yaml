@@ -1,0 +1,81 @@
+id: '2014078283214950480'
+url: https://x.com/RedCollie1/status/2014078283214950480
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Spin and counter-spin? https://t.co/JwSkjDQ75i
+created_at: '2026-01-21T20:50:57.000Z'
+lang: en
+conversation_id: '2014075383969104107'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 746
+entities:
+  urls:
+  - start: 23
+    end: 46
+    url: https://t.co/JwSkjDQ75i
+    expanded_url: https://x.com/RedCollie1/status/2014078283214950480/video/1
+    display_url: pic.x.com/JwSkjDQ75i
+    media_key: '13_2014078193758777344'
+attachments:
+  media_keys:
+  - '13_2014078193758777344'
+media:
+- media_key: '13_2014078193758777344'
+  type: video
+  width: 996
+  height: 1010
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2014078193758777344/img/TS79veTzE8TdqQrw.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014078193758777344/vid/avc1/480x486/kO32hU0UY-_1Ot60.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014078193758777344/vid/avc1/720x730/ugJQP_3yQqaldixb.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014078193758777344/vid/avc1/320x324/RCSv7lzAUFNj3uZl.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014078193758777344/vid/avc1/996x1010/odmFPE0Cc8RMh1Yu.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2014078193758777344/pl/rEWlA_B15-uEX41l.m3u8
+  public_metrics:
+    view_count: 242
+referenced_tweets:
+- type: replied_to
+  id: '2014075383969104107'
+  text: 'Spin and counter-spin: new physics? https://t.co/RSgCEQ8nED'
+has_video: true
+has_image: false
+media_count: 1

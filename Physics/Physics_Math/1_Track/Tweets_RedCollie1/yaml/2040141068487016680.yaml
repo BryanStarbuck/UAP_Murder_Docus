@@ -1,0 +1,74 @@
+id: '2040141068487016680'
+url: https://x.com/RedCollie1/status/2040141068487016680
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@_Trippen_ Please see many recent videos on this YT channel!
+
+  https://t.co/uUKHMXbUCP'
+created_at: '2026-04-03T18:55:09.000Z'
+lang: en
+conversation_id: '2040006468402069701'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 30
+entities:
+  urls:
+  - start: 61
+    end: 84
+    url: https://t.co/uUKHMXbUCP
+    expanded_url: https://www.youtube.com/@DrHoraceDrew/videos
+    display_url: youtube.com/@DrHoraceDrew/…
+    images:
+    - url: https://pbs.twimg.com/news_img/2040141111059185664/4uOSEQRV?format=jpg&name=orig
+      width: 900
+      height: 900
+    - url: https://pbs.twimg.com/news_img/2040141111059185664/4uOSEQRV?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: redcollie1
+    description: Scientist/inventor
+    unwound_url: https://www.youtube.com/@DrHoraceDrew/videos
+  mentions:
+  - start: 0
+    end: 10
+    username: _Trippen_
+    id: '408169131'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '2040025207239274958'
+  text: '@RedCollie1 Can you do a YouTube video talking about coil windings and setup?
+    🙏🙏🙏'
+has_video: false
+has_image: false
+media_count: 0

@@ -1,0 +1,86 @@
+id: '1917119456381440072'
+url: https://x.com/RedCollie1/status/1917119456381440072
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 😊☀️👁️ https://t.co/wb44fkYIol
+created_at: '2025-04-29T07:31:11.000Z'
+lang: qme
+conversation_id: '1917119456381440072'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 659
+entities:
+  urls:
+  - start: 6
+    end: 29
+    url: https://t.co/wb44fkYIol
+    expanded_url: https://x.com/RedCollie1/status/1917119456381440072/photo/1
+    display_url: pic.x.com/wb44fkYIol
+    media_key: '3_1917119336172711936'
+  - start: 6
+    end: 29
+    url: https://t.co/wb44fkYIol
+    expanded_url: https://x.com/RedCollie1/status/1917119456381440072/photo/1
+    display_url: pic.x.com/wb44fkYIol
+    media_key: '3_1917119336122355715'
+  - start: 6
+    end: 29
+    url: https://t.co/wb44fkYIol
+    expanded_url: https://x.com/RedCollie1/status/1917119456381440072/photo/1
+    display_url: pic.x.com/wb44fkYIol
+    media_key: '3_1917119336118161411'
+attachments:
+  media_keys:
+  - '3_1917119336172711936'
+  - '3_1917119336122355715'
+  - '3_1917119336118161411'
+media:
+- media_key: '3_1917119336172711936'
+  type: photo
+  width: 2592
+  height: 1944
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gpr54QCbcAAQS8w.jpg
+- media_key: '3_1917119336122355715'
+  type: photo
+  width: 2592
+  height: 1944
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gpr54P2bEAMqmCy.jpg
+- media_key: '3_1917119336118161411'
+  type: photo
+  width: 2592
+  height: 1944
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gpr54P1bEAMeKtT.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

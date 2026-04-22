@@ -1,0 +1,84 @@
+id: '1935843384310349959'
+url: https://x.com/RedCollie1/status/1935843384310349959
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Two "jumping ring" crop pictures from 2012 (photo 1).
+
+  Related to how UFOs fly? (photo 2). https://t.co/f89GSHlSWu'
+created_at: '2025-06-19T23:33:23.000Z'
+lang: en
+conversation_id: '1935842711200055620'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 3
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 831
+entities:
+  urls:
+  - start: 90
+    end: 113
+    url: https://t.co/f89GSHlSWu
+    expanded_url: https://x.com/RedCollie1/status/1935843384310349959/photo/1
+    display_url: pic.x.com/f89GSHlSWu
+    media_key: '3_1935842947779457024'
+  - start: 90
+    end: 113
+    url: https://t.co/f89GSHlSWu
+    expanded_url: https://x.com/RedCollie1/status/1935843384310349959/photo/1
+    display_url: pic.x.com/f89GSHlSWu
+    media_key: '3_1935843053136494592'
+attachments:
+  media_keys:
+  - '3_1935842947779457024'
+  - '3_1935843053136494592'
+media:
+- media_key: '3_1935842947779457024'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gt1-54tW8AATMo1.jpg
+- media_key: '3_1935843053136494592'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gt1_ABMbwAAZTDd.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1935842711200055620'
+  text: 'I will try next to see whether adding "fast spin", to the rising magnet in
+    an AC "jumping ring" experiment, could give more upward force for UFO levitation?
+
+    Three wire coils with 3-phase power, and a spinning magnet, do not give enough
+    upward force.
+
+    This "collie dog" may have https://t.co/izZK0vgSL5'
+has_video: false
+has_image: true
+media_count: 2

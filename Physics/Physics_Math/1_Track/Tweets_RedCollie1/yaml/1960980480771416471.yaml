@@ -1,0 +1,67 @@
+id: '1960980480771416471'
+url: https://x.com/RedCollie1/status/1960980480771416471
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Thanks to Richard for this information. Since JWST has NO camera with 10 arcseconds
+  per pixel, yet their recent image of 3I/ATLAS shows a resolution close to 10 arcseconds
+  per pixel (worse than SPHERE-X with 6.2 arcseconds per pixel), that proves definitively
+  that the guys at https://t.co/wRDHZWh77z
+created_at: '2025-08-28T08:19:14.000Z'
+lang: en
+conversation_id: '1960980480771416471'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 22
+  reply_count: 13
+  like_count: 138
+  quote_count: 1
+  bookmark_count: 17
+  impression_count: 26305
+entities:
+  urls:
+  - start: 277
+    end: 300
+    url: https://t.co/wRDHZWh77z
+    expanded_url: https://twitter.com/RicardusLupum/status/1960856223236153389
+    display_url: x.com/RicardusLupum/…
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: quoted
+  id: '1960856223236153389'
+  text: "@RedCollie1 JWST has no 10″/px instrument. Its finest imaging is 0.031–0.11″/px\
+    \ (NIRCam/MIRI), and NIRSpec-IFU is 0.1″/px (ESA). At ~3.3 AU, that’s ~240 km/px.\
+    \ The nucleus is sub-pixel, so only coma structure shows. \n https://t.co/8U6eGinLnA"
+has_video: false
+has_image: false
+media_count: 0
+note_tweet:
+  text: Thanks to Richard for this information. Since JWST has NO camera with 10 arcseconds
+    per pixel, yet their recent image of 3I/ATLAS shows a resolution close to 10 arcseconds
+    per pixel (worse than SPHERE-X with 6.2 arcseconds per pixel), that proves definitively
+    that the guys at JWST added "fake pixelation" over their new high-resolution image
+    of 3I/ATLAS, so that no one would be able to see important details in the coma
+    or central core, the exact size of which we do not know yet. 🤡

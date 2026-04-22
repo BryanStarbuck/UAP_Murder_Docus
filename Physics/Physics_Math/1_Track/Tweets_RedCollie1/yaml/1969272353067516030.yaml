@@ -1,0 +1,78 @@
+id: '1969272353067516030'
+url: https://x.com/RedCollie1/status/1969272353067516030
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Of course those are “angels”! https://t.co/BKtVAO4kLY
+created_at: '2025-09-20T05:28:10.000Z'
+lang: en
+conversation_id: '1969160810917208415'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 0
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1273
+entities:
+  urls:
+  - start: 30
+    end: 53
+    url: https://t.co/BKtVAO4kLY
+    expanded_url: https://x.com/RedCollie1/status/1969272353067516030/photo/1
+    display_url: pic.x.com/BKtVAO4kLY
+    media_key: '3_1969272341772582913'
+  - start: 30
+    end: 53
+    url: https://t.co/BKtVAO4kLY
+    expanded_url: https://x.com/RedCollie1/status/1969272353067516030/photo/1
+    display_url: pic.x.com/BKtVAO4kLY
+    media_key: '3_1969272341659336706'
+attachments:
+  media_keys:
+  - '3_1969272341772582913'
+  - '3_1969272341659336706'
+media:
+- media_key: '3_1969272341772582913'
+  type: photo
+  width: 2048
+  height: 2030
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1RCwt1bQAEiP49.jpg
+- media_key: '3_1969272341659336706'
+  type: photo
+  width: 1876
+  height: 2048
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1RCwtabQAIM_5_.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1969160810917208415'
+  text: "As Peter Sorensen once said to me, \"Crop circles are made by angels\". You\
+    \ can see those \"angels\" here. \nSIGNS ON THE EARTH ✝️✝️✝️Read your Bibles.\
+    \ https://t.co/wpS649Xkaq"
+has_video: false
+has_image: true
+media_count: 2

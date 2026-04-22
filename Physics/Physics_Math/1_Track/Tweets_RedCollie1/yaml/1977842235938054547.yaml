@@ -1,0 +1,83 @@
+id: '1977842235938054547'
+url: https://x.com/RedCollie1/status/1977842235938054547
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Same field location, exactly 10 years before.
+
+  A "disc magnet" spins by a Lorentz force (with many "brushes") in a N/S magnetic
+  field, then it rises up using 3-phase power ("trident" shape). 🛸 https://t.co/LdIXmGZzXx'
+created_at: '2025-10-13T21:01:50.000Z'
+lang: en
+conversation_id: '1977836071359742215'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 808
+entities:
+  urls:
+  - start: 192
+    end: 215
+    url: https://t.co/LdIXmGZzXx
+    expanded_url: https://x.com/RedCollie1/status/1977842235938054547/photo/1
+    display_url: pic.x.com/LdIXmGZzXx
+    media_key: '3_1977841700568723457'
+  - start: 192
+    end: 215
+    url: https://t.co/LdIXmGZzXx
+    expanded_url: https://x.com/RedCollie1/status/1977842235938054547/photo/1
+    display_url: pic.x.com/LdIXmGZzXx
+    media_key: '3_1977841733112418305'
+attachments:
+  media_keys:
+  - '3_1977841700568723457'
+  - '3_1977841733112418305'
+media:
+- media_key: '3_1977841700568723457'
+  type: photo
+  width: 1000
+  height: 2175
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3K0jDBacAEE6yw.jpg
+- media_key: '3_1977841733112418305'
+  type: photo
+  width: 349
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3K0k8Qb0AEK-I8.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1977836071359742215'
+  text: 'Many important clues to UFO levitation have been drawn in crop fields worldwide,
+    such as this interesting example from 2009.
+
+    If you don''t understand what it means, then please consider that the E.T. crop
+    artists might be FAR more intelligent than yourself, and try to find a https://t.co/F6dGh2lYJ8'
+has_video: false
+has_image: true
+media_count: 2

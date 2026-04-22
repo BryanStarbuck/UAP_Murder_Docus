@@ -1,0 +1,86 @@
+id: '2019000551380574604'
+url: https://x.com/RedCollie1/status/2019000551380574604
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Two magnetic discs spin in opposite directions. https://t.co/fKOswJXRbD
+created_at: '2026-02-04T10:50:17.000Z'
+lang: en
+conversation_id: '2018898646163726780'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 739
+entities:
+  urls:
+  - start: 48
+    end: 71
+    url: https://t.co/fKOswJXRbD
+    expanded_url: https://x.com/RedCollie1/status/2019000551380574604/video/1
+    display_url: pic.x.com/fKOswJXRbD
+    media_key: '13_2019000398586277888'
+attachments:
+  media_keys:
+  - '13_2019000398586277888'
+media:
+- media_key: '13_2019000398586277888'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019000398586277888/img/0tzpRTVFwnjBAqCV.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019000398586277888/vid/avc1/320x324/ZN9yfBtvTQj176YS.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019000398586277888/vid/avc1/1000x1014/zvczYtU1NUxRH8jW.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019000398586277888/pl/vBvyCOH4PZknlQsL.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019000398586277888/vid/avc1/720x730/cuR78E2JmVUyS1XX.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019000398586277888/vid/avc1/480x486/dCzNw7Vn-lfPR3aU.mp4
+  public_metrics:
+    view_count: 418
+referenced_tweets:
+- type: replied_to
+  id: '2018898646163726780'
+  text: 'The key to making UFO-style counter-spin work, using a ring of 12 wire coils,
+    given 3-phase AC power as U-V-W-U-V-W-U-V-W-U-V-W, is to wire all of the "U" coils
+    in series rather than in parallel. Like for all of the "V" coils, and all of the
+    "W" coils.
+
+    Now we can make a magnetic https://t.co/cfWGWiBY7X'
+has_video: true
+has_image: false
+media_count: 1

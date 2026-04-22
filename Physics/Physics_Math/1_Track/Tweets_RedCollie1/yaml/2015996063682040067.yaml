@@ -1,0 +1,81 @@
+id: '2015996063682040067'
+url: https://x.com/RedCollie1/status/2015996063682040067
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@LBC @AndrewMarr9 They are using an \"A.I.\" girl, because she cannot be arrested\
+  \ by Herr Fuhrer Starmer. \nYou are an idiot with IQ less than 50. https://t.co/zUNulXFZYf"
+created_at: '2026-01-27T03:51:31.000Z'
+lang: en
+conversation_id: '2015894345770045489'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 48
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1483
+entities:
+  urls:
+  - start: 144
+    end: 167
+    url: https://t.co/zUNulXFZYf
+    expanded_url: https://x.com/RedCollie1/status/2015996063682040067/photo/1
+    display_url: pic.x.com/zUNulXFZYf
+    media_key: '16_2015995613650014208'
+  mentions:
+  - start: 0
+    end: 4
+    username: LBC
+    id: '20973388'
+  - start: 5
+    end: 17
+    username: AndrewMarr9
+    id: '3162521825'
+attachments:
+  media_keys:
+  - '16_2015995613650014208'
+media:
+- media_key: '16_2015995613650014208'
+  type: animated_gif
+  width: 220
+  height: 220
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G_pBVFRa0AADcCH.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G_pBVFRa0AADcCH.mp4
+referenced_tweets:
+- type: replied_to
+  id: '2015894345770045489'
+  text: '''This is monetising hate.''
+
+
+    @AndrewMarr9 explains how a purple-haired AI goth girl has been hijacked by the
+    far-right and turned into a meme coin amplified by Elon Musk. https://t.co/t6eKmyYGet'
+has_video: true
+has_image: false
+media_count: 1

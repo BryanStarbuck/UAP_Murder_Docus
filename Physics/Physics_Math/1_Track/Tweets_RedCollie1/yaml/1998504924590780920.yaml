@@ -1,0 +1,82 @@
+id: '1998504924590780920'
+url: https://x.com/RedCollie1/status/1998504924590780920
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The Lorentz force allows "spin" without requiring precisely-opposite "counter
+  spin". https://t.co/w0Q2K2LTl2
+created_at: '2025-12-09T21:27:59.000Z'
+lang: en
+conversation_id: '1998225405799723471'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 11
+  quote_count: 1
+  bookmark_count: 2
+  impression_count: 1404
+entities:
+  urls:
+  - start: 85
+    end: 108
+    url: https://t.co/w0Q2K2LTl2
+    expanded_url: https://x.com/RedCollie1/status/1998504924590780920/video/1
+    display_url: pic.x.com/w0Q2K2LTl2
+    media_key: '13_1998504726581989376'
+attachments:
+  media_keys:
+  - '13_1998504726581989376'
+media:
+- media_key: '13_1998504726581989376'
+  type: video
+  width: 960
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1998504726581989376/img/xeSh_wVYZw4EBkjL.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998504726581989376/vid/avc1/360x270/JoYR0zd17iLi9K_q.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998504726581989376/vid/avc1/480x360/ZGiyNulV_JjSkUlL.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1998504726581989376/vid/avc1/960x720/QZmnRZnpmN1Ij_zH.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1998504726581989376/pl/Jtv08Q_O8wZPS9d2.m3u8?v=7b2
+  public_metrics:
+    view_count: 615
+referenced_tweets:
+- type: replied_to
+  id: '1998225405799723471'
+  text: "Every day I will teach you some \"alien physics\" here! \nMovie 1 shows a\
+    \ Corbino disc rotating under DC power (about 100 amps) with liquid-metal galinstan.\n\
+    Slide 2 shows a schematic version from our textbooks.\nSlide 3 shows a schematic\
+    \ version which was drawn in a field near https://t.co/agrDBtLlD8"
+has_video: true
+has_image: false
+media_count: 1

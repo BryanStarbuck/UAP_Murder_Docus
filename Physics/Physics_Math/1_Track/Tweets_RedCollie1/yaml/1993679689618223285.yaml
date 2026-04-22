@@ -1,0 +1,106 @@
+id: '1993679689618223285'
+url: https://x.com/RedCollie1/status/1993679689618223285
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Latest video and photos of 3I/ATLAS by Diego San Araujo in Brazil. \nI have\
+  \ enlarged and enhanced them for clarity.\nIts central core is beginning to look\
+  \ like an extended object. https://t.co/uKPpzLpSDU"
+created_at: '2025-11-26T13:54:13.000Z'
+lang: en
+conversation_id: '1993679689618223285'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 13
+  reply_count: 8
+  like_count: 71
+  quote_count: 1
+  bookmark_count: 14
+  impression_count: 19292
+entities:
+  urls:
+  - start: 178
+    end: 201
+    url: https://t.co/uKPpzLpSDU
+    expanded_url: https://x.com/RedCollie1/status/1993679689618223285/video/1
+    display_url: pic.x.com/uKPpzLpSDU
+    media_key: '13_1993678817228193792'
+  - start: 178
+    end: 201
+    url: https://t.co/uKPpzLpSDU
+    expanded_url: https://x.com/RedCollie1/status/1993679689618223285/video/1
+    display_url: pic.x.com/uKPpzLpSDU
+    media_key: '3_1993678850728075264'
+  - start: 178
+    end: 201
+    url: https://t.co/uKPpzLpSDU
+    expanded_url: https://x.com/RedCollie1/status/1993679689618223285/video/1
+    display_url: pic.x.com/uKPpzLpSDU
+    media_key: '3_1993678868235034625'
+attachments:
+  media_keys:
+  - '13_1993678817228193792'
+  - '3_1993678850728075264'
+  - '3_1993678868235034625'
+media:
+- media_key: '13_1993678817228193792'
+  type: video
+  width: 1920
+  height: 1080
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1993678817228193792/img/qTuQdqzqmV5QPupg.jpg
+  duration_ms: 15333
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1993678817228193792/vid/avc1/480x270/wtS8jAiKW0_tT1_t.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1993678817228193792/pl/4fIkyX-godunKNxu.m3u8?v=cfc
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1993678817228193792/vid/avc1/640x360/nbe6kAIRKoTvw1L3.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1993678817228193792/vid/avc1/1920x1080/1i4y5ADOkDZNx74k.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1993678817228193792/vid/avc1/1280x720/mwWANh_KhYzhDFC2.mp4
+  public_metrics:
+    view_count: 9250
+- media_key: '3_1993678850728075264'
+  type: photo
+  width: 2000
+  height: 1832
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6r4Wg3bIAAcend.jpg
+- media_key: '3_1993678868235034625'
+  type: photo
+  width: 2000
+  height: 1832
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6r4XiFaIAEd9Iw.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

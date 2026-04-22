@@ -1,0 +1,184 @@
+id: '2036366795591000267'
+url: https://x.com/RedCollie1/status/2036366795591000267
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"UFO levitation and Newton''s Third Law" 🛸
+
+  When a spinning top rises up (see movie 1), that upward action may be opposed by
+  two different downward reactions: (1) against the tabletop, and (2) against an invisible,
+  resistive vacuum.
+
+  If we could somehow eliminate downward force https://t.co/x18Gt26zP7'
+created_at: '2026-03-24T08:57:32.000Z'
+lang: en
+conversation_id: '2036366795591000267'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 0
+  like_count: 36
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 1191
+entities:
+  urls:
+  - start: 276
+    end: 299
+    url: https://t.co/x18Gt26zP7
+    expanded_url: https://x.com/RedCollie1/status/2036366795591000267/video/1
+    display_url: pic.x.com/x18Gt26zP7
+    media_key: '13_2036359847227301888'
+  - start: 276
+    end: 299
+    url: https://t.co/x18Gt26zP7
+    expanded_url: https://x.com/RedCollie1/status/2036366795591000267/video/1
+    display_url: pic.x.com/x18Gt26zP7
+    media_key: '13_2036360741004214272'
+  - start: 276
+    end: 299
+    url: https://t.co/x18Gt26zP7
+    expanded_url: https://x.com/RedCollie1/status/2036366795591000267/video/1
+    display_url: pic.x.com/x18Gt26zP7
+    media_key: '13_2036361123910565888'
+  - start: 276
+    end: 299
+    url: https://t.co/x18Gt26zP7
+    expanded_url: https://x.com/RedCollie1/status/2036366795591000267/video/1
+    display_url: pic.x.com/x18Gt26zP7
+    media_key: '3_2036361268471406593'
+attachments:
+  media_keys:
+  - '13_2036359847227301888'
+  - '13_2036360741004214272'
+  - '13_2036361123910565888'
+  - '3_2036361268471406593'
+media:
+- media_key: '13_2036359847227301888'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036359847227301888/img/FSFW6n_WzWDL03PQ.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036359847227301888/vid/avc1/480x270/1DJ0WNXxERdrFDXu.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036359847227301888/vid/avc1/640x360/Zl51YSvD8Z6kNil1.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036359847227301888/vid/avc1/1280x720/4zWt9le_UMKKy5x_.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036359847227301888/pl/zg166j6lqRY3c-YT.m3u8
+  public_metrics:
+    view_count: 542
+- media_key: '13_2036360741004214272'
+  type: video
+  width: 960
+  height: 542
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036360741004214272/img/IrKSuvL9dzj32pF7.jpg
+  duration_ms: 6400
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036360741004214272/vid/avc1/478x270/Nb8FkY-jibukzuq6.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036360741004214272/vid/avc1/636x360/HIe8KVVlQWMWBbEJ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036360741004214272/vid/avc1/960x542/cHVp-zQ63xvFkX-0.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036360741004214272/pl/xw_CjhgSVOlzfKEB.m3u8
+  public_metrics:
+    view_count: 238
+- media_key: '13_2036361123910565888'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036361123910565888/img/1I74v9L1EQmFJ0Vh.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036361123910565888/vid/avc1/480x270/nR4WJY2MaXZaY8CF.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036361123910565888/vid/avc1/640x360/lUKw-6Ecj_aNULqp.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036361123910565888/vid/avc1/1280x720/XCVSkl1fujLiRO72.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036361123910565888/pl/EsEIJ-3o4FOkgdg5.m3u8
+  public_metrics:
+    view_count: 151
+- media_key: '3_2036361268471406593'
+  type: photo
+  width: 600
+  height: 368
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEKbyNmaIAE4DU9.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "\"UFO levitation and Newton's Third Law\" \U0001F6F8\nWhen a spinning top\
+    \ rises up (see movie 1), that upward action may be opposed by two different downward\
+    \ reactions: (1) against the tabletop, and (2) against an invisible, resistive\
+    \ vacuum.\nIf we could somehow eliminate downward force (1), then downward force\
+    \ (2) would make it appear that the spinning top is rising \"magically\" like\
+    \ a UFO (see movie 2). \nHow might we eliminate downward reaction force (1)?\n\
+    Well, Edwin Fuhr and other contactees have noticed that a low-hovering UFO shows\
+    \ not only \"spin\" but also \"counter-spin\" (see movie 3). \nMany descriptions\
+    \ of a UFO-drive likewise feature two sets of magnets, which spin in opposite\
+    \ directions to one another (see slide 4). \nI have made a new and simple model\
+    \ to study UFO physics, as shown in many other recent posts on this page. \nIn\
+    \ my new model (suggested by friendly E.T. visitors), we can use a \"ring\" of\
+    \ 6 wire coils, wired as U-V-W-U-V-W, to make two different sets of magnets spin\
+    \ either clockwise (at the center) or anti-clockwise (outside). \nIn this case,\
+    \ Newton's Third Law will produce two opposing forces of reaction on the same\
+    \ set of 6 wire coils: whether anti-clockwise (due to the central spinning magnet),\
+    \ or clockwise (due to an outer spinning magnetic flywheel).\nThus in this particular\
+    \ case, that ring of 6 wire coils may experience NO \"net\" reactive force from\
+    \ Newton's Third Law at all, because two opposing vectors CANCEL.\nMight this\
+    \ get rid of an unwanted downward force of reaction (1), between those two sets\
+    \ of spinning magnets, and the 6 wire coils themselves? \nIf so, then we may be\
+    \ left only with a downward force of reaction (2), between the spinning magnets\
+    \ and an invisible vacuum. \nThose spinning magnets might thereby \"push\" the\
+    \ entire device (or UFO) upward, just as the propellor on a boat (or airplane)\
+    \ pushes the entire craft through the water (or air).\nNewton's Third Law may\
+    \ still be working, but we can't SEE it work on any physical part of the UFO,\
+    \ because it is only pushing downward against an invisible vacuum. There might\
+    \ not be any \"inertial\" effects at all! \nI will study all of those theoretical\
+    \ possibilities soon, using my new and simple but well-constructed model. Any\
+    \ interested scientists are welcome to join in!\nDo you have something \"better\"\
+    \ to do? \U0001F605\nP.S. Half of my Ph.D. thesis at Caltech was on left-handed\
+    \ DNA, which many learned scholars and Nobel Prize-winners assured me could not\
+    \ exist. \U0001F921"

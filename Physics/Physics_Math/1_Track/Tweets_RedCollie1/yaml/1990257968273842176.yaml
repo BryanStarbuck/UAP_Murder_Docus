@@ -1,0 +1,60 @@
+id: '1990257968273842176'
+url: https://x.com/RedCollie1/status/1990257968273842176
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Space-vessel threat (2015) https://t.co/GXmKS9Aruw
+created_at: '2025-11-17T03:17:31.000Z'
+lang: en
+conversation_id: '1990257968273842176'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 6
+  like_count: 17
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 3263
+entities:
+  urls:
+  - start: 27
+    end: 50
+    url: https://t.co/GXmKS9Aruw
+    expanded_url: https://x.com/RedCollie1/status/1990257968273842176/photo/1
+    display_url: pic.x.com/GXmKS9Aruw
+    media_key: '3_1990257866146816000'
+attachments:
+  media_keys:
+  - '3_1990257866146816000'
+media:
+- media_key: '3_1990257866146816000'
+  type: photo
+  width: 600
+  height: 450
+  alt_text: null
+  url: https://pbs.twimg.com/media/G57Q_AMboAA5shd.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 1

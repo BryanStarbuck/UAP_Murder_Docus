@@ -1,0 +1,70 @@
+id: '2018567822591619112'
+url: https://x.com/RedCollie1/status/2018567822591619112
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@miguelAfrancoL FRACTAL ANTENNAS! Drawn by our friends.👽 https://t.co/tjNODG693A'
+created_at: '2026-02-03T06:10:46.000Z'
+lang: en
+conversation_id: '2018541599471681718'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 45
+entities:
+  urls:
+  - start: 57
+    end: 80
+    url: https://t.co/tjNODG693A
+    expanded_url: https://x.com/RedCollie1/status/2018567822591619112/photo/1
+    display_url: pic.x.com/tjNODG693A
+    media_key: '3_2018567641213104128'
+  mentions:
+  - start: 0
+    end: 15
+    username: miguelAfrancoL
+    id: '195599509'
+attachments:
+  media_keys:
+  - '3_2018567641213104128'
+media:
+- media_key: '3_2018567641213104128'
+  type: photo
+  width: 800
+  height: 592
+  alt_text: null
+  url: https://pbs.twimg.com/media/HANkkyma8AASOCw.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2018541599471681718'
+  text: '@RedCollie1 Dear Prof. Drew, your academic legacy is now live on Grokipedia!
+    . I suggested it as a small honor to your scientific career. Check it out: https://t.co/y3F0OFhuiz
+    Truly admire your path in molecular biology. Best! 🧬🔬🚀'
+has_video: false
+has_image: true
+media_count: 1

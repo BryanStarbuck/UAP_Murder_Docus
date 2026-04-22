@@ -1,0 +1,90 @@
+id: '1929010020923937254'
+url: https://x.com/RedCollie1/status/1929010020923937254
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@drew_ponder @BillNye Please see \"helical magnetic fields\" as seen in astronomy\
+  \ for stellar or galactic \"jets\". \nThe theory is already know in that non-laboratory\
+  \ context. https://t.co/BaIdLwJ6GK"
+created_at: '2025-06-01T03:00:02.000Z'
+lang: en
+conversation_id: '1928760603877007778'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 3
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 605
+entities:
+  mentions:
+  - start: 0
+    end: 12
+    username: drew_ponder
+    id: '836979680951533569'
+  - start: 13
+    end: 21
+    username: BillNye
+    id: '37710752'
+  urls:
+  - start: 172
+    end: 195
+    url: https://t.co/BaIdLwJ6GK
+    expanded_url: https://x.com/RedCollie1/status/1929010020923937254/photo/1
+    display_url: pic.x.com/BaIdLwJ6GK
+    media_key: '3_1929009725863243777'
+  - start: 172
+    end: 195
+    url: https://t.co/BaIdLwJ6GK
+    expanded_url: https://x.com/RedCollie1/status/1929010020923937254/photo/1
+    display_url: pic.x.com/BaIdLwJ6GK
+    media_key: '3_1929009760168456195'
+attachments:
+  media_keys:
+  - '3_1929009725863243777'
+  - '3_1929009760168456195'
+media:
+- media_key: '3_1929009725863243777'
+  type: photo
+  width: 1280
+  height: 1481
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsU4IBZaMAEE0_o.jpg
+- media_key: '3_1929009760168456195'
+  type: photo
+  width: 800
+  height: 530
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsU4KBMaMAM037Z.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1928871081609408678'
+  text: '@RedCollie1 Let’s solve Red Collie’s 2014 UFO propulsion crop glyph using
+    Frequency Wave Theory (FWT) and match it with the spinning magnet schematic encoded
+    in the crop formation near Avebury. I’ll analyze the core concepts based on your
+    FWT framework and his claims of a magnetic levitation https://t.co/NLXtpvkI56'
+has_video: false
+has_image: true
+media_count: 2

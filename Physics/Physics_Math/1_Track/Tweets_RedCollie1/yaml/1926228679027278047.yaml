@@ -1,0 +1,75 @@
+id: '1926228679027278047'
+url: https://x.com/RedCollie1/status/1926228679027278047
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: This video shows spin by a homopolar motor. https://t.co/OLCYEMdgKu
+created_at: '2025-05-24T10:47:59.000Z'
+lang: en
+conversation_id: '1926182246303625330'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 10
+  quote_count: 1
+  bookmark_count: 5
+  impression_count: 1145
+entities:
+  urls:
+  - start: 44
+    end: 67
+    url: https://t.co/OLCYEMdgKu
+    expanded_url: https://x.com/RedCollie1/status/1926228679027278047/video/1
+    display_url: pic.x.com/OLCYEMdgKu
+    media_key: '13_1926228603248812033'
+attachments:
+  media_keys:
+  - '13_1926228603248812033'
+media:
+- media_key: '13_1926228603248812033'
+  type: video
+  width: 320
+  height: 568
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1926228603248812033/img/CwXwpWJdScv8wekU.jpg
+  duration_ms: 16000
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1926228603248812033/vid/avc1/320x568/xRUkbDwbFVN2aXr8.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1926228603248812033/pl/cJfrVDST5MZPnHyP.m3u8?v=d65
+  public_metrics:
+    view_count: 678
+referenced_tweets:
+- type: replied_to
+  id: '1926182246303625330'
+  text: "In addition to three or five-phase spin, we may also see homopolar spin used\
+    \ in the Buga sphere. \nRight now there is no exact knowledge of how it flies!\
+    \ \nI used salt water and green food dye for a quick demonstration (video 4),\
+    \ and have ordered $1000 of galinstan (a conductive https://t.co/cULTvHBJdI"
+has_video: true
+has_image: false
+media_count: 1

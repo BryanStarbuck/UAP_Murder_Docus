@@ -1,0 +1,83 @@
+id: '1964876015358091592'
+url: https://x.com/RedCollie1/status/1964876015358091592
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Visual illustration of how DC current flows in water over a magnet (just like
+  electrons in a homopolar motor). https://t.co/HOCNreoBtr
+created_at: '2025-09-08T02:18:42.000Z'
+lang: en
+conversation_id: '1964875578043203907'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1030
+entities:
+  urls:
+  - start: 111
+    end: 134
+    url: https://t.co/HOCNreoBtr
+    expanded_url: https://x.com/RedCollie1/status/1964876015358091592/video/1
+    display_url: pic.x.com/HOCNreoBtr
+    media_key: '13_1964875730883682304'
+attachments:
+  media_keys:
+  - '13_1964875730883682304'
+media:
+- media_key: '13_1964875730883682304'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964875730883682304/img/a4oAJV0K8fzi1-rv.jpg
+  duration_ms: 46440
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964875730883682304/vid/avc1/480x270/-lICa4u0DxQuql9n.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964875730883682304/vid/avc1/640x360/fBLBhE538UpvOCQD.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964875730883682304/vid/avc1/1280x720/Ew9SzSP4fT6JbhSW.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964875730883682304/pl/FYq_E8TJBYt_-BEL.m3u8
+  public_metrics:
+    view_count: 430
+referenced_tweets:
+- type: replied_to
+  id: '1964875578043203907'
+  text: 'Just to summarize, for anyone following this series of posts: we know that
+    the sideways-spinning motion of a homopolar motor does not seem to follow Newton''s
+    3 Law. There is a forward reaction, without any backward counter-reaction.
+
+    If we could just change the forward direction https://t.co/FwOKwjUen5'
+has_video: true
+has_image: false
+media_count: 1

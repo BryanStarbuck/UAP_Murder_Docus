@@ -1,0 +1,106 @@
+id: '1963085305386574331'
+url: https://x.com/RedCollie1/status/1963085305386574331
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @RedCollie1: @spiritstem_ Think Quetzalcoatl or "Q".
+
+  Serpent descending.
+
+  Fifth year of the Mayan calendar (2017). https://t.co/1b9f1mXdNe'
+created_at: '2025-09-03T03:43:03.000Z'
+lang: en
+conversation_id: '1963085305386574331'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  mentions:
+  - start: 3
+    end: 14
+    username: RedCollie1
+    id: '1070522825646063617'
+  - start: 16
+    end: 28
+    username: spiritstem_
+    id: '1490078884511076358'
+  urls:
+  - start: 117
+    end: 140
+    url: https://t.co/1b9f1mXdNe
+    expanded_url: https://x.com/RedCollie1/status/1963085188482925029/photo/1
+    display_url: pic.x.com/1b9f1mXdNe
+    media_key: '3_1963084667596505090'
+  - start: 117
+    end: 140
+    url: https://t.co/1b9f1mXdNe
+    expanded_url: https://x.com/RedCollie1/status/1963085188482925029/photo/1
+    display_url: pic.x.com/1b9f1mXdNe
+    media_key: '3_1963084911960850439'
+  - start: 117
+    end: 140
+    url: https://t.co/1b9f1mXdNe
+    expanded_url: https://x.com/RedCollie1/status/1963085188482925029/photo/1
+    display_url: pic.x.com/1b9f1mXdNe
+    media_key: '3_1963085167574319107'
+attachments:
+  media_keys:
+  - '3_1963084667596505090'
+  - '3_1963084911960850439'
+  - '3_1963085167574319107'
+media:
+- media_key: '3_1963084667596505090'
+  type: photo
+  width: 900
+  height: 867
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz5HGrQbAAIZfGf.jpg
+- media_key: '3_1963084911960850439'
+  type: photo
+  width: 960
+  height: 662
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz5HU5lbAAckZ8Z.jpg
+- media_key: '3_1963085167574319107'
+  type: photo
+  width: 1432
+  height: 1302
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz5Hjx0bAAMxp-a.jpg
+referenced_tweets:
+- type: retweeted
+  id: '1963085188482925029'
+  text: '@spiritstem_ Think Quetzalcoatl or "Q".
+
+    Serpent descending.
+
+    Fifth year of the Mayan calendar (2017). https://t.co/1b9f1mXdNe'
+has_video: false
+has_image: true
+media_count: 3

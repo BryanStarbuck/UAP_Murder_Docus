@@ -1,0 +1,74 @@
+id: '1976427739394830535'
+url: https://x.com/RedCollie1/status/1976427739394830535
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Orion 1350.3 light years from Earth.\nThey are looking for new planets to live\
+  \ on. \n\"Beware\". \U0001F40E\U0001F40E\U0001F40E https://t.co/9l0iwgZlmR"
+created_at: '2025-10-09T23:21:07.000Z'
+lang: en
+conversation_id: '1976427739394830535'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 31
+  reply_count: 43
+  like_count: 332
+  quote_count: 5
+  bookmark_count: 80
+  impression_count: 23961
+entities:
+  urls:
+  - start: 97
+    end: 120
+    url: https://t.co/9l0iwgZlmR
+    expanded_url: https://x.com/RedCollie1/status/1976427739394830535/photo/1
+    display_url: pic.x.com/9l0iwgZlmR
+    media_key: '3_1976427282807095296'
+  - start: 97
+    end: 120
+    url: https://t.co/9l0iwgZlmR
+    expanded_url: https://x.com/RedCollie1/status/1976427739394830535/photo/1
+    display_url: pic.x.com/9l0iwgZlmR
+    media_key: '3_1976427359034290176'
+attachments:
+  media_keys:
+  - '3_1976427282807095296'
+  - '3_1976427359034290176'
+media:
+- media_key: '3_1976427282807095296'
+  type: photo
+  width: 960
+  height: 1055
+  alt_text: null
+  url: https://pbs.twimg.com/media/G22uJGQbgAAp9NQ.jpg
+- media_key: '3_1976427359034290176'
+  type: photo
+  width: 707
+  height: 607
+  alt_text: null
+  url: https://pbs.twimg.com/media/G22uNiOaMAATld5.png
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,82 @@
+id: '2017356494715625688'
+url: https://x.com/RedCollie1/status/2017356494715625688
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Two rings of N/S magnets, one outer and one inner.
+
+  Each ring has its own 3-phase power source given to axial-flux wire coils (3 inside,
+  versus 9, 12, 15 or 18 outside). https://t.co/WvhW9200TZ'
+created_at: '2026-01-30T21:57:23.000Z'
+lang: en
+conversation_id: '2017160365377987055'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 638
+entities:
+  urls:
+  - start: 169
+    end: 192
+    url: https://t.co/WvhW9200TZ
+    expanded_url: https://x.com/RedCollie1/status/2017356494715625688/photo/1
+    display_url: pic.x.com/WvhW9200TZ
+    media_key: '3_2017356086928674817'
+  - start: 169
+    end: 192
+    url: https://t.co/WvhW9200TZ
+    expanded_url: https://x.com/RedCollie1/status/2017356494715625688/photo/1
+    display_url: pic.x.com/WvhW9200TZ
+    media_key: '3_2017356476977946624'
+attachments:
+  media_keys:
+  - '3_2017356086928674817'
+  - '3_2017356476977946624'
+media:
+- media_key: '3_2017356086928674817'
+  type: photo
+  width: 680
+  height: 655
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_8WrDLbEAE8Tq6.jpg
+- media_key: '3_2017356476977946624'
+  type: photo
+  width: 1000
+  height: 498
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_8XBwOaoAAj5BI.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2017160365377987055'
+  text: "Various crop pictures show what seem to be \"two rings of small magnets\"\
+    , one inside and another outside, spinning rapidly in opposite directions, which\
+    \ make a UFO \"go up\" (slides 1 and 2).  \nWe can make the inner ring spin and\
+    \ rise, using three compact wire coils placed at the https://t.co/ETIeOszO8p"
+has_video: false
+has_image: true
+media_count: 2

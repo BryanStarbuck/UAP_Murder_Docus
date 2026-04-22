@@ -1,0 +1,115 @@
+id: '1966829658139443518'
+url: https://x.com/RedCollie1/status/1966829658139443518
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here in movie 1, you can see a \"solid\" homopolar motor with two brushes.\n\
+  Then in movie 2, you can see how a \"solid\" homopolar motor does not follow Newton's\
+  \ 3rd Lab of action-reaction. \nBecause its spin-motive energy is a sideways Lorentz\
+  \ force. \nThe \"school physicists\" do not https://t.co/ZqxqBI9JGX"
+created_at: '2025-09-13T11:41:47.000Z'
+lang: en
+conversation_id: '1966827826566623641'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 1306
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/ZqxqBI9JGX
+    expanded_url: https://x.com/RedCollie1/status/1966829658139443518/video/1
+    display_url: pic.x.com/ZqxqBI9JGX
+    media_key: '13_1966828494484369413'
+  - start: 278
+    end: 301
+    url: https://t.co/ZqxqBI9JGX
+    expanded_url: https://x.com/RedCollie1/status/1966829658139443518/video/1
+    display_url: pic.x.com/ZqxqBI9JGX
+    media_key: '13_1966828665024704512'
+attachments:
+  media_keys:
+  - '13_1966828494484369413'
+  - '13_1966828665024704512'
+media:
+- media_key: '13_1966828494484369413'
+  type: video
+  width: 320
+  height: 568
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966828494484369413/img/pKZbmsKlNLhaufzL.jpg
+  duration_ms: 16000
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966828494484369413/vid/avc1/320x568/9h2Od2u6jKvc8vO7.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966828494484369413/pl/yDhRKe--9WgEMHot.m3u8?v=6a8
+  public_metrics:
+    view_count: 520
+- media_key: '13_1966828665024704512'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1966828665024704512/img/RWtVi-upzQ1ZmCfc.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966828665024704512/vid/avc1/480x270/uY_M5DyuIRZN92Wp.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966828665024704512/vid/avc1/640x360/BUt0kP6kL4dPLxRO.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1966828665024704512/vid/avc1/1280x720/5I6NQNVhWKf2t3PO.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1966828665024704512/pl/-7H_4JrSt-sWkqeU.m3u8
+  public_metrics:
+    view_count: 160
+referenced_tweets:
+- type: replied_to
+  id: '1966827826566623641'
+  text: 'Some people are asking about my anti-gravity research, so I will show you
+    the current state of progress.
+
+    The E.T. guys who make "crop pictures" show us many "instructional" diagrams from
+    physics, that try to tell us how UFOs fly.
+
+    Slide 1 below shows a conventional "homopolar https://t.co/4Rit5CHkSR'
+has_video: true
+has_image: false
+media_count: 2
+note_tweet:
+  text: "Here in movie 1, you can see a \"solid\" homopolar motor with two brushes.\n\
+    Then in movie 2, you can see how a \"solid\" homopolar motor does not follow Newton's\
+    \ 3rd Lab of action-reaction. \nBecause its spin-motive energy is a sideways Lorentz\
+    \ force. \nThe \"school physicists\" do not know this, because they just memorize\
+    \ old equations, and care little for experimental evidence."

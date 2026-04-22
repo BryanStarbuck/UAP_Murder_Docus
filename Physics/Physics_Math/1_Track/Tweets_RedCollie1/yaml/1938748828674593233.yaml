@@ -1,0 +1,92 @@
+id: '1938748828674593233'
+url: https://x.com/RedCollie1/status/1938748828674593233
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"Fractal space antenna\" used by the E.T. crop artists.\nNot like our radio-telescope\
+  \ dishes! \nDo you understand now? https://t.co/NWE4D3VFU7"
+created_at: '2025-06-27T23:58:35.000Z'
+lang: en
+conversation_id: '1938746392002035774'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 16
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 993
+entities:
+  urls:
+  - start: 116
+    end: 139
+    url: https://t.co/NWE4D3VFU7
+    expanded_url: https://x.com/RedCollie1/status/1938748828674593233/photo/1
+    display_url: pic.x.com/NWE4D3VFU7
+    media_key: '3_1938748514835795968'
+  - start: 116
+    end: 139
+    url: https://t.co/NWE4D3VFU7
+    expanded_url: https://x.com/RedCollie1/status/1938748828674593233/photo/1
+    display_url: pic.x.com/NWE4D3VFU7
+    media_key: '3_1938748536067383296'
+  - start: 116
+    end: 139
+    url: https://t.co/NWE4D3VFU7
+    expanded_url: https://x.com/RedCollie1/status/1938748828674593233/photo/1
+    display_url: pic.x.com/NWE4D3VFU7
+    media_key: '3_1938748566828392448'
+attachments:
+  media_keys:
+  - '3_1938748514835795968'
+  - '3_1938748536067383296'
+  - '3_1938748566828392448'
+media:
+- media_key: '3_1938748514835795968'
+  type: photo
+  width: 900
+  height: 799
+  alt_text: null
+  url: https://pbs.twimg.com/media/GufRgJeakAAsWSV.jpg
+- media_key: '3_1938748536067383296'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GufRhYka4AAQGo7.jpg
+- media_key: '3_1938748566828392448'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GufRjLKaoAA6IV-.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1938746392002035774'
+  text: "Symbols on the Buga orb-sphere match those on an artefact from ancient South\
+    \ or Central America!\nFernando sent me this from Mexico. \nThink \"Kulkukan\"\
+    \ who descended from the stars. https://t.co/e1Zieg4TBA"
+has_video: false
+has_image: true
+media_count: 3

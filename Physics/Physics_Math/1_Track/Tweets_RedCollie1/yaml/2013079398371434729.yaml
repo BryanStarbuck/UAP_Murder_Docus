@@ -1,0 +1,95 @@
+id: '2013079398371434729'
+url: https://x.com/RedCollie1/status/2013079398371434729
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@_Too_Crazy_Fox_ Quetzal showed her to Martin in a dream 2002.\nI met her briefly\
+  \ at Glastonbury in 2011.\nShe was a good friend of Janet. \nhttps://t.co/o00ofrOZaT\
+  \ https://t.co/kytV9oy4Rr"
+created_at: '2026-01-19T02:41:44.000Z'
+lang: en
+conversation_id: '2012993319564095886'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 3
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 1483
+entities:
+  urls:
+  - start: 138
+    end: 161
+    url: https://t.co/o00ofrOZaT
+    expanded_url: https://www.cropcircleconnector.com/anasazi/time2011a.html
+    display_url: cropcircleconnector.com/anasazi/time20…
+    images:
+    - url: https://pbs.twimg.com/news_img/2013079441744830464/eElCIgVU?format=jpg&name=orig
+      width: 800
+      height: 600
+    - url: https://pbs.twimg.com/news_img/2013079441744830464/eElCIgVU?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Could the mysterious woman in Martin Keitel’s dream from August of 2002
+      be Kiesha Crowther? And are some crop pictures with a binary code being sent
+      back in time, just as for the time travelers from our future who visited Rendlesham
+      Forest in December of 1980 and left a binary code?
+    description: Could the mysterious woman in Martin Keitel’s dream from August of
+      2002 be Kiesha Crowther? And are some crop pictures with a binary code being
+      sent back in time, just as for the time travelers from our future who visited
+      Rendlesham Forest in December of 1980 and left a binary code? Are magical technologies
+      such as “time travel” or “messa ges sent through time” really possible? Can
+      we receive messages from the future in our dreams? Are some crop pictures being
+      sent back in time from the late 21 st
+    unwound_url: https://www.cropcircleconnector.com/anasazi/time2011a.html
+  - start: 162
+    end: 185
+    url: https://t.co/kytV9oy4Rr
+    expanded_url: https://x.com/RedCollie1/status/2013079398371434729/photo/1
+    display_url: pic.x.com/kytV9oy4Rr
+    media_key: '3_2013079141642375168'
+  mentions:
+  - start: 0
+    end: 16
+    username: _Too_Crazy_Fox_
+    id: '1931993453329530880'
+attachments:
+  media_keys:
+  - '3_2013079141642375168'
+media:
+- media_key: '3_2013079141642375168'
+  type: photo
+  width: 800
+  height: 600
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-_k0EZXkAAhIgX.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2013068338058961387'
+  text: ''
+has_video: false
+has_image: true
+media_count: 1

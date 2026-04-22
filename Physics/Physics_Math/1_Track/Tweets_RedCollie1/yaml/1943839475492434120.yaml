@@ -1,0 +1,79 @@
+id: '1943839475492434120'
+url: https://x.com/RedCollie1/status/1943839475492434120
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"Eyes" https://t.co/fCcVTqjdqF'
+created_at: '2025-07-12T01:07:00.000Z'
+lang: en
+conversation_id: '1943838561599729681'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 16
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1206
+entities:
+  urls:
+  - start: 7
+    end: 30
+    url: https://t.co/fCcVTqjdqF
+    expanded_url: https://x.com/RedCollie1/status/1943839475492434120/photo/1
+    display_url: pic.x.com/fCcVTqjdqF
+    media_key: '3_1943839168901111808'
+  - start: 7
+    end: 30
+    url: https://t.co/fCcVTqjdqF
+    expanded_url: https://x.com/RedCollie1/status/1943839475492434120/photo/1
+    display_url: pic.x.com/fCcVTqjdqF
+    media_key: '3_1943839464503074816'
+attachments:
+  media_keys:
+  - '3_1943839168901111808'
+  - '3_1943839464503074816'
+media:
+- media_key: '3_1943839168901111808'
+  type: photo
+  width: 1607
+  height: 1583
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvnnbNrXYAA1EPa.jpg
+- media_key: '3_1943839464503074816'
+  type: photo
+  width: 216
+  height: 234
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gvnnsa4XYAAWvIh.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1943838561599729681'
+  text: "\"This was the structure of the wheels. Each appeared to be made like a wheel\
+    \ within a wheel. As the creatures moved, they could go in any of four directions.\
+    \ But the wheels DID NOT CHANGE DIRECTION as the creatures moved. All four rims\
+    \ of those wheels were full of eyes.\" \nEzekiel https://t.co/vv9D8zBkz5"
+has_video: false
+has_image: true
+media_count: 2

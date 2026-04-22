@@ -1,0 +1,85 @@
+id: '2014598450802000137'
+url: https://x.com/RedCollie1/status/2014598450802000137
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: One would have to be "thick as a plank" not to understand this now! Spin and
+  counter-spin in a 3-phase magnetic field. https://t.co/rB89kd5KUS
+created_at: '2026-01-23T07:17:54.000Z'
+lang: en
+conversation_id: '2014595166938791985'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 18
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1354
+entities:
+  urls:
+  - start: 119
+    end: 142
+    url: https://t.co/rB89kd5KUS
+    expanded_url: https://x.com/RedCollie1/status/2014598450802000137/video/1
+    display_url: pic.x.com/rB89kd5KUS
+    media_key: '13_2014598205225463808'
+attachments:
+  media_keys:
+  - '13_2014598205225463808'
+media:
+- media_key: '13_2014598205225463808'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2014598205225463808/img/1USyTCHZS9H-5PDe.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598205225463808/vid/avc1/480x270/2MbWiUWoJt84lBi5.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598205225463808/vid/avc1/640x360/wlWA8EiTDMwcDQ6X.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2014598205225463808/vid/avc1/1280x720/KlimuuA4-n6AM3nZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2014598205225463808/pl/A486s9r2XnWz828f.m3u8?v=ff3
+  public_metrics:
+    view_count: 656
+referenced_tweets:
+- type: replied_to
+  id: '2014595166938791985'
+  text: 'Some of the "new" physics which may underlie UFO levitation. Spin and counter-spin
+    within 3-phase magnetic fields! 1⃣2⃣3⃣🛸
+
+    Taught to us by aliens. Great Learned Professors in our Schools don''t know. Imagine
+    that. 🤡
+
+    This is also why compasses spin near UFOs. https://t.co/bdBmWZYfyR'
+has_video: true
+has_image: false
+media_count: 1

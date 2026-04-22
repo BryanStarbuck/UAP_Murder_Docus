@@ -1,0 +1,72 @@
+id: '2000690580993474644'
+url: https://x.com/RedCollie1/status/2000690580993474644
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Tuberoot There was another great crop picture in Germany on the same date.
+  Can you decode? https://t.co/z0IS4OZQWF'
+created_at: '2025-12-15T22:13:00.000Z'
+lang: en
+conversation_id: '2000479125530869872'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 383
+entities:
+  mentions:
+  - start: 0
+    end: 9
+    username: Tuberoot
+    id: '2808043058'
+  urls:
+  - start: 92
+    end: 115
+    url: https://t.co/z0IS4OZQWF
+    expanded_url: https://x.com/RedCollie1/status/2000690580993474644/photo/1
+    display_url: pic.x.com/z0IS4OZQWF
+    media_key: '3_2000690425863225344'
+attachments:
+  media_keys:
+  - '3_2000690425863225344'
+media:
+- media_key: '3_2000690425863225344'
+  type: photo
+  width: 800
+  height: 877
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8PhV5saQAA8aTV.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2000566212993175915'
+  text: '@RedCollie1 I know nothing about it, first of all. I just looked it up to
+    propose a question. Why would crop circles appear in 2008 of 3-phase power, which
+    was beginning to evolved in 1891? What good did it do, what did the crop circle
+    change?'
+has_video: false
+has_image: true
+media_count: 1

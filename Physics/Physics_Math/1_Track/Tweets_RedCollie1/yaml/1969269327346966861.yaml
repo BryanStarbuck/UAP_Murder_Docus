@@ -1,0 +1,75 @@
+id: '1969269327346966861'
+url: https://x.com/RedCollie1/status/1969269327346966861
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"They're coming down sometime soon (cha-cha), They're coming down sometime\
+  \ soon. \nThey're coming, coming, co-ming,  \nComing, coming, co-ming,  \nComing\
+  \ down sometime soon.\" \U0001F47D\U0001F47D\n\U0001F602\U0001F923\U0001F605 https://t.co/3ibfIWhbVy"
+created_at: '2025-09-20T05:16:09.000Z'
+lang: en
+conversation_id: '1969269327346966861'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 20
+  reply_count: 12
+  like_count: 150
+  quote_count: 3
+  bookmark_count: 24
+  impression_count: 9528
+entities:
+  urls:
+  - start: 179
+    end: 202
+    url: https://t.co/3ibfIWhbVy
+    expanded_url: https://x.com/RedCollie1/status/1969269327346966861/photo/1
+    display_url: pic.x.com/3ibfIWhbVy
+    media_key: '3_1969268608904937473'
+  - start: 179
+    end: 202
+    url: https://t.co/3ibfIWhbVy
+    expanded_url: https://x.com/RedCollie1/status/1969269327346966861/photo/1
+    display_url: pic.x.com/3ibfIWhbVy
+    media_key: '3_1969268625875091456'
+attachments:
+  media_keys:
+  - '3_1969268608904937473'
+  - '3_1969268625875091456'
+media:
+- media_key: '3_1969268608904937473'
+  type: photo
+  width: 590
+  height: 725
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1Q_Xb0bQAEyVBu.jpg
+- media_key: '3_1969268625875091456'
+  type: photo
+  width: 900
+  height: 754
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1Q_YbCbQAAnb3u.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

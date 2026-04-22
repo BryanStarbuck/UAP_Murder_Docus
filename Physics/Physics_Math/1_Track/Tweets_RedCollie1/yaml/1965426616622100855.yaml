@@ -1,0 +1,104 @@
+id: '1965426616622100855'
+url: https://x.com/RedCollie1/status/1965426616622100855
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The \"coma\" and \"tail\" of 3I/ATLAS are both now turning \"green\", because\
+  \ so much NICKEL has been released into the gas phase. \nhttps://t.co/rxORTActQO\n\
+  Slide 1 real color, slide 2 inverted color. \nResearch has shown that the \"tails\"\
+  \ of \"comets\" NEVER TURN GREEN. So what are we https://t.co/V9xaJ6fekA"
+created_at: '2025-09-09T14:46:35.000Z'
+lang: en
+conversation_id: '1965426616622100855'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 205
+  reply_count: 78
+  like_count: 1039
+  quote_count: 23
+  bookmark_count: 235
+  impression_count: 96684
+entities:
+  urls:
+  - start: 126
+    end: 149
+    url: https://t.co/rxORTActQO
+    expanded_url: https://avi-loeb.medium.com/3i-atlas-is-turning-green-c8a4fd003abc
+    display_url: avi-loeb.medium.com/3i-atlas-is-tu…
+    status: 200
+    title: 3I/ATLAS is Turning Green
+    description: Until recently, all spectroscopic studies of 3I/ATLAS indicated a
+      reddish color. The latest image of 3I/ATLAS from September 7, 2025…
+    unwound_url: https://avi-loeb.medium.com/3i-atlas-is-turning-green-c8a4fd003abc
+  - start: 276
+    end: 299
+    url: https://t.co/V9xaJ6fekA
+    expanded_url: https://x.com/RedCollie1/status/1965426616622100855/photo/1
+    display_url: pic.x.com/V9xaJ6fekA
+    media_key: '3_1965425166026244098'
+  - start: 276
+    end: 299
+    url: https://t.co/V9xaJ6fekA
+    expanded_url: https://x.com/RedCollie1/status/1965426616622100855/photo/1
+    display_url: pic.x.com/V9xaJ6fekA
+    media_key: '3_1965425187832451072'
+attachments:
+  media_keys:
+  - '3_1965425166026244098'
+  - '3_1965425187832451072'
+media:
+- media_key: '3_1965425166026244098'
+  type: photo
+  width: 2000
+  height: 1456
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0aXxnWbgAIkzdm.jpg
+- media_key: '3_1965425187832451072'
+  type: photo
+  width: 2000
+  height: 1456
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0aXy4lb0AAwCfD.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  entities:
+    urls:
+    - start: 126
+      end: 149
+      url: https://t.co/VsNLgkGYdN
+      expanded_url: https://avi-loeb.medium.com/3i-atlas-is-turning-green-c8a4fd003abc
+      display_url: avi-loeb.medium.com/3i-atlas-is-tu…
+    - start: 337
+      end: 360
+      url: https://t.co/32uQgsViHx
+      expanded_url: https://www.unsw.edu.au/newsroom/news/2021/12/comets--heads-can-be-green--but-never-their-tails--after-90-year
+      display_url: unsw.edu.au/newsroom/news/…
+  text: "The \"coma\" and \"tail\" of 3I/ATLAS are both now turning \"green\", because\
+    \ so much NICKEL has been released into the gas phase. \nhttps://t.co/VsNLgkGYdN\n\
+    Slide 1 real color, slide 2 inverted color. \nResearch has shown that the \"tails\"\
+    \ of \"comets\" NEVER TURN GREEN. So what are we looking at here?\nWhy so much\
+    \ nickel, but very little iron?  \nhttps://t.co/32uQgsViHx"

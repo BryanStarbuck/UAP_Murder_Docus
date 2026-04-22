@@ -1,0 +1,95 @@
+id: '1931682192373264830'
+url: https://x.com/RedCollie1/status/1931682192373264830
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Very close to what was drawn in crops (2014, 2007). https://t.co/OzDgZQ972R
+created_at: '2025-06-08T11:58:18.000Z'
+lang: en
+conversation_id: '1931675077818667148'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 20
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1366
+entities:
+  urls:
+  - start: 52
+    end: 75
+    url: https://t.co/OzDgZQ972R
+    expanded_url: https://x.com/RedCollie1/status/1931682192373264830/photo/1
+    display_url: pic.x.com/OzDgZQ972R
+    media_key: '3_1931681926068473856'
+  - start: 52
+    end: 75
+    url: https://t.co/OzDgZQ972R
+    expanded_url: https://x.com/RedCollie1/status/1931682192373264830/photo/1
+    display_url: pic.x.com/OzDgZQ972R
+    media_key: '3_1931681943663579136'
+  - start: 52
+    end: 75
+    url: https://t.co/OzDgZQ972R
+    expanded_url: https://x.com/RedCollie1/status/1931682192373264830/photo/1
+    display_url: pic.x.com/OzDgZQ972R
+    media_key: '3_1931681964689588224'
+attachments:
+  media_keys:
+  - '3_1931681926068473856'
+  - '3_1931681943663579136'
+  - '3_1931681964689588224'
+media:
+- media_key: '3_1931681926068473856'
+  type: photo
+  width: 972
+  height: 947
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs62ei5akAAyVag.jpg
+- media_key: '3_1931681943663579136'
+  type: photo
+  width: 960
+  height: 747
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs62fkcakAAOG2L.jpg
+- media_key: '3_1931681964689588224'
+  type: photo
+  width: 4096
+  height: 3058
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs62gyxaAAAqJt0.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1931675077818667148'
+  text: 'Today I wanted to study the gravity-physics of a permanent magnet which spins
+    either above or below a ring of six 3-phase wire coils (wired as U-U-V-V-W-W).
+
+    One of my new lab videos is shown below. Here are the experimental findings (never
+    done before on Earth):
+
+    (1) The spinning https://t.co/0bwajFCKOI'
+has_video: false
+has_image: true
+media_count: 3

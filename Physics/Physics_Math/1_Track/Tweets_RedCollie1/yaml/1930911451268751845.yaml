@@ -1,0 +1,63 @@
+id: '1930911451268751845'
+url: https://x.com/RedCollie1/status/1930911451268751845
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: https://t.co/EMxVxenCkA
+created_at: '2025-06-06T08:55:39.000Z'
+lang: zxx
+conversation_id: '1930903163961565498'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 903
+entities:
+  urls:
+  - start: 0
+    end: 23
+    url: https://t.co/EMxVxenCkA
+    expanded_url: https://x.com/RedCollie1/status/1930911451268751845/photo/1
+    display_url: pic.x.com/EMxVxenCkA
+    media_key: '3_1930911442175488000'
+attachments:
+  media_keys:
+  - '3_1930911442175488000'
+media:
+- media_key: '3_1930911442175488000'
+  type: photo
+  width: 2048
+  height: 1536
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gsv5ueubcAAu132.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1930903163961565498'
+  text: From the Peak https://t.co/zLhnCDEdoU
+has_video: false
+has_image: true
+media_count: 1

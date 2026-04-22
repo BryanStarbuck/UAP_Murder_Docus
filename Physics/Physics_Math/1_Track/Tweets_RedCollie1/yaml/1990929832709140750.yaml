@@ -1,0 +1,80 @@
+id: '1990929832709140750'
+url: https://x.com/RedCollie1/status/1990929832709140750
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "NASA just cut the feed on its SkyCam. \nAn enemy warship turning off its \"\
+  cloaking device\".\nNOTHING TO SEE HERE! \nMaybe they are planning to watch the\
+  \ big NASA show on TV tomorrow? \U0001F605\U0001F602\U0001F923 https://t.co/5OxQQjwuEe"
+created_at: '2025-11-18T23:47:16.000Z'
+lang: en
+conversation_id: '1990929832709140750'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 168
+  reply_count: 87
+  like_count: 1431
+  quote_count: 13
+  bookmark_count: 370
+  impression_count: 209728
+entities:
+  urls:
+  - start: 184
+    end: 207
+    url: https://t.co/5OxQQjwuEe
+    expanded_url: https://x.com/RedCollie1/status/1990929832709140750/video/1
+    display_url: pic.x.com/5OxQQjwuEe
+    media_key: '13_1990929129089499136'
+attachments:
+  media_keys:
+  - '13_1990929129089499136'
+media:
+- media_key: '13_1990929129089499136'
+  type: video
+  width: 1200
+  height: 842
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1990929129089499136/img/22e_DLnjWwJZBdqm.jpg
+  duration_ms: 20010
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990929129089499136/vid/avc1/1200x842/ZbpDVgNJ_EsRxlb-.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990929129089499136/vid/avc1/1026x720/QdLGT8ubmvrBnHfo.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990929129089499136/vid/avc1/384x270/ekq8-Hng-b6oiM4J.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990929129089499136/vid/avc1/512x360/7u33EPLdRIu2LW-8.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1990929129089499136/pl/z3GiAEC5HocnxwDb.m3u8?v=cfc
+  public_metrics:
+    view_count: 110700
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

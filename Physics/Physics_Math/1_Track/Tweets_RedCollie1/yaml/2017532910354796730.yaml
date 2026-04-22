@@ -1,0 +1,73 @@
+id: '2017532910354796730'
+url: https://x.com/RedCollie1/status/2017532910354796730
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Sandmanterry55 Searle used 12 wire coils with a magnet spinning around the
+  center, very simple. https://t.co/b2UwjHy09H'
+created_at: '2026-01-31T09:38:24.000Z'
+lang: en
+conversation_id: '2017160365377987055'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 33
+entities:
+  urls:
+  - start: 97
+    end: 120
+    url: https://t.co/b2UwjHy09H
+    expanded_url: https://x.com/RedCollie1/status/2017532910354796730/photo/1
+    display_url: pic.x.com/b2UwjHy09H
+    media_key: '16_2017532741684985856'
+  mentions:
+  - start: 0
+    end: 15
+    username: Sandmanterry55
+    id: '1517308115766718465'
+attachments:
+  media_keys:
+  - '16_2017532741684985856'
+media:
+- media_key: '16_2017532741684985856'
+  type: animated_gif
+  width: 512
+  height: 286
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G_-3VtbagAAUw1r.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G_-3VtbagAAUw1r.mp4
+referenced_tweets:
+- type: replied_to
+  id: '2017424738440638662'
+  text: '@RedCollie1 I like the direction you are going, looks kind of like Searle'
+has_video: true
+has_image: false
+media_count: 1

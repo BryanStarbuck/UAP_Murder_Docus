@@ -1,0 +1,74 @@
+id: '1937655252146397494'
+url: https://x.com/RedCollie1/status/1937655252146397494
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@maniaUFO https://t.co/PByQptG1xK'
+created_at: '2025-06-24T23:33:06.000Z'
+lang: qme
+conversation_id: '1937504332842254825'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 3
+  like_count: 27
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 791
+entities:
+  mentions:
+  - start: 0
+    end: 9
+    username: maniaUFO
+    id: '2293697022'
+  urls:
+  - start: 10
+    end: 33
+    url: https://t.co/PByQptG1xK
+    expanded_url: https://x.com/RedCollie1/status/1937655252146397494/photo/1
+    display_url: pic.x.com/PByQptG1xK
+    media_key: '3_1937655242453319681'
+attachments:
+  media_keys:
+  - '3_1937655242453319681'
+media:
+- media_key: '3_1937655242453319681'
+  type: photo
+  width: 900
+  height: 573
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuPvLUeagAEpVgS.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1937504332842254825'
+  text: 'This photo was posted on Facebook, I quote what the person stated...
+
+    Quote
+
+    A  photo snapped by the mother of a classmate of mine back in 1966 (before  we
+    were born). No, not a fake. This was from their backyard in my  hometown. His
+    mom and aunt said these crafts flew over rather https://t.co/ABfmtCxokb'
+has_video: false
+has_image: true
+media_count: 1

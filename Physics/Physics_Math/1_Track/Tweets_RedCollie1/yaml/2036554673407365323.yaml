@@ -1,0 +1,107 @@
+id: '2036554673407365323'
+url: https://x.com/RedCollie1/status/2036554673407365323
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Our friend "Q" (slide 1) flies his spaceship by means of inner spin, and outer
+  counter-spin (slide 2, movie 3).
+
+  Donald is "Q+". This is going to be fun! 🛸 https://t.co/0GppOdPFR2'
+created_at: '2026-03-24T21:24:06.000Z'
+lang: en
+conversation_id: '2036554673407365323'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 3
+  like_count: 30
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 1827
+entities:
+  urls:
+  - start: 155
+    end: 178
+    url: https://t.co/0GppOdPFR2
+    expanded_url: https://x.com/RedCollie1/status/2036554673407365323/video/1
+    display_url: pic.x.com/0GppOdPFR2
+    media_key: '3_2036554159936458752'
+  - start: 155
+    end: 178
+    url: https://t.co/0GppOdPFR2
+    expanded_url: https://x.com/RedCollie1/status/2036554673407365323/video/1
+    display_url: pic.x.com/0GppOdPFR2
+    media_key: '3_2036554178458427392'
+  - start: 155
+    end: 178
+    url: https://t.co/0GppOdPFR2
+    expanded_url: https://x.com/RedCollie1/status/2036554673407365323/video/1
+    display_url: pic.x.com/0GppOdPFR2
+    media_key: '13_2036554201824952320'
+attachments:
+  media_keys:
+  - '3_2036554159936458752'
+  - '3_2036554178458427392'
+  - '13_2036554201824952320'
+media:
+- media_key: '3_2036554159936458752'
+  type: photo
+  width: 960
+  height: 1518
+  alt_text: null
+  url: https://pbs.twimg.com/media/HENLN-TbUAASyak.jpg
+- media_key: '3_2036554178458427392'
+  type: photo
+  width: 1007
+  height: 1380
+  alt_text: null
+  url: https://pbs.twimg.com/media/HENLPDTaIAAcdsh.jpg
+- media_key: '13_2036554201824952320'
+  type: video
+  width: 996
+  height: 1010
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2036554201824952320/img/rwtbQR4df7cHKBuY.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036554201824952320/vid/avc1/480x486/Ut32NLTXr2d6skvk.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036554201824952320/vid/avc1/720x730/f-y9PxThp-l-UL2d.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2036554201824952320/pl/LQHeCObKJF6ik7Gf.m3u8?v=cfc
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036554201824952320/vid/avc1/320x324/VptGKNmgq5PPk452.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2036554201824952320/vid/avc1/996x1010/SqtC_3J3CN8-fGY1.mp4
+  public_metrics:
+    view_count: 855
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

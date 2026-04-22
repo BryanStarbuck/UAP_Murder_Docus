@@ -1,0 +1,76 @@
+id: '1926609777645203914'
+url: https://x.com/RedCollie1/status/1926609777645203914
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'TEACHING EXERCISE: do you understand how this works? What is a "Lorentz force"?
+  How does that relate to a subatomic force of electron SPIN? https://t.co/JAEOOO2F5m'
+created_at: '2025-05-25T12:02:20.000Z'
+lang: en
+conversation_id: '1926609777645203914'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 9
+  reply_count: 8
+  like_count: 93
+  quote_count: 1
+  bookmark_count: 35
+  impression_count: 6775
+entities:
+  urls:
+  - start: 140
+    end: 163
+    url: https://t.co/JAEOOO2F5m
+    expanded_url: https://x.com/RedCollie1/status/1926609777645203914/video/1
+    display_url: pic.x.com/JAEOOO2F5m
+    media_key: '13_1926609637857538048'
+attachments:
+  media_keys:
+  - '13_1926609637857538048'
+media:
+- media_key: '13_1926609637857538048'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1926609637857538048/img/hbRU_Balikhb0j_y.jpg
+  duration_ms: 154520
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1926609637857538048/vid/avc1/480x270/_9HUlLf0vKxYKzmZ.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1926609637857538048/vid/avc1/640x360/2ofhudqjKXLv2QjM.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1926609637857538048/vid/avc1/1280x720/YLkV1ftA3JKDCvNH.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1926609637857538048/pl/DEZ3W0w1T1XGOxVd.m3u8?v=10f
+  public_metrics:
+    view_count: 4259
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

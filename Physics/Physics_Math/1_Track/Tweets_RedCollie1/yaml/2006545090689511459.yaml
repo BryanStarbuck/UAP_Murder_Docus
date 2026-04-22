@@ -1,0 +1,78 @@
+id: '2006545090689511459'
+url: https://x.com/RedCollie1/status/2006545090689511459
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: How do UFOs fly? https://t.co/wWWU4jh0S5
+created_at: '2026-01-01T01:56:44.000Z'
+lang: pt
+conversation_id: '2006545090689511459'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 14
+  reply_count: 4
+  like_count: 66
+  quote_count: 0
+  bookmark_count: 17
+  impression_count: 2739
+entities:
+  urls:
+  - start: 17
+    end: 40
+    url: https://t.co/wWWU4jh0S5
+    expanded_url: https://x.com/RedCollie1/status/2006545090689511459/video/1
+    display_url: pic.x.com/wWWU4jh0S5
+    media_key: '13_2006544917359923200'
+attachments:
+  media_keys:
+  - '13_2006544917359923200'
+media:
+- media_key: '13_2006544917359923200'
+  type: video
+  width: 1080
+  height: 1920
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2006544917359923200/img/CLQZh_A15SfdIiHW.jpg
+  duration_ms: 62711
+  variants:
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006544917359923200/vid/avc1/480x852/9bkTBQt9zHN96BTY.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006544917359923200/vid/avc1/1080x1920/GpQZP3e1ZZzXi4Ye.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006544917359923200/vid/avc1/320x568/8S_VN998_4rHyEld.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2006544917359923200/vid/avc1/720x1280/G3dvanu6An4aT3tz.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2006544917359923200/pl/gNwrR23HYn535Erg.m3u8?v=6ae
+  public_metrics:
+    view_count: 1391
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

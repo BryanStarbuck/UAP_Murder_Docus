@@ -1,0 +1,128 @@
+id: '1968945832247574953'
+url: https://x.com/RedCollie1/status/1968945832247574953
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "We can also make a spinning vortex by adding green food dye to pool salt water,\
+  \ when we add DC current, placed over a magnet below. This is just a visual demonstration\
+  \ to help us see clearly. \nThat \"spinning vortex\" shows up in many UFO-related\
+  \ crop pictures as in slides 2, 3, 4. https://t.co/Wqxxt5b2Wl"
+created_at: '2025-09-19T07:50:42.000Z'
+lang: en
+conversation_id: '1968863383266148583'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 19
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 3393
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/Wqxxt5b2Wl
+    expanded_url: https://x.com/RedCollie1/status/1968945832247574953/video/1
+    display_url: pic.x.com/Wqxxt5b2Wl
+    media_key: '13_1968945007999713280'
+  - start: 281
+    end: 304
+    url: https://t.co/Wqxxt5b2Wl
+    expanded_url: https://x.com/RedCollie1/status/1968945832247574953/video/1
+    display_url: pic.x.com/Wqxxt5b2Wl
+    media_key: '3_1968945724651094016'
+  - start: 281
+    end: 304
+    url: https://t.co/Wqxxt5b2Wl
+    expanded_url: https://x.com/RedCollie1/status/1968945832247574953/video/1
+    display_url: pic.x.com/Wqxxt5b2Wl
+    media_key: '3_1968945752392265728'
+  - start: 281
+    end: 304
+    url: https://t.co/Wqxxt5b2Wl
+    expanded_url: https://x.com/RedCollie1/status/1968945832247574953/video/1
+    display_url: pic.x.com/Wqxxt5b2Wl
+    media_key: '3_1968945770373218304'
+attachments:
+  media_keys:
+  - '13_1968945007999713280'
+  - '3_1968945724651094016'
+  - '3_1968945752392265728'
+  - '3_1968945770373218304'
+media:
+- media_key: '13_1968945007999713280'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1968945007999713280/img/S79R5l49gPy86CMI.jpg
+  duration_ms: 46440
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1968945007999713280/vid/avc1/480x270/v3dtXlbqIf44bikd.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1968945007999713280/vid/avc1/640x360/Q1H1TE264Zm32Yyy.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1968945007999713280/vid/avc1/1280x720/kKoJwgZ-G1V5Ch3Z.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1968945007999713280/pl/jmNvS1YmOQtpuVHm.m3u8?v=da4
+  public_metrics:
+    view_count: 2509
+- media_key: '3_1968945724651094016'
+  type: photo
+  width: 960
+  height: 913
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1MZtGPaQAA8Cqa.jpg
+- media_key: '3_1968945752392265728'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1MZutla8AAiG3Q.jpg
+- media_key: '3_1968945770373218304'
+  type: photo
+  width: 960
+  height: 926
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1MZvwkagAA7uv-.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1968863383266148583'
+  text: "You can see here a NEW video, which shows the second critical step, of trying\
+    \ to make a UFO-propulsion drive from a spinning vortex of the liquid metal \"\
+    galinstan\". \nThe spin force is a bit weak with 11 \"thin\" magnets around the\
+    \ outside, but am I try to reduce total weight.\nWe https://t.co/aiiwlB5TBe"
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "We can also make a spinning vortex by adding green food dye to pool salt\
+    \ water, when we add DC current, placed over a magnet below. This is just a visual\
+    \ demonstration to help us see clearly. \nThat \"spinning vortex\" shows up in\
+    \ many UFO-related crop pictures as in slides 2, 3, 4."

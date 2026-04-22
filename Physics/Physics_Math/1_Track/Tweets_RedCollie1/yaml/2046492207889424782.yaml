@@ -1,0 +1,81 @@
+id: '2046492207889424782'
+url: https://x.com/RedCollie1/status/2046492207889424782
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: No-spin (slide 1) versus spin and counter-spin (slide 2) https://t.co/HMJ7M2eMtn
+created_at: '2026-04-21T07:32:19.000Z'
+lang: en
+conversation_id: '2046407696933654833'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 430
+entities:
+  urls:
+  - start: 57
+    end: 80
+    url: https://t.co/HMJ7M2eMtn
+    expanded_url: https://x.com/RedCollie1/status/2046492207889424782/photo/1
+    display_url: pic.x.com/HMJ7M2eMtn
+    media_key: '3_2046491997440233472'
+  - start: 57
+    end: 80
+    url: https://t.co/HMJ7M2eMtn
+    expanded_url: https://x.com/RedCollie1/status/2046492207889424782/photo/1
+    display_url: pic.x.com/HMJ7M2eMtn
+    media_key: '3_2046492058882584576'
+attachments:
+  media_keys:
+  - '3_2046491997440233472'
+  - '3_2046492058882584576'
+media:
+- media_key: '3_2046491997440233472'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGaZoP8a0AAgdyS.jpg
+- media_key: '3_2046492058882584576'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGaZr01asAAYxNX.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2046407696933654833'
+  text: 'I suspect that the mysterious physics of UFO-flight may be based on TWO fast-spinning
+    "magnetic vortices", one just above a fast-spinning magnetic flywheel, and another
+    just below.
+
+    Slide 1 shows some "vortex" images drawn in crops (on the left), plus the close-up
+    photo of an https://t.co/wtkydgPJsq'
+has_video: false
+has_image: true
+media_count: 2

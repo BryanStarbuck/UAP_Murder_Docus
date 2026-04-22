@@ -1,0 +1,70 @@
+id: '1961968968383811688'
+url: https://x.com/RedCollie1/status/1961968968383811688
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The last image captured by Phobos 2.
+
+  Surprise, surprise. 🛸 https://t.co/cY6X47HXfk'
+created_at: '2025-08-31T01:47:08.000Z'
+lang: en
+conversation_id: '1961938217147777357'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 3
+  like_count: 47
+  quote_count: 0
+  bookmark_count: 10
+  impression_count: 5183
+entities:
+  urls:
+  - start: 59
+    end: 82
+    url: https://t.co/cY6X47HXfk
+    expanded_url: https://x.com/RedCollie1/status/1961968968383811688/photo/1
+    display_url: pic.x.com/cY6X47HXfk
+    media_key: '3_1961968742675677184'
+attachments:
+  media_keys:
+  - '3_1961968742675677184'
+media:
+- media_key: '3_1961968742675677184'
+  type: photo
+  width: 985
+  height: 739
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzpQLS-agAAhBbQ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1961938217147777357'
+  text: '3I/ATLAS seems to resemble Phobos, which is the larger of two Martian moons
+    (diameter 22 km).
+
+    Whatever you might believe, it is VERY ODD that an unknown object, the size of
+    a Martian moon, is passing Mars, then behind the Sun (as seen from Earth), then
+    onto Jupiter, where it https://t.co/VQ2ErEisdm'
+has_video: false
+has_image: true
+media_count: 1

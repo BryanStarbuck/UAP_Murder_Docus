@@ -1,0 +1,82 @@
+id: '1940923142555554175'
+url: https://x.com/RedCollie1/status/1940923142555554175
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The Italian crop picture of June 22, 2025 is located just NW of Poirino near\
+  \ Turin. \nCan anyone get a drone video please, then post on YouTube? Thank you.\n\
+  https://t.co/UUZ2qTk8LG\nlatitude 44.929 N, longitude 7.820 East https://t.co/1WPdAi6yFk"
+created_at: '2025-07-03T23:58:32.000Z'
+lang: en
+conversation_id: '1940923142555554175'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 5
+  like_count: 18
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1558
+entities:
+  urls:
+  - start: 155
+    end: 178
+    url: https://t.co/UUZ2qTk8LG
+    expanded_url: https://www.google.com/maps/place/10046+Poirino,+Metropolitan+City+of+Turin,+Italy/@44.9289661,7.8199859,501m/data=!3m1!1e3!4m6!3m5!1s0x4787e27ce24121dd:0xa3efd3c2a028d55c!8m2!3d44.9194626!4d7.848265!16zL20vMGc4a2h0?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D
+    display_url: google.com/maps/place/100…
+    status: 200
+    unwound_url: https://www.google.com/maps/place/10046+Poirino,+Metropolitan+City+of+Turin,+Italy/@44.9289661,7.8199859,501m/data=!3m1!1e3!4m6!3m5!1s0x4787e27ce24121dd:0xa3efd3c2a028d55c!8m2!3d44.9194626!4d7.848265!16zL20vMGc4a2h0?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D
+  - start: 219
+    end: 242
+    url: https://t.co/1WPdAi6yFk
+    expanded_url: https://x.com/RedCollie1/status/1940923142555554175/photo/1
+    display_url: pic.x.com/1WPdAi6yFk
+    media_key: '3_1940922426441060352'
+  - start: 219
+    end: 242
+    url: https://t.co/1WPdAi6yFk
+    expanded_url: https://x.com/RedCollie1/status/1940923142555554175/photo/1
+    display_url: pic.x.com/1WPdAi6yFk
+    media_key: '3_1940922527951601664'
+attachments:
+  media_keys:
+  - '3_1940922426441060352'
+  - '3_1940922527951601664'
+media:
+- media_key: '3_1940922426441060352'
+  type: photo
+  width: 1500
+  height: 1451
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gu-KqdSb0AATvd0.jpg
+- media_key: '3_1940922527951601664'
+  type: photo
+  width: 1200
+  height: 900
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gu-KwXcbwAApGqs.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

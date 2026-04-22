@@ -1,0 +1,80 @@
+id: '1970666156248965482'
+url: https://x.com/RedCollie1/status/1970666156248965482
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"5-phase AC power\" as drawn in crops. \nAlso a 5-bladed \"space propeller\"\
+  . \U0001F6F8 https://t.co/32VE35wvFQ"
+created_at: '2025-09-24T01:46:39.000Z'
+lang: en
+conversation_id: '1970665844293411200'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 2
+  like_count: 32
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 2531
+entities:
+  urls:
+  - start: 76
+    end: 99
+    url: https://t.co/32VE35wvFQ
+    expanded_url: https://x.com/RedCollie1/status/1970666156248965482/photo/1
+    display_url: pic.x.com/32VE35wvFQ
+    media_key: '3_1970665897473048576'
+  - start: 76
+    end: 99
+    url: https://t.co/32VE35wvFQ
+    expanded_url: https://x.com/RedCollie1/status/1970666156248965482/photo/1
+    display_url: pic.x.com/32VE35wvFQ
+    media_key: '3_1970665914640277509'
+attachments:
+  media_keys:
+  - '3_1970665897473048576'
+  - '3_1970665914640277509'
+media:
+- media_key: '3_1970665897473048576'
+  type: photo
+  width: 975
+  height: 611
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1k2MVXbgAAMGIn.jpg
+- media_key: '3_1970665914640277509'
+  type: photo
+  width: 960
+  height: 979
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1k2NVUaoAU1l3e.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1970665844293411200'
+  text: "The Buga orb-sphere: that has to be a \"ball\" of some kind, spinning by\
+    \ 5-phase AC power, due to five wire coils (\"lunar crescents\") imbedded in its\
+    \ thick aluminum shell nearby. \nIf we knew what was inside the \"ball\", it could\
+    \ be reverse-engineered right away! \nSlides 3 and 4 are https://t.co/vj3qaw3CK8"
+has_video: false
+has_image: true
+media_count: 2

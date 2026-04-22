@@ -1,0 +1,91 @@
+id: '1950504055346003974'
+url: https://x.com/RedCollie1/status/1950504055346003974
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Ketzahl Q the jester? 😅 https://t.co/kSbW9Tj4sx'
+created_at: '2025-07-30T10:29:40.000Z'
+lang: en
+conversation_id: '1950500640045830357'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 118
+entities:
+  urls:
+  - start: 25
+    end: 48
+    url: https://t.co/kSbW9Tj4sx
+    expanded_url: https://x.com/RedCollie1/status/1950504055346003974/photo/1
+    display_url: pic.x.com/kSbW9Tj4sx
+    media_key: '3_1950503988044210176'
+  - start: 25
+    end: 48
+    url: https://t.co/kSbW9Tj4sx
+    expanded_url: https://x.com/RedCollie1/status/1950504055346003974/photo/1
+    display_url: pic.x.com/kSbW9Tj4sx
+    media_key: '3_1950504003605016576'
+  mentions:
+  - start: 0
+    end: 8
+    username: Ketzahl
+    id: '1674765819098587139'
+attachments:
+  media_keys:
+  - '3_1950503988044210176'
+  - '3_1950504003605016576'
+media:
+- media_key: '3_1950503988044210176'
+  type: photo
+  width: 600
+  height: 450
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxGVCvxboAASUf7.jpg
+- media_key: '3_1950504003605016576'
+  type: photo
+  width: 750
+  height: 551
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxGVDpvasAAYUgU.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1950500640045830357'
+  text: 'Wilmington | East Sussex
+
+    England
+
+    2025 july 25
+
+
+    https://t.co/QDOE2GNem8
+
+
+    Aerial: https://t.co/RtI4ZxQbXc https://t.co/7fUnxnSbF4'
+has_video: false
+has_image: true
+media_count: 2

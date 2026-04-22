@@ -1,0 +1,65 @@
+id: '1928610356357660944'
+url: https://x.com/RedCollie1/status/1928610356357660944
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Please see Jaime Maussan''s new movie about the Buga orb-sphere.
+
+  https://t.co/h3ToGmeXZX https://t.co/XroUGe3xEt'
+created_at: '2025-05-31T00:31:55.000Z'
+lang: en
+conversation_id: '1928610356357660944'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 13
+  reply_count: 6
+  like_count: 100
+  quote_count: 1
+  bookmark_count: 34
+  impression_count: 8925
+entities:
+  urls:
+  - start: 64
+    end: 87
+    url: https://t.co/h3ToGmeXZX
+    expanded_url: https://www.youtube.com/watch?v=yt5JKy54OuI
+    display_url: youtube.com/watch?v=yt5JKy…
+    status: 200
+    unwound_url: https://www.youtube.com/watch?v=yt5JKy54OuI
+  - start: 88
+    end: 111
+    url: https://t.co/XroUGe3xEt
+    expanded_url: https://twitter.com/RedCollie1/status/1928609932598804582
+    display_url: x.com/RedCollie1/sta…
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: quoted
+  id: '1928609932598804582'
+  text: IMAGINE THAT. They are communicating using a "fractal" antenna, linked to
+    a "chip". https://t.co/XBJuywgg4G
+has_video: false
+has_image: false
+media_count: 0

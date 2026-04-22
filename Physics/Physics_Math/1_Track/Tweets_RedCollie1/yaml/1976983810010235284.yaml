@@ -1,0 +1,93 @@
+id: '1976983810010235284'
+url: https://x.com/RedCollie1/status/1976983810010235284
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@EsotericKang @Djehuty555 The \"Q\" team are waiting on the \"other side\"\
+  \ of a black hole, where they can emerge quickly, but remain unseen until they come\
+  \ out. \nI keep thinking of Custer at Little Big Horn, who at first did not \"see\"\
+  \ any Indians. https://t.co/lwgGx0QZcq"
+created_at: '2025-10-11T12:10:45.000Z'
+lang: en
+conversation_id: '1976878025791905861'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1717
+entities:
+  urls:
+  - start: 245
+    end: 268
+    url: https://t.co/lwgGx0QZcq
+    expanded_url: https://x.com/RedCollie1/status/1976983810010235284/video/1
+    display_url: pic.x.com/lwgGx0QZcq
+    media_key: '13_1976982878732140548'
+  mentions:
+  - start: 0
+    end: 13
+    username: EsotericKang
+    id: '47387075'
+  - start: 14
+    end: 25
+    username: Djehuty555
+    id: '1130632025302548480'
+attachments:
+  media_keys:
+  - '13_1976982878732140548'
+media:
+- media_key: '13_1976982878732140548'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1976982878732140548/img/cIvTx8a9cefILzFX.jpg
+  duration_ms: 44372
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1976982878732140548/vid/avc1/480x270/s0fFNx_5DpIDn_rs.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1976982878732140548/vid/avc1/640x360/lFEpQ07PqQrLSsN_.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1976982878732140548/vid/avc1/1280x720/jsZUgQ-26_5OAy9l.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1976982878732140548/pl/b9RwtY9JQZts--mj.m3u8?v=cfc
+  public_metrics:
+    view_count: 928
+referenced_tweets:
+- type: replied_to
+  id: '1976878025791905861'
+  text: Mr Pool disappeared on 10/12/2023 for several days and returned on 10/17 to
+    post an encoded message “Underneath the moonlit reflection, where ripples distort
+    the known, we await in the depths, signaling a truth yet to be shown” - Decoded
+    by @Djehuty555 https://t.co/eBjGVGUQfh
+has_video: true
+has_image: false
+media_count: 1

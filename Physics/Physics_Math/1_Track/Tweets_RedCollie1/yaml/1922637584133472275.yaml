@@ -1,0 +1,76 @@
+id: '1922637584133472275'
+url: https://x.com/RedCollie1/status/1922637584133472275
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Jaime's new video about the orb-sphere https://t.co/3MR2GttvGT
+created_at: '2025-05-14T12:58:15.000Z'
+lang: en
+conversation_id: '1922635498620629188'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 755
+entities:
+  urls:
+  - start: 39
+    end: 62
+    url: https://t.co/3MR2GttvGT
+    expanded_url: https://x.com/RedCollie1/status/1922637584133472275/video/1
+    display_url: pic.x.com/3MR2GttvGT
+    media_key: '13_1922637416739057664'
+attachments:
+  media_keys:
+  - '13_1922637416739057664'
+media:
+- media_key: '13_1922637416739057664'
+  type: video
+  width: 480
+  height: 270
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1922637416739057664/img/VpR3AYKMRtmW9d7t.jpg
+  duration_ms: 1293560
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1922637416739057664/vid/avc1/480x270/GFxFBsLZwLNCZwFn.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1922637416739057664/pl/ReFPdLi0eW1lxcEO.m3u8
+  public_metrics:
+    view_count: 311
+referenced_tweets:
+- type: replied_to
+  id: '1922635498620629188'
+  text: 'Jaime Maussan (my friend) says in a new video, that his captured "orb sphere"
+    is an "electromagnetic device" which has to "spin rapidly" to levitate.
+
+    That is the SAME kind of physics I have been working on for some time, as shown
+    in a lab movie below. And also in dozens of https://t.co/dUhigEjxbS'
+has_video: true
+has_image: false
+media_count: 1

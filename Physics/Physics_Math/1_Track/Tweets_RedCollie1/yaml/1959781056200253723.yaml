@@ -1,0 +1,82 @@
+id: '1959781056200253723'
+url: https://x.com/RedCollie1/status/1959781056200253723
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "An (orange) gas cloud surrounding 3I/ATLAS is made of carbon dioxide (CO2)\
+  \ rather than water (H2O) or carbon monoxide (CO). \nIpso facto, it is NOT an \"\
+  icy comet\". NO TAIL. \nhttps://t.co/c5FqHc6V4K https://t.co/91i9jwOGfB"
+created_at: '2025-08-25T00:53:09.000Z'
+lang: en
+conversation_id: '1959781056200253723'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 86
+  reply_count: 36
+  like_count: 548
+  quote_count: 7
+  bookmark_count: 93
+  impression_count: 58016
+entities:
+  urls:
+  - start: 173
+    end: 196
+    url: https://t.co/c5FqHc6V4K
+    expanded_url: https://avi-loeb.medium.com/3i-atlas-is-large-and-emits-carbon-dioxide-co2-22fe3a31b3e5
+    display_url: avi-loeb.medium.com/3i-atlas-is-la…
+    status: 200
+    unwound_url: https://avi-loeb.medium.com/3i-atlas-is-large-and-emits-carbon-dioxide-co2-22fe3a31b3e5
+  - start: 197
+    end: 220
+    url: https://t.co/91i9jwOGfB
+    expanded_url: https://x.com/RedCollie1/status/1959781056200253723/photo/1
+    display_url: pic.x.com/91i9jwOGfB
+    media_key: '3_1959780062506717184'
+  - start: 197
+    end: 220
+    url: https://t.co/91i9jwOGfB
+    expanded_url: https://x.com/RedCollie1/status/1959781056200253723/photo/1
+    display_url: pic.x.com/91i9jwOGfB
+    media_key: '3_1959780083218186240'
+attachments:
+  media_keys:
+  - '3_1959780062506717184'
+  - '3_1959780083218186240'
+media:
+- media_key: '3_1959780062506717184'
+  type: photo
+  width: 1024
+  height: 1023
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzKJlV-bEAAUtLl.jpg
+- media_key: '3_1959780083218186240'
+  type: photo
+  width: 1100
+  height: 365
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzKJmjIbAAAtoCV.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

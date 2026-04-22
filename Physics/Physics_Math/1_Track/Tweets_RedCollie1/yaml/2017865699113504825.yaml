@@ -1,0 +1,61 @@
+id: '2017865699113504825'
+url: https://x.com/RedCollie1/status/2017865699113504825
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@grok @OpenKultur1 INDEED'
+created_at: '2026-02-01T07:40:47.000Z'
+lang: en
+conversation_id: '2017453696750334151'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 78
+entities:
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: OpenKultur1
+    id: '486435378'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '2017712316049985537'
+  text: '@OpenKultur1 @RedCollie1 The video shows a real experiment by Dr. Horace
+    Drew, a scientist exploring magnetic phenomena for UFO research. Similar spinning
+    magnet effects, like levitation, are documented in studies (e.g., via arXiv and
+    physics journals). It may challenge some textbook models, but it''s not'
+has_video: false
+has_image: false
+media_count: 0

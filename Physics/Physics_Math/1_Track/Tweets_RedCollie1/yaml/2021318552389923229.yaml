@@ -1,0 +1,75 @@
+id: '2021318552389923229'
+url: https://x.com/RedCollie1/status/2021318552389923229
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "This amazing crop picture at Cley Hill in 2010 showed a \"three-dimensional\
+  \ cross\" ✝️✝️✝️\nLook at all of the fine detail!\nImpossible by \"rope and boards\"\
+  . \nI love making fun of stupid skeptics and A.I. in the morning. \U0001F601 https://t.co/v2HZPFJvXE"
+created_at: '2026-02-10T20:21:11.000Z'
+lang: en
+conversation_id: '2021318552389923229'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 7
+  like_count: 53
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 1360
+entities:
+  urls:
+  - start: 219
+    end: 242
+    url: https://t.co/v2HZPFJvXE
+    expanded_url: https://x.com/RedCollie1/status/2021318552389923229/photo/1
+    display_url: pic.x.com/v2HZPFJvXE
+    media_key: '3_2021318216635789312'
+  - start: 219
+    end: 242
+    url: https://t.co/v2HZPFJvXE
+    expanded_url: https://x.com/RedCollie1/status/2021318552389923229/photo/1
+    display_url: pic.x.com/v2HZPFJvXE
+    media_key: '3_2021318236030238720'
+attachments:
+  media_keys:
+  - '3_2021318216635789312'
+  - '3_2021318236030238720'
+media:
+- media_key: '3_2021318216635789312'
+  type: photo
+  width: 1000
+  height: 772
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA0qNWiaMAAVmnt.jpg
+- media_key: '3_2021318236030238720'
+  type: photo
+  width: 800
+  height: 533
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA0qOeyaAAANKuT.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

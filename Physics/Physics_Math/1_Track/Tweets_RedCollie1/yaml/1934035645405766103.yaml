@@ -1,0 +1,81 @@
+id: '1934035645405766103'
+url: https://x.com/RedCollie1/status/1934035645405766103
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: This was the first great crop picture in 1991. It described the spinning rise
+  and precession of a "top". Think "pyramid shape". Think "3-phase power". Learn how
+  to read and understand crop pictures! https://t.co/e53UmuOkY1
+created_at: '2025-06-14T23:50:05.000Z'
+lang: en
+conversation_id: '1933726643086111139'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 20
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1170
+entities:
+  urls:
+  - start: 199
+    end: 222
+    url: https://t.co/e53UmuOkY1
+    expanded_url: https://x.com/RedCollie1/status/1934035645405766103/photo/1
+    display_url: pic.x.com/e53UmuOkY1
+    media_key: '3_1934035033859518464'
+  - start: 199
+    end: 222
+    url: https://t.co/e53UmuOkY1
+    expanded_url: https://x.com/RedCollie1/status/1934035645405766103/photo/1
+    display_url: pic.x.com/e53UmuOkY1
+    media_key: '3_1934035055959298048'
+attachments:
+  media_keys:
+  - '3_1934035033859518464'
+  - '3_1934035055959298048'
+media:
+- media_key: '3_1934035033859518464'
+  type: photo
+  width: 695
+  height: 640
+  alt_text: null
+  url: https://pbs.twimg.com/media/GtcSnchbcAAcngY.jpg
+- media_key: '3_1934035055959298048'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GtcSou2bUAAjxb9.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1933726643086111139'
+  text: "Here are my first attempts to reproduce the anti-gravity physics of the Buga\
+    \ orb-sphere. A little progress, but any further clues from Jamie and Fernando\
+    \ in Mexico would be greatly useful! \nThe first 2:45 are just an introduction.\n\
+    I start to work on the Buga model at time 2:45, https://t.co/yJcerTTIzD"
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,93 @@
+id: '1983881901372010784'
+url: https://x.com/RedCollie1/status/1983881901372010784
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The 3-phase power spins one way, while an internal homopolar dynamo spins the
+  other way.
+
+  If Newton''s 3rd Law was strictly observed, then it would never leave the ground,
+  so long as F-up = F-down.
+
+  But that homopolar dynamo seems to reduce F-down so that it becomes less than F-up.
+  https://t.co/45nG86qakl'
+created_at: '2025-10-30T13:01:18.000Z'
+lang: en
+conversation_id: '1983835595828072898'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1111
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/45nG86qakl
+    expanded_url: https://x.com/RedCollie1/status/1983881901372010784/video/1
+    display_url: pic.x.com/45nG86qakl
+    media_key: '13_1983881187644022785'
+attachments:
+  media_keys:
+  - '13_1983881187644022785'
+media:
+- media_key: '13_1983881187644022785'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1983881187644022785/img/QytaSXQ4gy4p0sIF.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1983881187644022785/vid/avc1/480x270/pW0U-SOFq1n3q7um.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1983881187644022785/vid/avc1/640x360/dk-d3fg51-SQWPEn.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1983881187644022785/vid/avc1/1280x720/30LlakzZTHOoJIfc.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1983881187644022785/pl/HSYsF94NLodqN0om.m3u8
+  public_metrics:
+    view_count: 437
+referenced_tweets:
+- type: replied_to
+  id: '1983835595828072898'
+  text: To understand UFO levitation, we have to understand how a magnet spins and
+    rises due to 3-phase power, and also how its 3rd Law, Newtonian counter-reactions
+    of "mass recoil" and "magnetic recoil" get reduced or even cancelled, by a self-exciting
+    homopolar dynamo made of liquid https://t.co/9RcWAHhQ9k
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "The 3-phase power spins one way, while an internal homopolar dynamo spins\
+    \ the other way.\nIf Newton's 3rd Law was strictly observed, then it would never\
+    \ leave the ground, so long as F-up = F-down.\nBut that homopolar dynamo seems\
+    \ to reduce F-down so that it becomes less than F-up. \nTry to THINK."

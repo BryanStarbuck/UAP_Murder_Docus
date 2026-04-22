@@ -1,0 +1,96 @@
+id: '1978539177533640943'
+url: https://x.com/RedCollie1/status/1978539177533640943
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "My ground video there on August 8, 2017. \nNobody made this using \"rope and\
+  \ boards\". \nIt was made by \"Q-17\" and his people, just before they came down.\
+  \ \nNext stop &gt; Washington DC. https://t.co/IPfc3Lx6J4"
+created_at: '2025-10-15T19:11:14.000Z'
+lang: en
+conversation_id: '1978240840817680530'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 893
+entities:
+  urls:
+  - start: 182
+    end: 205
+    url: https://t.co/IPfc3Lx6J4
+    expanded_url: https://x.com/RedCollie1/status/1978539177533640943/video/1
+    display_url: pic.x.com/IPfc3Lx6J4
+    media_key: '3_1978538780417232896'
+  - start: 182
+    end: 205
+    url: https://t.co/IPfc3Lx6J4
+    expanded_url: https://x.com/RedCollie1/status/1978539177533640943/video/1
+    display_url: pic.x.com/IPfc3Lx6J4
+    media_key: '13_1978538817469693952'
+attachments:
+  media_keys:
+  - '3_1978538780417232896'
+  - '13_1978538817469693952'
+media:
+- media_key: '3_1978538780417232896'
+  type: photo
+  width: 4096
+  height: 3072
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3Uuib0akAAiYTz.jpg
+- media_key: '13_1978538817469693952'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1978538817469693952/img/9H31wiqG7s-JdDoN.jpg
+  duration_ms: 79560
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1978538817469693952/vid/avc1/480x270/U3K2MG1qGZd37MG4.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1978538817469693952/vid/avc1/640x360/Da-nKue23CV4J-Kr.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1978538817469693952/vid/avc1/1280x720/Kj-lJbig7xMiRvMD.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1978538817469693952/pl/adA5WOou5JowaVX1.m3u8
+  public_metrics:
+    view_count: 394
+referenced_tweets:
+- type: replied_to
+  id: '1978240840817680530'
+  text: "From darkness into light.\n\"Q\" drew this in crops on August 8, 2017 just\
+    \ before he came down from space. \nA letter \"Q\" with a \"long tail\", leading\
+    \ to a \"green tree\".\nInside there were 17 (seventeen) \"rays of light\" from\
+    \ a \"rising Sun\". ☀️☀️☀️\nDARKNESS TO LIGHT \nHe will take us to https://t.co/U1Da5Z6XCn"
+has_video: true
+has_image: true
+media_count: 2

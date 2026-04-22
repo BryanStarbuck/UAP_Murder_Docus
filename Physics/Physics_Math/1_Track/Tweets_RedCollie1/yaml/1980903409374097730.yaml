@@ -1,0 +1,67 @@
+id: '1980903409374097730'
+url: https://x.com/RedCollie1/status/1980903409374097730
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The spinning and wobbling (rising) magnet 🛸 https://t.co/IKsgV5mmNo
+created_at: '2025-10-22T07:45:50.000Z'
+lang: en
+conversation_id: '1980840769926963669'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 3
+  like_count: 30
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2503
+entities:
+  urls:
+  - start: 44
+    end: 67
+    url: https://t.co/IKsgV5mmNo
+    expanded_url: https://x.com/RedCollie1/status/1980903409374097730/photo/1
+    display_url: pic.x.com/IKsgV5mmNo
+    media_key: '3_1980903361806307328'
+attachments:
+  media_keys:
+  - '3_1980903361806307328'
+media:
+- media_key: '3_1980903361806307328'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G32VHL7XkAAhHIF.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1980840769926963669'
+  text: 'Here is a quick trailer for my new lab experiment, which will be explained
+    fully in Movies 1, 2 and 3 posted in comments below.
+
+    I do not intend to answer the dumb comments of abusive people, but will just point
+    out that a fast-spinning magnet acts like a gyroscope, and thus is https://t.co/pIlRMcLza9'
+has_video: false
+has_image: true
+media_count: 1

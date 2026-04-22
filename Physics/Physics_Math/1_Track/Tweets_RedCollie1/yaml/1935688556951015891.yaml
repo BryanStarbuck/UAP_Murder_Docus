@@ -1,0 +1,71 @@
+id: '1935688556951015891'
+url: https://x.com/RedCollie1/status/1935688556951015891
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Spinning top https://t.co/sdn71djzH1
+created_at: '2025-06-19T13:18:09.000Z'
+lang: en
+conversation_id: '1935687330180039105'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 704
+entities:
+  urls:
+  - start: 13
+    end: 36
+    url: https://t.co/sdn71djzH1
+    expanded_url: https://x.com/RedCollie1/status/1935688556951015891/photo/1
+    display_url: pic.x.com/sdn71djzH1
+    media_key: '16_1935688539930288129'
+attachments:
+  media_keys:
+  - '16_1935688539930288129'
+media:
+- media_key: '16_1935688539930288129'
+  type: animated_gif
+  width: 500
+  height: 212
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/GtzyeKpW4AEpjz5.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/GtzyeKpW4AEpjz5.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1935687330180039105'
+  text: '"SPINNING TOP"
+
+    SPINNING MAGNETIC LEVITATION
+
+    How to solve the mystery? https://t.co/IzGfHLWqmA'
+has_video: true
+has_image: false
+media_count: 1

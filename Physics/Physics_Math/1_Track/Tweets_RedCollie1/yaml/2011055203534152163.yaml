@@ -1,0 +1,76 @@
+id: '2011055203534152163'
+url: https://x.com/RedCollie1/status/2011055203534152163
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: I will post here some "Islamophobia" from Megyn Kelly before Albanese makes
+  this a "hate crime". 🤡😅 https://t.co/OmwCnxkTi3
+created_at: '2026-01-13T12:38:18.000Z'
+lang: en
+conversation_id: '2011055203534152163'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1280
+entities:
+  urls:
+  - start: 100
+    end: 123
+    url: https://t.co/OmwCnxkTi3
+    expanded_url: https://x.com/RedCollie1/status/2011055203534152163/video/1
+    display_url: pic.x.com/OmwCnxkTi3
+    media_key: '13_2011054752860422147'
+attachments:
+  media_keys:
+  - '13_2011054752860422147'
+media:
+- media_key: '13_2011054752860422147'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2011054752860422147/img/YIih0xDuXWckXJjn.jpg
+  duration_ms: 76231
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011054752860422147/vid/avc1/480x270/qEALfms2SFwjlu7R.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011054752860422147/vid/avc1/640x360/fjsQsXANKm7gIn_6.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2011054752860422147/vid/avc1/1280x720/bxWbmH5b5FIJYG6t.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2011054752860422147/pl/RcDHGkYQF6RjT08K.m3u8?v=5f6
+  public_metrics:
+    view_count: 705
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

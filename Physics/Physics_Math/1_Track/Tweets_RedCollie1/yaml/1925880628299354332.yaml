@@ -1,0 +1,77 @@
+id: '1925880628299354332'
+url: https://x.com/RedCollie1/status/1925880628299354332
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@PeteCain @thenazcamummies We had one near Boorowa in November 2012, investigated\
+  \ by my friends Jo and Troy in Canberra. \nBy the time someone took a drone photo,\
+  \ it was several weeks old and messy. https://t.co/oDDVc1fq6x"
+created_at: '2025-05-23T11:44:57.000Z'
+lang: en
+conversation_id: '1925865172654063894'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 86
+entities:
+  urls:
+  - start: 198
+    end: 221
+    url: https://t.co/oDDVc1fq6x
+    expanded_url: https://x.com/RedCollie1/status/1925880628299354332/photo/1
+    display_url: pic.x.com/oDDVc1fq6x
+    media_key: '3_1925880457217900544'
+  mentions:
+  - start: 0
+    end: 9
+    username: PeteCain
+    id: '41101953'
+  - start: 10
+    end: 26
+    username: thenazcamummies
+    id: '1884063842713624578'
+attachments:
+  media_keys:
+  - '3_1925880457217900544'
+media:
+- media_key: '3_1925880457217900544'
+  type: photo
+  width: 542
+  height: 531
+  alt_text: null
+  url: https://pbs.twimg.com/media/GroaEnRXAAANuGf.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1925878878448304153'
+  text: "@RedCollie1 Any ideas on why we don’t get them in the crops here in Aust?\
+    \ (Guessing not on ancient sites). \nBig interest in @thenazcamummies and i think\
+    \ this/orbs intersects the best available hard proof in existence of where this\
+    \ all comes from."
+has_video: false
+has_image: true
+media_count: 1

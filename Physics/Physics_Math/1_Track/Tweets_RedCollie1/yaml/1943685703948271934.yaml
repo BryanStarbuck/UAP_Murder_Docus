@@ -1,0 +1,76 @@
+id: '1943685703948271934'
+url: https://x.com/RedCollie1/status/1943685703948271934
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'How about this metaphor for Cerne Abbas of July 10, 2025? "WEAVING THE WEB
+  OF LIFE"
+
+  💛💛💛 https://t.co/25GKJiZGdC'
+created_at: '2025-07-11T14:55:58.000Z'
+lang: en
+conversation_id: '1943685703948271934'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 11
+  like_count: 124
+  quote_count: 4
+  bookmark_count: 15
+  impression_count: 5432
+entities:
+  urls:
+  - start: 88
+    end: 111
+    url: https://t.co/25GKJiZGdC
+    expanded_url: https://x.com/RedCollie1/status/1943685703948271934/photo/1
+    display_url: pic.x.com/25GKJiZGdC
+    media_key: '3_1943685041428594688'
+  - start: 88
+    end: 111
+    url: https://t.co/25GKJiZGdC
+    expanded_url: https://x.com/RedCollie1/status/1943685703948271934/photo/1
+    display_url: pic.x.com/25GKJiZGdC
+    media_key: '3_1943685128347328512'
+attachments:
+  media_keys:
+  - '3_1943685041428594688'
+  - '3_1943685128347328512'
+media:
+- media_key: '3_1943685041428594688'
+  type: photo
+  width: 1500
+  height: 1495
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvlbP0GXgAAd9vP.jpg
+- media_key: '3_1943685128347328512'
+  type: photo
+  width: 1123
+  height: 1125
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvlbU35aIAAaugI.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

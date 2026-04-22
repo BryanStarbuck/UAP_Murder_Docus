@@ -1,0 +1,89 @@
+id: '1942713644892184940'
+url: https://x.com/RedCollie1/status/1942713644892184940
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Three-phase magnetic fields can make a disc magnet spin rapidly, and rise powerfully,\
+  \ along a vertical aluminum rod. \nWhat will happen if we attempt the same kind\
+  \ of experiment, using a disc magnet as the rotor inside of a three-axis gyroscope,\
+  \ surrounded by three wire coils with https://t.co/4STo1ro40o"
+created_at: '2025-07-08T22:33:21.000Z'
+lang: en
+conversation_id: '1942707765564358748'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 16
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1085
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/4STo1ro40o
+    expanded_url: https://x.com/RedCollie1/status/1942713644892184940/video/1
+    display_url: pic.x.com/4STo1ro40o
+    media_key: '13_1942712940169252864'
+attachments:
+  media_keys:
+  - '13_1942712940169252864'
+media:
+- media_key: '13_1942712940169252864'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1942712940169252864/img/cY0XNRn5GDTBknjp.jpg
+  duration_ms: 16640
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942712940169252864/vid/avc1/480x270/eZv1UjaIq_FZbSFM.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942712940169252864/vid/avc1/640x360/qcNYhFMsF1RCbs1R.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942712940169252864/vid/avc1/1280x720/NDd4FM8sLydBTi12.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1942712940169252864/pl/Zw3OgZtg5ghxNP6U.m3u8?v=5a5
+  public_metrics:
+    view_count: 483
+referenced_tweets:
+- type: replied_to
+  id: '1942707765564358748'
+  text: "Here is a nice video of a 3-axis gyroscope from \"The Action Lab\".\nThe\
+    \ E.T. crop artists seem to be asking us to use 3-phase power to make the central\
+    \ part of that gyroscope spin, then rise up! \nThus I will have to make that central\
+    \ disc \"magnetic\" in some way, so that it can https://t.co/Q1dA5KqbnJ"
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Three-phase magnetic fields can make a disc magnet spin rapidly, and rise\
+    \ powerfully, along a vertical aluminum rod. \nWhat will happen if we attempt\
+    \ the same kind of experiment, using a disc magnet as the rotor inside of a three-axis\
+    \ gyroscope, surrounded by three wire coils with 3-phase AC power?"

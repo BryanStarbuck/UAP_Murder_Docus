@@ -1,0 +1,86 @@
+id: '2003283313965039632'
+url: https://x.com/RedCollie1/status/2003283313965039632
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Ray also sees it spinning now. \n\"Ray's Astrophotography\" on YouTube. \n\
+  ESA near Mars saw the same kind of fast spin which Ray is now seeing from Earth,\
+  \ using his amateur telescope. \nNASA says nothing. Hundreds of big observatories\
+  \ worldwide are saying nothing. https://t.co/xiEAof22EW"
+created_at: '2025-12-23T01:55:35.000Z'
+lang: en
+conversation_id: '2003229875768033460'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 1
+  like_count: 44
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2661
+entities:
+  urls:
+  - start: 260
+    end: 283
+    url: https://t.co/xiEAof22EW
+    expanded_url: https://x.com/RedCollie1/status/2003283313965039632/video/1
+    display_url: pic.x.com/xiEAof22EW
+    media_key: '13_2003282774070079488'
+attachments:
+  media_keys:
+  - '13_2003282774070079488'
+media:
+- media_key: '13_2003282774070079488'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2003282774070079488/img/LdWVrd0KSOO6RR6g.jpg
+  duration_ms: 44033
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2003282774070079488/vid/avc1/480x270/Jn1tZPUKGfiRlNQn.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2003282774070079488/vid/avc1/640x360/zpt3aYKN7s8bUCal.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2003282774070079488/vid/avc1/1280x720/Dim0_Ee9I-8e_aJ7.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2003282774070079488/pl/kIgO7Ev3Djml7iGL.m3u8?v=51c
+  public_metrics:
+    view_count: 1162
+referenced_tweets:
+- type: replied_to
+  id: '2003229875768033460'
+  text: 'Okay, boys and girls, here is a brief "science lesson" on 3I/ATLAS, that
+    even young school-children should be able to understand. From the ESA as it passed
+    Mars.
+
+    3I/ATLAS certainly appears to be spinning rapidly as it moves! Which would exclude
+    it from being a "natural comet" (no https://t.co/uqJLeydTT3'
+has_video: true
+has_image: false
+media_count: 1

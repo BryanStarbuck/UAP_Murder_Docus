@@ -1,0 +1,76 @@
+id: '1977492232497508376'
+url: https://x.com/RedCollie1/status/1977492232497508376
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "3I/ATLAS as photographed by Gemini North.\nTravelling fast from left to right.\
+  \ \nReal image (left) and inverted image (right). \nThat small \"black\" sphere\
+  \ on the right may be its central core. \n\"Deflector shields up, Scottie!\" \U0001F605\
+  \ https://t.co/YdPbBRGm9U"
+created_at: '2025-10-12T21:51:02.000Z'
+lang: en
+conversation_id: '1977492232497508376'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 97
+  reply_count: 30
+  like_count: 741
+  quote_count: 5
+  bookmark_count: 63
+  impression_count: 47842
+entities:
+  urls:
+  - start: 226
+    end: 249
+    url: https://t.co/YdPbBRGm9U
+    expanded_url: https://x.com/RedCollie1/status/1977492232497508376/photo/1
+    display_url: pic.x.com/YdPbBRGm9U
+    media_key: '3_1977491050194423808'
+  - start: 226
+    end: 249
+    url: https://t.co/YdPbBRGm9U
+    expanded_url: https://x.com/RedCollie1/status/1977492232497508376/photo/1
+    display_url: pic.x.com/YdPbBRGm9U
+    media_key: '3_1977491069068857344'
+attachments:
+  media_keys:
+  - '3_1977491050194423808'
+  - '3_1977491069068857344'
+media:
+- media_key: '3_1977491050194423808'
+  type: photo
+  width: 1648
+  height: 1216
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3F1oglaUAAYrcg.jpg
+- media_key: '3_1977491069068857344'
+  type: photo
+  width: 1500
+  height: 1108
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3F1pm5bUAACbJo.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

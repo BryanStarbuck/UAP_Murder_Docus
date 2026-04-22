@@ -1,0 +1,88 @@
+id: '2039539817034531197'
+url: https://x.com/RedCollie1/status/2039539817034531197
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'GOOD FRIDAY 2026 ✝️✝️✝️
+
+  Think "angels". https://t.co/egU1chmDxj'
+created_at: '2026-04-02T03:05:59.000Z'
+lang: en
+conversation_id: '2039539817034531197'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 46
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1345
+entities:
+  urls:
+  - start: 40
+    end: 63
+    url: https://t.co/egU1chmDxj
+    expanded_url: https://x.com/RedCollie1/status/2039539817034531197/photo/1
+    display_url: pic.x.com/egU1chmDxj
+    media_key: '3_2039539737976049664'
+  - start: 40
+    end: 63
+    url: https://t.co/egU1chmDxj
+    expanded_url: https://x.com/RedCollie1/status/2039539817034531197/photo/1
+    display_url: pic.x.com/egU1chmDxj
+    media_key: '3_2039539756170960896'
+  - start: 40
+    end: 63
+    url: https://t.co/egU1chmDxj
+    expanded_url: https://x.com/RedCollie1/status/2039539817034531197/photo/1
+    display_url: pic.x.com/egU1chmDxj
+    media_key: '3_2039539775376658432'
+attachments:
+  media_keys:
+  - '3_2039539737976049664'
+  - '3_2039539756170960896'
+  - '3_2039539775376658432'
+media:
+- media_key: '3_2039539737976049664'
+  type: photo
+  width: 500
+  height: 319
+  alt_text: null
+  url: https://pbs.twimg.com/media/HE3mlfNbEAAwfO6.jpg
+- media_key: '3_2039539756170960896'
+  type: photo
+  width: 800
+  height: 1119
+  alt_text: null
+  url: https://pbs.twimg.com/media/HE3mmi_bYAAW84V.jpg
+- media_key: '3_2039539775376658432'
+  type: photo
+  width: 1280
+  height: 721
+  alt_text: null
+  url: https://pbs.twimg.com/media/HE3mnqibEAAwjM1.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

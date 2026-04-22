@@ -1,0 +1,83 @@
+id: '1928798158601011352'
+url: https://x.com/RedCollie1/status/1928798158601011352
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "I took photos of the original amazing crop picture on August 8, 2014. \nWe\
+  \ can see a \"bead rising up\" in photo 1, and a series of wire paths like for a\
+  \ coil in photo 2.\nNOTHING there was made using \"rope and boards\". https://t.co/RJ6msZGsAb"
+created_at: '2025-05-31T12:58:11.000Z'
+lang: en
+conversation_id: '1928760603877007778'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 29
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 3124
+entities:
+  urls:
+  - start: 216
+    end: 239
+    url: https://t.co/RJ6msZGsAb
+    expanded_url: https://x.com/RedCollie1/status/1928798158601011352/photo/1
+    display_url: pic.x.com/RJ6msZGsAb
+    media_key: '3_1928797184188887040'
+  - start: 216
+    end: 239
+    url: https://t.co/RJ6msZGsAb
+    expanded_url: https://x.com/RedCollie1/status/1928798158601011352/photo/1
+    display_url: pic.x.com/RJ6msZGsAb
+    media_key: '3_1928797215188987905'
+attachments:
+  media_keys:
+  - '3_1928797184188887040'
+  - '3_1928797215188987905'
+media:
+- media_key: '3_1928797184188887040'
+  type: photo
+  width: 4096
+  height: 3058
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsR20d9aMAADYTM.jpg
+- media_key: '3_1928797215188987905'
+  type: photo
+  width: 4096
+  height: 3058
+  alt_text: null
+  url: https://pbs.twimg.com/media/GsR22RcaMAE3fYd.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1928760603877007778'
+  text: 'Here is my sixth and final video, before I have to spend a week doing "normal
+    business". It explains how friendly aliens drew schematic plans in crops for a
+    UFO propulsion device in 2014, based on the rise of a spinning magnet. We do not
+    have such physics on Earth today.
+
+    I saw a https://t.co/jL35dVfUYx'
+has_video: false
+has_image: true
+media_count: 2

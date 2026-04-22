@@ -1,0 +1,73 @@
+id: '1930112645665042534'
+url: https://x.com/RedCollie1/status/1930112645665042534
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Macao 😁 https://t.co/u1smzym1Sm
+created_at: '2025-06-04T04:01:29.000Z'
+lang: es
+conversation_id: '1930112645665042534'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1181
+entities:
+  urls:
+  - start: 8
+    end: 31
+    url: https://t.co/u1smzym1Sm
+    expanded_url: https://x.com/RedCollie1/status/1930112645665042534/photo/1
+    display_url: pic.x.com/u1smzym1Sm
+    media_key: '3_1930112636949278720'
+  - start: 8
+    end: 31
+    url: https://t.co/u1smzym1Sm
+    expanded_url: https://x.com/RedCollie1/status/1930112645665042534/photo/1
+    display_url: pic.x.com/u1smzym1Sm
+    media_key: '3_1930112636936695809'
+attachments:
+  media_keys:
+  - '3_1930112636949278720'
+  - '3_1930112636936695809'
+media:
+- media_key: '3_1930112636949278720'
+  type: photo
+  width: 1536
+  height: 2048
+  alt_text: null
+  url: https://pbs.twimg.com/media/GskjN5XasAAOr5j.jpg
+- media_key: '3_1930112636936695809'
+  type: photo
+  width: 1279
+  height: 1706
+  alt_text: null
+  url: https://pbs.twimg.com/media/GskjN5UasAERnEd.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,142 @@
+id: '1975689497242452257'
+url: https://x.com/RedCollie1/status/1975689497242452257
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "New movie of 3I/ATLAS at low resolution, just released by the European Space\
+  \ Agency, very pixelated. \nIt was taken by their ExoMars Gas orbiter. Not much\
+  \ of a \"cometary tail\". Possibly an \"exhaust\"? (movie 1)\nSlowly making its\
+  \ way to us here on Earth (movie 2). \nHow did J.C. know https://t.co/vnhczUyOyd"
+created_at: '2025-10-07T22:27:37.000Z'
+lang: en
+conversation_id: '1975689497242452257'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 10
+  reply_count: 5
+  like_count: 54
+  quote_count: 0
+  bookmark_count: 17
+  impression_count: 50588
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/vnhczUyOyd
+    expanded_url: https://x.com/RedCollie1/status/1975689497242452257/video/1
+    display_url: pic.x.com/vnhczUyOyd
+    media_key: '13_1975685874789851137'
+  - start: 281
+    end: 304
+    url: https://t.co/vnhczUyOyd
+    expanded_url: https://x.com/RedCollie1/status/1975689497242452257/video/1
+    display_url: pic.x.com/vnhczUyOyd
+    media_key: '13_1975689334616694785'
+  - start: 281
+    end: 304
+    url: https://t.co/vnhczUyOyd
+    expanded_url: https://x.com/RedCollie1/status/1975689497242452257/video/1
+    display_url: pic.x.com/vnhczUyOyd
+    media_key: '3_1975689444989804544'
+  - start: 281
+    end: 304
+    url: https://t.co/vnhczUyOyd
+    expanded_url: https://x.com/RedCollie1/status/1975689497242452257/video/1
+    display_url: pic.x.com/vnhczUyOyd
+    media_key: '3_1975689470231142400'
+attachments:
+  media_keys:
+  - '13_1975685874789851137'
+  - '13_1975689334616694785'
+  - '3_1975689444989804544'
+  - '3_1975689470231142400'
+media:
+- media_key: '13_1975685874789851137'
+  type: video
+  width: 1200
+  height: 900
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1975685874789851137/img/M5ai6kKso7rVDw7A.jpg
+  duration_ms: 9002
+  variants:
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685874789851137/vid/avc1/480x360/U72vu69b-OwXJsDN.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685874789851137/vid/avc1/360x270/bTBi9b92ZonTFhrl.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685874789851137/vid/avc1/960x720/YMpPnAlE_Q1EdRji.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975685874789851137/vid/avc1/1200x900/Mx8SPMIZhzjwu-sp.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1975685874789851137/pl/puiJsasuxKwclMTM.m3u8
+  public_metrics:
+    view_count: 21404
+- media_key: '13_1975689334616694785'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1975689334616694785/img/GRyEN_wDc1GmaJ9c.jpg
+  duration_ms: 27000
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975689334616694785/vid/avc1/478x270/klG4xKRBBYmniokj.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975689334616694785/vid/avc1/638x360/iHFaWDy7QyO8Oy1u.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975689334616694785/vid/avc1/852x480/RC59MQo4nbRByjDd.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1975689334616694785/pl/JnA34to9-JFt2vr9.m3u8?v=919
+  public_metrics:
+    view_count: 5852
+- media_key: '3_1975689444989804544'
+  type: photo
+  width: 960
+  height: 1055
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2sPFSMbIAAdtF9.jpg
+- media_key: '3_1975689470231142400'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2sPGwObYAA9PYZ.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "New movie of 3I/ATLAS at low resolution, just released by the European Space\
+    \ Agency, very pixelated. \nIt was taken by their ExoMars Gas orbiter. Not much\
+    \ of a \"cometary tail\". Possibly an \"exhaust\"? (movie 1)\nSlowly making its\
+    \ way to us here on Earth (movie 2). \nHow did J.C. know about this in January\
+    \ 2025?\nWho might be piloting that large \"spacecraft? (slide 3)\nWhat is a Trojan\
+    \ Horse? (slide 4)"

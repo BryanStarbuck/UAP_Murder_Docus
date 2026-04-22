@@ -1,0 +1,86 @@
+id: '1988475000266125406'
+url: https://x.com/RedCollie1/status/1988475000266125406
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Northern lights over Denver from my daughter who lives there! https://t.co/Svm5jWH9Yh
+created_at: '2025-11-12T05:12:38.000Z'
+lang: en
+conversation_id: '1988475000266125406'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 6
+  like_count: 100
+  quote_count: 1
+  bookmark_count: 4
+  impression_count: 4671
+entities:
+  urls:
+  - start: 62
+    end: 85
+    url: https://t.co/Svm5jWH9Yh
+    expanded_url: https://x.com/RedCollie1/status/1988475000266125406/photo/1
+    display_url: pic.x.com/Svm5jWH9Yh
+    media_key: '3_1988474991646826496'
+  - start: 62
+    end: 85
+    url: https://t.co/Svm5jWH9Yh
+    expanded_url: https://x.com/RedCollie1/status/1988475000266125406/photo/1
+    display_url: pic.x.com/Svm5jWH9Yh
+    media_key: '3_1988474991642656768'
+  - start: 62
+    end: 85
+    url: https://t.co/Svm5jWH9Yh
+    expanded_url: https://x.com/RedCollie1/status/1988475000266125406/photo/1
+    display_url: pic.x.com/Svm5jWH9Yh
+    media_key: '3_1988474991642636294'
+attachments:
+  media_keys:
+  - '3_1988474991646826496'
+  - '3_1988474991642656768'
+  - '3_1988474991642636294'
+media:
+- media_key: '3_1988474991646826496'
+  type: photo
+  width: 1260
+  height: 1233
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5h7eDHbYAANArX.jpg
+- media_key: '3_1988474991642656768'
+  type: photo
+  width: 1280
+  height: 1707
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5h7eDGbwAAvUXC.jpg
+- media_key: '3_1988474991642636294'
+  type: photo
+  width: 1280
+  height: 1707
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5h7eDGbcAY8AKk.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

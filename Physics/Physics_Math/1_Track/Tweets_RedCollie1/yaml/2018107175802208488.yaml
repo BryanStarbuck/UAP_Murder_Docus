@@ -1,0 +1,71 @@
+id: '2018107175802208488'
+url: https://x.com/RedCollie1/status/2018107175802208488
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@watchtheripples He is my "distant" friend. https://t.co/Q3bJsVweyQ'
+created_at: '2026-02-01T23:40:19.000Z'
+lang: en
+conversation_id: '2018081054264107165'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1302
+entities:
+  urls:
+  - start: 44
+    end: 67
+    url: https://t.co/Q3bJsVweyQ
+    expanded_url: https://x.com/RedCollie1/status/2018107175802208488/photo/1
+    display_url: pic.x.com/Q3bJsVweyQ
+    media_key: '3_2018107152951595008'
+  mentions:
+  - start: 0
+    end: 16
+    username: watchtheripples
+    id: '1400082025139351555'
+attachments:
+  media_keys:
+  - '3_2018107152951595008'
+media:
+- media_key: '3_2018107152951595008'
+  type: photo
+  width: 183
+  height: 275
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAHBw2Ja0AAIpjQ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2018094769503646036'
+  text: '@RedCollie1 You still have the majority of people that believe Q is either
+    a larp in their parents basement or a psyop by evil. They''ve never even thought
+    of the possibility that Q was a psyop from the good guys to wake the masses. Sheep
+    that cannot think for themselves!'
+has_video: false
+has_image: true
+media_count: 1

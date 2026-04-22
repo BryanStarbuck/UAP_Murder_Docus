@@ -1,0 +1,83 @@
+id: '1960771774930674011'
+url: https://x.com/RedCollie1/status/1960771774930674011
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Ketzahl slide 4 means "3-phase power" https://t.co/tD29HV1KPc'
+created_at: '2025-08-27T18:29:55.000Z'
+lang: en
+conversation_id: '1960651944445534558'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 161
+entities:
+  mentions:
+  - start: 0
+    end: 8
+    username: Ketzahl
+    id: '1674765819098587139'
+  urls:
+  - start: 39
+    end: 62
+    url: https://t.co/tD29HV1KPc
+    expanded_url: https://x.com/RedCollie1/status/1960771774930674011/video/1
+    display_url: pic.x.com/tD29HV1KPc
+    media_key: '13_1960771745448910854'
+attachments:
+  media_keys:
+  - '13_1960771745448910854'
+media:
+- media_key: '13_1960771745448910854'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1960771745448910854/img/gwo9Qzu1qIldOzqq.jpg
+  duration_ms: 7680
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1960771745448910854/vid/avc1/480x270/7tW4-cVmDGIvQ1NV.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1960771745448910854/vid/avc1/640x360/G3cb8tug0dTSGHRK.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1960771745448910854/vid/avc1/1280x720/LojSkt5y6mP24A79.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1960771745448910854/pl/7u31a9OJCjqvPIKz.m3u8
+  public_metrics:
+    view_count: 133
+referenced_tweets:
+- type: replied_to
+  id: '1960751521563599311'
+  text: '@RedCollie1 fish and cross? Imagine that ;o) https://t.co/8E3lvlkXKT'
+has_video: true
+has_image: false
+media_count: 1

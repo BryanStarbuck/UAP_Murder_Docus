@@ -1,0 +1,111 @@
+id: '1989892435154288935'
+url: https://x.com/RedCollie1/status/1989892435154288935
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "3I/ATLAS rotates once every 16 hours, possibly to produce artificial gravity,\
+  \ while the long, blue exhausts from its powerful ion-thrusters do not spin. \n\
+  Avi Loeb explains. They are probably not \"tourists\".\U0001F47D\nhttps://t.co/Pcj8Y3zNLJ\
+  \ https://t.co/iZqrtX6As0"
+created_at: '2025-11-16T03:05:01.000Z'
+lang: en
+conversation_id: '1989892435154288935'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 135
+  reply_count: 62
+  like_count: 881
+  quote_count: 15
+  bookmark_count: 197
+  impression_count: 140616
+entities:
+  urls:
+  - start: 208
+    end: 231
+    url: https://t.co/Pcj8Y3zNLJ
+    expanded_url: https://avi-loeb.medium.com/the-12th-anomaly-of-3i-atlas-orientation-of-the-jets-is-not-smeared-by-rotation-30035318a5fd
+    display_url: avi-loeb.medium.com/the-12th-anoma…
+    images:
+    - url: https://pbs.twimg.com/news_img/1993731059079413761/-rnsgAoq?format=jpg&name=orig
+      width: 788
+      height: 771
+    - url: https://pbs.twimg.com/news_img/1993731059079413761/-rnsgAoq?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: 'The 12th Anomaly of 3I/ATLAS: Orientation of the Jets is Not Smeared by
+      Rotation'
+    description: Back in July and August of 2025, the interstellar object 3I/ATLAS
+      was inferred to rotate with a period of 16.16 (+/-0.01) hours (as derived…
+    unwound_url: https://avi-loeb.medium.com/the-12th-anomaly-of-3i-atlas-orientation-of-the-jets-is-not-smeared-by-rotation-30035318a5fd
+  - start: 232
+    end: 255
+    url: https://t.co/iZqrtX6As0
+    expanded_url: https://x.com/RedCollie1/status/1989892435154288935/photo/1
+    display_url: pic.x.com/iZqrtX6As0
+    media_key: '3_1989891296090361859'
+  - start: 232
+    end: 255
+    url: https://t.co/iZqrtX6As0
+    expanded_url: https://x.com/RedCollie1/status/1989892435154288935/photo/1
+    display_url: pic.x.com/iZqrtX6As0
+    media_key: '16_1989891329967722496'
+  - start: 232
+    end: 255
+    url: https://t.co/iZqrtX6As0
+    expanded_url: https://x.com/RedCollie1/status/1989892435154288935/photo/1
+    display_url: pic.x.com/iZqrtX6As0
+    media_key: '3_1989891921876324355'
+attachments:
+  media_keys:
+  - '3_1989891296090361859'
+  - '16_1989891329967722496'
+  - '3_1989891921876324355'
+media:
+- media_key: '3_1989891296090361859'
+  type: photo
+  width: 319
+  height: 280
+  alt_text: null
+  url: https://pbs.twimg.com/media/G52Dl0UbkAMMaem.jpg
+- media_key: '16_1989891329967722496'
+  type: animated_gif
+  width: 500
+  height: 282
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G52DnyhbEAAeQes.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G52DnyhbEAAeQes.mp4
+- media_key: '3_1989891921876324355'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G52EKPjbkAMfLg5.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

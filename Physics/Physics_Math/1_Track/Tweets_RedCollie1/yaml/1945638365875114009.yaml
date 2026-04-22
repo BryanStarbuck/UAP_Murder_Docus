@@ -1,0 +1,80 @@
+id: '1945638365875114009'
+url: https://x.com/RedCollie1/status/1945638365875114009
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"You don''t have to go anywhere. You can find it here!"
+
+  Robert Bigelow, the wealthiest man in Las Vegas, with a private space program like
+  for Elon Musk.
+
+  I met him in 2002. He is talking about both Skinwalker Ranch and crop circles. https://t.co/AX28wPQHZH'
+created_at: '2025-07-17T00:15:09.000Z'
+lang: en
+conversation_id: '1945638365875114009'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 24
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2688
+entities:
+  urls:
+  - start: 232
+    end: 255
+    url: https://t.co/AX28wPQHZH
+    expanded_url: https://x.com/RedCollie1/status/1945638365875114009/video/1
+    display_url: pic.x.com/AX28wPQHZH
+    media_key: '13_1945638282114539520'
+attachments:
+  media_keys:
+  - '13_1945638282114539520'
+media:
+- media_key: '13_1945638282114539520'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1945638282114539520/img/JYafDSD9QZ1FUWux.jpg
+  duration_ms: 18066
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945638282114539520/vid/avc1/478x270/rgA7NGUOJkcXACIl.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945638282114539520/vid/avc1/638x360/PmpcZP5eRAu5yUyO.mp4?tag=14
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1945638282114539520/vid/avc1/852x480/dy1Xyo2k_SGQwFmJ.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1945638282114539520/pl/J7L2mZQBr9gNoYQD.m3u8?tag=14&v=86f
+  public_metrics:
+    view_count: 1223
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

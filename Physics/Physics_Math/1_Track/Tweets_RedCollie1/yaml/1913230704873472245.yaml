@@ -1,0 +1,84 @@
+id: '1913230704873472245'
+url: https://x.com/RedCollie1/status/1913230704873472245
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Experiments today confirmed what I had seen previously: namely that the quick\
+  \ periodic rise-and-fall of a spinning magnet gives a weak, but possibly useful,\
+  \ \"anti-gravity\" effect equal to half the weight of that magnet at rest. \nBetter\
+  \ than many ion drives, and it requires \"no https://t.co/bjrWtugbLu"
+created_at: '2025-04-18T13:58:40.000Z'
+lang: en
+conversation_id: '1913230704873472245'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 2021
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/bjrWtugbLu
+    expanded_url: https://x.com/RedCollie1/status/1913230704873472245/video/1
+    display_url: pic.x.com/bjrWtugbLu
+    media_key: '13_1913229859163402241'
+attachments:
+  media_keys:
+  - '13_1913229859163402241'
+media:
+- media_key: '13_1913229859163402241'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913229859163402241/img/KpRYiyDSi0njO7Ja.jpg
+  duration_ms: 50960
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913229859163402241/vid/avc1/480x270/V8AQKlJnfO3PUtrl.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913229859163402241/vid/avc1/640x360/3F7nruGVPfJB2Feo.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913229859163402241/vid/avc1/1280x720/4i7CX3pAbjLdJPYm.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913229859163402241/pl/Gd2s05kwWESoSQod.m3u8?tag=16
+  public_metrics:
+    view_count: 524
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Experiments today confirmed what I had seen previously: namely that the quick\
+    \ periodic rise-and-fall of a spinning magnet gives a weak, but possibly useful,\
+    \ \"anti-gravity\" effect equal to half the weight of that magnet at rest. \n\
+    Better than many ion drives, and it requires \"no fuel\".\n\U0001F600\U0001F603\
+    \U0001F604"

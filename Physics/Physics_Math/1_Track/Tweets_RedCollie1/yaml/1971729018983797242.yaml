@@ -1,0 +1,77 @@
+id: '1971729018983797242'
+url: https://x.com/RedCollie1/status/1971729018983797242
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Lyme Regis crop picture 2025: coincidence? 🛸 https://t.co/FyMHu4w2pF'
+created_at: '2025-09-27T00:10:05.000Z'
+lang: en
+conversation_id: '1971458456168300943'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1172
+entities:
+  urls:
+  - start: 45
+    end: 68
+    url: https://t.co/FyMHu4w2pF
+    expanded_url: https://x.com/RedCollie1/status/1971729018983797242/photo/1
+    display_url: pic.x.com/FyMHu4w2pF
+    media_key: '3_1971728881247047680'
+  - start: 45
+    end: 68
+    url: https://t.co/FyMHu4w2pF
+    expanded_url: https://x.com/RedCollie1/status/1971729018983797242/photo/1
+    display_url: pic.x.com/FyMHu4w2pF
+    media_key: '3_1971728915279519744'
+attachments:
+  media_keys:
+  - '3_1971728881247047680'
+  - '3_1971728915279519744'
+media:
+- media_key: '3_1971728881247047680'
+  type: photo
+  width: 1607
+  height: 1583
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1z8-Igb0AAJcBk.jpg
+- media_key: '3_1971728915279519744'
+  type: photo
+  width: 1607
+  height: 1583
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1z9AHSaIAAmh7P.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1971458456168300943'
+  text: 'TEACHING LESSON: Here you can see the effect of a 3-phase, rotating magnetic
+    field on a permanent ball-shaped magnet. Spin,  baby, spin! 🛸 https://t.co/98qFDnIlXZ'
+has_video: false
+has_image: true
+media_count: 2

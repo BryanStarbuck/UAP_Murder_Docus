@@ -1,0 +1,59 @@
+id: '2013360566480351469'
+url: https://x.com/RedCollie1/status/2013360566480351469
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@JohnCleese The Wechsler Intelligence Scale for Children (WISC-R)-74 was given
+  to the children in both groups (50 each non-inbred and inbred of the first-cousin
+  status), aged 6 to 11 years and from the same socio-economic status.'
+created_at: '2026-01-19T21:19:00.000Z'
+lang: en
+conversation_id: '2013264568340901946'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 218
+entities:
+  mentions:
+  - start: 0
+    end: 11
+    username: JohnCleese
+    id: '10810102'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: replied_to
+  id: '2013360065366089956'
+  text: "@JohnCleese A single generation of \"first cousin\" inbreeding reduces IQ\
+    \ by 12 points. What happens over multiple generations? \nThe mean IQ of inbred\
+    \ children (88.4) differed significantly from that recorded among noninbred controls\
+    \ of similar age and socioeconomic status (99.6)."
+has_video: false
+has_image: false
+media_count: 0

@@ -1,0 +1,77 @@
+id: '2044734616641417251'
+url: https://x.com/RedCollie1/status/2044734616641417251
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here is my best one-slide summary as of April 16, 2026.\nRise of a (blue) spinning\
+  \ magnet, through a same-polarity magnetic field at the center of a counter-spinning\
+  \ flywheel (red), may produce some bypass of Newton's 3rd Law that remains to be\
+  \ explored? \nWhen it is spinning https://t.co/pHZnwTeorT"
+created_at: '2026-04-16T11:08:16.000Z'
+lang: en
+conversation_id: '2044598282689941568'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 519
+entities:
+  urls:
+  - start: 275
+    end: 298
+    url: https://t.co/pHZnwTeorT
+    expanded_url: https://x.com/RedCollie1/status/2044734616641417251/photo/1
+    display_url: pic.x.com/pHZnwTeorT
+    media_key: '3_2044733133036367872'
+attachments:
+  media_keys:
+  - '3_2044733133036367872'
+media:
+- media_key: '3_2044733133036367872'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HGBZ83casAA9p2E.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2044598282689941568'
+  text: This new video summarizes my current progress at understanding UFO physics.
+    I have been guided by the reports of some contactees, as well as by many alien-drawn
+    crop pictures, which show technical diagrams for UFO physics, that become clear
+    once we try to reproduce such effects. https://t.co/3YD2mLKIwi
+has_video: false
+has_image: true
+media_count: 1
+note_tweet:
+  text: "Here is my best one-slide summary as of April 16, 2026.\nRise of a (blue)\
+    \ spinning magnet, through a same-polarity magnetic field at the center of a counter-spinning\
+    \ flywheel (red), may produce some bypass of Newton's 3rd Law that remains to\
+    \ be explored? \nWhen it is spinning rapidly, that (blue) magnet moves slightly\
+    \ downward, to just below the flat plane of that counter-spinning flywheel (red),\
+    \ so that it will perfectly positioned to rise through its center, and push the\
+    \ (red) flywheel upward."

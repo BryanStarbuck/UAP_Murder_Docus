@@ -1,0 +1,64 @@
+id: '2039902851905053005'
+url: https://x.com/RedCollie1/status/2039902851905053005
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @RedCollie1: @MartyMart1068 How is spin energy E = mv2 applied to a nearby
+  object, using Newton''s 3rd Law, when the nearby object is eit…'
+created_at: '2026-04-03T03:08:34.000Z'
+lang: en
+conversation_id: '2039902851905053005'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  mentions:
+  - start: 3
+    end: 14
+    username: RedCollie1
+    id: '1070522825646063617'
+  - start: 16
+    end: 30
+    username: MartyMart1068
+    id: '4774214342'
+attachments:
+  media_keys: []
+media: []
+referenced_tweets:
+- type: retweeted
+  id: '2039902746678362233'
+  text: '@MartyMart1068 How is spin energy E = mv2 applied to a nearby object, using
+    Newton''s 3rd Law, when the nearby object is either (a) stationary or (b) in rapid
+    relative motion?
+
+    For m = 1, v = -2, we get E = 4. The nearby object receives E =  4 in an opposite
+    spin direction, thereby creating v = https://t.co/3xyRFvMFIl'
+has_video: false
+has_image: false
+media_count: 0

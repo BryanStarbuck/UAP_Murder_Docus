@@ -1,0 +1,83 @@
+id: '1960320718685741122'
+url: https://x.com/RedCollie1/status/1960320718685741122
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'These are authentic photos of 3I/ATLAS taken by SPHERE-X with an angular resolution
+  of 6.2 arcseconds per pixel. James Webb has an angular resolution of 0.07 arc seconds
+  per pixel.
+
+  So we would expect its photos of the same object, moving at the same speed, same
+  distance, and same https://t.co/BAXYinPcno'
+created_at: '2025-08-26T12:37:34.000Z'
+lang: en
+conversation_id: '1960125334407586104'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 7
+  like_count: 89
+  quote_count: 3
+  bookmark_count: 10
+  impression_count: 12852
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/BAXYinPcno
+    expanded_url: https://x.com/RedCollie1/status/1960320718685741122/photo/1
+    display_url: pic.x.com/BAXYinPcno
+    media_key: '3_1960319012300320768'
+attachments:
+  media_keys:
+  - '3_1960319012300320768'
+media:
+- media_key: '3_1960319012300320768'
+  type: photo
+  width: 1100
+  height: 365
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzRzwWaa8AAlpFC.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1960125334407586104'
+  text: "Here is the James Webb telescope image of 3I/ATLAS from August 6, just released\
+    \ on August 26.\nThe resolution is low. We cannot see any details, since the pixels\
+    \ are so large, about 20 km across! \nBasically it shows a huge cloud of carbon\
+    \ dioxide gas (orange) around a large https://t.co/pIWjZ9PmwF"
+has_video: false
+has_image: true
+media_count: 1
+note_tweet:
+  text: 'These are authentic photos of 3I/ATLAS taken by SPHERE-X with an angular
+    resolution of 6.2 arcseconds per pixel. James Webb has an angular resolution of
+    0.07 arc seconds per pixel.
+
+    So we would expect its photos of the same object, moving at the same speed, same
+    distance, and same time, to show pixels 88 times SMALLER than those shown below
+    for SPHERE-X.
+
+    Instead, JWST have released an official "best" photo where pixels are 2 or 3 times
+    LARGER than for SPHERE-X. So the JWST resolution is too low by a factor of 150
+    to 300 (at least). 🐟🐟🐟'

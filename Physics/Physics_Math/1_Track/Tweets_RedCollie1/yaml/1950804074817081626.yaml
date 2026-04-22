@@ -1,0 +1,142 @@
+id: '1950804074817081626'
+url: https://x.com/RedCollie1/status/1950804074817081626
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Each of these two famous crop pictures from 1991 or 2008 shows the anti-clockwise,
+  precessional decay of a "spinning top".
+
+  In combination with related crop pictures, there is NO QUESTION as to whether "spinning
+  top-like" physics relates to UFO levitation.💯
+
+  Please study until you https://t.co/Ntn82f34ea'
+created_at: '2025-07-31T06:21:50.000Z'
+lang: en
+conversation_id: '1950804074817081626'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 3
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 2891
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/Ntn82f34ea
+    expanded_url: https://x.com/RedCollie1/status/1950804074817081626/video/1
+    display_url: pic.x.com/Ntn82f34ea
+    media_key: '3_1950802560916561920'
+  - start: 280
+    end: 303
+    url: https://t.co/Ntn82f34ea
+    expanded_url: https://x.com/RedCollie1/status/1950804074817081626/video/1
+    display_url: pic.x.com/Ntn82f34ea
+    media_key: '3_1950802602985492480'
+  - start: 280
+    end: 303
+    url: https://t.co/Ntn82f34ea
+    expanded_url: https://x.com/RedCollie1/status/1950804074817081626/video/1
+    display_url: pic.x.com/Ntn82f34ea
+    media_key: '13_1950802628667162624'
+  - start: 280
+    end: 303
+    url: https://t.co/Ntn82f34ea
+    expanded_url: https://x.com/RedCollie1/status/1950804074817081626/video/1
+    display_url: pic.x.com/Ntn82f34ea
+    media_key: '13_1950802649944879104'
+attachments:
+  media_keys:
+  - '3_1950802560916561920'
+  - '3_1950802602985492480'
+  - '13_1950802628667162624'
+  - '13_1950802649944879104'
+media:
+- media_key: '3_1950802560916561920'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxKkl-ZaoAAAyoI.jpg
+- media_key: '3_1950802602985492480'
+  type: photo
+  width: 938
+  height: 916
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxKkobHbkAAoA7O.jpg
+- media_key: '13_1950802628667162624'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1950802628667162624/img/nvy2mkPMCLpf8lp-.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802628667162624/vid/avc1/480x270/4nLvreMDfphxLohY.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802628667162624/vid/avc1/640x360/S6iLEAo5GXPDbaeT.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802628667162624/vid/avc1/1280x720/2vqRIw6BiSbvGKjj.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1950802628667162624/pl/7r5JXJUU2WgxfQkP.m3u8
+  public_metrics:
+    view_count: 1322
+- media_key: '13_1950802649944879104'
+  type: video
+  width: 961
+  height: 676
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1950802649944879104/img/0MwuuqCAp5pbcrd7.jpg
+  duration_ms: 10100
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802649944879104/vid/avc1/382x270/2042-mNIJPdM_ouj.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802649944879104/vid/avc1/510x360/z_1TA3vaITWO1OCm.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1950802649944879104/vid/avc1/960x676/sLzuDMl9OSrYKHuk.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1950802649944879104/pl/EP_U58wann12kCbA.m3u8
+  public_metrics:
+    view_count: 623
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Each of these two famous crop pictures from 1991 or 2008 shows the anti-clockwise,\
+    \ precessional decay of a \"spinning top\".\nIn combination with related crop\
+    \ pictures, there is NO QUESTION as to whether \"spinning top-like\" physics relates\
+    \ to UFO levitation.\U0001F4AF\nPlease study until you understand? \nA spinning\
+    \ top PUSHES against a downward gravity field to RISE UP.\nThat leads to an increase\
+    \ of gravitational potential energy, as an \"anti-gravity\" effect. \U0001F6F8"

@@ -1,0 +1,105 @@
+id: '1962052911703441742'
+url: https://x.com/RedCollie1/status/1962052911703441742
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@PhdBrandenburg Nickel-carbonyl (slide 1) decays to nickel and carbon monoxide\
+  \ gas. Yet they see an increase of nickel with cyanide gas being released, as 3I/ATLAS\
+  \ approaches the Sun! \nThus we seem to see nickel-cyanate being released, (slide\
+  \ 2), rather than nickel-carbonyl (slide 1). That is a https://t.co/8ZjJZ4e2TN"
+created_at: '2025-08-31T07:20:41.000Z'
+lang: en
+conversation_id: '1962028147626680560'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 2
+  like_count: 40
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 4177
+entities:
+  mentions:
+  - start: 0
+    end: 15
+    username: PhdBrandenburg
+    id: '1586106576879894532'
+  urls:
+  - start: 296
+    end: 319
+    url: https://t.co/8ZjJZ4e2TN
+    expanded_url: https://x.com/RedCollie1/status/1962052911703441742/photo/1
+    display_url: pic.x.com/8ZjJZ4e2TN
+    media_key: '3_1962049425389613056'
+  - start: 296
+    end: 319
+    url: https://t.co/8ZjJZ4e2TN
+    expanded_url: https://x.com/RedCollie1/status/1962052911703441742/photo/1
+    display_url: pic.x.com/8ZjJZ4e2TN
+    media_key: '3_1962050070448320512'
+attachments:
+  media_keys:
+  - '3_1962049425389613056'
+  - '3_1962050070448320512'
+media:
+- media_key: '3_1962049425389613056'
+  type: photo
+  width: 259
+  height: 194
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzqZjpgbcAA8TCF.jpg
+- media_key: '3_1962050070448320512'
+  type: photo
+  width: 250
+  height: 202
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzqaJMiaMAAUUw2.png
+referenced_tweets:
+- type: replied_to
+  id: '1962028147626680560'
+  text: 'Dear Friends, 3I ATLAS has displayed an anomalous emission of Ni with no
+    Fe being detected. This is unprecedented, and suggests an artificial origin. However,
+    caveats exist: Ni carbonyl is more volatile than its Fe counterpart &amp; may
+    appear as 3I gets closer to the Sun. Let''s see! https://t.co/xHjw53RyhL'
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  entities:
+    urls:
+    - start: 557
+      end: 580
+      url: https://t.co/zwY3w4LvgO
+      expanded_url: https://pubmed.ncbi.nlm.nih.gov/34012081/
+      display_url: pubmed.ncbi.nlm.nih.gov/34012081/
+  text: "Nickel-carbonyl (slide 1) decays to nickel and carbon monoxide gas. Yet they\
+    \ see an increase of nickel with cyanide gas being released, as 3I/ATLAS approaches\
+    \ the Sun! \nThus we seem to see nickel-cyanate being released, (slide 2), rather\
+    \ than nickel-carbonyl (slide 1). That is a well-known compound used for coating\
+    \ iron or steel to prevent corrosion. \nThis might be called a \"techno-signature\"\
+    . It would also help 3I/ATLAS to reflect sunlight brightly like a \"convex mirror\"\
+    . \nMost comets actually show BOTH iron and nickel gases, even far from the Sun.\
+    \ \nhttps://t.co/zwY3w4LvgO\nYet 3I/ATLAS shows only nickel and not iron. \nSo\
+    \ it is not a typical comet. The astronomers do not seem to have studied inorganic\
+    \ chemistry."

@@ -1,0 +1,147 @@
+id: '1967151206985605312'
+url: https://x.com/RedCollie1/status/1967151206985605312
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'I just showed you how alien drones (or UFOs) somehow SPIN, in order to RISE
+  UP. The physics may be very simple, but never tested before on Earth.
+
+  Slide 1 shows a 2018 crop picture, where a "spinning vortex" is "lifted up" from
+  the empty center of a "wire coil" below, apparently https://t.co/hsMXdCVJt3'
+created_at: '2025-09-14T08:59:30.000Z'
+lang: en
+conversation_id: '1967151206985605312'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 6
+  like_count: 48
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 5461
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/hsMXdCVJt3
+    expanded_url: https://x.com/RedCollie1/status/1967151206985605312/video/1
+    display_url: pic.x.com/hsMXdCVJt3
+    media_key: '3_1967150191066431489'
+  - start: 279
+    end: 302
+    url: https://t.co/hsMXdCVJt3
+    expanded_url: https://x.com/RedCollie1/status/1967151206985605312/video/1
+    display_url: pic.x.com/hsMXdCVJt3
+    media_key: '13_1967150217704484864'
+  - start: 279
+    end: 302
+    url: https://t.co/hsMXdCVJt3
+    expanded_url: https://x.com/RedCollie1/status/1967151206985605312/video/1
+    display_url: pic.x.com/hsMXdCVJt3
+    media_key: '13_1967150248696131584'
+  - start: 279
+    end: 302
+    url: https://t.co/hsMXdCVJt3
+    expanded_url: https://x.com/RedCollie1/status/1967151206985605312/video/1
+    display_url: pic.x.com/hsMXdCVJt3
+    media_key: '3_1967150273270554624'
+attachments:
+  media_keys:
+  - '3_1967150191066431489'
+  - '13_1967150217704484864'
+  - '13_1967150248696131584'
+  - '3_1967150273270554624'
+media:
+- media_key: '3_1967150191066431489'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0y4rSZbQAE3PcM.jpg
+- media_key: '13_1967150217704484864'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1967150217704484864/img/kZSsCcdiQ3wK5wfi.jpg
+  duration_ms: 46440
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150217704484864/vid/avc1/480x270/taVSmMF1L_aJ_lQD.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150217704484864/vid/avc1/640x360/lQQ4QvaxqSWucmxJ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150217704484864/vid/avc1/1280x720/Qv8lVVmIsTEC8w3m.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1967150217704484864/pl/Y01YjJTxo45UwG4p.m3u8?v=3b1
+  public_metrics:
+    view_count: 2035
+- media_key: '13_1967150248696131584'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1967150248696131584/img/0AyUuGHmCm6FMSKE.jpg
+  duration_ms: 19680
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150248696131584/vid/avc1/480x270/cDE_WAiqPzyyBOGY.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150248696131584/vid/avc1/640x360/VABWCLumyp4yDxtc.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1967150248696131584/vid/avc1/1280x720/0Nn2inw7EC39qCNP.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1967150248696131584/pl/IVujtZnU4Kwb1U6Y.m3u8
+  public_metrics:
+    view_count: 235
+- media_key: '3_1967150273270554624'
+  type: photo
+  width: 615
+  height: 1500
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0y4wEoaoAAUuxV.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "I just showed you how alien drones (or UFOs) somehow SPIN, in order to RISE\
+    \ UP. The physics may be very simple, but never tested before on Earth.\nSlide\
+    \ 1 shows a 2018 crop picture, where a \"spinning vortex\" is \"lifted up\" from\
+    \ the empty center of a \"wire coil\" below, apparently by 1-2-3 phase magnetism.\n\
+    Movie 2 shows a green-dye vortex in salt water, over a magnet, as a simple visual\
+    \ control.\nMovie 3 shows a liquid-metal galinstan spinning-vortex, of the kind\
+    \ which might be used on a UFO (or \"vimana\").\nSlide 4 shows a 1999 crop picture,\
+    \ where a \"spinning vortex\" is \"lifted up\" by 3-phase power (a \"trident\"\
+    \ shape).\nThat spinning vortex goes \"around\" in a flat circle, while adding\
+    \ 3-phase magnetism may make it go \"up\" along a helical path? \nAny graduate\
+    \ student in electrical engineering could make this putative \"anti-gravity\"\
+    \ device, if they were not \"blinded\" by their teachers and textbooks. I will\
+    \ do it soon, as technical capabilities allow. \U0001F6F8"

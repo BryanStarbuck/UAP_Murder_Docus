@@ -1,0 +1,109 @@
+id: '2015744685214765277'
+url: https://x.com/RedCollie1/status/2015744685214765277
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Those six (or 15) outer coils apparently act like a "rotary induction motor",
+  using the right-hand-rule or Lorentz force. Two "crossed lizards" LOL. I am not
+  yet sure how to build this! 🛸 https://t.co/gdju6OTg7q
+created_at: '2026-01-26T11:12:38.000Z'
+lang: en
+conversation_id: '2015686897872613784'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 12
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 670
+entities:
+  urls:
+  - start: 188
+    end: 211
+    url: https://t.co/gdju6OTg7q
+    expanded_url: https://x.com/RedCollie1/status/2015744685214765277/photo/1
+    display_url: pic.x.com/gdju6OTg7q
+    media_key: '3_2015744548140720128'
+  - start: 188
+    end: 211
+    url: https://t.co/gdju6OTg7q
+    expanded_url: https://x.com/RedCollie1/status/2015744685214765277/photo/1
+    display_url: pic.x.com/gdju6OTg7q
+    media_key: '16_2015744585495142400'
+  - start: 188
+    end: 211
+    url: https://t.co/gdju6OTg7q
+    expanded_url: https://x.com/RedCollie1/status/2015744685214765277/photo/1
+    display_url: pic.x.com/gdju6OTg7q
+    media_key: '3_2015744617027616768'
+  - start: 188
+    end: 211
+    url: https://t.co/gdju6OTg7q
+    expanded_url: https://x.com/RedCollie1/status/2015744685214765277/photo/1
+    display_url: pic.x.com/gdju6OTg7q
+    media_key: '3_2015744635281514496'
+attachments:
+  media_keys:
+  - '3_2015744548140720128'
+  - '16_2015744585495142400'
+  - '3_2015744617027616768'
+  - '3_2015744635281514496'
+media:
+- media_key: '3_2015744548140720128'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_lc_JXboAAgOTB.jpg
+- media_key: '16_2015744585495142400'
+  type: animated_gif
+  width: 800
+  height: 800
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G_ldBUha4AAEcUZ.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G_ldBUha4AAEcUZ.mp4
+- media_key: '3_2015744617027616768'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_ldDJ_WQAADYT6.jpg
+- media_key: '3_2015744635281514496'
+  type: photo
+  width: 800
+  height: 2508
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_ldEN_aoAAUsr7.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2015686897872613784'
+  text: Here are some new studies of alien UFO electrical engineering, as drawn in
+    many crop pictures, and then reproduced in my private lab. https://t.co/Kly2iQNtfh
+has_video: true
+has_image: true
+media_count: 4

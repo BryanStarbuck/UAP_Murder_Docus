@@ -1,0 +1,117 @@
+id: '1919493141310439895'
+url: https://x.com/RedCollie1/status/1919493141310439895
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Not only can we "lift up" a spinning magnet by "helical magnetic fields", but
+  we can also make a spinning magnet "rise from below".
+
+  I show a small lab movie to demonstrate.
+
+  In astronomy, these are called "helical magnetic fields". They make large amounts
+  of ionized or magnetic https://t.co/47kJTEkbCh'
+created_at: '2025-05-05T20:43:22.000Z'
+lang: en
+conversation_id: '1919493141310439895'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 12
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1204
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/47kJTEkbCh
+    expanded_url: https://x.com/RedCollie1/status/1919493141310439895/video/1
+    display_url: pic.x.com/47kJTEkbCh
+    media_key: '13_1919490490132791299'
+  - start: 278
+    end: 301
+    url: https://t.co/47kJTEkbCh
+    expanded_url: https://x.com/RedCollie1/status/1919493141310439895/video/1
+    display_url: pic.x.com/47kJTEkbCh
+    media_key: '3_1919491070339252225'
+  - start: 278
+    end: 301
+    url: https://t.co/47kJTEkbCh
+    expanded_url: https://x.com/RedCollie1/status/1919493141310439895/video/1
+    display_url: pic.x.com/47kJTEkbCh
+    media_key: '3_1919491107144269826'
+attachments:
+  media_keys:
+  - '13_1919490490132791299'
+  - '3_1919491070339252225'
+  - '3_1919491107144269826'
+media:
+- media_key: '13_1919490490132791299'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1919490490132791299/img/Z4HxFjwbB8voP0VZ.jpg
+  duration_ms: 19600
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919490490132791299/vid/avc1/478x270/WWA4kyACCZwaq57N.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919490490132791299/vid/avc1/638x360/C3YJFjYm_Dx-Q_R5.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1919490490132791299/vid/avc1/852x480/yvnaVOQvBaWCmptU.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1919490490132791299/pl/sgFdMxSbyyj9-chJ.m3u8?tag=16&v=6be
+  public_metrics:
+    view_count: 527
+- media_key: '3_1919491070339252225'
+  type: photo
+  width: 1280
+  height: 1481
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqNm9WUbAAEnIrO.jpg
+- media_key: '3_1919491107144269826'
+  type: photo
+  width: 800
+  height: 530
+  alt_text: null
+  url: https://pbs.twimg.com/media/GqNm_fbbAAIfc65.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "Not only can we \"lift up\" a spinning magnet by \"helical magnetic fields\"\
+    , but we can also make a spinning magnet \"rise from below\".\nI show a small\
+    \ lab movie to demonstrate.\nIn astronomy, these are called \"helical magnetic\
+    \ fields\". They make large amounts of ionized or magnetic substances \"shoot\
+    \ out\" from a fast-spinning proto-star or active galaxy (slides 2 and 3). \n\
+    Even a border collie could understand, because of his experience with \"catching\
+    \ Frisbees\"!\nBut not our Great Professors in the Schools. \U0001F921\nI suspect\
+    \ that this new physics is related to how UFOs fly, but have not shown that definitively\
+    \ yet. \U0001F6F8"

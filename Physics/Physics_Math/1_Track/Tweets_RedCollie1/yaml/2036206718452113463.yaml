@@ -1,0 +1,94 @@
+id: '2036206718452113463'
+url: https://x.com/RedCollie1/status/2036206718452113463
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Just as an aside, it should be easy for everyone to see now that the Buga orb
+  (slide 1) might also fly by "spin and counter spin" UFO physics.
+
+  Except using 5 wire coils and 5-phase AC power, rather than 6 wire coils and 3-phase
+  AC power.
+
+  Its schematic diagram was drawn in crops, https://t.co/rx1pAK3dkr'
+created_at: '2026-03-23T22:21:27.000Z'
+lang: en
+conversation_id: '2036194828409786500'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 507
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/rx1pAK3dkr
+    expanded_url: https://x.com/RedCollie1/status/2036206718452113463/photo/1
+    display_url: pic.x.com/rx1pAK3dkr
+    media_key: '3_2036205230996717568'
+  - start: 280
+    end: 303
+    url: https://t.co/rx1pAK3dkr
+    expanded_url: https://x.com/RedCollie1/status/2036206718452113463/photo/1
+    display_url: pic.x.com/rx1pAK3dkr
+    media_key: '3_2036205373796089856'
+attachments:
+  media_keys:
+  - '3_2036205230996717568'
+  - '3_2036205373796089856'
+media:
+- media_key: '3_2036205230996717568'
+  type: photo
+  width: 898
+  height: 875
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEIN3otaAAAQtVW.jpg
+- media_key: '3_2036205373796089856'
+  type: photo
+  width: 960
+  height: 965
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEIN_8rbgAAz8LS.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2036194828409786500'
+  text: "Here is my new, 10-minute video of a simplified model by which to study \"\
+    UFO physics\". \U0001F6F8\nThe new model (video 1) uses just 6 wire coils and\
+    \ one 3-phase power supply. It also matches well what has been drawn in crops\
+    \ recently (slides 2, 3, 4). \nMany other close comparisons will https://t.co/K65JcGx3lf"
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Just as an aside, it should be easy for everyone to see now that the Buga\
+    \ orb (slide 1) might also fly by \"spin and counter spin\" UFO physics.\nExcept\
+    \ using 5 wire coils and 5-phase AC power, rather than 6 wire coils and 3-phase\
+    \ AC power.\nIts schematic diagram was drawn in crops, shown in slide 2. \nThere\
+    \ we can see an outer magnetic flywheel with (apparently) 10 N-S-N-S-N-S-N-S-N-S\
+    \ magnets, plus a central \"disc magnet on a pole\", that could spin in the opposite\
+    \ direction.\nI could build a small model to check these ideas, but do not have\
+    \ a 5-phase AC power supply."

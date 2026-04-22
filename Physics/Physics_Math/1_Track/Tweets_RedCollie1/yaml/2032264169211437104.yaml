@@ -1,0 +1,108 @@
+id: '2032264169211437104'
+url: https://x.com/RedCollie1/status/2032264169211437104
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"Use 6 coils plus 3 coils\" (with 3-phase power). \n\"Use 2 x 8 small magnets\
+  \ (to counter-spin). \nOther UFO-device crop pictures from 1998 or 1999. \n\"Use\
+  \ large-bore ball bearings\" (a needed part is being delivered here from China).\
+  \ https://t.co/07TEpzQwYw"
+created_at: '2026-03-13T01:15:10.000Z'
+lang: en
+conversation_id: '2032263041216365012'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 9
+  impression_count: 912
+entities:
+  urls:
+  - start: 229
+    end: 252
+    url: https://t.co/07TEpzQwYw
+    expanded_url: https://x.com/RedCollie1/status/2032264169211437104/photo/1
+    display_url: pic.x.com/07TEpzQwYw
+    media_key: '3_2032263481786056705'
+  - start: 229
+    end: 252
+    url: https://t.co/07TEpzQwYw
+    expanded_url: https://x.com/RedCollie1/status/2032264169211437104/photo/1
+    display_url: pic.x.com/07TEpzQwYw
+    media_key: '3_2032263637407318017'
+  - start: 229
+    end: 252
+    url: https://t.co/07TEpzQwYw
+    expanded_url: https://x.com/RedCollie1/status/2032264169211437104/photo/1
+    display_url: pic.x.com/07TEpzQwYw
+    media_key: '3_2032263671402151942'
+  - start: 229
+    end: 252
+    url: https://t.co/07TEpzQwYw
+    expanded_url: https://x.com/RedCollie1/status/2032264169211437104/photo/1
+    display_url: pic.x.com/07TEpzQwYw
+    media_key: '3_2032263695846555652'
+attachments:
+  media_keys:
+  - '3_2032263481786056705'
+  - '3_2032263637407318017'
+  - '3_2032263671402151942'
+  - '3_2032263695846555652'
+media:
+- media_key: '3_2032263481786056705'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDQM3onbQAEnUCw.jpg
+- media_key: '3_2032263637407318017'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDQNAsWbQAE6hfV.jpg
+- media_key: '3_2032263671402151942'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDQNCq_bQAYzodZ.jpg
+- media_key: '3_2032263695846555652'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDQNEGDbQAQHIJa.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2032263041216365012'
+  text: "I have now built, with some accuracy, the \"spin / counter-spin\" device\
+    \ seen by UFO contactees Norman Paulsen and Edwin Fuhr, a problem studied previously\
+    \ by Tom Valone. \nPrecise \"plans\" have also been drawn many places in crops\
+    \ worldwide, instructing us on how to build that https://t.co/UW5wL6dZ3K"
+has_video: false
+has_image: true
+media_count: 4

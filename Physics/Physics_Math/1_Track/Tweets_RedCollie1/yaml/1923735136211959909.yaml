@@ -1,0 +1,114 @@
+id: '1923735136211959909'
+url: https://x.com/RedCollie1/status/1923735136211959909
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: I was shown this "pole-ball" device for UFO levitation in a dream months ago.
+  It resembles a CT scan of the Buga sphere, and also a New Jersey drone from December
+  2024. So this model deserves further testing! https://t.co/chlUP91Cws
+created_at: '2025-05-17T13:39:32.000Z'
+lang: en
+conversation_id: '1923560870476644469'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 13
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1365
+entities:
+  urls:
+  - start: 209
+    end: 232
+    url: https://t.co/chlUP91Cws
+    expanded_url: https://x.com/RedCollie1/status/1923735136211959909/video/1
+    display_url: pic.x.com/chlUP91Cws
+    media_key: '3_1923734436522184704'
+  - start: 209
+    end: 232
+    url: https://t.co/chlUP91Cws
+    expanded_url: https://x.com/RedCollie1/status/1923735136211959909/video/1
+    display_url: pic.x.com/chlUP91Cws
+    media_key: '3_1923735024181919744'
+  - start: 209
+    end: 232
+    url: https://t.co/chlUP91Cws
+    expanded_url: https://x.com/RedCollie1/status/1923735136211959909/video/1
+    display_url: pic.x.com/chlUP91Cws
+    media_key: '13_1923735068603817984'
+attachments:
+  media_keys:
+  - '3_1923734436522184704'
+  - '3_1923735024181919744'
+  - '13_1923735068603817984'
+media:
+- media_key: '3_1923734436522184704'
+  type: photo
+  width: 1280
+  height: 960
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrJ6RxMXUAAoy5W.jpg
+- media_key: '3_1923735024181919744'
+  type: photo
+  width: 960
+  height: 876
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrJ6z-ZXQAActWv.jpg
+- media_key: '13_1923735068603817984'
+  type: video
+  width: 1280
+  height: 1320
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1923735068603817984/img/AVnpnwLNw2bTpVia.jpg
+  duration_ms: 8866
+  variants:
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1923735068603817984/pl/dzWY-QTSNIV-LGhK.m3u8
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923735068603817984/vid/avc1/480x494/boF2jrfd3YN16_5v.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923735068603817984/vid/avc1/320x330/S1i4ti06ZBDAJvpU.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923735068603817984/vid/avc1/720x742/h9bXAEHiNye0uLaS.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1923735068603817984/vid/avc1/1280x1320/RaUO_f7QOoG9oEbZ.mp4
+  public_metrics:
+    view_count: 500
+referenced_tweets:
+- type: replied_to
+  id: '1923560870476644469'
+  text: 'Here you can see the FIRST "pole-ball" experiment, based on a CT scan of
+    a mysterious orb-sphere analyzed by Jaime Maussan and colleagues in Mexico last
+    week.
+
+    It also matches a famous crop picture near Avebury in 2014, which Jaime and Fernando
+    visited! We had lunch together at https://t.co/foGtUDp3Dy'
+has_video: true
+has_image: true
+media_count: 3

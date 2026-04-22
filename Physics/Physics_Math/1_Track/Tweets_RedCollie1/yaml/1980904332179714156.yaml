@@ -1,0 +1,82 @@
+id: '1980904332179714156'
+url: https://x.com/RedCollie1/status/1980904332179714156
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: SPIN BABY SPIN 🛸 https://t.co/hZFBajwwFc
+created_at: '2025-10-22T07:49:30.000Z'
+lang: en
+conversation_id: '1980840769926963669'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 17
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2711
+entities:
+  urls:
+  - start: 17
+    end: 40
+    url: https://t.co/hZFBajwwFc
+    expanded_url: https://x.com/RedCollie1/status/1980904332179714156/video/1
+    display_url: pic.x.com/hZFBajwwFc
+    media_key: '13_1980904234498355200'
+attachments:
+  media_keys:
+  - '13_1980904234498355200'
+media:
+- media_key: '13_1980904234498355200'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1980904234498355200/img/s_mqXRhTe3k7z2in.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980904234498355200/vid/avc1/480x270/KHr3gz319eKEx3fs.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980904234498355200/vid/avc1/640x360/BTjBindxRcxZH_dN.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1980904234498355200/vid/avc1/1280x720/4PZ7R0G_CDvP8bZP.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1980904234498355200/pl/Oh4k0dWxsqe295Ts.m3u8?v=fd2
+  public_metrics:
+    view_count: 1820
+referenced_tweets:
+- type: replied_to
+  id: '1980840769926963669'
+  text: 'Here is a quick trailer for my new lab experiment, which will be explained
+    fully in Movies 1, 2 and 3 posted in comments below.
+
+    I do not intend to answer the dumb comments of abusive people, but will just point
+    out that a fast-spinning magnet acts like a gyroscope, and thus is https://t.co/pIlRMcLza9'
+has_video: true
+has_image: false
+media_count: 1

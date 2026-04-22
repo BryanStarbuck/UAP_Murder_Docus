@@ -1,0 +1,92 @@
+id: '1960390451854516570'
+url: https://x.com/RedCollie1/status/1960390451854516570
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Side-by-side comparison of Hubble (slide 1) versus James Webb (slide 2). The\
+  \ image shown in slide 2 has been blurred to very low resolution, thereby creating\
+  \ huge square pixels. \nBoth space telescopes should produce images of very similar\
+  \ resolution, in the visible or infrared. https://t.co/rouSFIsap2"
+created_at: '2025-08-26T17:14:40.000Z'
+lang: en
+conversation_id: '1960385497836216484'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 17
+  reply_count: 7
+  like_count: 80
+  quote_count: 2
+  bookmark_count: 8
+  impression_count: 5455
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/rouSFIsap2
+    expanded_url: https://x.com/RedCollie1/status/1960390451854516570/photo/1
+    display_url: pic.x.com/rouSFIsap2
+    media_key: '3_1960388815560040453'
+  - start: 279
+    end: 302
+    url: https://t.co/rouSFIsap2
+    expanded_url: https://x.com/RedCollie1/status/1960390451854516570/photo/1
+    display_url: pic.x.com/rouSFIsap2
+    media_key: '3_1960388851488509952'
+attachments:
+  media_keys:
+  - '3_1960388815560040453'
+  - '3_1960388851488509952'
+media:
+- media_key: '3_1960388815560040453'
+  type: photo
+  width: 900
+  height: 419
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzSzPb0a4AUr-nw.jpg
+- media_key: '3_1960388851488509952'
+  type: photo
+  width: 900
+  height: 804
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzSzRhqb0AAWIdn.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1960385497836216484'
+  text: "Here is the same ultra-low-resolution image of 3I/ATLAS, smeared into a noiseless\
+    \ blur, with pixel sizes much larger than for the SPHERE-X image, even though\
+    \ SPHERE-X has a pixel resolution of 6.2 arc seconds, while JWST has a pixel resolution\
+    \ of 0.07 arc seconds. \nAll for the https://t.co/BNqevZLvTx"
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "Side-by-side comparison of Hubble (slide 1) versus James Webb (slide 2).\
+    \ The image shown in slide 2 has been blurred to very low resolution, thereby\
+    \ creating huge square pixels. \nBoth space telescopes should produce images of\
+    \ very similar resolution, in the visible or infrared.\nQuite obviously, the image\
+    \ shown in slide 2 has been \"doctored\" to remove any details. The entire background\
+    \ of nearby space is likewise \"constant blue\", and not \"grainy\" like for the\
+    \ authentic Hubble image. \nI would GUESS that the large CO2 (orange) coma of\
+    \ 3I/ATLAS showed some kind of un-natural features, which they do not want us\
+    \ to see."

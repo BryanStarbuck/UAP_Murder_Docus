@@ -1,0 +1,87 @@
+id: '2028704389586891233'
+url: https://x.com/RedCollie1/status/2028704389586891233
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "You can see \"spin / counter-spin\" in this May 1999 crop picture very clearly,\
+  \ if you study the swirls of fallen yellow oilseed rape. \nAnti-clockwise in the\
+  \ center. Clockwise outside. \nCharles sat in it with an \"intelligent ball of light\"\
+  \ for 15 minutes. Are you thinking about https://t.co/ymG5bWAt1z"
+created_at: '2026-03-03T05:29:52.000Z'
+lang: en
+conversation_id: '2028696506321207728'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1259
+entities:
+  urls:
+  - start: 277
+    end: 300
+    url: https://t.co/ymG5bWAt1z
+    expanded_url: https://x.com/RedCollie1/status/2028704389586891233/photo/1
+    display_url: pic.x.com/ymG5bWAt1z
+    media_key: '3_2028703486578421760'
+  - start: 277
+    end: 300
+    url: https://t.co/ymG5bWAt1z
+    expanded_url: https://x.com/RedCollie1/status/2028704389586891233/photo/1
+    display_url: pic.x.com/ymG5bWAt1z
+    media_key: '3_2028703749305462784'
+attachments:
+  media_keys:
+  - '3_2028703486578421760'
+  - '3_2028703749305462784'
+media:
+- media_key: '3_2028703486578421760'
+  type: photo
+  width: 800
+  height: 1365
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCdnEpAacAAicEg.jpg
+- media_key: '3_2028703749305462784'
+  type: photo
+  width: 960
+  height: 652
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCdnT7va8AAZY5M.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2028696506321207728'
+  text: I pretty much have it solved now, except a need for less friction by clever
+    engineering. Other slides in the first comment below give a precise solution when
+    we use 6 rather than 9 outer wire coils. 🛸 https://t.co/PS5GAhWi8U
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "You can see \"spin / counter-spin\" in this May 1999 crop picture very clearly,\
+    \ if you study the swirls of fallen yellow oilseed rape. \nAnti-clockwise in the\
+    \ center. Clockwise outside. \nCharles sat in it with an \"intelligent ball of\
+    \ light\" for 15 minutes. Are you thinking about alien A.I., like I am thinking\
+    \ of alien A.I.?"

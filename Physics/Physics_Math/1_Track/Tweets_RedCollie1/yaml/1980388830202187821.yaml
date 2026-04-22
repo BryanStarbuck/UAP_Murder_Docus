@@ -1,0 +1,74 @@
+id: '1980388830202187821'
+url: https://x.com/RedCollie1/status/1980388830202187821
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @RedCollie1: @UAPWatchers "AS NEW POWERS EMERGE AND BECOME VISIBLE TO ALL"
+  (Mr. Pool 2021) https://t.co/zWpPQtZgOR'
+created_at: '2025-10-20T21:41:05.000Z'
+lang: en
+conversation_id: '1980388830202187821'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  mentions:
+  - start: 3
+    end: 14
+    username: RedCollie1
+    id: '1070522825646063617'
+  - start: 16
+    end: 28
+    username: UAPWatchers
+    id: '1794486688674156544'
+  urls:
+  - start: 94
+    end: 117
+    url: https://t.co/zWpPQtZgOR
+    expanded_url: https://x.com/RedCollie1/status/1980388631274782747/photo/1
+    display_url: pic.x.com/zWpPQtZgOR
+    media_key: '3_1980388325090340864'
+attachments:
+  media_keys:
+  - '3_1980388325090340864'
+media:
+- media_key: '3_1980388325090340864'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G3vAsGpXMAALibW.jpg
+referenced_tweets:
+- type: retweeted
+  id: '1980388631274782747'
+  text: '@UAPWatchers "AS NEW POWERS EMERGE AND BECOME VISIBLE TO ALL" (Mr. Pool 2021)
+    https://t.co/zWpPQtZgOR'
+has_video: false
+has_image: true
+media_count: 1

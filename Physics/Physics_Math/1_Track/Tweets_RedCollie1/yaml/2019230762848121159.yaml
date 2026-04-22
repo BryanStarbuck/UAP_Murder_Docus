@@ -1,0 +1,79 @@
+id: '2019230762848121159'
+url: https://x.com/RedCollie1/status/2019230762848121159
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Norman Paulsen https://t.co/pah6or3kie
+created_at: '2026-02-05T02:05:04.000Z'
+lang: 'no'
+conversation_id: '2019230497537483122'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 289
+entities:
+  urls:
+  - start: 15
+    end: 38
+    url: https://t.co/pah6or3kie
+    expanded_url: https://x.com/RedCollie1/status/2019230762848121159/photo/1
+    display_url: pic.x.com/pah6or3kie
+    media_key: '3_2019230691054305280'
+  - start: 15
+    end: 38
+    url: https://t.co/pah6or3kie
+    expanded_url: https://x.com/RedCollie1/status/2019230762848121159/photo/1
+    display_url: pic.x.com/pah6or3kie
+    media_key: '3_2019230708074721280'
+attachments:
+  media_keys:
+  - '3_2019230691054305280'
+  - '3_2019230708074721280'
+media:
+- media_key: '3_2019230691054305280'
+  type: photo
+  width: 600
+  height: 368
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAW_nXvbwAA9NkT.jpg
+- media_key: '3_2019230708074721280'
+  type: photo
+  width: 600
+  height: 377
+  alt_text: null
+  url: https://pbs.twimg.com/media/HAW_oXJasAAAr8J.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2019230497537483122'
+  text: "I pretty much have it now.\nSix wire coils given 3-phase power as U-V-W-U-V-W\
+    \ in series will make a magnetic field spin very well, opposite the direction\
+    \ of the rotating magnetic field, using 8 N-S-N-S-N-S-N-S magnets. \nA big magnet\
+    \ placed at the center will not spin at all.\nIf we https://t.co/7EBa2VRsLa"
+has_video: false
+has_image: true
+media_count: 2

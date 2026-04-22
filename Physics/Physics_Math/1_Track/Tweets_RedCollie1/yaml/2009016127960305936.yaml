@@ -1,0 +1,86 @@
+id: '2009016127960305936'
+url: https://x.com/RedCollie1/status/2009016127960305936
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@spiritstem_ Received. https://t.co/HSLgUATSiS'
+created_at: '2026-01-07T21:35:45.000Z'
+lang: en
+conversation_id: '2009013021599727616'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 275
+entities:
+  urls:
+  - start: 23
+    end: 46
+    url: https://t.co/HSLgUATSiS
+    expanded_url: https://x.com/RedCollie1/status/2009016127960305936/photo/1
+    display_url: pic.x.com/HSLgUATSiS
+    media_key: '3_2009016040693575680'
+  - start: 23
+    end: 46
+    url: https://t.co/HSLgUATSiS
+    expanded_url: https://x.com/RedCollie1/status/2009016127960305936/photo/1
+    display_url: pic.x.com/HSLgUATSiS
+    media_key: '3_2009016080547880960'
+  mentions:
+  - start: 0
+    end: 12
+    username: spiritstem_
+    id: '1490078884511076358'
+attachments:
+  media_keys:
+  - '3_2009016040693575680'
+  - '3_2009016080547880960'
+media:
+- media_key: '3_2009016040693575680'
+  type: photo
+  width: 973
+  height: 2031
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-F1cd2aMAAxT6M.jpg
+- media_key: '3_2009016080547880960'
+  type: photo
+  width: 585
+  height: 681
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-F1eyUaoAATAfp.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2009013021599727616'
+  text: 'A call and response from space 🌌 to field 🌾??
+
+
+    In the 1970s a team from NASA &amp; SETI sent out 3 different comms into space
+    as a way of saying hello 👋, this is what humanity 👤 and Earth 🌍 are all about
+    … they include the Pioneer Plaque, the Arecibo Message &amp; the Voyager https://t.co/qmV0hNYIUI'
+has_video: false
+has_image: true
+media_count: 2

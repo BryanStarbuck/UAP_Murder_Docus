@@ -1,0 +1,115 @@
+id: '1960580782977900911'
+url: https://x.com/RedCollie1/status/1960580782977900911
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Let's calculate and compare! Very important. \nHubble resolution 0.04 arcseconds\
+  \ per pixel (slide 1). \nSPHERE-X resolution 6.2 arcseconds per pixel (slide 2).\n\
+  James Webb \"expected\" resolution 0.07 arcseconds per pixel (slide 3). \nWe can\
+  \ do various calculations, but the orange coma https://t.co/r2pUuZISqv"
+created_at: '2025-08-27T05:50:59.000Z'
+lang: en
+conversation_id: '1960580782977900911'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 53
+  reply_count: 36
+  like_count: 380
+  quote_count: 11
+  bookmark_count: 64
+  impression_count: 32064
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/r2pUuZISqv
+    expanded_url: https://x.com/RedCollie1/status/1960580782977900911/photo/1
+    display_url: pic.x.com/r2pUuZISqv
+    media_key: '3_1960571717287600130'
+  - start: 281
+    end: 304
+    url: https://t.co/r2pUuZISqv
+    expanded_url: https://x.com/RedCollie1/status/1960580782977900911/photo/1
+    display_url: pic.x.com/r2pUuZISqv
+    media_key: '3_1960571737407676432'
+  - start: 281
+    end: 304
+    url: https://t.co/r2pUuZISqv
+    expanded_url: https://x.com/RedCollie1/status/1960580782977900911/photo/1
+    display_url: pic.x.com/r2pUuZISqv
+    media_key: '3_1960571758018498560'
+attachments:
+  media_keys:
+  - '3_1960571717287600130'
+  - '3_1960571737407676432'
+  - '3_1960571758018498560'
+media:
+- media_key: '3_1960571717287600130'
+  type: photo
+  width: 900
+  height: 419
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzVZlt2a4AIWq0k.jpg
+- media_key: '3_1960571737407676432'
+  type: photo
+  width: 887
+  height: 735
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzVZm4za4BA5DMf.jpg
+- media_key: '3_1960571758018498560'
+  type: photo
+  width: 900
+  height: 804
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzVZoFlbEAAT_gn.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3
+note_tweet:
+  text: "Let's calculate and compare! Very important. \nHubble resolution 0.04 arcseconds\
+    \ per pixel (slide 1). \nSPHERE-X resolution 6.2 arcseconds per pixel (slide 2).\n\
+    James Webb \"expected\" resolution 0.07 arcseconds per pixel (slide 3). \nWe can\
+    \ do various calculations, but the orange coma in slide 3 is about 350,000 kilometers\
+    \ wide. If we count the number of pixels (25 or 30) which show that coma, then\
+    \ divide, we find about 12,000 km per pixel.\nNext, based on an expected resolution\
+    \ of 0.07 arcseconds for JWST, and a distance of 350 million miles from Earth,\
+    \ we would EXPECT a pixel width near 120 km. Please repeat these calculations\
+    \ if you wish? I tried to use Grok 4 but it was hopeless!\nThus the resolution\
+    \ which we SEE in slide 3 (JWST) is only about 1/100 of what we would EXPECT from\
+    \ the JWST cameras, even those of \"low resolution\". \nThe effective resolution\
+    \ which we see in the JWST image of 3I/ATLAS would be about 7 arcseconds per pixel.\
+    \ \nThat is why slide 2 (SPHERE X) looks similar to slide 3 (JWST), because its\
+    \ angular resolution is 6 arcseconds per pixel. A good check on the calculations!\
+    \ \nThe Hubble image of slide 1 has a resolution of 0.04 arcseconds per pixel,\
+    \ or 150 to 200 times better than slides 2 or 3, so the pixels there are very\
+    \ small (tiny) by comparison. \nPlease calculate for yourselves if you wish to\
+    \ learn more? I could not get a sensible answer from Grok 4. It seems unable to\
+    \ solve such a problem (despite what Elon says). Whenever we calculate something,\
+    \ we should actually LOOK at the data, to see whether we are doing it correctly?\
+    \ A.I. cannot do that. \nIn summary, JWST is the \"big outlier\", with an effective\
+    \ resolution close to 100 times less than expected, even when using its low-resolution,\
+    \ spectral imaging cameras. \U0001F600\U0001F920\nIt SHOULD look like Hubble,\
+    \ but instead it looks like SPHERE-X. And that is the \"bottom line\". I doubt\
+    \ whether the loss of resolution was accidental."

@@ -1,0 +1,86 @@
+id: '1912832917035946012'
+url: https://x.com/RedCollie1/status/1912832917035946012
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The hard part in discovering \"UFO levitation\" is NOT how to make a fast-spinning\
+  \ magnet rise up, against Earth's gravity field! \nWe can do that quite simply by\
+  \ using a rotating magnetic field, produced by three, 3-phase wire coils.\nThe hard\
+  \ part will be finding some way to COUPLE https://t.co/9e6Hf6sWHt"
+created_at: '2025-04-17T11:38:00.000Z'
+lang: en
+conversation_id: '1912832917035946012'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 12
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1161
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/9e6Hf6sWHt
+    expanded_url: https://x.com/RedCollie1/status/1912832917035946012/video/1
+    display_url: pic.x.com/9e6Hf6sWHt
+    media_key: '13_1912831602868338688'
+attachments:
+  media_keys:
+  - '13_1912831602868338688'
+media:
+- media_key: '13_1912831602868338688'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1912831602868338688/img/3bzY1rH_h8_rJRN6.jpg
+  duration_ms: 27560
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912831602868338688/vid/avc1/480x270/PYUUjX4OGt3TcJLV.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912831602868338688/vid/avc1/640x360/dngUGD8x9Wg8CIkJ.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912831602868338688/vid/avc1/1280x720/NjACCkQRF0O05ITG.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1912831602868338688/pl/il110qOLGCXA_67f.m3u8?tag=16&v=195
+  public_metrics:
+    view_count: 507
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "The hard part in discovering \"UFO levitation\" is NOT how to make a fast-spinning\
+    \ magnet rise up, against Earth's gravity field! \nWe can do that quite simply\
+    \ by using a rotating magnetic field, produced by three, 3-phase wire coils.\n\
+    The hard part will be finding some way to COUPLE the UFO-rising force of that\
+    \ spinning magnet, to the rest of the UFO which is not spinning. \nBy analogy,\
+    \ we can have a \"horse\", but need to find some way to couple his moving force\
+    \ to a \"cart\". \nMore experiments soon. \U0001F6F8"

@@ -1,0 +1,74 @@
+id: '1972116182812840274'
+url: https://x.com/RedCollie1/status/1972116182812840274
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 5-D cube projected onto a 2-D plane https://t.co/cYJ8wdWLtq https://t.co/zMi97A7JDA
+created_at: '2025-09-28T01:48:32.000Z'
+lang: en
+conversation_id: '1972065056570724636'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 2
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 1637
+entities:
+  urls:
+  - start: 36
+    end: 59
+    url: https://t.co/cYJ8wdWLtq
+    expanded_url: https://en.wikipedia.org/wiki/5-cube
+    display_url: en.wikipedia.org/wiki/5-cube
+    status: 200
+    title: 5-cube - Wikipedia
+    unwound_url: https://en.wikipedia.org/wiki/5-cube
+  - start: 60
+    end: 83
+    url: https://t.co/zMi97A7JDA
+    expanded_url: https://x.com/RedCollie1/status/1972116182812840274/photo/1
+    display_url: pic.x.com/zMi97A7JDA
+    media_key: '3_1972116122737725440'
+attachments:
+  media_keys:
+  - '3_1972116122737725440'
+media:
+- media_key: '3_1972116122737725440'
+  type: photo
+  width: 1024
+  height: 1024
+  alt_text: null
+  url: https://pbs.twimg.com/media/G15dKjeaUAACmwJ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1972065056570724636'
+  text: "PART 3: We live here in a 3-dimensional kind of \"Flatland\". The E.T. crop\
+    \ artists live in a higher-dimensional reality than ours.\nThis is why they drew\
+    \ the image of a 5-D cube in crops 2011. As a projection into our 3-D space. \n\
+    It was \"signed\" nearby by our \"friend\". \U0001F600 https://t.co/hx5ugPAwH5"
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,108 @@
+id: '1942555034761535568'
+url: https://x.com/RedCollie1/status/1942555034761535568
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'The upper hemisphere of that Buga orb-sphere shows "five moons", which generally
+  mean "5-phase AC power" in crop-artist symbolism.
+
+  So anything which inside and "magnetic" will SPIN, like for the permanent-magnet
+  rotor in a Tesla Model 3.
+
+  Could that be what makes it fly? Is there https://t.co/cZv5RIp5TM'
+created_at: '2025-07-08T12:03:05.000Z'
+lang: en
+conversation_id: '1942537540801814931'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 16
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1582
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/cZv5RIp5TM
+    expanded_url: https://x.com/RedCollie1/status/1942555034761535568/video/1
+    display_url: pic.x.com/cZv5RIp5TM
+    media_key: '3_1942554196538187777'
+  - start: 280
+    end: 303
+    url: https://t.co/cZv5RIp5TM
+    expanded_url: https://x.com/RedCollie1/status/1942555034761535568/video/1
+    display_url: pic.x.com/cZv5RIp5TM
+    media_key: '13_1942554539535585280'
+attachments:
+  media_keys:
+  - '3_1942554196538187777'
+  - '13_1942554539535585280'
+media:
+- media_key: '3_1942554196538187777'
+  type: photo
+  width: 960
+  height: 954
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvVWv-maYAEKajR.jpg
+- media_key: '13_1942554539535585280'
+  type: video
+  width: 854
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1942554539535585280/img/9DK4oG1Fh118-VgW.jpg
+  duration_ms: 15274
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942554539535585280/vid/avc1/480x270/2E-3alIpQvGkDCO6.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942554539535585280/vid/avc1/640x360/JDZU5YiPGsx44CZU.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942554539535585280/vid/avc1/854x480/Ya_4BTdlkgaSxJH9.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1942554539535585280/pl/jiDucYw9OPx-LbRe.m3u8?v=cfc
+  public_metrics:
+    view_count: 673
+referenced_tweets:
+- type: replied_to
+  id: '1942537540801814931'
+  text: "Here is a good video from Caltech (where I got my Ph.D.) showing a \"3-axis\
+    \ gyroscope\". \nTo test for an anti-gravity effect, I will have to make the spinning\
+    \ disc of that gyroscope \"magnetic\", then apply a 3-phase magnetic field to\
+    \ make it spin and rise. \nAs suggested by the E.T. https://t.co/cZb5cwDl2i"
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: 'The upper hemisphere of that Buga orb-sphere shows "five moons", which generally
+    mean "5-phase AC power" in crop-artist symbolism.
+
+    So anything which inside and "magnetic" will SPIN, like for the permanent-magnet
+    rotor in a Tesla Model 3.
+
+    Could that be what makes it fly? Is there a magnetic gyroscope inside?'

@@ -1,0 +1,71 @@
+id: '1989073759001878934'
+url: https://x.com/RedCollie1/status/1989073759001878934
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Ron_tron3000 Ion propulsion https://t.co/dKStvW7Zrn'
+created_at: '2025-11-13T20:51:54.000Z'
+lang: fr
+conversation_id: '1988872144671973753'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 107
+entities:
+  urls:
+  - start: 29
+    end: 52
+    url: https://t.co/dKStvW7Zrn
+    expanded_url: https://x.com/RedCollie1/status/1989073759001878934/photo/1
+    display_url: pic.x.com/dKStvW7Zrn
+    media_key: '3_1989073752014090242'
+  mentions:
+  - start: 0
+    end: 13
+    username: Ron_tron3000
+    id: '174800162'
+attachments:
+  media_keys:
+  - '3_1989073752014090242'
+media:
+- media_key: '3_1989073752014090242'
+  type: photo
+  width: 750
+  height: 500
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5qcCfTacAIqo1o.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1988953035046023569'
+  text: '@RedCollie1 If people are saying 3L ATLAS isn’t a comet, and others claim
+    it’s being propelled like a rocket, then why would an alien craft use something
+    that looks like rocket propulsion instead of an advanced or unknown technology
+    as we all have always assumed?'
+has_video: false
+has_image: true
+media_count: 1

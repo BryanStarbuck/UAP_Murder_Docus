@@ -1,0 +1,109 @@
+id: '1913912117994086451'
+url: https://x.com/RedCollie1/status/1913912117994086451
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "You can see here that ordinary air, once ionized at 6.6 kV, spins down toward\
+  \ a horizontal N-S spinning magnet, just as if there were a \"vortex\" created in\
+  \ space. \nNever measured before! Not in textbooks or journals.\n\"A fool is a man\
+  \ who has never done an experiment\" Erasmus https://t.co/8pVm5MoUHL"
+created_at: '2025-04-20T11:06:22.000Z'
+lang: en
+conversation_id: '1913912117994086451'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 20
+  reply_count: 15
+  like_count: 89
+  quote_count: 0
+  bookmark_count: 33
+  impression_count: 7581
+entities:
+  urls:
+  - start: 276
+    end: 299
+    url: https://t.co/8pVm5MoUHL
+    expanded_url: https://x.com/RedCollie1/status/1913912117994086451/video/1
+    display_url: pic.x.com/8pVm5MoUHL
+    media_key: '13_1913911071704031232'
+  - start: 276
+    end: 299
+    url: https://t.co/8pVm5MoUHL
+    expanded_url: https://x.com/RedCollie1/status/1913912117994086451/video/1
+    display_url: pic.x.com/8pVm5MoUHL
+    media_key: '13_1913911119221280769'
+attachments:
+  media_keys:
+  - '13_1913911071704031232'
+  - '13_1913911119221280769'
+media:
+- media_key: '13_1913911071704031232'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913911071704031232/img/q9DEavLfoCJmEMGO.jpg
+  duration_ms: 24600
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913911071704031232/vid/avc1/480x270/IG-MNeqrv7owvFNk.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913911071704031232/vid/avc1/640x360/o2HbbUSIvIekg_mx.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913911071704031232/vid/avc1/1280x720/SAbto3E1aasg03Tk.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913911071704031232/pl/-TOZEJRWJ98yDRqM.m3u8?tag=16&v=6a2
+  public_metrics:
+    view_count: 4281
+- media_key: '13_1913911119221280769'
+  type: video
+  width: 501
+  height: 726
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913911119221280769/img/qI4kyXrp4xV54oXL.jpg
+  duration_ms: 10050
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913911119221280769/vid/avc1/320x462/dqQ9m-nTawaeBGLW.mp4?tag=16
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913911119221280769/vid/avc1/500x724/K2sxUGvciJS-jr7I.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913911119221280769/pl/IagRiAVL7P8McoNz.m3u8?tag=16&v=cfc
+  public_metrics:
+    view_count: 832
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 2
+note_tweet:
+  text: "You can see here that ordinary air, once ionized at 6.6 kV, spins down toward\
+    \ a horizontal N-S spinning magnet, just as if there were a \"vortex\" created\
+    \ in space. \nNever measured before! Not in textbooks or journals.\n\"A fool is\
+    \ a man who has never done an experiment\" Erasmus Darwin. \nI expected it to\
+    \ go the other way."

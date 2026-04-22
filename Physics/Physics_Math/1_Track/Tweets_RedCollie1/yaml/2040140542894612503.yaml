@@ -1,0 +1,71 @@
+id: '2040140542894612503'
+url: https://x.com/RedCollie1/status/2040140542894612503
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@ellis1_david Thanks, the problem is bypassing Newton's 3rd Law. \nPlease see\
+  \ other recent posts on this page about that subject.\nSpin and counter-spin. https://t.co/K3XrB02qTW"
+created_at: '2026-04-03T18:53:04.000Z'
+lang: en
+conversation_id: '2040006468402069701'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 35
+entities:
+  urls:
+  - start: 152
+    end: 175
+    url: https://t.co/K3XrB02qTW
+    expanded_url: https://x.com/RedCollie1/status/2040140542894612503/photo/1
+    display_url: pic.x.com/K3XrB02qTW
+    media_key: '3_2040140536573767680'
+  mentions:
+  - start: 0
+    end: 13
+    username: ellis1_david
+    id: '1093974865'
+attachments:
+  media_keys:
+  - '3_2040140536573767680'
+media:
+- media_key: '3_2040140536573767680'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFAJAkZasAAdvqt.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2040058678066221497'
+  text: '@RedCollie1 Red. Have you seen US5929732? It’s a Lockheed patent from 1997.
+    Wondering what your thoughts are on it and whether it has any applications to
+    your work.'
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,145 @@
+id: '2027995610494710070'
+url: https://x.com/RedCollie1/status/2027995610494710070
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here is an important, simplified model to test \"spin and counter-spin\" physics\
+  \ for UFO levitation. \nOnly one power supply and 6 wire coils needed! Previously\
+  \ I used two power supplies and 9 wire coils. \nIf you watch from the beginning,\
+  \ you will see one of the greatest decodes of https://t.co/Tj65XlUVYM"
+created_at: '2026-03-01T06:33:26.000Z'
+lang: en
+conversation_id: '2027995610494710070'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 12
+  reply_count: 6
+  like_count: 114
+  quote_count: 1
+  bookmark_count: 43
+  impression_count: 6347
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/Tj65XlUVYM
+    expanded_url: https://x.com/RedCollie1/status/2027995610494710070/video/1
+    display_url: pic.x.com/Tj65XlUVYM
+    media_key: '13_2027991067006849024'
+  - start: 280
+    end: 303
+    url: https://t.co/Tj65XlUVYM
+    expanded_url: https://x.com/RedCollie1/status/2027995610494710070/video/1
+    display_url: pic.x.com/Tj65XlUVYM
+    media_key: '13_2027991446322814976'
+  - start: 280
+    end: 303
+    url: https://t.co/Tj65XlUVYM
+    expanded_url: https://x.com/RedCollie1/status/2027995610494710070/video/1
+    display_url: pic.x.com/Tj65XlUVYM
+    media_key: '13_2027992657595928581'
+attachments:
+  media_keys:
+  - '13_2027991067006849024'
+  - '13_2027991446322814976'
+  - '13_2027992657595928581'
+media:
+- media_key: '13_2027991067006849024'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2027991067006849024/img/icekuRt73ww4ImcU.jpg
+  duration_ms: 323523
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991067006849024/vid/avc1/480x270/TGinPq_9G6Yqi4zg.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991067006849024/vid/avc1/640x360/y-255urRkIZSQ7DV.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991067006849024/vid/avc1/1280x720/PH6nW0tFghwWGxhr.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2027991067006849024/pl/Bhv6rD9I8ZrZTbHj.m3u8?v=450
+  public_metrics:
+    view_count: 3105
+- media_key: '13_2027991446322814976'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2027991446322814976/img/7WtElyNjZ1kchDjp.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991446322814976/vid/avc1/1000x1014/VoAkHkRJswDNHPD4.mp4
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991446322814976/vid/avc1/320x324/7Ix0fwNIZadYObaB.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991446322814976/vid/avc1/720x730/8ynqOP4P2MuudISq.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2027991446322814976/pl/w7Db20nwulZnG3dD.m3u8
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027991446322814976/vid/avc1/480x486/ROeNZW9FlACvGTt6.mp4
+  public_metrics:
+    view_count: 223
+- media_key: '13_2027992657595928581'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2027992657595928581/img/fRiDKXBRNZFE3_o9.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027992657595928581/vid/avc1/480x270/Bp9x_vmF72Yttuu6.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027992657595928581/vid/avc1/640x360/ekX2YHvTIsKxsf0J.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2027992657595928581/vid/avc1/1280x720/xj-IcRX9dMsHjCX7.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2027992657595928581/pl/F_vDzu7DMq6kLAkL.m3u8
+  public_metrics:
+    view_count: 222
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "Here is an important, simplified model to test \"spin and counter-spin\"\
+    \ physics for UFO levitation. \nOnly one power supply and 6 wire coils needed!\
+    \ Previously I used two power supplies and 9 wire coils. \nIf you watch from the\
+    \ beginning, you will see one of the greatest decodes of an \"alien blueprint\"\
+    \ ever! \nFriendly aliens are teaching us, but who will listen? \n\U0001F47D\U0001F6F8\
+    \nWith many thanks to Norman Paulsen and Edwin Fuhr (videos 2 and 3). And to our\
+    \ many friends from the stars. I am proud to be their \"student\"."

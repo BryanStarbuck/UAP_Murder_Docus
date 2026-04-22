@@ -1,0 +1,76 @@
+id: '1971458456168300943'
+url: https://x.com/RedCollie1/status/1971458456168300943
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'TEACHING LESSON: Here you can see the effect of a 3-phase, rotating magnetic
+  field on a permanent ball-shaped magnet. Spin,  baby, spin! 🛸 https://t.co/98qFDnIlXZ'
+created_at: '2025-09-26T06:14:58.000Z'
+lang: en
+conversation_id: '1971458456168300943'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 40
+  reply_count: 16
+  like_count: 330
+  quote_count: 3
+  bookmark_count: 86
+  impression_count: 29864
+entities:
+  urls:
+  - start: 139
+    end: 162
+    url: https://t.co/98qFDnIlXZ
+    expanded_url: https://x.com/RedCollie1/status/1971458456168300943/video/1
+    display_url: pic.x.com/98qFDnIlXZ
+    media_key: '13_1971458110847057920'
+attachments:
+  media_keys:
+  - '13_1971458110847057920'
+media:
+- media_key: '13_1971458110847057920'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1971458110847057920/img/fe0UXe11-oa7odVt.jpg
+  duration_ms: 44600
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1971458110847057920/vid/avc1/480x270/iKuKCRd4y0B3HMf1.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1971458110847057920/vid/avc1/640x360/h4-5C3pYh9s-aZ5a.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1971458110847057920/vid/avc1/1280x720/FuDtrvKy6ICueukZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1971458110847057920/pl/vPOa-kZPMJaWxbr5.m3u8?v=e64
+  public_metrics:
+    view_count: 17107
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

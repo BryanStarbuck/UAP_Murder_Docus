@@ -1,0 +1,118 @@
+id: '1913571865613971580'
+url: https://x.com/RedCollie1/status/1913571865613971580
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "\"Helical magnetic field\" in my lab, and also as seen in astronomy.\nThe \"\
+  Big Bang\" people do not have a clue.\nThey look through telescopes, but no lab\
+  \ work. \nNow you know more than them! \n\U0001F605\U0001F602\U0001F923 https://t.co/VkZwoi5xcE"
+created_at: '2025-04-19T12:34:19.000Z'
+lang: en
+conversation_id: '1913571865613971580'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 729
+entities:
+  urls:
+  - start: 191
+    end: 214
+    url: https://t.co/VkZwoi5xcE
+    expanded_url: https://x.com/RedCollie1/status/1913571865613971580/video/1
+    display_url: pic.x.com/VkZwoi5xcE
+    media_key: '13_1913570554428428289'
+  - start: 191
+    end: 214
+    url: https://t.co/VkZwoi5xcE
+    expanded_url: https://x.com/RedCollie1/status/1913571865613971580/video/1
+    display_url: pic.x.com/VkZwoi5xcE
+    media_key: '13_1913570616609026048'
+  - start: 191
+    end: 214
+    url: https://t.co/VkZwoi5xcE
+    expanded_url: https://x.com/RedCollie1/status/1913571865613971580/video/1
+    display_url: pic.x.com/VkZwoi5xcE
+    media_key: '3_1913570666252816384'
+attachments:
+  media_keys:
+  - '13_1913570554428428289'
+  - '13_1913570616609026048'
+  - '3_1913570666252816384'
+media:
+- media_key: '13_1913570554428428289'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913570554428428289/img/YyN9JMm8KvhQvTzB.jpg
+  duration_ms: 19600
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570554428428289/vid/avc1/480x270/y026EJhcBJS_BWFQ.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570554428428289/vid/avc1/640x360/TGYQl4D2ztXDxEl5.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570554428428289/vid/avc1/1280x720/zdAQPrEcHm719HPk.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913570554428428289/pl/XNxjA_XMNZfMUnmO.m3u8?tag=16
+  public_metrics:
+    view_count: 300
+- media_key: '13_1913570616609026048'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1913570616609026048/img/qiuONm0RBNTxJPEW.jpg
+  duration_ms: 6206
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570616609026048/vid/avc1/480x270/S_yIf1-wswoeEHHv.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570616609026048/vid/avc1/640x360/Udb9l5JLpGII4eTH.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1913570616609026048/vid/avc1/1280x720/Du3hmpadz43wt1gI.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1913570616609026048/pl/j-XO65blLSOlojaG.m3u8?tag=16
+  public_metrics:
+    view_count: 49
+- media_key: '3_1913570666252816384'
+  type: photo
+  width: 601
+  height: 649
+  alt_text: null
+  url: https://pbs.twimg.com/media/Go5eYeabUAAFDg8.png
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

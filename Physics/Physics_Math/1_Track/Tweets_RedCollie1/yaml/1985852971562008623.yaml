@@ -1,0 +1,92 @@
+id: '1985852971562008623'
+url: https://x.com/RedCollie1/status/1985852971562008623
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Alien UFO science: outer spin with inner counter-spin.
+
+  Inner homopolar, outer 3-phase. 🛸
+
+  From the "horse''s mouth". https://t.co/GP3NgZEyDt'
+created_at: '2025-11-04T23:33:38.000Z'
+lang: en
+conversation_id: '1985852971562008623'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 4
+  reply_count: 3
+  like_count: 14
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 2289
+entities:
+  urls:
+  - start: 115
+    end: 138
+    url: https://t.co/GP3NgZEyDt
+    expanded_url: https://x.com/RedCollie1/status/1985852971562008623/video/1
+    display_url: pic.x.com/GP3NgZEyDt
+    media_key: '3_1985852702434435072'
+  - start: 115
+    end: 138
+    url: https://t.co/GP3NgZEyDt
+    expanded_url: https://x.com/RedCollie1/status/1985852971562008623/video/1
+    display_url: pic.x.com/GP3NgZEyDt
+    media_key: '13_1985852720725774336'
+attachments:
+  media_keys:
+  - '3_1985852702434435072'
+  - '13_1985852720725774336'
+media:
+- media_key: '3_1985852702434435072'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/G48qgujaoAAtu54.jpg
+- media_key: '13_1985852720725774336'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1985852720725774336/img/Vz03huZBC8ACw6Vp.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985852720725774336/vid/avc1/480x270/Q8LDQGCvzKzWxbfa.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985852720725774336/vid/avc1/640x360/vH-Slk3pbpykUHA2.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1985852720725774336/vid/avc1/1280x720/vCwgFc0CfFQRK-6n.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1985852720725774336/pl/XfuowpdpiyxufOBr.m3u8?v=170
+  public_metrics:
+    view_count: 972
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2

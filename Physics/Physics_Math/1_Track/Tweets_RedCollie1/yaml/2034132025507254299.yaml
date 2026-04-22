@@ -1,0 +1,144 @@
+id: '2034132025507254299'
+url: https://x.com/RedCollie1/status/2034132025507254299
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Video 1 shows a short clip of a new spin / counter-spin device I have just\
+  \ made, as a model to test UFO-levitation physics. \nNow we are using a non-magnetic\
+  \ ZrO2 ball-bearing, and everything works fine!\nVideos 2 and 3 show spin / counter-spin\
+  \ as witnessed by two UFO contactees, https://t.co/zEFStYkA9w"
+created_at: '2026-03-18T04:57:21.000Z'
+lang: en
+conversation_id: '2034132025507254299'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 7
+  like_count: 124
+  quote_count: 0
+  bookmark_count: 24
+  impression_count: 6035
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/zEFStYkA9w
+    expanded_url: https://x.com/RedCollie1/status/2034132025507254299/video/1
+    display_url: pic.x.com/zEFStYkA9w
+    media_key: '13_2034130801634562048'
+  - start: 279
+    end: 302
+    url: https://t.co/zEFStYkA9w
+    expanded_url: https://x.com/RedCollie1/status/2034132025507254299/video/1
+    display_url: pic.x.com/zEFStYkA9w
+    media_key: '13_2034130843795623937'
+  - start: 279
+    end: 302
+    url: https://t.co/zEFStYkA9w
+    expanded_url: https://x.com/RedCollie1/status/2034132025507254299/video/1
+    display_url: pic.x.com/zEFStYkA9w
+    media_key: '13_2034130862175084544'
+attachments:
+  media_keys:
+  - '13_2034130801634562048'
+  - '13_2034130843795623937'
+  - '13_2034130862175084544'
+media:
+- media_key: '13_2034130801634562048'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034130801634562048/img/f1U1oj_UA23CVLW7.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130801634562048/vid/avc1/480x270/fVu5B1NjyenexT2u.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130801634562048/vid/avc1/640x360/QS7lVZDh5KC-DkHD.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130801634562048/vid/avc1/1280x720/J9LhaY4xIXXMVVLm.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034130801634562048/pl/2ce1uYW6XaD7jDyA.m3u8?v=cfc
+  public_metrics:
+    view_count: 3134
+- media_key: '13_2034130843795623937'
+  type: video
+  width: 1000
+  height: 1014
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034130843795623937/img/wH5tk-eIgmtLOJLW.jpg
+  duration_ms: 13504
+  variants:
+  - bit_rate: 632000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130843795623937/vid/avc1/320x324/PbmwtndTuXkZMvnU.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130843795623937/vid/avc1/1000x1014/kveqco5yU5V-nAtC.mp4
+  - bit_rate: 950000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130843795623937/vid/avc1/480x486/p-_f906HapARqliS.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130843795623937/vid/avc1/720x730/NRxhYZ9Qq2OIep8k.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034130843795623937/pl/WUsOG9Fuiknb_SRb.m3u8?v=cfc
+  public_metrics:
+    view_count: 735
+- media_key: '13_2034130862175084544'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2034130862175084544/img/UrIKKMb8cTpRYYRD.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130862175084544/vid/avc1/480x270/nYORriChwx7eG2wP.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130862175084544/vid/avc1/640x360/R6By4WnnG3bG2Y9Y.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2034130862175084544/vid/avc1/1280x720/rBaxd6nF0S3kkVVq.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2034130862175084544/pl/UgpKR8pPt_9OcVIU.m3u8?v=2ba
+  public_metrics:
+    view_count: 482
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3
+note_tweet:
+  text: "Video 1 shows a short clip of a new spin / counter-spin device I have just\
+    \ made, as a model to test UFO-levitation physics. \nNow we are using a non-magnetic\
+    \ ZrO2 ball-bearing, and everything works fine!\nVideos 2 and 3 show spin / counter-spin\
+    \ as witnessed by two UFO contactees, Norman Paulsen and Edwin Fuhr.\nENJOY! I\
+    \ will post a 7-minute video soon with full technical details, so that others\
+    \ will be able to reproduce. \U0001F6F8"

@@ -1,0 +1,67 @@
+id: '1937256563305336873'
+url: https://x.com/RedCollie1/status/1937256563305336873
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Waiting for confirmation. https://t.co/CqlkNcSGTV
+created_at: '2025-06-23T21:08:51.000Z'
+lang: en
+conversation_id: '1937249749801029904'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 20
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 1429
+entities:
+  urls:
+  - start: 26
+    end: 49
+    url: https://t.co/CqlkNcSGTV
+    expanded_url: https://x.com/RedCollie1/status/1937256563305336873/photo/1
+    display_url: pic.x.com/CqlkNcSGTV
+    media_key: '3_1937256488101380097'
+attachments:
+  media_keys:
+  - '3_1937256488101380097'
+media:
+- media_key: '3_1937256488101380097'
+  type: photo
+  width: 1200
+  height: 900
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuKEgwwagAEVt9_.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1937249749801029904'
+  text: 'We can''t be sure (yet) whether this new crop picture from Italy on June
+    22, 2025 is REAL? Yet we can say that it shows essentially the SAME codes as another
+    crop picture in Italy on June 20, 2011 that read "Ea Enki space" in 8-bit ASCII.
+
+    In order to align the two crop pictures, https://t.co/0KaMspUwD8'
+has_video: false
+has_image: true
+media_count: 1

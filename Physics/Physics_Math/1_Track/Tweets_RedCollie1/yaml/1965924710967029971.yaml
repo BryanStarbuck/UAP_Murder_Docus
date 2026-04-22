@@ -1,0 +1,74 @@
+id: '1965924710967029971'
+url: https://x.com/RedCollie1/status/1965924710967029971
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@UAPWatchers See paragraph 2 of this message from the Emerthers in 2017 (through
+  "CJ", translated by me).
+
+  "CJ" knows NO Latin, just as an aside, if you seek proof. https://t.co/bTcZWoxw7D'
+created_at: '2025-09-10T23:45:50.000Z'
+lang: en
+conversation_id: '1965880541661770091'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 919
+entities:
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+  urls:
+  - start: 164
+    end: 187
+    url: https://t.co/bTcZWoxw7D
+    expanded_url: https://x.com/RedCollie1/status/1965924710967029971/photo/1
+    display_url: pic.x.com/bTcZWoxw7D
+    media_key: '3_1965924435929739268'
+attachments:
+  media_keys:
+  - '3_1965924435929739268'
+media:
+- media_key: '3_1965924435929739268'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G0hd28raMAQPGtE.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1965880541661770091'
+  text: "\U0001F6A8 Day Long Repeating Gamma Ray Burst From Beyond The Milky Way\n\
+    \nAstronomers have spotted a gamma-ray burst that pulsed multiple times over 24\
+    \ hours. \nNothing like this has been seen in 50 years of GRB research. Big telescopes\
+    \ (VLT, Hubble, JWST) are on it.\U0001F9F5\U0001F447 https://t.co/XsO5ZUsITG"
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,82 @@
+id: '2033854234144502079'
+url: https://x.com/RedCollie1/status/2033854234144502079
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@AntonyHarkin3 The central magnet / flywheel is supposed to wobble. https://t.co/q1uJqrSu1N'
+created_at: '2026-03-17T10:33:31.000Z'
+lang: en
+conversation_id: '2033809993309557020'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 493
+entities:
+  urls:
+  - start: 68
+    end: 91
+    url: https://t.co/q1uJqrSu1N
+    expanded_url: https://x.com/RedCollie1/status/2033854234144502079/photo/1
+    display_url: pic.x.com/q1uJqrSu1N
+    media_key: '3_2033854054649225216'
+  - start: 68
+    end: 91
+    url: https://t.co/q1uJqrSu1N
+    expanded_url: https://x.com/RedCollie1/status/2033854234144502079/photo/1
+    display_url: pic.x.com/q1uJqrSu1N
+    media_key: '3_2033854220483629057'
+  mentions:
+  - start: 0
+    end: 14
+    username: AntonyHarkin3
+    id: '1607518350720073729'
+attachments:
+  media_keys:
+  - '3_2033854054649225216'
+  - '3_2033854220483629057'
+media:
+- media_key: '3_2033854054649225216'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDmzfKRa4AA3jlH.jpg
+- media_key: '3_2033854220483629057'
+  type: photo
+  width: 941
+  height: 900
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDmzo0DbEAEvVKQ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2033825278456197293'
+  text: '@RedCollie1 Can you recess the internal plate and place loose non magnetic
+    bearings to it, to counter the wobble?'
+has_video: false
+has_image: true
+media_count: 2

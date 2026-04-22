@@ -1,0 +1,86 @@
+id: '1912529493949817071'
+url: https://x.com/RedCollie1/status/1912529493949817071
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@AdrianK30 Perhaps it was a 3-phase field? https://t.co/uS7Fi0DlYd'
+created_at: '2025-04-16T15:32:19.000Z'
+lang: en
+conversation_id: '1912464896169767391'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 2
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 1329
+entities:
+  urls:
+  - start: 43
+    end: 66
+    url: https://t.co/uS7Fi0DlYd
+    expanded_url: https://x.com/RedCollie1/status/1912529493949817071/video/1
+    display_url: pic.x.com/uS7Fi0DlYd
+    media_key: '13_1912529404363776000'
+  mentions:
+  - start: 0
+    end: 10
+    username: AdrianK30
+    id: '1532142572700852224'
+attachments:
+  media_keys:
+  - '13_1912529404363776000'
+media:
+- media_key: '13_1912529404363776000'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1912529404363776000/img/XKYJZ6IBz2PMPLeX.jpg
+  duration_ms: 21955
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912529404363776000/vid/avc1/480x270/lkfr96ra6iKSOcc9.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912529404363776000/vid/avc1/640x360/wLa-efuClP9KWVmS.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1912529404363776000/vid/avc1/1280x720/FD0gt1wfg5b8BRcZ.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1912529404363776000/pl/Egla_Nfxz25oZ89Q.m3u8?tag=16
+  public_metrics:
+    view_count: 415
+referenced_tweets:
+- type: replied_to
+  id: '1912507155950842072'
+  text: '@RedCollie1 2nd animation graphic video showing disc. The disc I saw from
+    underneath, had a similar small circle, but pulsated a luminescent orange/red
+    colour. Felt a huge field of electrostatic &amp; repelling force like 2 opposing
+    magnets would feel in one''s hands. Fascinating.'
+has_video: true
+has_image: false
+media_count: 1

@@ -1,0 +1,84 @@
+id: '1999965614056816724'
+url: https://x.com/RedCollie1/status/1999965614056816724
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@Dawn_Disclosure FAKE the real message is attached below.
+
+  Sent back in time from Jerusalem after alien contact, when we get access to their
+  tech. https://t.co/2g3uS8zht7'
+created_at: '2025-12-13T22:12:14.000Z'
+lang: en
+conversation_id: '1999583014863433963'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 7
+  like_count: 7
+  quote_count: 4
+  bookmark_count: 3
+  impression_count: 3746
+entities:
+  mentions:
+  - start: 0
+    end: 16
+    username: Dawn_Disclosure
+    id: '1679578463915880448'
+  urls:
+  - start: 146
+    end: 169
+    url: https://t.co/2g3uS8zht7
+    expanded_url: https://x.com/RedCollie1/status/1999965614056816724/photo/1
+    display_url: pic.x.com/2g3uS8zht7
+    media_key: '3_1999965397731405825'
+  - start: 146
+    end: 169
+    url: https://t.co/2g3uS8zht7
+    expanded_url: https://x.com/RedCollie1/status/1999965614056816724/photo/1
+    display_url: pic.x.com/2g3uS8zht7
+    media_key: '3_1999965469777014784'
+attachments:
+  media_keys:
+  - '3_1999965397731405825'
+  - '3_1999965469777014784'
+media:
+- media_key: '3_1999965397731405825'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8FN7tbacAEfARk.jpg
+- media_key: '3_1999965469777014784'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8FN_50bMAAEISP.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1999938847845888149'
+  text: ''
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,162 @@
+id: '2039175553719357443'
+url: https://x.com/RedCollie1/status/2039175553719357443
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Here I try to build a small UFO-levitation device (movie 1) based on alien-made
+  crop pictures (slide 2, movie 4), and also a slow-motion video of an alien drone
+  videotaped over California 2025 (movie 3).
+
+  My device uses 8 (or 16) magnets on each inner or outer flywheel, powered by https://t.co/uXmJvMXeve'
+created_at: '2026-04-01T02:58:32.000Z'
+lang: en
+conversation_id: '2039175553719357443'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 4
+  reply_count: 5
+  like_count: 35
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 1214
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/uXmJvMXeve
+    expanded_url: https://x.com/RedCollie1/status/2039175553719357443/video/1
+    display_url: pic.x.com/uXmJvMXeve
+    media_key: '13_2039172561586790401'
+  - start: 281
+    end: 304
+    url: https://t.co/uXmJvMXeve
+    expanded_url: https://x.com/RedCollie1/status/2039175553719357443/video/1
+    display_url: pic.x.com/uXmJvMXeve
+    media_key: '3_2039172604599394304'
+  - start: 281
+    end: 304
+    url: https://t.co/uXmJvMXeve
+    expanded_url: https://x.com/RedCollie1/status/2039175553719357443/video/1
+    display_url: pic.x.com/uXmJvMXeve
+    media_key: '13_2039172623821881344'
+  - start: 281
+    end: 304
+    url: https://t.co/uXmJvMXeve
+    expanded_url: https://x.com/RedCollie1/status/2039175553719357443/video/1
+    display_url: pic.x.com/uXmJvMXeve
+    media_key: '13_2039172643157614592'
+attachments:
+  media_keys:
+  - '13_2039172561586790401'
+  - '3_2039172604599394304'
+  - '13_2039172623821881344'
+  - '13_2039172643157614592'
+media:
+- media_key: '13_2039172561586790401'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039172561586790401/img/BcYkkJKIsozteDt6.jpg
+  duration_ms: 94561
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172561586790401/vid/avc1/480x270/vqD7yd0aE2h9Nwz9.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172561586790401/vid/avc1/640x360/J0Tw1M3LoZO2mwIG.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172561586790401/vid/avc1/1280x720/Bfan-sd8RqgHVgHZ.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039172561586790401/pl/kCfjRQU0Z_yvAgS5.m3u8?v=be2
+  public_metrics:
+    view_count: 510
+- media_key: '3_2039172604599394304'
+  type: photo
+  width: 800
+  height: 790
+  alt_text: null
+  url: https://pbs.twimg.com/media/HEyYrgza4AAnZNb.jpg
+- media_key: '13_2039172623821881344'
+  type: video
+  width: 1604
+  height: 1276
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039172623821881344/img/IFTFix4sXvmi6hqI.jpg
+  duration_ms: 6800
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172623821881344/vid/avc1/1604x1276/4UvXvhIOKehoxrun.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039172623821881344/pl/jfLFasrd4dKDs0BD.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172623821881344/vid/avc1/904x720/j7xI1-JH7DexuQeS.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172623821881344/vid/avc1/338x270/lTflOIrme0-NThlw.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172623821881344/vid/avc1/452x360/zrxpiG4_wm6F651q.mp4
+  public_metrics:
+    view_count: 44
+- media_key: '13_2039172643157614592'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039172643157614592/img/xZzDZBCcZ1yJ6FcV.jpg
+  duration_ms: 7040
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172643157614592/vid/avc1/480x270/HbRoOV8E1dW4ohB0.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172643157614592/vid/avc1/640x360/e6v4C9Ld5wI4uwjx.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039172643157614592/vid/avc1/1280x720/zi0r8j8ogW3YlZMl.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039172643157614592/pl/Ew4vDN9ZZk2soGfE.m3u8
+  public_metrics:
+    view_count: 18
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Here I try to build a small UFO-levitation device (movie 1) based on alien-made\
+    \ crop pictures (slide 2, movie 4), and also a slow-motion video of an alien drone\
+    \ videotaped over California 2025 (movie 3).\nMy device uses 8 (or 16) magnets\
+    \ on each inner or outer flywheel, powered by six 3-phase wire coils just below\
+    \ (please watch video 1).\nThe alien drone (movie 3) shows lots of small magnets\
+    \ spinning over a hexagonal frame (see also crop-circle slide 2 and movie 4),\
+    \ plus \"something else\" spinning on the inside, possibly in an opposite direction.\
+    \ \nPoliticians are \"disclosing\" everywhere! I hope to solve this great problem\
+    \ of \"anti-gravity\", before the aliens tell us how! MAY BE GETTING CLOSE \U0001F6F8\
+    \U0001F47D"

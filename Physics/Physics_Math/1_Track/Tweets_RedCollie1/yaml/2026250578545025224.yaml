@@ -1,0 +1,88 @@
+id: '2026250578545025224'
+url: https://x.com/RedCollie1/status/2026250578545025224
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'July 22, 2004.
+
+  SEVEN. Can you identify each symbol? https://t.co/7yz6STfgLx'
+created_at: '2026-02-24T10:59:18.000Z'
+lang: en
+conversation_id: '2026250578545025224'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 4
+  like_count: 52
+  quote_count: 0
+  bookmark_count: 15
+  impression_count: 2045
+entities:
+  urls:
+  - start: 52
+    end: 75
+    url: https://t.co/7yz6STfgLx
+    expanded_url: https://x.com/RedCollie1/status/2026250578545025224/photo/1
+    display_url: pic.x.com/7yz6STfgLx
+    media_key: '3_2026250322013048832'
+  - start: 52
+    end: 75
+    url: https://t.co/7yz6STfgLx
+    expanded_url: https://x.com/RedCollie1/status/2026250578545025224/photo/1
+    display_url: pic.x.com/7yz6STfgLx
+    media_key: '3_2026250354908901376'
+  - start: 52
+    end: 75
+    url: https://t.co/7yz6STfgLx
+    expanded_url: https://x.com/RedCollie1/status/2026250578545025224/photo/1
+    display_url: pic.x.com/7yz6STfgLx
+    media_key: '3_2026250375549100032'
+attachments:
+  media_keys:
+  - '3_2026250322013048832'
+  - '3_2026250354908901376'
+  - '3_2026250375549100032'
+media:
+- media_key: '3_2026250322013048832'
+  type: photo
+  width: 1000
+  height: 665
+  alt_text: null
+  url: https://pbs.twimg.com/media/HB6v7q2b0AAqFRW.jpg
+- media_key: '3_2026250354908901376'
+  type: photo
+  width: 1000
+  height: 3638
+  alt_text: null
+  url: https://pbs.twimg.com/media/HB6v9lZasAAqNH4.jpg
+- media_key: '3_2026250375549100032'
+  type: photo
+  width: 1588
+  height: 2044
+  alt_text: null
+  url: https://pbs.twimg.com/media/HB6v-ySbIAAiXfz.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

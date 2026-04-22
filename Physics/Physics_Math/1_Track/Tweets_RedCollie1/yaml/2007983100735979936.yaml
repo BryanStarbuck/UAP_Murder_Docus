@@ -1,0 +1,73 @@
+id: '2007983100735979936'
+url: https://x.com/RedCollie1/status/2007983100735979936
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@UAPWatchers It certainly looks like \"0350\". This could of course be a \"\
+  factory manufacturing number\"! \nWe can see the same \"ring\" around its outer\
+  \ parts, like in the Buga orb, which carries fiber-optic devices. https://t.co/KXwjRIEwZC"
+created_at: '2026-01-05T01:10:52.000Z'
+lang: en
+conversation_id: '2007951578016236015'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 596
+entities:
+  urls:
+  - start: 212
+    end: 235
+    url: https://t.co/KXwjRIEwZC
+    expanded_url: https://x.com/RedCollie1/status/2007983100735979936/photo/1
+    display_url: pic.x.com/KXwjRIEwZC
+    media_key: '3_2007982723466674176'
+  mentions:
+  - start: 0
+    end: 12
+    username: UAPWatchers
+    id: '1794486688674156544'
+attachments:
+  media_keys:
+  - '3_2007982723466674176'
+media:
+- media_key: '3_2007982723466674176'
+  type: photo
+  width: 364
+  height: 296
+  alt_text: null
+  url: https://pbs.twimg.com/media/G93JpfNaQAAP5Oo.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2007951578016236015'
+  text: "\U0001F6A8The Message In An Orb... Chris Bledsoe Claims \n\nBledsoe says\
+    \ a green orb captured on 4K video at Wrightsville Beach in December 2025 appears\
+    \ to contain information visible in only a handful of frames, well 4 to be exact.\
+    \ \nHe's suggested this could represent a form of https://t.co/0kWWZcr5zG"
+has_video: false
+has_image: true
+media_count: 1

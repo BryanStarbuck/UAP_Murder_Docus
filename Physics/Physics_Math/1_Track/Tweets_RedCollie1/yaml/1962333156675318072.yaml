@@ -1,0 +1,101 @@
+id: '1962333156675318072'
+url: https://x.com/RedCollie1/status/1962333156675318072
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '3I/ATLAS always looked "red", because there was a cloud of dust and carbon
+  dioxide surrounding it.
+
+  Now it has begun to grow a "red tail", because it is headed at 130,000 mph into
+  the solar wind!
+
+  All as expected. That does NOT mean it is a "comet" (which has a "tail" made of
+  water https://t.co/iKyicHuqNk'
+created_at: '2025-09-01T01:54:17.000Z'
+lang: en
+conversation_id: '1962333156675318072'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 10
+  like_count: 63
+  quote_count: 0
+  bookmark_count: 10
+  impression_count: 13532
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/iKyicHuqNk
+    expanded_url: https://x.com/RedCollie1/status/1962333156675318072/video/1
+    display_url: pic.x.com/iKyicHuqNk
+    media_key: '3_1962332113770098688'
+  - start: 281
+    end: 304
+    url: https://t.co/iKyicHuqNk
+    expanded_url: https://x.com/RedCollie1/status/1962333156675318072/video/1
+    display_url: pic.x.com/iKyicHuqNk
+    media_key: '13_1962332131767803905'
+attachments:
+  media_keys:
+  - '3_1962332113770098688'
+  - '13_1962332131767803905'
+media:
+- media_key: '3_1962332113770098688'
+  type: photo
+  width: 960
+  height: 586
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzuaqRybsAAnmVn.jpg
+- media_key: '13_1962332131767803905'
+  type: video
+  width: 800
+  height: 588
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1962332131767803905/img/JtZQESIQsGSqA6Ig.jpg
+  duration_ms: 2333
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1962332131767803905/vid/avc1/366x270/hNsql7KJ5mWzLl7e.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1962332131767803905/vid/avc1/488x360/_Jsm-LHHqMoMPffe.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1962332131767803905/vid/avc1/800x588/Xh4AYsQy6r7d1rT9.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1962332131767803905/pl/fRBWJUNaK3mNEX1K.m3u8
+  public_metrics:
+    view_count: 6892
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "3I/ATLAS always looked \"red\", because there was a cloud of dust and carbon\
+    \ dioxide surrounding it.\nNow it has begun to grow a \"red tail\", because it\
+    \ is headed at 130,000 mph into the solar wind!\nAll as expected. That does NOT\
+    \ mean it is a \"comet\" (which has a \"tail\" made of water ice). \nRight now\
+    \ they can see almost no water in its coma."

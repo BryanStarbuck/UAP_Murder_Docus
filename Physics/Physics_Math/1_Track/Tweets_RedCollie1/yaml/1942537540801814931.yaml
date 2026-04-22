@@ -1,0 +1,132 @@
+id: '1942537540801814931'
+url: https://x.com/RedCollie1/status/1942537540801814931
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here is a good video from Caltech (where I got my Ph.D.) showing a \"3-axis\
+  \ gyroscope\". \nTo test for an anti-gravity effect, I will have to make the spinning\
+  \ disc of that gyroscope \"magnetic\", then apply a 3-phase magnetic field to make\
+  \ it spin and rise. \nAs suggested by the E.T. https://t.co/cZb5cwDl2i"
+created_at: '2025-07-08T10:53:34.000Z'
+lang: en
+conversation_id: '1942537540801814931'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 26
+  quote_count: 1
+  bookmark_count: 10
+  impression_count: 1827
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/cZb5cwDl2i
+    expanded_url: https://x.com/RedCollie1/status/1942537540801814931/video/1
+    display_url: pic.x.com/cZb5cwDl2i
+    media_key: '13_1942536906681769984'
+  - start: 280
+    end: 303
+    url: https://t.co/cZb5cwDl2i
+    expanded_url: https://x.com/RedCollie1/status/1942537540801814931/video/1
+    display_url: pic.x.com/cZb5cwDl2i
+    media_key: '13_1942536927942696963'
+  - start: 280
+    end: 303
+    url: https://t.co/cZb5cwDl2i
+    expanded_url: https://x.com/RedCollie1/status/1942537540801814931/video/1
+    display_url: pic.x.com/cZb5cwDl2i
+    media_key: '3_1942536957328027648'
+attachments:
+  media_keys:
+  - '13_1942536906681769984'
+  - '13_1942536927942696963'
+  - '3_1942536957328027648'
+media:
+- media_key: '13_1942536906681769984'
+  type: video
+  width: 960
+  height: 540
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1942536906681769984/img/1Cknu5QCEeBGQJWn.jpg
+  duration_ms: 68201
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536906681769984/vid/avc1/480x270/voUrtiusl4_Sd5X-.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536906681769984/vid/avc1/640x360/J-6aB-gU58L9FCsA.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536906681769984/vid/avc1/960x540/G1CMWg4stVAP2XsB.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1942536906681769984/pl/6DhG-B4848NNtXYE.m3u8?v=3c4
+  public_metrics:
+    view_count: 827
+- media_key: '13_1942536927942696963'
+  type: video
+  width: 961
+  height: 768
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1942536927942696963/img/U4G2q5lDSHkFJD1O.jpg
+  duration_ms: 10653
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536927942696963/vid/avc1/336x270/pos41SBWF15UclHn.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536927942696963/vid/avc1/450x360/aEnVP9dptMskI83J.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1942536927942696963/pl/lFwk1OlPLhbTiGx3.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536927942696963/vid/avc1/900x720/lxRVBcgUFEGmL0a2.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1942536927942696963/vid/avc1/960x768/F1lm8NGLzthaJsk9.mp4
+  public_metrics:
+    view_count: 71
+- media_key: '3_1942536957328027648'
+  type: photo
+  width: 960
+  height: 569
+  alt_text: null
+  url: https://pbs.twimg.com/media/GvVHEhia8AAKsIN.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "Here is a good video from Caltech (where I got my Ph.D.) showing a \"3-axis\
+    \ gyroscope\". \nTo test for an anti-gravity effect, I will have to make the spinning\
+    \ disc of that gyroscope \"magnetic\", then apply a 3-phase magnetic field to\
+    \ make it spin and rise. \nAs suggested by the E.T. crop artists! They just drew\
+    \ a \"spinning magnetic flywheel\" in crops last week near Lyme Regis.\nMy guess\
+    \ is that the Buga orb-sphere flies by a related mechanism? As soon as some good-quality,\
+    \ 3-axis gyroscopes arrive, I will start serious experiments. \nUsing a cheap\
+    \ toy gyroscope with just 2 axes does not work, because we cannot spin it using\
+    \ 3-phase power."

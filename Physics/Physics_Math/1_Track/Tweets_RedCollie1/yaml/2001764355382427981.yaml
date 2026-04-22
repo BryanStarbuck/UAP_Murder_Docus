@@ -1,0 +1,81 @@
+id: '2001764355382427981'
+url: https://x.com/RedCollie1/status/2001764355382427981
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here is another \"UFO physics\" crop picture, just to confirm. Have we got\
+  \ it right? \nThree 3-phase wire coils around the outside.\nBig round magnet below\
+  \ (N/S).\nStainless steel bowl with a central rod-electrode. https://t.co/eYvGKV7DHP"
+created_at: '2025-12-18T21:19:47.000Z'
+lang: en
+conversation_id: '2001577665980174511'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 938
+entities:
+  urls:
+  - start: 210
+    end: 233
+    url: https://t.co/eYvGKV7DHP
+    expanded_url: https://x.com/RedCollie1/status/2001764355382427981/photo/1
+    display_url: pic.x.com/eYvGKV7DHP
+    media_key: '3_2001763715365113859'
+  - start: 210
+    end: 233
+    url: https://t.co/eYvGKV7DHP
+    expanded_url: https://x.com/RedCollie1/status/2001764355382427981/photo/1
+    display_url: pic.x.com/eYvGKV7DHP
+    media_key: '3_2001763756704243712'
+attachments:
+  media_keys:
+  - '3_2001763715365113859'
+  - '3_2001763756704243712'
+media:
+- media_key: '3_2001763715365113859'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8exfkqakAMwHwI.jpg
+- media_key: '3_2001763756704243712'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8exh-qboAAueBZ.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2001577665980174511'
+  text: "This is the next experiment I will do, based on my best interpretation of\
+    \ \"UFO physics\" as drawn in crops 1991-2025. Here I show two \"alien instructive\
+    \ diagrams\", but there may have been 40 or 50! \nWe know that the upward force\
+    \ of a UFO comes from a 3-phase spinning magnet, https://t.co/icPvAFaSnh"
+has_video: false
+has_image: true
+media_count: 2

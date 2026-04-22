@@ -1,0 +1,92 @@
+id: '1986875051308925261'
+url: https://x.com/RedCollie1/status/1986875051308925261
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "NEW! On the CCC website\U0001F600from Brazil. \nNo planker-fakers down there\
+  \ LOL. \nhttps://t.co/nV4rQKY0cq https://t.co/9jtki8PBdt"
+created_at: '2025-11-07T19:15:01.000Z'
+lang: en
+conversation_id: '1986875051308925261'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 12
+  reply_count: 3
+  like_count: 54
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 2672
+entities:
+  urls:
+  - start: 73
+    end: 96
+    url: https://t.co/nV4rQKY0cq
+    expanded_url: https://www.cropcircleconnector.com/2025/Ipuacu/Ipuacu2025a.html
+    display_url: cropcircleconnector.com/2025/Ipuacu/Ip…
+    images:
+    - url: https://pbs.twimg.com/news_img/2037600112080539649/T6uYhuMU?format=jpg&name=orig
+      width: 750
+      height: 720
+    - url: https://pbs.twimg.com/news_img/2037600112080539649/T6uYhuMU?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Crop Circle at Ipuacu, Santa Catarina, Brazil. Reported 3rd November 2025
+    description: Ipuacu, Santa Catarina, Brazil. Reported 3rd November Images Eder
+      Mores of “Canal Ideal” Copyright 2025 latitude -26.652 South, -52.431 West ,just
+      southeast of Ipuacu FOR VISITING THE CROP
+    unwound_url: https://www.cropcircleconnector.com/2025/Ipuacu/Ipuacu2025a.html
+  - start: 97
+    end: 120
+    url: https://t.co/9jtki8PBdt
+    expanded_url: https://x.com/RedCollie1/status/1986875051308925261/photo/1
+    display_url: pic.x.com/9jtki8PBdt
+    media_key: '3_1986874652841680896'
+  - start: 97
+    end: 120
+    url: https://t.co/9jtki8PBdt
+    expanded_url: https://x.com/RedCollie1/status/1986875051308925261/photo/1
+    display_url: pic.x.com/9jtki8PBdt
+    media_key: '3_1986874687910199296'
+attachments:
+  media_keys:
+  - '3_1986874652841680896'
+  - '3_1986874687910199296'
+media:
+- media_key: '3_1986874652841680896'
+  type: photo
+  width: 750
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5LL-EfbIAAixd0.jpg
+- media_key: '3_1986874687910199296'
+  type: photo
+  width: 800
+  height: 533
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5LMAHIaQAAlosQ.png
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

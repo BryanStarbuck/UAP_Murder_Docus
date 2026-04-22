@@ -1,0 +1,138 @@
+id: '1955604060683563263'
+url: https://x.com/RedCollie1/status/1955604060683563263
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'UFO levitation is now an engineering problem, not a theoretical one. 🛸
+
+  Video 1 &gt; Edwin Fuhr, Canada 1974.
+
+  Video 2 &gt; precession and rise of a spinning top/gyro.
+
+  Slides 3 and 4 &gt; E.T. made crop pictures (same day and place). 🛸 https://t.co/ftDyQAavEW'
+created_at: '2025-08-13T12:15:16.000Z'
+lang: en
+conversation_id: '1955604060683563263'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 1166
+entities:
+  urls:
+  - start: 234
+    end: 257
+    url: https://t.co/ftDyQAavEW
+    expanded_url: https://x.com/RedCollie1/status/1955604060683563263/video/1
+    display_url: pic.x.com/ftDyQAavEW
+    media_key: '13_1955603013298802688'
+  - start: 234
+    end: 257
+    url: https://t.co/ftDyQAavEW
+    expanded_url: https://x.com/RedCollie1/status/1955604060683563263/video/1
+    display_url: pic.x.com/ftDyQAavEW
+    media_key: '13_1955603036644270080'
+  - start: 234
+    end: 257
+    url: https://t.co/ftDyQAavEW
+    expanded_url: https://x.com/RedCollie1/status/1955604060683563263/video/1
+    display_url: pic.x.com/ftDyQAavEW
+    media_key: '3_1955603090129965057'
+  - start: 234
+    end: 257
+    url: https://t.co/ftDyQAavEW
+    expanded_url: https://x.com/RedCollie1/status/1955604060683563263/video/1
+    display_url: pic.x.com/ftDyQAavEW
+    media_key: '3_1955603110837276672'
+attachments:
+  media_keys:
+  - '13_1955603013298802688'
+  - '13_1955603036644270080'
+  - '3_1955603090129965057'
+  - '3_1955603110837276672'
+media:
+- media_key: '13_1955603013298802688'
+  type: video
+  width: 960
+  height: 542
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955603013298802688/img/xVFI92Mg8oEy0oFo.jpg
+  duration_ms: 6400
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603013298802688/vid/avc1/478x270/YdJaenXrPWL4H51o.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603013298802688/vid/avc1/636x360/Uecdtw063XSx6PIZ.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603013298802688/vid/avc1/960x542/4PJGuljjceSeZ1yA.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955603013298802688/pl/eOx7G_MIOn4R9wE8.m3u8
+  public_metrics:
+    view_count: 515
+- media_key: '13_1955603036644270080'
+  type: video
+  width: 961
+  height: 768
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955603036644270080/img/kMBZJpeMJHk0QTjW.jpg
+  duration_ms: 10643
+  variants:
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603036644270080/vid/avc1/450x360/Db1BqtBv9lxWzti5.mp4
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603036644270080/vid/avc1/336x270/uilGBxYRgc1ladCh.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955603036644270080/pl/30N5O05u8CXsSZU_.m3u8
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603036644270080/vid/avc1/900x720/rVyTxz8LgxO1a1RD.mp4
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955603036644270080/vid/avc1/960x768/2I-nzRwczUpWYbkF.mp4
+  public_metrics:
+    view_count: 262
+- media_key: '3_1955603090129965057'
+  type: photo
+  width: 640
+  height: 600
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyOypjTaUAEjYRJ.jpg
+- media_key: '3_1955603110837276672'
+  type: photo
+  width: 600
+  height: 649
+  alt_text: null
+  url: https://pbs.twimg.com/media/GyOyqwca0AAeAEG.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

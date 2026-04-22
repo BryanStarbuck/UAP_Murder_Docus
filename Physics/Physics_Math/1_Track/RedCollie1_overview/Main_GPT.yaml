@@ -1,0 +1,73 @@
+```yaml
+circles:
+  black_circles:
+    # Outer ring (clockwise from top)
+    - {x: 515, y: 85, radius: 10}
+    - {x: 545, y: 105, radius: 12}
+    - {x: 575, y: 120, radius: 12}
+    - {x: 605, y: 135, radius: 13}
+    - {x: 630, y: 160, radius: 14}
+    - {x: 650, y: 190, radius: 14}
+    - {x: 665, y: 225, radius: 15}
+    - {x: 670, y: 260, radius: 16}
+    - {x: 665, y: 295, radius: 16}
+    - {x: 650, y: 330, radius: 15}
+    - {x: 630, y: 360, radius: 14}
+    - {x: 605, y: 385, radius: 13}
+    - {x: 575, y: 400, radius: 12}
+    - {x: 545, y: 415, radius: 12}
+    - {x: 515, y: 435, radius: 10}
+    - {x: 485, y: 415, radius: 12}
+    - {x: 455, y: 400, radius: 12}
+    - {x: 425, y: 385, radius: 13}
+    - {x: 400, y: 360, radius: 14}
+    - {x: 380, y: 330, radius: 15}
+    - {x: 365, y: 295, radius: 16}
+    - {x: 360, y: 260, radius: 16}
+    - {x: 365, y: 225, radius: 15}
+    - {x: 380, y: 190, radius: 14}
+    - {x: 400, y: 160, radius: 14}
+    - {x: 425, y: 135, radius: 13}
+    - {x: 455, y: 120, radius: 12}
+    - {x: 485, y: 105, radius: 12}
+
+    # Vertical top chain
+    - {x: 515, y: 40, radius: 6}
+    - {x: 515, y: 55, radius: 7}
+    - {x: 515, y: 70, radius: 8}
+
+    # Vertical bottom chain
+    - {x: 515, y: 305, radius: 5}
+    - {x: 515, y: 320, radius: 4}
+    - {x: 515, y: 335, radius: 3}
+    - {x: 515, y: 350, radius: 2}
+
+    # Inner ring (smaller black circles)
+    - {x: 545, y: 170, radius: 6}
+    - {x: 570, y: 200, radius: 6}
+    - {x: 580, y: 240, radius: 6}
+    - {x: 570, y: 280, radius: 6}
+    - {x: 545, y: 310, radius: 6}
+    - {x: 515, y: 320, radius: 6}
+    - {x: 485, y: 310, radius: 6}
+    - {x: 460, y: 280, radius: 6}
+    - {x: 450, y: 240, radius: 6}
+    - {x: 460, y: 200, radius: 6}
+    - {x: 485, y: 170, radius: 6}
+    - {x: 515, y: 160, radius: 6}
+
+    # Central circles
+    - {x: 515, y: 240, radius: 18}
+    - {x: 515, y: 240, radius: 6}
+
+  colored_circles:
+    # Outer red circle
+    - {x: 515, y: 260, radius: 180}
+
+    # Inner blue ring
+    - {x: 515, y: 260, radius: 140}
+
+    # Small blue highlight circles
+    - {x: 515, y: 120, radius: 20}
+    - {x: 515, y: 240, radius: 25}
+```

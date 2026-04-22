@@ -1,0 +1,88 @@
+id: '2000687965928841240'
+url: https://x.com/RedCollie1/status/2000687965928841240
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"There will be SIGNS on the Earth" ✝️✝️✝️
+
+  The debunkers call themselves "Team Satan". https://t.co/cPUQfZZ45y'
+created_at: '2025-12-15T22:02:36.000Z'
+lang: en
+conversation_id: '2000687965928841240'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 7
+  reply_count: 12
+  like_count: 81
+  quote_count: 0
+  bookmark_count: 11
+  impression_count: 4566
+entities:
+  urls:
+  - start: 86
+    end: 109
+    url: https://t.co/cPUQfZZ45y
+    expanded_url: https://x.com/RedCollie1/status/2000687965928841240/photo/1
+    display_url: pic.x.com/cPUQfZZ45y
+    media_key: '3_2000687768075485184'
+  - start: 86
+    end: 109
+    url: https://t.co/cPUQfZZ45y
+    expanded_url: https://x.com/RedCollie1/status/2000687965928841240/photo/1
+    display_url: pic.x.com/cPUQfZZ45y
+    media_key: '3_2000687796856717312'
+  - start: 86
+    end: 109
+    url: https://t.co/cPUQfZZ45y
+    expanded_url: https://x.com/RedCollie1/status/2000687965928841240/photo/1
+    display_url: pic.x.com/cPUQfZZ45y
+    media_key: '3_2000687818847477762'
+attachments:
+  media_keys:
+  - '3_2000687768075485184'
+  - '3_2000687796856717312'
+  - '3_2000687818847477762'
+media:
+- media_key: '3_2000687768075485184'
+  type: photo
+  width: 500
+  height: 319
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8Pe7MqbwAAAOOO.jpg
+- media_key: '3_2000687796856717312'
+  type: photo
+  width: 800
+  height: 1132
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8Pe834agAAcHiY.jpg
+- media_key: '3_2000687818847477762'
+  type: photo
+  width: 600
+  height: 807
+  alt_text: null
+  url: https://pbs.twimg.com/media/G8Pe-Jza4AIwgV_.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

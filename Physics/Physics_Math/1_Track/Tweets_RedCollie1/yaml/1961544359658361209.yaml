@@ -1,0 +1,84 @@
+id: '1961544359658361209'
+url: https://x.com/RedCollie1/status/1961544359658361209
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "To answer some questions: 3I/ATLAS would not be headed precisely for Jupiter\
+  \ (where it can \"brake\"), if it were planning to \"pass through\".\nBy analogy,\
+  \ when a hunter tries to shoot a flying duck with a shotgun, he always aims slightly\
+  \ ahead of the target. \nAlso there is no need https://t.co/6feYTWyQJT"
+created_at: '2025-08-29T21:39:53.000Z'
+lang: en
+conversation_id: '1961544359658361209'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 97
+  reply_count: 78
+  like_count: 865
+  quote_count: 18
+  bookmark_count: 288
+  impression_count: 184582
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/6feYTWyQJT
+    expanded_url: https://x.com/RedCollie1/status/1961544359658361209/video/1
+    display_url: pic.x.com/6feYTWyQJT
+    media_key: '13_1961543589387014145'
+attachments:
+  media_keys:
+  - '13_1961543589387014145'
+media:
+- media_key: '13_1961543589387014145'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1961543589387014145/img/IsK14Z0Q2h3neE1T.jpg
+  duration_ms: 45600
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1961543589387014145/vid/avc1/480x270/jpP2Y7mHY6RB-c1F.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1961543589387014145/vid/avc1/640x360/iMTpZsqKKpXtghzo.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1961543589387014145/vid/avc1/1280x720/k6Kzp4XPYSCmCBjW.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1961543589387014145/pl/tN2SJcIteixW-Tt5.m3u8?v=cfc
+  public_metrics:
+    view_count: 82412
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "To answer some questions: 3I/ATLAS would not be headed precisely for Jupiter\
+    \ (where it can \"brake\"), if it were planning to \"pass through\".\nBy analogy,\
+    \ when a hunter tries to shoot a flying duck with a shotgun, he always aims slightly\
+    \ ahead of the target. \nAlso there is no need to \"send them a message\". They\
+    \ know we are here."

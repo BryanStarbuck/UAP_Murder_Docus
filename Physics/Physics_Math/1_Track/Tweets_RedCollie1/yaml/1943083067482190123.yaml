@@ -1,0 +1,77 @@
+id: '1943083067482190123'
+url: https://x.com/RedCollie1/status/1943083067482190123
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'DEEP IN THE POPULAR IMAGINATION 🛸🛸🛸
+
+  "PRECESSION" AT LOW RATES OF SPIN https://t.co/WURbnoupb4'
+created_at: '2025-07-09T23:01:18.000Z'
+lang: en
+conversation_id: '1943083067482190123'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 13
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1440
+entities:
+  urls:
+  - start: 70
+    end: 93
+    url: https://t.co/WURbnoupb4
+    expanded_url: https://x.com/RedCollie1/status/1943083067482190123/video/1
+    display_url: pic.x.com/WURbnoupb4
+    media_key: '13_1943082748287291399'
+attachments:
+  media_keys:
+  - '13_1943082748287291399'
+media:
+- media_key: '13_1943082748287291399'
+  type: video
+  width: 912
+  height: 632
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1943082748287291399/img/Y-6slpqVSdzEhKgH.jpg
+  duration_ms: 20120
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1943082748287291399/vid/avc1/388x270/s5nNZqCJHlcYzGQ4.mp4?tag=14
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1943082748287291399/vid/avc1/518x360/4eeSjhXvsi4nwVG4.mp4?tag=14
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1943082748287291399/vid/avc1/912x632/pXI0iA4tV0TgeyWX.mp4?tag=14
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1943082748287291399/pl/JBmxfqOxJuimr3w7.m3u8?tag=14&v=cfc
+  public_metrics:
+    view_count: 741
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

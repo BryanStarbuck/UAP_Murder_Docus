@@ -1,0 +1,96 @@
+id: '1937071903463919724'
+url: https://x.com/RedCollie1/status/1937071903463919724
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "On a slightly different subject, because UFO contactee Norman Pauslen saw two\
+  \ magnetic flywheels, spinning in opposite directions to one another (slide 1),\
+  \ I tried to do that in the lab and got bizarre, unexplained results (movie 2).\
+  \ There is so much we don't know! \nNOT IN ANY https://t.co/NXATxvmw7L"
+created_at: '2025-06-23T08:55:05.000Z'
+lang: en
+conversation_id: '1937071903463919724'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 31
+  reply_count: 13
+  like_count: 149
+  quote_count: 3
+  bookmark_count: 49
+  impression_count: 7333
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/NXATxvmw7L
+    expanded_url: https://x.com/RedCollie1/status/1937071903463919724/video/1
+    display_url: pic.x.com/NXATxvmw7L
+    media_key: '3_1937071510776066048'
+  - start: 278
+    end: 301
+    url: https://t.co/NXATxvmw7L
+    expanded_url: https://x.com/RedCollie1/status/1937071903463919724/video/1
+    display_url: pic.x.com/NXATxvmw7L
+    media_key: '13_1937071657853538304'
+attachments:
+  media_keys:
+  - '3_1937071510776066048'
+  - '13_1937071657853538304'
+media:
+- media_key: '3_1937071510776066048'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuHcRqhWMAAZwak.jpg
+- media_key: '13_1937071657853538304'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1937071657853538304/img/GbB6PYfMjF5-Gbuj.jpg
+  duration_ms: 207960
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1937071657853538304/vid/avc1/480x270/fAhsZySh0ZQiMi5h.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1937071657853538304/vid/avc1/640x360/3RMqckL2MJfw4_eA.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1937071657853538304/vid/avc1/1280x720/tWEt0C76z7QXreAG.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1937071657853538304/pl/RJdMjdpl7_B8Dgz_.m3u8
+  public_metrics:
+    view_count: 2954
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "On a slightly different subject, because UFO contactee Norman Pauslen saw\
+    \ two magnetic flywheels, spinning in opposite directions to one another (slide\
+    \ 1), I tried to do that in the lab and got bizarre, unexplained results (movie\
+    \ 2). There is so much we don't know! \nNOT IN ANY TEXTBOOK OR JOURNAL"

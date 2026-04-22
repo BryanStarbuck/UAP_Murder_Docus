@@ -1,0 +1,129 @@
+id: '1932035677379854658'
+url: https://x.com/RedCollie1/status/1932035677379854658
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Here is another good example of using crop diagrams, to try and solve the physics
+  of UFO levitation.
+
+  We have three vertical wire coils and give them 3-phase AC power.
+
+  A central magnet spins rapidly and rises up powerfully, in both North and South
+  orientations.
+
+  But there is no NET https://t.co/TafHoDJcCH'
+created_at: '2025-06-09T11:22:55.000Z'
+lang: en
+conversation_id: '1932035677379854658'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 59
+  reply_count: 18
+  like_count: 294
+  quote_count: 4
+  bookmark_count: 79
+  impression_count: 11166
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/TafHoDJcCH
+    expanded_url: https://x.com/RedCollie1/status/1932035677379854658/video/1
+    display_url: pic.x.com/TafHoDJcCH
+    media_key: '3_1932034553365065728'
+  - start: 281
+    end: 304
+    url: https://t.co/TafHoDJcCH
+    expanded_url: https://x.com/RedCollie1/status/1932035677379854658/video/1
+    display_url: pic.x.com/TafHoDJcCH
+    media_key: '3_1932034581701799936'
+  - start: 281
+    end: 304
+    url: https://t.co/TafHoDJcCH
+    expanded_url: https://x.com/RedCollie1/status/1932035677379854658/video/1
+    display_url: pic.x.com/TafHoDJcCH
+    media_key: '13_1932034603617009665'
+  - start: 281
+    end: 304
+    url: https://t.co/TafHoDJcCH
+    expanded_url: https://x.com/RedCollie1/status/1932035677379854658/video/1
+    display_url: pic.x.com/TafHoDJcCH
+    media_key: '3_1932034822677127168'
+attachments:
+  media_keys:
+  - '3_1932034553365065728'
+  - '3_1932034581701799936'
+  - '13_1932034603617009665'
+  - '3_1932034822677127168'
+media:
+- media_key: '3_1932034553365065728'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs_3MJ8a8AApDBi.jpg
+- media_key: '3_1932034581701799936'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs_3NzgbMAA7q3_.jpg
+- media_key: '13_1932034603617009665'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1932034603617009665/img/E5UBNtTZwBsjjtWY.jpg
+  duration_ms: 27609
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1932034603617009665/vid/avc1/478x270/m2xbW71-WgamuVaa.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1932034603617009665/vid/avc1/638x360/pCVDe1Th5Njv4tzz.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1932034603617009665/vid/avc1/852x480/2wbpivsaf0jTdipb.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1932034603617009665/pl/dvZTopZnpMcOlb1q.m3u8?v=45c
+  public_metrics:
+    view_count: 4392
+- media_key: '3_1932034822677127168'
+  type: photo
+  width: 600
+  height: 852
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gs_3b1Na4AA6s82.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4
+note_tweet:
+  text: "Here is another good example of using crop diagrams, to try and solve the\
+    \ physics of UFO levitation.\nWe have three vertical wire coils and give them\
+    \ 3-phase AC power.\nA central magnet spins rapidly and rises up powerfully, in\
+    \ both North and South orientations.\nBut there is no NET loss of gravity weight,\
+    \ when we place the ENTIRE device on a scale! \nWhat are we failing to understand?\
+    \ \U0001F6F8"

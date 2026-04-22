@@ -1,0 +1,107 @@
+id: '1935610239681991118'
+url: https://x.com/RedCollie1/status/1935610239681991118
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@orion7710 Here is part of your answer from our friends.
+
+  A 3-D cube may take many different shapes or forms when it passes through a 2-D
+  plane.
+
+  Imagine a 4-D subatomic particle passing through our 3-D space? In various random
+  orientations? https://t.co/YkIJuWyc2K'
+created_at: '2025-06-19T08:06:57.000Z'
+lang: en
+conversation_id: '1935544799198855320'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 1
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 54
+entities:
+  mentions:
+  - start: 0
+    end: 10
+    username: orion7710
+    id: '1025496103632941056'
+  urls:
+  - start: 240
+    end: 263
+    url: https://t.co/YkIJuWyc2K
+    expanded_url: https://x.com/RedCollie1/status/1935610239681991118/photo/1
+    display_url: pic.x.com/YkIJuWyc2K
+    media_key: '3_1935609475395727360'
+  - start: 240
+    end: 263
+    url: https://t.co/YkIJuWyc2K
+    expanded_url: https://x.com/RedCollie1/status/1935610239681991118/photo/1
+    display_url: pic.x.com/YkIJuWyc2K
+    media_key: '3_1935609683114430464'
+  - start: 240
+    end: 263
+    url: https://t.co/YkIJuWyc2K
+    expanded_url: https://x.com/RedCollie1/status/1935610239681991118/photo/1
+    display_url: pic.x.com/YkIJuWyc2K
+    media_key: '16_1935609768959512576'
+attachments:
+  media_keys:
+  - '3_1935609475395727360'
+  - '3_1935609683114430464'
+  - '16_1935609768959512576'
+media:
+- media_key: '3_1935609475395727360'
+  type: photo
+  width: 960
+  height: 1059
+  alt_text: null
+  url: https://pbs.twimg.com/media/GtyqkATXsAAbgp6.jpg
+- media_key: '3_1935609683114430464'
+  type: photo
+  width: 900
+  height: 917
+  alt_text: null
+  url: https://pbs.twimg.com/media/GtyqwGHXkAAJOcx.jpg
+- media_key: '16_1935609768959512576'
+  type: animated_gif
+  width: 960
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/Gtyq1F6bkAAAQuQ.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/Gtyq1F6bkAAAQuQ.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1935564353320661167'
+  text: '@RedCollie1 Hi! Lately I have been reviewing QM. One premise which inherently
+    bothers is the mathematical modeling of a measurement process of a physical observable.
+    Take the component of spin angular momentum along the z-axis. The most general
+    spin state is I𝛙&gt; = c₊I+&gt; + c₋I-&gt;, where 1/'
+has_video: true
+has_image: true
+media_count: 3

@@ -1,0 +1,96 @@
+id: '1987626503354692065'
+url: https://x.com/RedCollie1/status/1987626503354692065
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '3I/ATLAS on November 9, 2025 (slide 1).
+
+  To me it looks like some kind of "rocket" (slide 2).
+
+  But if you wish to say it is just a "rock", that is okay.🤡
+
+  https://t.co/higeCKV6JN https://t.co/DX1AAc892s'
+created_at: '2025-11-09T21:01:01.000Z'
+lang: en
+conversation_id: '1987626503354692065'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 10
+  like_count: 89
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 11246
+entities:
+  urls:
+  - start: 152
+    end: 175
+    url: https://t.co/higeCKV6JN
+    expanded_url: https://avi-loeb.medium.com/the-remarkable-large-scale-structure-of-anti-tail-and-tail-jets-from-3i-atlas-242c534cf7b3
+    display_url: avi-loeb.medium.com/the-remarkable…
+    images:
+    - url: https://pbs.twimg.com/news_img/1990476805229133824/jTbXDspa?format=jpg&name=orig
+      width: 730
+      height: 981
+    - url: https://pbs.twimg.com/news_img/1990476805229133824/jTbXDspa?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: The Remarkable Large-Scale Structure of Anti-Tail and Tail Jets from 3I/ATLAS
+    description: Today, a magnificent large-scale image of the interstellar object
+      3I/ATLAS, was reported here by Frank Niebling and Michael Buchner. The…
+    unwound_url: https://avi-loeb.medium.com/the-remarkable-large-scale-structure-of-anti-tail-and-tail-jets-from-3i-atlas-242c534cf7b3
+  - start: 176
+    end: 199
+    url: https://t.co/DX1AAc892s
+    expanded_url: https://x.com/RedCollie1/status/1987626503354692065/photo/1
+    display_url: pic.x.com/DX1AAc892s
+    media_key: '3_1987626106707705856'
+  - start: 176
+    end: 199
+    url: https://t.co/DX1AAc892s
+    expanded_url: https://x.com/RedCollie1/status/1987626503354692065/photo/1
+    display_url: pic.x.com/DX1AAc892s
+    media_key: '3_1987626145446232064'
+attachments:
+  media_keys:
+  - '3_1987626106707705856'
+  - '3_1987626145446232064'
+media:
+- media_key: '3_1987626106707705856'
+  type: photo
+  width: 2000
+  height: 1425
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5V3acSbAAA26Fc.jpg
+- media_key: '3_1987626145446232064'
+  type: photo
+  width: 1000
+  height: 1281
+  alt_text: null
+  url: https://pbs.twimg.com/media/G5V3csmaAAAOTCk.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

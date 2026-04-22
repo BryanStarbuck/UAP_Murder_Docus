@@ -1,0 +1,89 @@
+id: '1938859091088286183'
+url: https://x.com/RedCollie1/status/1938859091088286183
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'NEW!
+
+  “Using crop-circle physics (as drawn by friendly E.T.''s) to try and produce UFO-style
+  levitation”
+
+  All helpful comments welcome. 🛸😎
+
+  https://t.co/wkzgi1Ykm4 https://t.co/9WBjodFBln'
+created_at: '2025-06-28T07:16:44.000Z'
+lang: en
+conversation_id: '1938859091088286183'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 39
+  reply_count: 31
+  like_count: 228
+  quote_count: 1
+  bookmark_count: 55
+  impression_count: 10841
+entities:
+  urls:
+  - start: 136
+    end: 159
+    url: https://t.co/wkzgi1Ykm4
+    expanded_url: https://youtu.be/-lEKF58rI30
+    display_url: youtu.be/-lEKF58rI30
+    status: 200
+    unwound_url: https://www.youtube.com/watch?v=-lEKF58rI30&feature=youtu.be
+  - start: 160
+    end: 183
+    url: https://t.co/9WBjodFBln
+    expanded_url: https://x.com/RedCollie1/status/1938859091088286183/video/1
+    display_url: pic.x.com/9WBjodFBln
+    media_key: '13_1938858872615075840'
+attachments:
+  media_keys:
+  - '13_1938858872615075840'
+media:
+- media_key: '13_1938858872615075840'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1938858872615075840/img/ZYNXH44T1IAWZ1lP.jpg
+  duration_ms: 244650
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938858872615075840/vid/avc1/478x270/obABTcDyC6LCSx-T.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938858872615075840/vid/avc1/638x360/aRx4hSgjx68ShPOt.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1938858872615075840/vid/avc1/852x480/shbJW0cGVIRGXl0R.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1938858872615075840/pl/t8aqQuqpFMixOQ30.m3u8?v=2c5
+  public_metrics:
+    view_count: 4870
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 1

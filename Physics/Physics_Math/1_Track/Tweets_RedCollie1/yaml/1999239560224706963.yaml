@@ -1,0 +1,76 @@
+id: '1999239560224706963'
+url: https://x.com/RedCollie1/status/1999239560224706963
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"Jewish science" was a pejorative label used by Nazi physicists to attack Einstein''s
+  theory of relativity as un-German or racially inferior.
+
+  Some trolls are doing the same now with Avi Loeb, and his views on 3I/ATLAS. https://t.co/txi8e6sBgL'
+created_at: '2025-12-11T22:07:09.000Z'
+lang: en
+conversation_id: '1999239560224706963'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 12
+  reply_count: 9
+  like_count: 98
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 6628
+entities:
+  urls:
+  - start: 218
+    end: 241
+    url: https://t.co/txi8e6sBgL
+    expanded_url: https://x.com/RedCollie1/status/1999239560224706963/photo/1
+    display_url: pic.x.com/txi8e6sBgL
+    media_key: '3_1999238867191558144'
+  - start: 218
+    end: 241
+    url: https://t.co/txi8e6sBgL
+    expanded_url: https://x.com/RedCollie1/status/1999239560224706963/photo/1
+    display_url: pic.x.com/txi8e6sBgL
+    media_key: '3_1999238887965884416'
+attachments:
+  media_keys:
+  - '3_1999238867191558144'
+  - '3_1999238887965884416'
+media:
+- media_key: '3_1999238867191558144'
+  type: photo
+  width: 770
+  height: 514
+  alt_text: null
+  url: https://pbs.twimg.com/media/G765KEQbcAAvnTv.jpg
+- media_key: '3_1999238887965884416'
+  type: photo
+  width: 284
+  height: 178
+  alt_text: null
+  url: https://pbs.twimg.com/media/G765LRpagAAikIa.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

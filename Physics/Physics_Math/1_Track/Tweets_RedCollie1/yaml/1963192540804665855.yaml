@@ -1,0 +1,65 @@
+id: '1963192540804665855'
+url: https://x.com/RedCollie1/status/1963192540804665855
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The center was AMAZING! \n(9 + 8) = 17 = Q https://t.co/WMxWRgpWtl"
+created_at: '2025-09-03T10:49:10.000Z'
+lang: en
+conversation_id: '1963186331997401219'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 873
+entities:
+  urls:
+  - start: 42
+    end: 65
+    url: https://t.co/WMxWRgpWtl
+    expanded_url: https://x.com/RedCollie1/status/1963192540804665855/photo/1
+    display_url: pic.x.com/WMxWRgpWtl
+    media_key: '3_1963192299648864256'
+attachments:
+  media_keys:
+  - '3_1963192299648864256'
+media:
+- media_key: '3_1963192299648864256'
+  type: photo
+  width: 800
+  height: 800
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gz6o_r5aUAAPWHq.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1963186331997401219'
+  text: "\"Q\" is involved not only with politics, but also with \"crop pictures\"\
+    \ and \"cryptocurrency\".\nHis team can see us from the \"other side\". \n\"He'll\
+    \ be coming through a stargate when he comes.\"\nEverything is connected. https://t.co/1aaBIi11Fw"
+has_video: false
+has_image: true
+media_count: 1

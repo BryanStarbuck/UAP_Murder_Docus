@@ -1,0 +1,112 @@
+id: '1990167053513404575'
+url: https://x.com/RedCollie1/status/1990167053513404575
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@BremerDiet61982 By seeing a 16-hour rotation, we are only seeing the outer\
+  \ shell of 3I/ATLAS. There may be other shells inside that spin more rapidly, fast\
+  \ enough to produce artificial gravity. Like for an \"O' Neill cylinder\". \nJust\
+  \ like we see the outer parts of a UFO spin slowly, while there https://t.co/Pzs55DsEZt"
+created_at: '2025-11-16T21:16:15.000Z'
+lang: en
+conversation_id: '1990004970364547201'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 21
+  quote_count: 1
+  bookmark_count: 3
+  impression_count: 14920
+entities:
+  urls:
+  - start: 296
+    end: 319
+    url: https://t.co/Pzs55DsEZt
+    expanded_url: https://x.com/RedCollie1/status/1990167053513404575/video/1
+    display_url: pic.x.com/Pzs55DsEZt
+    media_key: '13_1990166755407433728'
+  - start: 296
+    end: 319
+    url: https://t.co/Pzs55DsEZt
+    expanded_url: https://x.com/RedCollie1/status/1990167053513404575/video/1
+    display_url: pic.x.com/Pzs55DsEZt
+    media_key: '16_1990166786147520512'
+  mentions:
+  - start: 0
+    end: 16
+    username: BremerDiet61982
+    id: '1874109738503581696'
+attachments:
+  media_keys:
+  - '13_1990166755407433728'
+  - '16_1990166786147520512'
+media:
+- media_key: '13_1990166755407433728'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1990166755407433728/img/DEtwau6yfW4SnJeB.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990166755407433728/vid/avc1/480x270/0dTGtsW960v8ek6j.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990166755407433728/vid/avc1/640x360/boJNXdrSL-Pd3CXm.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1990166755407433728/vid/avc1/1280x720/OyqVjiUTwgcZHYbt.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1990166755407433728/pl/syEsBZL_OIgwBUZw.m3u8?v=3ac
+  public_metrics:
+    view_count: 5006
+- media_key: '16_1990166786147520512'
+  type: animated_gif
+  width: 500
+  height: 282
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G55-JcwakAAf4Ke.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G55-JcwakAAf4Ke.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1990096500412629432'
+  text: '@RedCollie1 Grok confirmed to me weeks ago that the acting gravity due to
+    the rotational movement is much too small. In addition - in contrast to a large
+    ring - in such a „cylinder“ there is no possibility to generate fuel during the
+    flight. https://t.co/wJbHZUzbwC'
+has_video: true
+has_image: false
+media_count: 2
+note_tweet:
+  text: "By seeing a 16-hour rotation, we are only seeing the outer shell of 3I/ATLAS.\
+    \ There may be other shells inside that spin more rapidly, fast enough to produce\
+    \ artificial gravity. Like for an \"O' Neill cylinder\". \nJust like we see the\
+    \ outer parts of a UFO spin slowly, while there is a magnet at its center which\
+    \ spins very rapidly, when the UFO is in flight!\nEdwin Fuhr, Canada 1974."

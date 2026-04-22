@@ -1,0 +1,78 @@
+id: '1978288781225509158'
+url: https://x.com/RedCollie1/status/1978288781225509158
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@spiritstem_ rise of a UFO by precession https://t.co/beJj8sYT63'
+created_at: '2025-10-15T02:36:14.000Z'
+lang: en
+conversation_id: '1978264096496611683'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 259
+entities:
+  urls:
+  - start: 41
+    end: 64
+    url: https://t.co/beJj8sYT63
+    expanded_url: https://x.com/RedCollie1/status/1978288781225509158/photo/1
+    display_url: pic.x.com/beJj8sYT63
+    media_key: '16_1978288724460113920'
+  mentions:
+  - start: 0
+    end: 12
+    username: spiritstem_
+    id: '1490078884511076358'
+attachments:
+  media_keys:
+  - '16_1978288724460113920'
+media:
+- media_key: '16_1978288724460113920'
+  type: animated_gif
+  width: 600
+  height: 412
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/G3RLHQybEAApJ1i.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/G3RLHQybEAApJ1i.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1978264096496611683'
+  text: 'Four of the most iconic crop circles have encoded the number 17 in their
+    design &amp; arrived at the same location - Barbury Castle UK
+
+
+    The one &amp; only Pi π formation arrived exactly 17 years 📅 after the 1991 tetrahedron
+    - both have the same ratchet design -- in fact, they interlock https://t.co/hN4XssYwGD
+    https://t.co/YWGgFrPfbY'
+has_video: true
+has_image: false
+media_count: 1

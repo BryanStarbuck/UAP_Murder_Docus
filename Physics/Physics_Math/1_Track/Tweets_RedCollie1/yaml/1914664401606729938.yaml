@@ -1,0 +1,134 @@
+id: '1914664401606729938'
+url: https://x.com/RedCollie1/status/1914664401606729938
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Someone asked me to do more "controls" for "vortex magnetism" and its apparent
+  effect on ionized air.
+
+  Below are three more short videos. I will continue this study soon. https://t.co/FDSnhKLJX1'
+created_at: '2025-04-22T12:55:40.000Z'
+lang: en
+conversation_id: '1914664401606729938'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 764
+entities:
+  urls:
+  - start: 170
+    end: 193
+    url: https://t.co/FDSnhKLJX1
+    expanded_url: https://x.com/RedCollie1/status/1914664401606729938/video/1
+    display_url: pic.x.com/FDSnhKLJX1
+    media_key: '13_1914664247965171712'
+  - start: 170
+    end: 193
+    url: https://t.co/FDSnhKLJX1
+    expanded_url: https://x.com/RedCollie1/status/1914664401606729938/video/1
+    display_url: pic.x.com/FDSnhKLJX1
+    media_key: '13_1914664288897392642'
+  - start: 170
+    end: 193
+    url: https://t.co/FDSnhKLJX1
+    expanded_url: https://x.com/RedCollie1/status/1914664401606729938/video/1
+    display_url: pic.x.com/FDSnhKLJX1
+    media_key: '13_1914664329275928577'
+attachments:
+  media_keys:
+  - '13_1914664247965171712'
+  - '13_1914664288897392642'
+  - '13_1914664329275928577'
+media:
+- media_key: '13_1914664247965171712'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914664247965171712/img/biQA_2bmh47OG8aA.jpg
+  duration_ms: 22160
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664247965171712/vid/avc1/480x270/uDhO2TisnTTtueZV.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664247965171712/vid/avc1/640x360/Dsgh3sNm16nmBdjn.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664247965171712/vid/avc1/1280x720/6VJH8TOueHcTBFsu.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914664247965171712/pl/FKuy7Mzdj8cuDNGQ.m3u8?tag=16
+  public_metrics:
+    view_count: 407
+- media_key: '13_1914664288897392642'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914664288897392642/img/3OsVEbj969oVnjlm.jpg
+  duration_ms: 18960
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664288897392642/vid/avc1/480x270/5zlZtWsR98_e3Cm2.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664288897392642/vid/avc1/640x360/T6VE-bKURNnFVbf2.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664288897392642/vid/avc1/1280x720/nSsxkhAmhLpTtZp_.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914664288897392642/pl/dTPoVwk7Dej6gBf9.m3u8?tag=16
+  public_metrics:
+    view_count: 45
+- media_key: '13_1914664329275928577'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914664329275928577/img/I4t3Fm7rXeKki5tI.jpg
+  duration_ms: 12960
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664329275928577/vid/avc1/480x270/MPj6k36A_MkY8Du4.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664329275928577/vid/avc1/640x360/q6zdsPgyl3z1qkT1.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914664329275928577/vid/avc1/1280x720/55g2yxgnj8QC-JTG.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914664329275928577/pl/n58eTh8KYLk02M7Y.m3u8?tag=16
+  public_metrics:
+    view_count: 19
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 3

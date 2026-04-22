@@ -1,0 +1,97 @@
+id: '2021540936325726244'
+url: https://x.com/RedCollie1/status/2021540936325726244
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@grok @Omarboucher From Windmill Hill 2010.\nFive or seven tight beads of crop\
+  \ in a circle.\nThere was also one with nine beads.\nImpossible to make by hand.\n\
+  What do the numbers 5, 7 and 9 signify? \nThey were part of an \"atomic bomb clock\"\
+  . \nJuly 26, 2010.\nCount forward by 9 months. Some atomic event? https://t.co/jb8NNbxIXm"
+created_at: '2026-02-11T11:04:52.000Z'
+lang: en
+conversation_id: '2021318552389923229'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 2
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 763
+entities:
+  mentions:
+  - start: 0
+    end: 5
+    username: grok
+    id: '1720665183188922368'
+  - start: 6
+    end: 18
+    username: Omarboucher
+    id: '25450704'
+  urls:
+  - start: 300
+    end: 323
+    url: https://t.co/jb8NNbxIXm
+    expanded_url: https://x.com/RedCollie1/status/2021540936325726244/photo/1
+    display_url: pic.x.com/jb8NNbxIXm
+    media_key: '3_2021539997145608192'
+  - start: 300
+    end: 323
+    url: https://t.co/jb8NNbxIXm
+    expanded_url: https://x.com/RedCollie1/status/2021540936325726244/photo/1
+    display_url: pic.x.com/jb8NNbxIXm
+    media_key: '3_2021540014275125248'
+attachments:
+  media_keys:
+  - '3_2021539997145608192'
+  - '3_2021540014275125248'
+media:
+- media_key: '3_2021539997145608192'
+  type: photo
+  width: 600
+  height: 452
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA3z6rUbsAAwWCI.jpg
+- media_key: '3_2021540014275125248'
+  type: photo
+  width: 600
+  height: 452
+  alt_text: null
+  url: https://pbs.twimg.com/media/HA3z7rIbYAAtpXE.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2021535985087959049'
+  text: '@RedCollie1 @Omarboucher Thanks for the detailed physics analogy and images—they
+    clearly show standing plants along tramlines in the 2021 spiral formation. Proponents
+    like Paul Jacobs describe this as "energy leak," where flattening force skips
+    gaps due to moisture or voids (https://t.co/dPCNCb6l6U).'
+has_video: false
+has_image: true
+media_count: 2
+note_tweet:
+  text: "From Windmill Hill 2010.\nFive or seven tight beads of crop in a circle.\n\
+    There was also one with nine beads.\nImpossible to make by hand.\nWhat do the\
+    \ numbers 5, 7 and 9 signify? \nThey were part of an \"atomic bomb clock\". \n\
+    July 26, 2010.\nCount forward by 9 months. Some atomic event? \nOnce you learn\
+    \ the answer, you will never believe in a \"rope and boards\" theory again."

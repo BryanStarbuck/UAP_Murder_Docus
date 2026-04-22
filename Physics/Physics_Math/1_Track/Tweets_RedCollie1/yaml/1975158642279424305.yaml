@@ -1,0 +1,90 @@
+id: '1975158642279424305'
+url: https://x.com/RedCollie1/status/1975158642279424305
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "A good proof of \"future viewing\"! \n\"Mr Pool\" posted slide 1 on October\
+  \ 4, 2021.\nThe real event (video 2) just took place on October 4, 2025 at the Outer\
+  \ Banks (4-year delta). \n\"Mr Pool\" is part of the Ripple cryptocurrency team.\
+  \ \nI have known about this since 2020. Thanks to https://t.co/A9tL3nezXd"
+created_at: '2025-10-06T11:18:11.000Z'
+lang: en
+conversation_id: '1975158642279424305'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 4
+  like_count: 29
+  quote_count: 0
+  bookmark_count: 10
+  impression_count: 3698
+entities:
+  urls:
+  - start: 276
+    end: 299
+    url: https://t.co/A9tL3nezXd
+    expanded_url: https://x.com/RedCollie1/status/1975158642279424305/video/1
+    display_url: pic.x.com/A9tL3nezXd
+    media_key: '3_1975157181495627776'
+  - start: 276
+    end: 299
+    url: https://t.co/A9tL3nezXd
+    expanded_url: https://x.com/RedCollie1/status/1975158642279424305/video/1
+    display_url: pic.x.com/A9tL3nezXd
+    media_key: '13_1975157201011671040'
+attachments:
+  media_keys:
+  - '3_1975157181495627776'
+  - '13_1975157201011671040'
+media:
+- media_key: '3_1975157181495627776'
+  type: photo
+  width: 968
+  height: 1291
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2kq_eKb0AA7m_G.jpg
+- media_key: '13_1975157201011671040'
+  type: video
+  width: 480
+  height: 270
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1975157201011671040/img/1gOgui4IkmoXjj4I.jpg
+  duration_ms: 8106
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1975157201011671040/vid/avc1/480x270/d5ch-34AmZfc4s7W.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1975157201011671040/pl/hQG1MXf4PMbnpGW0.m3u8
+  public_metrics:
+    view_count: 1596
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "A good proof of \"future viewing\"! \n\"Mr Pool\" posted slide 1 on October\
+    \ 4, 2021.\nThe real event (video 2) just took place on October 4, 2025 at the\
+    \ Outer Banks (4-year delta). \n\"Mr Pool\" is part of the Ripple cryptocurrency\
+    \ team. \nI have known about this since 2020. Thanks to Fojak."

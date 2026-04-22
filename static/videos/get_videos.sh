@@ -79,6 +79,9 @@ ipfs pin add QmPUTSoChvkH1XVcbpGoPR6Y2yKwcxUcxs6QPcE4FRHKEZ
 # VIDEO: Amy Eskridge death, ultraterrestrial hypothesis, Project Looking Glass
 ipfs pin add QmQoaog415qopfvin5mgKkNc65sof9TPnU5uBfRSvGY93Q
 
+# VIDEO: Amy Eskridge YouTuber clip — time travel discussion from her exotic physics YouTube channel
+ipfs pin add QmcWGbrcRvZWsNPYJmy5VQBX2BDMn9U9Dh7nNVKcjWBCRc
+
 # ============================================================
 # Investigation: UAP Energy Systems Murders
 # ============================================================

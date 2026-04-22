@@ -1,0 +1,130 @@
+id: '2041674911593459981'
+url: https://x.com/RedCollie1/status/2041674911593459981
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: This is the basis for UFO propulsion, if we study the physics further. From
+  Edwin Fuhr, Canada 1974. 🛸 https://t.co/m3ZtBmAbaz
+created_at: '2026-04-08T00:30:06.000Z'
+lang: en
+conversation_id: '2041674911593459981'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 0
+  like_count: 73
+  quote_count: 0
+  bookmark_count: 13
+  impression_count: 3294
+entities:
+  urls:
+  - start: 103
+    end: 126
+    url: https://t.co/m3ZtBmAbaz
+    expanded_url: https://x.com/RedCollie1/status/2041674911593459981/video/1
+    display_url: pic.x.com/m3ZtBmAbaz
+    media_key: '13_2041674585805090817'
+  - start: 103
+    end: 126
+    url: https://t.co/m3ZtBmAbaz
+    expanded_url: https://x.com/RedCollie1/status/2041674911593459981/video/1
+    display_url: pic.x.com/m3ZtBmAbaz
+    media_key: '3_2041674621876125696'
+  - start: 103
+    end: 126
+    url: https://t.co/m3ZtBmAbaz
+    expanded_url: https://x.com/RedCollie1/status/2041674911593459981/video/1
+    display_url: pic.x.com/m3ZtBmAbaz
+    media_key: '13_2041674654021251073'
+  - start: 103
+    end: 126
+    url: https://t.co/m3ZtBmAbaz
+    expanded_url: https://x.com/RedCollie1/status/2041674911593459981/video/1
+    display_url: pic.x.com/m3ZtBmAbaz
+    media_key: '3_2041674677983367168'
+attachments:
+  media_keys:
+  - '13_2041674585805090817'
+  - '3_2041674621876125696'
+  - '13_2041674654021251073'
+  - '3_2041674677983367168'
+media:
+- media_key: '13_2041674585805090817'
+  type: video
+  width: 960
+  height: 540
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041674585805090817/img/XE3C-jeZCkauGxjD.jpg
+  duration_ms: 10176
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674585805090817/vid/avc1/480x270/Akxurz_WwTHhAsgG.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674585805090817/vid/avc1/640x360/tJDj8rqEPcxf1xC3.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674585805090817/vid/avc1/960x540/Hc6InUG-AffnZJju.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041674585805090817/pl/u5e6_NMpc83PbJHS.m3u8
+  public_metrics:
+    view_count: 1769
+- media_key: '3_2041674621876125696'
+  type: photo
+  width: 960
+  height: 934
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFV8QFfbQAAc--T.jpg
+- media_key: '13_2041674654021251073'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2041674654021251073/img/e_k75t5UQ0jAJRnr.jpg
+  duration_ms: 14381
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674654021251073/vid/avc1/480x270/zQm08sCEuTr0JU9l.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674654021251073/vid/avc1/640x360/sUTc4wnAZ_QY2CCR.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2041674654021251073/vid/avc1/1280x720/2RzfeLzE1saQermR.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2041674654021251073/pl/6Cc7Wm30R3pX9d6S.m3u8?v=c30
+  public_metrics:
+    view_count: 584
+- media_key: '3_2041674677983367168'
+  type: photo
+  width: 1500
+  height: 1184
+  alt_text: null
+  url: https://pbs.twimg.com/media/HFV8TWgb0AAiHlv.jpg
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 4

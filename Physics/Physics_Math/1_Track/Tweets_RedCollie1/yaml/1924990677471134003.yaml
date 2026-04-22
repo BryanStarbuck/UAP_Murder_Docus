@@ -1,0 +1,89 @@
+id: '1924990677471134003'
+url: https://x.com/RedCollie1/status/1924990677471134003
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Perhaps they are coming? It "looks" real from careful inspection of the new
+  aerial drone video.
+
+  May 18, 2025 at Culliford Tree Barrow in Dorset. https://t.co/Asvvak9qLV'
+created_at: '2025-05-21T00:48:36.000Z'
+lang: en
+conversation_id: '1924990677471134003'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 85
+  reply_count: 60
+  like_count: 740
+  quote_count: 15
+  bookmark_count: 303
+  impression_count: 84646
+entities:
+  urls:
+  - start: 145
+    end: 168
+    url: https://t.co/Asvvak9qLV
+    expanded_url: https://x.com/RedCollie1/status/1924990677471134003/photo/1
+    display_url: pic.x.com/Asvvak9qLV
+    media_key: '3_1924990346553073664'
+  - start: 145
+    end: 168
+    url: https://t.co/Asvvak9qLV
+    expanded_url: https://x.com/RedCollie1/status/1924990677471134003/photo/1
+    display_url: pic.x.com/Asvvak9qLV
+    media_key: '3_1924990363162574851'
+  - start: 145
+    end: 168
+    url: https://t.co/Asvvak9qLV
+    expanded_url: https://x.com/RedCollie1/status/1924990677471134003/photo/1
+    display_url: pic.x.com/Asvvak9qLV
+    media_key: '3_1924990378132062208'
+attachments:
+  media_keys:
+  - '3_1924990346553073664'
+  - '3_1924990363162574851'
+  - '3_1924990378132062208'
+media:
+- media_key: '3_1924990346553073664'
+  type: photo
+  width: 750
+  height: 509
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrbwhWpaIAAOWbH.jpg
+- media_key: '3_1924990363162574851'
+  type: photo
+  width: 650
+  height: 530
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrbwiUhbAAMlSEi.jpg
+- media_key: '3_1924990378132062208'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrbwjMSbQAAgcC8.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

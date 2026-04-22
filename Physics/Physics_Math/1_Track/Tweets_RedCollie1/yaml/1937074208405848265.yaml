@@ -1,0 +1,110 @@
+id: '1937074208405848265'
+url: https://x.com/RedCollie1/status/1937074208405848265
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "GOOD FUN! The \"Doug and Dave\" scam. \nYou thought they made a \"10\", but\
+  \ it was really a \"2\".\n\U0001F605\U0001F602\U0001F923 \nhttps://t.co/mQupy4mNjx\
+  \ https://t.co/Cz25OD7e0G"
+created_at: '2025-06-23T09:04:15.000Z'
+lang: en
+conversation_id: '1937074208405848265'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1271
+entities:
+  urls:
+  - start: 97
+    end: 120
+    url: https://t.co/mQupy4mNjx
+    expanded_url: https://www.youtube.com/watch?v=7ebZBec7Q1k
+    display_url: youtube.com/watch?v=7ebZBe…
+    images:
+    - url: https://pbs.twimg.com/news_img/1993162985661956097/XRQnNspP?format=jpg&name=orig
+      width: 1280
+      height: 720
+    - url: https://pbs.twimg.com/news_img/1993162985661956097/XRQnNspP?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Ten With A Two , Willie Nelson , 1991
+    description: 'Written by Mack Vickery, Jack Mack, Bo Roberts, Bill Nosworthy.
+      Released in February 1991 from the album "Born for Trouble", it reached #45
+      U.S. & #35 Canada.'
+    unwound_url: https://www.youtube.com/watch?v=7ebZBec7Q1k
+  - start: 121
+    end: 144
+    url: https://t.co/Cz25OD7e0G
+    expanded_url: https://x.com/RedCollie1/status/1937074208405848265/photo/1
+    display_url: pic.x.com/Cz25OD7e0G
+    media_key: '3_1937073441699409920'
+  - start: 121
+    end: 144
+    url: https://t.co/Cz25OD7e0G
+    expanded_url: https://x.com/RedCollie1/status/1937074208405848265/photo/1
+    display_url: pic.x.com/Cz25OD7e0G
+    media_key: '3_1937073465124700160'
+  - start: 121
+    end: 144
+    url: https://t.co/Cz25OD7e0G
+    expanded_url: https://x.com/RedCollie1/status/1937074208405848265/photo/1
+    display_url: pic.x.com/Cz25OD7e0G
+    media_key: '16_1937073483705417728'
+attachments:
+  media_keys:
+  - '3_1937073441699409920'
+  - '3_1937073465124700160'
+  - '16_1937073483705417728'
+media:
+- media_key: '3_1937073441699409920'
+  type: photo
+  width: 600
+  height: 403
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuHeCDxWMAArvK1.jpg
+- media_key: '3_1937073465124700160'
+  type: photo
+  width: 960
+  height: 781
+  alt_text: null
+  url: https://pbs.twimg.com/media/GuHeDbCXwAAFDur.jpg
+- media_key: '16_1937073483705417728'
+  type: animated_gif
+  width: 220
+  height: 220
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/GuHeEgQXAAAijo4.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/GuHeEgQXAAAijo4.mp4
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3

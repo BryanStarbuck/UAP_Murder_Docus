@@ -1,0 +1,76 @@
+id: '1991842384620237262'
+url: https://x.com/RedCollie1/status/1991842384620237262
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'New amateur images of 3I/ATLAS on November 19, 2025. Nobody knows WTF is going
+  on.
+
+  Does it look like a "Borg cube"? What is NASA hiding? https://t.co/yrs8SDOfRY'
+created_at: '2025-11-21T12:13:25.000Z'
+lang: en
+conversation_id: '1991842384620237262'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 267
+  reply_count: 146
+  like_count: 2059
+  quote_count: 31
+  bookmark_count: 277
+  impression_count: 130795
+entities:
+  urls:
+  - start: 137
+    end: 160
+    url: https://t.co/yrs8SDOfRY
+    expanded_url: https://x.com/RedCollie1/status/1991842384620237262/photo/1
+    display_url: pic.x.com/yrs8SDOfRY
+    media_key: '3_1991841237469630464'
+  - start: 137
+    end: 160
+    url: https://t.co/yrs8SDOfRY
+    expanded_url: https://x.com/RedCollie1/status/1991842384620237262/photo/1
+    display_url: pic.x.com/yrs8SDOfRY
+    media_key: '3_1991841254242701312'
+attachments:
+  media_keys:
+  - '3_1991841237469630464'
+  - '3_1991841254242701312'
+media:
+- media_key: '3_1991841237469630464'
+  type: photo
+  width: 1100
+  height: 672
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6RxDWBaEAA00NB.jpg
+- media_key: '3_1991841254242701312'
+  type: photo
+  width: 2000
+  height: 1599
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6RxEUga0AACUad.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

@@ -1,0 +1,95 @@
+id: '1964079462410326120'
+url: https://x.com/RedCollie1/status/1964079462410326120
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Here we have three, 3-phase wire coils and spinning 60 mm magnet with a 20\
+  \ mm hole. \nThe upward force seems very great, yet a nearly equal downward force\
+  \ prevents any large loss of weight on a scale. \nWe do see a slight loss of total\
+  \ weight by HALF the weight of the magnet (about https://t.co/9zVtypOs1D"
+created_at: '2025-09-05T21:33:29.000Z'
+lang: en
+conversation_id: '1963915629892899295'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 2
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1077
+entities:
+  urls:
+  - start: 281
+    end: 304
+    url: https://t.co/9zVtypOs1D
+    expanded_url: https://x.com/RedCollie1/status/1964079462410326120/video/1
+    display_url: pic.x.com/9zVtypOs1D
+    media_key: '13_1964079071182409728'
+attachments:
+  media_keys:
+  - '13_1964079071182409728'
+media:
+- media_key: '13_1964079071182409728'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1964079071182409728/img/MDPckXSfvdeLmGFx.jpg
+  duration_ms: 16640
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964079071182409728/vid/avc1/480x270/IOELUnn1R2T7mJz-.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964079071182409728/vid/avc1/640x360/L88ixR2TZ1iIryE6.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1964079071182409728/vid/avc1/1280x720/F-OAj-M0rnnFZuZN.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1964079071182409728/pl/Z3uKCSyNNY-tnKrr.m3u8
+  public_metrics:
+    view_count: 447
+referenced_tweets:
+- type: replied_to
+  id: '1963915629892899295'
+  text: 'This alien UFO-drone, which was photographed over Canada in January 2025,
+    shows the basic working-parts of an anti-gravity device.
+
+    As shown in video 1, it has a magnetic flywheel which SPINS very quickly to hold
+    it up.
+
+    As shown in slide 2, it has three small "balls" on each end, https://t.co/wGLF6kSIqw'
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Here we have three, 3-phase wire coils and spinning 60 mm magnet with a 20\
+    \ mm hole. \nThe upward force seems very great, yet a nearly equal downward force\
+    \ prevents any large loss of weight on a scale. \nWe do see a slight loss of total\
+    \ weight by HALF the weight of the magnet (about 20 grams), because it goes into\
+    \ \"free fall\" for HALF of the time.\nThus gravitational potential energy, created\
+    \ by 3-phase spin, gets converted to downward kinetic energy. Still we have not\
+    \ made a \"real UFO\"!"

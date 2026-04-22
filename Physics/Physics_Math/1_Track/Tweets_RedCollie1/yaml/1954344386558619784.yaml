@@ -1,0 +1,82 @@
+id: '1954344386558619784'
+url: https://x.com/RedCollie1/status/1954344386558619784
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Orotate looks almost like thymine, which is insoluble in the water. This is\
+  \ why the DNA base pairs lie inside of the double helix, and have \"propeller twist\"\
+  ! \nSo orotate will be able to \"carry\" lithium ions into the brain as a \"hydrophobic\
+  \ delivery agent\". https://t.co/x5jPbt33dA"
+created_at: '2025-08-10T00:49:46.000Z'
+lang: en
+conversation_id: '1954300526633562184'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1083
+entities:
+  urls:
+  - start: 258
+    end: 281
+    url: https://t.co/x5jPbt33dA
+    expanded_url: https://x.com/RedCollie1/status/1954344386558619784/photo/1
+    display_url: pic.x.com/x5jPbt33dA
+    media_key: '3_1954344023914901504'
+  - start: 258
+    end: 281
+    url: https://t.co/x5jPbt33dA
+    expanded_url: https://x.com/RedCollie1/status/1954344386558619784/photo/1
+    display_url: pic.x.com/x5jPbt33dA
+    media_key: '3_1954344050020233216'
+attachments:
+  media_keys:
+  - '3_1954344023914901504'
+  - '3_1954344050020233216'
+media:
+- media_key: '3_1954344023914901504'
+  type: photo
+  width: 250
+  height: 202
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gx85iQJa8AAYp1O.png
+- media_key: '3_1954344050020233216'
+  type: photo
+  width: 1200
+  height: 1025
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gx85jxZasAAuPIO.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1954300526633562184'
+  text: "Regarding the new compound \"lithium orotate\", which has been proposed as\
+    \ a preventative to the progress of Alzheimer's Disease, no one will EVER pay\
+    \ for a human clinical trial, for two reasons! \nFirstly, the compound is very\
+    \ cheap and has no patent (sold on EBay as an https://t.co/gn5ldkVjQb"
+has_video: false
+has_image: true
+media_count: 2

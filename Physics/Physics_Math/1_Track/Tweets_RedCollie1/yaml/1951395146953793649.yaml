@@ -1,0 +1,72 @@
+id: '1951395146953793649'
+url: https://x.com/RedCollie1/status/1951395146953793649
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@GLoncharnock It was seen again over Georgia in 2015 by "CJ" and his family.
+  He had time to write it down. Very close. https://t.co/Jv29kC2yrL'
+created_at: '2025-08-01T21:30:32.000Z'
+lang: en
+conversation_id: '1951242567150084486'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 122
+entities:
+  urls:
+  - start: 119
+    end: 142
+    url: https://t.co/Jv29kC2yrL
+    expanded_url: https://x.com/RedCollie1/status/1951395146953793649/photo/1
+    display_url: pic.x.com/Jv29kC2yrL
+    media_key: '3_1951394906410508288'
+  mentions:
+  - start: 0
+    end: 13
+    username: GLoncharnock
+    id: '1577095566919860224'
+attachments:
+  media_keys:
+  - '3_1951394906410508288'
+media:
+- media_key: '3_1951394906410508288'
+  type: photo
+  width: 800
+  height: 530
+  alt_text: null
+  url: https://pbs.twimg.com/media/GxS_VBUa4AAJp4n.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1951312489498681714'
+  text: '@RedCollie1 I’m interested in Forest Rendlesham ufo encounter which appended
+    in the 80s. The triangle symbol with the circle associated with the story, drew
+    me in because I was creating the same symbol with my work on Gabylon and the Circular
+    Periodic Table I discovered. What do you think of https://t.co/dmxz6Ow2Yi'
+has_video: false
+has_image: true
+media_count: 1

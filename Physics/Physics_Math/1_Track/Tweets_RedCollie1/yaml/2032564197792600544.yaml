@@ -1,0 +1,83 @@
+id: '2032564197792600544'
+url: https://x.com/RedCollie1/status/2032564197792600544
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "This is also why compasses spin, near or under UFOs! \nThey seem to contain\
+  \ two 3-phase rotating fields, moving in the same direction, as U-V-W-U-V-W (outside)\
+  \ and U-V-W (inside). \nSome of them use 5-phase rotating magnetic fields. https://t.co/PpXorEOwy3"
+created_at: '2026-03-13T21:07:22.000Z'
+lang: en
+conversation_id: '2032411145626370202'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 48
+  quote_count: 0
+  bookmark_count: 8
+  impression_count: 2436
+entities:
+  urls:
+  - start: 231
+    end: 254
+    url: https://t.co/PpXorEOwy3
+    expanded_url: https://x.com/RedCollie1/status/2032564197792600544/video/1
+    display_url: pic.x.com/PpXorEOwy3
+    media_key: '13_2032563634044641280'
+attachments:
+  media_keys:
+  - '13_2032563634044641280'
+media:
+- media_key: '13_2032563634044641280'
+  type: video
+  width: 852
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2032563634044641280/img/Qk0lEybbM9AFCI4N.jpg
+  duration_ms: 21966
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2032563634044641280/vid/avc1/478x270/OWpoSiVnzb76-IU1.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2032563634044641280/vid/avc1/638x360/d-FU_tZ6l5PBHBfG.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2032563634044641280/vid/avc1/852x480/C-B00DUpuuxiXld_.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2032563634044641280/pl/Nu-Llw8iIIrl7WdH.m3u8?v=164
+  public_metrics:
+    view_count: 1437
+referenced_tweets:
+- type: replied_to
+  id: '2032411145626370202'
+  text: "Both of these \"spinning cone\" shapes, as drawn in crops, represent \"rotating\
+    \ magnetic fields\". \nThe first slide shows 3-phase, U-V-W.\nThe second slide\
+    \ shows 3-phase, U-V-W-U-V-W.\nThese are the fast-spinning magnetic fields which\
+    \ allow UFOs to fly. Alien symbols for known physics. https://t.co/SXYSwrfkne"
+has_video: true
+has_image: false
+media_count: 1

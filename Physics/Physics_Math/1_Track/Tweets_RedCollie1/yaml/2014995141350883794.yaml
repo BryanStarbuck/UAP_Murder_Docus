@@ -1,0 +1,92 @@
+id: '2014995141350883794'
+url: https://x.com/RedCollie1/status/2014995141350883794
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: More UFO physics diagrams drawn in crops 1998/1999. https://t.co/Q1LY2II61m
+created_at: '2026-01-24T09:34:13.000Z'
+lang: en
+conversation_id: '2014994939780932026'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 339
+entities:
+  urls:
+  - start: 52
+    end: 75
+    url: https://t.co/Q1LY2II61m
+    expanded_url: https://x.com/RedCollie1/status/2014995141350883794/photo/1
+    display_url: pic.x.com/Q1LY2II61m
+    media_key: '3_2014995090994073601'
+  - start: 52
+    end: 75
+    url: https://t.co/Q1LY2II61m
+    expanded_url: https://x.com/RedCollie1/status/2014995141350883794/photo/1
+    display_url: pic.x.com/Q1LY2II61m
+    media_key: '3_2014995105510510592'
+  - start: 52
+    end: 75
+    url: https://t.co/Q1LY2II61m
+    expanded_url: https://x.com/RedCollie1/status/2014995141350883794/photo/1
+    display_url: pic.x.com/Q1LY2II61m
+    media_key: '3_2014995126486245376'
+attachments:
+  media_keys:
+  - '3_2014995090994073601'
+  - '3_2014995105510510592'
+  - '3_2014995126486245376'
+media:
+- media_key: '3_2014995090994073601'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_azW_7bkAEtuOa.jpg
+- media_key: '3_2014995105510510592'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_azX2Aa0AA0BMJ.jpg
+- media_key: '3_2014995126486245376'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/G_azZEJbIAAJUff.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2014994939780932026'
+  text: "They seem to be telling us to spin galinstan using a 3-phase linear induction\
+    \ motor, and a Lorentz force (two \"crossed lizards\"), rather than by DC current\
+    \ conduction. \nInteresting how they describe the \"right-hand rule\"! \nLots\
+    \ of lizards on their home world? \U0001F409 https://t.co/tAMPBKd3sX"
+has_video: false
+has_image: true
+media_count: 3

@@ -1,0 +1,90 @@
+id: '2028046616935161999'
+url: https://x.com/RedCollie1/status/2028046616935161999
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'Psst! I will let you in on a secret.
+
+  Neither St. Michael nor St. Gabriel met Mohammed in a dark cave to dictate the Quran.
+
+  Allah was/is a demon. https://t.co/meOChKoSH3'
+created_at: '2026-03-01T09:56:07.000Z'
+lang: en
+conversation_id: '2028046616935161999'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 4
+  like_count: 24
+  quote_count: 2
+  bookmark_count: 2
+  impression_count: 1609
+entities:
+  urls:
+  - start: 145
+    end: 168
+    url: https://t.co/meOChKoSH3
+    expanded_url: https://x.com/RedCollie1/status/2028046616935161999/photo/1
+    display_url: pic.x.com/meOChKoSH3
+    media_key: '3_2028046063433900034'
+  - start: 145
+    end: 168
+    url: https://t.co/meOChKoSH3
+    expanded_url: https://x.com/RedCollie1/status/2028046616935161999/photo/1
+    display_url: pic.x.com/meOChKoSH3
+    media_key: '3_2028046098175250432'
+  - start: 145
+    end: 168
+    url: https://t.co/meOChKoSH3
+    expanded_url: https://x.com/RedCollie1/status/2028046616935161999/photo/1
+    display_url: pic.x.com/meOChKoSH3
+    media_key: '3_2028046120988110848'
+attachments:
+  media_keys:
+  - '3_2028046063433900034'
+  - '3_2028046098175250432'
+  - '3_2028046120988110848'
+media:
+- media_key: '3_2028046063433900034'
+  type: photo
+  width: 1500
+  height: 483
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCURJk8bYAI-R9r.jpg
+- media_key: '3_2028046098175250432'
+  type: photo
+  width: 350
+  height: 478
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCURLmXaUAAK1c1.jpg
+- media_key: '3_2028046120988110848'
+  type: photo
+  width: 720
+  height: 960
+  alt_text: null
+  url: https://pbs.twimg.com/media/HCURM7Wa8AAGLjh.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

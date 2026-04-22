@@ -1,0 +1,67 @@
+id: '1923903658095444422'
+url: https://x.com/RedCollie1/status/1923903658095444422
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Tesla's first 2-phase electric motor from 1885 (now owned by Karen Muller in
+  Canada). https://t.co/bRPSGoIEyc
+created_at: '2025-05-18T00:49:11.000Z'
+lang: en
+conversation_id: '1923901850493059279'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 10
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 798
+entities:
+  urls:
+  - start: 86
+    end: 109
+    url: https://t.co/bRPSGoIEyc
+    expanded_url: https://x.com/RedCollie1/status/1923903658095444422/photo/1
+    display_url: pic.x.com/bRPSGoIEyc
+    media_key: '3_1923903643230547968'
+attachments:
+  media_keys:
+  - '3_1923903643230547968'
+media:
+- media_key: '3_1923903643230547968'
+  type: photo
+  width: 795
+  height: 663
+  alt_text: null
+  url: https://pbs.twimg.com/media/GrMUK5TWMAAZ2Io.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1923901850493059279'
+  text: "The \"valve\" in James Watt's steam engine was a feat of genius. It worked\
+    \ just like an early DC motor, by a reversal of force, halfway through each rotary\
+    \ cycle. \nHe changed the world, and began the Industrial Revolution.\nLet's see\
+    \ what we can do now with \"anti-gravity\"?"
+has_video: false
+has_image: true
+media_count: 1

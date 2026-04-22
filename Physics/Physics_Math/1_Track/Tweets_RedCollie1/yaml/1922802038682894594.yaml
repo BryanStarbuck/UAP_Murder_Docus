@@ -1,0 +1,75 @@
+id: '1922802038682894594'
+url: https://x.com/RedCollie1/status/1922802038682894594
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Many of the strange symbols on that orb-sphere match Old Turkic runes. Can\
+  \ anyone provide an accurate translation? \nA fake from this Earth, or a real flying\
+  \ machine from some parallel Earth? (the \"other side\") https://t.co/F6qNlCIfjC"
+created_at: '2025-05-14T23:51:44.000Z'
+lang: en
+conversation_id: '1922802038682894594'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 238
+  reply_count: 141
+  like_count: 1771
+  quote_count: 26
+  bookmark_count: 660
+  impression_count: 203116
+entities:
+  urls:
+  - start: 210
+    end: 233
+    url: https://t.co/F6qNlCIfjC
+    expanded_url: https://x.com/RedCollie1/status/1922802038682894594/photo/1
+    display_url: pic.x.com/F6qNlCIfjC
+    media_key: '3_1922801392097656832'
+  - start: 210
+    end: 233
+    url: https://t.co/F6qNlCIfjC
+    expanded_url: https://x.com/RedCollie1/status/1922802038682894594/photo/1
+    display_url: pic.x.com/F6qNlCIfjC
+    media_key: '3_1922801479624093697'
+attachments:
+  media_keys:
+  - '3_1922801392097656832'
+  - '3_1922801479624093697'
+media:
+- media_key: '3_1922801392097656832'
+  type: photo
+  width: 900
+  height: 799
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq8prb2bgAAxBSj.jpg
+- media_key: '3_1922801479624093697'
+  type: photo
+  width: 1200
+  height: 1138
+  alt_text: null
+  url: https://pbs.twimg.com/media/Gq8pwh6W8AEUWsR.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

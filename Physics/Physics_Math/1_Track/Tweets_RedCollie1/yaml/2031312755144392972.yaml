@@ -1,0 +1,114 @@
+id: '2031312755144392972'
+url: https://x.com/RedCollie1/status/2031312755144392972
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "The upward force of a UFO comes from a magnet spinning and rising due to 3-phase\
+  \ power. Slides 1 and 2 show crop-picture symbols for this. \nMovie 3 shows a few\
+  \ other crop pictures, and a very clear example of how powerfully a real, fast-spinning\
+  \ magnet rises up! You can think of https://t.co/RiXWKgRkJw"
+created_at: '2026-03-10T10:14:35.000Z'
+lang: en
+conversation_id: '2031312755144392972'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 2
+  like_count: 71
+  quote_count: 0
+  bookmark_count: 19
+  impression_count: 2551
+entities:
+  urls:
+  - start: 280
+    end: 303
+    url: https://t.co/RiXWKgRkJw
+    expanded_url: https://x.com/RedCollie1/status/2031312755144392972/video/1
+    display_url: pic.x.com/RiXWKgRkJw
+    media_key: '3_2031312612198330368'
+  - start: 280
+    end: 303
+    url: https://t.co/RiXWKgRkJw
+    expanded_url: https://x.com/RedCollie1/status/2031312755144392972/video/1
+    display_url: pic.x.com/RiXWKgRkJw
+    media_key: '3_2031312629613072384'
+  - start: 280
+    end: 303
+    url: https://t.co/RiXWKgRkJw
+    expanded_url: https://x.com/RedCollie1/status/2031312755144392972/video/1
+    display_url: pic.x.com/RiXWKgRkJw
+    media_key: '13_2031312653709361152'
+attachments:
+  media_keys:
+  - '3_2031312612198330368'
+  - '3_2031312629613072384'
+  - '13_2031312653709361152'
+media:
+- media_key: '3_2031312612198330368'
+  type: photo
+  width: 960
+  height: 891
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDCsDvXaMAAsQ2z.jpg
+- media_key: '3_2031312629613072384'
+  type: photo
+  width: 960
+  height: 890
+  alt_text: null
+  url: https://pbs.twimg.com/media/HDCsEwPaEAAf1Gy.jpg
+- media_key: '13_2031312653709361152'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2031312653709361152/img/IssHttyDnHtJjG_U.jpg
+  duration_ms: 72576
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2031312653709361152/vid/avc1/480x270/jQT6Vfn0zkBucwR4.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2031312653709361152/vid/avc1/640x360/_7qA7c3-lFt8yI1v.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2031312653709361152/vid/avc1/1280x720/lvPFZQ1VKa4UWZke.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2031312653709361152/pl/q0CpDJoWutFAGfv4.m3u8
+  public_metrics:
+    view_count: 1187
+referenced_tweets: []
+has_video: true
+has_image: true
+media_count: 3
+note_tweet:
+  text: "The upward force of a UFO comes from a magnet spinning and rising due to\
+    \ 3-phase power. Slides 1 and 2 show crop-picture symbols for this. \nMovie 3\
+    \ shows a few other crop pictures, and a very clear example of how powerfully\
+    \ a real, fast-spinning magnet rises up! You can think of it like a \"top\" rising,\
+    \ as it spins faster and pushes against the surrounding vacuum. \nThat much is\
+    \ CERTAIN, and has been drawn in crops perhaps 50 times!  \nI am working now on\
+    \ including \"counter-spin\", so that the rising magnet will hopefully show no\
+    \ \"net\" spin angular momentum, and no downward reaction force by Newton's 3rd\
+    \ Law. \U0001F6F8"

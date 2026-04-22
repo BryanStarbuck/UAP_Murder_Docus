@@ -1,0 +1,74 @@
+id: '2010288106269012312'
+url: https://x.com/RedCollie1/status/2010288106269012312
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@dannyn424 Sharks circling a Celtic triquetra (trinity). ✝️
+
+  There was/is no doubt.
+
+  The sharks represent "Islam". ☪️
+
+  They knew that England would be LOST. https://t.co/CnDwQOfLvS'
+created_at: '2026-01-11T09:50:08.000Z'
+lang: en
+conversation_id: '2010104039003042036'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 3
+  like_count: 3
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 1408
+entities:
+  urls:
+  - start: 154
+    end: 177
+    url: https://t.co/CnDwQOfLvS
+    expanded_url: https://x.com/RedCollie1/status/2010288106269012312/photo/1
+    display_url: pic.x.com/CnDwQOfLvS
+    media_key: '3_2010287774755377152'
+  mentions:
+  - start: 0
+    end: 10
+    username: dannyn424
+    id: '1443774035356233729'
+attachments:
+  media_keys:
+  - '3_2010287774755377152'
+media:
+- media_key: '3_2010287774755377152'
+  type: photo
+  width: 700
+  height: 473
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-X6FIaa0AAdR7o.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2010114999058890915'
+  text: '@RedCollie1 Are you certain about the timing?'
+has_video: false
+has_image: true
+media_count: 1

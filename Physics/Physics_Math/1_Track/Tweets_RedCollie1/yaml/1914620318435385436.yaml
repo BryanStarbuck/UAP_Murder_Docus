@@ -1,0 +1,118 @@
+id: '1914620318435385436'
+url: https://x.com/RedCollie1/status/1914620318435385436
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: https://t.co/1LhnZ0f3ni
+created_at: '2025-04-22T10:00:30.000Z'
+lang: zxx
+conversation_id: '1914619995071660117'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 447
+entities:
+  urls:
+  - start: 0
+    end: 23
+    url: https://t.co/1LhnZ0f3ni
+    expanded_url: https://x.com/RedCollie1/status/1914620318435385436/video/1
+    display_url: pic.x.com/1LhnZ0f3ni
+    media_key: '3_1914620064239902722'
+  - start: 0
+    end: 23
+    url: https://t.co/1LhnZ0f3ni
+    expanded_url: https://x.com/RedCollie1/status/1914620318435385436/video/1
+    display_url: pic.x.com/1LhnZ0f3ni
+    media_key: '13_1914620216472166401'
+  - start: 0
+    end: 23
+    url: https://t.co/1LhnZ0f3ni
+    expanded_url: https://x.com/RedCollie1/status/1914620318435385436/video/1
+    display_url: pic.x.com/1LhnZ0f3ni
+    media_key: '3_1914620258562007040'
+  - start: 0
+    end: 23
+    url: https://t.co/1LhnZ0f3ni
+    expanded_url: https://x.com/RedCollie1/status/1914620318435385436/video/1
+    display_url: pic.x.com/1LhnZ0f3ni
+    media_key: '3_1914620299041234945'
+attachments:
+  media_keys:
+  - '3_1914620064239902722'
+  - '13_1914620216472166401'
+  - '3_1914620258562007040'
+  - '3_1914620299041234945'
+media:
+- media_key: '3_1914620064239902722'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GpIYzeja4AI7lqj.jpg
+- media_key: '13_1914620216472166401'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1914620216472166401/img/Kc5ZK_EkMYOPB6HO.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 288000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914620216472166401/vid/avc1/480x270/ccwCV-qWUS4lyMwW.mp4?tag=16
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914620216472166401/vid/avc1/640x360/qa-sZgaOG0sjRUKq.mp4?tag=16
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1914620216472166401/vid/avc1/1280x720/qSOAoZdyY45MjfIS.mp4?tag=16
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1914620216472166401/pl/w1Mx6kd8c-zk7DNs.m3u8?tag=16
+  public_metrics:
+    view_count: 88
+- media_key: '3_1914620258562007040'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GpIY-yda4AAUHrs.jpg
+- media_key: '3_1914620299041234945'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/GpIZBJQa4AEqf25.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1914619995071660117'
+  text: I will try to explain UFO physics simply as possible here. Let's see whether
+    you get it? Please read on into Comments! https://t.co/ZVkYKxxJPf
+has_video: true
+has_image: true
+media_count: 4

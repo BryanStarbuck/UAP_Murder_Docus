@@ -1,0 +1,81 @@
+id: '2017809011836654003'
+url: https://x.com/RedCollie1/status/2017809011836654003
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: Ten-year delta from when he first met Donald and Melania. Donald traced a letter
+  "Q" in the air with his hand. "Do you know what this represents? Maybe it's a calm
+  before the storm." 1⃣7⃣ https://t.co/EYTC6S50yg
+created_at: '2026-02-01T03:55:32.000Z'
+lang: en
+conversation_id: '2017808167674253735'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 19
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 3573
+entities:
+  urls:
+  - start: 188
+    end: 211
+    url: https://t.co/EYTC6S50yg
+    expanded_url: https://x.com/RedCollie1/status/2017809011836654003/video/1
+    display_url: pic.x.com/EYTC6S50yg
+    media_key: '13_2017808816407252992'
+attachments:
+  media_keys:
+  - '13_2017808816407252992'
+media:
+- media_key: '13_2017808816407252992'
+  type: video
+  width: 1560
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2017808816407252992/img/CbE4spPDJlEfj59M.jpg
+  duration_ms: 28862
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017808816407252992/vid/avc1/584x270/Mz4dhYBM2tvpQOqJ.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017808816407252992/vid/avc1/780x360/ZeHOAX0vvV4Bhpkc.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2017808816407252992/vid/avc1/1560x720/yOuRJxwnsjbafYsG.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2017808816407252992/pl/WcbfTAsF0vdpFPEE.m3u8?v=7b6
+  public_metrics:
+    view_count: 2235
+referenced_tweets:
+- type: replied_to
+  id: '2017808167674253735'
+  text: 2027 will mark the return of Quetzalcoatl (Pahana). Probably not until the
+    autumn. 1⃣7⃣ https://t.co/6lhzvGAymb
+has_video: true
+has_image: false
+media_count: 1

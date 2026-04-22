@@ -1,0 +1,111 @@
+id: '1929005668222042437'
+url: https://x.com/RedCollie1/status/1929005668222042437
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: As shown in another video posted above, that silicone-bead captures the spinning
+  magnet in its forceful "rising" motion (like for a "top"), rather than letting it
+  "jump up and down" uncontrollably, of no use for upward propulsion.😀 https://t.co/7fOukv6bEJ
+created_at: '2025-06-01T02:42:45.000Z'
+lang: en
+conversation_id: '1928967971021705481'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 6
+  reply_count: 2
+  like_count: 39
+  quote_count: 1
+  bookmark_count: 4
+  impression_count: 4930
+entities:
+  urls:
+  - start: 232
+    end: 255
+    url: https://t.co/7fOukv6bEJ
+    expanded_url: https://x.com/RedCollie1/status/1929005668222042437/video/1
+    display_url: pic.x.com/7fOukv6bEJ
+    media_key: '13_1929004725753753602'
+  - start: 232
+    end: 255
+    url: https://t.co/7fOukv6bEJ
+    expanded_url: https://x.com/RedCollie1/status/1929005668222042437/video/1
+    display_url: pic.x.com/7fOukv6bEJ
+    media_key: '13_1929005136090935296'
+attachments:
+  media_keys:
+  - '13_1929004725753753602'
+  - '13_1929005136090935296'
+media:
+- media_key: '13_1929004725753753602'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1929004725753753602/img/iRnYsmimKcGj3UgW.jpg
+  duration_ms: 16640
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929004725753753602/vid/avc1/480x270/xmYefXmKH977Q6Fh.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929004725753753602/vid/avc1/640x360/rFKy8Chl7-TjWn6t.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929004725753753602/vid/avc1/1280x720/Nc-f0cLMDjrLrZ5M.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1929004725753753602/pl/zeHXr2BB6vDOMLNQ.m3u8?v=585
+  public_metrics:
+    view_count: 1987
+- media_key: '13_1929005136090935296'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1929005136090935296/img/Rrbcs1vrlu8i8GEd.jpg
+  duration_ms: 7407
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929005136090935296/vid/avc1/480x270/gYgNwqZ8lly7vJ4W.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929005136090935296/vid/avc1/640x360/xr83itBzocy_TDE8.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1929005136090935296/vid/avc1/1280x720/cPRCx23_kYIv1a1o.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1929005136090935296/pl/ORLTIHrnqntawZOe.m3u8
+  public_metrics:
+    view_count: 604
+referenced_tweets:
+- type: replied_to
+  id: '1928967971021705481'
+  text: One of the greatest crop pictures in history appeared mysteriously near Barbury
+    Castle in July 1991 (slide 1). For many years, nobody knew what it was trying
+    to say! Later I figured out that it describes the horizontal-spin, then rise-precession,
+    of a "spinning top" (slide 2), https://t.co/UdktiGlDWn
+has_video: true
+has_image: false
+media_count: 2

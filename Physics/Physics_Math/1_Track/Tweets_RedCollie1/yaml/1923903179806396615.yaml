@@ -1,0 +1,79 @@
+id: '1923903179806396615'
+url: https://x.com/RedCollie1/status/1923903179806396615
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "Do you see how the early DC motor reversed its sense of magnetism, halfway\
+  \ through every rotary cycle, using a \"split-ring commutator\"?\nThat was the best\
+  \ we could do, until Tesla invented \"3-phase power\" as a young man. Nobody wanted\
+  \ it at the time! \nNow dozens of Tesla motors https://t.co/ECZd407YsY"
+created_at: '2025-05-18T00:47:17.000Z'
+lang: en
+conversation_id: '1923901850493059279'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 0
+  like_count: 11
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 581
+entities:
+  urls:
+  - start: 278
+    end: 301
+    url: https://t.co/ECZd407YsY
+    expanded_url: https://x.com/RedCollie1/status/1923903179806396615/photo/1
+    display_url: pic.x.com/ECZd407YsY
+    media_key: '16_1923902243083812864'
+attachments:
+  media_keys:
+  - '16_1923902243083812864'
+media:
+- media_key: '16_1923902243083812864'
+  type: animated_gif
+  width: 480
+  height: 270
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/tweet_video_thumb/GrMS5ZWWgAAZ1DP.jpg
+  variants:
+  - bit_rate: 0
+    content_type: video/mp4
+    url: https://video.twimg.com/tweet_video/GrMS5ZWWgAAZ1DP.mp4
+referenced_tweets:
+- type: replied_to
+  id: '1923901850493059279'
+  text: "The \"valve\" in James Watt's steam engine was a feat of genius. It worked\
+    \ just like an early DC motor, by a reversal of force, halfway through each rotary\
+    \ cycle. \nHe changed the world, and began the Industrial Revolution.\nLet's see\
+    \ what we can do now with \"anti-gravity\"?"
+has_video: true
+has_image: false
+media_count: 1
+note_tweet:
+  text: "Do you see how the early DC motor reversed its sense of magnetism, halfway\
+    \ through every rotary cycle, using a \"split-ring commutator\"?\nThat was the\
+    \ best we could do, until Tesla invented \"3-phase power\" as a young man. Nobody\
+    \ wanted it at the time! \nNow dozens of Tesla motors fill every house, and are\
+    \ used for Elon's electric cars."

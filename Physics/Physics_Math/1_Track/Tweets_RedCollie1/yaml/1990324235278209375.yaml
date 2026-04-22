@@ -1,0 +1,70 @@
+id: '1990324235278209375'
+url: https://x.com/RedCollie1/status/1990324235278209375
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@digijordan \"IMMINENT threat to Earth's leaders and civilizations\" \n\"Space\
+  \ vessel threat\" (2015) \nIn another message \"EBENs have sent THREAT\" (2017)\
+  \ https://t.co/EndkvXG9IV"
+created_at: '2025-11-17T07:40:50.000Z'
+lang: en
+conversation_id: '1990172835801919497'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 183
+entities:
+  urls:
+  - start: 149
+    end: 172
+    url: https://t.co/EndkvXG9IV
+    expanded_url: https://x.com/RedCollie1/status/1990324235278209375/photo/1
+    display_url: pic.x.com/EndkvXG9IV
+    media_key: '3_1990324144135921664'
+  mentions:
+  - start: 0
+    end: 11
+    username: digijordan
+    id: '390188598'
+attachments:
+  media_keys:
+  - '3_1990324144135921664'
+media:
+- media_key: '3_1990324144135921664'
+  type: photo
+  width: 720
+  height: 960
+  alt_text: null
+  url: https://pbs.twimg.com/media/G58NQ48a4AA2nZ8.jpg
+referenced_tweets:
+- type: replied_to
+  id: '1990236039139737774'
+  text: '@RedCollie1 Jesus man…you’re just milking this for everything you can huh.'
+has_video: false
+has_image: true
+media_count: 1

@@ -1,0 +1,123 @@
+id: '2039902746678362233'
+url: https://x.com/RedCollie1/status/2039902746678362233
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@MartyMart1068 How is spin energy E = mv2 applied to a nearby object, using
+  Newton''s 3rd Law, when the nearby object is either (a) stationary or (b) in rapid
+  relative motion?
+
+  For m = 1, v = -2, we get E = 4. The nearby object receives E =  4 in an opposite
+  spin direction, thereby creating v = https://t.co/3xyRFvMFIl'
+created_at: '2026-04-03T03:08:09.000Z'
+lang: en
+conversation_id: '2039678934200283365'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2206
+entities:
+  urls:
+  - start: 294
+    end: 317
+    url: https://t.co/3xyRFvMFIl
+    expanded_url: https://x.com/RedCollie1/status/2039902746678362233/video/1
+    display_url: pic.x.com/3xyRFvMFIl
+    media_key: '13_2039902664704831488'
+  - start: 294
+    end: 317
+    url: https://t.co/3xyRFvMFIl
+    expanded_url: https://x.com/RedCollie1/status/2039902746678362233/video/1
+    display_url: pic.x.com/3xyRFvMFIl
+    media_key: '3_2039902687031128064'
+  mentions:
+  - start: 0
+    end: 14
+    username: MartyMart1068
+    id: '4774214342'
+attachments:
+  media_keys:
+  - '13_2039902664704831488'
+  - '3_2039902687031128064'
+media:
+- media_key: '13_2039902664704831488'
+  type: video
+  width: 1002
+  height: 668
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2039902664704831488/img/hRy3s6G2lYfIXvsE.jpg
+  duration_ms: 28119
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039902664704831488/vid/avc1/404x270/Q6JdUpX_USNdg6cw.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039902664704831488/vid/avc1/540x360/mP5EsnnCOKsTM2pY.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2039902664704831488/vid/avc1/1002x668/TydWCKPKuJ33BJaR.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2039902664704831488/pl/76QjEZ8IoX7aiDj2.m3u8?v=ada
+  public_metrics:
+    view_count: 592
+- media_key: '3_2039902687031128064'
+  type: photo
+  width: 960
+  height: 720
+  alt_text: null
+  url: https://pbs.twimg.com/media/HE8wr5za8AAr8mW.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2039688323489255910'
+  text: '@RedCollie1 Why do you say "''spin angular momentum'' mvr is only conserved
+    in the starting condition of v = 0 for his body and feet, not moving in either
+    direction." ?
+
+
+    Angular momentum is always conserved unless you apply a torque ... what is the
+    torque in this hypothetical ?'
+has_video: true
+has_image: true
+media_count: 2
+note_tweet:
+  text: "How is spin energy E = mv2 applied to a nearby object, using Newton's 3rd\
+    \ Law, when the nearby object is either (a) stationary or (b) in rapid relative\
+    \ motion?\nFor m = 1, v = -2, we get E = 4. The nearby object receives E =  4\
+    \ in an opposite spin direction, thereby creating v = +2.\nNext let us spin the\
+    \ nearby object first, using say v = +8. Its prior spin energy would be E = 64\
+    \ for m = 1, v = +8. \nNow when he add an extra E = 4 by Newton's Third Law, the\
+    \ total spin energy goes to E = 64 + 4 = 68.\nHence v = +8 will only increase\
+    \ to the square root of 68 = 8.25, giving 8.00 > 8.25 instead of 0 > 2 for a stationary\
+    \ object, when it receives extra-spin energy by Newton's 3rd Law. \nNaively one\
+    \ might expect v = 8 > 10 looking at spin angular momentum alone. But when we\
+    \ consider conservation or spin energies, we should see only v = 8 > 8.25,\nIn\
+    \ summary, as the prior spin velocity of that nearby object gets larger, then\
+    \ we may need practically no-zero effect of Newton's 3rd Law on the nearby, fast-spinning\
+    \ object. \nHow do UFOs fly using spin combined with counter-spin? Could this\
+    \ be the theoretical explanation?"

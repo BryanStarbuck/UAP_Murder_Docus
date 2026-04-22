@@ -1,0 +1,134 @@
+- Spinning one magnet rapidly by itself does not produce much of an effect or thrust.
+- Spinning two concentric sets of magnets in opposite directions creates "vortices" that cause a central magnet to either go down or rise up.
+- The process is analogous to twisting a bedsheet: twisting one end does little, but twisting both ends in opposite directions creates a region of strongly-twisted cloth between them.
+- Applying opposing spins in spacetime creates upward or downward vortices that may explain UFO flight.
+- A UFO rises by spin in "up-down" pulses rather than continuous force.
+- Crop pictures from 2012 depict a South 'S' disc magnet (blue) held in place by four outer North 'N' magnets (red) arranged in a ring via static magnetic attraction shown by green dashed lines.
+- Two sets of smaller circles above or below the big 'S' magnet describe attraction towards the horizontal plane of the four 'N' magnets from both above and below.
+- Both the outer ring of 4 'N' magnets and the central 'S' disc magnet are made to spin rapidly in opposite directions, requiring 6 + 3 wire coils with 3-phase power from two different supplies.
+- The big central disc magnet 'S' goes up-and-down rapidly in a periodic fashion while still being attracted to the central plane of the outer magnets whether from above or below.
+- In the spinning configuration as drawn in crops, the central disc magnet 'S' goes UP in a relative sense for BOTH of its 'up' and 'down' oscillations on a vertical pole.
+- If following Newton's laws, the 'up' magnet would lie higher and the 'down' magnet lower than a no-spin case, but the crop artist drew BOTH as higher than the no-spin 'S' magnet, hinting at upward pulsed anti-gravity levitation for both not following Newton's laws.
+- The mysterious physics of UFO-flight may be based on TWO fast-spinning "magnetic vortices", one just above a fast-spinning magnetic flywheel and another just below.
+- Crop drawings and alien drone photos (like Tic-Tac or Canada 2025 drone) show two vortices above and below a flat spinning flywheel structure.
+- A repeated TRANSITION of the central spinning magnet between the lower vortex and an upper vortex with quick and powerful up-and-down motion (like a piston in a car) may be the KEY to understanding UFO physics.
+- This mechanism might work in an inertia-less fashion that does not follow Newton's classical laws of motion, similar to curved spacetime in Einstein's gravity, Lorentz force of electromagnetism, or Alcubierre warp drive.
+- Friendly aliens have drawn plans repeatedly in crops worldwide for a small device to study and investigate anti-gravity physics.
+- The device shown in crop pictures would not even "spin" by current textbook theories of physics on Earth and would create a "magnetic vortex".
+- Particular aliens travelled to Earth using MAGNETIC SPACE PROPULSION through a SPACETIME WORMHOLE.
+- A series of overlapping circles rising vertically from the "up-down ring" suggest UFOs rise by "periodic pulsed" upward thrust.
+- Periodic pulsed up-down motions of a spinning central magnet attracted to a counter-spinning flywheel above push that flywheel upward with it.
+- Fast spin / counter-spin motion may be required to bypass Newton's Third Law of action-reaction.
+- AC Lenz levitation shows non-Newtonian forces when its disc conductor is given rapid spin, as measured in lab.
+- Blueprint drawn in crops multiple times (2002, 2009, 2014): six 3-phase wire coils around the outside, a large round flat wire coil (1-phase) placed just above them, a small rotor in the middle given FAST SPIN by the outer coils.
+- Aluminum or copper discs require small magnets around their perimeters to spin in this setup; they will not spin by themselves.
+- Spin motion alone does NOT produce much thrust.
+- If the spinning disc is being pushed upward by Lenz levitation from the big flat 1-phase wire coil, non-Newtonian upward anti-gravity effects may occur ("spin-unbalanced Lenz levitation").
+- Six wire coils given 3-phase power clockwise as U-V-W-U-V-W.
+- Two inner "rings" of magnets: the outer ring spins against the rotating magnetic field (with 8 N-S magnets), the inner ring or disc magnet spins with that rotating magnetic field and with another 3-phase field created by three wire coils below wired as U-V-W.
+- Two opposing kinds of spin from a ring of 6 wire coils given 3-phase power: clockwise inside, anti-clockwise outside, which is essential for generating "UFO flight".
+- The physics of UFO levitation involves a "magnetic spinning propellor" that provides upward spinning force with no apparent downward force due to 3rd Law reaction.
+- Central 70 mm magnet with 14 mm hole on 6.3 mm aluminum rod, with silicone-bead transmitting the upward spin-force; the aluminum pole does NOT spin after it rises.
+- Only an upward force is observed in both N or S orientations of the central spinning magnet, with no Newtonian downward force visible.
+- Fast spin of a lower flywheel with 6 N-S-N-S-N-S magnets produces Lenz-inductive spin and/or rise of an aluminum disc placed above.
+- Counter-spinning an aluminum disc in one direction while counter-spinning the N-S magnets in the other produces greatly enhanced repulsions due to fast RELATIVE motions.
+- Lab models based on 3-phase physics diagrams from crops allow quantitative measurement of upward or downward forces.
+- "Spinning magnetism" is presented as new physics beyond standard dipole magnetism taught in schools, being taught by friendly E.T.s.
+- Fast-spinning magnet rises by 3-phase power to the central (empty) "ring" of a magnetic flywheel and is held by planar attraction between central South magnet and four outer North flywheel magnets.
+- When both central magnet and outer flywheel spin rapidly in opposite directions, the central magnet moves slightly BELOW the flywheel due to rapid spin.
+- The fast-spinning central magnet PUSHES UP on the counter-spinning flywheel from a short distance below.
+- Both the central (blue) circle and upper (red) circle GO UP TOGETHER compared to non-spinning case, which is not what would be expected from Newton's Third Law.
+- This upward movement of both matches what is expected for the RISE OF A UFO as depicted in crop pictures.
+- Crop pictures provide detailed "blueprints" or "plans" for building devices capable of UFO levitation and novel propulsion.
+- The central magnet in the device can be given rapid spin by 3-phase helical magnetic field.
+- Upward spin force from a fast-spinning magnet in a 3-phase helical magnetic field creates no downward counter-reaction by Newton's 3rd Law in some configurations.
+- If upward reaction force is clockwise, downward counter-reaction is anti-clockwise (or vice-versa), leading to sideways counter-torque rather than downward force.
+- Sideways counter-torque observed matches illustrations of real UFOs where disc spins one way and grass below spins the other way.
+- Angular momentum (m x v x r) is NOT conserved in some setups due to the peculiar sideways action of the Lorentz force.
+- Changing the downward force into a Lorentz force results in NO real downward force but only an upward force.
+- Sudden breakdown of a magnetic spinning vortex can cause the central magnet and outer flywheel to both shoot upward due to fast release of stored energy without downward back reaction by Newton’s Third Law.
+- The basic idea of UFO physics is getting a strong upward force from a fast-spinning magnet pushing against space like a spinning gyroscope, while converting the equal and opposite downward force into a non-Newtonian force via Lorentz force or other mechanisms.
+- Experiments with the device are intended to study, measure, and learn the novel physics potentially leading to anti-gravity levitation and space propulsion.
+- Our new small-scale model shows a near-perfect match to the most-detailed "UFO" crop pictures from July 2012.
+- There are two possible forces which might lead to novel space propulsion: the rise of a spinning magnet up a pole, which then applies its upward force to the center of a counter-spinning, magnetic flywheel (rather than say to a stationary 'bead'), which could bypass Newton's 3rd Law.
+- The preliminary motion of a spinning magnet downward, away from the center of an attractive magnetic flywheel, followed by its upward force or pulsed motion as a second step, when the flywheel spins rapidly in an opposite direction, is a novel mechanism never studied before on Earth.
+- The E.T. device resembles an NASA "MPD" ion drive, but would be much more powerful.
+- In their 2009 crop picture, "two lizards" represent our "right-hand rule" for electromagnetic physics.
+- The Buga orb may use 5-phase AC power, as applied to a ring of 5 (embedded) wire coils.
+- Interactions between two counter-spinning magnetic discs, as a possible source of UFO levitation.
+- In a latest UFO-style experiment, a "VORTEX" is being created.
+- The two counter-spinning discs have to interact with one another in some way, to produce "anti-gravity"; they will not do so just by cancelling total spin-angular-momentum, with no direct interaction.
+- They may do so in a way similar to what was seen before for a fast-spinning aluminum disc placed over an AC wire coil.
+- UFOs fly by means of a "helical" magnetic field, as seen often in astronomy and drawn in crops by friendly aliens.
+- Arranging six wire coils into the shape of a hexagon and giving 3-phase power creates a helical magnetic field within which a central magnet will SPIN and RISE, matching the shape and spin of a "hexagonal" UFO.
+- The rise of a spinning magnet through same-polarity magnetic field at center of counter-spinning flywheel may produce bypass of Newton's 3rd Law.
+- When spinning rapidly, the blue magnet moves slightly downward to just below flat plane of counter-spinning red flywheel, positioning it to rise through center and push flywheel upward.
+- Spinning magnet goes up-and-down in quick cycles relative to stationary flywheel just above with four attractive magnets.
+- Up-and-down oscillation drawn in crops 2012 as periodic transition between low-spin and high-spin geometries.
+- Transition may represent mechanism for capturing then releasing gravitational potential energy, like two-step piston in car.
+- Novel up-and-down spin-motion discovered in lab (never seen before on Earth) may release gravitational energy in pulses.
+- Three vertical wire coils with 3-phase AC power make central magnet spin rapidly and rise up powerfully in both North and South orientations, but there is no NET loss of gravity weight when the ENTIRE device is placed on a scale.
+- The general idea here is that a "spinning and rising magnet" (blue) may push a "counter-spinning magnetic flywheel" (red) UPWARD with some kind of non-Newtonian physics (green triangles) while remaining attracted to it from below.
+- Pushing a fast-spinning aluminum disc upward using an AC wire coil by Lenz levitation DOES show non-Newtonian physics.
+- UFO levitation physics may be solved using "magnetic spinning propellor".
+- Easy to get 1 kg (1000 grams) of upward spinning force, with no apparent downward force due to a possible 3rd Law reaction.
+- Setup uses 3-phase AC power, six wire coils (0.5 mm copper wire), central 70 mm magnet with 14 mm hole, 3 mm thick, placed on a 6.3 mm aluminum rod, with a 20 mm silicone-bead transmitting the upward spin-force of that magnet to the aluminum pole which does NOT spin after it rises.
+- Central aluminum rod has to be narrow enough (6.3 mm diameter for a 14 mm magnetic hole) to avoid unwanted mechanical effects, assessed by flipping the central magnet about its N-S poles.
+- Elastic silicone bead is needed to capture the upward force from that spinning magnet without causing the aluminum rod to counter-rotate by unwanted mechanical friction.
+- All results learned by studying many "technical diagrams" drawn in crops by friendly extra-terrestrials meant to teach a more advanced kind of physics than what top scientists know today on Earth.
+- In hoverboard-like systems, fast spin of lower flywheel with 6 N-S-N-S-N-S magnets (similar to UFO model lower flywheel) produces Lenz-inductive spin and/or rise of aluminum disc above.
+- Using drive-motor to "spin" aluminum disc in one direction while "counter-spinning" N-S-N-S-N-S magnets in the other direction produces greatly enhanced repulsions due to fast RELATIVE motions, relevant to UFO flight.
+- As new discoveries or insights into UFO physics are made, they are posted publicly because enemy E.T.'s will not be able to stop us all; please study, save and share if relevant.
+- Alien-made crop pictures have pointed the way to very important “UFO physics” which we do not yet fully understand but have the opportunity to study and research further.
+- The E.T. crop artists fly through space using a "magnetic spinning propellor".
+- Crop artist's signature "F of J" appears on diagrams including tesseract and penteract concepts.
+- The device uses 3-phase AC power applied to two different sets of wire coils (3 U-V-W or 6 U-V-W-U-V-W).
+- Studying the interactions between two counter-spinning magnetic discs as a possible source of UFO levitation.
+- UFOs seem to fly by means of a "helical magnetic field".
+- If we arrange six wire coils into the shape of a hexagon and give 3-phase power, we can create a helical magnetic field within which a central magnet will SPIN and RISE.
+- That matches almost exactly the shape and spin of a "hexagonal" UFO seen over California.
+- A similar "hexagonal UFO" was drawn in crops near Ipuacu, Brazil.
+- Edwin Fuhr's close-up observation of small UFOs in Canada 1974 shows 4 magnets spinning around its lower perimeter, matching lab model with 4 magnets N-N-N-N spinning the same way.
+- Advantage of having 4 magnets rather than 8 on the outer flywheel is a strong magnetic field created inside the "ring" with which the central fast-spinning magnet can interact, perhaps in a non-Newtonian sense.
+- Outer parts of the UFO spinning one way but grass below spinning the other way is called "spin" and "counter-spin", part of the new model being studied.
+- The general idea is to get a strong 'upward' force from a fast-spinning magnet because it 'pushes against space' like a spinning gyroscope.
+- Apply a rotating magnetic field (3 or 5-phase) accompanied by an equal and opposite 'downward' force by Newton's 3rd Law.
+- Change that 'downward' force into another kind of force which does NOT follow Newton's 3rd Law: namely the Lorentz force of electromagnetism.
+- Added DC current makes a disc magnet spin rapidly in one direction (by the Lorentz force) while other thin wires which supply that DC current spin in an opposite direction.
+- Spin angular momentum (m x v x r) is NOT conserved due to a peculiar sideways action of the Lorentz force.
+- If we can change the 'downward' force into a Lorentz force, then we should have NO real 'downward' force, but only a force that goes 'up'.
+- Outer magnetic flywheel and central inner magnet attracted; 3 phase makes outer flywheel spin anticlockwise while central magnet spins clockwise.
+- Magnetic field lines from each object will twist in opposite directions to create a downward vortex while the central magnet moves visibly downward away from the outer flywheel.
+- A lot of energy will be stored in that downward, fast spinning vortex.
+- Suppose some third force interferes to 'breakdown' that spinning vortex.
+- We may get SUDDEN BREAKDOWN of the magnetic spinning vortex which will cause the central magnet and outer flywheel to both shoot upward due to a fast and sudden release of lots of energy.
+- Will a sudden collapse of that magnetic spinning vortex cause any downward back reaction by Newton’s Third Law?
+- If downward spinning vortex collapses to flat spin, does anything else get “pushed down”?
+- Rise of spinning magnet up pole applies upward force to center of counter-spinning magnetic flywheel rather than stationary bead, which could bypass Newton's 3rd Law.
+- Preliminary motion of spinning magnet downward away from center of attractive magnetic flywheel followed by upward force or pulsed motion as second step when flywheel spins rapidly opposite is novel and never studied before on Earth.
+- Further experiments should reveal more about these forces.
+- UFOs fly using the upward spin force from a fast-spinning magnet in a 3-phase helical magnetic field.
+- The quick rise of a spinning magnet by a 'helical' magnetic field creates no 'downward' counter-reaction by Newton's 3rd Law.
+- If the upward reaction force is clockwise, then the downward counter-reaction force will be anti-clockwise, or vice-versa; in other words, the quick rise of a spinning magnet creates almost no increase of downward force-weight on a scale placed below but instead creates a sideways counter-torque.
+- Sideways counter-torque clearly seen for illustration of real UFO from Canada 1974; Edwin Fuhr saw that UFO disc spin one way while grass below spun the other way.
+- Two crop pictures from 2012 now seem to be well understood in terms of UFO physics with detailed interpretations.
+- On the left-hand side, South 'S' disc magnet (blue) held in place by four outer North 'N' magnets (red) in ring form; four green dashed lines show static magnetic attraction.
+- Two sets of smaller circles (black) drawn above or below big 'S' magnet (blue) describe how it is held in place by attractive force towards horizontal plane of those four 'N' magnets (red) from both above and below.
+- On right-hand side, outer ring of 4 'N' magnets (red) and central 'S' disc magnet (blue) made to spin rapidly in opposite directions.
+- Technically requires 6 + 3 wire coils given 3-phase power from two different supplies.
+- NOW the big central disc magnet 'S' (blue) goes up-and-down rapidly in periodic fashion; those four 'N' magnets outside (red) still attract the moving 'S' magnet towards their central plane whether from above or below (small black circles).
+- Nothing new here so far; all those experimental effects shown in recent lab videos.
+- There may still be something new and important however.
+- As shown, two green dashed lines show how central disc magnet 'S' goes UP in relative sense for BOTH of its 'up' and 'down' oscillations on vertical pole.
+- If device were following Newton's laws of motion, then 'up' magnet (blue) would lie higher than starting no-spin disc magnet 'S' on left; 'down' magnet (blue) would lie lower than starting no-spin disc magnet 'S' on left.
+- Yet that is NOT what the E.T. crop artist drew; instead BOTH 'up' and 'down' spinning magnets on right drawn as higher than no-spin 'S' magnet on left.
+- He seems to have been hinting at upward, pulsed anti-gravity levitation for both sets of magnets (red and blue), NOT following Newton's laws.
+- If we study that 'up-and-down', spin and counter-spin effect in our new device, we may have a good chance of discovering 'UFO levitation' physics.
+- No-spin versus spin and counter-spin configurations shown in slides.
+- Of course it will take a while to understand UFO anti-gravity physics in a way to relate to what we already know.
+- Meanwhile friendly aliens have drawn plans repeatedly (many dozens of times) in crops worldwide asking us to build a small device by which we can study and investigate anti-gravity physics.
+- That is the device which appears in latest movie; this device would not even 'spin' by current textbook theories of physics on Earth; it would not create a 'magnetic vortex' as shown (another detailed post soon).
+- Those particular aliens travelled to Earth using MAGNETIC SPACE PROPULSION through a SPACETIME WORMHOLE and found here a race of humans so primitive that they decided to try and teach us some of their advanced physics so that we can progress somewhat (slowly) toward their advanced level.
+- Alien-made crop pictures have pointed the way to very important “UFO physics” which we do not yet fully understand but have the opportunity to study and research further; plan to do so soon; all welcome to join in.
+
+

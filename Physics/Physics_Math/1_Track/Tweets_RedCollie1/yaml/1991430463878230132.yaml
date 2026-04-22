@@ -1,0 +1,89 @@
+id: '1991430463878230132'
+url: https://x.com/RedCollie1/status/1991430463878230132
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "That ISS UFO was essentially the same spacecraft drawn in crops near WKLB in\
+  \ August 2013. \nTriangular shape, flaming tail exhaust.\nSlide 3 shows the famous\
+  \ triangular UFO from Belgium 1989. \nHow can anyone not understand? \U0001F6F8\
+  \ https://t.co/zqaqVQya6F"
+created_at: '2025-11-20T08:56:36.000Z'
+lang: en
+conversation_id: '1991430463878230132'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 32
+  reply_count: 21
+  like_count: 323
+  quote_count: 3
+  bookmark_count: 56
+  impression_count: 17299
+entities:
+  urls:
+  - start: 224
+    end: 247
+    url: https://t.co/zqaqVQya6F
+    expanded_url: https://x.com/RedCollie1/status/1991430463878230132/photo/1
+    display_url: pic.x.com/zqaqVQya6F
+    media_key: '3_1991428851155800064'
+  - start: 224
+    end: 247
+    url: https://t.co/zqaqVQya6F
+    expanded_url: https://x.com/RedCollie1/status/1991430463878230132/photo/1
+    display_url: pic.x.com/zqaqVQya6F
+    media_key: '3_1991428868755140608'
+  - start: 224
+    end: 247
+    url: https://t.co/zqaqVQya6F
+    expanded_url: https://x.com/RedCollie1/status/1991430463878230132/photo/1
+    display_url: pic.x.com/zqaqVQya6F
+    media_key: '3_1991430297557274624'
+attachments:
+  media_keys:
+  - '3_1991428851155800064'
+  - '3_1991428868755140608'
+  - '3_1991430297557274624'
+media:
+- media_key: '3_1991428851155800064'
+  type: photo
+  width: 595
+  height: 557
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6L5_TSbEAA73_c.jpg
+- media_key: '3_1991428868755140608'
+  type: photo
+  width: 990
+  height: 674
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6L6AU2bsAAfuoG.jpg
+- media_key: '3_1991430297557274624'
+  type: photo
+  width: 792
+  height: 622
+  alt_text: null
+  url: https://pbs.twimg.com/media/G6L7TfjaEAAxIdV.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

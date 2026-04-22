@@ -1,0 +1,100 @@
+id: '1973314239956946959'
+url: https://x.com/RedCollie1/status/1973314239956946959
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '"If I have told you about earthly things, and you do not believe, how can you
+  believe if I tell you of heavenly things?" ✝️ Acts 2:19. https://t.co/0jTniHjTxW'
+created_at: '2025-10-01T09:09:11.000Z'
+lang: en
+conversation_id: '1973314239956946959'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 15
+  reply_count: 18
+  like_count: 160
+  quote_count: 2
+  bookmark_count: 29
+  impression_count: 10228
+entities:
+  urls:
+  - start: 135
+    end: 158
+    url: https://t.co/0jTniHjTxW
+    expanded_url: https://x.com/RedCollie1/status/1973314239956946959/photo/1
+    display_url: pic.x.com/0jTniHjTxW
+    media_key: '3_1973313867532124160'
+  - start: 135
+    end: 158
+    url: https://t.co/0jTniHjTxW
+    expanded_url: https://x.com/RedCollie1/status/1973314239956946959/photo/1
+    display_url: pic.x.com/0jTniHjTxW
+    media_key: '3_1973313887345975298'
+  - start: 135
+    end: 158
+    url: https://t.co/0jTniHjTxW
+    expanded_url: https://x.com/RedCollie1/status/1973314239956946959/photo/1
+    display_url: pic.x.com/0jTniHjTxW
+    media_key: '3_1973313904798474243'
+  - start: 135
+    end: 158
+    url: https://t.co/0jTniHjTxW
+    expanded_url: https://x.com/RedCollie1/status/1973314239956946959/photo/1
+    display_url: pic.x.com/0jTniHjTxW
+    media_key: '3_1973313937467908096'
+attachments:
+  media_keys:
+  - '3_1973313867532124160'
+  - '3_1973313887345975298'
+  - '3_1973313904798474243'
+  - '3_1973313937467908096'
+media:
+- media_key: '3_1973313867532124160'
+  type: photo
+  width: 960
+  height: 708
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2KegeiawAAax8_.jpg
+- media_key: '3_1973313887345975298'
+  type: photo
+  width: 592
+  height: 927
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2KehoWaIAIFDCm.jpg
+- media_key: '3_1973313904798474243'
+  type: photo
+  width: 592
+  height: 927
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2KeipXaIAM4LDs.jpg
+- media_key: '3_1973313937467908096'
+  type: photo
+  width: 942
+  height: 906
+  alt_text: null
+  url: https://pbs.twimg.com/media/G2KekjEaIAA2j45.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 4

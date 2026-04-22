@@ -1,0 +1,177 @@
+id: '1955255144645530015'
+url: https://x.com/RedCollie1/status/1955255144645530015
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'These are my four favorite clips from Eric Laithwaite''s 1974 talk about "gyroscopes".
+  They show two general principles.
+
+  Firstly, a fast spinning-motion can turn a downward gravity force by 90-degrees
+  sideways, just like for the Lorentz force of electromagnetism.
+
+  Secondly, there https://t.co/3Xcu5tQqoy'
+created_at: '2025-08-12T13:08:48.000Z'
+lang: en
+conversation_id: '1955255144645530015'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 5
+  reply_count: 1
+  like_count: 20
+  quote_count: 0
+  bookmark_count: 12
+  impression_count: 1292
+entities:
+  urls:
+  - start: 279
+    end: 302
+    url: https://t.co/3Xcu5tQqoy
+    expanded_url: https://x.com/RedCollie1/status/1955255144645530015/video/1
+    display_url: pic.x.com/3Xcu5tQqoy
+    media_key: '13_1955254431001481223'
+  - start: 279
+    end: 302
+    url: https://t.co/3Xcu5tQqoy
+    expanded_url: https://x.com/RedCollie1/status/1955255144645530015/video/1
+    display_url: pic.x.com/3Xcu5tQqoy
+    media_key: '13_1955254508520607744'
+  - start: 279
+    end: 302
+    url: https://t.co/3Xcu5tQqoy
+    expanded_url: https://x.com/RedCollie1/status/1955255144645530015/video/1
+    display_url: pic.x.com/3Xcu5tQqoy
+    media_key: '13_1955254595778908162'
+  - start: 279
+    end: 302
+    url: https://t.co/3Xcu5tQqoy
+    expanded_url: https://x.com/RedCollie1/status/1955255144645530015/video/1
+    display_url: pic.x.com/3Xcu5tQqoy
+    media_key: '13_1955254816034422784'
+attachments:
+  media_keys:
+  - '13_1955254431001481223'
+  - '13_1955254508520607744'
+  - '13_1955254595778908162'
+  - '13_1955254816034422784'
+media:
+- media_key: '13_1955254431001481223'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955254431001481223/img/G0M9zfY5kPXqBtcD.jpg
+  duration_ms: 39100
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254431001481223/vid/avc1/360x270/G8nCQTm3afMPIzQE.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254431001481223/vid/avc1/480x360/NTzWzrRKJw36AORq.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254431001481223/vid/avc1/640x480/E4kR9w_5-u0VsTOK.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955254431001481223/pl/PBpsCj768G_N4k6g.m3u8
+  public_metrics:
+    view_count: 547
+- media_key: '13_1955254508520607744'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955254508520607744/img/KvooafmTiThEvJe8.jpg
+  duration_ms: 25600
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254508520607744/vid/avc1/360x270/Ccf3jGj52osVJErn.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254508520607744/vid/avc1/480x360/ZSr9beGvqwqGedCM.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254508520607744/vid/avc1/640x480/MlzAoZFSoAfEwz7s.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955254508520607744/pl/KpnNGv4uABY2CAmv.m3u8
+  public_metrics:
+    view_count: 55
+- media_key: '13_1955254595778908162'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955254595778908162/img/OCLMo-kjsrSvbm7K.jpg
+  duration_ms: 77633
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254595778908162/vid/avc1/360x270/lsgxiznopF-ki2UX.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254595778908162/vid/avc1/480x360/qukaPM-WcADYfSbE.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254595778908162/vid/avc1/640x480/_WdKRLGG2noEkxdK.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955254595778908162/pl/AJbkgLq0hXOqpbR7.m3u8
+  public_metrics:
+    view_count: 53
+- media_key: '13_1955254816034422784'
+  type: video
+  width: 640
+  height: 480
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1955254816034422784/img/zeqslgpjqwjRkbob.jpg
+  duration_ms: 37866
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254816034422784/vid/avc1/360x270/9ZdcuZlp_Ue7ZGr7.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254816034422784/vid/avc1/480x360/ROXxG5v7lgERJAo0.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1955254816034422784/vid/avc1/640x480/YnPt5lICnlXpvaDN.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1955254816034422784/pl/0YpxiDyyDHst2iJM.m3u8
+  public_metrics:
+    view_count: 23
+referenced_tweets: []
+has_video: true
+has_image: false
+media_count: 4
+note_tweet:
+  text: "These are my four favorite clips from Eric Laithwaite's 1974 talk about \"\
+    gyroscopes\". They show two general principles.\nFirstly, a fast spinning-motion\
+    \ can turn a downward gravity force by 90-degrees sideways, just like for the\
+    \ Lorentz force of electromagnetism.\nSecondly, there is a close relation between\
+    \ off-axis precession and anti-gravity. Indeed, off-axis precession is CAUSED\
+    \ by a combination of spin and downward gravity! \nThis is not UFO levitation\
+    \ per se, but is still worth studying as background information. \nThe physicists\
+    \ of his time completely failed to understand what he was doing (like the biologists\
+    \ who ignored Gregor Mendel for 40 years). \U0001F921\nOf course, they completely\
+    \ denied that real UFOs might exist. It was a heresy. Their science was/is just\
+    \ a narrow-minded religion."

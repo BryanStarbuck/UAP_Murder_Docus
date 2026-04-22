@@ -1,0 +1,88 @@
+id: '1961213680974188998'
+url: https://x.com/RedCollie1/status/1961213680974188998
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: The friendly Emerthers replied to Carl Sagan's 1974 radio message, next to Chilbolton
+  radio telescope in England 2001. I would sometimes sit near Carl in the Caltech
+  lunchroom. How dumb would people have to be, NOT to understand this? https://t.co/T3DLRjmZwv
+created_at: '2025-08-28T23:45:53.000Z'
+lang: en
+conversation_id: '1961213680974188998'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 151
+  reply_count: 50
+  like_count: 1284
+  quote_count: 11
+  bookmark_count: 648
+  impression_count: 156412
+entities:
+  urls:
+  - start: 235
+    end: 258
+    url: https://t.co/T3DLRjmZwv
+    expanded_url: https://x.com/RedCollie1/status/1961213680974188998/photo/1
+    display_url: pic.x.com/T3DLRjmZwv
+    media_key: '3_1961213266849583104'
+  - start: 235
+    end: 258
+    url: https://t.co/T3DLRjmZwv
+    expanded_url: https://x.com/RedCollie1/status/1961213680974188998/photo/1
+    display_url: pic.x.com/T3DLRjmZwv
+    media_key: '3_1961213298868981763'
+  - start: 235
+    end: 258
+    url: https://t.co/T3DLRjmZwv
+    expanded_url: https://x.com/RedCollie1/status/1961213680974188998/photo/1
+    display_url: pic.x.com/T3DLRjmZwv
+    media_key: '3_1961213333178388482'
+attachments:
+  media_keys:
+  - '3_1961213266849583104'
+  - '3_1961213298868981763'
+  - '3_1961213333178388482'
+media:
+- media_key: '3_1961213266849583104'
+  type: photo
+  width: 1000
+  height: 1177
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzehE0NaUAAYSyx.jpg
+- media_key: '3_1961213298868981763'
+  type: photo
+  width: 1000
+  height: 2318
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzehGrfbkAMEM6-.jpg
+- media_key: '3_1961213333178388482'
+  type: photo
+  width: 585
+  height: 681
+  alt_text: null
+  url: https://pbs.twimg.com/media/GzehIrTbkAI-gj6.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 3

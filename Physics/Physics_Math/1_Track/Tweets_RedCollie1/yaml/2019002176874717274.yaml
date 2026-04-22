@@ -1,0 +1,83 @@
+id: '2019002176874717274'
+url: https://x.com/RedCollie1/status/2019002176874717274
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'RT @RedCollie1: Does everyone understand now what I am trying to build? https://t.co/fSyirHp298'
+created_at: '2026-02-04T10:56:44.000Z'
+lang: en
+conversation_id: '2019002176874717274'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 7
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+entities:
+  urls:
+  - start: 72
+    end: 95
+    url: https://t.co/fSyirHp298
+    expanded_url: https://x.com/RedCollie1/status/2019001202646942106/video/1
+    display_url: pic.x.com/fSyirHp298
+    media_key: '13_2019001060967456768'
+  mentions:
+  - start: 3
+    end: 14
+    username: RedCollie1
+    id: '1070522825646063617'
+attachments:
+  media_keys:
+  - '13_2019001060967456768'
+media:
+- media_key: '13_2019001060967456768'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2019001060967456768/img/xXojI6Y4Y_DhZeB3.jpg
+  duration_ms: 28061
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019001060967456768/vid/avc1/480x270/pWrgUOBOryHtsOUf.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019001060967456768/vid/avc1/640x360/GHIKuJozotbVw1Ie.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/2019001060967456768/vid/avc1/1280x720/3E6j-vEREAoMBN7V.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/2019001060967456768/pl/2edYisuYnbzsPjs0.m3u8?v=544
+  public_metrics:
+    view_count: 2808
+referenced_tweets:
+- type: retweeted
+  id: '2019001202646942106'
+  text: Does everyone understand now what I am trying to build? https://t.co/fSyirHp298
+has_video: true
+has_image: false
+media_count: 1

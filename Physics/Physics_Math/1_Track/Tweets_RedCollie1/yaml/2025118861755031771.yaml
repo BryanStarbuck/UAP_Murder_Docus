@@ -1,0 +1,93 @@
+id: '2025118861755031771'
+url: https://x.com/RedCollie1/status/2025118861755031771
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@realannapaulina NOW do you understand where "crop pictures" are coming from?
+
+  https://t.co/qvZs45MqHK https://t.co/JRdQ8Kn3oe'
+created_at: '2026-02-21T08:02:16.000Z'
+lang: en
+conversation_id: '2024957822170009805'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 8
+  reply_count: 8
+  like_count: 105
+  quote_count: 0
+  bookmark_count: 33
+  impression_count: 7719
+entities:
+  urls:
+  - start: 78
+    end: 101
+    url: https://t.co/qvZs45MqHK
+    expanded_url: https://www.cropcircleconnector.com/2022/Tawsmead/comments.html
+    display_url: cropcircleconnector.com/2022/Tawsmead/…
+    images:
+    - url: https://pbs.twimg.com/news_img/2025118871850729472/sEjVqrJh?format=jpg&name=orig
+      width: 750
+      height: 563
+    - url: https://pbs.twimg.com/news_img/2025118871850729472/sEjVqrJh?format=jpg&name=150x150
+      width: 150
+      height: 150
+    status: 200
+    title: Crop Circle at Tawsmead Copse, nr West Stowell, Wiltshire. Reported 28th
+      July 2022
+    description: 'Tawsmead Copse, nr West Stowell, Wiltshire. Reported 28th July A
+      new crop picture at Tawsmead Copse on July 28, 2022 shows the schematic image
+      of a “spacetime wormhole” This new crop picture at Tawsmead Copse clearly shows
+      the image of a “spacetime wormhole”, complete with a long, narrow “throat”,
+      the “curvature of spacetime”, and what might be “destination Earth”: Why did
+      they draw it near Tawsmead Copse? When viewed from above, the landscape there
+      shows a “man’s face” which is very scared or amazed. He'
+    unwound_url: https://www.cropcircleconnector.com/2022/Tawsmead/comments.html
+  - start: 102
+    end: 125
+    url: https://t.co/JRdQ8Kn3oe
+    expanded_url: https://x.com/RedCollie1/status/2025118861755031771/photo/1
+    display_url: pic.x.com/JRdQ8Kn3oe
+    media_key: '3_2025118637062062081'
+  mentions:
+  - start: 0
+    end: 16
+    username: realannapaulina
+    id: '913308968809672705'
+attachments:
+  media_keys:
+  - '3_2025118637062062081'
+media:
+- media_key: '3_2025118637062062081'
+  type: photo
+  width: 750
+  height: 563
+  alt_text: null
+  url: https://pbs.twimg.com/media/HBqqq74bgAEXS4j.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2024957822170009805'
+  text: https://t.co/heBQc62G9c
+has_video: false
+has_image: true
+media_count: 1

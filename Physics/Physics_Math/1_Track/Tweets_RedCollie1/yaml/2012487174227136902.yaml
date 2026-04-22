@@ -1,0 +1,73 @@
+id: '2012487174227136902'
+url: https://x.com/RedCollie1/status/2012487174227136902
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: "@JohnCleese This is the same religion which shoots innocent Jews on a beach.\
+  \ \nMohammed took dictation from a demon in a cave.\nThat is the Quran. It is a\
+  \ \"death cult\". https://t.co/KC9hD7DnqH"
+created_at: '2026-01-17T11:28:27.000Z'
+lang: en
+conversation_id: '2012463697332244541'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 3
+  reply_count: 4
+  like_count: 46
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 2141
+entities:
+  urls:
+  - start: 167
+    end: 190
+    url: https://t.co/KC9hD7DnqH
+    expanded_url: https://x.com/RedCollie1/status/2012487174227136902/photo/1
+    display_url: pic.x.com/KC9hD7DnqH
+    media_key: '3_2012486930211233792'
+  mentions:
+  - start: 0
+    end: 11
+    username: JohnCleese
+    id: '10810102'
+attachments:
+  media_keys:
+  - '3_2012486930211233792'
+media:
+- media_key: '3_2012486930211233792'
+  type: photo
+  width: 936
+  height: 624
+  alt_text: null
+  url: https://pbs.twimg.com/media/G-3KM05bYAAJFNM.jpg
+referenced_tweets:
+- type: replied_to
+  id: '2012463697332244541'
+  text: 'It''s death by torture
+
+
+    Hard to believe a religion would allow this https://t.co/Id7rUedSx4'
+has_video: false
+has_image: true
+media_count: 1

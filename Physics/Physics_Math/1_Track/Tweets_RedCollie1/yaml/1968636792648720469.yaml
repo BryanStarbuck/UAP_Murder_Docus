@@ -1,0 +1,77 @@
+id: '1968636792648720469'
+url: https://x.com/RedCollie1/status/1968636792648720469
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: 'This spectacular "fractal" crop picture appeared in AFTERNOON DAYLIGHT near
+  Stonehenge on July 7, 1996 in less than 15 minutes.
+
+  Motorists nearby saw a "whirlwind", which became a traffic hazard. Photos thanks
+  to Steve Alexander at Temporary Temples. https://t.co/9xGHQDkZV4'
+created_at: '2025-09-18T11:22:41.000Z'
+lang: en
+conversation_id: '1968636792648720469'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 22
+  reply_count: 17
+  like_count: 157
+  quote_count: 1
+  bookmark_count: 20
+  impression_count: 7887
+entities:
+  urls:
+  - start: 250
+    end: 273
+    url: https://t.co/9xGHQDkZV4
+    expanded_url: https://x.com/RedCollie1/status/1968636792648720469/photo/1
+    display_url: pic.x.com/9xGHQDkZV4
+    media_key: '3_1968633826122547201'
+  - start: 250
+    end: 273
+    url: https://t.co/9xGHQDkZV4
+    expanded_url: https://x.com/RedCollie1/status/1968636792648720469/photo/1
+    display_url: pic.x.com/9xGHQDkZV4
+    media_key: '3_1968633892220608512'
+attachments:
+  media_keys:
+  - '3_1968633826122547201'
+  - '3_1968633892220608512'
+media:
+- media_key: '3_1968633826122547201'
+  type: photo
+  width: 800
+  height: 533
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1H-CNraQAEtUyF.jpg
+- media_key: '3_1968633892220608512'
+  type: photo
+  width: 533
+  height: 800
+  alt_text: null
+  url: https://pbs.twimg.com/media/G1H-GD6aoAAqrOR.jpg
+referenced_tweets: []
+has_video: false
+has_image: true
+media_count: 2

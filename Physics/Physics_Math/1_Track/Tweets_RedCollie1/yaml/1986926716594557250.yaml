@@ -1,0 +1,127 @@
+id: '1986926716594557250'
+url: https://x.com/RedCollie1/status/1986926716594557250
+author:
+  id: '1070522825646063617'
+  username: RedCollie1
+  name: Red Collie (Dr. Horace Drew) scientist/inventor
+  description: 'The REAL Dr. Horace Drew or Red Collie.
+
+    Caltech, MRC LMB Cambridge.
+
+    DNA, crop pictures, E.T. codes, UFOs.
+
+    "Disclose---Evolve"'
+  profile_image_url: https://pbs.twimg.com/profile_images/1756942757334233088/-gUzNmGU_normal.jpg
+  verified: false
+  location: 'New Zealand / Japan '
+  public_metrics:
+    followers_count: 57364
+    following_count: 14101
+    tweet_count: 22024
+    listed_count: 243
+    like_count: 43538
+    media_count: 9862
+  created_at: '2018-12-06T03:38:25.000Z'
+text: '@TerraGardener_ Mercury spins in a magnetic field due to what is called a "Lorentz
+  force".
+
+  Basically we apply a strong DC current from in-to-out or vice-versa.
+
+  The "force" of that electric field gets turned by 90 degrees, to make the mercury
+  spins, because all of the nuclear and electron spin https://t.co/lI0V8dtwQi'
+created_at: '2025-11-07T22:40:19.000Z'
+lang: en
+conversation_id: '1986702532631273502'
+reply_settings: everyone
+possibly_sensitive: false
+source: ''
+public_metrics:
+  retweet_count: 1
+  reply_count: 1
+  like_count: 19
+  quote_count: 1
+  bookmark_count: 7
+  impression_count: 3584
+entities:
+  urls:
+  - start: 294
+    end: 317
+    url: https://t.co/lI0V8dtwQi
+    expanded_url: https://x.com/RedCollie1/status/1986926716594557250/video/1
+    display_url: pic.x.com/lI0V8dtwQi
+    media_key: '13_1986925638901788672'
+  - start: 294
+    end: 317
+    url: https://t.co/lI0V8dtwQi
+    expanded_url: https://x.com/RedCollie1/status/1986926716594557250/video/1
+    display_url: pic.x.com/lI0V8dtwQi
+    media_key: '13_1986926570641235970'
+attachments:
+  media_keys:
+  - '13_1986925638901788672'
+  - '13_1986926570641235970'
+media:
+- media_key: '13_1986925638901788672'
+  type: video
+  width: 960
+  height: 948
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1986925638901788672/img/8imB7YL0aT035Y1T.jpg
+  duration_ms: 25883
+  variants:
+  - bit_rate: 10368000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986925638901788672/vid/avc1/960x948/-ABcTEVkiH3Iotb9.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1986925638901788672/pl/b4-VA3Rp46NtOlJR.m3u8
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986925638901788672/vid/avc1/272x270/by0CbV1oE0ofUOy3.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986925638901788672/vid/avc1/364x360/2Tr550D8eicYO8lv.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986925638901788672/vid/avc1/728x720/laBhV9ng-CLS8IKu.mp4
+  public_metrics:
+    view_count: 1115
+- media_key: '13_1986926570641235970'
+  type: video
+  width: 1280
+  height: 720
+  alt_text: null
+  preview_image_url: https://pbs.twimg.com/amplify_video_thumb/1986926570641235970/img/TfIB3eOy8HTcrHa1.jpg
+  duration_ms: 26800
+  variants:
+  - bit_rate: 256000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986926570641235970/vid/avc1/480x270/CE6jg8NArmUeMa_e.mp4
+  - bit_rate: 832000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986926570641235970/vid/avc1/640x360/xz_0Xcs6hRCepKNg.mp4
+  - bit_rate: 2176000
+    content_type: video/mp4
+    url: https://video.twimg.com/amplify_video/1986926570641235970/vid/avc1/1280x720/XtCQSBn02rZ686if.mp4
+  - content_type: application/x-mpegURL
+    url: https://video.twimg.com/amplify_video/1986926570641235970/pl/61XmFMl2_8PfQU8u.m3u8
+  public_metrics:
+    view_count: 261
+referenced_tweets:
+- type: replied_to
+  id: '1986803955322822721'
+  text: '@RedCollie1 The reason mercury spins in a rotating magnetic field is due
+    to the day currents?'
+has_video: true
+has_image: false
+media_count: 2
+note_tweet:
+  text: 'Mercury spins in a magnetic field due to what is called a "Lorentz force".
+
+    Basically we apply a strong DC current from in-to-out or vice-versa.
+
+    The "force" of that electric field gets turned by 90 degrees, to make the mercury
+    spins, because all of the nuclear and electron spin motions "line up" north-south,
+    parallel to an applied magnetic field.
+
+    Such fast spin motions turn the electric force by 90 degree, just like for blowing
+    air onto a spinning top.'
