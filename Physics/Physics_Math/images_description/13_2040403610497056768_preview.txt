@@ -1,0 +1,52 @@
+IMAGE: 13_2040403610497056768_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Wide elevated view of the primary lab setup showing the full SEG assembly on the bench alongside a NEW printed reference diagram on the concrete floor — a significant new element not seen in prior floor-level reference documents.
+* CENTER (bench): The fully instrumented SEG assembly with approximately 9-10 large red roller magnets (phase-labeled U/V/W), extensive wire leads with yellow label tags, and the wooden dowel frame. The chrome stator cylinder and spindle are visible at center of the roller ring. White foam board base.
+* LEFT (bench surface): A white coil of wire (circular, approximately 20 cm diameter) sits on the bench left of the assembly — this is likely the Faraday pickup coil not currently deployed around the assembly.
+* ATX PSU: visible at upper left on the bench (black, with fan), same as prior frames.
+* RIGHT: The Leedskalnin chrome bowl device on its yellow base is visible at right, the same chrome-and-yellow apparatus documented in multiple prior lab views. A bright warm light source (desk lamp or workshop light) illuminates from the far right.
+* FLOOR (foreground): A printed white paper diagram sheet on the concrete floor. This is a NEW diagram not documented before — it shows:
+  - CENTER: A circular SEG schematic with a center bullseye/target pattern (two concentric circles with dot at center — representing the stator cross-section)
+  - OUTER RING: Approximately 8 large gray circular dots evenly arranged around the central circle — representing 8 roller magnets in top-view
+  - The overall layout is a clean printed (not hand-drawn) diagram of the SEG from above, showing an 8-roller single-ring configuration
+  - TEXT: Red text visible above and to the sides of the diagram (partially legible at this resolution — appears to be a title/caption)
+  - The diagram appears to be a formal printed specification or reference document, similar to the larger floor diagram documented in 13_2037339142120673280
+* ADDITIONAL PAPER (floor, lower left): A partially visible black-on-white diagram at the lower left corner — possibly showing magnetic field lines or another physics diagram (circular lines visible).
+* A wooden beam or tool handle extends from the bench toward the camera (center foreground on bench level).
+
+TEXT VISIBLE:
+* Printed diagram (floor): red text title/caption — partially legible; appears to include "Searl" or "SEG" and specification data
+* Diagram labels: too small to read at this resolution
+
+COLORS:
+* Red/maroon: roller magnet bodies
+* Yellow: label strips, wire tags
+* Chrome/silver: stator assembly center
+* White: foam board, wire coil, diagram paper
+* Gray: concrete floor, SEG diagram circles
+* Black: ATX PSU, diagram content
+* Red: printed text on floor diagram
+* Gold/yellow: Leedskalnin device base, wooden dowel posts
+
+PHYSICS CONCEPTS:
+* The printed floor diagram showing an 8-roller SEG configuration is a significant reference document — it shows a single-ring, 8-magnet roller arrangement around a concentric stator. This could represent:
+  (1) An alternative configuration to the 9-roller (3-per-phase) used in the active assembly — an 8-roller configuration does not evenly divide into 3 phases (8 = 2+3+3 asymmetric, or 4+4 for 2-phase), suggesting it might represent a different phase topology
+  (2) A reference document for a different build stage (earlier 8-roller prototype, as documented in 13_2033809814065975296 showing the ball-bearing prototype with 8 disc magnets)
+  (3) A printed reference comparison between single-ring (8-roller) and multi-ring (9-roller 3-phase) configurations
+* The circular wire coil on the bench (separate from the assembly) is the Faraday pickup coil in its stored position.
+* The Leedskalnin device at right continues as a persistent lab element — its connection to the SEG research program has not been made explicit, but it is consistently present in the lab.
+
+SPATIAL RELATIONSHIPS:
+* SEG assembly with 9-10 rollers on bench at upper center.
+* Circular wire coil on bench at left.
+* ATX PSU at upper left.
+* Leedskalnin chrome bowl device at right on yellow base.
+* Bright light source at far right.
+* Printed SEG reference diagram (8-roller) on concrete floor, foreground.
+* Partial physics diagram at lower left corner.
+* Wooden beam extending from bench toward camera.
+
+HIGH-LEVEL SUMMARY:
+Wide lab view showing the fully instrumented 9-10 roller SEG assembly on the bench (foam board base, wooden frame, ATX PSU at left, Leedskalnin device at right) alongside a newly visible printed SEG reference diagram on the concrete floor. The floor diagram shows an 8-roller single-ring SEG configuration (top view) with gray circles around a central bullseye stator, red title/caption text, and appears to be a formal printed specification document. A white Faraday pickup coil sits separately on the bench to the assembly's left. This frame adds an 8-roller configuration reference document to the documented build series.
+

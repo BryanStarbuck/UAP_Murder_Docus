@@ -1,0 +1,28 @@
+IMAGE: 13_1991043852808200192_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly completely dark/black frame with extremely faint red-purple noise texture throughout:
+  - Background: near-pure black with a faint dark red/purple-blue noise grain pattern uniformly distributed across the frame — consistent with sensor noise in an underexposed low-light camera frame.
+  - Very faint, barely distinguishable, scattered red and blue color noise speckles — these are below the detection threshold for meaningful light sources.
+  - Center-bottom: a single thin white horizontal line (approximately 35% of frame width, centered) — this appears to be a subtitle or progress bar artifact from video playback.
+  - No discernible UAP light anomalies or bright spots at any position.
+
+TEXT:
+* Center-bottom: single thin white horizontal line — likely a blank/empty subtitle bar or video scrubber position indicator.
+
+COLORS:
+* Near-black with very faint red-purple noise grain.
+* Single white horizontal line at bottom-center.
+
+PHYSICS CONCEPTS:
+* This is essentially a dead frame — a dark or blanked transition frame from the same false-color night-vision UAP documentation sequence as 13_1990929129089499136. It may represent:
+  1. A between-segment transition frame in the source video.
+  2. A moment when the camera was covered, pointed at the ground, or recording in darkness without any light sources.
+  3. A calibration or dark frame from the night-vision camera sequence (used to characterize sensor noise baseline).
+* The white subtitle/progress bar line confirms this is a video frame (from a playback or video processing workflow).
+
+SPATIAL RELATIONSHIPS:
+* Uniform near-black throughout.
+* Single white line at bottom-center.
+
+HIGH-LEVEL SUMMARY: Nearly black video frame with only sensor noise grain (faint red-purple speckle) and a single thin white horizontal line at the bottom-center (subtitle bar or video progress indicator). This is a dark/transition frame from the same false-color night-vision UAP documentation video sequence as 13_1990929129089499136 — no light anomalies are visible. Likely a between-segment transition or camera blackout moment.

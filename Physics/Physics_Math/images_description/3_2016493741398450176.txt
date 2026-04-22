@@ -1,0 +1,48 @@
+IMAGE DESCRIPTION: 3_2016493741398450176.jpg
+
+SHAPES AND TEXT:
+* White background schematic — composite propulsion device diagram
+* This is an enhanced variant of the hexagonal cage + nested rings + inner three-phase circuit schematic (similar to 3_2015529628845449216.jpg and related)
+
+Outermost layer:
+* A thin outer circle (large diameter)
+* Six solid black hemispheres/half-circles at the hexagon vertices — arranged at 60-degree intervals, positioned on the outer boundary circle (each hemisphere protrudes outward from the circle edge)
+* The six hemispheres are connected by straight line segments forming a regular hexagon
+
+Second layer (hexagon inner frame):
+* A second ring of elements inside the outer hexagon — appears to be a partial second hexagon or connecting lines
+
+Third layer (annular rings):
+* Two nested gray annular rings (stator/Galinstan layers):
+  - Outer gray ring: medium gray, gradient
+  - White gap
+  - Inner gray ring: slightly lighter gray
+* These gray rings are rendered with a three-dimensional appearance (shading/gradient on edges giving a depth effect)
+
+Central element:
+* Inside the inner gray ring: the three-phase delta circuit symbol:
+  - Equilateral triangle (pointing upward, apex at top)
+  - At each vertex: a circular symbol with an oval/loop inside (the three inductor/motor symbols)
+  - The three inductor symbols have two overlapping circles (figure-eight or double-loop) — this is slightly different from the standard inductor symbol; it appears to show three overlapping circles (trefoil/Borromean ring arrangement) consistent with 3_2015735953072259072.jpg variant
+
+TEXT: None visible.
+
+COLORS:
+* White background
+* Black for the outer hexagonal cage and hemisphere magnets
+* Two-tone gray for the nested annular rings (with depth/gradient shading)
+* Black for the inner triangle and inductor symbols
+
+PHYSICS / CONCEPTS:
+* This is an enhanced version of the core propulsion schematic with added depth/perspective rendering on the gray annular rings:
+  1. Six hemisphere magnets at hexagon vertices: 6-pole permanent magnet cage — each hemisphere = one magnet pole (alternating N/S, or all same polarity)
+  2. Two nested gray annular rings: inner stator/Galinstan fluid conductor layers — the depth shading suggests these are physically thick (3D) rings, not just flat circles
+  3. Inner Δ three-phase circuit with double-loop inductor symbols: the double-loop at each vertex may encode:
+     - A bifilar winding (two parallel conductors wound together — Tesla's resonant circuit enhancement)
+     - Two counter-rotating current components in the same coil
+     - A two-pole coil (each coil generates both N and S pole field elements)
+  4. The depth shading on the gray rings implies physical structure — these are not idealized 2D symbols but represent actual machined rings with wall thickness
+* The combination of all three layers (permanent magnet cage + conducting rings + three-phase circuit) in a single diagram is the most complete cross-section of the proposed disc propulsion system
+
+SUMMARY:
+Enhanced disc propulsion cross-section schematic showing: (1) six solid-black hemisphere magnets at hexagonal vertices connected by straight lines, (2) two nested gray annular rings with depth/gradient shading (stator/Galinstan layers rendered in 3D perspective), and (3) central equilateral triangle with double-loop inductor symbols at each vertex (three-phase delta winding with bifilar coil representation). This is the most complete single cross-section of the disc propulsion system — all three structural layers present with three-dimensional depth rendering on the conducting rings.

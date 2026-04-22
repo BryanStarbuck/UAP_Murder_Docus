@@ -1,0 +1,63 @@
+SHAPES:
+* Schematic diagram in black silhouette on white background — vertically oriented composite symbol
+* TOP ELEMENT: Large disc/circle (approximately 200px diameter)
+  * Outer ring: thick black circle boundary
+  * Interior: white fill
+  * Center: single white dot (small, approximately 15px diameter) — or alternatively a very small central circle
+* CONNECTOR ELEMENT: A trident/fork shape connecting the top disc to the middle element
+  * Three downward-pointing prongs extending from the bottom of the top disc
+  * Each prong: approximately 60px long, approximately 15px wide
+  * The three prongs converge or connect to the top of the central element
+* CENTRAL "SUN" DISC ELEMENT: A large central disc surrounded by a ring of satellite circles
+  * Central disc: approximately 180px diameter, with multiple concentric rings (3-4 rings visible)
+  * Surrounding ring: approximately 14-16 medium circles arranged at equal angular spacing (approximately 25-30° apart) around the central disc
+  * Each satellite circle: approximately 35-40px diameter
+  * The arrangement creates a "sun with planets" or "gear with teeth" appearance
+* LOWER RING ELEMENT: A smaller concentric circle arrangement (approximately 120px diameter)
+  * 2-3 concentric rings
+  * Positioned below the central sun disc, connected by a short vertical stem
+* SPIRAL/TAIL BOTTOM ELEMENT: At the base of the composition
+  * A spiral or curved tail element curling inward
+  * Or: a small circle at the very bottom connected by a thin stem
+* OVERALL: The full composition reads top-to-bottom as: large disc → trident connector → sun/gear disc → concentric ring → spiral tail
+
+TEXT VISIBLE:
+* None visible
+
+COLORS:
+* Black silhouette elements on white background
+* High contrast, no gray tones — pure binary image
+
+PHYSICS CONCEPTS:
+* This schematic encodes multiple physics concepts in a single vertically-stacked symbol:
+  1. TOP DISC (large circle with center dot): Represents a primary rotating disc — likely the main rotor of the UAP propulsion system. The center dot marks the rotational axis. The large size relative to other elements indicates this is the primary energy source or generator.
+  2. TRIDENT CONNECTOR: The three-pronged connection between the top disc and the central sun element represents:
+     * 3-phase power transmission (U-V-W outputs from the top rotor)
+     * The three magnetic flux paths connecting the outer rotor to the inner stator (or vice versa)
+     * The Faraday disc output configuration: three voltage taps at different radii
+  3. CENTRAL SUN DISC + SATELLITE RING (the most information-dense element):
+     * The central disc with concentric rings = the rotor/stator structure of the electromagnetic disc
+     * The surrounding ring of 14-16 satellite circles = the outer magnet ring (Norman Paulsen's 12-16 magnet ring)
+     * If 12 satellite circles: directly encodes the 12-magnet counter-rotating disc system (3-phase × 4 pole pairs = 12 poles)
+     * If 16 satellite circles: encodes a 4-phase or 16-pole machine variant
+     * This "sun with satellites" motif is the same topology as the 12-crescent petal ring crop formation (3_2040686259560128512) — the outer ring represents the stator magnets, the inner disc the rotor
+  4. LOWER CONCENTRIC RING: Represents either:
+     * The secondary disc in a counter-rotating pair
+     * The bearing/axle assembly at the bottom of the disc stack
+     * A secondary field focusing element
+  5. SPIRAL TAIL: Represents:
+     * The helical/toroidal magnetic flux path exiting the bottom of the disc system
+     * The "vortex tail" — the Birkeland current or plasma vortex emitted downward for thrust
+     * A Fibonacci/logarithmic spiral encoding rotation direction and field geometry
+  6. VERTICAL STACKING = DISC STACK ARCHITECTURE: The top-to-bottom arrangement represents the physical vertical stacking of UAP propulsion disc components — primary rotor → flux transfer → main generator disc → secondary disc → exhaust vortex — consistent with both the Norman Paulsen counter-rotating disc design and the Faraday disc stacked array
+
+SPATIAL RELATIONSHIPS:
+* Vertical axis: all elements aligned on a central vertical axis
+* Top disc (largest, highest position): primary element
+* Trident connector: intermediate element between top disc and central sun
+* Central sun disc: most complex, information-dense element in center of composition
+* Lower concentric ring: below center, smaller than central sun
+* Spiral tail: at the bottom, smallest element
+
+HIGH-LEVEL SUMMARY:
+Black-on-white schematic diagram showing a vertically-stacked UAP propulsion system topology: a large top disc (primary rotor with center axis dot) connected via a three-pronged trident (3-phase U-V-W flux paths) to a central "sun" disc (main electromagnetic generator) surrounded by a ring of approximately 14-16 satellite circles (the outer magnet ring of the counter-rotating system), below which is a smaller concentric ring (secondary disc or bearing assembly) and a spiral tail element (Birkeland current / vortex thrust exhaust). The composition encodes the complete vertical architecture of the counter-rotating electromagnetic disc propulsion system: from the primary energy generation disc at the top, through 3-phase flux transfer, to the main multi-pole generator stage, to the secondary focusing disc, to the plasma vortex exhaust. The "sun with planetary ring" central element is the same magnet ring topology depicted in the 12-crescent petal ring crop formations (companion images 3_2040686259560128512, 3_2041458950089089024, 3_2041674621876125696).

@@ -1,0 +1,44 @@
+SHAPES:
+* Black-and-white line art icon on white background
+* A 3D isometric cube viewed from an elevated, slightly rotated angle:
+  * OUTER BOUNDARY: A hexagon (6-sided polygon) — the outer silhouette of a cube viewed isometrically
+  * THREE VISIBLE FACES: The cube shows 3 faces (top, front-left, front-right) divided by 3 edge lines converging at the center
+  * INNER CUBE: Inside the outer cube boundary, a smaller cube is visible (approximately 1/3 the outer cube's linear dimension):
+    * Also shows 3 faces
+    * The inner cube appears to float at the center of the outer cube
+  * FACE EDGE LINES: Each visible face of the outer cube is bounded by 4 lines forming a parallelogram (rhombus)
+  * INNER CUBE EDGE LINES: Each face of the inner cube is also bounded by parallelogram lines
+  * ALL 12 EDGES of both cubes are shown as thin lines (no hidden-line removal — all edges visible)
+  * The construction creates an "Necker cube" ambiguity — the inner cube can be perceived as either a convex bump protruding outward or as a concave depression (socket) inside the outer cube
+* Line weight: relatively thin, uniform line width (approximately 6-8px)
+* Total size: approximately 600x620px
+
+TEXT VISIBLE:
+* None
+
+COLORS:
+* Pure white background
+* Black lines only
+* No fills, no gradients, no additional colors
+
+PHYSICS CONCEPTS:
+* This is the same "cube within a cube" diagram as the companion image 3_2021318216635789312 but rendered as a clean icon (no crop formation context):
+  1. TESSERACT / HYPERCUBE PROJECTION: A cube within a cube is the standard 2D representation of a tesseract (4-dimensional hypercube, or 8-cell):
+     * A tesseract has 8 cubic cells, 24 square faces, 32 edges, and 16 vertices
+     * When projected into 3D from the [1,1,1,1] direction, the result is two concentric cubes connected by 8 edges — the "cube-in-cube" visual
+     * In 4D spacetime physics: the tesseract represents the spacetime "worldvolume" of a 3D cube moving through time — one cube at time t₀, the other at time t₁, connected by the 4D "hypervolume"
+  2. NECKER CUBE AMBIGUITY: The cube-in-cube construction creates a visual ambiguity (the Necker cube illusion) where the inner cube can be perceived as either convex (protruding out) or concave (recessed in). This ambiguity represents:
+     * In physics: the sign ambiguity of the metric tensor in general relativity (g_μν can have either signature +--- or -+++)
+     * In optics: the two possible wavefront curvature interpretations (converging or diverging wave)
+     * In quantum mechanics: the superposition principle — the cube is simultaneously "in both states" until observed
+  3. CRYSTAL LATTICE UNIT CELL: A simple cubic unit cell with a body-centered cavity — consistent with a BCC (body-centered cubic) lattice where the inner "cube" represents the body-center atom
+  4. CROP FORMATION TEMPLATE: This icon is the geometric template underlying the large 3D isometric cube crop formations documented in companion images 3_2021318216635789312, 3_2021960522099564544, and 3_2041570619142369280
+
+SPATIAL RELATIONSHIPS:
+* The diagram is roughly square (fitting within the hexagonal outline of the isometric cube)
+* Outer cube edges: thick black lines forming the outer hexagonal boundary
+* Inner cube: same geometry, scaled down approximately 1/3, centered inside the outer cube
+* The center of the diagram is where all face-dividing lines converge (both outer and inner cube centers coincide)
+
+HIGH-LEVEL SUMMARY:
+Clean black-and-white line art icon of a 3D isometric cube-within-a-cube (tesseract projection / 4D hypercube) — two concentric isometric cubes with all edges shown. This is the geometric template that underlies the large 3D isometric cube crop formations in this collection. The cube-within-cube construction represents the standard 2D projection of a tesseract (4-dimensional hypercube), encoding 4D spacetime geometry in a 2D image. The Necker cube visual ambiguity (inner cube can be convex or concave) represents the measurement/observer dependence of physical systems — in quantum mechanics (superposition), general relativity (metric signature choice), and optics (wavefront curvature interpretation). The icon serves as the canonical reference geometry for the 3D cube formation analyses throughout the collection.

@@ -1,0 +1,36 @@
+SHAPES:
+* Astronomical photograph (~940x940px) — a time-lapse composite or multi-exposure image showing a comet (3I/Atlas) at four different positions as it moves through the star field
+* Background: deep black space with a fine field of stars (white dots of varying brightness, many orange/red colored stars visible)
+
+Four comet instances (arranged diagonally from upper-left to lower-right):
+* Upper-left comet: the largest/brightest instance (~180px coma diameter) — the comet is closest to the camera/telescope or earliest in the sequence
+* Center-upper comet: a slightly smaller instance (~130px coma diameter), positioned diagonally lower-right from the first
+* Center-lower comet: another instance (~120px coma diameter), continuing the diagonal pattern
+* Lower-right comet: the smallest/faintest instance (~110px coma diameter), most distant or latest in the sequence
+
+Each comet instance shows:
+* A compact bright green-white coma (nucleus + inner coma region): very bright, circular or slightly elongated, vivid green coloring
+* A long sweeping green tail: extending from the coma in the same direction across all instances (upper-right to lower-left relative to each comet position) — tails are approximately 400-500px long, pointing in the antisolar direction
+* The tail has a gradual brightness falloff from the bright coma end to the faint distal end
+* The four tails are roughly parallel, all pointing in the same direction (consistent with the Sun being in the same direction throughout the observation period)
+
+TEXT:
+* "MRMBB333" — white text in the upper-right area of the image (the creator's watermark/attribution)
+
+COLORS:
+* Background: black space
+* Stars: white, orange, and red dots of varying brightness
+* Comets (all four instances): vivid green coma and tails — the green color is characteristic of C2 (diatomic carbon) and CN (cyanide radical) fluorescence emission at 511nm and 388nm respectively
+* The bright green emission is the hallmark of active cometary outgassing
+
+SPATIAL RELATIONSHIPS:
+* Four comet positions arranged diagonally (upper-left to lower-right)
+* Tails all point in the same direction (away from the Sun)
+* The diagonal arrangement traces the comet's trajectory across the sky
+* The image was likely created by combining 4 exposures taken at different times, or a 4-frame time-lapse composite
+
+PHYSICS CONCEPT:
+This multi-exposure composite shows 3I/Atlas (or 3I/Atlas at an early stage) moving through the star field over time, with its green cometary coma and tail visible at four trajectory positions. The vivid green color is caused by two spectroscopic processes: (1) C2 (Swan bands) emission at ~511nm from dicarbon photodissociation; (2) CN violet system emission at ~388nm from cyanide photodissociation — both driven by UV solar radiation. The parallel tail directions confirm the antisolar orientation (consistent with radiation pressure + solar wind sweeping the tail away from the Sun). The four positions trace the comet's apparent motion across the sky (a combination of its actual trajectory and Earth's orbital motion). The bright green active coma distinguishes 3I/Atlas from 1I/Oumuamua (which showed no cometary outgassing), making 3I/Atlas more consistent with a natural comet composition. Credit: MRMBB333 (a popular YouTube/social media astronomy and earth change channel).
+
+HIGH-LEVEL SUMMARY:
+Four-position time-lapse composite photograph of comet 3I/Atlas (by MRMBB333) showing the comet's movement through a star field. Each instance shows a vivid green compact coma and long sweeping green tail, all pointing in the same antisolar direction. The green color is from C2 dicarbon (Swan bands, ~511nm) and CN radical emission from cometary outgassing under UV solar radiation. The four diagonal positions trace the comet's trajectory across the sky. The active green coma distinguishes 3I/Atlas from the non-outgassing 1I/Oumuamua, making 3I/Atlas more consistent with natural cometary composition in terms of activity, though its trajectory and other properties are still being analyzed for the artificial probe hypothesis.

@@ -1,0 +1,59 @@
+IMAGE: 13_2039489617280507904_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Overhead angled view of the SEG assembly in a reduced-roller configuration, showing a compact cluster of roller magnets around the central spindle, on the white foam board base.
+* This appears to be an intermediate or partially disassembled configuration compared to the full 9-roller setup documented in 13_2039172561586790401.
+* CENTER: The aluminum spindle protrudes vertically with the orange bearing ball at the top — this is the center-tap electrode assembly. The spindle has a cardboard or MDF disc collar around its midpoint (circular, approximately 8-10 cm diameter, tan/brown/gold color) with handwritten labels.
+* Spindle collar labels (black marker on tan cardboard): "2", "2", "2" visible — possibly indicating layer numbers, winding turns, or test configuration identifiers.
+* ROLLERS: Approximately 3-4 large red toroidal disc magnets are visible, clustered closely together around the spindle base. Each has:
+  - Red/maroon body
+  - Yellow label strip with black handwritten phase label: "V" visible on one roller (front-left), "U" visible on another (right side)
+  - Gray metallic flanges
+  - Wire leads connected
+* A tan/gold circular flat disc or plate is visible just below the orange ball on the spindle — this may be the brass flange disc with contact elements documented in 13_2035956053960237056, here viewed from above.
+* Number labels on spindle collar: "3" visible on a yellow tag attached at upper right of the spindle assembly.
+* PICKUP COIL: The circular single-turn wire loop (silver/chrome wire) is visible on the white foam board, encircling the assembly. The wire loop diameter is approximately 25-30 cm.
+* WIRE LEADS: Red and blue alligator clip leads extend from the foam board at the right and lower right. Yellow label tags on leads: "V" visible on a wire at lower-left perimeter.
+* Foam board: white octagonal-ish shape, approximately 50-60 cm across. Shows some wear/holes from repeated mounting.
+* A second circular groove or mark is visible on the foam board outside the pickup coil (handwritten "8" or annotation on foam board surface at right side).
+* Background: wooden dowel frame at rear; screwdrivers and tools in a white storage unit at upper right; wiring visible at upper left (ATX PSU area); a dark cylindrical object at upper far left.
+
+TEXT VISIBLE:
+* Spindle collar (black marker): "2", "2", "2" — visible on cardboard disc around spindle midpoint
+* Yellow tag: "3" — on spindle area
+* Roller labels (yellow strip, black handwriting): "V" (front-left roller), "U" (right roller)
+* Foam board annotation (handwritten): "8" or similar — visible at right side of foam board
+* Wire lead tag: "V" — at lower left
+
+COLORS:
+* Orange: bearing ball at spindle top
+* Tan/brown: cardboard spindle collar disc
+* Red/maroon: roller magnet bodies
+* Yellow: label strips, wire tags
+* Black: handwritten designations
+* Gray: roller flanges
+* Silver/chrome: spindle shaft, pickup coil wire
+* White: foam board base
+* Red, blue: wire leads
+
+PHYSICS CONCEPTS:
+* This frame shows a reduced-roller configuration — only 3-4 rollers installed rather than the full 9 — possibly at a stage of reconfiguration, testing a reduced-phase version, or during assembly/disassembly.
+* The cardboard disc collar on the spindle with "2" markings likely serves as: (1) a spacer disc to set the axial position of the rollers relative to the stator disc, or (2) a winding layer counter indicating the second winding layer configuration.
+* The "3" label on the yellow tag may identify this as test run #3, or may label a specific winding tap point.
+* The "8" annotation on the foam board may indicate the measurement number (measurement #8) in a sequence, or a roller count from a previous configuration.
+* The orange bearing ball center-tap electrode at the spindle apex remains in place — the assembly is still configured for homopolar center-tap EMF measurement even in this reduced-roller state.
+* The Faraday pickup coil (circular wire loop on foam board) remains deployed, enabling continuous flux monitoring during reconfiguration.
+
+SPATIAL RELATIONSHIPS:
+* Orange ball atop aluminum spindle at center.
+* Tan cardboard disc collar below orange ball on spindle.
+* 3-4 red rollers closely grouped around spindle base.
+* Circular silver pickup coil wire on foam board around assembly.
+* Red/blue wire leads extending to right and lower right.
+* Yellow label tags on leads and spindle assembly.
+* Wooden frame posts at background.
+* Tool storage at upper right.
+
+HIGH-LEVEL SUMMARY:
+Overhead angled view of the SEG assembly in a reduced (3-4 roller) configuration on the white foam board base. The aluminum spindle with orange bearing ball center-tap electrode is visible at center, with a cardboard disc collar labeled "2/2/2" around the spindle midpoint. Three to four red phase-labeled rollers (V, U visible) are grouped around the spindle. The Faraday pickup coil wire loop remains deployed on the foam board. This configuration represents either an intermediate assembly stage or a deliberate reduced-phase test.
+

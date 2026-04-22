@@ -1,0 +1,49 @@
+SHAPES:
+* Black-on-white technical physics diagram (~600x600px) — a circular disc with labeled radii, current flow arrows, and electrical measurement labels
+
+Primary element:
+* A large CIRCLE (~540px outer diameter) outlined in black (not filled) representing a conducting disc viewed from above (top-down plan view)
+* Inside the disc:
+  - An inner circle (~140px diameter) at the exact center, outlined in black and labeled "R₁" with a horizontal arrow pointing from the center to the edge of the inner circle
+  - A larger implied radius labeled "R₂" — a diagonal line from approximately center to the outer disc edge, with the label "R₂" at the outer end
+  - Three CONCENTRIC ARCS of varying radii (approximately R=200px, R=280px, R=360px) within the outer disc area, each drawn with a downward-curving arrow at its left terminus — indicating CURRENT FLOW directions (currents flowing radially inward with clockwise circulation)
+  - The arcs with arrows suggest rotating or spiral current flow paths on the disc surface
+
+Labels and annotations:
+* "R₁" — inner circle radius label (center)
+* "R₂" — outer disc radius label (toward outer right edge)
+* "voltage taps" — label to the RIGHT of the inner circle, pointing to 5 small crossed-circle symbols (~12px each) arranged horizontally in a row just outside the inner circle's right edge
+  - The 5 crossed-circle symbols represent electrical measurement tap points (⊗ = conventional current flowing INTO the page, or voltmeter connection points)
+* "I_in" — label at lower-left with a downward arrow = input current
+* "I_out" — label at lower-center with a downward arrow = output current
+
+Overall structure:
+* The diagram represents a HOMOPOLAR GENERATOR (Faraday disc generator) or UNIPOLAR INDUCTION device:
+  - A conducting disc of inner radius R₁ and outer radius R₂
+  - Current I_in enters at the outer rim, spirals inward through the conducting disc, and exits as I_out at the inner hub (or vice versa)
+  - The curved arcs represent the current flow lines in a rotating disc in a magnetic field
+  - Voltage taps measure the EMF generated between the inner and outer radii
+
+TEXT (verbatim):
+* "R₁" (center)
+* "R₂" (right side, outer radius label)
+* "voltage taps" (right side, with bracket pointing to ⊗ symbols)
+* "I_in" (lower left)
+* "I_out" (lower center)
+
+COLORS:
+* All elements: black on white
+* No color coding
+
+SPATIAL RELATIONSHIPS:
+* Large disc fills the frame
+* Small inner circle at center with R₁ label
+* Three concentric arcs span from near inner circle to near outer rim, with arrows
+* Voltage taps just outside inner circle right edge
+* I_in at lower-left, I_out at lower-center, both with downward arrows
+
+PHYSICS CONCEPT:
+This is a textbook diagram of a HOMOPOLAR GENERATOR (also called a unipolar generator or Faraday disc). The Faraday disc is the simplest generator: a conducting disc of radius R₁ (inner hub) to R₂ (outer rim) rotating with angular velocity ω in an axial magnetic field B (perpendicular to the disc plane). The Lorentz force on free electrons in the rotating disc is F = qv × B = qωrB (radially outward for B upward and ω counterclockwise), creating a radial EMF: ε = ∫₀^R₂ ωrB dr = ½ωBR₂². Current flows radially from hub to rim (or rim to hub) depending on orientation, completing the circuit through external connections I_in and I_out. The voltage taps at multiple radial positions allow measurement of the radial EMF distribution. The significance in UAP propulsion physics: (1) The homopolar generator is the only DC electrical machine without commutator — it produces smooth DC at any speed; (2) In scaled-up form with superconducting magnets, the homopolar generator can produce extremely high current at low voltage — the power profile needed for pulsed electromagnetic propulsion; (3) Bruce DePalma's "N-machine" (a counter-rotating homopolar generator) claimed to produce over-unity output by capturing Faraday disc EMF in both the disc and the magnet simultaneously — a claimed "free energy" mechanism disputed by mainstream physics but relevant to UAP energy source research; (4) The homopolar motor (inverse of generator) driven by external current produces a radial Lorentz force that creates rotational torque — when applied to a conducting disc in a strong axial B field, this is the rotating disc drive mechanism at the heart of the "spin and counter-spin" UFO propulsion hypothesis.
+
+HIGH-LEVEL SUMMARY:
+Black-on-white technical diagram (~600x600px) of a homopolar generator (Faraday disc) — a conducting disc with inner radius R₁ and outer radius R₂ in an axial magnetic field. Three concentric arcs with clockwise current-flow arrows show the radial current path between rim (I_in) and hub (I_out). Voltage taps (5 measurement points ⊗) positioned just outside the inner hub measure the radial EMF distribution. The homopolar generator is the core device in UAP propulsion research: DePalma's "N-machine" (over-unity counter-rotating Faraday disc), Bruce Cathie's UFO electromagnetic propulsion model, and the rotating conducting disc at the center of the "spin and counter-spin" UFO flight mechanism (see 3_1978590514363654144). This diagram provides the classical electrodynamics foundation (Faraday/Lorentz) for RC's UFO propulsion thesis.

@@ -1,0 +1,52 @@
+IMAGE DESCRIPTION: 3_2018794009490292736.jpg
+
+SHAPES AND TEXT:
+* Black-and-white circular emblem / schematic on white background
+* Outer boundary: two concentric circles (outermost ring then a slightly smaller ring), creating a narrow black annular outer rim
+* Inner disc: predominantly black background
+
+Structure (from exterior to center):
+1. Outer annular zone (between outer ring and meander ring): black background containing ~20 radiating feather/blade shapes in white. The blades fan upward and outward from roughly the 8 o'clock to 4 o'clock positions (upper hemisphere). Each blade:
+   - Has a central midrib line (black line down the center)
+   - Has 2-3 small circular dots arranged in a row along the midrib (reminiscent of coil position markers)
+   - The two outermost blades on each side are smaller and angled more horizontally
+   Total blades: approximately 16-18 visible, arranged symmetrically
+
+2. Meander ring (Greek key / fret pattern): immediately interior to the feather blades. A full annular band of continuous right-angle step/spiral meander pattern — classic Greek key motif rendered in fine black-and-white linework. This meander ring encircles the lower two-thirds of the disc and connects the blade root zones on left and right.
+
+3. Fan / grid element (upper center): between the feather blades and the inner disc, a semicircular white fan with a grid overlay:
+   - Multiple concentric arcs (approximately 4-5) forming a partial hemisphere
+   - Radial lines crossing the arcs to create a grid/sector pattern
+   - This grid element sits directly above the central face motif
+
+4. Central motif (inner disc): a face-like or skull-like figure rendered in Aztec/Mesoamerican style:
+   - Circular head with round eye sockets (two black dots)
+   - Cross/plus symbol inscribed in the head (horizontal and vertical lines crossing at center of face = four-quadrant division)
+   - Below the face: two small wing or bracket shapes extending left and right (like a winged element)
+   - Below the wings: a downward-pointing triangle or chevron with step-pyramid internal structure (nested rectangles/steps converging to a point)
+   - The overall central motif resembles a death mask or sun deity face from Aztec iconography
+
+TEXT: No text present.
+
+COLORS: Black and white only. Pure binary rendering.
+
+PHYSICS / CONCEPTS:
+* This is a schematic/symbolic representation of the Quetzalcoatl / Aztec sun disc motor encoding, presented as a clean black-and-white vector graphic (no photographic crop field):
+  1. Feather blades: each blade with dots represents stator coil positions. ~16-18 blades = stator coil slots arranged in an annular pattern. The dots on each blade mark the wire coil bundle positions within each stator slot — the standard representation used in electric motor cross-section diagrams
+  2. Meander ring: same Greek key / meander pattern as seen in the actual crop formation analysis (3_2018107509828177920.jpg). In the motor encoding, this represents the rotor path ring — the circular track along which magnetic flux rotates
+  3. Fan/grid (upper semicircle): represents the interaction region between rotor and stator — the air gap geometry. The radial grid lines suggest the angular coordinate system of a rotating machine; the concentric arcs represent flux tubes at different radii
+  4. Central face with cross: the quadrant cross (four-quadrant division of the center) = a two-pole/two-phase motor hub topology. The skull/death deity face in Aztec tradition often represents Tonatiuh (sun god) or Mictlantecuhtli (death god) — in this context, the central cross encodes the four magnetic poles of an axial-flux motor hub
+  5. Downward triangle with step pyramid: the nested-step triangle below the face is the step-pyramid representation of the Aztec pyramid — but in electromagnetic encoding it maps to a delta (Δ) wiring topology or a potential well (energy minimum at the triangle apex)
+  6. Wing elements flanking the face: small symmetrical wings = the "field propagation" symbols (outgoing electromagnetic field from the motor hub)
+
+* The complete emblem encodes an axial-flux motor in plan view:
+  - Stator: feather blades with coil dots (outer ring)
+  - Flux coupling zone: meander ring (mid ring)
+  - Air gap geometry: fan/grid (upper sector)
+  - Rotor hub: central face with cross (four-pole inner rotor)
+  - Field topology: delta triangle + wings
+
+* This is the "pure schematic" version of the Quetzalcoatl encoding — stripped of color and photographic crop field context, rendered as a clean emblem for technical analysis. Compare to 3_2018107424721575936.png (aerial photograph version) and 3_2018107509828177920.jpg (black-and-white schematic with annotations).
+
+SUMMARY:
+Black-and-white circular emblem showing the Quetzalcoatl headdress motor schematic in clean vector-art form: ~16-18 feather blades with coil-position dots (stator), a meander ring (rotor path), a semicircular fan/grid (air gap geometry), and a central Aztec face with quadrant cross and downward step-pyramid triangle (rotor hub with four-pole delta topology). This is the "diagram" version of the Quetzalcoatl encoding — same structure as the actual 1999 Chilbolton-area crop formation, confirming the formation encodes a complete axial-flux three-phase motor geometry.

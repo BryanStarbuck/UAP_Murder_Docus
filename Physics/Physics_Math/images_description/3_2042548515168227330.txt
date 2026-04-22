@@ -1,0 +1,53 @@
+SHAPES:
+* Aerial crop formation photograph — very low altitude or near-oblique view, showing the formation partially foreshortened
+* FIELD: Very pale golden/cream/straw field — fully ripe grain (near-white in some areas due to lighting angle)
+* The formation appears nearly circular, occupying most of the image (approximately 500px diameter)
+* OUTER BOUNDARY: A clean circular outer edge defining the formation boundary
+* OUTER RING (MEANDER SECTION): Around the outer portion of the formation
+  * Greek key / meander / step-pattern elements visible — multiple stepped-frame shapes (L-shapes and U-shapes) arranged around the outer ring
+  * The elements appear in the outer approximately 80-100px annulus
+  * Counted approximately: 8-10 meander elements visible (the formation edges and foreshortening may obscure the rest)
+  * The meander elements appear as slightly recessed areas (flattened crop) creating the stepped pattern against the standing outer crop ring
+* INNER DISC (CONCENTRIC RING SECTION):
+  * The inner approximately 320px diameter area shows dense concentric rings
+  * Multiple concentric rings (approximately 8-10) visible, alternating slightly different shades
+  * The rings create a "tree cross-section" or "vinyl record" appearance
+  * The rings are continuous and approximately evenly spaced (approximately 15-20px spacing)
+* BISECTING LINE: A prominent horizontal line crosses the inner disc from left to right, approximately at the equator
+  * This line appears to be a standing crop pathway — a straight band of slightly-standing or differently-oriented crop
+  * The line corresponds to the "bisecting line" seen in the digital schematic version (3_2042548459346235395)
+* TRACTOR TRAMLINES: Visible at the top of the image as parallel horizontal lines in the standing grain outside the formation
+* CENTER: A small tight rosette or central convergence point visible at the exact center of the concentric rings
+
+TEXT VISIBLE:
+* No text visible
+
+COLORS:
+* Field: very pale cream/straw (near-white ripe grain)
+* Formation interior: slightly darker cream/golden — the contrast is subtle
+* The entire image has a pale, high-key, nearly monochromatic cream/gold palette
+* Tractor tramlines: appear as slightly brighter parallel bands
+
+PHYSICS CONCEPTS:
+* This is the aerial photograph of the same formation shown in the schematic pair 3_2042548439322628097 and 3_2042548459346235395 — viewed from above at a lower altitude / slightly oblique angle:
+  1. GREEK KEY OUTER RING CONFIRMATION: The outer meander ring is physically instantiated in the crop — the stepped pattern is visible around the outer annulus, confirming that the formation maker was intentionally encoding the toroidal coil winding cross-section geometry
+  2. CONCENTRIC INNER RINGS: This photograph shows the inner concentric ring structure in detail not visible in the higher-altitude photograph:
+     * The 8-10 concentric rings represent the radial structure of the Faraday disc / homopolar generator
+     * Each ring = a voltage equipotential surface: V(r) = ½ωBr² for uniform B-field
+     * The even spacing of the rings indicates a specific radial voltage gradient (equally-spaced equipotentials → uniform electric field in the radial direction → uniform dV/dr)
+     * For uniform B-field in a Faraday disc, V(r) ∝ r² (quadratic), so equally-spaced equipotentials would require non-uniform B-field — this may encode a specific B-field profile that produces linear V(r) radial distribution, i.e., B(r) ∝ 1/r (a "solenoid-geometry" radial field)
+  3. BISECTING LINE: The horizontal pathway through the inner disc remains visible in this closer photograph:
+     * Confirms the structural division of the inner disc into two half-planes
+     * In the Faraday disc context: the two halves represent the two poles of the current flow (radially outward vs. radially inward, or the two sliding contact brush positions)
+  4. COMBINED SYSTEM: The three images (3_2042548439322628097, 3_2042548459346235395, 3_2042548515168227330) present the same formation at three different scales/interpretations — physical aerial (high altitude), digital schematic, physical aerial (lower altitude detail) — following the standard teaching methodology of this formation collection
+
+SPATIAL RELATIONSHIPS:
+* Outer boundary: circular, approximately 500px diameter
+* Outer meander ring: outermost approximately 80-100px annulus
+* Inner concentric ring disc: inner approximately 320px diameter
+* Bisecting horizontal line: crosses the inner disc at the equator
+* Central rosette: exact geometric center
+* Tractor tramlines: visible in standing crop at top of image outside formation
+
+HIGH-LEVEL SUMMARY:
+Low-altitude aerial photograph of the same crop formation depicted in companion images 3_2042548439322628097 (high-altitude aerial) and 3_2042548459346235395 (digital schematic) — showing a circular formation in very pale ripe grain with an outer ring of Greek key / meander step-pattern elements (toroidal coil winding cross-sections) surrounding a dense system of 8-10 concentric rings (Faraday disc radial voltage equipotentials), bisected by a horizontal standing-crop pathway (brush contact boundary / counter-rotation interface), with a central rosette at the exact center (rotation axis). This closer view reveals that the concentric rings are evenly spaced — which, if V ∝ r² for uniform B-field, would imply a non-uniform B(r) ∝ 1/r field profile producing a linear radial voltage distribution. The three-image set (high-altitude aerial, digital schematic, close-up aerial) constitutes a pedagogical sequence presenting the same electromagnetic machine cross-section at multiple levels of detail and interpretation.

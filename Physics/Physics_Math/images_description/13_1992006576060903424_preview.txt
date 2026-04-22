@@ -1,0 +1,38 @@
+IMAGE: 13_1992006576060903424_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Text-only slide on white background with bold colored text:
+  - Black letterbox bars at left and right (approximately 10% width each).
+  - Central white field with multi-color large bold text arranged in 5 lines.
+* No diagrams, apparatus, or other graphical elements.
+
+TEXT:
+* Line 1: "A big" (bold black italic)
+* Line 2: "capacitor" (bold blue italic)
+* Line 3: "can change the" (bold black italic)
+* Line 4: "spin-direction of" (bold black italic)
+* Line 5: "a Corbino disc with" (bold black italic)
+* Line 6: "11 kV AC power" (bold green italic)
+
+Full text: "A big capacitor can change the spin-direction of a Corbino disc with 11 kV AC power"
+
+COLORS:
+* "capacitor": bold blue.
+* "11 kV AC power": bold green.
+* All other text: bold black.
+* Background: white.
+* Side bars: black.
+
+PHYSICS CONCEPTS:
+* This slide introduces a critical experimental claim about Corbino disc (homopolar motor) spin direction control via high-voltage capacitive power:
+  1. **Corbino disc**: Also called a Faraday disc, the Corbino disc is a flat conducting disc with current flowing radially from center to rim (or rim to center) while embedded in an axial magnetic field. The resulting Lorentz force F = IL × B produces tangential torque, causing rotation. In the standard Corbino geometry, current flows radially while the magnetic field is axial, making the entire disc the "motor armature."
+  2. **Spin direction reversal via capacitor**: The claim that "a big capacitor can change the spin-direction" refers to using capacitive energy storage to reverse the polarity or phase of the drive current — when a charged capacitor discharges through the disc in the opposite radial direction, the Lorentz force reverses and the disc spins in the opposite direction.
+  3. **11 kV AC power**: Operating the Corbino disc with 11 kilovolt AC (alternating current) power introduces an alternating current through the disc. With AC at 11 kV, the current direction reverses with each half-cycle, producing alternating spin direction attempts. However, with a large capacitor in the circuit, the phase relationship between current and voltage can be tuned to favor one spin direction over the other.
+  4. **UAP propulsion relevance**: In the UAP ball magnet thesis, spin direction control is critical — the ability to instantly reverse or modulate the spin direction of the conducting disc determines the direction of the Lorentz propulsive force. A high-voltage AC system with capacitive phase control provides the mechanism for rapid directional reversal of UAP propulsion.
+  5. **Faraday's paradox connection**: Whether the magnetic field co-rotates with the disc or remains stationary determines the EMF = ½ωBr² computation. With AC power at 11 kV, the electromagnetic induction relationships become time-varying and the standard DC Faraday disc analysis must be extended to the phasor domain.
+
+SPATIAL RELATIONSHIPS:
+* Text centered on white background.
+* Black letterbox bars at left and right.
+
+HIGH-LEVEL SUMMARY: Text-only announcement slide stating: "A big capacitor can change the spin-direction of a Corbino disc with 11 kV AC power." (Blue "capacitor", green "11 kV AC power", black/italic remainder.) This introduces a key experimental claim: that high-voltage (11 kV) AC power coupled through a large capacitor can control and reverse the rotation direction of a Corbino disc (homopolar motor Faraday disc). Critical to the UAP propulsion thesis — spin direction control of the conducting disc determines the direction of Lorentz propulsive force, and high-voltage AC with capacitive phase control provides the mechanism for rapid, electrically controlled directional reversal.

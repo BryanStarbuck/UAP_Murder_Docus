@@ -1,0 +1,67 @@
+IMAGE DESCRIPTION: 3_2002256402698629120.jpg
+
+SHAPES AND ELEMENTS:
+* Deep-sky astrophotograph — comet with white nucleus, green coma, and blue ion tail
+* Dark navy-black starfield background
+* Very similar composition to 3_2002256337254891520 but at higher magnification / closer crop
+
+COMET:
+* Nucleus: bright overexposed white irregular blob (approximately 30-40px × 25-35px, slightly elongated) — larger apparent size than in the wider-field view, indicating this is a closer crop or higher magnification of the same or similar comet
+* The white nucleus center may represent the optically thick inner coma rather than the bare nucleus itself
+* Inner coma: vivid green-teal zone surrounding the white nucleus (~100-150px diameter total)
+  * The green is intense and saturated — C2 Swan band fluorescence at 516nm
+  * The green coma appears slightly asymmetric, with more extension toward the upper-left (sunward side or jet activity)
+* Outer coma: transitions from green to blue
+* Ion tail: broad blue-violet tail extending from the nucleus toward the upper-right, fading across the frame
+
+TAIL STRUCTURE:
+* Blue-violet ion tail extending diagonally upper-right; occupies upper-right ~60% of image
+* The blue-green inner tail region transitions to pure blue outer tail (typical for CO⁺ and H₂O⁺ fluorescence at the tail-coma interface)
+* No obvious disconnection event or knot structures visible; tail appears smooth
+* A faint second tail segment extends lower-left (dust tail), pale and less distinct
+* The overall geometry suggests the Sun is toward the lower-right of the frame (comet is moving upper-right)
+
+BACKGROUND STARS:
+* Many white to blue-white point sources
+* Several bright stars with faint diffraction spikes visible
+* One faint background galaxy (small elongated smudge) visible upper-left corner
+* Stars vary from sharp blue-white points to slightly larger round white spots
+
+TEXT: None visible.
+
+COLORS:
+* Background: dark navy-black
+* Nucleus: saturated white overexposed
+* Inner coma: vivid emerald green
+* Outer coma/inner tail: blue-green transition
+* Ion tail: blue-violet
+* Stars: white, blue-white
+
+PHYSICS CONCEPTS:
+* COMPARISON TO 3_2002256337254891520:
+  * This appears to be the same comet as 3_2002256337254891520 (similar color palette, similar tail direction, same C2 green + CO⁺ blue signature) but at higher magnification or from a different exposure set
+  * The larger apparent nucleus and more compact frame suggest either: (1) different instrument/telescope with longer focal length, or (2) the same image cropped and enlarged
+* C2 COMA CHEMISTRY (SAME AS PREVIOUS):
+  * Green C2 Swan band (d³Πg → a³Πu, Δv = 0 sequence at 516.5nm) dominant
+  * C2 scale length: ~105 km at 1 AU from Sun; C2 is destroyed by photodissociation and charge exchange
+* ASYMMETRIC JET ACTIVITY:
+  * The green coma's slight asymmetry (brighter toward upper-left of nucleus) suggests an active jet from that hemisphere of the nucleus
+  * Nucleus rotation and jet geometry determine the spatial distribution of C2 emission
+  * The bright inner fan structure seen here is characteristic of a cometary outgassing jet
+* ION TAIL PHYSICS:
+  * Blue color dominated by CO⁺ (0-0) band at 420.0nm and B²Σ⁺ → X²Σ⁺ transition
+  * H₂O⁺ bands at 619nm and 622nm contribute red emission, but in this image the blue dominates, suggesting high CO outgassing rate
+* INNER COMA SURFACE BRIGHTNESS:
+  * The white saturated core indicates the surface brightness peaks sharply at the nucleus — consistent with ρ⁻¹ profile (r → 0 singularity in the Haser model)
+  * The steep color gradient (white → green → blue) over ~150px encodes the transition from hot sublimation products near the nucleus to the photodissociation products at larger distances
+
+SPATIAL RELATIONSHIPS:
+* Comet nucleus/inner coma: center-left of frame (slightly left of geometric center)
+* Green coma: surrounding nucleus, extending ~100px radius
+* Blue ion tail: upper-right of frame, large fraction of image area
+* Faint dust tail component: lower-left of nucleus
+* Stars: scattered throughout
+* Background galaxy: upper-left corner
+
+HIGH-LEVEL SUMMARY:
+A closer or higher-magnification astrophotograph of a bright comet (likely the same comet as 3_2002256337254891520) showing: saturated white overexposed nucleus/inner coma, vivid emerald-green C2 Swan band coma (~516nm, ~150px diameter), and a broad blue-violet CO⁺ ion tail extending toward the upper-right. The asymmetric green coma suggests jet activity from one hemisphere of the rotating nucleus. The color sequence (white → green → blue) encodes the photochemical stratification of cometary gases: undissociated parent molecules near nucleus, C2 intermediate zone, ionized plasma tail at greater distances where solar wind interaction dominates.

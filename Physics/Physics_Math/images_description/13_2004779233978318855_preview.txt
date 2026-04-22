@@ -1,0 +1,38 @@
+IMAGE: 13_2004779233978318855_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view into a large rectangular clear acrylic tank containing water/electrolytic fluid — electrolytic Corbino disc apparatus in active operation:
+  - Central vertical element: a copper threaded rod/tube (approximately 25mm diameter, visible ~50% of image height) serving as the central axial electrode. Threaded surface confirms it is a standard threaded copper rod. Copper color: bright orange-brown.
+  - Annular copper ring (the outer electrode): a flat copper ring approximately 200-250mm outer diameter, resting in the fluid. The ring is approximately 10-15mm wide radially and approximately 3-5mm thick. Two small electrical terminal bolts/screw connectors are visible on the ring at the 3 o'clock and 9 o'clock positions.
+  - The fluid in the disc annulus (between central rod and outer copper ring) shows active spiral wave patterns — one dominant clockwise spiral vortex visible with a clear Ekman spiral morphology: concentric arcs curving from the center outward, with a dark trough at approximately 40% radius and a bright crest at approximately 70% radius. The spiral arms indicate active azimuthal rotation of the fluid.
+  - Two heavy black insulated cable leads enter the tank from left and right sides — large cross-section (suggesting high current, ~50-100A range), terminating at the outer copper ring terminals. The cable insulation is thick black rubber/PVC.
+  - The tank floor appears to be white/gray acrylic or plastic.
+  - Small metallic bolt/connector hardware visible at ring terminal positions.
+  - Splatter/wet marks on tank walls suggest active fluid motion (possibly from prior runs).
+
+TEXT: None visible.
+
+COLORS:
+* Copper: bright orange-brown (central rod and outer ring).
+* Fluid: silver-blue (water with possible dissolved electrolyte).
+* Cable insulation: black.
+* Tank walls: clear/transparent (acrylic) with white floor.
+* Spiral wave pattern: alternating dark blue and light silver.
+
+PHYSICS CONCEPTS:
+* This is an electrolytic Corbino disc (also called an electrolytic homopolar motor) — a liquid-conductor analog of the classical Corbino disc:
+  1. **Electrolytic Corbino disc principle**: Instead of mercury or a solid conducting disc, the conducting medium is an electrolytic solution (saline water or other ionic solution). Current flows radially from the central copper rod (inner electrode) to the outer copper ring (outer electrode), or vice versa depending on polarity. The applied axial magnetic field (not visible in frame — presumably from magnets above or below the tank) produces a Lorentz force F = J × B on the radially-flowing ionic current, driving azimuthal fluid rotation — the electromagnetic equivalent of a homopolar motor.
+  2. **EMF analysis**: For a Corbino disc with inner radius r₁ and outer radius r₂ in axial field B, the induced EMF is ε = ½ω B(r₂² - r₁²). The spiral wave pattern confirms azimuthal velocity ω > 0, establishing rotation.
+  3. **Ekman spiral / inertial wave pattern**: The visible concentric arc pattern in the rotating fluid is characteristic of Ekman spiral dynamics — the boundary layer solution to the Navier-Stokes equations in a rotating frame under a magnetic body force. The spiral arm curvature indicates the ratio of electromagnetic driving force to viscous drag.
+  4. **Comparison to mercury Corbino disc**: The electrolytic analog operates at lower current density and is safer (no mercury toxicity hazard). However, electrolysis at the electrodes (copper oxidation, hydrogen/oxygen evolution) introduces complications absent in mercury systems. The copper ring electrodes will develop copper oxide patina over time.
+  5. **Current level**: The heavy cable gauge suggests currents in the 50-100A range — comparable to the 90A mercury Corbino disc runs documented elsewhere in this series (see 13_1995467474893262848).
+  6. **Azimuthal rotation confirmation**: The spiral vortex wave pattern is the definitive visual proof of azimuthal fluid motion — static fluid under radial current flow without magnetic field would show no such pattern.
+
+SPATIAL RELATIONSHIPS:
+* Central copper rod at frame center (threaded, vertical).
+* Outer copper ring centered on the rod, occupying approximately 60% of frame width.
+* Two cable leads entering from left and right edges.
+* Spiral wave pattern filling the annular fluid region between rod and ring.
+* Tank walls framing the entire view.
+
+HIGH-LEVEL SUMMARY: Top-down view of an active electrolytic Corbino disc (homopolar motor using water/electrolyte as conducting medium) inside a large acrylic tank. A central copper threaded rod serves as the inner electrode; an outer copper ring (with two terminal bolts and heavy black cable connections) serves as the outer electrode. Active azimuthal rotation of the electrolytic fluid is clearly confirmed by the Ekman spiral vortex wave pattern in the annular fluid zone — demonstrating the J × B Lorentz force driving azimuthal rotation under radial current flow in an axial magnetic field. A safer liquid-conducting alternative to the mercury Corbino disc apparatus documented throughout this series.

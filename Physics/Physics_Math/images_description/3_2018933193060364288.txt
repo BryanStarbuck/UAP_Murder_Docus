@@ -1,0 +1,51 @@
+IMAGE DESCRIPTION: 3_2018933193060364288.jpg
+
+SHAPES AND TEXT:
+* Digital schematic / CGI rendering on a white background
+* Outer boundary: two concentric circles (double-ring border), creating a thin white outer ring then a gray filled annular border
+* Interior: predominantly gray background
+
+Structure (from exterior to center):
+
+1. Outer boundary ring: gray annular ring with white outer rim. 4 small gray circles ("o" markers) at 90° intervals on the inner edge of the gray ring (N, S, E, W positions) — these are fiducial marker dots
+
+2. 6 large overlapping spiral-stripe discs at 60° intervals (hexagonal arrangement):
+   Each of the 6 discs is identical in structure:
+   - A large circle filled with a black-and-white spiral stripe pattern — alternating concentric black and white arcs, creating an optical illusion of depth/rotation (similar to an op-art spinning disc or a Fresnel zone plate)
+   - The alternating stripes are curved arcs (not straight concentric rings) — they curve in the same rotational sense across all 6 discs, giving a C6 rotational appearance
+   - Each disc overlaps with its two neighbors in the hexagonal ring, creating vesica-piscis shaped intersection zones
+   - The intersection zones between adjacent discs are rendered in the combined stripe patterns (overlapping arcs creating a moiré-like pattern)
+   - At the angular positions between adjacent discs (the "gaps"): solid black curved triangular-wedge regions fill the inter-disc spaces
+
+3. Central hub (inside the hexagonal ring of 6 discs):
+   - A large black ring (solid black annulus)
+   - Inside the black ring: a white circle
+   - At the center of the white circle: a small black filled disc
+   - This creates: small black hub dot → white inner disc → thick black ring → then the overlap zone with the 6 outer discs
+
+4. Annotation arrows on the central hub:
+   - 4 small arrow symbols arranged around the central hub ring
+   - 2 red angular ">" or "^" shaped arrows (pointing approximately rightward/clockwise)
+   - 2 blue angular "<" or "v" shaped arrows (pointing approximately leftward/counter-clockwise)
+   - The red and blue arrows alternate at approximately 90° intervals around the hub ring
+   - This red/blue alternating annotation encodes: counter-rotating fields (red = clockwise spin, blue = counter-clockwise spin) OR alternating N/S pole markings (red = north, blue = south)
+   - Additionally: 4 text labels appear near the arrows — these appear to be "∧" (caret up) and "v" (caret down) or "N" and "S" labels alternating around the hub
+
+TEXT: Small annotation characters (∧, v) visible near hub arrows — appear to be direction or polarity indicators. Specific letter forms are small and not fully legible at this resolution.
+
+COLORS:
+* Black and white spiral stripes in the 6 discs
+* Gray fill for the outer ring border
+* Red and blue annotation arrows at the hub
+* Black hub ring, white inner disc, black center dot
+
+PHYSICS / CONCEPTS:
+* This is a computer-generated diagram analyzing a 6-fold symmetric crop circle formation:
+  1. The 6 overlapping spiral-stripe discs: the alternating black-white concentric arc pattern within each disc represents a rotating magnetic field profile — specifically the sinusoidal variation of magnetic flux density as a function of angular position. When 6 such fields are arranged in 60° rotational symmetry and overlapped, the result is a complete description of a 6-pole three-phase rotating magnetic field
+  2. Optical illusion spinning discs: the specific use of alternating black-white concentric arcs (resembling op-art rotation wheels) is a well-known visual encoding for rotation — used precisely here to communicate "these discs spin." The counter-rotating sense of the arcs between adjacent discs encodes the fact that adjacent magnetic poles rotate in opposite apparent phase (each successive pole is 60° phase-shifted from its neighbor in a 3-phase 6-pole motor)
+  3. Red/blue alternating arrows at the hub: the alternating red (clockwise >) and blue (counter-clockwise <) arrows at the central hub directly encode counter-rotating field components. In a 3-phase motor, the rotating magnetic field can be decomposed into a forward-rotating and backward-rotating component — the red/blue annotates these two counter-rotating components at the rotor hub
+  4. The black hub ring: the thick black annular ring at center = the permanent magnet ring of the rotor (the magnetic "flywheel" that couples to the rotating field)
+  5. The 4 small "o" markers at N/E/S/W on the outer ring: fiducial markers corresponding to 4-fold reference positions — the 0°, 90°, 180°, 270° angular references used in motor phase timing
+
+SUMMARY:
+Computer-generated circular schematic showing 6 large overlapping black-and-white spiral-stripe discs arranged in C6 (hexagonal) symmetry, surrounding a central hub with thick black ring (rotor magnet ring) annotated with alternating red (clockwise) and blue (counter-clockwise) arrows. The spiral-stripe discs visually encode the 6-pole three-phase rotating magnetic field with optical-illusion rotation cues. The red/blue annotations at the hub encode counter-rotating field decomposition. Four fiducial "o" markers at cardinal positions. This diagram appears to be a researcher's computer analysis of a 6-fold crop formation encoding a complete 6-pole 3-phase motor.

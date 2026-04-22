@@ -1,0 +1,48 @@
+IMAGE: 13_2040366280096821248_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Direct overhead (axial) view looking down into the SEG assembly. This is the most revealing top-down view of the full assembly yet documented — showing the chrome stator cylinder interior, the brass disc contact element ring on the flange, and the surrounding roller magnets with phase labels simultaneously.
+* CENTER CYLINDER: A large chrome/polished steel cylinder (approximately 15-18 cm diameter) at center-top. The interior of the cylinder is dark (black), showing a hollow cylinder with the aluminum spindle tip (small chrome rod) at the very center inside the cylinder interior. The cylinder top edge is circular and shows a smooth polished chrome rim.
+* BRASS DISC CONTACT RING: Between the chrome cylinder outer wall and the surrounding roller magnets, a ring of approximately 14-16 small copper/brass disc elements is visible, arranged in a regular ring. Each disc is approximately 2-3 cm diameter, copper/brass colored, mounted on a silver/aluminum plate or flange ring. These are the brass contact elements documented in 13_2035956053960237056 — likely functioning as capacitive or resistive coupling elements, or as brush contacts for EMF collection from the rotating cylinder.
+* ROLLER MAGNETS (outer ring): Approximately 9-10 large red toroidal disc magnets surround the chrome cylinder, each with:
+  - Red/maroon body
+  - Yellow label strip with black handwritten phase designation: "U", "V", "W" visible on multiple rollers
+  - Gray metallic flanges at sides
+  - Wire leads (red, blue, yellow, black) attached to each roller
+* WIRING: Dense wire routing visible around the full assembly perimeter. Colors visible: red, blue, yellow, black wires. Yellow label tags visible on multiple wire segments.
+* The assembly sits on a white foam board base (edges visible at corners).
+
+TEXT VISIBLE:
+* Roller labels (yellow strip, black handwriting): "U", "V", "W" — visible on at least 4-5 rollers around the ring.
+* Yellow label tags on wires: partially legible phase designations.
+
+COLORS:
+* Chrome/polished silver: cylinder walls, brass disc ring mounting plate
+* Black: cylinder interior, some wire insulation
+* Copper/brass: small disc elements in contact ring
+* Red/maroon: roller magnet bodies
+* Yellow: label strips, wire tags
+* Gray: roller flanges
+* Red, blue, yellow, black: wire leads
+* White: foam board base
+
+PHYSICS CONCEPTS:
+* This axial overhead view provides the clearest documentation of the brass disc contact ring between the chrome stator cylinder outer wall and the roller magnets.
+* The 14-16 brass disc elements in a regular ring around the cylinder exterior are consistent with:
+  (1) Capacitive coupling elements: each brass disc forms a capacitor with the spinning chrome cylinder outer wall, coupling charge inductively as the cylinder rotates — this is a non-contact electrical pickup analogous to a slip-ring-free commutator
+  (2) Eddy current braking/driving elements: the brass discs positioned adjacent to the spinning cylinder would have eddy currents induced in them by the rotating magnetic field, providing either braking torque or, if externally driven, motoring torque
+  (3) Hall-effect sensor mounting pads: if semiconductor sensors are mounted under each brass disc, they would measure the local magnetic field strength at each azimuthal position, providing direct field mapping
+* The hollow chrome cylinder interior (large bore visible from above) suggests the cylinder is a thick-walled tube, not a solid cylinder — the hollow geometry reduces mass and provides access to the central spindle.
+* The central spindle at the cylinder interior center is the homopolar generator center-tap pickup point — the needle electrode (seen in side views) accesses this spindle tip from above.
+* The 9-roller configuration (if confirmed by count) at 40° spacing per roller = 3 rollers per phase × 3 phases, consistent with all prior phase analysis.
+
+SPATIAL RELATIONSHIPS:
+* Chrome cylinder at center, hollow, with spindle tip at interior center.
+* Brass disc contact ring immediately outside cylinder wall, in a concentric ring.
+* 9-10 red phase-labeled rollers around the outer edge, with wire leads extending outward.
+* White foam board visible at corners.
+* Dense wire routing around full assembly perimeter.
+
+HIGH-LEVEL SUMMARY:
+Direct axial overhead view of the fully assembled SEG showing: (1) the chrome stator cylinder (hollow, dark interior, spindle tip visible at center), (2) a ring of 14-16 copper/brass disc contact elements arranged concentrically around the cylinder exterior on a silver flange plate, and (3) 9-10 red phase-labeled rollers (U/V/W) surrounding the assembly with dense wire lead routing. This is the clearest documentation of the brass disc contact ring — the coupling interface between the rotating chrome cylinder and the fixed external instrumentation. The contact ring geometry is consistent with capacitive pickup, eddy current coupling, or Hall-effect sensor arrays.
+

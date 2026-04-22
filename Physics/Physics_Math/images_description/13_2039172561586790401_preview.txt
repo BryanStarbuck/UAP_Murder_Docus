@@ -1,0 +1,63 @@
+IMAGE: 13_2039172561586790401_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Overhead angled view of the fully-instrumented SEG assembly on the wooden-frame lab bench. This is the most advanced operating configuration of the roller ring assembly, with the maximum number of phase-labeled rollers visible simultaneously.
+* The assembly sits on a white foam board base, which is itself on a cardboard shim layer on the bench surface.
+* ROLLER RING: Approximately 9-10 large disc/toroidal roller magnets arranged in a ring. Each roller is:
+  - Red/maroon body (toroidal disc magnet, approximately 7-8 cm diameter)
+  - Yellow label strip on the flat face with black handwritten phase designation: "U", "V", or "W" (IEC 3-phase winding labels)
+  - Gray metallic (zinc/steel) side flanges visible on some rollers
+  - Wire leads (red, blue, white) connected to each roller — these are the 3-phase electrical output leads
+* Phase labels visible on rollers: "U", "V", "W", "U", "V", "W" — multiple instances of each phase label visible, consistent with a 9-roller (3 per phase) or similar multi-phase configuration.
+* CENTER: The aluminum spindle/shaft protrudes vertically from the center of the assembly. An orange element (bearing ball or hub) is visible at the spindle base where it meets the stator disc.
+* PICKUP COIL: A circular single-turn wire loop (white/silver wire) is visible around the entire assembly perimeter — this is the Faraday pickup coil for measuring dΦ/dt.
+* WIRING: Extensive colored wire leads (red, blue, white, yellow wire segments) run from each roller to the assembly perimeter and then outward. Yellow label tags are attached to the wire leads at the perimeter — these are the phase identification labels matching the roller labels.
+* Yellow label tags visible at the perimeter and on the table surface: "U", "V", "W" designations on multiple wire lead tags.
+* The wooden dowel frame posts (4 posts at corners, golden/tan) surround the bench — the standard lab wooden frame structure.
+* ATX PSU (computer power supply): partially visible at upper left (black with fan grille) — the primary lab power supply.
+* Screwdrivers and tools: hanging from the wooden frame at upper center and upper right.
+* At right: a bright light source (white/warm) illuminating from right frame edge; a chrome/gold spherical or disc object (possibly the Leedskalnin bowl device or a lamp fixture) visible at lower right.
+* Red book or binder at right: partially legible text on spine.
+
+TEXT VISIBLE:
+* Roller labels (yellow strip, black handwriting): "U", "V", "W" — multiple occurrences, at least 6 labels visible across the roller ring.
+* Wire lead labels (yellow tag): "U", "V", "W", and possibly "U" (lower left wire lead tag visible).
+* Partial text on red book at right: too small to read at this resolution.
+
+COLORS:
+* Red/maroon: roller magnet bodies
+* Yellow: phase label strips on rollers, wire lead tags
+* Black: handwritten phase designations
+* Gray: metallic flanges on rollers
+* Red, blue, white: output wire leads
+* White: foam board base, circular pickup coil wire
+* Silver/chrome: spindle, circular coil wire
+* Orange: bearing element at spindle base
+* Golden/tan: wooden frame posts
+* Black: ATX PSU
+
+PHYSICS CONCEPTS:
+* This frame shows the most heavily instrumented state of the SEG roller ring assembly yet documented — with all phase-labeled rollers connected by color-coded leads and a Faraday pickup coil encircling the assembly.
+* The 3-phase winding designation (U/V/W) on roller labels follows IEC 60034 convention. With 9 rollers at 3 per phase, each phase group subtends 3 × 40° = 120° of arc, producing a geometrically symmetric 3-phase rotating magnetic field as the rollers orbit the stator.
+* The Faraday pickup coil (circular wire loop around the full assembly) measures the total time-varying magnetic flux through the enclosed area: EMF = -dΦ/dt. As the roller ring rotates, the net magnetic flux through the loop changes periodically, producing an induced EMF proportional to rotation rate and total magnetic flux amplitude.
+* The per-roller output leads (red/blue/white) suggest each roller also has direct electrical connections — these could be for:
+  (1) Externally driving the rollers with AC current to produce motor torque (motoring mode)
+  (2) Collecting EMF generated inductively in each roller's winding as it passes through the stator field (generator mode)
+  (3) Measuring the local magnetic field at each roller position via Hall-effect sensors embedded in the rollers
+* The ATX PSU at upper left continues to provide the primary DC power rail for instrumentation and any electronic drive circuitry.
+* The orange bearing ball at the spindle base is the center-tap electrode contact point for the homopolar generator measurement geometry.
+
+SPATIAL RELATIONSHIPS:
+* Assembly at center of bench on white foam board.
+* 9-10 labeled rollers in ring around center spindle.
+* Orange bearing at spindle base.
+* Circular pickup coil wire around assembly perimeter.
+* Extensive wire leads fanning out from rollers to perimeter.
+* Yellow label tags on leads at perimeter.
+* Wooden dowel frame posts at corners.
+* ATX PSU at upper left.
+* Light source and chrome/gold object at right.
+
+HIGH-LEVEL SUMMARY:
+Overhead angled view of the fully instrumented 9-roller SEG assembly at peak measurement configuration. All rollers are labeled with IEC 3-phase designations (U/V/W, 3 rollers per phase), each connected by color-coded output leads (red/blue/white). A circular single-turn Faraday pickup coil encircles the assembly. Yellow label tags on wire leads identify phase groupings at the perimeter. The orange bearing ball center-tap electrode is visible at the spindle base. ATX PSU at upper left provides power. This configuration enables simultaneous 3-phase EMF measurement via per-roller leads and total flux measurement via the encircling Faraday coil.
+

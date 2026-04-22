@@ -1,0 +1,35 @@
+IMAGE DESCRIPTION: 3_2016492368497967104.jpg
+
+SHAPES AND TEXT:
+* White background annotated disc schematic — variant of the standard vertical-axis two-magnet disc diagram
+* Same layout as 3_2016050135902650371.jpg and 3_2015744548140720128.jpg but with DIFFERENT labels
+* Top element: red-outlined solid black circle with white dot (magnet, labeled "magnet N/S" upper-right)
+* Trident/fork connector
+* Central beaded ring (ring of approximately 15 small black circles around a large solid black disc), outlined in blue
+* Large black circle below the beaded ring
+* Small curved connector
+* Bottom element: red-outlined solid black circle with white dot (second magnet, labeled "magnet N/S" lower-center)
+
+TEXT (transcribed exactly — KEY DIFFERENCES from other versions):
+"3-phase magnetism" (red, bold) — upper-left
+"magnet N/S" (red, bold) — upper-right
+"15 wire coils" (blue, bold) — left-center (NOTE: this says "15 WIRE COILS" — replacing "3-phase rotary induction (15)" or "galinstan?")
+"3-phase rotating magnetic field" (blue, bold) — right-center (NOTE: says "rotating magnetic field" — replacing "galinstan?" or "3-phase linear induction")
+"magnet N/S" (red, bold) — lower-center
+
+COLORS: White background, black elements, red circle outlines and red text, blue circle outline and blue text.
+
+PHYSICS / CONCEPTS:
+* This is the most technically explicit variant of the vertical disc diagram — it removes the uncertainty markers and replaces them with definitive technical specifications:
+  1. "15 wire coils" — definitively states there are 15 coils in the beaded ring (not pairs, but individual coils; or 15 pairs for 30 total — ambiguous). This is consistent with:
+     - The Muller dynamo: 15 coil pairs = 30 slots
+     - The "(15)" annotation in 3_2015744548140720128.jpg
+     - Note: 15 individual coils = 5 coils per phase in a three-phase system (15/3 = 5) — giving a 5-pole-pair three-phase configuration
+  2. "3-phase rotating magnetic field" — definitively states the physical principle: a rotating magnetic field produced by three-phase excitation of the coil ring. This is the fundamental operating principle of the induction motor:
+     - When three-phase current is applied to three sets of coils at 120-degree angular intervals, the resulting superposition of three sinusoidal fields produces a field that rotates uniformly in space — the "rotating magnetic field"
+     - Rotating magnetic field frequency = electrical supply frequency (synchronous speed = f/p where f = frequency, p = pole pairs)
+  3. "3-phase magnetism" (upper) + "3-phase rotating magnetic field" (lower): both labels emphasize three-phase — the upper describing the input field from the magnets, the lower describing the output of the coil ring
+* This variant is the clearest unambiguous statement of the physical principle being encoded: a 15-coil three-phase rotating magnetic field induction device
+
+SUMMARY:
+Annotated vertical-axis disc propulsion schematic with the most technically explicit labels in the series: "15 wire coils" (left-center, blue) and "3-phase rotating magnetic field" (right-center, blue), plus "3-phase magnetism" (red, upper-left) and "magnet N/S" × 2 (red). This variant definitively identifies the beaded ring as a 15-coil three-phase rotating magnetic field generator — the fundamental operating principle of a three-phase induction motor — making this the clearest single statement of the device's physics in the entire collection.

@@ -1,0 +1,36 @@
+IMAGE: 13_2038909613236744192_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Top-down view of a significantly larger and more refined SEG prototype sub-assembly, laid on a scratched concrete or metal floor surface.
+* The assembly consists of:
+  - A large clear acrylic disc (circular, approximately 35-40 cm diameter, thin). Pencil/marker circles are etched or drawn on the surface.
+  - A large white ball-bearing race ring in the center of the disc — significantly larger than the one in 13_2033809814065975296. This bearing is approximately 20-22 cm outer diameter, seated in a recessed circular groove in the disc. The bearing appears to be a large angular-contact or deep-groove ball bearing with white/plastic cage visible.
+  - Around the outside of the bearing race: approximately 14-15 small cylindrical disc magnets arranged at evenly spaced positions around the bearing circumference. Each magnet is approximately 2-3 cm diameter, chrome/nickel-plated. The magnets are arranged in a regular ring, each positioned to contact or nearly contact the outer race of the bearing.
+  - A small cylindrical post or bushing is visible at the exact center of the bearing inner race (a central hub).
+  - Handwritten text or marking on the white bearing race face: appears to be "40" or "40 [?]" in marker.
+  - Blue alligator clip wire and red alligator clip wire visible at upper left edge, extending from the assembly.
+
+TEXT VISIBLE:
+* "40" — marker/pen writing on the white bearing face, center of assembly.
+
+COLORS:
+* Clear/transparent: acrylic disc
+* White: bearing race/cage
+* Chrome/silver: disc magnets around bearing
+* Dark gray: some magnets (may be different magnet type/material)
+
+PHYSICS CONCEPTS:
+* This is a significantly more refined and larger version of the roller ring sub-assembly first seen in 13_2033809814065975296. The 14-15 disc magnets arranged around the bearing represent the outer roller ring. The bearing serves as the low-friction rolling track — as the magnets orbit the bearing, they roll on the bearing's outer race surface.
+* The "40" marking may indicate a test number (test #40), a magnet count parameter, a measurement value (40 mV, 40 Hz), or a diameter specification (40 cm — which may have been the originally planned disc diameter).
+* With 14-15 magnets around the ring, the count is close to the 14-16 roller count shown in the primary SEG schematic (13_2028704773655207938). If these are 15 magnets, 3-phase symmetry requires a multiple of 3 — 15 = 5×3, giving 5 magnets per phase with 72° separation per phase sequence. This is a valid 3-phase symmetric configuration.
+* The larger scale (35-40 cm diameter) versus the earlier 20-25 cm acrylic disc (13_2033809814065975296) represents a direct scale-up — larger disc diameter increases the magnetic flux linkage per unit rotation and the potential output power.
+
+SPATIAL RELATIONSHIPS:
+* Large acrylic disc flat on floor.
+* Large ball bearing race at center of disc.
+* 14-15 disc magnets in ring around bearing outer edge.
+* Central hub post at bearing center.
+* Blue/red test wires at upper left.
+
+HIGH-LEVEL SUMMARY:
+Top-down view of a large (35-40 cm diameter) acrylic SEG roller ring sub-assembly with 14-15 chrome disc magnets arranged around a large white-cage ball bearing race. This is a significantly more refined and larger-scale version of the earlier 8-magnet prototype (13_2033809814065975296), with a "40" marking on the bearing face. Fourteen to fifteen magnets approaches the 14-16 roller count shown in the primary SEG schematic, and is consistent with a 5-per-phase 3-phase configuration.

@@ -1,0 +1,49 @@
+IMAGE: 13_2035956053960237056_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Wide oblique view of the SEG assembly from above and to the side — one of the most information-rich frames in the series, showing the COMPLETE two-tier assembly clearly.
+* Center: the chrome stator cylinder (shorter than in prior frames — approximately 8-10 cm tall, open top) with a needle/pin electrode protruding vertically from the interior, its tip resting on the orange bearing ball inside. The needle is thin (approximately 1-2 mm diameter), approximately 15 cm long, resting vertically against the orange ball. A handwritten label "89" (or "8a") in black ink is written on the chrome cylinder body.
+* Below the stator cylinder: the chrome stator flange disc (the large flat chrome ring, approximately 25-30 cm diameter). The flange shows:
+  - Multiple disc elements arranged around it: approximately 6-8 chrome/brass flat washers/discs positioned around the flange circumference at regular intervals. These appear to be additional electrical contact points or secondary stator elements.
+  - An acrylic disc (clear, thin) is visible resting on or near the flange, concentric with it.
+* Below the chrome flange: the 6 large red-wrapped disc rollers of the outer roller ring, with yellow label strips visible:
+  - "U" visible at bottom center
+  - "C" (or another label) visible at left (possibly "G" or phase label in a different character set)
+* The rollers in this view are more spread out and some have additional hardware visible — small brass/chrome disc elements are visible between some rollers and the flange, suggesting additional intermediate contact elements.
+* A thin circular wire loop (approximately the same diameter as the chrome flange) is visible resting around the assembly — possibly a pickup coil or single-turn current loop.
+* The entire assembly sits on a white bench/platform. Wooden frame posts visible at background left and right. Wires extend outward (blue, red, gray).
+
+TEXT VISIBLE:
+* "89" or "8a" — black handwriting on chrome cylinder body
+* "U" — yellow strip label on lower roller
+* "C" or other character — yellow label at left
+
+COLORS:
+* Chrome/silver: stator cylinder, flange disc, brass discs
+* Orange: bearing ball
+* Red: outer roller tape
+* Yellow: label strips
+* Gold/brass: washer/disc elements around flange
+* Clear: acrylic disc element
+* White: bench surface
+
+PHYSICS CONCEPTS:
+* This frame reveals the most complex assembly configuration in the series — adding small brass/chrome disc elements around the stator flange, which may represent:
+  (1) Contact brushes or sliding contacts for electrical pickup from the rotating flange
+  (2) Secondary stator magnet elements in addition to the main roller ring
+  (3) Tuning/adjusting elements that change the magnetic gap or field geometry
+* The needle electrode resting on the orange bearing ball at the center is significant: this is likely a center-tap pickup electrode — a common configuration in homopolar generators where the center contact point measures the potential at the axis of rotation. In a homopolar generator, the EMF is generated radially between center and rim; the needle touching the center ball allows voltage measurement at the exact center without mechanical contact friction of a conventional brush.
+* The number "89" on the cylinder may be a test number, serial number, or measurement value from a previous test.
+* The circular single-turn wire loop around the assembly may be a pickup coil for measuring time-varying magnetic flux (dΦ/dt) during operation — by Faraday's law, any rotating magnetic field from the SEG assembly would induce a measurable EMF in this loop.
+
+SPATIAL RELATIONSHIPS:
+* Needle electrode at center top, touching orange ball.
+* Chrome cylinder surrounding the needle/ball.
+* Chrome flange disc below cylinder, with brass discs at regular positions.
+* Acrylic disc resting near flange.
+* Outer roller ring at perimeter.
+* Wire loop around entire assembly.
+* Workshop frame at background.
+
+HIGH-LEVEL SUMMARY:
+The most sophisticated and complex assembly frame in the series: the full two-tier SEG with a needle electrode at the center (touching the orange bearing ball — likely a center-tap homopolar generator pickup), chrome stator cylinder with "89" label, chrome flange disc with ~8 brass/chrome disc elements arranged around it (possibly sliding contacts or secondary stator elements), acrylic disc insert, outer 6-roller ring with U labels, and a circular single-turn wire pickup loop around the full assembly. Represents the peak instrumentation stage of this SEG build.

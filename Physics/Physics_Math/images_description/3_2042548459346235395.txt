@@ -1,0 +1,53 @@
+SHAPES:
+* Digital schematic rendering on a blue background — a color-decoded version of the crop formation in companion image 3_2042548439322628097
+* BACKGROUND: Solid bright blue (royal blue / cobalt blue)
+* OUTER RING: A ring of Greek key / meander step-pattern elements in white on the blue background
+  * The outer ring is composed of approximately 16-18 stepped-frame elements
+  * Each element: an L-shaped or stepped rectangular outline (like a block U or reversed C) in white
+  * Arranged around the circumference of a circle (approximately 560px diameter outer boundary)
+  * The meander elements are clearly defined — the white outlines are clean and precise
+* INNER DISC AREA (light gray/white interior):
+  * Large inner disc (approximately 400px diameter) with a light gray or off-white background
+  * LARGE CRESCENT / C-ARC: A large blue-filled crescent occupying approximately 60-70% of the inner disc area
+    * The crescent is a thick arc (approximately 100px wide) forming approximately a 270° arc
+    * The crescent's outer edge: the outer boundary of the inner disc
+    * The crescent's inner boundary: defines the circular hollow interior of the "C"
+    * A small break in the crescent (approximately 30°) at one location — creating the "G" or "C" open end
+  * INNER RING: A thin blue circle (approximately 200px diameter) concentrically positioned inside the C-arc, completing the nested ring structure
+  * CENTRAL SMALL ELEMENT: At the exact center, a small circle (approximately 40px diameter) with blue fill
+  * The combined visual: a large blue crescent/arc with a smaller blue inner ring and tiny central circle — all on the light gray/white inner disc background
+
+TEXT VISIBLE:
+* No text visible
+
+COLORS:
+* Background: solid bright royal blue / cobalt blue
+* Outer meander ring elements: white
+* Inner disc background: light gray / off-white
+* Crescent, inner ring, central circle: deep blue (same as or darker than background)
+* The blue-on-light-gray creates clear contrast for the inner disc elements
+
+PHYSICS CONCEPTS:
+* This digital rendering is the decoded schematic version of the crop formation 3_2042548439322628097:
+  1. BLUE SCHEMATIC CONVENTION: The use of blue-and-white coloring follows the convention used throughout this research collection for electromagnetic machine schematics (also seen in 3_2040005093274296320, the 3-phase U-V-W generator schematic, and 3_2040140536573767680, the Bishops Sutton schematics) — blue = schematic/electromagnetic encoding, as opposed to aerial photographs
+  2. MEANDER OUTER RING (white elements on blue): The cleaned-up schematic version clarifies the exact structure:
+     * Each white meander element is an orthogonal spiral fragment — the cross-section of one toroidal winding turn
+     * The ring of approximately 16-18 such elements = a multi-turn toroidal coil geometry
+     * In electromagnetic machines: toroidal primary coils are used in transformer design, toroidal inductors, and in the primary field winding of disc generators
+  3. CRESCENT / C-ARC (large blue element): The large C-shaped crescent in the inner disc represents:
+     * The single dominant conducting arc of a simplified Faraday disc or homopolar generator cross-section
+     * In the Barlow wheel (early 19th-century homopolar motor): a star-shaped conductor rotates in a magnetic field — the crescent represents one "tooth" or arc segment of such a conductor
+     * The 270° arc (leaving a 90° gap) = a single-phase stator winding — one of the three 120° arc segments in a full 3-phase machine (showing only 1 of the 3 U-V-W stator arcs)
+  4. INNER RING + CENTRAL DOT: Standard encoding for the bearing race (inner ring) and rotation axis (central dot) — consistent across all schematics in the collection
+  5. THE GAP IN THE CRESCENT: The open end of the C-arc is where the sliding brush contact is placed in a Faraday disc or Barlow wheel — where current is collected from the rotating conductor at the outer edge
+
+SPATIAL RELATIONSHIPS:
+* Blue background: entire image background
+* Outer meander ring (white): outermost element on blue background
+* Inner disc (light gray/white): circular area inside the meander ring
+* Large blue crescent (C-arc): dominant element of the inner disc, offset to one side
+* Inner blue ring: concentric ring inside the C-arc
+* Central blue circle: at exact geometric center of the inner disc
+
+HIGH-LEVEL SUMMARY:
+Digital schematic rendering (blue/white/gray color scheme on blue background) showing the decoded version of the crop formation in companion image 3_2042548439322628097: an outer ring of white Greek key / meander step-pattern elements (toroidal coil winding cross-sections) surrounding an inner disc containing a large blue C-shaped crescent (single-phase stator arc, approximately 270° of arc), a smaller concentric inner ring (bearing race), and a central circle (rotation axis). The digital schematic conventions (blue background, clean white outlines) follow the standard used throughout this research collection for electromagnetic machine encodings. The large crescent represents a single-phase conducting arc — one of the three stator segments that would be combined at 120° offsets to form the complete 3-phase U-V-W generator topology. The open end of the C (approximately 30° gap) marks the sliding contact brush position for current collection. The companion aerial photograph (3_2042548439322628097) shows this same design physically instantiated as a crop formation.

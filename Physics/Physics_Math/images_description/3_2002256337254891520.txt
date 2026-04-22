@@ -1,0 +1,69 @@
+IMAGE DESCRIPTION: 3_2002256337254891520.jpg
+
+SHAPES AND ELEMENTS:
+* Deep-sky astrophotograph — comet with vivid green coma and broad blue plasma/ion tail
+* Black starfield background with many background stars and one background galaxy
+
+COMET:
+* Nucleus/inner coma: bright white overexposed core (approximately 15-20px diameter) surrounded by vivid green inner coma (~80-100px diameter)
+* The green coma is intense and saturated — classic C2 Swan band diatomic carbon fluorescence at 516nm
+* The green zone grades outward into a fainter blue-green outer coma
+* Position: slightly left of center in the frame
+
+ION TAIL:
+* Extending from the nucleus toward the upper-right: a broad, diffuse blue tail
+* The tail spans approximately 60-70% of the image width
+* Blue color consistent with CO⁺, CO₂⁺, and H₂O⁺ plasma ion fluorescence driven by solar wind
+* The tail has a gentle curve, suggesting solar wind pressure slightly deflecting it from the anti-solar direction
+* Tail structure: relatively smooth, no obvious discrete ray sub-structures; diffuse luminosity throughout
+* The tail brightens near the nucleus and fades toward the upper-right edge
+
+DUST TAIL:
+* A second, slightly yellowish-white component extends from the nucleus toward the lower-left
+* This is consistent with a dust tail (reflected sunlight, scattered by micron-scale dust grains)
+* The dust tail is shorter than the ion tail and appears as the continuation of the coma toward the lower-left
+
+BACKGROUND STARS:
+* Numerous white point sources; several prominent blue-white diffraction-spiked stars visible
+* Upper-left: bright blue-white star with diffraction spikes
+* Upper-right: several bright stars including one with clear diffraction spikes
+* Lower-right: bright star with diffraction spikes
+* One background galaxy visible (small elliptical smear, upper-left quadrant)
+
+TEXT: None visible.
+
+COLORS:
+* Background: near-black with slight dark blue tint
+* Inner coma: pure white core → vivid green halo
+* Ion tail: blue-violet
+* Dust tail: pale yellow-white
+* Stars: white to blue-white
+
+PHYSICS CONCEPTS:
+* COMETARY COMA CHEMISTRY:
+  * Green inner coma: C2 (diatomic carbon) Swan band fluorescence at 516nm; C2 is produced by photodissociation of larger carbon-containing parent molecules (e.g., C2H2, C2H6, PAHs) by solar UV
+  * CO, OH, CN, NH, NH2 also contribute to the coma emission spectrum
+* ION TAIL PHYSICS:
+  * The blue plasma tail is collimated by the interplanetary magnetic field (IMF) embedded in the solar wind
+  * CO⁺ at 420nm (blue) and H₂O⁺ at 619nm (red) are primary ion tail contributors; the dominant blue color indicates CO⁺ and CO₂⁺ fluorescence
+  * Ion tail disconnection events (caused by IMF sector boundary crossings or solar wind dynamic pressure increases) are not visible here
+  * Tail-to-antisolar direction: the ion tail points nearly directly away from the Sun (within ~1-3°), while the dust tail follows the orbit's curvature
+* DUST TAIL PHYSICS:
+  * Yellowish-white color from broadband solar light scattering by dust grains (β-meteoroids)
+  * The dust tail curves along the orbital plane due to the ratio of solar radiation pressure to solar gravity (β parameter) for different grain sizes
+  * The Finson-Probstein model predicts the dust tail morphology based on grain size distribution and ejection epoch
+* OBSERVATIONAL PARAMETERS:
+  * Wide-field imaging (estimated field of view: 1-3°)
+  * Long exposure to capture tail structure — integration time of several minutes to hours
+  * Color composite: likely three-filter (B/G/R or clear + Hα + OIII) or standard LRGB imaging
+  * The sharp contrast between the vivid green coma and blue ion tail and the black sky is consistent with a moderately bright comet (estimated visual magnitude 5-8 at time of imaging)
+
+SPATIAL RELATIONSHIPS:
+* Comet nucleus/coma: left-center
+* Ion tail: extending upper-right, broad, blue
+* Dust tail: extending lower-left from nucleus, white-yellow
+* Stars: scattered across full frame
+* Background galaxy: upper-left
+
+HIGH-LEVEL SUMMARY:
+A wide-field astrophotograph of a bright comet showing vivid green C2 Swan band inner coma (516nm diatomic carbon fluorescence), a broad blue ion tail (CO⁺ and CO₂⁺ plasma emission, upper-right), and a shorter yellow-white dust tail (lower-left, broadband solar scatter). Background stars and one galaxy are visible. The striking color contrast between the emerald green coma and electric blue ion tail demonstrates the distinct photochemical processes operating at different distances from the nucleus: thermally driven sublimation and photodissociation near the nucleus producing C2, versus solar wind ion acceleration and IMF collimation of the plasma tail.

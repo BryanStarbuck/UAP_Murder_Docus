@@ -1,0 +1,47 @@
+SHAPES:
+* Black-and-white graphic/schematic on white background, approximately circular overall
+* A SPIRAL formation diagram with decreasing circles, strongly resembling the Julia set or Fibonacci spiral:
+  * OUTER BOUNDARY: A large thin arc (approximately 900px in radius of curvature) sweeping from upper left to lower right in a C-shape or near-circle — the outermost arc of the spiral
+  * THREE SMALLER ARCS: Nested inside the outer arc, each progressively smaller and shifted inward, creating a diminishing-radius spiral
+  * CONCENTRIC CIRCLES ALONG THE OUTER ARC: A series of filled black circles arranged along the outer arc:
+    * Starting from the left head position: the largest circle (approximately 120px diameter)
+    * Moving along the arc clockwise: circles decreasing in size following a clear geometric progression
+    * Largest circles: approximately 120px, then 100px, 80px, 60px, 50px, 40px, 35px... down to very small dots
+    * Total circle count along the outer arc: approximately 15-18 circles
+    * The size ratio between successive circles is approximately 0.8-0.85 (geometric series)
+  * INNER SPIRAL BRANCH: A separate, smaller cluster of circles along an inner arc:
+    * 5-6 circles ranging from approximately 80px to 20px
+    * These follow the same geometric series but on a tighter spiral
+  * HEAD ELEMENTS (LEFT SIDE): Two special "head" structures at the leftmost terminus of the spirals:
+    * LARGE HEAD: A large black filled circle (~120px) with a thin white outline ring and a diamond/teardrop shape at the bottom (suggesting a snake head with tongue/fang)
+    * SMALL HEAD: A slightly smaller head structure (~80px) with the same diamond detail
+    * The two heads are positioned adjacent to each other, facing left
+  * CROSS MARKERS: 3-4 small black square or X-shaped markers at specific positions along the lower arc
+  * The overall shape strongly evokes a spiral galaxy, a nautilus shell, or a DNA helix viewed from an oblique angle
+
+TEXT VISIBLE:
+* None
+
+COLORS:
+* White background
+* Black fills (circles, arcs, head elements)
+* No additional colors
+
+PHYSICS CONCEPTS:
+* This diagram encodes several deeply interconnected mathematical and physics concepts:
+  1. FIBONACCI SPIRAL / GOLDEN SPIRAL: The decreasing circle sizes along the outer arc follow a geometric ratio consistent with the Fibonacci number progression (1, 1, 2, 3, 5, 8, 13, 21...). When the ratios of successive Fibonacci numbers approach φ = (1+√5)/2 ≈ 1.618, the spiral of circles converges to the golden angle (137.507°) — the same angle found in plant phyllotaxis (sunflower seed arrangement, pinecone spirals). This is the mathematical basis of most spiral crop formations
+  2. JULIA SET / MANDELBROT BOUNDARY: The spiral of circles of diminishing size with a bifurcation (two heads) is characteristic of the Julia set boundary of the Mandelbrot set. The Mandelbrot set M = {c ∈ ℂ : f_c^n(0) does not diverge as n→∞} has boundary features including spiraling satellite discs (bulbs) connected by necks — exactly the structure shown here. The two heads represent the main bulb and its largest satellite bulb connected at a period-doubling bifurcation
+  3. SNAKE / OUROBOROS: The two "snake heads" at the terminus give the spiral an organic appearance — evoking the Ouroboros (serpent eating its own tail), which in UAP and sacred geometry research represents the cyclical nature of space, time, and energy: the universe consuming and regenerating itself
+  4. LOGARITHMIC SPIRAL: The arc trajectory follows r = ae^(bθ) — the logarithmic spiral that appears in nautilus shells, galaxy arms, and standing water vortices. UAP craft are frequently described as surrounded by rotating vortices — the spiral structure in this diagram may represent the vortex field structure around a spinning craft
+  5. HARMONIC SERIES: The decreasing circle sizes follow a harmonic series 1, 1/2, 1/3, 1/4... or a geometric series r^n — either of which can represent the harmonic overtones of a vibrating system (string, cavity, or field)
+  6. CROP FORMATION CONNECTION: This diagram appears to be the schematic interpretation of the Julia Set formation that appeared at Windmill Hill, Wiltshire on July 29, 1996 — one of the most famous and mathematically sophisticated formations ever documented, featuring exactly this pattern of decreasing satellite circles along a spiral arc
+
+SPATIAL RELATIONSHIPS:
+* Outer C-shaped arc: frames the upper and right portions
+* Circles along the outer arc: largest on the left (head position), decreasing clockwise toward the open right end
+* Inner branch: smaller arc with its own decreasing circle series
+* Two special head structures at the left terminus
+* Cross/X markers at the lower arc positions
+
+HIGH-LEVEL SUMMARY:
+Black-and-white schematic diagram of a spiral arrangement of decreasing circles in a C-shaped arc — the mathematical/artistic rendering of the famous Windmill Hill, Wiltshire 1996 Julia Set crop formation. The decreasing circle series along the outer arc follows a geometric ratio consistent with the Fibonacci progression and the golden ratio φ ≈ 1.618, while the overall C-shaped spiral with bifurcated "head" elements corresponds to the boundary structure of the Mandelbrot set's main cardioid and its period-2 bulb. The two snake-head elements at the terminus give the diagram an Ouroboros or serpentine quality, connecting the mathematical Julia set structure to ancient cyclical symbolism. In UAP physics research, this formation is cited as evidence that non-human intelligence encoded advanced mathematics (Julia sets / Mandelbrot set boundary geometry) in crop formations — a level of mathematical sophistication consistent with Benoit Mandelbrot's 1980 computational discoveries, encoded in a UK wheat field in 1996.

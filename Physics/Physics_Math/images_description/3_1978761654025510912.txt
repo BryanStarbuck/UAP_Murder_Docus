@@ -1,0 +1,42 @@
+SHAPES:
+* Black-on-white schematic diagram (~960x940px) of a complex, elegant spiral formation design with strong visual illusion qualities — the formation encodes a spiral with nested eye-like elements and concentric arcs
+
+Main composition:
+* The overall form is a LARGE COMMA or SPIRAL shape occupying the upper-right approximately 60% of the frame — not a symmetric design but a spiral/snail/Fibonacci arrangement
+
+Elements within the main spiral body (reading from largest to smallest, outer to inner):
+
+1. LARGEST OUTER SPIRAL ARC: A thin black outline arc (~700px radius) curving from the upper-right to the lower-right, terminating with an open end — forming the outer boundary of the entire formation's outer arc
+2. A BEADED RING (right side): A chain of graduated black circles (largest ~80px at bottom, decreasing to ~20px at top) arranged along the right edge of the outer arc — approximately 10-12 circles
+3. Three NESTED EYE ELEMENTS at the upper-center of the composition, arranged vertically (stacked, decreasing in size):
+  * UPPER EYE: A large horizontal vesica-piscis / "eye" shape (~200px wide, ~80px tall) — formed by two curved arcs creating an almond eye outline; inside the eye: a large filled black circle (~100px) as the "iris/pupil"; to the left of the circle within the eye: a small diamond/rhombus shape (~15px)
+  * MIDDLE EYE: A medium vesica-piscis eye shape (~150px wide, ~50px tall) with a medium filled black circle (~70px) as pupil; smaller diamond to the left
+  * LOWER EYE: A small vesica-piscis eye shape (~80px wide, ~30px tall) with a small filled black circle (~30px) as pupil; tiny diamond to the left
+  * The three stacked eyes decrease in size from top to bottom, creating a Fibonacci-like scaling sequence
+
+4. LARGEST FILLED CIRCLE: A large filled black circle (~180px diameter) in the lower-center of the composition — the "nucleus" or largest element
+
+5. SECONDARY CONCENTRIC ARCS: Below the three eyes and to the left of the large filled circle: three thin concentric arc outlines (~200-350px radius) in the lower-left quadrant — suggesting concentric ring elements of the full formation that are only partially visible here
+
+6. CROSS/STAR ELEMENTS on the concentric arcs: Two small 4-pointed cross/star symbols (~10px each) positioned along the concentric arcs at different radii — these may represent measurement markers or "nodes"
+
+TEXT: None visible.
+
+COLORS:
+* All elements: black (filled or outline)
+* Background: white
+* Small diamonds within the eye elements: black outline/filled
+
+SPATIAL RELATIONSHIPS:
+* Overall spiral composition curving from upper-right to lower-left
+* Three stacked "eye" elements at upper center
+* Large filled circle at lower center (slightly left)
+* Beaded arc chain on right
+* Concentric arc fragments in lower-left
+* Cross markers on arcs in lower-left
+
+PHYSICS CONCEPT:
+This is the Milk Hill "Julia Set" style or "Galaxy" style crop formation schematic — the formation encodes a logarithmic spiral (Fibonacci/golden ratio spiral) combined with nested "eye" elements that create a visual illusion. The triple nested eye sequence (large → medium → small) with each eye's pupil inscribed in a vesica piscis is a mathematical visualization of the "Mandelbrot set eye" iteration or of nested conformal maps — the key mathematical structure in Julia sets and Mandelbrot fractals. Each "eye" represents one iteration of the complex map z → z² + c; the fixed-point at the center of each eye is a periodic orbit of the Julia set. The small diamond/rhombus inside each eye is the "fixed point marker" — the exact center of the periodic orbit. The graduated beaded arc and the three concentric arcs with cross markers encode the radial coordinate system (r, θ) of the formation — the crosses mark quantized radial distances (possibly r₁, r₂, r₃ encoding ratios of Fibonacci or golden ratio). The overall spiral structure is a direct geometric encoding of a logarithmic spiral r = ae^(bθ), where b = ln(φ)/（π/2) for the golden ratio spiral (b ≈ 0.3063). This formation type, if genuine, is mathematically too complex to plan and execute mechanically in the dark — the precise nested eye scaling and golden-ratio spiral geometry would require computer-aided design and laser surveying to position correctly.
+
+HIGH-LEVEL SUMMARY:
+Black-on-white schematic (~960x940px) of a complex spiral/galaxy-type crop formation. Primary features: three nested "eye" shapes (vesica piscis outlines with filled black circles as pupils and small diamond markers, stacked vertically and decreasing in Fibonacci scaling from upper to lower); a large filled black nucleus circle at lower center; a graduated beaded-circle arc along the right side; and three concentric arc outlines with cross/star node markers in the lower-left. The overall composition follows a logarithmic Fibonacci spiral. The triple nested eyes encode recursive complex-map iteration (Julia set / Mandelbrot structure); the golden-ratio spiral encoding would require computer-precision design to execute correctly in a field. This is one of the most mathematically sophisticated formation schematics in the collection.

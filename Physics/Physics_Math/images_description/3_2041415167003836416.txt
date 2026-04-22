@@ -1,0 +1,36 @@
+SHAPES:
+* Diagram/schematic on white background — duplicate of companion image 3_2040005093274296320
+* Central concentric ring assembly with colored layers:
+  * Outer boundary ring: blue circle (approximately 500px diameter)
+  * Wide black annular body
+  * White gap ring (narrow)
+  * Inner element: solid red circle (approximately 200px diameter)
+* 6 satellite circles/dots around the outer ring:
+  * 3 large black circles at 0°, 120°, 240°
+  * 3 small black dots at 60°, 180°, 300°
+* Two green diagonal lines from upper left and upper right converging inside the red inner circle
+
+TEXT VISIBLE:
+* "3 wire coils" — red label, upper left
+* "3-phase rotating magnetic field U-V-W" — red label, upper right
+* "6 wire coils" — blue label, lower left
+* "3-phase rotating magnetic field U-V-W-U-V-W" — blue label, lower right
+
+COLORS:
+* Outer ring: blue
+* Annular body: solid black
+* Inner disc: red
+* Green convergence lines
+* Text: red (upper labels) and blue (lower labels)
+
+PHYSICS CONCEPTS:
+* Duplicate of 3_2040005093274296320 — 3-phase (U-V-W) and 6-phase (U-V-W-U-V-W) rotating magnetic field generator schematic
+* The 3 wire coils at 120° spacing produce 3 sinusoidal voltages (V_U, V_V, V_W) 120° out of phase, creating a rotating magnetic field at angular frequency ω
+* The 6 wire coils at 60° spacing produce 6-phase output (U-V-W-U-V-W), equivalent to two overlapping 3-phase systems for smoother torque and higher power quality
+* See 3_2040005093274296320.txt for complete physics analysis
+
+SPATIAL RELATIONSHIPS:
+* Identical layout to 3_2040005093274296320
+
+HIGH-LEVEL SUMMARY:
+Duplicate of the 3-phase rotating magnetic field generator schematic in companion image 3_2040005093274296320, with identical elements: central blue/black/red concentric ring assembly, 6 satellite coil positions (3 large at 120° + 3 small at 60° intervals), green convergence lines, and red/blue text labels identifying the 3-wire-coil (U-V-W) and 6-wire-coil (U-V-W-U-V-W) configurations. The frequent repetition of this diagram throughout the collection (this is at least the 2nd copy) indicates it is the central schematic linking the Bishops Sutton crop formations to 3-phase electromagnetic generator physics.

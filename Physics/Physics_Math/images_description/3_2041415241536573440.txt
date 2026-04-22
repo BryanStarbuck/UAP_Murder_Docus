@@ -1,0 +1,57 @@
+SHAPES:
+* Black-and-white schematic/graphic on white background
+* A complex formation diagram with multiple concentric and satellite elements:
+* OUTER SATELLITE CLUSTERS: 6 small black circles arranged in pairs at 6 positions around the outer perimeter of the main body:
+  * At each of 6 positions (top, upper-right, lower-right, bottom, lower-left, upper-left — approximately 60° spacing):
+    * A cluster of 2-3 decreasing black circles (large → medium → small), arranged radially like a comet or tadpole
+    * The clusters point outward from the center
+    * The innermost (largest) circle of each cluster: approximately 40-50px; the outermost (smallest): approximately 10-15px
+  * Total: 6 clusters × ~2-3 circles each = approximately 12-18 satellite circles
+* MAIN BODY: A hexagonal or circular overall boundary:
+  * OUTER RING: Thick solid black annular ring (approximately 600px outer diameter, 500px inner diameter)
+  * Inside the thick ring: a lighter area (white or very light gray)
+  * INNER CIRCLE: A large black filled circle (approximately 380px diameter) inside the thick ring, centered
+* CENTRAL ELEMENT: Inside the inner black circle, a complex inner design:
+  * OUTER RING INSIDE: thin white gap (approximately 20px wide) creating a concentric ring
+  * INNER DISC: Large dark area containing:
+    * WHITE TRIANGLE: An equilateral triangle inscribed in the inner disc, pointing upward, with white fill
+    * Inside the triangle: a circular element:
+      * Outer arc of circle visible above center of triangle
+      * Inner circle: a solid black disc with a white outline ring (the classic "target within triangle" as in image 3_2021980980761047044)
+* OVERALL: The design reads as: hexagonal outer boundary → thick black ring → inner filled circle → concentric white ring → dark disc → inscribed triangle → inscribed concentric rings at center
+
+TEXT VISIBLE:
+* None
+
+COLORS:
+* White background
+* Black fills (outer ring, inner disc, satellite clusters)
+* White interior (between outer ring and inner disc)
+* White shapes (triangle, inner ring) embedded in black
+
+PHYSICS CONCEPTS:
+* This diagram encodes the full layered structure of the UAP propulsion disc with all components visible:
+  1. OUTER SATELLITE CLUSTERS (6 positions × 2-3 circles): The decreasing-circle tadpole clusters at 60° intervals represent:
+     * The 6 magnetic pole positions of the 3-phase (U-V-W) machine (or 6-phase: U-V-W-U-V-W)
+     * Each decreasing-circle cluster = one magnetic coil's field strength profile: strongest at the coil, diminishing outward (field intensity following inverse-square law)
+     * The tadpole/comet shape: the coil generates a concentrated field at its core (large circle) that spreads outward (smaller circles)
+  2. THICK OUTER RING (black annulus): The stator casing — the fixed outer structural element that holds the 6 coil positions
+  3. INNER FILLED CIRCLE (large black disc): The rotating disc assembly — the rotor
+  4. INNER CONCENTRIC WHITE RING inside the disc: The bearing/friction gap between rotor and stator
+  5. TRIANGLE WITHIN DISC: The 3-phase armature winding layout — an equilateral triangle inscribed in the rotor represents the delta (Δ) connection topology of the 3-phase windings:
+     * Delta connection: the three winding ends are connected in a triangle (V_UV, V_VW, V_WU) rather than sharing a common neutral point
+     * Delta-connected machines have higher line-to-line voltages and no neutral current
+  6. CONCENTRIC RINGS WITHIN TRIANGLE: The central rotor core — the magnetic flux concentrator at the center of the disc
+  7. COMBINED READING: This diagram shows the complete architecture — stator (thick ring) → 6 pole positions (satellite clusters) → rotor (inner disc) → delta winding (triangle) → central flux core (concentric rings) — a fully labeled (in pictographic form) AC generator
+  8. HEXAGONAL OUTER BOUNDARY: The formation was created in a hexagonal field area — or the hexagonal boundary is the outer housing of the device
+
+SPATIAL RELATIONSHIPS:
+* 6 satellite clusters at equal angular intervals around the outer perimeter
+* Thick black annular ring (stator) forms the main body
+* Large inner filled circle (rotor) inside the stator ring
+* Thin white concentric gap inside the rotor disc
+* White triangle inscribed inside the dark disc
+* Small concentric ring target at the triangle's center
+
+HIGH-LEVEL SUMMARY:
+Black-and-white schematic showing the complete architecture of a 3-phase electromagnetic generator disc: an outer thick stator ring with 6 decreasing-circle satellite clusters at 60° intervals (representing 6 magnetic pole positions), a large inner rotor disc, a thin concentric bearing gap ring, an inscribed equilateral white triangle (representing delta-connection topology of the 3-phase armature windings), and a small central concentric ring target (the flux concentrator). This diagram is the most architecturally complete encoding of the counter-rotating disc propulsion system in the collection, explicitly showing all components: stator casing, pole positions with field intensity profiles (decreasing-circle clusters), rotor disc, bearing gap, delta-connected windings (triangle), and central core. The delta-connection topology (triangle inscribed in disc) is the preferred configuration for high-power machines requiring no neutral current path and maximum line-to-line voltage.

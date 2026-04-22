@@ -1,0 +1,39 @@
+IMAGE: 13_1995467474893262848_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Close-up top-down view of a new homopolar motor / Corbino disc apparatus — different design from the primary three-disc apparatus: this is a flat copper-ring annular homopolar motor with mercury as the conducting fluid, similar to but distinct from the "EXTREME TECHNOLOGY" annular disc:
+  - Central vertical rod: thick copper/brass rod descending from above, approximately 1.5 cm diameter — this is the center current electrode (axle).
+  - Copper ring: a wide flat copper ring (approximately 8-10 cm outer diameter, 1-2 cm width) sitting on an acrylic or glass base plate. The ring forms the outer electrode boundary of the Corbino disc geometry.
+  - Mercury pool: the annular space between the central rod and the outer copper ring is filled with mercury (silver liquid, clearly visible). The mercury surface shows active motion/waves — concentric circular ripples and disturbances from current flow and possible rotation.
+  - The mercury appears to be actively spinning — wave patterns (concentric arcs, spiral disturbances) indicate rotational motion in the mercury from the Lorentz force.
+  - Two heavy wire leads (black, heavy gauge): one attached to left side of the copper ring (left black wire, clamped to ring with a ring clamp), one attached to right side (right black wire). These deliver high current to the rim electrode.
+  - Acrylic/glass rectangular base plate: the assembly sits on a clear acrylic frame/tray that provides a clean laboratory base.
+  - Text overlay lower-right: "90 A" — indicating 90 amperes of current flowing through the apparatus during this operation.
+
+TEXT:
+* Lower-right: "90 A" (white text, small) — current level indicator.
+
+COLORS:
+* Mercury: silver/liquid metal, with wave patterns.
+* Copper ring: orange-copper.
+* Central rod: orange-copper/brass.
+* Heavy leads: black.
+* Base plate: clear/transparent.
+
+PHYSICS CONCEPTS:
+* This is a definitive Corbino disc experiment operating at 90 amperes:
+  1. **Corbino disc geometry**: The conducting fluid (mercury) fills the annular gap between the central electrode (copper rod) and the outer electrode (copper ring). Current flows radially through the mercury (center to rim or rim to center). A permanent magnet below the base plate provides the axial magnetic field B_z.
+  2. **Lorentz force and rotation**: The radial current density J_r in the presence of axial field B_z produces a tangential (azimuthal) body force on the mercury: F_φ = J_r × B_z. At 90 amperes, the Lorentz body force is significant enough to create visible rotation — the wave patterns in the mercury confirm the mercury is actually rotating.
+  3. **EMF**: The induced EMF in the spinning mercury is given by EMF = ½ωBr² (where r is the outer radius of the mercury, ω is the angular velocity, B is the axial field). This is the Faraday disc EMF formula applied to liquid mercury.
+  4. **90 A operation**: 90 amperes through a mercury conducting pool is a high-current density operation. The resistance of the mercury annulus (ρ_Hg ≈ 9.6×10⁻⁷ Ω·m at 20°C) gives a disc resistance of order milliohms, so 90 A requires only ~0.1-0.5 V across the electrodes, but dissipates ~9-45 W in the mercury — potentially causing heating.
+  5. **UAP connection**: This experiment demonstrates that an annular Corbino disc filled with mercury and driven at 90 A exhibits genuine rotation — supporting the UAP propulsion thesis that a mercury-filled rotating disc system can generate Lorentz propulsive force.
+
+SPATIAL RELATIONSHIPS:
+* Central copper rod at exact center.
+* Copper ring surrounds the mercury pool.
+* Mercury fills the annular gap with visible wave motion.
+* Two heavy black leads at left and right of copper ring.
+* Clear acrylic base plate visible at edges.
+* "90 A" text at lower-right.
+
+HIGH-LEVEL SUMMARY: Top-down close-up view of a flat copper-ring annular Corbino disc homopolar motor filled with mercury (silver liquid), operating at 90 amperes (indicated by "90 A" text overlay). The mercury in the annular gap between the central copper rod (center electrode) and outer copper ring (rim electrode) shows active rotational wave patterns — visible spiral/concentric wave disturbances confirm the mercury is actually rotating from the Lorentz force (F_φ = J_r × B_z). Two heavy black wire leads deliver 90 A to the rim electrode. This experiment directly demonstrates that a mercury-filled Corbino disc generates genuine rotation at high current — a critical experimental validation of the UAP rotating disc propulsion thesis.

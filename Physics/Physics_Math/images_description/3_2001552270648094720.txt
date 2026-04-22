@@ -1,0 +1,92 @@
+IMAGE DESCRIPTION: 3_2001552270648094720.jpg
+
+SHAPES AND ELEMENTS:
+* White background composite image — a Textpic ("xxx.tpc") computer code demonstration
+* Contains binary/ASCII text encoding, two bitmap grid tables, and explanatory text
+
+TITLE TEXT (top):
+* '"Textpic" computer code is from the future   (xxx.tpc)'
+
+SECTION 1 — ASCII TEXT ENCODING:
+* The phrase "Textpic is from the future!" encoded in 8-bit binary ASCII
+* Each character is shown with its letter above and its 8-bit binary code below
+* Letters shown with binary codes:
+  * T = 01010100
+  * e = 01100101
+  * x = 01111000
+  * t = 01110100
+  * p = 01110000
+  * i = 01101001
+  * c = 01100011
+  * (space) = 00100000
+  * i = 01101001
+  * s = 01110011
+  * (space) = 00100000
+  * f = 01100110
+  * r = 01110010
+  * o = 01101111
+  * m = 01101101
+  * (space) = 00100000
+  * t = 01110100
+  * h = 01101000
+  * e = 01100101
+  * (space) = 00100000
+  * f = 01100110
+  * u = 01110101
+  * t = 01110100
+  * u = 01110101
+  * r = 01110010
+  * e = 01100101
+  * ! = 00100001
+* Some digits are red (highlighting specific bits from the embedded code 2 or 3)
+* Some digits are blue (highlighting another embedded code)
+
+SECTION 2 — BITMAP GRIDS (two tables):
+
+LEFT TABLE — "14 x 8 (fish shape)":
+* A 14-column × 8-row grid of 0s and 1s
+* Color coding: blue 0s on the left half, red 0s in the middle, standard on right
+* The right portion of the grid (approximately 10×8) is all "1"s
+* The left portion is all "0"s
+* This binary grid, when rendered as a bitmap (0=white, 1=black), creates a fish shape
+* Label: "14 x 8 (fish shape)"
+
+RIGHT TABLE — "10 x 10 (cross shape)":
+* A 10-column × 10-row grid of 0s and 1s — right side of the bitmap section
+* The pattern of 1s forms a cross shape
+* Label: "10 x 10 (cross shape)"
+* The cross shape has 1s in a cross pattern (vertical column + horizontal row intersecting)
+
+CAPTION TEXT (bottom):
+* "RC > message translated fully in December of 2019"
+
+TEXT COLORS:
+* Title: black
+* ASCII phrase letters (T, e, x, t, etc.): black
+* Binary digits: mixed black, blue, red (same three-code color scheme as other images)
+* Grid labels: black
+* Caption: black
+
+PHYSICS / INFORMATION THEORY CONCEPTS:
+* "Textpic" is a claimed future computer file format (xxx.tpc extension) for encoding both text AND images simultaneously in a single binary stream
+* The demonstration shows:
+  * The phrase "Textpic is from the future!" encoded in standard 8-bit ASCII
+  * Embedded within the ASCII bits: two separate bitmap images — a fish shape (14×8 pixels) and a cross shape (10×10 pixels)
+  * The three simultaneous codes (documented in 3_1999294762676027393) all coexist in the same bit stream
+* This represents information-theoretic multiplexing: multiple independent channels encoded in the same physical signal
+* The two shapes (fish and cross) are the Ichthus/Christian fish symbol and the Christian cross — consistent with the religious symbolism in the Temple Mount / Emerthers message context
+* "From the future": the claim is that this coding scheme was received from CJ as a demonstration that the non-human intelligence has advanced computer science knowledge not yet developed by humans (in 2019)
+* PHYSICS OF THE CODE:
+  * Standard ASCII is a 7-bit or 8-bit code (8-bit ASCII used here)
+  * Embedding a second image in specific bit positions of an ASCII stream is a form of steganographic encoding — changing specific bits below the threshold of text corruption
+  * The fish (14×8=112 pixels) and cross (10×10=100 pixels) shapes require 112+100=212 bits of hidden information, distributed across the 216 bits (27 characters × 8 bits) of the text
+
+SPATIAL RELATIONSHIPS:
+* Title: top
+* ASCII text encoding (letter + binary pairs): upper section
+* 14×8 fish grid (left): lower-left
+* 10×10 cross grid (right): lower-right
+* Caption: bottom
+
+HIGH-LEVEL SUMMARY:
+A demonstration of the "Textpic" (xxx.tpc) computer format — a claimed future file format that simultaneously encodes text, a fish-shaped image (14×8 pixel bitmap), and a cross-shaped image (10×10 pixel bitmap) in a single binary stream. The phrase "Textpic is from the future!" is shown encoded in 8-bit ASCII, with embedded fish and cross bitmaps in the same bits. The fish (Ichthus Christian symbol) and cross (Christian cross) shapes are encoded in specific bit positions of the ASCII stream using the three-code multiplexing scheme. The caption credits "RC" (the researcher/decoder) and notes the message was fully translated in December 2019.

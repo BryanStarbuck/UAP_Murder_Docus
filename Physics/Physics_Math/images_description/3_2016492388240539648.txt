@@ -1,0 +1,39 @@
+IMAGE DESCRIPTION: 3_2016492388240539648.jpg
+
+SHAPES AND TEXT:
+* White background annotated disc schematic — variant of 3_2016050089530425347.jpg (the trefoil/three-lobe crop formation variant)
+* Same layout as that image but with DIFFERENT coil count label
+* Top element: large trefoil/three-lobe black shape (three overlapping large rounded lobes) with white negative space creating the visible form
+* Red circle outline overlaying the figure-eight/vesica shape in the upper portion
+* Small satellite dots at upper-left and upper-right
+* Narrow stem/trident connector
+* Bottom element: beaded ring of approximately 18+ small black circles around a solid black interior with a white V-chevron, outlined in blue
+* Small satellite dots at lower positions
+
+TEXT (transcribed exactly — KEY DIFFERENCES):
+"magnet N/S" (red, bold) — upper-left
+"magnet N/S" (red, bold) — upper-right
+"3-phase magnetism" (red, bold) — left side, mid-height
+"3-phase magnetism" (red, bold) — right side, mid-height
+"18 wire coils" (blue, bold) — lower-left (NOTE: says "18" — different from "15" in other versions)
+"3-phase rotating magnetic field" (blue, bold) — lower-right
+
+COLORS: White background, black formation shapes, red circle overlay and red text, blue circle outline and blue text.
+
+PHYSICS / CONCEPTS:
+* This is the same crop formation (trefoil upper magnet cluster) as 3_2016050089530425347.jpg but now explicitly labeled with "18 wire coils" instead of "galinstan?"
+* Key analysis:
+  1. "18 wire coils": 18 coils in a three-phase system = 6 coils per phase. This gives:
+     - 6 poles per phase × 3 phases = 18-pole motor (9 pole pairs)
+     - Alternatively: 18 total coil slots in the ring, wired in 3 groups of 6
+     - 18/3 = 6 coils per phase: standard three-phase winding with 6 coil slots per phase is very common in industrial motors
+  2. Counting the beads: the bead ring in this formation has approximately 18 beads — the "18 wire coils" label directly counts the visible beads, establishing a 1-bead = 1-coil correspondence
+  3. Comparing to other variants:
+     - 3_2016492368497967104.jpg: "15 wire coils" (same bottom bead ring, different formation)
+     - 3_2015744548140720128.jpg: "3-phase rotary induction (15)" (15 coil pairs)
+     - This image: "18 wire coils" — a different crop formation with a different bead count
+  4. The trefoil upper element: three overlapping lobes = three-phase field source, each lobe generating one phase
+  5. "3-phase rotating magnetic field" is now unambiguous — the beaded ring produces a rotating field when energized with 18 coils in three-phase configuration
+
+SUMMARY:
+Annotated trefoil/three-lobe crop formation diagram with labels "18 wire coils" (blue, lower-left) and "3-phase rotating magnetic field" (blue, lower-right), plus "magnet N/S" (red, upper corners) and "3-phase magnetism" (red, both sides). The "18 wire coils" label directly counts the beads in this formation's beaded ring (18 beads = 18 coils = 6 coils per phase in a three-phase system). This is a different crop formation from the 15-coil variants but encodes the same three-phase rotating magnetic field principle.

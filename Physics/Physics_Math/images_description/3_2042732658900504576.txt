@@ -1,0 +1,45 @@
+SHAPES:
+* Digital graphic / schematic diagram on white background — black-and-white geometric composition
+* OVERALL COMPOSITION: A 7-circle hexagonal close-packing arrangement (one central circle + 6 surrounding circles), but each circle is replaced by a COMPOUND CONCENTRICALLY-ALTERNATING DISC
+* CENTRAL DISC ELEMENT (center of the composition, approximately 200px diameter):
+  * Fully concentric: 5-6 alternating black and white rings
+  * The rings are symmetric and centered — a pure bull's-eye target
+  * Innermost circle: black (approximately 30px diameter)
+  * Alternates black/white outward
+* 6 OUTER DISC ELEMENTS (arranged at 60° intervals, each approximately 200px diameter, touching the central disc):
+  * Each outer disc is also a concentrically-alternating ring pattern
+  * BUT: the rings are NOT centered — they are ECCENTRIC (offset), creating a distinctive visual of concentric arcs shifted toward the tangent point with the central disc
+  * The offset of each outer disc's center relative to its ring pattern creates the appearance of a HALF-MOON or CRESCENT visible at each disc
+  * The half-moon crescent effect: the rings of the outer disc are shifted so that the arcs are denser (more tightly packed) on one side and more spread on the other
+* SMALL DOTS: 6 small filled circles (approximately 5px diameter) visible at the tangent/intersection points between the central disc and each outer disc
+* OVERALL SILHOUETTE: The 7 interlocking discs create a hexagonal-like outer boundary (like a rounded hexagon or a "flower" outline)
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Black and white only — pure binary, no gray tones
+* White background
+
+PHYSICS CONCEPTS:
+* This diagram is a precise visual encoding of the electromagnetic field interaction between a central rotor disc and 6 surrounding satellite coil positions:
+  1. ECCENTRIC CONCENTRIC RINGS (the offset rings in the outer discs): This is the key physics encoding. Each outer disc has eccentric (off-center) concentric rings — this represents:
+     * The MAGNETIC FLUX DENSITY DISTRIBUTION around an off-axis magnetic dipole: the field lines of a permanent magnet (or current loop) are approximately concentric circles around the dipole axis, but as you move off the dipole axis, the field lines become eccentric (shifted, deformed) — exactly the pattern shown
+     * The MAGNETIC FIELD OF THE 6 OUTER MAGNETS AS SEEN FROM OFF-AXIS: Each of the 6 outer satellite discs represents one of Norman Paulsen's 12 magnets (6 on the top disc face shown here), and the eccentric ring pattern shows how the field of each magnet deforms as it approaches the central rotor
+     * The PHASE-ADVANCE OF THE ROTATING FIELD: The eccentricity direction of each outer disc's rings encodes the phase advance angle of the rotating field at that angular position
+  2. HEXAGONAL CLOSE-PACKING (7 = 1 + 6): The 7-circle hexagonal arrangement directly encodes:
+     * The fundamental 6-fold (C₆v) symmetry of the 3-phase generator: 3 phases × 2 poles per phase = 6 elements
+     * The Flower of Life geometry: 7 circles in hexagonal packing is the first iteration of the Flower of Life
+     * The atomic close-packing: the 7-atom hexagonal close-packed layer (one atom surrounded by 6 touching neighbors) — the disc arrangement may also encode the molecular geometry of a superconducting material
+  3. TANGENT POINT DOTS: The 6 small dots at the tangent points between the central disc and each outer disc represent the sliding contact or electromagnetic coupling points — the locations where field transfer between the central rotor and outer magnets occurs
+  4. INTERACTION FIELD TOPOLOGY: The entire composition is a visual representation of the superimposed magnetic field of the central rotor + 6 surrounding magnets — the compound concentric ring pattern shows the resultant field topology that enables the electromagnetic disc propulsion
+
+SPATIAL RELATIONSHIPS:
+* Central disc: geometric center, pure concentric rings
+* 6 outer discs: arranged at 60° intervals, each touching the central disc
+* Each outer disc: eccentric rings shifted toward the central disc
+* Small dots: at each of the 6 tangent points (between central and each outer disc)
+* Overall: hexagonal symmetry (C₆v)
+
+HIGH-LEVEL SUMMARY:
+Black-and-white digital schematic showing 7 discs in hexagonal close-packing (1 central + 6 surrounding), where the central disc has symmetric concentric rings (pure bull's-eye) and each of the 6 outer discs has eccentric (off-center) concentric rings creating a crescent-shifted pattern. Six small dots mark the tangent coupling points between the central disc and each outer disc. The eccentric ring pattern in each outer disc encodes the magnetic flux density distribution of an off-axis dipole — how the magnetic field of each of the 6 surrounding magnets appears when viewed from a position offset from the magnet's own axis. The 7-disc hexagonal arrangement encodes the Flower of Life geometry (first iteration), the 6-fold C₆v rotational symmetry of the 3-phase electromagnetic disc generator, and the hexagonal close-packed magnet arrangement of Norman Paulsen's 12-magnet counter-rotating disc system (showing one 6-magnet face). The compound eccentric concentric rings provide a precise visual representation of the superimposed magnetic field topology of the rotor-stator interaction.

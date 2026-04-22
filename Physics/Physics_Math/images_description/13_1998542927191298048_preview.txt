@@ -1,0 +1,43 @@
+IMAGE: 13_1998542927191298048_preview.jpg
+
+SHAPES AND ELEMENTS:
+* New experimental apparatus — a glass bowl / Corbino disc assembly with saline water or dilute electrolyte solution (rather than mercury) as the conducting fluid:
+  - Glass bowl: large clear glass mixing bowl (hemispherical, approximately 30 cm diameter) sitting on a white surface. The bowl contains a visible liquid — appears to be water or a dilute saline/electrolyte solution (transparent/clear, not mercury).
+  - Central electrode: a copper rod (orange, approximately 1 cm diameter) descends vertically from above to the center of the bowl — connected at its base to a white plastic hub/axle holder. The copper rod is the center electrode.
+  - Yellow tape tabs: four small yellow (masking tape or electrical tape) tabs are positioned at regular intervals around the inner bottom of the bowl (approximately at 90° intervals) — these may be reference markers, magnet mounting points, or electrical insulating pads.
+  - Marker text on bowl interior: dark ink marker writing visible on the bottom of the glass bowl — the letters/characters appear to read "ñ2" or "N2" (partially legible).
+  - Red wire lead: a bright red wire exits the bowl at the right side — this is the outer rim electrode connection lead. The wire connects to a red probe tip touching the bowl rim or liquid.
+  - Black rigid clamp: a black rigid electrode arm (not a wire — appears to be a metal rod with a connection terminal at the top) enters the bowl from the upper-left — this is likely the center electrode support structure or a grounding arm.
+  - White/cream surface below bowl.
+  - White paper visible at upper-right corner.
+
+TEXT:
+* Inside bowl: "ñ2" or "N2" — handwritten with marker (possibly indicating a nitrogen experiment, a serial number, or an experimental notation).
+
+COLORS:
+* Bowl: clear glass.
+* Conducting fluid: transparent/clear (water or dilute electrolyte).
+* Copper rod: orange.
+* Yellow tabs: yellow tape.
+* Red wire: bright red.
+* Black arm: black.
+* Text: dark blue/black ink.
+
+PHYSICS CONCEPTS:
+* This is a water/electrolyte Corbino disc experiment — a safer and more accessible analog to the mercury Corbino disc:
+  1. **Electrolytic Corbino disc**: Replacing mercury with a conducting electrolyte (saline water, copper sulfate solution, or sodium chloride solution) creates an electrolytic version of the Corbino disc motor. The electrolyte has much lower conductivity than mercury (~5-50 S/m for saline vs. ~10⁶ S/m for mercury), so it requires much lower currents for observable rotation, but the physics is identical.
+  2. **Electrohydrodynamic rotation**: Current flows radially through the electrolyte (center electrode to rim), and in the presence of an axial magnetic field (from a magnet below the bowl), the Lorentz body force F_φ = J_r × B_z drives tangential rotation of the conducting fluid.
+  3. **"N2" marking**: The "N2" inscribed in the bowl may indicate this is the second experimental run of a nitrogen-related experiment — or it may simply be a run number or reference mark for angular position tracking.
+  4. **Yellow tabs**: The four yellow tabs at 90° intervals serve as angular reference markers to visually track rotation — if the fluid rotates, the tabs (attached to the bowl or floating) would allow measurement of angular displacement.
+  5. **Safety advantage**: Water/electrolyte instead of mercury dramatically reduces hazard — mercury vapor is toxic (Hg PEL = 0.1 mg/m³), while saline water is benign. This makes the experiment accessible for demonstration and replication.
+* This may be the "Roobertgg YT" apparatus or a different experimenter replicating the Corbino disc physics with safer materials.
+
+SPATIAL RELATIONSHIPS:
+* Glass bowl at center.
+* Central copper rod at exact center of bowl.
+* Four yellow tabs at 90° intervals around bowl interior.
+* Red wire lead at right rim of bowl.
+* Black electrode arm at upper-left.
+* "N2" text on bowl bottom.
+
+HIGH-LEVEL SUMMARY: Top-down view of a large glass bowl Corbino disc experiment using water or dilute electrolyte (transparent conducting fluid) instead of mercury — a safer analog to the mercury disc experiments. A central copper rod serves as the inner electrode, four yellow tape tabs at 90° intervals serve as angular reference markers, and a red wire connects the outer rim electrode. "N2" is written in marker on the bowl bottom (possibly a run number or notation). This electrolytic Corbino disc experiment demonstrates the same Lorentz-force rotation physics as the mercury disc but at safer current levels and with benign conducting fluid.

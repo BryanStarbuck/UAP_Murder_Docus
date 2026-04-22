@@ -1,0 +1,56 @@
+SHAPES:
+* Diagram/schematic on white background with colored labels
+* Central element: three concentric rings with color differentiation:
+  * OUTER ring: blue circle (approximately 500px diameter), thin blue line
+  * MIDDLE ring: wide black annular band — solid black ring (inner diameter approximately 300px, outer diameter approximately 450px)
+  * INNER white annular gap: narrow white band between the black ring and the inner red circle
+  * INNER element: solid red circle (approximately 200px diameter)
+  * Inside the red circle: green inverted V shape ("V" pointing upward, approximately 100px tall) — representing a schematic indicator or field direction marker
+* OUTER satellite circles (representing wire coils):
+  * 3 LARGE black circles: positioned at approximately 0°, 120°, and 240° around the outer ring (even 120° spacing) — each approximately 100px diameter, partially overlapping the outer blue ring
+  * Between each pair of large circles: 1 SMALL black dot (approximately 20px diameter) at the midpoint
+  * This gives: 3 large circles + 3 small dots = 6 total satellite elements
+* Two green diagonal lines: converging from upper left and upper right, meeting at a point inside the red inner circle near the top — these lines indicate the 3 wire coils associated with the upper cluster of satellite circles
+
+TEXT VISIBLE:
+* "3 wire coils" — red label, upper left, with a bracket pointing to the 3 upper satellite circles
+* "3-phase rotating magnetic field U-V-W" — red label, upper right
+* "6 wire coils" — blue label, lower left, with a bracket pointing to all 6 satellite positions (3 large + 3 small)
+* "3-phase rotating magnetic field U-V-W-U-V-W" — blue label, lower right
+
+COLORS:
+* Outer boundary ring: blue
+* Main annular body: solid black
+* Inner circle: red
+* Green lines: directional indicators (V shape inside red circle + two converging lines from top)
+* Text: red (upper labels) and blue (lower labels)
+
+PHYSICS CONCEPTS:
+* This diagram is the most technically explicit electrical engineering diagram in the collection, directly labeling a 3-phase rotating magnetic field generator topology:
+  * U-V-W: The standard IEC designation for the three phases of a 3-phase AC electrical system (equivalent to Phase A, Phase B, Phase C in North American convention)
+  * 3-PHASE SYSTEM with 3 wire coils (upper labels): The minimum configuration for a 3-phase generator — 3 coils spaced 120° apart produce 3 sinusoidal voltages 120° out of phase:
+    V_U(t) = V_peak sin(ωt)
+    V_V(t) = V_peak sin(ωt - 2π/3)
+    V_W(t) = V_peak sin(ωt - 4π/3)
+    Together these produce a rotating magnetic field vector B(t) that rotates at angular frequency ω — the basis of all induction motors and synchronous AC generators
+  * 6-PHASE SYSTEM with 6 wire coils (lower labels): The U-V-W-U-V-W label indicates 6 coils producing 6-phase AC — equivalent to two overlapping 3-phase systems offset by 60°. This is used in:
+    * High-power motor drives (reduces torque ripple by factor of 6 compared to 3-phase)
+    * Transformer rectifier units converting to high-DC (6-phase full-wave rectification gives 6-pulse DC output with much lower ripple than 3-phase)
+    * The 6-coil variant in the UAP context corresponds to the 6-armed Milk Hill type formations (409 circles in 6 arms)
+  * The inner red disc: the rotor or the central magnetic pole (the element that rotates within the outer stator coil assembly)
+  * The green V-shape: indicates field direction or phase reference
+  * In UAP propulsion context:
+    * The 3-phase rotating magnetic field (rotating at synchronous frequency f = Np/60 where N = rotor RPM, p = pole pairs) is the key mechanism
+    * For a given rotor speed, increasing the pole count p increases the electrical frequency f — high-frequency rotating fields are proposed to interact with the quantum vacuum / zero-point field
+    * The 6-coil (6-phase) configuration produces a smoother, more uniform rotating field — which in the UAP propulsion hypothesis produces a more stable and powerful gravitomagnetic interaction
+
+SPATIAL RELATIONSHIPS:
+* Central concentric ring assembly (blue outer / black body / white gap / red inner) at center
+* 3 large satellite circles at 0°, 120°, 240° (equilateral triangle spacing)
+* 3 small dots at 60°, 180°, 300° (between the large circles)
+* Green V-shape inside red inner disc
+* Two green convergence lines from upper left and upper right pointing to a vertex inside the red disc
+* Labels in four corners
+
+HIGH-LEVEL SUMMARY:
+Electrical engineering schematic diagram depicting a 3-phase and 6-phase rotating magnetic field generator layout, explicitly labeled with U-V-W phase designations and wire coil counts. The central concentric ring assembly (blue outer boundary / black stator body / red inner rotor disc) is surrounded by 3 large satellite coil positions at 120° intervals and 3 smaller intermediate positions — creating the 3-coil (3-phase) and 6-coil (6-phase) configurations labeled in red and blue text respectively. The 3-phase rotating magnetic field (three sinusoids at 120° phase offset: V_U, V_V, V_W) is the basis of all polyphase AC generators and induction motors; the 6-phase variant (U-V-W-U-V-W) produces smoother torque and higher-quality rotating fields. In UAP physics research, this diagram directly identifies the counter-rotating disc propulsion system as a polyphase electromagnetic generator — the same architecture encoded in the crop formations at Bishops Sutton, Ipuacu Brazil, and multiple UK sites documented in companion images.

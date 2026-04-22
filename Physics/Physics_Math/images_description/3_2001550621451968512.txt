@@ -1,0 +1,71 @@
+IMAGE DESCRIPTION: 3_2001550621451968512.jpg
+
+SHAPES AND ELEMENTS:
+* Composite image — binary code text (top) with three photographs/images (bottom)
+* White background
+
+TITLE TEXT (top):
+* '"CJ" picture file 1 (light squares 0, filled squares 1) (lines of 68)'
+* Below: '0111-0001 ASCII "q", repeat 17 bits, start after duplication'
+
+BINARY CODE BLOCK:
+* Multiple lines of binary digits (0s and 1s)
+* The digits are in three colors: blue (0s from code 1), red (1s from code 2), standard black (code 3)
+* Each line appears to contain 68 binary digits (matching the "lines of 68" annotation)
+* Approximately 12-15 lines of 68-bit binary data
+* The first visible bits: "01110001..." which matches the ASCII for 'q' = 0x71 = 01110001
+* The binary appears to contain a hidden image ("picture file 1") encoded in the bit pattern
+
+IMAGES (lower half, three elements):
+
+LOWER-LEFT PHOTOGRAPH — DOME OF THE ROCK MINARET:
+* A color photograph showing the top of a minaret with a golden crescent-moon (hilal) finial at the top
+* Blue sky background
+* The golden crescent is clearly a Muslim minaret finial (standard Islamic architectural element)
+* The Dome of the Rock dome is partially visible below
+
+LOWER-CENTER IMAGE — PRAYING FIGURE SILHOUETTE:
+* A black silhouette of a kneeling human figure in a prayer position
+* The figure is in a prostration pose (full body kneeling, head bowed forward)
+* This is consistent with Islamic prayer prostration (sujud position) or general prayer iconography
+
+LOWER-RIGHT PHOTOGRAPH — TEMPLE MOUNT COLONNADES:
+* A photograph of the Temple Mount's colonnade arches (the same "scales of souls" / portico arches as in previous Temple Mount images)
+* Three stone arches visible against a blue sky
+* A person in white robes visible walking through one arch
+* This is the same location (Temple Mount, Jerusalem) as documented in earlier images
+
+UPPER-RIGHT ELEMENT — MOON:
+* A photograph of a full moon (gray-white against white background)
+* Positioned upper-right, separate from the three main lower images
+
+TEXT:
+* Title: "CJ" picture file 1 (light squares 0, filled squares 1) (lines of 68)"
+* ASCII note: '0111-0001 ASCII "q", repeat 17 bits, start after duplication'
+* All binary digits in the code block
+
+COLORS:
+* Binary block: blue 0s, red 1s, black standard
+* Images: color photography
+* Moon: gray-white
+* Silhouette: solid black
+
+PHYSICS CONCEPTS:
+* This image shows the binary data encoding of "picture file 1" — the claimed first image encoded in CJ's binary contact signals
+* ASCII "q" = 01110001: the first recognizable character in the sequence, used as a header/synchronization marker
+* "Light squares 0, filled squares 1": the decoding key — this is a bitmap/pixel encoding scheme where 0 = white pixel and 1 = black pixel
+* "Lines of 68": each line is 68 bits wide, creating a 68-pixel wide image
+* The image encoded in the binary (when decoded as a 68-pixel wide bitmap) is apparently related to Temple Mount / Islamic imagery — the four illustrations (minaret, praying figure, colonnade, moon) represent what the decoded picture is claimed to show
+* The moon shown in the upper-right connects to: the "LUNAR" capital letter code from the June-October 2016 messages, the Islamic crescent-moon symbol, and "14 guardians" (14 = full moon cycle days)
+* "Repeat 17 bits, start after duplication": a data encoding instruction — every 17 bits, the pattern repeats; the message begins after an initial duplication/verification header
+
+SPATIAL RELATIONSHIPS:
+* Title and ASCII note: top, above binary block
+* Binary code block: upper portion of image
+* Moon: upper-right, between binary block and lower images
+* Minaret photo: lower-left
+* Praying figure silhouette: lower-center
+* Colonnade photo: lower-right
+
+HIGH-LEVEL SUMMARY:
+A binary code data image labeled "'CJ' picture file 1 (light squares 0, filled squares 1) (lines of 68)" with the synchronization marker "0111-0001 ASCII 'q', repeat 17 bits, start after duplication." The binary block (12-15 lines of 68 bits each, color-coded in blue/red/black for three simultaneous message streams) encodes a bitmap image that, when decoded at 68 pixels per line, is claimed to show Temple Mount / Islamic imagery. The three reference images below (golden minaret crescent, kneeling prayer silhouette, Temple Mount colonnade with figure) and a full moon photograph indicate the content of the decoded picture. The encoding scheme is a pixel-bitmap with three overlapping binary codes, consistent with the multiplexed binary coding documented in 3_1999294762676027393.

@@ -1,0 +1,49 @@
+IMAGE DESCRIPTION: 3_2019232966652862464.jpg
+
+SHAPES AND TEXT:
+* White background schematic diagram
+* Central concentric-ring disc with surrounding bead clusters (plan view)
+
+Central disc (bullseye):
+* Three concentric circles with alternating fill:
+  - Outermost ring: thick blue circle (outline)
+  - Between blue outer and red inner: black filled annular ring
+  - Between black ring and center: white annular ring
+  - Red inner circle outline (smaller than the black ring)
+  - Innermost: solid black disc (center)
+* The layering: blue outline → black ring → white ring → red circle → black center disc
+
+Surrounding bead clusters (6 total, arranged at N, NE, SE, S, SW, NW — or at 60° intervals):
+* Each cluster consists of: 1 large black circle (approximately 1/3 the radius of the central disc), flanked by 2 medium black circles, flanked by 2 small black dots
+* At top (12 o'clock): 2 medium + 2 small dots = 4-element cluster
+* At 2 o'clock (NE): 1 large + 2 medium + 2 small dots = 5-element cluster
+* At 4 o'clock (SE): similar 5-element cluster
+* At 6 o'clock (bottom): 1 large (lower) + 1 large (above) + connecting dot = 3-element cluster (or 2 large + 1 small dot)
+* At 8 o'clock (SW): similar to NE
+* At 10 o'clock (NW): similar to NE
+* Total bead count across all 6 clusters: approximately 24-30 individual bead elements
+
+TEXT LABELS (transcribed exactly):
+* "6 wire coils" — blue text, upper-left
+* "3-phase rotating magnetic field" — blue text, upper-right
+* "magnet N/S" — red text, left side
+* "3-phase magnetism" — red text, lower-right
+
+COLORS:
+* Blue: outer ring of central disc + "6 wire coils" and "3-phase rotating magnetic field" text
+* Red: inner circle of central disc + "magnet N/S" and "3-phase magnetism" text
+* Black: all bead clusters, black rings of central disc, center dot
+* White: white annular ring in central disc, white background
+
+PHYSICS / CONCEPTS:
+* This is a "6 wire coils" variant of the standard disc motor schematic (same type as seen in other labeled schematics throughout this collection):
+  1. "6 wire coils": the 6 bead clusters around the central disc ring = 6 coil positions. These are 6 coils wired as 3 pairs (pair A at 0°/180°, pair B at 120°/300°, pair C at 240°/60°) to create a 3-phase rotating magnetic field. A 6-coil 3-phase motor is a 2-pole-pair (4-pole) machine: 3 phases × 2 coils per phase = 6 coils
+  2. Blue outer ring on the central disc: blue = coil/stator element (same color convention used throughout: blue = electromagnetic coil winding)
+  3. Red inner circle: red = magnet/rotor element (red = permanent magnet N/S ring). The label "magnet N/S" placed adjacent to the red ring confirms this
+  4. "3-phase rotating magnetic field" + "3-phase magnetism": two labels for the same concept — the stator coils (blue) energized by three-phase AC current produce a rotating magnetic field that drives the rotor magnet ring (red)
+  5. This 6-coil design differs from the 15-coil Muller dynamo variants — it is a simpler 2-pole-pair topology. 6-coil 3-phase motors are standard in small appliance and HVAC applications
+  6. The white annular ring between black ring and red circle: represents the air gap between stator and rotor in the motor cross-section
+  7. The cluster sizes (large + medium + small dots): within each bead cluster, the decreasing bead sizes represent the wire turn cross-sections within a single coil slot — the conductor bundle in the slot, with fewer but larger conductors at the center and smaller ones at the edges (shaped winding)
+
+SUMMARY:
+White-background plan-view disc schematic showing a central bullseye with blue outer ring (stator) and red inner ring (rotor magnet), surrounded by 6 bead clusters (one per coil position at 60° intervals). Labels: "6 wire coils" (blue), "3-phase rotating magnetic field" (blue), "magnet N/S" (red), "3-phase magnetism" (red). This is a 6-coil (2-pole-pair) three-phase motor schematic — a simpler variant compared to the 15-coil Muller dynamo versions elsewhere in this collection.

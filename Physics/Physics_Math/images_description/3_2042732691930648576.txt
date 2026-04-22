@@ -1,0 +1,60 @@
+SHAPES:
+* Black silhouette schematic on white background — vertically oriented, similar in format to companion image 3_2042517021234229248 but with additional detail elements
+* TOP ELEMENT: Large solid black disc (approximately 160px diameter)
+  * Contains a small white circle at the center (white "hole" approximately 20px diameter)
+  * Represents the primary top disc with axis hole
+* CONNECTOR ELEMENT: A tuning-fork or horseshoe/U-shape connector
+  * Two upward-curving prongs meeting at the bottom
+  * The shape resembles the letter "U" or the Greek letter Ψ (psi) without the vertical stem, or a tuning fork viewed from above
+  * Positioned between the top disc and the central sun disc
+  * Approximately 80px wide, 60px tall
+  * The two prongs of the U-connector may represent two of the three U-V-W phase terminals
+* CENTRAL REGION: A large solid black central disc (approximately 200px diameter) surrounded by a ring of satellite circles
+  * Central disc: solid black, approximately 200px diameter
+  * SATELLITE RING: Approximately 16 medium circles arranged around the central disc
+    * Each satellite circle: approximately 30-35px diameter, solid black
+    * Spaced approximately equally around the circumference of the central disc
+    * Small curved connecting elements (like small hooks or "c" shapes) connect each satellite circle to the central disc — these are approximately 8-10px in size
+  * The connecting hooks between each satellite circle and the central disc are a new detail not seen in 3_2042517021234229248
+* LOWER LARGE DISC: A large solid black disc below the central sun element
+  * Approximately 160px diameter
+  * No hole or additional detail
+  * Connected to the central region by a short vertical stem
+* SPIRAL/TAIL ELEMENT: Below the lower large disc
+  * A small spiral or curved tail (like a musical note stem with a flag, or a sperm cell tail)
+  * Curving to one side (rightward in the image)
+* BOTTOM DISC: A smaller solid black disc at the very bottom
+  * Approximately 100px diameter
+  * Contains a small white center hole
+* OVERALL: Reading top to bottom: top disc (with hole) → U-connector → central sun+satellite ring → lower disc → spiral tail → bottom disc (with hole)
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Black silhouette on white background
+* Pure binary image
+
+PHYSICS CONCEPTS:
+* This is a refined/extended version of the disc propulsion system schematic from 3_2042517021234229248, with additional anatomical details:
+  1. TOP AND BOTTOM DISCS WITH CENTER HOLES: The two end discs (top and bottom) both have center hole markers — encoding the axle bore through which the rotation axis passes. The system is mounted on a central shaft.
+  2. U-CONNECTOR (TUNING FORK): The two-pronged U or tuning fork connector between the top disc and the central sun replaces the three-pronged trident from 3_2042517021234229248:
+     * The U-shape may represent a 2-terminal (DC) connection rather than 3-phase — consistent with the Faraday disc (which produces DC output via sliding contacts) vs. the 3-phase AC generator (3 terminals)
+     * Or: the tuning fork shape represents a mechanical resonance coupling — the two prongs vibrate at specific frequencies to transfer angular momentum between discs
+  3. SATELLITE CIRCLES WITH CONNECTING HOOKS: The approximately 16 satellite circles each connected to the central disc by a small hook/C-shape is a critical detail:
+     * The hooks represent the PHYSICAL MOUNTING OF THE MAGNETS to the disc rim — each magnet is mechanically attached (bolted or bracketed) to the outer perimeter of the disc
+     * 16 satellites → 16-pole machine (8 north + 8 south alternating) → 8-phase or 4-phase × 2 poles configuration
+     * Or: if 12 of the 16 are magnets and 4 are structural mounting brackets, this encodes Norman Paulsen's 12-magnet specification
+  4. LOWER DISC + SPIRAL TAIL: The lower disc represents the second counter-rotating disc (paired with the top disc). The spiral tail represents the Birkeland current or plasma vortex emitted as thrust exhaust
+  5. BOTTOM DISC WITH HOLE: The second axis-mounted disc at the very bottom, with its own center hole, represents a tertiary structural element — possibly the output shaft bearing assembly or a flux concentrator disc
+
+SPATIAL RELATIONSHIPS:
+* Top disc (with hole): topmost element
+* U-connector: below top disc
+* Central sun + satellite ring: center, largest and most complex element
+* Lower large disc: below central sun
+* Spiral tail: below lower disc, curving to one side
+* Bottom disc (with hole): lowest element
+
+HIGH-LEVEL SUMMARY:
+Black-on-white silhouette schematic of the UAP electromagnetic disc propulsion system — a refined and extended version of companion image 3_2042517021234229248 — showing (top to bottom): a large disc with central axis hole, a two-pronged U/tuning-fork connector (2-terminal DC coupling), a central solid disc surrounded by approximately 16 satellite circles each connected via a small hook/bracket element (16-pole magnet ring with physical mounting brackets), a lower large disc (second counter-rotating disc), a spiral tail element (Birkeland current / thrust vortex), and a bottom disc with central hole (tertiary structural bearing or flux concentrator disc). The connecting hooks between satellite circles and the central disc encode the mechanical attachment of 12-16 permanent magnets to the disc perimeter — the most mechanically specific detail in any of the disc system schematics in this collection. The two-pronged U-connector (vs. the three-pronged trident in 3_2042517021234229248) may indicate DC output (Faraday disc topology) rather than 3-phase AC output.

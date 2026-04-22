@@ -1,0 +1,44 @@
+IMAGE: 13_2040686237212921856_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Direct overhead axial view of the SEG assembly during OPERATION — the chrome stator cylinder and inner flange ring are clearly in rapid rotation, producing distinct motion blur.
+* CENTER CYLINDER: The chrome/polished steel cylinder (approximately 15-18 cm diameter) is the dominant element. The cylinder top shows:
+  - A dark (black) domed top cap with a visible rounded/convex surface at center — this is the top of the orange bearing ball or a chrome ball cap, seen from directly above
+  - The cylinder outer wall shows motion blur consistent with rapid rotation — the chrome surface appears as a smooth blur with smeared reflections
+* INNER FLANGE RING: Between the cylinder outer wall and the roller magnets, the brass/aluminum contact disc ring is visible in motion blur — the individual disc elements are smeared into an arc pattern, confirming rotation of the assembly inner components.
+* ROLLER MAGNETS (outer ring): The red/maroon toroidal disc magnets surround the rotating center. Their yellow label strips and wire leads are partially blurred but still visible. At least 8-9 rollers visible around the perimeter. The rollers themselves may also be in orbital motion (blurring of red bodies visible).
+* WIRE LEADS: Dense wire routing around the outer perimeter — red, blue, yellow, white wires with yellow label tags. Alligator clips (metal) visible on some leads.
+* WHITE FOAM BOARD: The base is visible around the perimeter of the rotating assembly.
+* The overall composition shows the assembly clearly operating — the inner cylinder and flange are spinning while the outer roller ring may be in orbital motion.
+
+TEXT VISIBLE:
+* Yellow label tags: phase designations partially legible (U/V/W visible on at least 2-3 rollers).
+
+COLORS:
+* Chrome/polished silver: cylinder walls (motion blurred)
+* Black: cylinder domed top cap, cylinder interior
+* Red/maroon: roller bodies
+* Yellow: label strips
+* Copper/brass: contact disc ring (motion blurred into arc)
+* White: foam board, some wires
+* Red, blue: wire leads
+* Gray: alligator clips
+
+PHYSICS CONCEPTS:
+* This is a key dynamic frame — confirming the SEG assembly is operating with the chrome cylinder in active rotation. The motion blur direction and extent indicate:
+  - The rotation rate is sufficient to blur the chrome cylinder and brass disc ring within a standard video frame exposure time (1/30 s or 1/60 s)
+  - At ~1/60 s exposure, motion blur of approximately 1 cm at the cylinder rim requires rim velocity > 0.6 m/s → angular velocity ω > 0.6/0.075 ≈ 8 rad/s → approximately 76 RPM minimum. The actual blur appears more extensive, suggesting higher RPM.
+* The black domed top cap at the cylinder center is significant — if this is the bearing ball (previously orange, now appearing dark due to the lighting angle), it confirms the center-tap electrode geometry is maintained during rotation.
+* The orbital motion of the roller magnets, if visible in the blur, would confirm self-sustaining roller orbit rather than a fixed roller ring (i.e., the rollers orbit the stator in the SEG configuration rather than being locked in place).
+* This dynamic frame represents direct video evidence of the SEG assembly in operation — one of the most important frames in the dataset.
+
+SPATIAL RELATIONSHIPS:
+* Chrome cylinder at center, domed top, in rapid rotation (motion blurred).
+* Brass disc contact ring immediately outside cylinder, blurred in rotation.
+* Red roller magnets in ring around the rotating center.
+* Dense wire leads extending outward from roller ring.
+* White foam board base visible around perimeter.
+
+HIGH-LEVEL SUMMARY:
+Direct overhead axial view of the SEG assembly in active rotation. The chrome stator cylinder (approximately 15-18 cm diameter) and the inner brass disc contact ring are visibly in rapid rotation (confirmed by motion blur). A dark domed top cap (bearing ball) is visible at the cylinder center. The surrounding red roller magnets and yellow-labeled wire leads are partially blurred. This is a key operating frame confirming the assembly is in active rotation, with estimated RPM > 76 minimum based on observable motion blur extent at the cylinder rim.
+

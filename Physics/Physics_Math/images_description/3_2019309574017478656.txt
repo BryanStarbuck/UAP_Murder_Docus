@@ -1,0 +1,66 @@
+IMAGE DESCRIPTION: 3_2019309574017478656.jpg
+
+SHAPES AND TEXT:
+* White background schematic diagram — vertical axis assembly view of the disc propulsion device
+
+Main elements (top to bottom):
+1. Top magnet disc: a large black filled circle with magenta/red outline ring and a white center dot
+   - Label: "magnet N/S" (red, right side)
+   - Label: "∧" (red caret, left side — upward thrust indicator)
+   - Label: "3-phase magnetism" (red, left side, below the ∧)
+
+2. Connector element (between top magnet and main disc): a black silhouette of a Y-shaped or fork-shaped bracket — a mechanical hub/yoke connector linking the top magnet disc to the main assembly
+
+3. Main disc assembly (center):
+   - Outer ring of 15 black circles (beads) arranged around the disc perimeter at regular intervals
+   - Each bead has a small curly/hook shape extending inward (the coil symbol — representing a wire coil winding)
+   - The magenta/pink outline circle defines the "stainless-steel tube" boundary
+   - The inner region: solid black filled circle (the magnet rotor)
+   - Label: "3-phase magnetism" (blue, left side)
+   - Label: "15 wire coils" (blue, left side)
+   - Label: "stainless-steel tube" (magenta, right side)
+   - Label: "ball bearings" (magenta, right side)
+
+4. Connector element (between main disc and bottom magnet): a curved/serpentine black line (resembling a spring or flexible coupling)
+
+5. Bottom magnet disc (medium size): a black filled circle with magenta/red outline ring
+   - Label: "∧" (red caret, left side — upward thrust indicator)
+
+6. Second connector: a curly/spring-like line below the medium bottom disc
+
+7. Lower magnet disc (smaller): a black circle (smaller, outline only — ring magnet, not filled disc)
+   - Label: "magnet N/S" (red, right side)
+
+TEXT (transcribed exactly):
+* "∧" (red, upper-left) — upward thrust indicator
+* "3-phase magnetism" (red, upper-left)
+* "magnet N/S" (red, upper-right)
+* "3-phase magnetism" (blue, center-left)
+* "15 wire coils" (blue, center-left)
+* "stainless-steel tube" (magenta, center-right)
+* "ball bearings" (magenta, center-right)
+* "∧" (red, lower-center-left) — upward thrust indicator
+* "magnet N/S" (red, lower-right)
+
+COLORS:
+* Red text: "∧" thrust arrows and "3-phase magnetism" (upper) and "magnet N/S" labels
+* Blue text: "3-phase magnetism" (center) and "15 wire coils" labels
+* Magenta: stainless-steel tube outline ring and "stainless-steel tube" / "ball bearings" labels
+* Black: all schematic shapes (discs, beads, connectors)
+
+PHYSICS / CONCEPTS:
+* This is an annotated vertical (axial / side-view) assembly diagram of the counter-rotating magnetic disc propulsion system — the most completely labeled version in this collection. It shows the full device stack from top to bottom:
+  1. Top magnet disc ("magnet N/S"): a permanent magnet disc at the top of the assembly. The ∧ caret = this disc generates upward thrust. "3-phase magnetism" label = this disc also participates in the rotating field system
+  2. Y-shaped yoke connector: the mechanical coupling between the top magnet and the main coil assembly — transfers torque and holds the assembly aligned. The Y-shape is a standard mechanical coupling hub (Oldham coupling or similar)
+  3. Main disc (center): the 15-wire-coil stator ring:
+     - "15 wire coils": 15 coils arranged in the bead ring = the Muller dynamo specification (15-coil ring). Wired as 5 groups of 3 (three-phase, 5 poles per phase)
+     - Each bead with curly hook = one toroidal coil winding (the hook represents the coil wound around a core bead)
+     - "Stainless-steel tube": the structural containment tube that holds the coil ring — Galinstan-filled stainless-steel tube as the conducting medium and structural ring
+     - "Ball bearings": the bearing system at the hub that allows the magnet rotor to spin relative to the stator coil ring
+  4. Spring/flexible coupling (bottom of main disc): a flexible mechanical link that accommodates thermal expansion and vibration between the main disc and the bottom magnet
+  5. Bottom magnet disc (medium): a second permanent magnet, with the ∧ thrust arrow confirming upward force contribution from this magnet as well
+  6. Lower connector (spring-like): second flexible coupling
+  7. Smallest bottom disc (outline only, not filled): possibly the rotor disc of the bottom magnet assembly (the rotating part, shown as hollow/ring, contrasting with the filled solid-rotor parts above)
+
+SUMMARY:
+Fully annotated vertical assembly schematic of the counter-rotating magnetic disc propulsion device. Shows (top to bottom): top permanent magnet disc (red outline, "magnet N/S," upward ∧ thrust), Y-shaped yoke connector, main 15-coil stator ring (magenta "stainless-steel tube" boundary, "ball bearings" at hub, 15 bead coils with hook symbols), flexible spring coupling, medium bottom magnet disc (upward ∧), second spring coupling, and smallest bottom ring-magnet disc. Labels: "15 wire coils" (blue), "3-phase magnetism" ×2 (red+blue), "stainless-steel tube" (magenta), "ball bearings" (magenta), "magnet N/S" ×2 (red). This is the most completely annotated side-view specification of the UAP propulsion device in the entire collection.

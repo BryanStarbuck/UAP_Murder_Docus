@@ -1,0 +1,40 @@
+IMAGE DESCRIPTION: 3_2018562785203068928.jpg
+
+SHAPES AND TEXT:
+* Handwritten notes on lined paper — an experiment log or design notes for a magnetic ring experiment
+* Box at top with title text
+* Below: a list of experiment configurations, each with a magnet count, polarity arrangement, rotation direction, and result
+
+TEXT (transcribed exactly — handwritten):
+Top box: "A RING OF 12 x 3-PHASE WIRE COILS"
+Below box: "VARIOUS MAGNETIC ROTORS"
+[horizontal line, wavy underline]
+"8 N-N  ANTI-CLOCKWISE  ✓"
+"8 N-S  CLOCKWISE  ✓✓"
+"12 N-N  ANTI-CLOCKWISE  ✓"
+"12 N-S  NO SPIN  X"
+"16 N-N  CLOCKWISE-SLOW"
+"16 N-S  ANTI-CLOCKWISE-SLOW"
+(last line partially cut off at bottom)
+
+COLORS: Blue lined notebook paper, black ink handwriting.
+
+PHYSICS / CONCEPTS:
+* This handwritten experimental log documents the results of testing a ring of 12 × 3-phase wire coils (the prototype matching 3_2016492341113298944.jpg) with various magnet rotor configurations:
+  1. Title: "A RING OF 12 × 3-PHASE WIRE COILS" — explicitly identifies the stator as 12 coils wired in three-phase (4 coils per phase)
+  2. Test configurations by magnet count and polarity:
+     * "8 N-N ANTI-CLOCKWISE ✓" — 8 N-N (like poles adjacent) rotor: produces anti-clockwise rotation. SUCCESS (single check)
+     * "8 N-S CLOCKWISE ✓✓" — 8 N-S (alternating poles) rotor: produces clockwise rotation. BEST RESULT (double check)
+     * "12 N-N ANTI-CLOCKWISE ✓" — 12 N-N rotor: produces anti-clockwise rotation. SUCCESS
+     * "12 N-S NO SPIN X" — 12 N-S rotor: NO rotation. FAILED
+     * "16 N-N CLOCKWISE-SLOW" — 16 N-N rotor: clockwise but slow (no success mark)
+     * "16 N-S ANTI-CLOCKWISE-SLOW" — 16 N-S rotor: anti-clockwise but slow
+  3. Key findings:
+     * The best result (✓✓) is: 8-magnet alternating N-S rotor producing clockwise rotation
+     * The critical failure is: 12-magnet alternating N-S producing no spin — this is significant because 12 N-S with a 12-coil stator creates a locked-rotor condition (same number of poles = synchronous lock at zero speed) — the rotor and stator are in exact resonance but produce no net torque at rest
+     * The N-N (like pole) configurations may be using a magnetic repulsion drive (N poles of rotor aligned with N poles of stator coils — repulsion drives rotation)
+  4. Rotation direction dependence: N-N → anti-clockwise; N-S → clockwise (for 8 and 12 magnets) — the polarity arrangement determines rotation direction
+  5. "16 N-S ANTI-CLOCKWISE-SLOW" — the last entry (cut off) — 16 magnets with 12 coils = 4:3 pole ratio, known to produce slow/cogged rotation
+
+SUMMARY:
+Handwritten experimental log documenting tests of a 12-coil three-phase ring stator with various permanent magnet rotor configurations. Six configurations tested: 8-magnet and 12-magnet rotors in N-N (like poles) and N-S (alternating poles) arrangements, plus 16-magnet variants. Best result: 8 N-S magnets → clockwise rotation (✓✓). Critical failure: 12 N-S magnets → no spin (resonant lock). N-N configurations consistently produce anti-clockwise rotation while N-S produces clockwise. This is a direct empirical experiment log for the disc propulsion ring motor prototype.

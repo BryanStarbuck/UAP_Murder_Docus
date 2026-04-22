@@ -1,0 +1,30 @@
+IMAGE: 13_2005825302480707584_preview.jpg
+
+SHAPES AND ELEMENTS:
+* False-color multi-spectral nighttime UAP anomaly documentation frame — same series as 13_1990929129089499136, 13_1990997596966694912, 13_1991295353111629824, 13_1994621991899598849, and related frames. Black background with scattered red, blue, white, and orange luminous point-like anomalies.
+* Distribution in this frame:
+  - Left edge: a bright red diffuse blob (approximately 8% of image width) at upper-left corner, plus a small red-orange blob at lower-left corner.
+  - Left vertical strip: faint blue-purple anomalies scattered vertically along the left ~10% of the image.
+  - Center field: widely scattered single-pixel and 2-3 pixel red and blue dots — approximately 15-20 total scattered across center and right-center region.
+  - Right side (approximately 80-95% from left): the most prominent cluster — two or three distinct bright white/red irregular blobs at upper-right (approximately 65-70% from top) and one larger bright white/red crescent-shaped anomaly at center-right and one below it. These structured shapes are more complex than simple point sources — suggesting either multi-pixel structured objects or defocused extended sources.
+  - A faint single-pixel white dot at top center.
+
+TEXT: None visible.
+
+COLORS:
+* Background: pure black.
+* Anomalies: predominantly red and red-orange (strongest signals), blue-purple (weaker), white (saturated bright centers).
+* Right-side bright features: white cores with red halos.
+
+PHYSICS CONCEPTS:
+* False-color nighttime UAP anomaly documentation — same methodology as prior frames in this series. The red/blue channel assignment and the structured bright anomalies at right represent the same multi-spectral detection regime. See 13_1990929129089499136 for full physics analysis.
+* Distinctive in this frame: the structured bright features at right (white core + red halo) with irregular morphology suggest objects at intermediate defocus distance — not point sources and not maximally defocused discs but intermediate, producing structured PSF (point spread function) shapes. The crescent/arc morphology at center-right could indicate: (a) a partially resolved extended source, (b) an object with non-circular cross-section, or (c) interference between two nearby unresolved objects.
+* The left-edge red blob cluster (left boundary effect) is consistent with camera sensor edge artifacts or a bright off-screen source illuminating the sensor edge.
+
+SPATIAL RELATIONSHIPS:
+* Dominant bright cluster at right side (~80-95% from left, ~55-75% from top).
+* Left-edge blobs at left boundary.
+* Scattered point anomalies throughout center field.
+* Generally sparser scatter than the densest frames in this series.
+
+HIGH-LEVEL SUMMARY: False-color multi-spectral nighttime UAP anomaly documentation frame from the recurring false-color series. Black background with scattered red, blue, and white luminous anomalies. The dominant features are several bright white/red structured blobs at the right side — two irregular clusters with crescent/wing morphology suggesting partial defocus of non-circular sources. Left edge shows the characteristic boundary blob cluster. Part of the systematic nighttime anomaly documentation series; see 13_1990929129089499136 for full physics methodology.

@@ -1,0 +1,40 @@
+IMAGE: 13_2034171356779364352_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Wide-angle view of the SEG apparatus inside the wooden dowel frame, showing the most complex assembly stage yet — a TWO-TIER or two-ring SEG assembly.
+* Center: the SEG assembly now shows TWO concentric rings of rollers stacked vertically:
+  - UPPER ring (smaller diameter): a chrome disc/collar with the orange bearing ball visible at the top. Below the collar, a chrome flanged ring. This upper element appears to be the chrome stator cylinder/disc assembly sitting on top of the lower roller ring.
+  - LOWER ring (larger diameter): the 6 large red-wrapped disc rollers with yellow labels (partial: "U" visible at lower front). The lower roller ring is seated on the hexagonal wooden base platform (tan/beige colored, octagonal cross-section) with the acrylic stator disc below.
+  - Between the two rings: a chrome plate/flange connects the upper stator assembly to the lower roller ring.
+* The assembly now has a three-tiered vertical structure: base (wooden hex platform + acrylic disc) → lower roller ring → chrome connecting plate → upper chrome stator assembly with orange ball.
+* Extensive wiring: red, blue alligator-clip test leads extend from the assembly in all directions across the white bench surface. Yellow label tags are visible on the stator disc perimeter (showing "V" at the front-left).
+* Left background: ATX power supply (black, fan visible). A circular analog gauge/meter visible at left (could be a voltmeter or gauss meter).
+* Right edge: a digital device (possibly a variable frequency drive or power controller with LED display, blue-gray enclosure).
+* Background: wooden frame structure (orange/golden dowel posts), white wall, window visible at right.
+
+TEXT VISIBLE:
+* "U" — yellow label on lower roller
+* "V" — yellow label on stator disc perimeter
+
+COLORS:
+* Red: lower roller wrapping
+* Yellow: labels
+* Chrome/silver: upper stator assembly and connecting plate
+* Orange: bearing ball
+* Tan/beige: wooden hex base
+* Black: ATX PSU at left
+
+PHYSICS CONCEPTS:
+* This two-tier assembly is a significant advance: the experimenter has added a second ring of rollers or a second stator level above the first, creating a layered SEG configuration. Searl's original design called for multiple concentric rings (not just vertically stacked but radially nested), but a vertical stacking approach may achieve similar magnetic field coupling between rings. The chrome plate connecting the two tiers suggests the upper element may rotate relative to the lower, with the connection providing both mechanical coupling and electrical connectivity between levels.
+* The presence of a gauss meter (if the circular gauge at left is indeed one) and the digital controller at right suggest this is an instrumented test configuration where the magnetic field, drive power, and output voltage/current are all being monitored simultaneously.
+
+SPATIAL RELATIONSHIPS:
+* Two-tier SEG assembly at center within wooden frame.
+* Orange ball at top of upper assembly.
+* Lower red rollers at base level.
+* ATX PSU at left.
+* Digital controller at right.
+* Test leads spread outward on white bench.
+
+HIGH-LEVEL SUMMARY:
+Most complex SEG assembly configuration in the series: a two-tier vertically stacked design with the 6-roller lower ring (red, labeled U/V) connected via a chrome plate to an upper chrome stator assembly with the orange bearing ball at the apex. Instrumented with an analog gauge at left (possibly gauss meter) and a digital controller at right. This represents a significant escalation in the SEG build complexity.

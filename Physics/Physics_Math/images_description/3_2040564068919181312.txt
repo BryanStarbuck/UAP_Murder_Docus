@@ -1,0 +1,58 @@
+SHAPES:
+* Black-and-white line diagram on white/light gray background, in roughly circular overall composition
+* OUTER BOUNDARY: Large circle (approximately 800px diameter) with thick black outline
+* INNER CIRCLE: A smaller circle (approximately 250px diameter) positioned at the center, with thick black outline — labeled "R₁" with an arrow pointing from center outward (indicating the inner radius)
+* ANNULAR REGION between inner and outer circles: Contains the key features:
+  * SPIRAL LINES: 4-5 sweeping curves starting from the inner circle boundary and spiraling outward toward the outer boundary:
+    * The curves sweep in a clockwise or counterclockwise direction
+    * They are spaced approximately evenly around the annular region
+    * The curves suggest the current path in a spiral/Archimedean spiral current sheet
+    * Arrows on the curves indicate the direction of current flow (inward or outward)
+  * ARROWS on the spiral curves: 2-3 downward-pointing arrows on the spiral paths, indicating current flow direction
+* EXTERNAL FEATURES (right side of outer circle):
+  * 5 small symbols to the right of the outer circle (outside the boundary): ⊗ symbols (circle with X) arranged in a horizontal row — labeled "voltage taps"
+  * This represents the 5 brush contacts or output terminals where electrical potential is measured
+* RADIAL LINES: Two straight radial lines inside the annular region from the inner circle to the outer boundary, one of which is labeled "R₂" (the outer radius)
+* CURRENT FLOW LABELS:
+  * "I_in" — label near lower left, with arrows indicating current entering the spiral pattern
+  * "I_out" — label at the very bottom, with arrows indicating current exiting
+
+TEXT VISIBLE:
+* "R₁" — label on the inner circle (inner radius)
+* "R₂" — label on a radial line (outer radius)
+* "voltage taps" — label for the 5 external ⊗ symbols
+* "I_in" — input current label
+* "I_out" — output current label
+
+COLORS:
+* White/light gray background
+* Black lines, curves, circles, and text
+* No color
+
+PHYSICS CONCEPTS:
+* This is a precise electrical engineering diagram of a spiral current disc / homopolar generator with multiple voltage taps — a more sophisticated version of the Faraday disc:
+  * Standard Faraday disc: generates a uniform radial EMF (ε = ½ωBR²) between center and rim
+  * Spiral current disc variant: the current is constrained to flow along spiral paths (rather than purely radially) — this creates:
+    * A non-uniform current density distribution j(r) across the disc
+    * A net azimuthal (circumferential) current component, in addition to the radial component
+    * The azimuthal current in the axial magnetic field creates an additional axial force F_z = I_azimuthal × B_r (where B_r is the radial component of field) — potentially providing lift
+  * VOLTAGE TAPS: The 5 ⊗ symbols represent 5 output terminals at different radial positions (different radii between R₁ and R₂). Each tap outputs a different voltage:
+    V(r) = ½ωB(r² - R₁²) — the voltage increases quadratically with radius from the inner boundary
+    The 5 taps allow selecting different output voltages for different purposes (high voltage for field coils, lower voltage for control electronics, etc.)
+  * I_in and I_out: The notation distinguishes between current entering the inner boundary (from a central brush contact) and current exiting the outer boundary (through the outer ring contact), or vice versa depending on the motor/generator operation mode
+  * In the PROPULSION context:
+    * As a motor: current is driven radially inward (I_in) through the disc rotating in an axial field B → the Lorentz force creates torque, driving rotation
+    * As a generator: rotation creates EMF → radial current flows outward (I_out) → voltage measurable at the taps
+    * With spiral current paths: the helical nature of the current flow creates a screw-like force that has both rotational and axial components — potentially creating lift in addition to torque
+  * This diagram represents the most detailed and physically accurate electrical engineering diagram in the collection — likely sourced from a paper on homopolar disc motor/generator design
+
+SPATIAL RELATIONSHIPS:
+* Outer large circle: outermost boundary
+* Inner circle (R₁): innermost boundary, centered
+* Annular region between them: contains spiral current path curves with arrows
+* R₂ label: on a radial line from center to outer boundary
+* Voltage taps (5 ⊗): to the right of the outer circle, outside the main disc
+* I_in and I_out: lower portion of the annular region
+
+HIGH-LEVEL SUMMARY:
+Precise electrical engineering diagram of a spiral-current homopolar disc generator/motor showing a conducting annular disc (inner radius R₁, outer radius R₂) with spiral current paths flowing between the inner and outer boundaries, plus 5 external voltage taps at different radial positions and labeled input/output currents I_in and I_out. This is a more sophisticated variant of the basic Faraday disc: the spiral current paths (rather than purely radial paths) create an azimuthal current component that, in the presence of the axial magnetic field, generates an axial Lorentz force (F_z = I_azimuthal × B_r) potentially providing vertical lift in addition to rotational torque. The 5 voltage taps enable multi-voltage output (V(r) = ½ωB(r² - R₁²) increasing quadratically with radius). This diagram represents the physics underlying the UAP propulsion hypothesis in its most technically specific form — showing that a spiral-current rotating disc generates both rotational torque AND axial thrust, which together could explain both the rotation and vertical levitation of disc-shaped craft.

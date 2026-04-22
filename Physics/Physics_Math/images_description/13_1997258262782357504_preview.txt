@@ -1,0 +1,44 @@
+IMAGE: 13_1997258262782357504_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Portrait-format outdoor/garage laboratory image showing a homopolar motor assembly with a large capacitor as the power source — this is a different experimental setup from the primary three-disc apparatus:
+  - Main assembly (lower-center): a compact hemispherical stainless steel bowl-type homopolar motor — similar in form to the bowl from 13_1994169707616980993 but smaller. The bowl sits upside-down or inverted (dome shape down) on a mercury puddle that has spilled onto the concrete/metal bench surface. Two heavy wire leads (one black, one red/brown) connect the bowl to the capacitor.
+  - Large capacitor (background, center): a rectangular metallic can/box capacitor (gray/silver metallic case, approximately 10×5×5 cm) with two terminal connections (black and red/brown heavy gauge wires). The capacitor has handwritten text on its face: "5 μH DC" (or similar — partially legible: "5 μsH DC" or "5 mH DC"). This is a large energy storage capacitor, possibly an electrolytic capacitor, supercapacitor, or motor-run capacitor.
+  - Red wire: connects the capacitor's positive terminal to the bowl assembly (or being held by a hand at upper-right).
+  - Hand (upper-right): a right hand holding the red wire terminal, about to connect or disconnect it.
+  - Various background items: yellow ruler at upper-right edge; red/yellow box at upper-left (possibly a battery or power supply); partial view of additional components.
+  - Concrete/gray metallic bench surface, outdoor/garage setting (horizontal metal siding visible in background).
+  - Mercury spill: silver mercury liquid visible as a pool around the base of the bowl assembly on the bench surface.
+
+TEXT:
+* On capacitor: "5 μH DC" or similar (handwritten — "5 s# DC" or "5 mH DC" — partially legible).
+* No other text clearly visible.
+
+COLORS:
+* Capacitor: silver/metallic gray.
+* Red wire: bright red.
+* Black wire: black.
+* Bowl assembly: dark stainless/black.
+* Mercury: silver liquid.
+* Bench: concrete gray.
+* Background: gray metal siding.
+
+PHYSICS CONCEPTS:
+* This is a capacitor-discharge homopolar motor experiment — connecting directly to the slide in 13_1992006576060903424 ("A big capacitor can change the spin-direction of a Corbino disc with 11 kV AC power"):
+  1. **Capacitor as power source**: Instead of a continuous DC power supply, this experiment uses a large capacitor that stores charge and releases it as a short, high-current pulse through the Corbino disc. This produces an impulsive Lorentz force that briefly accelerates the conducting disc (or mercury pool) to high angular velocity.
+  2. **Capacitor energy**: The energy stored in a capacitor is E = ½CV². For a large capacitor (e.g., 1-10 F at 5V in a supercapacitor) charged to modest voltage, this produces E = 12.5 J – 125 J. Discharged through the low-resistance mercury disc, this creates a very high current pulse (I = V/R_disc) over a short time constant τ = RC.
+  3. **Impulsive torque**: The impulsive current creates an impulsive Lorentz torque τ = I·(L×B)·r in the disc. By reversing the polarity of the capacitor discharge (or by using an AC capacitor that naturally alternates), the spin direction of the disc can be reversed — exactly as described in the 13_1992006576060903424 slide.
+  4. **Mercury spill**: The mercury has again escaped the bowl containment, possibly from centrifugal ejection during high-rpm operation or from physical upset of the apparatus.
+  5. **UAP connection**: Capacitor-discharge high-current pulsing is a more efficient method of achieving high angular momentum in the conducting disc than continuous DC — pulsed power delivery can produce higher peak currents and thus higher peak Lorentz force than a continuous DC supply at the same energy budget.
+
+SPATIAL RELATIONSHIPS:
+* Bowl assembly with mercury spill at lower-center.
+* Heavy wire leads connecting bowl to capacitor.
+* Capacitor at background center.
+* Hand holding red wire terminal at upper-right.
+* Yellow ruler at upper-right.
+* Red/yellow box at upper-left.
+* Concrete bench surface.
+* Metal siding background.
+
+HIGH-LEVEL SUMMARY: Portrait-format outdoor/garage laboratory image showing a capacitor-discharge homopolar motor experiment — a compact stainless bowl assembly with mercury spill is connected via heavy red and black wire leads to a large rectangular metallic capacitor (labeled "5 μH DC" or similar in handwriting). A hand holds the red wire terminal at upper-right. This documents the capacitor-discharge variant of the Corbino disc experiment — connecting directly to the slide in 13_1992006576060903424 about using a capacitor to change spin direction. The capacitor provides high-current impulse rather than continuous DC, enabling higher peak Lorentz force and spin-direction control.

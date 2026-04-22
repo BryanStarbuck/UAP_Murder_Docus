@@ -1,0 +1,52 @@
+SHAPES:
+* Black-and-white graphic/schematic on white background — portrait orientation
+* OVERALL SHAPE: A roughly triangular arrangement (triangle of three circles) with a complex central element
+* THREE OUTER CIRCLES: Three large circles (approximately 350px diameter each) arranged in an equilateral triangle arrangement:
+  * ONE at top center (partially cut off at the top of the image — only the lower portion visible as an arc)
+  * ONE at lower left
+  * ONE at lower right
+  * These three outer circles are plain outline circles (not filled) — each extends beyond the main composition
+  * Their arrangement defines an equilateral triangle with approximately 400px sides
+* CENTRAL CIRCULAR ELEMENT: Where the three outer circles overlap, a complex overlapping region forms:
+  * OUTER BOUNDARY: A scalloped/bumpy boundary formed by the intersection of the three large circles — creating a roughly circular area with 3 concave sides (a Reuleaux triangle-like shape)
+  * The intersection of three circles of equal radius whose centers form an equilateral triangle creates a specific curved triangle (the "3-petal" region)
+  * INNER CONCENTRIC RINGS: Inside the central intersection area:
+    * A series of concentric rings (approximately 4-5 rings) getting smaller toward the center
+    * Creating a "target" or "bullseye" pattern
+    * Central small black dot at the very center
+  * SPIRAL/ROTATING ELEMENT: Within the central region, 3 curved "petals" or arc shapes sweep in a consistent rotational direction:
+    * Each petal = a crescent or curved arc
+    * 3 petals together create a rotating triskelion / pinwheel effect
+    * The petals sweep clockwise (or counterclockwise)
+    * This creates a strong impression of rotation within the concentric ring target
+* SINGLE ISOLATED DOT: One small black circle (approximately 15px) positioned at the bottom center of the image, below the main composition
+
+TEXT VISIBLE:
+* None
+
+COLORS:
+* White background
+* Black fills and outlines
+* No additional colors
+
+PHYSICS CONCEPTS:
+* This diagram encodes the 3-phase generator topology through the geometry of three overlapping circles:
+  1. THREE-CIRCLE ARRANGEMENT (equilateral triangle): Three equal circles with centers forming an equilateral triangle, each circle tangent to or overlapping the others, is the fundamental construction of:
+     * The Reuleaux triangle (union of 3 circular arcs) — a shape of constant width
+     * The 3-phase generator's 3 stator coil positions (exactly this geometry: 3 coils at 120° intervals)
+     * The "Borromean rings" in 2D cross-section (3 interlocked rings where no two are directly linked)
+  2. CENTRAL SWIRLING CONCENTRIC RINGS: The triskelion petals within the target pattern represent:
+     * The rotating magnetic field created by the 3-phase U-V-W coils — the swirl indicates continuous rotation
+     * In classical electromagnetism: when 3 coils at 120° intervals are powered with 3-phase AC voltages (V_U, V_V, V_W each 120° out of phase), the superposed magnetic field vector rotates continuously at the supply frequency ω — the "rotating magnetic field" principle
+     * The concentric rings represent the successive instantaneous positions of the field vector as it sweeps around the circle — each ring = one phase position
+  3. ISOLATED BOTTOM DOT: May represent the neutral point of the 3-phase system (in a star/wye connection, the neutral point N is the common terminal of the three phase windings, carrying zero current in a balanced system)
+  4. GEOMETRIC BEAUTY: The specific geometry of 3 equal circles centered on an equilateral triangle creates a unique visual language for 3-fold symmetry — the same geometry found in the Bishops Sutton formations (3 large coil circles at 120°) and in the Müller dynamo 3-phase schematic
+
+SPATIAL RELATIONSHIPS:
+* Three outer circles at the vertices of an equilateral triangle
+* Their mutual overlap defines the central region
+* Central region: swirling triskelion petals within concentric ring target
+* Single dot at the very bottom of the image, below and between the two lower circles
+
+HIGH-LEVEL SUMMARY:
+Black-and-white schematic showing three large circles arranged in an equilateral triangle formation, their overlapping intersection region containing a swirling triskelion / rotating spiral within concentric rings and a central dot — the complete geometric encoding of a 3-phase AC rotating magnetic field generator. The three circles represent the three stator coils at 120° intervals; their intersection (the "3-petal" Reuleaux triangle region) is where the combined magnetic field of all three coils overlaps, and the rotating triskelion spiral illustrates the continuous rotation of the superposed magnetic field vector at angular frequency ω. This diagram provides the geometric derivation of why 3-phase at 120° coil spacing creates a smoothly rotating field — the intersection geometry of three equal equilateral-triangle-arranged circles naturally produces a 3-fold rotationally symmetric region where the combined fields rotate continuously.

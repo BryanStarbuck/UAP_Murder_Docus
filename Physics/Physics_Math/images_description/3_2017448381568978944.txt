@@ -1,0 +1,37 @@
+IMAGE DESCRIPTION: 3_2017448381568978944.jpg
+
+SHAPES AND TEXT:
+* Black and white disc schematic on white background — composite motor disc diagram with multiple concentric elements
+* Outer boundary: thin circle (outer frame)
+* Beaded chain ring: a ring of gradient-sized circles following the thin outer circle — circles start small at each "end" and grow large in three clusters symmetrically distributed at approximately 120-degree intervals. The three clusters have progressively larger circles, with the largest circle at the peak of each cluster. Between clusters: very small circles tapering down. The total count appears to be approximately 30+ circles in the beaded chain.
+* Three bull's-eye (concentric ring) elements attached to the outer circle at three positions (top center, lower-left, lower-right) — each bull's-eye has 3-4 concentric rings and a central solid black dot:
+  - These three bull's-eye elements sit ON the outer circle, connected to it, at 120-degree intervals (three-fold symmetry = C3v)
+  - The bulls-eyes are externally tangent to the outer ring
+* Large 10-12 pointed star (black solid) in the center — with approximately 10 points (decagram star or close approximation) — the star has sharp sawtooth points and rotational symmetry
+* Inside the central star: a large concentric ring system (bull's-eye):
+  - Outer black disc
+  - White annular ring
+  - Black annular ring
+  - White annular ring
+  - Central solid black disc (hub)
+  - Total: approximately 4 rings + central dot
+
+TEXT: None.
+
+COLORS: Black and white only.
+
+PHYSICS / CONCEPTS:
+* This complex schematic combines multiple elements of the propulsion system in a single plan-view diagram:
+  1. Outer beaded chain ring (gradient-sized circles): the beaded ring stator/coil assembly. The gradient sizing (small → large → small within each of three clusters) represents:
+     - The current/field intensity at each coil position (larger bead = stronger field, corresponding to the coil receiving maximum current at that phase moment)
+     - A 120-degree × 3 = three-cluster distribution = three-phase: each cluster represents one phase at peak current
+  2. Three bull's-eye elements at 120-degree intervals: the three phase connection points/terminals of the three-phase circuit. Three bull's-eyes at 120-degree intervals = three-phase stator winding terminals (each bull's-eye = one phase terminal with coaxial connection)
+  3. Central 10-12 point star (sawtooth): the rotor element — a multi-pole permanent magnet rotor or sawtooth wave generator. The sharp points of the star encode:
+     - N and S alternating magnetic poles (each tooth = one pole)
+     - The frequency of the sawtooth wave produced by the rotating star passing fixed sensors
+     - A gear-like structure that may mesh with the bead ring
+  4. Central concentric ring system (bull's-eye at center): the bearing/hub assembly with concentric rings representing nested bearings or concentric conducting rings for current collection (homopolar/Faraday disc current paths)
+* The gradient bead ring is the most sophisticated encoding of three-phase current distribution in the entire collection — it shows the spatially varying amplitude of the rotating magnetic field as a function of angular position
+
+SUMMARY:
+Complex black-and-white plan-view disc motor schematic combining: (1) an outer gradient beaded chain ring with three clusters of progressively larger circles at 120-degree intervals (encoding three-phase current amplitude distribution), (2) three bull's-eye phase terminal elements at 120-degree intervals on the outer ring, (3) a central 10-12 point sawtooth star (rotor element), and (4) a central concentric ring hub (bearing/current collector). The gradient bead sizes encode the amplitude variation of the three-phase rotating magnetic field as a function of angular position — the most sophisticated single-diagram representation of three-phase motor physics in this collection.

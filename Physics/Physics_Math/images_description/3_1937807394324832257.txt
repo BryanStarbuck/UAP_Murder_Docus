@@ -1,0 +1,60 @@
+IMAGE: 3_1937807394324832257.jpg
+
+SHAPES AND OBJECTS:
+* Electronic scale (digital): a white consumer-grade electronic kitchen/laboratory scale with a blue LCD digital display, photographed on a white workbench. The scale reads "392" with a small "g" indicator, indicating 392 grams total weight.
+* Scale LCD display panel: blue backlit rectangular display showing "392" in large digits with a "0" preceding it (reading "0392" or "392 g"). Buttons visible: ON/OFF (left), UNIT, PCS, CAL (center-bottom), and TARE/ZERO (right).
+* Round clear/transparent platform on scale: a circular glass or acrylic platform approximately 280px diameter sits on top of the scale, holding the experimental apparatus above the scale surface.
+* Experimental device on scale platform:
+  - Central vertical steel rod/shaft: a thin stainless steel or chrome rod approximately 8mm diameter, approximately 350px tall, mounted vertically through the center of the apparatus.
+  - Blue ball at top of rod: a small blue or orange sphere (approximately 20px, appears blue-gray or possibly light orange) sits on top of the vertical rod, possibly a bearing ball or mounting cap.
+  - Two large disc-shaped electromagnet coil assemblies: at the left and right sides, two large wound coil assemblies (approximately 120px diameter, 50px thick each) are mounted horizontally at the mid-height of the apparatus. These appear to be large solenoid or pancake coil assemblies, with orange/red wire windings visible at the outer edges and gray metallic end caps.
+  - Red electrical tape: both large coil assemblies are wrapped in red electrical tape at their outer surfaces, securing the windings. Additional red tape fragments are visible.
+  - Yellow label tags: small yellow paper tags with handwritten text are attached to the coil assemblies. The visible labels appear to show: "16 V", "1000", and possibly partial text on a third tag — indicating the coil specifications (16 volt rating, 1000 turns).
+  - Central disc element: between the two arm coils, a central disc assembly (approximately 100px diameter, 30px thick) sits at the midpoint of the rod — possibly a permanent magnet disc, a rotor, or a coupling element.
+  - White/gray base material: the apparatus sits on a rectangular white/gray base block (possibly a ceramic, plastic, or foam spacer) on the clear platform.
+  - Red and blue wires: a red wire and a blue wire are visible running from the coil assembly downward, indicating electrical connections for power supply.
+* Background: cluttered workshop — wooden shelf or pegboard visible behind the apparatus, with multiple screwdrivers (yellow/black handles) arranged in a row at right, and various tools at left.
+
+TEXT (transcribed exactly):
+* "ELECTRONIC SCALE" — text on the scale body below the display.
+* "392" — scale reading (grams).
+* "ON/OFF" — left button label.
+* "TARE ZERO" — right button label.
+* "UNIT", "PCS", "CAL" — center button labels.
+* "16 V" — handwritten on yellow tag (partially visible).
+* "1000" — handwritten on yellow tag (turn count).
+* Additional partial text on yellow tags — not fully legible.
+
+COLORS:
+* Scale body: white.
+* Scale display: blue backlit LCD.
+* Platform: clear/transparent.
+* Coil assemblies: gray metallic ends, orange/red wire windings at edges.
+* Red tape: vivid red.
+* Yellow tags: bright yellow.
+* Central disc: silver/gray metallic.
+* Wires: red (positive) and blue (negative).
+* Background tools: yellow-black screwdriver handles.
+
+PHYSICS / PHENOMENON:
+* This is an experimental weight/mass measurement of an electromagnetic coil apparatus — a key measurement in a thrust or weight-reduction experiment. The setup shows:
+  (1) The scale reading of 392 g is the total weight of the apparatus (the clear platform + central rod + two pancake electromagnet coils + central disc).
+  (2) The two large pancake coils (rated 16V, ~1000 turns based on labels) are the primary electromagnetic elements — likely Helmholtz coil configuration or Woodward-effect coil geometry.
+  (3) The clear platform elevates the apparatus off the scale so the scale reads only the mechanical weight, not any normal force from table contact — this is the correct configuration for measuring apparent weight change under electromagnetic excitation.
+  (4) The central disc between the coils may be a permanent magnet disc (for Woodward/Mach-effect experiments, where oscillating electromagnetic forces combined with acoustic energy create transient mass fluctuations) or a conductive rotor (for levitation experiments).
+  (5) This appears to be a Mach Effect Thruster (MET) or similar electromagnetic mass-fluctuation device — the Woodward effect predicts that when a capacitor or inductor is driven with oscillating electromagnetic power while simultaneously being accelerated by a mechanical oscillation, a net unidirectional force is produced. The scale measurement would detect any reduction in apparent weight (thrust in the upward direction).
+* The coil specifications (16V, 1000 turns) and the scale reading context suggest this is either: (a) a baseline weight measurement before power is applied, to be compared with the reading during operation; or (b) a documentation of apparatus mass for calculating the thrust-to-weight ratio.
+* The Woodward/Mach Effect thruster is one of the few proposed UAP-physics-relevant propulsion concepts with ongoing academic research (by James Woodward at Cal State Fullerton, and by the Mach Effect Thruster collaboration), making this type of kitchen-scale amateur experiment directly relevant to replication of that work.
+
+SPATIAL RELATIONSHIPS:
+* Scale at the bottom, occupying the lower 40% of the frame.
+* Circular platform sits on top of the scale.
+* Vertical rod centered on the platform, rising to the top of the frame.
+* Two horizontal pancake coils mounted symmetrically at left and right at mid-rod height.
+* Central disc at the midpoint of the rod between the two coils.
+* Blue ball at the very top of the rod.
+* Red and blue wires exit the apparatus at right and hang down.
+* Workshop background fills the upper frame.
+
+HIGH-LEVEL SUMMARY:
+A laboratory weight measurement of a two-coil electromagnetic experimental apparatus on a digital scale reading 392 grams. The apparatus consists of a central vertical rod with two large horizontal pancake solenoid coils (rated 16V, approximately 1000 turns each, secured with red electrical tape and labeled with yellow handwritten tags) symmetrically mounted at mid-height, plus a central disc element. The configuration is consistent with a Woodward/Mach Effect Thruster (MET) geometry — a device that uses oscillating electromagnetic energy in inductors to create predicted transient mass fluctuations and net unidirectional thrust. The scale measurement documents the apparatus baseline weight for thrust-to-weight ratio calculation, representing an amateur replication experiment of the Mach Effect propulsion concept directly relevant to UAP inertial mass reduction theories.

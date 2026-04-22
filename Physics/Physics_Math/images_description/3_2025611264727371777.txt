@@ -1,0 +1,68 @@
+SHAPES:
+* Composite image with multiple panels and text box
+* TOP LEFT PANEL: Crop formation schematic (line art on white background):
+  * A large outer circle: approximately 350px diameter
+  * Two sub-circles partially overlapping or adjacent inside the outer boundary:
+    * LEFT sub-circle: solid black filled circle (approximately 150px diameter)
+    * RIGHT sub-circle: concentric ring set — outer ring (approximately 150px diameter) with inner ring and black central dot
+  * The two sub-circles overlap slightly in the center (vesica piscis overlap zone)
+  * This is the same formation layout as 3_2025611240379432960 but with the solid/concentric elements reversed in position
+  * No date or location annotation visible on the schematic itself
+* TOP RIGHT PANEL: Physics diagram of the Faraday disc (same as companion image):
+  * Outer dashed circle (approximately 300px diameter) divided by perpendicular and diagonal lines into 8 sectors
+  * Upper right sector: blue shaded, labeled "magnetic field" with ⊙ symbol (field out of page)
+  * Red arrows: "wire velocity" (upward) and "current" (rightward)
+  * External circuit connection with:
+  * "voltmeter" — labeled analog meter at lower right
+* BOTTOM LEFT PANEL: Historical engraving/illustration of Faraday's original disc apparatus:
+  * A mechanical device on a base platform
+  * Large disc on the left side (approximately 200px diameter in the image) — appears to be a metal or copper disc mounted on an axle
+  * Mechanical frame/support structure: columns, axle bearings, adjustment screws (labeled with small letters)
+  * Horseshoe magnet or bar magnet visible behind or beside the disc
+  * This is the classic 19th-century illustration of Faraday's 1831 homopolar generator experiment as published in Faraday's own papers or in contemporary physics textbooks
+* TEXT BOX (bottom right, on white background with black border):
+  * "The 'Faraday disc' as drawn in crops near Ipuacu, Brazil on October 26, 2014."
+  * (blank line)
+  * "An essential part of UFO-levitation physics!"
+
+TEXT VISIBLE:
+* "wire velocity" — label on the physics diagram
+* "current" — label on the physics diagram
+* "magnetic field" — label on the blue shaded region
+* "voltmeter" — label on the meter
+* "The 'Faraday disc' as drawn in crops near Ipuacu, Brazil on October 26, 2014." — text box
+* "An essential part of UFO-levitation physics!" — text box
+
+COLORS:
+* White background
+* Black line art
+* Blue shading (magnetic field region)
+* Red arrows (velocity and current)
+* Orange/tan (voltmeter face)
+* The historical engraving: sepia/grayscale
+
+PHYSICS CONCEPTS:
+* This image identifies the October 26, 2014 Ipuacu, Brazil formation as a Faraday disc schematic — providing a second data point from a different location and time (1998 UK vs. 2014 Brazil) for the same encoding:
+  * The Ipuacu 2014 formation (two overlapping circles within a large circle) matches the topology of a Faraday disc in a slightly different representation than the 1998 UK formation:
+    * Solid black circle = the conducting rotating disc
+    * Concentric ring set = the magnetic field poles (N and S) of the permanent magnet creating the axial field
+    * Outer large circle = the overall device boundary
+    * The overlap (vesica piscis zone) = the region where the disc and magnetic field interact to generate current
+  * The historical engraving of Faraday's original apparatus provides the "real device" reference — showing that the crop formation schematic corresponds to an actual machine built in 1831
+  * Key physics of the homopolar generator (repeated with additional detail):
+    * The EMF between the center and rim: ε = ½ωBR² (ω = angular velocity in rad/s, B = axial field strength in Tesla, R = disc radius in meters)
+    * Power output: P = ε²/R_ext (where R_ext is external load resistance)
+    * The device can in principle generate enormous currents at low voltage — a 1-meter radius disc spinning at 1000 rpm (ω ≈ 105 rad/s) in a 1 Tesla field generates ε ≈ 52.5 V; practical devices have achieved megawatt pulsed power outputs
+    * The connection to UAP levitation: if the current is routed to create a high-current loop around the disc perimeter, the resulting I × B force (the Laplace force, F = I L × B) creates a net axial force — potentially lifting the disc
+  * The assertion "An essential part of UFO-levitation physics!" directly claims the Faraday disc mechanism is a core component of UFO propulsion
+  * The Ipuacu, Brazil location is noted in companion image 3_2025112019356282880 as a site with multiple formation appearances encoding electromagnetic physics
+
+SPATIAL RELATIONSHIPS:
+* Top left: crop formation schematic
+* Top right: Faraday disc physics diagram
+* Bottom left: historical Faraday apparatus engraving
+* Bottom right: explanatory text box
+* The layout creates a four-panel grid connecting: crop formation → physics theory → historical device → explanatory text
+
+HIGH-LEVEL SUMMARY:
+Companion image to 3_2025611240379432960, identifying the October 26, 2014 Ipuacu, Brazil crop formation as a schematic of the Faraday homopolar generator / disc — providing a second data point (after the July 1998 UK formation) for the same electromagnetic device encoded in crops at different locations and times. The composite includes the crop formation schematic, the Faraday disc physics diagram (with labeled wire velocity, current, magnetic field, and voltmeter), and a historical 19th-century engraving of Faraday's original apparatus, with the text box declaring it "an essential part of UFO-levitation physics." The EMF formula (ε = ½ωBR²) and the potential for generating megawatt-scale pulsed power at high disc rotation speeds support the claimed connection between the Faraday disc mechanism and UAP electromagnetic propulsion systems. The recurrence of the same encoding at Ipuacu, Brazil (2014) and in the UK (1998) is cited as evidence for a consistent non-human communicator returning to the same physics concept across years and continents.

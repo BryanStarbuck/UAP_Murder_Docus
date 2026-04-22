@@ -1,0 +1,70 @@
+SHAPES:
+* Composite image with title text and two main panels
+* TITLE (top): "The 'Faraday disc' as drawn in crops by friendly aliens: might it be used somehow for UFO levitation?" — two lines, mixed black and blue text
+* ANNOTATION (bottom left): "July 1, 1998"
+* LEFT PANEL: Crop formation schematic (line art on white background):
+  * Large outer circle: approximately 350px diameter
+  * Inside the outer circle: two sub-elements:
+    * LEFT sub-element: Two concentric circles (approximately 160px outer, 80px inner diameter) positioned left of center — with a solid black center dot
+    * RIGHT sub-element: A large solid black filled circle (approximately 150px diameter) positioned right of center, slightly overlapping the inner boundary of the outer circle
+  * Two small dots/nodes: one at the top interior of the outer circle, one at the bottom — positioned on the axis of the two sub-elements
+  * The arrangement reads as: one concentric-ring target on the left and one solid black disc on the right, both enclosed in a larger circle
+  * This formation is from July 1, 1998 (location unspecified, but consistent with UK Wiltshire formations)
+* RIGHT PANEL: Physics diagram of the Faraday disc / homopolar generator:
+  * Outer dashed circle: approximately 350px diameter (representing the disc boundary)
+  * Interior: divided by two perpendicular lines (X and Y axes) into 4 quadrants
+  * Additional diagonal lines creating 8 sectors total (like an 8-slice pie)
+  * UPPER RIGHT QUADRANT: Shaded blue — labeled "magnetic field"
+    * Inside: small circle with a centered dot (⊙ symbol) indicating magnetic field directed OUT of the page (toward the viewer)
+  * Arrows labeled:
+    * "wire velocity" — vertical red arrow pointing upward in the upper right area
+    * "current" — horizontal red arrow pointing rightward
+  * These arrows indicate: when the conducting disc rotates (velocity = upward/tangential), and the magnetic field is directed out of the page, the Lorentz force (F = qv × B) drives current radially outward (rightward arrow)
+  * A square/rectangle in the lower right: represents the external circuit connection
+  * Below the circuit: a labeled "voltmeter" — a gauge instrument with a needle indicator (the classic analog meter symbol)
+
+TEXT VISIBLE:
+* "The 'Faraday disc' as drawn in crops by friendly aliens: might it be used somehow for UFO levitation?" — title
+* "July 1, 1998" — formation date
+* "wire velocity" — label on vertical arrow
+* "current" — label on horizontal arrow
+* "magnetic field" — label on blue-shaded region
+* "voltmeter" — label on meter symbol
+
+COLORS:
+* White background
+* Black line art (both formation schematic and physics diagram)
+* Blue shading (magnetic field region in the physics diagram)
+* Red arrows (wire velocity and current direction)
+* Orange/tan (voltmeter face)
+
+PHYSICS CONCEPTS:
+* This image directly identifies the 1998 crop formation as a schematic of the Faraday disc / homopolar generator — one of the oldest electromagnetic machines, invented by Michael Faraday in 1831:
+  * Faraday disc principle: When a conducting disc rotates in a uniform axial magnetic field B (directed along the rotation axis), the free electrons in the disc experience a Lorentz force F = q(v × B):
+    * v = tangential velocity of the disc (increases linearly with radius: v = ωr)
+    * B = axial magnetic field (perpendicular to the disc face)
+    * F = q(ωr × B) = radially directed force → drives radial current from center to rim (or rim to center depending on B direction and rotation sense)
+  * The EMF generated: ε = ½ωBR² (where ω = angular velocity, B = magnetic field, R = disc radius)
+  * The homopolar generator produces DC (direct current) directly, without commutator rings — because the radial current direction doesn't reverse with rotation
+  * It is called "homopolar" because the polarity of the EMF is constant regardless of disc angle — unlike a conventional AC generator where the polarity alternates as the coil rotates through different field orientations
+* Formation interpretation:
+  * LEFT concentric ring sub-element = the magnetic field region (axial field through the disc, shown as concentric rings representing the toroidal field cross-section)
+  * RIGHT solid black disc = the rotating conducting disc
+  * OUTER large circle = the boundary of the device / the return current path
+  * TWO DOTS on the axis = the axle/bearing contacts where current is extracted (brush contacts at the center and rim of a Faraday disc)
+* UAP levitation connection: The researcher's question ("might it be used for UFO levitation?") addresses whether the Faraday disc could create propulsive force:
+  * In a high-power Faraday disc, the radial current (I_r) flowing through the disc in the presence of the axial magnetic field (B_z) produces an azimuthal force F_θ = I_r × B_z (the J × B force on the current-carrying disc)
+  * This azimuthal force creates torque (not thrust) in the standard configuration
+  * However, if the field geometry is modified (e.g., using a radial magnetic field instead of axial), the current-field interaction could produce an axial (upward/downward) force — potentially providing lift
+  * This is directly related to the Biefeld-Brown effect research and electromagnetic propulsion hypotheses
+
+SPATIAL RELATIONSHIPS:
+* Title text spans the full top
+* Left panel: crop formation schematic (no labels)
+* Arrow connecting left panel to right panel (indicating the formation represents the right-panel device)
+* Right panel: Faraday disc physics diagram with labeled arrows and regions
+* Voltmeter diagram at the bottom right, connected to the circuit
+* Date annotation at the bottom left
+
+HIGH-LEVEL SUMMARY:
+Composite image identifying the July 1, 1998 crop formation (two concentric rings + solid disc within a large circle) as a schematic representation of Michael Faraday's 1831 homopolar generator / Faraday disc. The physics diagram panel shows the operating principles: a conducting disc rotating in an axial magnetic field B develops a radial EMF ε = ½ωBR² due to the Lorentz force on free electrons, producing continuous DC current measurable by a voltmeter. The title question — "might it be used somehow for UFO levitation?" — addresses whether the J × B force on the current-carrying disc in the magnetic field could produce axial thrust rather than mere torque, connecting classical electromagnetism (Faraday 1831) to UAP propulsion hypotheses. This is one of several images in the collection linking specific dated crop formations to established physics devices, arguing that non-human intelligence encoded the principles of electromagnetic power generation in the crop formations.

@@ -1,0 +1,45 @@
+IMAGE DESCRIPTION: 3_2016982640801566723.jpg
+
+SHAPES AND TEXT:
+* White background annotated disc schematic — highly labeled variant of the standard vertical-axis two-magnet disc diagram with ADDITIONAL material/component labels
+* Top element: red-outlined solid black circle with white dot (magnet, "magnet N/S")
+* Trident/fork connector
+* Central beaded ring (ring of approximately 15 small black circles around solid black disc), outlined in MAGENTA/PURPLE (rather than blue)
+* Large black circle below the beaded ring
+* Small curved connector (tilde/wave shape)
+* Bottom element: red-outlined solid black circle with white dot (second magnet, "magnet N/S")
+
+TEXT (transcribed exactly — most labels yet in this series):
+"Λ" (red/dark, Greek lambda character OR caret symbol) — upper-left, near top magnet
+"3-phase magnetism" (blue, bold) — upper-left (below the Λ)
+"magnet N/S" (red, bold) — upper-right
+"3-phase magnetism" (blue, bold) — left-center (second occurrence)
+"15 wire coils" (blue, bold) — left-lower
+"stainless-steel tube" (magenta/purple, bold) — right-center (NEW LABEL)
+"ball bearings" (magenta/purple, bold) — right-center-lower (NEW LABEL)
+"Λ" (red/dark, second occurrence) — lower-left, near lower disc
+"magnet N/S" (red, bold) — lower-center
+
+COLORS: White background, black elements, red magnet outlines and red text, blue label text, magenta/purple circle outline on beaded ring and magenta/purple text for structural labels.
+
+PHYSICS / CONCEPTS:
+* This variant introduces two completely new engineering labels not seen in other versions:
+  1. "stainless-steel tube" (magenta): labels the outer boundary of the beaded ring — the tube serves as:
+     - The structural housing/containment vessel for the Galinstan or coil assembly
+     - A non-magnetic conductive tube (stainless steel is paramagnetic, very weakly magnetic) — non-magnetic property means it won't distort the rotating magnetic field
+     - In a liquid metal (Galinstan) design: the stainless steel tube contains the liquid metal, provides the current conduction path via the tube wall, and serves as the structural toroidal chamber
+     - Stainless steel has good corrosion resistance with liquid metals (Galinstan is compatible with stainless steel at low temperatures)
+  2. "ball bearings" (magenta): labels the beaded ring elements themselves — this is a crucial alternative interpretation:
+     - Instead of "wire coils," the beaded elements may be BALL BEARINGS arranged in a race
+     - Ball bearings in a ring = a bearing race — used to support the rotating element (the central disc or the ring itself)
+     - In the Muller dynamo and similar devices, the rotating disc is supported by ball bearings at the central shaft
+     - Alternatively: "ball bearings" may refer to conductive ball bearings used as current paths in an electrostatic/electromagnetic propulsion system (conductive spheres in a ring creating capacitive coupling or inductive elements)
+  3. The "Λ" (lambda) symbols above and below: Λ may indicate:
+     - The Greek letter λ (lambda) = wavelength — the wavelength of the resonant electromagnetic mode
+     - A caret (^) indicating "upward force" or "Lorentz force direction"
+     - Lambda in physics also: cosmological constant (in GR), or Λ-hyperon particle
+  4. "3-phase magnetism" appears TWICE (upper-left and left-center): emphasizing two separate three-phase field components at different positions in the device
+* The stainless-steel tube + ball bearings + 15 wire coils labeling suggests a hybrid design where both mechanical bearings and electrical coils are present in the ring assembly
+
+SUMMARY:
+Annotated vertical disc diagram with the most extensive engineering labels in the series. New additions: "stainless-steel tube" (magenta, labeling the ring housing), "ball bearings" (magenta, labeling the ring elements), and two "Λ" (lambda) symbols flanking the assembly. Existing labels: "15 wire coils," "3-phase magnetism" (×2), "magnet N/S" (×2). The stainless-steel tube specifies the non-magnetic containment material for the coil/Galinstan ring; "ball bearings" suggests a mechanical bearing function alongside or instead of the electrical coil function. This variant provides the most specific engineering materials specification for the disc propulsion ring assembly.
