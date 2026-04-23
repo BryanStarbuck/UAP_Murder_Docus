@@ -1,0 +1,73 @@
+IMAGE DESCRIPTION: 3_1969278819111747584.jpg
+
+SHAPES AND ELEMENTS:
+* Black-on-white technical diagram
+* Large outer circle (boundary ring of the disc)
+* Inner concentric ring (creating one gap/annulus between the two circles)
+* A smaller inner circle (approximately 1/4 to 1/3 the diameter of the outer circle) — the central shaft or axle hole
+* Two curved arrows indicating rotation direction
+* Five small circles with X-marks (brush/contact symbols) arrayed in a horizontal row to the right of center
+* Label: "voltage taps" with a bracket indicating the row of X-marked circles
+* White space inside the inner circle = shaft/axle region
+
+DISC STRUCTURE (from outside to inside):
+* OUTER BOUNDARY CIRCLE: large thin black ring — the outer rim of the Faraday disc
+* ANNULAR GAP (white): the main disc body (the conducting region where current flows radially)
+* INNER CIRCLE BOUNDARY: concentric ring within the outer — the inner rim of the disc annular region or a structural feature
+* CENTRAL SMALL CIRCLE: the axle/shaft hole — the non-conducting center
+
+ROTATION ARROWS:
+* Two curved arrows indicating counterclockwise (CCW) rotation of the disc (both arrows curve CCW)
+* One arrow is at approximately the 7-8 o'clock position on the outer annulus
+* One arrow is at approximately the 9-10 o'clock position, slightly inside the first
+* The arrows are inside the outer circle, in the white annular region, confirming the disc body is what rotates
+
+VOLTAGE TAP SYMBOLS:
+* Five small circles with X patterns inside (standard electrical "contact" or "brush" symbols)
+* Arranged in a horizontal row to the right of center, between the inner small circle and the outer boundary
+* A bracket and label "voltage taps" below the row of symbols
+* These represent 5 brush contacts sampling the disc voltage at their respective radial positions
+
+COLORS:
+* Black: outlines, arrows, contact symbols, label text
+* White: background, disc interior regions
+
+TEXT:
+* "voltage taps" — black text with bracket, right of center area
+
+PHYSICS / INFORMATION CONCEPTS:
+* MULTI-TAP FARADAY DISC — VOLTAGE PROFILE MEASUREMENT:
+  * This diagram shows a Faraday homopolar disc with 5 radially distributed voltage taps (brush contacts at 5 radial positions)
+  * The disc rotates CCW at angular velocity ω in an axial magnetic field B_z (directed into or out of the page — not shown explicitly, but implied by the rotation and voltage generation)
+  * The EMF generated between a tap at radius r and the central axle: V(r) = ½ω B_z r²
+  * The EMF between two taps at radii r₁ and r₂: ΔV = ½ω B_z (r₂² - r₁²)
+  * For 5 taps at evenly spaced radii r_n = n × (R_outer - R_inner)/5 + R_inner (n = 1, 2, 3, 4, 5):
+    - The voltage increments increase with r: ΔV_n+1 - ΔV_n = ½ω B_z (r_{n+1}² - r_n²) > ΔV_n - ΔV_{n-1} (the increments are larger at larger radii, since r² grows faster than r)
+
+* CCW ROTATION AND FIELD POLARITY:
+  * The CCW rotation (as viewed from above) with axial B_z upward: the Lorentz force on positive charge carriers in the disc is F = qv × B = q(rω θ̂) × (B_z ẑ) = -qrω B_z r̂ (inward radial direction)
+  * This means positive charges accumulate at the inner axle, making it positive; the outer rim becomes negative
+  * The voltage taps at larger radii are at more negative potential relative to the axle
+  * If B_z is downward (into page): the force reverses, outer rim becomes positive
+
+* MULTI-TAP APPLICATION:
+  * 5 taps generating incremental voltages: V₁ < V₂ < V₃ < V₄ < V₅ (from inner to outer)
+  * These can power 5 circuits simultaneously at different voltages from a single rotating disc
+  * In a UAP propulsion context: the multi-tap disc powers 5 phase coils of a 5-phase stator, each coil receiving the appropriate voltage for its position in the rotating field sequence
+  * 5-phase systems are used for fault tolerance (if one phase fails, the system continues with reduced but non-zero output) and for smoother torque ripple (compared to 3-phase)
+
+* RELATIONSHIP TO EARLIER DIAGRAMS:
+  * This is a cleaner, labeled version of the multi-tap disc schematic in 3_1969226568187985921 (which had 10-12 hooks)
+  * Here only 5 taps are shown — either a different design or a simplified illustration
+  * The explicit label "voltage taps" is the key annotation, making this a pedagogical diagram explaining the crop formation interpretation
+
+SPATIAL RELATIONSHIPS:
+* Outer boundary circle: perimeter of the disc
+* Annular gap (white): the main disc body
+* Inner small circle: center (axle)
+* Two CCW rotation arrows: left-center within the annular gap
+* Five voltage tap symbols: right of center, in a horizontal row within the annular gap
+* "voltage taps" label and bracket: below the five symbols
+
+HIGH-LEVEL SUMMARY:
+Black-on-white technical diagram of a Faraday homopolar disc with 5 radial voltage taps. The disc consists of a large outer boundary circle, a concentric inner boundary, and a small central axle circle; the disc body rotates CCW (two curved arrows in the annular region). Five brush contact symbols (circles with X marks) are arranged in a horizontal row at the right, labeled "voltage taps." The physics: the rotating disc in an axial magnetic field B_z generates radially distributed EMF V(r) = ½ω B_z r² — positive charges accumulate at the axle (CCW rotation with B_z out of page), making the axle positive and the outer rim negative. Each of the 5 taps samples the disc at a different radius, providing 5 different output voltages: ΔV_n = ½ω B_z (r_n² - r_{n-1}²). This labeled diagram is the pedagogical companion to the schematic in 3_1969226568187985921 and the Faraday disc crop formation analysis in 3_1964819127136403456, explicitly naming the voltage tap concept that the crop formation encodes.
