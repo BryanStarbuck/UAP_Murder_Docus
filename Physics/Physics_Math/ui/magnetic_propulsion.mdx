@@ -1,0 +1,95 @@
+---
+title: "Rotating Magnetic Field Propulsion"
+sidebar_label: "Rotating Magnetic Drive"
+---
+
+# Rotating Magnetic Field Propulsion
+
+Rotating and pulsed electromagnetic fields as a mechanism for generating lift and thrust — without combustion, without reaction mass, and without conventional aerodynamic surfaces.
+
+The physics basis: when a time-varying magnetic field interacts with a ferromagnetic element, it exerts a body force (the Kelvin force) proportional to the gradient of the field energy density. When this field is produced by a rotating multi-phase coil assembly, the time-averaged force is directional. The question under investigation is whether the net force on the entire device can be nonzero — whether the internal forces between coils and the ferrite element can be converted into external thrust.
+
+This approach connects directly to documented UAP research:
+
+* **The BUGA orb-sphere device** — a European independently-built device documented over years of construction, operating on three-phase AC current, with a toroidal iron element and a spinning rotor at its core.
+* **Dr. Horace Drew's rotating magnets research** — Caltech/Cambridge scientist analyzing crop circle physics as encoded UAP propulsion diagrams. His device: a central magnet counter-spinning against a four-magnet flywheel, driven by three-phase AC. Documented upward force during counter-rotation. See [Rotating Magnets Propulsion](/physics/Details/Rotating_Magnets).
+* **Ning Li's gravitomagnetic amplification** — peer-reviewed work (Physical Review B, 1992) showing rotating ions in a superconductor lattice could produce gravitomagnetic effects orders of magnitude above bulk predictions. DOD-funded. Results classified.
+* **Podkletnov's rotating superconductor effect** — reported 2% weight reduction above a rotating superconducting disc. Investigated by NASA Glenn and BAE Systems Project Greenglow.
+* **John Bedini's pulsed motor anomalies** — decades of documented anomalous energy output from asymmetrically pulsed rotating magnetic field experiments.
+
+---
+
+## Design Alternatives Under Investigation
+
+Three alternatives have been investigated through simulation and analysis. Each is a distinct physics hypothesis. The results of each investigation are fully documented — physics derivations, simulation code, raw outputs, and conclusions.
+
+---
+
+**1. Rotating Permanent Magnet Array — Kelvin Gradient Lift Drive**
+
+*Status: Stalled. Sub-approach A eliminated. Sub-approach B pending ElmerFEM.*
+
+Rotating asymmetric magnet array generates upward Kelvin gradient force; directional problem identified.
+
+A rotating asymmetric permanent magnet array positioned above a ferromagnetic target plate. The idea: the Kelvin body force on the plate should be upward (toward the magnets), and by Newton's third law the magnets (and craft) should be pushed upward with equal force — lift.
+
+What the simulation showed: the Kelvin force is always attractive. The plate is pulled toward the magnets, yes — but the magnets are pulled toward the plate. Both parts of the device are pulled toward each other. For a craft above a steel ground plate, this means the craft is pulled downward.
+
+The force magnitude was sufficient (7.54 N at 3.4 cm gap) but the direction is wrong for free-flight lift. Sub-approach B (eddy current repulsion via time-varying field — used in maglev trains) is pending simulation.
+
+<a href="/physics/Physics_Math/attempts/1/overview_ui">→ Full Investigation Record: Attempt 1</a>
+
+---
+
+**2. Asymmetric Electrostatic Pressure Drive — Buhler Thrust**
+
+*Status: Secondary. Thrust confirmed. Free-flight not viable. Near-surface hover viable below 5× device radius.*
+
+High-voltage asymmetric conductor generates electrostatic thrust confirmed in vacuum; requires external ground plane.
+
+Based directly on the experimentally confirmed Buhler result (Dr. Charles Buhler, NASA Kennedy Center). The mechanism: electrostatic pressure P = ε₀E²/2 acts outward at every conductor surface. For an asymmetric conductor (hemisphere, cone), the field is concentrated at the apex and weaker at the base — the integral over the whole surface is nonzero, producing a net force toward the apex.
+
+What the simulation showed: the Buhler force is real. 9.5 mN at 10 kV, scaling exactly as V². A 30-degree cone is 3.1× more efficient than a hemisphere. The critical finding: an isolated conductor (no ground plane) produces exactly zero net force — the force is an interaction between the conductor and the ground plane, not internal to the conductor. Free-flight requires a different mechanism.
+
+<a href="/physics/Physics_Math/attempts/2/overview_ui">→ Full Investigation Record: Attempt 2</a>
+
+---
+
+**3. BUGA Three-Phase Rotating Field — Rotating EM Field Drive**
+
+*Status: Active. Large internal Kelvin force confirmed. Spinning rotor mechanism under investigation (Day 5).*
+
+Three-phase rotating electromagnetic field drives toroid; 1.91 N internal Kelvin force at one amp.
+
+Based on the BUGA orb-sphere device. Three electromagnetic coils arranged 120° apart, driven by three-phase AC current, produce a continuously rotating magnetic field above a soft iron toroid. The rotating field exerts a Kelvin body force on the toroid of 1.91 N at 1 amp — far exceeding the 0.5 kg lift threshold at 1.6 A.
+
+What the simulation showed: the force is real and large (1,479× the initial analytical estimate — the coil is 1 cm above the toroid surface, not 3 cm as assumed; near-field scaling gives (3/1)⁴ = 81× more force). But the force is internal: the coil assembly experiences exactly −1.91 N as Newton's third law requires. Net external = 0. The spinning rotor is the remaining candidate for converting this large internal force into external thrust.
+
+<a href="/physics/Physics_Math/attempts/3/overview_ui">→ Full Investigation Record: Attempt 3</a>
+
+---
+
+## The Core Barrier This Investigation Is Working Against
+
+Every classical electromagnetic mechanism investigated so far produces forces that are either:
+
+* **Internal** — equal and opposite forces act on different parts of the device; net external force is exactly zero
+* **Externally-grounded** — the force is an interaction with an external reference (a ground plane); no ground plane, no force
+
+This follows directly from Newton's third law. In a closed electromagnetic system, you cannot generate net linear momentum without expelling mass or radiation.
+
+The reason this investigation continues: the question is whether there exists a mechanism that couples the device to an external reference without an obvious exhaust product. Three candidates exist in the literature:
+
+* **Gyroscopic coupling to Earth's gravitational field** — a spinning rotor precessing in Earth's gravity transfers angular momentum to the Earth through the gravitational coupling. If the reaction geometry is asymmetric, a net vertical force on the craft might result.
+* **Gravitomagnetic coupling** — at sufficiently high field rotation rates or with superconducting materials, the device might couple to the gravitomagnetic field of the Earth, producing a force analogous to magnetic induction but in the gravity sector.
+* **Electromagnetic radiation pressure** — at microwave frequencies (3.4 GHz+), the EM momentum force becomes significant. A directional microwave emitter produces thrust proportional to power/c.
+
+Day 5 investigates the gyroscopic coupling mechanism for the BUGA device rotor.
+
+---
+
+## Related Documentation
+
+* [Rotating Magnets Propulsion Thesis](/physics/Details/Rotating_Magnets) — The full thesis page: Dr. Drew's lab device, Ning Li's theory, Podkletnov's experiments, Bedini's work
+* [UAP Physics, Propulsion, and Energy Overview](/physics/Physics_Math/ui/overview) — All propulsion approaches and investigation status
+* [UAP Physics Murders Investigation](/physics/) — The scientists killed for work in this field

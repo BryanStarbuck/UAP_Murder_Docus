@@ -1,0 +1,76 @@
+---
+title: "Attempt 1: Rotating Permanent Magnet Array Drive"
+---
+
+# Attempt 1: Rotating Permanent Magnet Array — Kelvin Gradient Lift Drive
+
+**Status: Stalled.** Sub-approach A eliminated. Sub-approach B (eddy current repulsion) pending ElmerFEM simulation.
+
+---
+
+## What We Were Trying to Do
+
+The first approach: use a rotating asymmetric permanent magnet array suspended above a ferromagnetic plate to generate sustained upward lift via the magnetic Kelvin body force.
+
+The Kelvin body force is the force exerted on a magnetizable material placed in an inhomogeneous magnetic field. The formula: **F = μ₀ (M · ∇)H**, integrated over the material volume. Where the field is stronger above the material than below it, the force is upward. Where it is stronger below, the force is downward.
+
+The setup for Sub-approach A: a rotating Halbach-variant permanent magnet array, suspended above a soft iron ground plate. The array is asymmetric — the magnetic flux is concentrated in the downward direction. The rotating motion time-averages the force to a vertical component, canceling horizontal components.
+
+The idea: the Kelvin force pulls the iron plate upward toward the magnets. By Newton's third law, the magnets and the craft are pushed upward with equal force.
+
+Two design variants were evaluated:
+* **Option A:** Asymmetric magnet array with downward flux bias — maximum Kelvin gradient toward plate
+* **Option B:** 2× Halbach array configuration — analytically predicted to produce zero on-axis B_z (baseline test)
+
+---
+
+## What We Found
+
+**Magpylib simulation validated to 0.37% error** against the analytical on-axis dipole field formula, confirming the simulation tool is trustworthy before using it for novel physics.
+
+**Option A result:** Peak Kelvin force = **−7.54 N at 3.4 cm gap** for a 0.5 kg device.
+
+The minus sign is the critical finding. The force is downward — the craft is pulled toward the plate.
+
+This is a fundamental property of the Kelvin interaction: a paramagnetic or ferromagnetic body is always pulled toward the region of stronger field. Since the field is strongest near the magnets — not near the plate — the force on the plate pulls it toward the magnets. By Newton's third law, the force on the magnets pulls them toward the plate. Both components of the device are attracted toward each other. There is no asymmetry that produces a net upward external force.
+
+The force magnitude (7.54 N) exceeds the lift target (4.905 N for 0.5 kg) but points the wrong direction. Sub-approach A is eliminated.
+
+**Option B result:** Peak force = 0 (confirmed exactly, as predicted analytically for a symmetric Halbach configuration).
+
+---
+
+## What Sub-approach B Offers
+
+The time-varying electromagnetic field variant (Sub-approach B) works on different physics: Electrodynamic Suspension (EDS).
+
+When a time-varying magnetic field sweeps across a conducting surface, it induces eddy currents in that surface. Those eddy currents create their own magnetic field opposing the applied field — a repulsive force, not attractive. This is the principle behind maglev trains and some contactless bearing designs.
+
+For UAP propulsion, EDS would mean: a rapidly rotating or oscillating magnet array above a conducting surface generates a repulsive force that lifts the craft. Unlike the Kelvin gradient force, the EDS force is inherently repulsive — pointing away from the conducting surface.
+
+**Why it is pending:** EDS requires solving time-varying eddy current problems in 3D — a capability beyond Magpylib (which handles only static fields) and beyond the scipy/numpy analytical tools used in Days 1–4. ElmerFEM (open-source, full 3D time-varying EM) is the appropriate solver. ElmerFEM installation is planned alongside the Day 5 rotor analysis.
+
+---
+
+## Connection to Attempt 3
+
+The BUGA three-phase rotating field (Attempt 3) avoids the Sub-approach A direction problem by a different geometry: the toroid element is positioned below the coils, and the field asymmetry ensures the Kelvin force on the toroid is genuinely upward (toroid is attracted toward the coil plane above it). The problem that remains for Attempt 3 is different: the force is internal, not directional.
+
+---
+
+## Technical Investigation Record
+
+All physics derivations, simulation code, and raw results are documented below. The technical record is preserved in full — nothing is summarized or removed.
+
+| Document | Contents |
+|----------|----------|
+| [Theory](/physics/Physics_Math/attempts/1/Theory) | Kelvin body force density derivation, rotation geometry analysis, time-averaged force calculation, EDS eddy current physics, symmetry arguments, comparison to Attempt 2 and 3 |
+| [Physics — Day 1](/physics/Physics_Math/attempts/1/physics_day_1) | Full tensor derivation of Kelvin force, field gradient conditions for upward vs. downward force, Sub-approach A geometry analysis, EDS mechanism physics, departures from Newtonian framework |
+| [Math — Day 1](/physics/Physics_Math/attempts/1/math_day_1) | Force calculation at target lift mass (0.5 kg), field gradient numerical estimates, scaling laws for Halbach array geometry, power budget calculations |
+| [Engineering — Day 1](/physics/Physics_Math/attempts/1/engineering_day_1) | Magnet specifications (N52 neodymium), Halbach array geometry, rotor design, rotation speed requirements, eddy current heating analysis, torque cancellation design, structural stress at operating RPM |
+| [Simulation Setup — Day 1](/physics/Physics_Math/attempts/1/sim_setup_day_1) | Magpylib setup code, dipole validation test, Option A and Option B simulation configurations, force vs. gap height curves |
+| [Simulation Learning — Day 1](/physics/Physics_Math/attempts/1/sim_learned_day_1) | Detailed analysis: why the force is downward, what this rules out, what the EDS variant needs, decision to launch Attempt 2 (Buhler electrostatic) |
+
+---
+
+*Back to: [Rotating Magnetic Field Propulsion](/physics/Physics_Math/ui/magnetic_propulsion) | [UAP Physics, Propulsion, and Energy](/physics/Physics_Math/ui/overview)*

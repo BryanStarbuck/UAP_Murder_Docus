@@ -1,0 +1,99 @@
+---
+title: "Attempt 2: Asymmetric Electrostatic Pressure Drive"
+---
+
+# Attempt 2: Asymmetric Electrostatic Pressure Drive — Buhler Thrust
+
+**Status: Secondary.** Electrostatic thrust mechanism confirmed in simulation. Critical limitation: requires an external ground plane. Free-flight propulsion is not viable with this mechanism alone. Near-surface hover (altitude below approximately 5× device radius) is viable and buildable.
+
+---
+
+## What We Were Trying to Do
+
+This approach is grounded in a real, published experimental result: Dr. Charles Buhler at NASA Kennedy Center demonstrated propellantless thrust in hard vacuum using an asymmetric electrostatic device. Ion wind was ruled out by the vacuum environment. The thrust was in the millinewton range.
+
+The physics mechanism: the electrostatic pressure at any conductor surface is P = ε₀E²/2, acting outward normal to the surface. If the conductor is asymmetric — shaped so the electric field is much stronger at one end than the other — the integral of this pressure over the full surface is nonzero. The result is a net force pointing from the low-field end toward the high-field end.
+
+For a hemisphere resting on a grounded flat plate at 10 kV, the electric field concentrates at the rounded apex (top) and is nearly uniform and much weaker at the flat base. The net pressure integral produces an upward force on the hemisphere — toward the apex, which is the high-field end.
+
+The Maxwell stress tensor provides the rigorous formulation:
+T_ij = ε₀(E_i E_j − δ_ij |E|²/2)
+F_i = ∮ T_ij n_j dA
+
+Compute this integral over the full conductor surface and you get the net electrostatic force.
+
+---
+
+## What We Found
+
+### Buhler Thrust Confirmed
+
+Simulation using scipy/numpy with Legendre polynomial expansion of the electrostatic potential:
+
+* **F_z = 9.50 mN at 10 kV and 10 cm radius** — confirmed at the Buhler millinewton scale
+* **Scales exactly as V²** — confirmed; doubling the voltage quadruples the force
+* **Geometry factor C = 10.73** for the hemisphere geometry
+* **Lift voltage for 0.5 kg device:** 227 kV (hemisphere)
+* **Symmetry check:** full sphere at V produces exactly F = 0 — confirmed, as required by symmetry
+
+### Cone Geometry Is 3.1× More Efficient
+
+A sweep of cone half-angle from 10° to 80° identified the optimal geometry:
+
+* **30-degree half-angle cone:** C = 33.56, V_lift = 128 kV
+* This is 3.1× better than the hemisphere (C = 10.73)
+* Lift voltage drops from 227 kV to 128 kV for the same device mass
+* The Legendre series used for this calculation has a known divergence issue at the cone rim — the 128 kV figure is a lower bound; the true value with BEM/FEM would be lower (more favorable)
+
+### The Critical Limitation: No External Ground Plane, No Force
+
+This is the key finding that moved Attempt 2 to secondary status.
+
+An isolated conductor — one with no external ground plane — produces exactly zero net electrostatic force. This is a rigorous mathematical result from Green's theorem applied to the exterior electrostatic problem. The Buhler force is not an internal property of the conductor; it is a force between the conductor and the ground plane.
+
+In free flight, no ground plane is present. The net thrust is zero.
+
+For a craft attempting to hover or fly freely in the atmosphere, this mechanism cannot be the primary drive. The force vanishes once the craft rises above approximately 5 × device radius from any conducting surface.
+
+### Legendre Series Diverges at the Rim (Lower Bounds Only)
+
+The surface charge density at the rim of the hemisphere (where the curved surface meets the flat base plate) has a square-root singularity: σ ~ r^{−1/2}. The Legendre series partial sum grows logarithmically with the number of terms — it does not converge to the true force value. The Day 2 result (9.50 mN) and the cone sweep result (128 kV lift voltage) are lower bounds.
+
+Boundary Element Method (BEM) with singular basis functions at the rim, or Finite Element Method (FEM) with refined meshing, is required for accurate absolute values. This is planned for Day 7+. The relative ordering (cone > hemisphere) is expected to remain valid even after BEM correction.
+
+---
+
+## What This Means in Practice
+
+**Near-surface hover application (viable):**
+* 30-degree cone, 10 cm radius, ~128 kV DC supply: 0.5 kg lift
+* Effective altitude: up to approximately 50 cm (5 × radius)
+* Requires vacuum or very dry atmosphere for clean results (ion wind in air confounds force measurement)
+* High-voltage supply at 128 kV is a significant engineering challenge but not beyond available technology
+
+**Free-flight propulsion (not viable with this mechanism alone):**
+* Attempt 3 (BUGA rotating field) was launched to find a mechanism that works in free flight
+
+---
+
+## Technical Investigation Record
+
+All physics derivations, simulation code, and raw results are documented below in full.
+
+| Document | Contents |
+|----------|----------|
+| [Theory](/physics/Physics_Math/attempts/2/Theory) | Maxwell stress tensor derivation, image charge method for hemisphere-on-plate geometry, Legendre expansion of surface potential, Green's theorem isolation proof, cone geometry field analysis |
+| [Physics — Day 2](/physics/Physics_Math/attempts/2/physics_day_2) | Hemisphere geometry setup, electrostatic pressure formula, surface integral methodology, Legendre series structure, full tensor derivation |
+| [Physics — Day 3](/physics/Physics_Math/attempts/2/physics_day_3) | Legendre divergence mechanism (σ ~ r^{−1/2} at rim), convergence test analysis, isolated conductor proof via Green's theorem, cone geometry physics, implications for free flight |
+| [Math — Day 2](/physics/Physics_Math/attempts/2/math_day_2) | Full Legendre series calculation at L_MAX=21, geometry factor C derivation, voltage scaling law, apex field at lift voltage (6.82 MV/m), field emission safety margin |
+| [Math — Day 3](/physics/Physics_Math/attempts/2/math_day_3) | Convergence test (L_MAX=21 vs L_MAX=101: +26.4% growth = Category 4 divergence), cone sweep calculations, BEM requirements analysis, Green's theorem isolation proof |
+| [Engineering — Day 2](/physics/Physics_Math/attempts/2/engineering_day_2) | Device specifications: hemisphere conductor, PTFE mounting, 10–50 kV supply, vacuum chamber requirements, wiring and safety, estimated prototype cost |
+| [Engineering — Day 3](/physics/Physics_Math/attempts/2/engineering_day_3) | Cone geometry engineering specs, 30-degree optimal design parameters, altitude operating envelope, near-surface application assessment, alternative voltage reduction approaches |
+| [Simulation Setup — Day 2](/physics/Physics_Math/attempts/2/sim_setup_day_2) | Simulation code: full-sphere symmetry validation, hemisphere Maxwell stress tensor integration, Legendre series implementation |
+| [Simulation Setup — Day 3](/physics/Physics_Math/attempts/2/sim_setup_day_3) | Legendre convergence test code, cone angle sweep simulation, isolated conductor test simulation |
+| [Simulation Learning — Day 2](/physics/Physics_Math/attempts/2/sim_learned_day_2) | Day 2 results: Buhler force confirmed and characterized, geometry factor, lift voltage, vacuum requirement, Gibbs ringing noted |
+| [Simulation Learning — Day 3](/physics/Physics_Math/attempts/2/sim_learned_day_3) | Day 3 results: divergence confirmed and classified (Category 4), cone optimal geometry, isolation = zero free-flight thrust, pivot to Attempt 3 |
+
+---
+
+*Back to: [Rotating Magnetic Field Propulsion](/physics/Physics_Math/ui/magnetic_propulsion) | [UAP Physics, Propulsion, and Energy](/physics/Physics_Math/ui/overview)*

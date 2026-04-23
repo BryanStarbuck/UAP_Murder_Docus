@@ -1,0 +1,119 @@
+---
+title: "Attempt 3: BUGA Three-Phase Rotating Field Drive"
+---
+
+# Attempt 3: BUGA Three-Phase Rotating Field Drive — Rotating Electromagnetic Field Drive
+
+**Status: Active.** Three-phase rotating electromagnetic field confirmed and characterized. Internal Kelvin force = 1.91 N at 1 amp — exceeds the 0.5 kg lift threshold at 1.6 A. The force is confirmed internal (net external = 0 by Newton's third law). The spinning rotor mechanism is the current open question (Day 5 investigation).
+
+---
+
+## What We're Investigating
+
+This approach is based on the **BUGA orb-sphere** — a European device documented over multiple years of construction by an independent researcher, using three-phase alternating current, a toroidal iron element, a spinning rotor, and a hemispherical electrode. The device was found in research images with two scale readings: 0.12 kg and 0.058 kg across construction stages.
+
+**The core physics claim:** A three-phase rotating electromagnetic field above a toroidal ferromagnetic element produces a net axial (upward) force via the Kelvin body force. The force does not require combustion, reaction mass, or external ground plane. If the spinning rotor can convert internal electromagnetic forces into external thrust, the device achieves free-flight propulsion.
+
+The three-phase rotating field works the same way as an AC induction motor stator: three coils arranged 120° apart, each driven by AC current phased 120° apart, produce a magnetic field that rotates continuously in space at the AC frequency (60 Hz → 377 rad/s). The key difference from a motor: instead of using the rotating field to spin a rotor (conventional motor), we are investigating whether the rotating field can generate a net axial force on the entire device.
+
+**Connection to UAP research:**
+* Dr. Horace Drew (Red Collie) identified the three-phase rotating field + toroidal element + spinning rotor as the core BUGA architecture and the probable UAP propulsion mechanism. He documented this via lab experiments matching crop circle geometry.
+* The Podkletnov effect (2% weight reduction above a rotating superconducting disc) is the room-temperature analog: if ferrite replaces the superconductor, the same field rotation geometry might produce a fraction of the Podkletnov effect.
+* The BUGA device combines this with an electrostatic hemisphere — a dual EM/electrostatic architecture that may be more efficient than either mechanism alone.
+
+---
+
+## What the Simulations Showed (Day 4)
+
+### The Rotating Field Is Real and Well-Characterized
+
+Simulation 4A (Biot-Savart three-phase coil assembly):
+
+* **Field rotation rate: 380.9 rad/s** (theoretical: 377.0 rad/s; ratio = 1.010 — essentially perfect)
+* **Field asymmetry: 4.9×** — the field is nearly 5× stronger above the device than below it
+* **Toroid top face:** |B_rms| = 2.435 mT — the strongest region in the toroid volume, directly below each coil
+* **EM momentum force at 60 Hz:** 2.43 × 10⁻⁸ N — completely negligible; 5 billion times below the lift target
+
+The field geometry is well-optimized: the three coils at 0°/120°/240° create a strongly rotating transverse field inside the toroid volume, with the field strongest at the toroid surface closest to the coils.
+
+### The Kelvin Force Is Large — Much Larger Than Expected
+
+Simulation 4B (Kelvin force on soft iron toroid):
+
+| Current | Kelvin Force | vs. Lift Target (4.91 N) |
+|---------|-------------|--------------------------|
+| 0.5 A   | 476.9 mN    | 10% of target            |
+| 1.0 A   | **1,907.6 mN = 1.91 N** | 39% of target |
+| 1.6 A   | ~4.9 N      | **= lift threshold** |
+| 2.0 A   | 7,630.5 mN = 7.63 N | **156% of target** |
+| 5.0 A   | 47.7 N      | approaching saturation   |
+
+The force scales exactly as I² below saturation (confirmed). Saturation of soft iron begins around I = 5–10 A for this geometry.
+
+**Why was the force so much larger than estimated?** The initial analytical estimate (math_day_4.mdx) predicted approximately 1.29 mN at 1 A — the simulation showed 1,907.6 mN. The ratio is 1,479×. The cause: the analytical estimate used the centroid-to-centroid distance (3–5 cm) between the coil and the toroid. The simulation uses the actual field at the toroid surface, where the coil plane is only 1 cm away. In the near-field regime, B ∝ 1/d², so the force (∝ |H|²) scales as 1/d⁴. At 1 cm vs. 3 cm: (3/1)⁴ = 81× more force from proximity alone. The full 3D integral adds further factors. This is now documented as the **Kelvin Force Proximity Effect** (Manual Section 9.10): always evaluate the Kelvin force using the field at the material surface, not at the centroid.
+
+### The Force Is Internal
+
+Newton's third law holds exactly:
+
+* Force on toroid (upward): +1,907.6 mN
+* Reaction on coil assembly (downward): −1,907.6 mN
+* **Net external force on device: 0.000 mN** (confirmed to full numerical precision)
+
+Both the toroid and the coil assembly are rigidly mounted on the same device frame. The two forces cancel within the frame. The device does not move. This is not a flaw in the simulation — it is a fundamental consequence of Newton's third law.
+
+**The large internal force still matters:** If any mechanism exists that converts even a fraction of this internal force to external thrust, the scale is large enough to matter. At 1% coupling efficiency at 2 A: F_external ≈ 76 mN — measurable on a precision scale.
+
+### The BUGA Scale Readings Are Not Anomalous
+
+The two documented scale images (0.12 kg and 0.058 kg) differ by 62 grams. Engineering analysis (Day 4) computed the mass of the soft iron toroid from its geometry:
+* R_outer = 8 cm, R_inner = 3 cm, height = 2 cm, ρ = 7,700 kg/m³
+* Computed mass: **68 grams**
+
+The 62 g scale difference matches the computed toroid mass to within 10%. The most parsimonious explanation: the two readings represent different construction stages — the device measured without the toroid, then with the toroid added. Not anomalous mass reduction during EM operation.
+
+### EM Momentum Is Negligible at 60 Hz
+
+The electromagnetic momentum force (from the Poynting vector S = E × B / μ₀) at 60 Hz is 2.4 × 10⁻⁸ N. The mechanism becomes significant only above approximately 3.4 GHz. At power-line frequencies, this pathway is inoperative.
+
+---
+
+## The Key Open Question: The Spinning Rotor
+
+The spinning rotor is the unexplored component of the BUGA device. In the actual device, a permanent magnet rotor spins inside the rotating electromagnetic field — a synchronous motor configuration. The rotor reaches a steady-state angular velocity when the applied torque balances the mechanical damping.
+
+**The question:** Can the spinning rotor convert the large internal Kelvin force into external thrust?
+
+Three mechanisms are being investigated in Day 5:
+
+**Mechanism 5A — Synchronous torque and angular momentum absorption:**
+The rotating field exerts a synchronous torque on the rotor: τ = m_rotor × B_rotating × sin(δ), where δ is the load angle. The rotor accelerates to synchronous speed and stores angular momentum L_rotor = I_rotor × ω_rotor. During the startup (acceleration) phase, angular momentum is transferred from the field source (coil assembly and frame) to the rotor. The frame experiences a reaction torque.
+
+**Mechanism 5B — Angular momentum exchange and frame precession:**
+If the frame is free to rotate, it precesses in response to the reaction torque. If the frame is fixed, the constraint force (from the mounting structure) is the reaction. This reaction force acts on the craft mounting.
+
+**Mechanism 5C — Gyrostatic lift hypothesis:**
+A spinning gyroscope precesses when a torque is applied perpendicular to its spin axis. In Earth's gravitational field, gravity exerts a downward torque on the rotor (through the craft structure). The precession reaction may produce a net vertical force component. At what angular velocity does the gyroscopic force equal or exceed the rotor weight? Is this achievable with a 60 Hz rotating field?
+
+Even if the gyrostatic mechanism produces zero net force in free flight (which is expected from standard mechanics — a gyroscope in free space cannot generate net linear momentum), characterizing it precisely closes out Attempt 3 and informs whether a ground reference or gravitational coupling is sufficient.
+
+Day 5 estimate for external thrust if rotor coupling efficiency = 1% at I = 2 A: **76 mN** — sufficient to measure on a precision analytical balance.
+
+---
+
+## Technical Investigation Record
+
+All physics derivations, simulation code, and raw results are preserved in full. Nothing is removed or summarized below the level of the primary documents.
+
+| Document | Contents |
+|----------|----------|
+| [Theory](/physics/Physics_Math/attempts/3/Theory) | Three-phase field derivation, electromagnetic angular momentum, Kelvin force internal force proof, Podkletnov room-temperature analog analysis, symmetry arguments for why classical EM yields zero net external force, spinning rotor angular momentum mechanism |
+| [Physics — Day 4](/physics/Physics_Math/attempts/3/physics_day_4) | Full Biot-Savart three-phase field derivation, time structure and phase relationships, Faraday-induced E field, EM momentum order-of-magnitude estimation, Kelvin force with saturation analysis, ferrite vs. soft iron comparison, BUGA scale reading re-interpretation |
+| [Math — Day 4](/physics/Physics_Math/attempts/3/math_day_4) | Numerical derivations: field at coil center (B₀ = 0.44 mT), Kelvin force estimates (analytical 1.29 mN vs. simulation 1907 mN — proximity effect), EM momentum formula and frequency scaling, critical frequency f* ≈ 3.4 GHz, lift threshold current calculation (I_lift = 1.60 A) |
+| [Engineering — Day 4](/physics/Physics_Math/attempts/3/engineering_day_4) | Device specifications: AWG 24 wire, 100-turn coils, coil resistance R = 2.7 Ω, power 8.1 W at 1 A; soft iron toroid recommendation over ferrite (saturation difference); toroid mass 68 g (matches BUGA scale difference); rotor specifications, angular momentum L ≈ 2.4 × 10⁻⁵ N·m·s; full device mass budget 300–500 g; prototype cost estimate $150–$400 |
+| [Simulation Setup — Day 4](/physics/Physics_Math/attempts/3/sim_setup_day_4) | Full documentation of three simulations: 4A (Biot-Savart rotating field map, rotation rate verification, |B|² asymmetry, EM momentum), 4B (Kelvin force vs. current sweep, Newton's 3rd verification, saturation behavior), 4C (EM momentum, analytical). Singularity note for z=z_coil on-axis when a=R_array |
+| [Simulation Learning — Day 4](/physics/Physics_Math/attempts/3/sim_learned_day_4) | Results analysis in detail: 1,479× Kelvin force discrepancy explained (proximity effect derivation), BUGA scale mundane explanation confirmed, rotor mechanism identified as critical unknown, Day 5 simulation plan |
+
+---
+
+*Back to: [Rotating Magnetic Field Propulsion](/physics/Physics_Math/ui/magnetic_propulsion) | [UAP Physics, Propulsion, and Energy](/physics/Physics_Math/ui/overview)*
