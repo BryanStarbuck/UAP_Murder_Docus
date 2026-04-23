@@ -1,0 +1,19 @@
+IMAGE DESCRIPTION: 3_1943217842176008192.jpg
+
+SHAPES AND TEXT:
+* Stock photograph (123RF watermark visible in corners)
+* Close-up photograph of a human hand reading Braille text on a white embossed page
+* The hand (right hand, Caucasian skin tone) is positioned at the right side of the frame, two fingers touching embossed Braille dots
+* Multiple rows of Braille cells visible — each cell consisting of groups of 1-6 raised dots in a 2x3 matrix arrangement
+* Depth-of-field: sharp near the fingers, blurred toward top of frame
+
+COLORS: Pale blue-grey (page surface); skin tone (hand); 123RF grey watermark.
+
+PHYSICS / CONCEPTS:
+* Braille as tactile binary encoding — direct analog to crop formation dot-matrix encoding:
+  1. Braille alphabet is a 6-bit binary encoding system: each character defined by a 2x3 grid of 6 positions, each either raised (1) or flat (0). This gives 2^6 = 64 possible combinations, sufficient to encode all letters, numbers, and punctuation.
+  2. Direct parallel to crop formation binary encoding: the Crabwood 2002 formation used a dot-matrix binary grid where standing crop tufts = 1 and flat crop = 0 — exactly as Braille uses raised dots = 1 and flat = 0. The Braille photograph validates the binary encoding interpretation.
+  3. Information density: Braille ~75,000 bits/m² (6000 bits per standard 11"x11.5" page); Crabwood formation ~0.4 bits/m² (1500 bits over ~3600 m²). Both are spatial binary codes scanned row by row.
+
+SUMMARY:
+Stock photograph (123RF) of a hand reading Braille — included as visual analogy documenting that binary dot-matrix encoding (raised dot = 1, flat = 0, scanned row by row) is a pre-existing human technology, validating the interpretation that crop formation dot patterns like Crabwood 2002 encode binary information in the same paradigm.

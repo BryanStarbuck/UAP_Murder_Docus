@@ -1,0 +1,49 @@
+IMAGE DESCRIPTION: 3_1961689401400188928.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1961580712597082112.jpg — false-color RGB composite of Comet 17P/Holmes
+* Slightly larger apparent coma extent and slightly different noise character compared to 3_1961580712597082112
+* Black-dark blue noisy background with salt-and-pepper noise throughout
+* CENTRAL SOURCE: white-yellow saturated core at approximately (480, 350) — slightly left-of-center, upper-half
+* Blue-cyan inner coma: dominant on left/SW side, extending ~250px from core
+* Red-pink extension: upper-right (NE) side, ~200px from core
+* Green tint: visible at lower-left edge of coma (green = intermediate between blue gas and red dust channels)
+
+DIFFERENCES FROM 3_1961580712597082112:
+* Slightly more extended coma: the blue-cyan envelope appears ~10-15% larger in angular extent
+* The lower-left quadrant shows more prominent green tint
+* The core appears slightly less yellow, more purely white
+* The red-pink NE extension is approximately the same extent
+* Background noise pattern appears slightly different (different subarray or epoch)
+
+PHYSICS CONCEPTS:
+* (Cross-reference: full physics analysis in 3_1961580712597082112.txt)
+* Additional notes specific to this variant:
+  * The larger coma extent suggests this may represent a slightly later epoch of the Holmes outburst (the coma expanded at ~500 m/s to ~1 million km in days)
+  * Coma radius at velocity v and time t post-outburst: R_coma(t) = v_max × t → if R this image > R in 3_1961580712597082112, then Δt ≈ ΔR / v_expansion
+  * The green tint at lower-left could be due to CN fluorescence at 388nm (bandpass leakage if optical) or CO fluorescence at 4.67μm (if Spitzer ch2)
+* MULTI-EPOCH TRACKING:
+  * The Holmes research series captures multiple epochs to track:
+    * Radial expansion of the dust shell: R(t) ∝ t^(2/5) (Sedov-Taylor) or R(t) ∝ t (free expansion)
+    * Fade rate: F(t) ∝ t^(-2) for spherical expansion into optical depth τ<<1
+    * Color evolution: gas (volatile) fades faster than dust (refractory) — so the blue:red ratio decreases with time post-outburst
+  * Each image in the series provides one measurement of R(t) and F(t), allowing reconstruction of the outburst energy and mass ejection
+
+COLORS:
+* Background: dark blue-black noise
+* Core: white-yellow (saturated)
+* Inner coma: blue-cyan (SW/left-dominant)
+* Secondary extension: red-pink (NE/upper-right)
+* Lower-left edge: green tint
+* Orange-gold halo: ~40px around saturated core
+
+SPATIAL RELATIONSHIPS:
+* Core: upper-left of center (~480, 350)
+* Blue-cyan coma: surrounds core on W/SW/S sides
+* Red-pink extension: NE/upper-right
+* Green: lower-left of coma fringe
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1961580712597082112.jpg — a false-color RGB composite of Comet 17P/Holmes with white-yellow saturated core, blue-cyan dominant coma (SW side), and red-pink dust extension (NE side). Differences from 3_1961580712597082112: slightly larger coma extent (~10-15%), more prominent green tint in lower-left (CN or CO fluorescence), and slight core color difference (more white, less yellow). These differences may indicate a later epoch in the Holmes outburst evolution (coma expansion at ~500 m/s). Physics content: multi-epoch coma expansion tracking; color evolution rate (gas blue fades faster than dust red); Sedov-Taylor expansion R ∝ t^(2/5) vs. free expansion R ∝ t; fade rate F ∝ t^(-2) for optically thin spherical shell. Part of the Comet Holmes multi-wavelength observation series.
+
+*This information was compiled by Claude AI research.*

@@ -1,0 +1,64 @@
+IMAGE DESCRIPTION: 3_1960876338103119872.jpg
+
+SHAPES AND ELEMENTS:
+* Square digital artwork / CGI rendering of a spacecraft in orbit above a planet
+* The scene is from space, looking down at a golden-brown planetary surface (Mars or similar planet)
+* The planet occupies the lower ~40% of the image as a curved horizon with a thin atmospheric haze
+* SPACECRAFT (center-upper):
+  * A Mars orbiter-type spacecraft with:
+    * Central bus: orange/gold multi-panel body with thermal blankets (gold-orange multilayer insulation — MLI)
+    * Large parabolic dish antenna: silver-grey, round, on a boom extending upward-left
+    * Two large solar panels extending to the left and right: dark grey photovoltaic cells in rectangular panels
+    * Additional instrument boom/antenna extending lower-right
+    * Rocket engine bell visible at the bottom of the bus
+    * Various connectors, brackets, and struts
+  * The spacecraft is identified by its morphology as the Mars Reconnaissance Orbiter (MRO) — NASA spacecraft launched in 2005, which arrived at Mars in 2006
+  * The dish size, solar panel configuration, and body shape are consistent with MRO
+* STARFIELD: Dark black background above the spacecraft, filled with small white star dots
+* PLANETARY SURFACE: Golden-brown Martian terrain with reddish dust clouds/haze along the horizon
+
+COLORS:
+* Space background: black with white star dots
+* Spacecraft: gold-orange MLI panels, dark grey solar panels, silver-grey dish antenna
+* Planet: golden-brown (Martian regolith), orange-tan atmosphere haze at horizon
+* Stars: small white dots
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* MARS RECONNAISSANCE ORBITER (MRO):
+  * MRO is a NASA Mars orbiter launched August 12, 2005, Mars orbit insertion March 10, 2006
+  * Instruments: HiRISE (High Resolution Imaging Science Experiment): 50 cm resolution, resolution capability to image meter-scale objects on Martian surface; CRISM (Compact Reconnaissance Imaging Spectrometer for Mars); CTX (Context Camera); MARCI (Mars Color Imager); SHARAD (Shallow Radar) subsurface sounder
+  * HiRISE has been used to image UAP-related structures on Mars (claimed "anomalies"):
+    * The "Face on Mars" (Cydonia region) was reimaged at high resolution, revealing a mesa/butte
+    * Proposed artificial structures, crash sites, and "monolith" objects have been claimed in HiRISE imagery
+    * HiRISE has imaged the Curiosity rover, Opportunity rover, InSight lander from orbit
+  * SHARAD: subsurface radar sounding to ~1 km depth; has detected underground ice and layered deposits
+* ORBITAL MECHANICS AND AEROBRAKING:
+  * MRO used aerobraking to reduce fuel consumption: 6-month aerobraking campaign, using atmospheric drag in 100-km-altitude periapsis passes to circularize the orbit from highly elliptical insertion orbit to the science orbit (~300 km circular, 112-minute period)
+  * Aerobraking: F_drag = ½ρv²C_D A; each periapsis pass removes orbital energy
+  * Science orbit: 300 km altitude, 12 km/s orbital velocity, 112-minute period
+* SOLAR PANELS:
+  * MRO power: 2 × 10-panel solar arrays totaling ~2000 W at Mars (1.52 AU from Sun, solar flux = 590 W/m² vs. 1361 W/m² at Earth)
+  * Solar flux scales as 1/r² (r = heliocentric distance in AU): P_Mars = P_Earth × (1 AU/1.52 AU)² ≈ 0.43 × P_Earth
+  * The dark grey solar cells are GaAs/Ge triple-junction cells: ~28-30% efficiency
+* COMMUNICATIONS:
+  * High-Gain Antenna (HGA): the large parabolic dish, 3.0m diameter
+  * Frequency: X-band (8.4 GHz) and Ka-band (32 GHz)
+  * Data rate: up to 6 Mbps downlink using Ka-band (record for Mars missions)
+  * Light travel time: Earth-Mars: 3-22 minutes depending on orbital geometry
+* UAP PHYSICS CONTEXT:
+  * In the context of this collection: MRO is relevant because:
+    * Its HiRISE instrument has been used by researchers claiming to find artificial structures on Mars
+    * The possibility of ancient Martian civilization / ET artifacts is part of the broader UAP physics hypothesis (non-human intelligences operating in our solar system historically)
+    * MRO subsurface radar (SHARAD) could theoretically detect buried structures if they exist
+
+SPATIAL RELATIONSHIPS:
+* Spacecraft: center-upper of image, tilted slightly
+* Dish antenna: extending upper-left
+* Solar panels: extending left-right
+* Star background: upper frame
+* Mars surface: lower ~40% of frame as curved horizon
+
+HIGH-LEVEL SUMMARY:
+A CGI artist's rendering of what appears to be the Mars Reconnaissance Orbiter (MRO) in orbit above Mars — the large parabolic dish, twin solar panels, gold MLI thermal blankets, and rocket engine bell are all consistent with MRO's actual design. Mars occupies the lower portion of the image as a golden-brown curved horizon with atmospheric haze. Physics content: aerobraking orbital mechanics (F_drag = ½ρv²C_D A), solar panel power at Mars (P ∝ 1/r² giving ~43% of Earth's solar flux at 1.52 AU), Ka-band radio communications at 32 GHz, HiRISE 50-cm resolution imaging, SHARAD subsurface radar sounding. In UAP context: HiRISE imagery has been used to claim artificial structures on Mars; MRO/SHARAD could detect buried structures. Part of the space exploration and Mars context in this physics research collection.

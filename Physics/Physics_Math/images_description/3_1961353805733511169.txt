@@ -1,0 +1,48 @@
+IMAGE DESCRIPTION: 3_1961353805733511169.png
+
+SHAPES AND ELEMENTS:
+* Molecular structure diagram (3D ball-and-stick model) on a white background
+* Square format, clean scientific illustration
+
+MOLECULAR GEOMETRY:
+* Central atom: large green sphere — the metal center of a coordination complex
+* 4 ligand arms: each arm extends in one of the four cardinal directions (up, down, left, right) in a perfect square planar arrangement
+* Each arm consists of:
+  * A grey sphere connected directly to the green central atom (the carbon or nitrogen linker atom)
+  * Another grey sphere connected to the first (second carbon)
+  * A blue sphere at the terminus (the terminal nitrogen atom)
+* The grey-grey-blue sequence on each arm represents a –C≡N (cyanide/nitrile) ligand: C–C≡N or directly –C≡N bonds
+* The geometry: SQUARE PLANAR — 4 ligands at 90° intervals in a flat (D₄h symmetry) arrangement
+* The overall structure: tetrakis(cyano) metal complex [M(CN)₄]ⁿ⁻
+
+IDENTIFICATION:
+* The molecular formula and geometry are consistent with TETRACYANONICKELATE(II): [Ni(CN)₄]²⁻
+* Ni²⁺ with d⁸ configuration adopts square planar geometry (consistent with Ni²⁺, Pd²⁺, Pt²⁺, all d⁸)
+* Alternatively: tetracyanopalladate(II) [Pd(CN)₄]²⁻ or tetracyanozincate [Zn(CN)₄]²⁻ (but Zn²⁺ d¹⁰ prefers tetrahedral — less likely)
+* The central green color is often used in molecular viewers to represent Ni, Fe, or other transition metals with similar coordination
+
+LIGAND DETAIL:
+* The –CN (cyanide) ligand: linear, with a C≡N triple bond
+* In the molecular viewer: grey sphere (C) + blue sphere (N)
+* The C≡N triple bond length ≈ 1.16 Å; M–C bond length for Ni(II)–CN ≈ 1.86 Å
+* Crystal field theory: CN⁻ is a strong-field ligand (high in the spectrochemical series), causing large Δ_oct splitting
+* For d⁸ Ni²⁺ with CN⁻: Δ_oct is large enough to force low-spin square planar configuration (all 8 d-electrons paired in the lower 4 d-orbitals: d_xy, d_xz, d_yz, d_z²)
+
+COLORS:
+* Green: central metal atom
+* Grey: carbon atoms of CN ligands
+* Blue: nitrogen atoms of CN ligands (terminal)
+* White: background
+
+PHYSICS / INFORMATION CONCEPTS:
+* NICKEL CYANIDE COMPLEX IN UAP CONTEXT:
+  * This diagram appears in the context of the 3I/ATLAS nickel production rate plot (3_1961228360580993025) — the connection is NICKEL as a detected cometary/interstellar gas species
+  * The tetracyanonickelate structure [Ni(CN)₄]²⁻ was not the detected Ni species in comets (atomic Ni I is detected via forbidden emission lines), but the molecular structure may be illustrating:
+    1. One proposed Ni-bearing precursor molecule that photodissociates to produce atomic Ni in cometary comae
+    2. A coordination chemistry approach to explaining why Ni is so widespread in cometary environments (Ni complexed with organic/CN molecules)
+  * The CN (cyanide) group is also present in cometary gas: HCN (hydrogen cyanide) is one of the most abundant cometary volatiles; photodissociation of HCN → CN radical → further reactions
+  * In crystal field theory: the tetracyanonickelate complex has a square planar D₄h symmetry — the same symmetry as a 4-pole rotating field (4-arm crop formation, 4-pole motor)
+  * The D₄h point group: character table includes Γ = A₁g + B₁g + Eu (for the d-orbital set) — the same symmetry group as a square-planar electromagnetic field configuration
+
+HIGH-LEVEL SUMMARY:
+3D ball-and-stick molecular model of a square planar tetracyanometal(II) complex [M(CN)₄]²⁻ (most likely tetracyanonickelate(II), [Ni(CN)₄]²⁻): central green metal atom (Ni²⁺, d⁸ configuration) with four cyanide (–C≡N) ligands extending in cardinal directions at 90° (D₄h point group). Crystal field theory: CN⁻ strong-field ligand forces low-spin square planar configuration for d⁸ Ni²⁺. M–C bond ≈ 1.86 Å, C≡N bond ≈ 1.16 Å. Appears in context of 3I/ATLAS nickel production rate data (3_1961228360580993025) — may represent a proposed Ni-bearing precursor molecule that photodissociates to produce the atomic Ni I emission detected in cometary comae. The D₄h square planar symmetry mirrors 4-pole rotating field geometry.

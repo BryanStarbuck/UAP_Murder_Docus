@@ -1,0 +1,46 @@
+IMAGE DESCRIPTION: 3_2020755661366456321.jpg
+
+SHAPES AND TEXT:
+* Black-and-white op-art design on white background
+* Two separate circular discs arranged side-by-side in a horizontal figure-8 / infinity-symbol configuration
+* The two discs are positioned tangent to each other (or nearly tangent) at a central point
+
+Left disc:
+* A complete circle filled with approximately 8-10 concentric rings (alternating black and white)
+* The rings converge to an off-center point shifted toward the RIGHT side of the disc (i.e., toward the center of the pair, toward the point of tangency)
+* At the convergence point: a small dark oval or crescent "eye" element (the innermost ring terminus)
+* Ring width increases with distance from the convergence point — tight packing near the eye, wider bands at the far left periphery
+
+Right disc:
+* Identical structure — a complete circle filled with approximately 8-10 alternating black-and-white concentric rings
+* The rings converge to an off-center point shifted toward the LEFT side of the disc (i.e., also toward the center of the pair, toward the point of tangency)
+* At the convergence point: a small dark oval or crescent "eye" element
+* Ring width increases with distance from the convergence point — tight packing near the eye, wider bands at the far right periphery
+
+Bilateral relationship:
+* The two convergence points ("eyes") of both discs face each other — both are on the inner sides of their respective discs, pointing toward the shared tangency region between the two discs
+* The arrangement creates a mirror-symmetric bilateral structure: left disc is the mirror image of the right disc across a vertical axis at the point of tangency
+* This is the two-disc generalization of the single off-axis vortex shown in 3_2020755607679389696.jpg and is a sister image to the single two-vortex disc shown in 3_2020755557595172864.jpg
+
+TEXT: No text visible.
+
+COLORS: Black and white only.
+
+PHYSICS / CONCEPTS:
+* Two-disc counter-rotating field topology — the complete propulsion system:
+  1. Each disc encodes the field topology of one rotor in the counter-rotating propulsion system. The off-axis convergence point in each disc = the magnetic pole of that rotor (the point of maximum flux density B_max), displaced from the geometric center of the disc. In a real eccentrically mounted or magnetically offset rotor, the field pattern in the near-field region appears exactly as described: concentric equipotential rings converging to a point that is not the geometric center. The quantity described is the scalar magnetic potential Φ_m(r,θ) = Σ A_n r^n P_n(cos θ) (multipole expansion), where the dominant n=1 dipole term is offset from the rotor geometric axis.
+
+  2. Bilateral "eyes facing each other" = the air gap interaction zone. The convergence points of both discs point toward each other, toward the shared tangency region. This encodes the physical geometry of the two-disc propulsion system (per Norman Paulsen's testimony): the two counter-rotating discs are co-axially mounted, and the region between them is the zone of maximum field interaction (maximum J×B Lorentz force density and maximum flux coupling). The air gap between the two rotors is where the combined field of both counter-rotating systems produces the net upward thrust force F = J×B integrated over the air gap volume.
+
+  3. Counter-rotation encoding — mirrored convergence directions. The left disc's convergence point is on its right (inner) side; the right disc's convergence point is on its left (inner) side. This mirror symmetry encodes counter-rotation: if the left disc rotates clockwise (CW) and the right disc rotates counterclockwise (CCW), then as seen from the common axis, the near-field pole of the left rotor sweeps CW while the near-field pole of the right rotor sweeps CCW. At any instant, both poles are on the inner face of their respective discs — facing each other across the air gap. The field interaction force F = -∇(m·B) between the two magnetic moments m₁ (CW) and m₂ (CCW) is directed axially (along the spin axis) — providing thrust.
+
+  4. Comparison with 3_2020755557595172864.jpg (combined two-vortex): that image shows both field topologies collapsed into a single disc view (a plan-view cross-section through the combined field of both rotors). This image shows the two field topologies separately, as seen in the plane of each individual rotor disc — the elevation view rather than the plan view.
+
+  5. Comparison with 3_2020755607679389696.jpg (single off-axis vortex): that image is the single-rotor version. This image is the complete two-rotor system — showing what both rotors' field patterns look like simultaneously, each with its characteristic off-axis convergence.
+
+  6. The "eyes facing each other" as a representation of mutual inductance M. In transformer and motor theory, the mutual inductance M₁₂ between two coils (or rotor poles) is maximum when their axes are aligned face-to-face. The "eyes facing each other" in this image = the configuration of maximum mutual inductance between the two counter-rotating rotors — the instant during rotation when both magnetic poles are aligned along the shared axis, giving maximum flux linkage Φ₁₂ = M₁₂ I and maximum torque τ = I₁ I₂ (dM₁₂/dθ).
+
+  7. Unbalanced magnetic pull (UMP) and eccentricity. Each disc's off-center convergence point encodes the static eccentricity ε (displacement of the magnetic axis from the geometric center). In electrical machine theory, static eccentricity produces a non-uniform air gap δ(θ) = δ₀(1 - ε cos θ), which generates a net radial force F_UMP = π μ₀ (NI)² R L ε / (4 δ₀²) on the rotor toward the minimum air gap point. If the two discs are intentionally offset in the same direction (co-eccentric), the UMP forces add constructively and produce a net lateral force — possibly enabling directional maneuvering of the craft.
+
+SUMMARY:
+Two-disc op-art composition showing two identical circular concentric-ring vortex patterns arranged side-by-side in a horizontal figure-8 configuration. Each disc contains 8-10 alternating black-and-white concentric rings converging to an off-center "eye" at the inner side of each disc (facing the shared tangency point). The mirror-symmetric bilateral arrangement — with both convergence eyes pointing toward each other — encodes the complete field topology of the Norman Paulsen two-disc counter-rotating propulsion system: left disc = rotor 1 field (CW), right disc = rotor 2 field (CCW), shared inner tangency zone = the air gap region of maximum field interaction and J×B Lorentz thrust force. The off-center convergence points encode rotor eccentricity; the facing-eye bilateral symmetry encodes maximum mutual inductance at the aligned-pole configuration; the mirrored ring topology encodes the counter-rotation of the two field components.

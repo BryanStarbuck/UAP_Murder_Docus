@@ -1,0 +1,62 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side with magnetic pole labels, green Δ lift indicators, and red/cyan dashed connector lines
+* This image is a variant of the N/S-labeled dual disc composite series (companions: 3_2045263848970858496, 3_2045371494319202304, 3_2045638035229024256) with one new element: dashed connector lines visually linking the left (side-view) and right (plan-view) diagrams
+* LEFT DIAGRAM (side-view): Identical base structure but with slightly modified visual presentation:
+  * Large outer RED ring (~380px diameter)
+  * Inner BLUE ring (~280px diameter) — appears without the green dashed X-quadrant lines (absent in this variant)
+  * Main large BLACK disc/flywheel
+  * Upper smaller black disc element above
+  * Decreasing circle chain below
+  * Four red "N" labels at the four quadrant outer positions
+  * One large cyan "S" label at center of inner disc
+  * NOTE: The green dashed X-quadrant dividers present in companions 3_2045263848970858496 and 3_2045638035229024256 appear to be ABSENT in this variant, giving the left diagram a cleaner appearance
+* RIGHT DIAGRAM (plan-view): Identical to companion 3_2045371494319202304 variant:
+  * Outer graduated circle ring (~20–24 circles, ~350px outer diameter)
+  * Red circle arc (~250px diameter) inside outer ring
+  * Blue dotted inner arc (~200px diameter)
+  * Central 3-ring concentric element (outer ~80px, inner ~30px, dot ~15px)
+  * Upper brush contact: red-filled circle (~30px) at top, connected by short vertical line
+  * Decreasing circle chain below central element
+  * Green "Δ" at upper-right of right diagram
+  * Green "Δ" at lower center of right diagram (below central concentric)
+* NEW ELEMENT — DASHED CONNECTOR LINES:
+  * Red dashed line: extends from the upper small red disc element (inner upper-center of the left side-view diagram) diagonally to the upper brush contact red circle of the right plan-view diagram. Approximate length: ~200px diagonal.
+  * Cyan dashed line: extends from the cyan "S" inner disc region (center of left diagram) diagonally to the central concentric bull's-eye element of the right plan-view diagram. Approximate length: ~220px diagonal.
+  * Both lines connect structurally corresponding elements between the two views
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram at outer quadrant positions)
+* "S" (cyan/blue, large, inside the central disc of left diagram)
+* "Δ" (green, two instances on right diagram — upper and lower positions)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring (left): red
+* Inner ring (left): blue
+* Pole labels: "N" red, "S" cyan
+* Connector lines: red dashed (upper), cyan dashed (lower)
+* Lift indicators: green Δ
+* Outer perimeter circle ring (right): black
+* Red arc (right): red
+* Blue dotted arc (right): cyan dashed
+
+PHYSICS CONCEPTS:
+* This variant introduces explicit visual cross-referencing between the side-view and plan-view diagrams via color-coded dashed connector lines:
+  1. RED DASHED CONNECTOR (upper small red disc → upper brush contact): This line visually identifies that the small red disc element visible in the side-view cross-section IS the upper brush contact in the plan-view. In the side-view, this element appears as a small disc above the main flywheel (the rotating contact that extracts current from the upper surface of the spinning disc). In the plan-view, it appears as the red circle at the 12-o'clock position connected to the outer red arc. The red dashed connector confirms these are the same physical component seen from two perpendicular viewpoints.
+  2. CYAN DASHED CONNECTOR (central S inner disc → central concentric bull's-eye): This line visually identifies that the large cyan-labeled "S" element in the side-view IS the central concentric hub assembly in the plan-view. In the side-view, the inner blue disc with "S" label represents the South-polarity inner spinning magnet. In the plan-view, the 3-ring concentric bull's-eye represents the same element viewed from above — showing the axis, inner bearing race, and outer bearing race / inner flux coupling zone. The cyan dashed connector confirms the structural correspondence.
+  3. THE TWO-VIEW CORRESPONDENCE: This schematic variant serves as a "Rosetta Stone" for the dual-view representation: it explicitly teaches the viewer which elements in the side-view correspond to which elements in the plan-view. This is pedagogically significant — it closes the loop on the entire series of alternating side-view and plan-view disc schematics presented throughout the companion image sequence.
+  4. ABSENT QUADRANT LINES: The removal of the green dashed X-quadrant dividers from the left diagram (compared to companion 3_2045263848970858496) reduces visual clutter so the new dashed connector lines are more prominent — a deliberate annotation design choice.
+  5. TWO Δ SYMBOLS (vs. three): Same as companion 3_2045371494319202304 — upper and lower Δ symbols indicate symmetric axial thrust on both sides of the disc midplane.
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view, left half of image
+* Right diagram: plan-view, right half of image
+* Red dashed connector: diagonal from upper-center of left diagram to upper-center of right diagram
+* Cyan dashed connector: diagonal from center of left diagram to center of right diagram
+* N labels: four, outer quadrant positions of left diagram red ring
+* S label: center of left diagram inner disc
+* Δ symbols: upper and lower positions of right diagram
+
+HIGH-LEVEL SUMMARY:
+Variant of the N/S pole-labeled dual disc composite — same side-view (4 red "N" labels on outer ring, large cyan "S" on inner disc) and plan-view (2 green Δ lift indicators, outer graduated circle ring, red arc, blue dotted arc, central bull's-eye) as companion 3_2045371494319202304, but with two new dashed connector lines explicitly cross-referencing the two views: a red dashed line from the upper small red disc element (side-view) to the upper brush contact circle (plan-view), and a cyan dashed line from the central "S" inner disc (side-view) to the 3-ring central concentric bull's-eye (plan-view). These connectors serve as a "Rosetta Stone" teaching which physical components in the side-view cross-section correspond to which elements in the plan-view — completing the pedagogical sequence of the dual-view disc schematic series. The X-quadrant dividers are absent in this variant to reduce visual clutter and emphasize the new cross-reference lines.

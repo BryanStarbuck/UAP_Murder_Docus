@@ -1,0 +1,39 @@
+SHAPES:
+* Black-on-white schematic — vertical strip format, showing a simplified cross-section of the central magnet/stator tube assembly
+* ELEMENTS (top to bottom, simplified version of companion image 3_2044596341809250304):
+  * TOP: Large ring circle (white center, thick black outline, approximately 100px diameter) — "central magnet N/S" upper pole (ring magnet)
+  * SECOND: Large solid black circle (approximately 100px diameter) — spinning magnet element
+  * THIRD/CENTER: A cluster of overlapping circles:
+    * One large circle (thin outline only, approximately 120px diameter) — the outer housing/tube boundary
+    * One medium solid black circle (approximately 70px diameter) — the inner spinning element
+    * One thin-outline ring circle (approximately 70px diameter) overlapping the solid circle — the stainless-steel tube boundary (no purple/magenta coloring in this version — monochrome)
+    * The cluster shows the offset/eccentric overlapping of the spinning magnet within the stainless-steel tube
+  * FOURTH: A smaller crescent/partial circle element (approximately 40px) — the spinning magnet partially visible below the cluster
+  * BOTTOM: A small ring circle (white center, thin outline, approximately 50px diameter) — the lower "central magnet N/S" pole (smaller version)
+
+TEXT VISIBLE:
+* No text visible (this is a simplified monochrome version of the labeled companion image 3_2044596341809250304)
+
+COLORS:
+* Pure black and white
+* No purple/magenta or other colors (vs. the labeled companion which has magenta for the stainless-steel tube)
+
+PHYSICS CONCEPTS:
+* This is an unlabeled, simplified monochrome version of the companion schematic 3_2044596341809250304. The elements are identical:
+  * TOP ring magnet (white center) = central north pole ring magnet
+  * Solid black disc = spinning permanent magnet rotor
+  * Overlapping circle cluster = the stainless-steel tube boundary with the eccentric spinning magnet inside (showing the off-axis rotation geometry)
+  * Small crescent = partial view of the spinning element below the tube
+  * Bottom ring = south pole ring magnet
+* The unlabeled version appears alongside the labeled version in this research series, suggesting it is used as a visual reference without the text annotations that appear in companion image 3_2044596341809250304.
+* The eccentric/offset overlap in the center cluster is the key physics encoding: the spinning magnet is NOT centered in the stainless-steel tube — it spins eccentrically (off-axis), creating a rotating asymmetric magnetic field rather than a symmetric rotating field. This asymmetry is what drives the 3-phase output.
+
+SPATIAL RELATIONSHIPS:
+* All elements aligned on vertical axis
+* Top ring magnet: largest
+* Solid black disc: second
+* Center cluster (overlapping circles): most complex
+* Bottom crescent + bottom ring: smaller, at the base
+
+HIGH-LEVEL SUMMARY:
+Simplified monochrome (unlabeled) black-on-white version of the central magnet/stator tube assembly schematic (companion image 3_2044596341809250304), showing (top to bottom): a large ring magnet (N/S upper pole), a solid spinning magnet disc, an eccentric overlapping circle cluster (spinning magnet inside stainless-steel tube — the off-axis eccentric overlap encodes the asymmetric rotating field), a smaller crescent element, and a bottom ring magnet (S/N lower pole). The eccentric arrangement in the center cluster (spinning magnet off-center within the tube) produces the asymmetric rotating magnetic field that drives 3-phase output — rather than the symmetric zero-net-rotation field that would result from a perfectly centered spinning element.

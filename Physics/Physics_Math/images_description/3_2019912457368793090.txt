@@ -1,0 +1,37 @@
+IMAGE DESCRIPTION: 3_2019912457368793090.jpg
+
+SHAPES AND TEXT:
+* Close-up aerial photograph of a rectangular section of a crop formation (the Crabwood 2002 disc formation or similar binary dot-matrix crop encoding)
+* The image shows the "disc" portion of a binary-encoded crop formation — a rectangular/tall strip showing the dot-matrix binary pixel grid
+
+Structure:
+* The overall shape of the visible section: a tall narrow rectangle (approximately 3:1 height-to-width ratio)
+* The interior is filled with a grid of square/rectangular standing-crop elements (dark) on a background of flattened crop (pale cream-yellow):
+  - The pattern is a binary dot-matrix: dark standing-crop squares = "1" bits; flattened (no standing square) = "0" bits
+  - The squares are arranged in rows and columns, approximately 4 columns × many rows visible
+  - The squares themselves are not perfectly regular — they have slightly rounded or irregular edges due to the physical crop stalks
+
+Visible features in the binary grid:
+* Upper portion: several rows of varying dark squares — some rows have squares in multiple columns (binary 1s), some rows have only one or two
+* Middle portion: two prominent elements visible:
+  - A cross/plus symbol (+) shape in the middle-center area: a larger raised/standing area in the shape of a cross
+  - A tall narrow rectangle (lighter colored, slightly different shade): positioned centrally, this may be a separating element or a different-density section
+* Lower portion: more rows of dot-matrix squares, with some larger square groupings (representing multi-bit patterns)
+* Two diagonal tramlines visible passing through the image diagonally (upper-right to lower-left) — these bisect the formation and are a key identifying feature of the Crabwood site
+
+* Outer boundary: a narrow raised/flattened border (slightly lighter than the interior) defines the rectangular edge of this section of the formation
+
+TEXT: No text visible (the image IS the encoded text/data in binary dot-matrix form).
+
+COLORS: Pale cream/golden-white (flattened crop). Dark brown-gray (standing crop squares = "1" pixels). The tramlines show as fine diagonal lighter lines.
+
+PHYSICS / CONCEPTS:
+* This image shows the binary dot-matrix disc portion of the Crabwood 2002 crop formation:
+  1. The Crabwood 2002 formation consisted of two main elements: a large pixelated "grey alien" face and a rectangular spiral disc containing binary-encoded ASCII text. This image shows a close-up of the rectangular disc section
+  2. Binary ASCII encoding: the disc contains a message encoded in 8-bit ASCII characters. The bit layout: each row encodes one bit; 8 rows = 1 byte = 1 ASCII character. When decoded from the inside spiral outward, the message reads: "Beware the bearers of false gifts and their broken promises. Much pain but still time. Believe there is good out there. We oppose deception. Conduit closing [bell character]"
+  3. The cross/plus shape in the middle: the cross element within the binary text is either a decorative separator or part of the ASCII encoding (the ASCII code for '+' is 43 = 00101011 binary, or the cross could be a sync marker to align the reader's bit-counting)
+  4. The physical crop dot-matrix: the crop has been precisely laid to create individual standing "pixels" of approximately 0.5-1m size. Achieving this resolution in a large field formation requires either: (a) precision mechanical tools or (b) a non-mechanical formation mechanism that can selectively flatten crop at sub-meter resolution
+  5. The tramlines cutting through: the formation creators either worked around the tramlines or the tramlines passed through pre-existing standing crop sections (0-bit pixels) without visual disruption
+
+SUMMARY:
+Close-up aerial photograph of the binary dot-matrix disc portion of the Crabwood 2002 crop formation — a tall narrow rectangular section showing a grid of dark standing-crop squares ("1" bits) on pale flattened-crop background ("0" bits), approximately 4 columns wide and many rows tall. A cross/plus symbol and a narrow central rectangle are visible as larger structural elements within the bit grid. Two diagonal tramlines cross the section. The full disc encodes a binary ASCII message reading: "Beware the bearers of false gifts and their broken promises. Much pain but still time. Believe there is good out there. We oppose deception. Conduit closing."

@@ -1,0 +1,59 @@
+IMAGE DESCRIPTION: 3_1961580665021054976.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly square true-color astronomical image (RGB composite) of a cometary coma
+* Background: mottled dark grey-black with strong noise (Poisson photon noise texture — not uniform)
+* Central source: bright white nucleus (saturated) with a multicolor halo:
+  * Bright white core at center-left of image
+  * Yellow-white inner region immediately surrounding nucleus
+  * BLUE zone: extending to the left (west) of the nucleus — a distinct blue arc/lobe
+  * PINK/RED zone: extending to the right (east/northeast) of the nucleus — a distinct pink-red arc/lobe
+  * The blue and pink zones are asymmetric: blue is on the sunward side, pink-red on the anti-sunward side, OR different gas species appear on different sides
+* The overall coma shape: non-circular, asymmetric — this is a TRUE COLOR composite showing actual wavelength-differentiated structure
+* The background noise has a distinctly dark-grey graininess (not colored background) suggesting a true-color image where the background is approximately sky-colored (grey-neutral)
+* SCALE: The coma/nucleus is positioned center-left; the image is approximately square
+
+COLORS:
+* Background: dark grey-black (neutral sky)
+* Nucleus: bright white (saturated, all bands)
+* Inner halo: warm white-yellow (dust continuum, broadband)
+* Left/west zone: distinct blue (CN gas emission band, ~388 nm, or B-band dust)
+* Right/east zone: distinct pink-red (possibly C₂/C₃ gas emission, or R-band dust)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* TRUE-COLOR RGB COMETARY COMA COMPOSITE:
+  * This appears to be a TRUE-COLOR composite where different wavelength bands were combined using R/G/B channels, creating a composite that reveals different emission species spatially:
+    * BLUE zone: likely dominated by CN emission (λ ≈ 388 nm, mapped to blue channel) or B-band dust continuum
+    * WHITE/YELLOW nucleus: broadband continuum from sunlight reflected off dust — appears roughly solar-colored (white-yellow)
+    * PINK/RED zone: likely dominated by C₂ Swan bands (λ ≈ 473, 514, 563 nm), NH₂ emission (λ ≈ 630-670 nm), or R-band dust
+  * The asymmetric spatial distribution of gas species is a key observational diagnostic:
+    * Gas species are photo-dissociated at different rates (scale lengths)
+    * If blue (CN) extends further on one side: asymmetric outgassing or parent molecule distribution
+    * Different gas species can have different azimuthal distributions if they come from different source regions on the nucleus
+* GAS-DUST SPATIAL DIFFERENTIATION:
+  * True-color composites of comets routinely show the spatial separation between:
+    * Dust (broadband continuum = warm/yellow) surrounds the nucleus symmetrically or follows radiation pressure
+    * Gas (narrowband emission = cyan/blue for CN; green for C₂; red for NH₂) can be asymmetric
+  * For 3I/ATLAS: the spatial differentiation between CN (blue) and dust/C₂ (orange-pink) would constrain:
+    * Q(CN)/Q(dust) ratio — the gas-to-dust production ratio
+    * CN outgassing rate vs. dust production rate
+    * Nucleus rotation and active area locations
+* MULTIBAND RGB COMBINATION TECHNIQUE:
+  * Astronomers combine narrowband images: [R = Hα or R-band dust] + [G = C₂ or V-band] + [B = CN or B-band]
+  * This composite reveals structure invisible in any single band
+  * The strong blue-left / pink-right asymmetry in this image indicates distinct spatial distributions of the blue-emitting and red-emitting species
+* COMPARISON TO COMPANION IMAGES:
+  * All other coma images in this series use single-channel false-colormaps (hot, cold, blue)
+  * This is the only TRUE-COLOR RGB composite in the series — showing actual color information
+  * The multicolor appearance reveals the intrinsic color asymmetry of the coma that the false-color images cannot show
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: center-left of image
+* Blue lobe: to the left (west) of nucleus
+* Pink-red lobe: to the right (east) of nucleus and extending upward
+* Overall coma: extends about 40% of image radius from nucleus
+
+HIGH-LEVEL SUMMARY:
+A true-color (RGB composite) astronomical image of the 3I/ATLAS cometary coma showing a bright white saturated nucleus with a distinctly asymmetric multicolor halo: blue lobe to the left (west, sunward side or gas-dominated) and pink-red lobe to the right (east, possible dust or different gas species). This is the only true-color image in this coma series — all others use false-color single-band display. The blue-pink spatial asymmetry reveals the differential spatial distribution of gas emission species (CN blue at 388 nm vs. C₂/NH₂ pink-red at longer wavelengths). Physics: narrowband gas filter compositing ([R = C₂/Hα], [G = C₂ or continuum], [B = CN]), Haser model photodissociation scale lengths, gas-dust spatial differentiation, asymmetric outgassing. Part of the 3I/ATLAS interstellar comet imaging series.

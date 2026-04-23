@@ -1,0 +1,44 @@
+IMAGE: 3_1940753668992913410.jpg
+
+SHAPES AND OBJECTS:
+* Black-on-white technical schematic — a variation/elaboration of the 3-gravity-wave-generator disc propulsion diagram. This is a clean line drawing with both line elements and solid black fills.
+
+* OUTER CONCENTRIC CIRCLES — Three rings: three concentric thin black circles centered on the composition (~400px, ~330px, ~220px diameters), creating two annular bands and a central disc region.
+
+* THREE PERIMETER CROSSHAIR CIRCLES — Satellite generator positions: at three positions at equal 120° spacing (top/12 o'clock, lower-left/8 o'clock, lower-right/4 o'clock), three circles (~60px diameter each) sit on the second-largest concentric ring. Each satellite circle has:
+  - A thick black outline ring.
+  - Internal crosshair (two perpendicular lines, vertical and horizontal, bisecting the circle).
+  - A small solid black filled dot at the center of the crosshair.
+  This is the standard engineering symbol for an electromagnetic coil, solenoid, or toroidal generator viewed from the end — the crosshair represents the coil cross-section, the center dot represents the wire or core, and the thick ring represents the coil former/housing.
+
+* THREE THIN RADIAL LINES: from the central hub outward to each of the three satellite generator circles at 120° spacing, connecting the hub to the generators. These are the "spoke" or bus-bar connections.
+
+* CENTRAL DARK DISC + INNER RING + DARK HUB: inside the innermost concentric circle:
+  - A large solid dark grey/black filled disc region (~150px diameter) — the central reactor/motor.
+  - Inside this dark disc, a lighter (white) inner concentric ring (~60px diameter) — the inner void or field null region.
+  - Inside the white ring, a small solid dark circle (~30px) — the central hub/axle.
+  - The central dark disc has a 3-blade or 3-arm structure (dark "trefoil" / rotary pattern) suggesting three-fold internal segmentation — possibly the three-phase winding sectors of the central motor.
+
+TEXT:
+* No visible text.
+
+COLORS:
+* Black outlines, dark grey/black filled central disc, white background and inner ring. No other colors.
+
+PHYSICS / PHENOMENON:
+* This schematic is a more detailed variant of 3_1939105715932532736.txt (the basic 3-GWG schematic). The key additions here:
+  (1) Three concentric boundary rings (instead of two): the outermost ring defines the outer hull boundary; the middle ring is the generator attachment ring (the three crosshair circles sit on it); the innermost ring defines the edge of the central reactor region. This three-ring structure corresponds to a three-region disc craft: (a) outer hull/shell (between rings 3 and 2), (b) generator ring zone (at ring 2), (c) central reactor (inside ring 1).
+  (2) Crosshair satellite circles (crosshair symbol = coil/solenoid engineering symbol): the standard IEC/ISO engineering drawing symbol for an inductor or solenoid coil viewed end-on. The crosshair inside a circle represents: the circle = coil cross-section, the cross = winding axis/orientation. The central dot = the core material or wire center.
+  (3) Central trefoil/3-arm structure inside the dark disc: the three-armed dark pattern at center represents either (a) the three-phase field sectors of the rotating electromagnetic field (each arm = one phase's field direction), (b) the three winding sectors of a 3-phase permanent magnet generator, or (c) the three spacetime fabric distortion lobes of the three active gravity wave generators.
+  (4) The white inner ring: the central white ring inside the dark disc is the "field null" or "field-free zone" at the precise center of the rotating field — analogous to the eye of a magnetic storm or the center of a 3-phase stator where the net field cancels. In gravitomagnetic terms, this is the region of zero net spacetime curvature (the "flat" zone inside the distortion shell).
+  (5) Connection to Lazar Sport Model: the three crosshair circles at 120° = three gravity wave generators; the dark central disc = the antimatter reactor + rotating field region; the white inner ring = the reactor core void; the three concentric rings = hull/generator ring/reactor boundary.
+
+SPATIAL RELATIONSHIPS:
+* Three concentric circles defining outer, generator, and reactor boundaries.
+* Three crosshair-circle satellite generators at 120° on the middle ring.
+* Three thin radial lines from center to each satellite.
+* Central dark trefoil disc with white inner ring and small central dot.
+* Overall composition approximately 440px diameter.
+
+HIGH-LEVEL SUMMARY:
+A black-on-white technical schematic of a 3-gravity-wave-generator disc propulsion system — a more detailed variant of the basic 3-GWG diagram. Three concentric circles define outer hull, generator attachment ring, and reactor boundaries. Three crosshair circles (the IEC engineering symbol for a solenoid/coil viewed end-on) sit at 120° intervals on the middle ring, connected to the center by thin radials — representing three electromagnetic toroidal generators. The center contains a large dark trefoil disc (three-arm/three-phase field sectors) with a white inner ring (field-null zone) and small central hub dot — representing the antimatter reactor and central rotating field region. This diagram corresponds to the Bob Lazar Sport Model 3-GWG configuration with explicit engineering-drawing symbolism: the crosshair circles confirm that each perimeter element is a toroidal electromagnetic coil, not merely a geometric placeholder.

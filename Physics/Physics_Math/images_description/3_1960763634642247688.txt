@@ -1,0 +1,27 @@
+IMAGE DESCRIPTION: 3_1960763634642247688.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1960653368298496000 and 3_1960653402381410307 — nearly square false-color hot-colormap astronomical image
+* NO black chip gap — full frame filled with data
+* Background: blue-violet, smooth gradient (darker blue at bottom, more violet at top)
+* Central source: bright white nucleus → yellow → orange → red → pink → violet → blue
+* The image appears slightly smoother/less pixelated than companion chip-gap images (more interpolated or higher spatial sampling)
+* Approximately symmetric isophotes with very subtle asymmetry
+* No plus-pattern artifact visible at nucleus (nucleus not as saturated, or smoother interpolation)
+* This is essentially the same image as 3_1960653368298496000 / 3_1960653402381410307
+
+COLORS:
+* Background: blue-violet
+* Core: white
+* Halo sequence: yellow → orange → red → pink → violet → blue
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* FOURTH COPY OF FULL-FRAME COMA IMAGE:
+  * Same observation and display as 3_1960653368298496000, 3_1960653402381410307, 3_1960761903187419137
+  * All physics identical to those images
+  * See 3_1960653368298496000 for primary full physics analysis
+
+HIGH-LEVEL SUMMARY:
+Fourth copy of the full-frame (no chip gap) hot-colormap cometary coma image with white nucleus, smooth radial color gradient, and blue-violet background. Slight differences in smoothness/interpolation vs. companion images. Part of 3I/ATLAS comet series. See 3_1960653368298496000 for complete description.

@@ -1,0 +1,38 @@
+IMAGE DESCRIPTION: 3_1960571717287600130.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1960388815560040453 — rectangular landscape false-color astronomical image with uniform medium-blue background
+* Bright white-to-cyan central compact source, positioned slightly left of center
+* Smooth radial gradient: white core → cyan → teal-green → dissolving into medium blue background
+* The source is slightly oval/elongated (approximately horizontal elongation)
+* Small scattered dark pixel noise artifacts throughout the blue background
+* No other sources visible
+* The image appears essentially identical to 3_1960388815560040453 — same blue background, same white-cyan source, same pixel noise pattern, same slight elongation
+
+COLORS:
+* Background: medium uniform blue (RGB approximately 60, 100, 200)
+* Core: saturated white
+* Inner halo: bright cyan/aqua
+* Intermediate zone: teal-green
+* Outer gradient: into medium blue background
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* NEAR-DUPLICATE OF 3_1960388815560040453:
+  * This image is essentially identical to 3_1960388815560040453
+  * Both show the same B-band or CN-band cometary coma with the same colormap, same source morphology, and same background
+  * Minor compression or rendering differences may exist but the content is the same
+  * This is likely the same image file shared or posted multiple times in the social media thread, or a very slightly different display stretch of the same raw data
+* ALL PHYSICS CONTENT: Identical to 3_1960388815560040453
+  * B-band or CN-band cometary observation
+  * Uniform blue background = background subtraction residual or narrowband filter
+  * Slightly elongated source = non-stellar coma or tracking error
+  * Haser model I(r) ∝ r^{-n} for coma profile
+  * Part of 3I/ATLAS interstellar comet analysis series
+
+SPATIAL RELATIONSHIPS:
+* Identical layout to 3_1960388815560040453
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1960388815560040453 — same blue-background false-color cometary coma image with bright white-cyan compact source, same radial gradient, same pixel noise, same slight horizontal elongation. Part of the 3I/ATLAS interstellar comet imaging series. See 3_1960388815560040453 for full physics analysis. The repeated appearance of this image in the collection (alongside 3_1960388815560040453) suggests it was posted or shared multiple times in the original social media thread.

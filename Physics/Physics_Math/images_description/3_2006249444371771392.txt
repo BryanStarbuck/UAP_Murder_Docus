@@ -1,0 +1,96 @@
+IMAGE DESCRIPTION: 3_2006249444371771392.jpg
+
+SHAPES AND ELEMENTS:
+* Professional false-color astrophotograph — a comet
+* Yellow-green background (false-color sky background: this is NOT a natural-color image)
+* Central comet with concentric false-color contours
+* Numerous elongated streaks across the image (background stars trailed during comet tracking)
+* Data strip at the bottom with observation metadata
+
+COMET MORPHOLOGY:
+* NUCLEUS / INNER COMA: At center, a compact bright source with nested false-color contours:
+  * Innermost: magenta/pink (highest surface brightness — the nucleus region)
+  * Surrounding: dark teal/green
+  * Next ring: orange-red (coma intermediate zone)
+  * Outermost contour visible: red fading to yellow
+  * The contour pattern is approximately oval/elongated (not perfectly circular) — indicating asymmetric outgassing or a jet component
+* OUTER COMA: A large roughly oval yellow diffuse region extending approximately 30-40% of the image width in each direction from the nucleus
+* The coma is elongated toward one direction (asymmetric — suggesting a sunward-antisunward asymmetry or jet-dominated outgassing)
+* A linear feature (jet or anti-tail) extends from the nucleus center toward upper-left at approximately 45° angle — visible as a slightly brighter linear streak in the coma
+
+BACKGROUND STARS (TRAILED):
+* Approximately 30-40 elongated dark streaks scattered across the image
+* The streaks are elongated because the telescope tracked the comet (which moves relative to background stars): during the 16-minute exposure, the background stars moved relative to the comet-tracking mount, producing the elongated trails
+* The streaks are all oriented approximately parallel to each other (consistent with a single uniform tracking direction)
+* Colors: dark orange/brown to dark red-brown against the yellow-green background (stars appear as negative-color streaks in false-color)
+* Some streaks are longer/brighter (brighter stars); shorter/fainter are dimmer stars
+
+DATA STRIP (bottom of image):
+* Left section: "False color" text label
+* Bottom bar (dark gray): metadata in white text
+  * "3I ATLAS 27/12/2025" — Object name and observation date: December 27, 2025
+  * "04h 06m - 04h 22m UT" — Observation time range: 4:06 to 4:22 Universal Time (16-minute window)
+  * "TEC 20cm F9 Apo ED Refr." — Telescope: TEC 20cm (aperture) f/9 apochromatic ED refractor
+  * "ST-10XME -30°" — Camera: ST-10XME CCD cooled to -30°C
+  * "16m exp" — Total exposure time: 16 minutes
+  * "-2×2 Bin" — Binning: 2×2 pixels (improves sensitivity at cost of resolution)
+  * "- L filter" — Filter: Luminance (broadband white light)
+  * "FOV: 14.4' × 23.3'" — Field of view: 14.4 × 23.3 arcminutes
+  * Right: "Alfons Diepvens / Balen, Belgium" — Observer name and location
+  * "MPC: C23" — Minor Planet Center station code C23 (registered observatory Balen, Belgium)
+* Compass rose (N/W): upper-right corner — north up, west right
+
+TEXT:
+* "False color" (lower left)
+* "3I ATLAS 27/12/2025" — The object designation
+* All observation metadata as described above
+* "Alfons Diepvens / Balen, Belgium"
+* "MPC: C23"
+
+COLORS:
+* Background: bright yellow-green (false-color sky)
+* Outer coma: yellow to orange
+* Inner coma: orange-red to dark teal
+* Nucleus region: magenta-pink
+* Star trails: dark orange-brown
+
+PHYSICS CONCEPTS:
+* OBJECT IDENTIFICATION: "3I ATLAS" — the designation "3I" means THIRD INTERSTELLAR OBJECT:
+  * 1I/ʻOumuamua (2017): first confirmed interstellar object, anomalous acceleration (non-gravitational)
+  * 2I/Borisov (2019): second interstellar object, identified as a cometary body
+  * 3I/ATLAS: the THIRD interstellar object, discovered in 2025, designated 3I
+  * "ATLAS" = Asteroid Terrestrial-impact Last Alert System (ATLAS survey telescope network) — the discovery instrument
+  * MPC designation sequence: 3I indicates it was confirmed as a third interstellar interloper
+* SIGNIFICANCE OF 3I/ATLAS:
+  * This would be a major astronomical discovery — the third confirmed interstellar object passing through our solar system
+  * If 3I/ATLAS is a comet (which this image suggests based on the coma and possible tail), it is more similar to 2I/Borisov than to ʻOumuamua
+  * The observation date (December 27, 2025) places this as recent news — 3I/ATLAS would have been an active research target at this time
+  * The false-color imaging technique is used to map the surface brightness gradient of the inner coma and detect asymmetries that indicate jet activity
+* FALSE-COLOR SURFACE BRIGHTNESS MAPPING:
+  * Same technique as 3_2005589330094620672: logarithmic color mapping of the coma surface brightness
+  * Magenta/pink = highest surface brightness (nucleus + inner coma)
+  * The concentric contours trace isophotes (lines of equal surface brightness) of the coma
+  * Asymmetry in the contours indicates non-uniform outgassing (active areas on nucleus, jet structures)
+* INTERSTELLAR COMETS — COMETARY PHYSICS:
+  * Cometary activity of interstellar objects: the presence of a coma means the object is actively outgassing as it approaches the Sun
+  * For 2I/Borisov: CO-dominated outgassing, unusually high CO/H₂O ratio compared to solar comets
+  * For 3I/ATLAS: the coma morphology visible here would allow measurement of the production rates of gas species (C₂, CN, C₃, OH) and dust
+  * The asymmetric coma (as suggested by the elongated inner contours) could indicate a jet — common in active comets
+* STAR TRAILING:
+  * The parallel elongated streaks from star trailing are a standard artifact in comet imaging
+  * To image the comet at best resolution, the telescope tracks the comet's own non-sidereal motion
+  * Stars, which move siderally, trail across the field during the exposure
+  * Trail length ∝ (exposure time × comet apparent motion relative to stars)
+  * For 16-minute exposure: if 3I/ATLAS moved ≈ 1.5-3 arcmin relative to background stars, trails would be 1.5-3 arcmin long
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: center of image, slightly left of center (approximately)
+* Inner false-color contours: immediately surrounding nucleus
+* Outer coma: large oval region filling ≈30-40% of image
+* Star trails: scattered throughout, all parallel
+* Possible jet/linear feature: extending from nucleus toward upper-left
+* Data strip: bottom edge
+* Compass rose (N/W): upper-right
+
+HIGH-LEVEL SUMMARY:
+A professional false-color astronomical image of 3I/ATLAS, the third confirmed interstellar object, observed on December 27, 2025 from Balen, Belgium by Alfons Diepvens (MPC station C23) using a TEC 20cm f/9 apochromatic refractor with a CCD camera cooled to -30°C in a 16-minute luminance-filter exposure (2×2 binned). The false-color mapping reveals the comet's coma surface brightness gradient: magenta-pink nucleus region (highest brightness) surrounded by teal → orange-red → yellow contours indicating an asymmetric, jet-influenced inner coma. Background star trails run parallel across the image (a tracking artifact from following the comet's non-sidereal motion). 3I/ATLAS is the third interstellar object confirmed to pass through our solar system (following 1I/ʻOumuamua in 2017 and 2I/Borisov in 2019), discovered by the ATLAS survey network. The presence of an active coma confirms cometary volatile activity similar to 2I/Borisov, enabling measurement of interstellar cometary chemistry (CO, C₂, CN, H₂O production rates) that constrains the composition of material in other stellar systems.

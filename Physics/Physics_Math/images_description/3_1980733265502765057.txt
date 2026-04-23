@@ -1,0 +1,75 @@
+SHAPES:
+* Scientific data visualization image (~960x480px) — a two-panel false-color intensity map from an astronomical spectroscopic observation
+
+Panel layout:
+* TWO PANELS side by side, each approximately 460x480px
+* Each panel is a rectangular spatial map on equatorial coordinate axes
+* Both panels show the same sky region observed in different spectral lines
+
+Axes (both panels identical):
+* X-axis: "ΔRA [arcsec]" — ranging from approximately -7 to +7 arcsec (right ascension offset)
+* Y-axis: "ΔDec [arcsec]" — ranging from approximately -8 to +10 arcsec (declination offset)
+* Both axes have dashed gray grid lines at major tick intervals
+* The spatial maps are rotated approximately 30° clockwise relative to horizontal — the rectangular detector footprint is tilted
+
+Scale bar (both panels):
+* A RED HORIZONTAL SCALE BAR at the upper-left of each panel, labeled "~6,000 km" in red text
+* The scale bar spans approximately 2-3 arcsec on the horizontal axis
+* This means at the object's distance, 2-3 arcsec subtends approximately 6,000 km in physical scale
+
+Species labels (upper-left of each panel):
+* LEFT PANEL: "CN" in large black text (cyanide/cyanogen radical)
+* RIGHT PANEL: "Ni" in large black text (neutral atomic nickel)
+
+Sun direction arrows (lower-right of each panel):
+* A large YELLOW ARROW with stem and arrowhead, labeled "Sun" in yellow text
+* The arrow points toward the lower-right of each panel (approximately 225° azimuth from the object)
+* The arrow indicates the direction to the Sun from the observed object
+
+False-color intensity maps:
+* Color scale: BLUE-GREEN-YELLOW-WHITE representing increasing emission intensity
+* Background/low intensity: deep blue to purple (values ≈ 0)
+* Moderate intensity: teal to green
+* High intensity: bright yellow-green
+* Maximum intensity: WHITE (at the center of the detected source)
+* The emission peak is at the origin (ΔRA ≈ 0, ΔDec ≈ -1 to 0) — the nucleus of the observed object
+* The emission is NOT symmetric: it extends preferentially toward the UPPER-LEFT (anti-sunward direction) — consistent with a comet coma blown away from the Sun by solar wind and radiation pressure
+* Left panel (CN): emission extends approximately 8-10 arcsec anti-sunward with a more extended halo
+* Right panel (Ni): emission is more compact, approximately 5-7 arcsec anti-sunward, with a slightly different morphology
+
+TEXT (verbatim):
+* "~6,000 km" (red, both panels)
+* "CN" (black, left panel)
+* "Ni" (black, right panel)
+* "Sun" (yellow, with arrow, both panels)
+* "ΔDec [arcsec]" (y-axis label)
+* "ΔRA [arcsec]" (x-axis label)
+
+COLORS:
+* Data: deep blue (minimum) → teal → green → yellow-green → white (maximum)
+* Scale bar: red
+* Species labels: black
+* Sun arrow and label: yellow
+* Grid lines: dashed gray
+* Background outside detector: dark gray/black
+
+SPATIAL RELATIONSHIPS:
+* Two panels side by side separated by a thin gap
+* Each panel has identical axes and spatial coverage
+* Emission peak at center-bottom of each map (near coordinate origin)
+* Anti-sunward extension toward upper-left
+* Scale bar at upper-left, Sun arrow at lower-right of each panel
+
+PHYSICS CONCEPT:
+This is a false-color spectral emission map of a COMETARY COMA — most likely from the interstellar object 3I/Atlas (discovered July 2025) or a solar system comet observed with an integral field unit (IFU) spectrograph. The detection of both CN (cyanogen radical, C₂N) and Ni (neutral atomic nickel) in the coma is scientifically significant:
+
+CN is a canonical coma tracer produced by photodissociation of parent molecules HCN and CH₃CN (acetonitrile) in the coma: HCN + hν → CN + H. CN emission at 388nm (the B²Σ⁺ → X²Σ⁺ violet system) is a standard measure of cometary activity (Q_CN production rate). The ~6,000 km physical scale bar indicates the observation probes the inner coma, where the parent-to-daughter photodissociation cascade is ongoing, and the collision-dominated zone (within the contact surface) may still partially suppress extended emission.
+
+Ni is an anomalous coma species first definitively detected by Bromley et al. (2021, Nature) in solar system comets and subsequently identified in many objects. The presence of Ni in cometary comae is not explained by classical dust grain sublimation — neutral Ni is produced only by photodissociation of an unknown Ni-bearing parent molecule at temperatures far too low for thermal sublimation (comae operate at 170-200K in the outer solar system). This suggests either: (1) A photochemical production mechanism from an unidentified organometallic Ni compound (e.g., nickelocene Ni(C₅H₅)₂); or (2) A non-thermal desorption mechanism (UV photodesorption, solar wind sputtering) of Ni from dust grain surfaces.
+
+For an interstellar object (ISM origin), the detection of both CN and Ni with morphologies consistent with solar radiation-driven outflow indicates the object is sublimating material that is compositionally similar to solar system comets — supporting either: (a) A common chemical origin for cometary volatiles across star-forming regions; or (b) Active outgassing from a body that formed in its home planetary system and was ejected with a composition similar to Oort Cloud or Kuiper Belt objects. The anti-sunward extension (Finson-Probstein fan directed away from Sun) is driven by radiation pressure on dust grains and solar wind on ions, with β = Q_rad/Q_grav controlling the dust trajectory distribution. The compact Ni emission relative to CN indicates Ni production occurs closer to the nucleus — consistent with a refractory parent that survives longer than volatile HCN before dissociating.
+
+In RC's UAP physics documentation context, the detection of metallic species (Ni) in the coma of an interstellar object is significant because: metallic outgassing is not expected from a natural comet, and alternative interpretations (metallic components of an artificial object, structural metal being ablated) are not excluded by the spectral data alone. This connects to the broader "3I/Atlas as artificial object" thesis documented elsewhere in this collection.
+
+HIGH-LEVEL SUMMARY:
+Two-panel false-color spectral intensity map (~960x480px) showing coma emission from what appears to be a comet (possibly interstellar object 3I/Atlas) observed with an integral field spectrograph. LEFT PANEL: CN (cyanogen radical) emission, 388nm; RIGHT PANEL: Ni (neutral nickel) emission. Both panels show the same sky region (ΔRA ±7 arcsec, ΔDec -8 to +10 arcsec) with red scale bars indicating ~6,000 km physical extent. Yellow arrows indicate the Sun direction (lower-right). Both panels show emission peaked at the nucleus (coordinate origin, near center-bottom) extending anti-sunward (upper-left), with blue-green-yellow-white false-color scale. The CN coma extends ~8-10 arcsec anti-sunward; the Ni coma is more compact (~5-7 arcsec). Detection of neutral atomic Ni in a cometary coma is anomalous — not explained by classical thermal sublimation — and in RC's UAP context supports the interpretation that the object may contain metallic components inconsistent with a purely natural cometary body, potentially consistent with artificial construction or exotic materials.

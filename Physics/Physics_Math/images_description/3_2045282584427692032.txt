@@ -1,0 +1,49 @@
+SHAPES:
+* Black-on-white graphic design — plan-view schematic of the disc perimeter magnet ring with a central concentric target and a downward connector element
+* OUTER RING: A large thin-outline circle (approximately 500px diameter) with D-shaped / teardrop-shaped solid black elements arranged around the inner circumference
+  * Approximately 12 solid D-shaped/teardrop/lobe elements arranged around the inner face of the outer ring
+  * The D-shapes are solid black
+  * Each D-shape: approximately 60-70px wide, 80px tall — wider/rounded at the outer edge (touching the outer ring circle), tapered slightly toward the inner space
+  * The D-shapes are all pointing radially INWARD (toward the center of the disc)
+  * Between adjacent D-shapes: small gaps or gaps of approximately 15px
+  * The arrangement creates a "gear-like" or "sun-with-petals" appearance from the inside
+* CENTRAL CONCENTRIC ELEMENT: At the geometric center, a multi-ring concentric target
+  * Approximately 4 nested circles (outer approximately 200px, progressively smaller)
+  * A solid black central disc (approximately 70px diameter) at the very center
+  * Below the center disc: a narrow vertical connector element (approximately 8px wide × 50px tall) extending downward from the solid center disc to the bottom of the concentric ring set
+  * The connector creates a "keyhole" or "pin" appearance at the center-bottom
+* OUTER RING DESIGN: The D-shapes + thin circle create a specific topology distinct from the alternating crescents in companion image 3_2045282536805576705
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Black and white, pure binary
+
+PHYSICS CONCEPTS:
+* This schematic encodes the inner-face layout of the perimeter magnet ring — a different perspective than companion 3_2045282536805576705:
+  1. INWARD-POINTING D-SHAPES (12 count): All 12 D-shapes point inward — this encodes:
+     * All 12 magnets have the SAME POLARITY facing the disc interior — either all North-facing-inward or all South-facing-inward
+     * This is a MONOPOLE RING configuration (all same polarity facing the rotor) — as opposed to the alternating N-S ring (which produces multiple poles)
+     * A monopole ring creates a single-polarity uniform field inside the ring — the field inside a ring of same-polarity magnets is approximately uniform and perpendicular to the ring plane (axial B-field)
+     * This is the FARADAY DISC FIELD CONFIGURATION: the disc needs a uniform axial B-field (B_z = const) inside it for maximum homopolar generator efficiency. A ring of same-polarity magnets provides exactly this.
+  2. CENTRAL CONCENTRIC TARGET + KEYHOLE CONNECTOR: The central target (4 nested rings) represents the central hub assembly, and the downward connector (the "pin" or "key") represents:
+     * The central shaft that extends below the disc — the lower brush contact for DC current extraction
+     * The lower connection point for the stainless-steel tube assembly (companion image 3_2044596341809250304)
+     * The "key" that locks the rotation axis to the lower output terminal
+  3. DESIGN COMPARISON (vs. companion 3_2045282536805576705):
+     * COMPANION: Alternating inward/outward crescents → alternating N-S poles (multi-pole AC machine)
+     * THIS IMAGE: All-inward D-shapes → all same polarity (monopole ring, uniform axial field for DC homopolar generator)
+     * The two companion images together present the TWO POSSIBLE CONFIGURATIONS of the perimeter magnet ring — multi-pole AC (alternating N-S) vs. mono-polarity DC (all same facing)
+     * The Faraday disc / homopolar generator requires the mono-polarity configuration
+     * The 3-phase AC generator requires the alternating multi-pole configuration
+     * The UAP propulsion system may use BOTH simultaneously: mono-polarity for the primary power generation disc and multi-pole for the secondary 3-phase output disc
+
+SPATIAL RELATIONSHIPS:
+* Outer thin ring: approximately 500px diameter
+* 12 inward-pointing D-shapes: arranged at the inner face of the outer ring
+* Central 4-ring concentric target: at geometric center
+* Downward pin/connector: below the central solid disc
+
+HIGH-LEVEL SUMMARY:
+Black-on-white plan-view schematic showing a large thin-outline ring with approximately 12 solid D-shaped / teardrop elements pointing radially INWARD (all same polarity facing the disc interior), enclosing a central 4-ring concentric target with a solid center disc and downward pin/connector element. The all-inward-pointing D-shapes encode a monopole ring configuration (all 12 magnets with the same polarity facing inward) — creating a uniform axial B-field (B_z = const) inside the ring, which is the optimal field configuration for the Faraday homopolar generator (V = ½ωBR²) and differs from the alternating N-S multi-pole configuration in companion image 3_2045282536805576705 (which encodes the 3-phase AC generator topology). Together, these two companion images present the two magnetic configurations of the perimeter magnet ring — monopole for homopolar DC generation and multi-pole for 3-phase AC generation — suggesting the complete UAP disc system uses both: a homopolar primary power disc + a 3-phase AC output disc in a stacked configuration.

@@ -1,0 +1,23 @@
+SHAPES:
+* Identical to 3_1980611443398471680.jpg — a heavily pixelated/low-resolution image showing a bright white pixel cluster against a multi-colored noise field
+
+This is a DUPLICATE or near-identical SECOND IMAGE of the same pixelated detector/camera frame documented in 3_1980611443398471680. The image dimensions, pixel count, color noise pattern, and white cluster position are identical or nearly identical to that file.
+
+Primary element:
+* A bright WHITE PIXEL CLUSTER (~40-50px in display, ~5-6 source pixels) at approximately x=620-680, y=260-330 in display coordinates — same position as in 3_1980611443398471680
+* Same multi-colored noise field (green-gray-lavender base with purple, olive, teal, pink pixels)
+* Same dark region adjacent to the cluster's lower-left edge
+
+TEXT: None visible.
+
+COLORS:
+* Identical to 3_1980611443398471680 — noise field is mottled green-gray with scattered multi-color single pixels; bright cluster is white to light gray
+
+SPATIAL RELATIONSHIPS:
+* Identical to 3_1980611443398471680 — bright cluster at right-center, noise field everywhere else
+
+PHYSICS CONCEPT:
+This is a duplicate of the low-resolution detector frame documented in 3_1980611443398471680. See that file for the complete physics analysis covering: high-ISO camera noise characteristics, photon shot noise vs. read noise, point source PSF interpretation, UAP marginal detection scenario, and/or interstellar object (3I/Atlas) coma nucleus detection. The image appearing twice in RC's Twitter thread likely indicates it was posted in two different tweets — possibly first as a standalone detection image and then again in a comparative context (e.g., next to another image for comparison).
+
+HIGH-LEVEL SUMMARY:
+Exact or near-exact duplicate of 3_1980611443398471680 — heavily pixelated low-resolution detector/camera image (~960x640px display, ~120x80px effective resolution) showing a faint bright white pixel cluster at right-center against a uniform multi-colored noise field (green-gray-lavender background with scattered purple, olive, teal, pink individual pixels). The white cluster and adjacent dark region are in the same position as in the companion image. For full physics analysis, see 3_1980611443398471680.txt.

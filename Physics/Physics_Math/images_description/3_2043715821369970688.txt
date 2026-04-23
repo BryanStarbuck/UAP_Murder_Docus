@@ -1,0 +1,61 @@
+SHAPES:
+* Composite annotated schematic on white background — two labeled disc configuration diagrams side by side
+* TITLE/LABEL (upper center): "Step 2 down-up going to reduced spin"
+  * Color coding: "down" in RED, "up" in black, "reduced spin" in black
+* LEFT DIAGRAM ("magnet below flywheel" configuration — same as companion):
+  * Outer graduated circle ring
+  * Large red ring
+  * Blue dotted arc (intermediate coupling radius)
+  * Red "V" (top): downward rotation indicator
+  * Green "Δ Δ" (between red disc and blue center): lift generation indicators (same as in Step 1)
+  * Blue "∧" (lower center): upward counter-rotation
+  * Central concentric circle (rotation axis)
+* RIGHT DIAGRAM ("magnet level with flywheel" — now showing "down-up" transition):
+  * Large outer red ring
+  * Inner blue ring
+  * Large central black disc
+  * Small upper disc (red circle)
+  * "V V" RED (two red downward arrows at the upper disc): downward direction indicators — this time the red disc is moving DOWN (vs. in Step 1 where it was moving up)
+  * "∧ ∧" BLUE (two blue upward arrows at the lower disc): the lower/inner disc is moving UP
+  * GREEN horizontal line: at the disc equatorial plane
+
+TEXT VISIBLE:
+* "Step 2 down-up going to reduced spin" (upper center)
+* "down" in RED, "up" in black
+* "V" (red, top left of left diagram)
+* "Δ Δ" (green, left diagram)
+* "∧" (blue, lower left diagram)
+* "V V" (red, right diagram upper)
+* "∧ ∧" (blue, right diagram lower)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer magnet ring: red
+* Inner coupling radius: blue (dotted)
+* Lift indicators: green
+* Directional indicators: red and blue
+
+PHYSICS CONCEPTS:
+* "Step 2" is the second half of the oscillatory up-down cycle described in companion image 3_2043715801421905920 (Step 1):
+  1. "STEP 2: DOWN-UP GOING TO REDUCED SPIN": The second phase of the spin oscillation:
+     * After Step 1 (magnets moved below flywheel plane → upward thrust generated → spin rate increased), Step 2 is the return half of the oscillation:
+       * The magnets (driven by gyroscopic precession or electromagnetic restoration force) move BACK UPWARD through the flywheel midplane
+       * The red disc element moves DOWN (red V V) and the inner blue element moves UP (blue ∧ ∧) — the disc is returning to the "magnet level" equilibrium state
+     * "Going to reduced spin" — the spin rate decreases during this return half of the oscillation because the net Lorentz force during the upward return is reversed (downward), partially canceling the upward thrust generated in Step 1
+  2. THE OSCILLATORY CYCLE (Steps 1 and 2 together):
+     * Step 1: Magnets UP → below plane → upward force → spin UP → net positive thrust impulse
+     * Step 2: Magnets DOWN → through plane → downward return → spin DOWN → net negative thrust impulse (smaller than Step 1)
+     * Net thrust per cycle = positive impulse (Step 1) - negative impulse (Step 2) > 0, IF the asymmetry is maintained
+     * The asymmetry arises because the closed-flux state (magnets below plane) has higher energy than the open-flux state (magnets above plane) — so the attractive force is stronger during Step 1 than during Step 2
+  3. LEFT DIAGRAM PERSISTENCE: The left diagram (same as the "magnet below flywheel" state from Step 1) shows that the lift generation (green Δ) continues even during Step 2 — because the magnets pass through the "below" position even on the return journey
+  4. RESONANCE INTERPRETATION: If Steps 1 and 2 are synchronized with the mechanical resonance frequency of the disc system (the gyroscopic precession frequency), maximum thrust is achieved — analogous to driving a tuned mechanical resonator at its natural frequency
+
+SPATIAL RELATIONSHIPS:
+* Title: upper center
+* Left diagram: the "magnet below flywheel" plan-view with thrust indicators (same as Step 1 right diagram)
+* Right diagram: the "magnet level" side-view with DOWN-UP direction indicators
+* Color coding: red = downward in this step, blue = upward in this step (reversed from Step 1 for the inner element)
+
+HIGH-LEVEL SUMMARY:
+"Step 2" annotated composite schematic — the second half of the oscillatory spin-thrust cycle described in Step 1 (companion image 3_2043715801421905920). The title "Step 2 down-up going to reduced spin" (with "down" in red) describes the return phase: the magnets move down-through-up as the system returns to the "magnet level" equilibrium state, with the red disc element moving downward (red V V) and the inner blue element moving upward (blue ∧ ∧). The spin rate decreases during this return half of the oscillation because the electromagnetic restoring force partially opposes the thrust generated in Step 1. However, if the Step 1 positive impulse exceeds the Step 2 negative impulse (possible if the open-closed flux energy is asymmetric between the two half-cycles), the net force per complete cycle is positive — generating net upward thrust. Together, Steps 1 and 2 describe a resonant oscillatory thrust mechanism for the counter-rotating electromagnetic disc system, analogous to a tuned mechanical resonator driven at its natural frequency.

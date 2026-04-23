@@ -1,0 +1,63 @@
+IMAGE DESCRIPTION: 3_1960382641393590272.jpg
+
+SHAPES AND ELEMENTS:
+* Rectangular landscape-format composite image (approximately 1050×590px)
+* LEFT PANEL (main, approximately 65% of image width): Large false-color infrared image — the same Spitzer IRAC jet-colormap image of Comet 17P/Holmes as in 3_1960138377036210176, shown at larger scale; same features: pixelated blue background, white-yellow core source, orange-red halo, large black masked corner in lower-left with staircase boundary, two blue artifact pixels
+* RIGHT PANEL (approximately 35% of image width): Divided into two equal stacked sub-panels with dark grey/black background
+
+RIGHT SUB-PANEL (upper, ~18% of full image height):
+* Dark background
+* A smaller false-color image of a compact point source — tight orange/red blob on dark blue background; smaller source, much more compact than the left panel — approximately 10×10 pixels for the bright region
+* X-axis label visible: "4.1 λ (μ)" and "4.4" — indicating this is the 4.1-4.4 μm (CO₂ band) image of the source at a different scale or time
+* An inset graph in the upper-right corner of this sub-panel: a spectral plot showing:
+  * X-axis: "λ (μm)" ranging from approximately 4.1 to 4.4 μm
+  * Y-axis: "S (MJy/Sr)" — specific intensity in MJy per steradian
+  * A sharp, narrow emission line (or spectral spike) visible at approximately 4.27 μm — this is the CO₂ ice/gas feature
+  * The spectrum has a clear gaussian-shaped peak centered at 4.27 μm
+* Background: dark/navy — this appears to be a zoomed-in, later-epoch observation where the source has faded
+
+RIGHT SUB-PANEL (lower, ~18% of full image height):
+* Slightly lighter blue/dark background
+* The same source region shown at the 2.4-3.0 μm band — this is labeled "2.4 λ (μm)" and "3.0"
+* Source: a compact orange-red spot, similar to the upper sub-panel but slightly less bright
+* Inset spectral graph in upper-right: same format — X-axis "2.4" to "3.0" λ (μm), Y-axis S (MJy/Sr); shows a broader, less pronounced spectral feature (possibly the 2.7 μm H₂O ice feature or the 3.0 μm fundamental O-H stretch)
+* Background: slightly lighter blue with visible cosmic sources (background galaxies?) as small color variations
+
+COMBINED INTERPRETATION:
+* This composite shows Comet 17P/Holmes in multiple observations:
+  * LEFT: A wide-field Spitzer IRAC image (one channel, large scale) showing the extended coma
+  * RIGHT-TOP: A later-epoch or more compact view in the 4.1-4.4 μm CO₂ band, with an inset spectrum showing the CO₂ emission line at 4.27 μm
+  * RIGHT-BOTTOM: The same source in the 2.4-3.0 μm band showing the H₂O or CO₂ ice features
+
+THE INSET SPECTRA:
+* Upper spectrum (4.1-4.4 μm): The sharp spike at 4.27 μm = CO₂ ν₃ asymmetric stretch fundamental; this emission confirms active CO₂ outgassing; line width consistent with unresolved gas-phase emission from the coma
+* Lower spectrum (2.4-3.0 μm): broader feature centered at ~2.7-3.0 μm; in comets this region contains: H₂O ice absorption (3.1 μm), the 3.0 μm O-H stretch in water ice, and various organic molecular bands; the feature in this band confirms water ice or organics on the dust grains
+* These two spectra together confirm: Comet Holmes was actively outgassing CO₂ and had water ice/organic-covered dust grains in its expanding coma — consistent with a CO₂ ice-driven outburst from a sub-surface layer
+
+COLORS:
+* Left panel: jet colormap (black → blue → cyan → green → yellow → red → white) on pixelated data
+* Right panels: blue background, orange-red point source
+* Inset graphs: white line on black background
+
+PHYSICS CONCEPTS:
+* CO₂ EMISSION BAND (4.27 μm):
+  * The ν₃ asymmetric stretch mode of CO₂ at 4.26 μm (gas phase) / 4.27 μm (ice phase) — strong vibrational transition
+  * Band strength A = 7.6 × 10⁻¹⁷ cm molecule⁻¹ (one of the strongest IR-active vibrational modes)
+  * In a cometary coma: CO₂ is photolyzed by solar UV (CO₂ + hν → CO + O); the lifetime of CO₂ at 1 AU is ~1 year (longer than water)
+  * CO₂ production rate from the flux: Q(CO₂) = 4πr²·F_CO₂ / (hν_CO₂ · g_CO₂) where g_CO₂ is the fluorescence efficiency (g-factor)
+* H₂O ICE FEATURE (3.0 μm):
+  * The O-H stretch fundamental of water ice at 3.0-3.1 μm is a diagnostic feature for icy grain mantles
+  * In interstellar grain analogues and cometary dust: water ice is the dominant volatile, with mixing ratios H₂O:CO₂:CO ≈ 100:20:5 (by number)
+  * The 3.0 μm band optical depth τ₃.₀ is used to estimate the column density of water ice: N_ice = τ₃.₀ / A₃.₀ where A₃.₀ ≈ 2×10⁻¹⁶ cm/molecule
+* MULTI-EPOCH OBSERVATIONS:
+  * The two right panels (compact source) vs. the left panel (extended coma) suggest different epochs: left = near outburst maximum (extended coma), right = later (fading, more compact)
+  * Or: the right panels show a different spatial scale (zoomed in to the nucleus region)
+  * Tracking the evolution of the CO₂ feature over time constrains: the duration of active CO₂ sublimation, the depth of the CO₂ ice layer exposed by the outburst, and the total CO₂ inventory released
+
+SPATIAL RELATIONSHIPS:
+* Left panel: main image, ~65% of frame width
+* Right panels: stacked, ~35% of frame width each half
+* Inset spectra: upper-right corner of each right panel
+
+HIGH-LEVEL SUMMARY:
+A composite image documenting Comet 17P/Holmes in mid-infrared observations: LEFT — the large-scale Spitzer IRAC false-color image (same as 3_1960138377036210176) showing the extended coma with blue background, white-yellow core, and black masked corner; RIGHT (stacked) — two compact point-source images of the same comet in the 4.1-4.4 μm (CO₂ band) and 2.4-3.0 μm (H₂O ice band) with accompanying inset spectra showing: (1) a sharp emission spike at 4.27 μm identifying active CO₂ outgassing (ν₃ asymmetric stretch, A = 7.6×10⁻¹⁷ cm/molecule), and (2) a broader 3.0 μm feature identifying water ice or organic O-H features on dust grains. Physics content: CO₂ production rate Q(CO₂) = 4πr²F_CO₂/(hν·g_CO₂); H₂O ice column density from τ₃.₀/A₃.₀ (A ≈ 2×10⁻¹⁶ cm/molecule); multi-epoch evolution constrains CO₂ ice layer depth and total outburst CO₂ inventory; confirms the anomalously high CO₂/H₂O ratio responsible for Holmes' extraordinary outburst factor ~500,000×.

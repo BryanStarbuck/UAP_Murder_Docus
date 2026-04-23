@@ -1,0 +1,53 @@
+SHAPES:
+* Aerial crop formation photograph — copyright Steve Alexander
+* FIELD: Pale golden/straw ripe wheat field (UK late summer), with diagonal tractor tramlines visible throughout
+* FORMATION STRUCTURE: A large, highly complex formation with a distinctive "heart" or curved triangular outer boundary containing a ring of graduated circles around the perimeter and a central complex element
+* OUTER BOUNDARY: An approximately heart-shaped or D-shaped curved boundary (not a simple circle)
+  * The outline curves in a heart-like shape (two lobes at the top, converging at the bottom)
+  * The boundary is defined by a dense sequence of small circles (decreasing from large to small and back to large) arranged along the boundary path
+  * The circles along the boundary: approximately 20-24 circles, ranging from approximately 80px (largest) to 10px (smallest) along the sequence
+* INTERIOR ELEMENTS:
+  * A large L-shaped or corner element: two large circles at upper-left, connected by pathways, with a right-angle or curved connecting arm — approximately 160px diameter circles
+  * A row of approximately 4-5 large circles along the top of the formation (inside the upper boundary) — approximately 120-130px each
+  * On the right side: a vertical sequence of approximately 8-10 graduated circles (larger at top, smaller toward bottom) — these form a descending sequence
+  * At the left side: a similar sequence of graduated circles (fewer, larger)
+  * CENTER: A central complex element:
+    * A concentric ring arrangement (a small circle-within-circle, approximately 60px outer / 30px inner)
+    * Extending from the central element: a curved arm or tail leading to a small crescent element (approximately 30px)
+    * The central element is connected to the upper left corner by a straight horizontal pathway
+  * A small cluster of dots or tiny circles in the interior (additional small detail elements)
+* TRACTOR TRAMLINES: Multiple diagonal parallel lines crossing the entire field
+
+TEXT VISIBLE:
+* "Copyright Steve Alexander" (lower left, white text)
+
+COLORS:
+* Field: pale golden/straw
+* Formation elements: slightly lighter/whiter (flattened crop)
+* The high contrast between flattened and standing creates clear formation visibility
+
+PHYSICS CONCEPTS:
+* This complex formation encodes multiple physics concepts in a novel outer-boundary encoding (heart or D-shape) combined with graduated circle sequences:
+  1. HEART/D-SHAPED OUTER BOUNDARY (ring of graduated circles): The boundary itself is formed by graduated circles — this is the Fibonacci/logarithmic spiral encoding: as the circles decrease from large to small along the boundary arc, they trace a specific mathematical curve. The heart shape (or apple/cardioid) is a classic mathematical curve in polar coordinates: r = a(1-cosθ) — a cardioid. The cardioid appears in:
+     * Mandelbrot set: the main bulb of the Mandelbrot set is a cardioid (the main body of the M-set has cardioid shape)
+     * Acoustic resonance: standing wave patterns in circular cavities — the second mode produces a cardioid boundary
+     * Electromagnetic coupling: the cardioid antenna pattern (the radiation pattern of a cardioid microphone / directional antenna element)
+  2. GRADUATED CIRCLE SEQUENCES (interior):
+     * The top row of large circles: the 3-4 large satellite circles at the top represent the major disc components (the main discs of the propulsion system seen from above)
+     * The right-side descending sequence: the Fibonacci-decreasing circle chain (the Birkeland current column seen in side view, encoded in the right side of the formation)
+     * The left-side circles: the upper disc components
+  3. CENTRAL CONCENTRIC ELEMENT + CURVED ARM: The small concentric circle (axis) + curved arm (spiral/tail) represents the central rotation axis with the Birkeland current vortex tail
+  4. L-SHAPED CORNER ELEMENT: The right-angle or L-shaped large circle pair at the upper-left represents:
+     * The 90° phase relationship between two components of the system
+     * The junction of the two counter-rotating discs at their coupling point
+
+SPATIAL RELATIONSHIPS:
+* Outer boundary: heart/D-shaped, formed by graduated circles of varying sizes
+* Interior top: row of large circles
+* Interior right: descending graduated circle sequence
+* Interior left: fewer, larger circles
+* Interior center: concentric ring + curved arm element
+* Tractor tramlines: diagonal throughout the field
+
+HIGH-LEVEL SUMMARY:
+Aerial crop formation photograph (copyright Steve Alexander) in pale ripe wheat, showing a complex formation with a distinctive heart-shaped or cardioid outer boundary formed by a sequence of approximately 20-24 graduated circles (Fibonacci-decreasing from large to small), containing an interior arrangement of: a top row of 4-5 large circles (major disc components), a right-side descending graduated circle sequence (Birkeland current column in side view), a left-side large circle pair in an L-shaped arrangement (90° phase coupling junction), and a central concentric ring with curved tail (rotation axis + vortex exhaust element). The heart-shaped outer boundary traces a cardioid curve (r = a(1-cosθ)) — the same mathematical form as the Mandelbrot set's main bulb boundary, the acoustic resonance pattern of a circular cavity, and the radiation pattern of a directional cardioid antenna. The graduated circles forming the boundary encode the Fibonacci/logarithmic scaling of the vortex structure.

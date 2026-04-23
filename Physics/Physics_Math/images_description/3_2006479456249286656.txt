@@ -1,0 +1,89 @@
+IMAGE DESCRIPTION: 3_2006479456249286656.jpg
+
+SHAPES AND ELEMENTS:
+* Screenshot of a news.com.au article (Australian online news website)
+* Navigation bar at top (news.com.au header, navigation links)
+* Article headline and byline
+* A crop circle aerial photograph below the headline
+* Introductory paragraph text below the image
+
+NEWS WEBSITE ELEMENTS:
+* Header: news.com.au logo (colorful dot grid + "news.com.au" text)
+* Location/weather bar: "Sydney Today [weather icon] 18°/22°"
+* Navigation: National, World, Lifestyle, Travel, Entertainment, Technology, Finance, Sport, Shop...
+* Breadcrumb: Technology > Science > Space
+
+ARTICLE HEADLINE:
+* "They're real and contain hidden messages, scientist says"
+* Font: large bold black serif font
+* Subheadline/deck: "A SCIENTIST who has dedicated his life to researching UFO crop circles says there are 'puzzles' in them containing secret messages."
+
+BYLINE:
+* Author: "Megan Palin" (profile photo: blonde woman)
+* Read time: "6 min read"
+* Date: "March 12, 2017 · 8:13AM"
+* Publisher: "news.com.au"
+* Social/share icons visible
+* "10 Comments" button
+
+CROP CIRCLE PHOTOGRAPH:
+* Caption: "Crop circles have been appearing around the world for centuries."
+* The photograph shows an elaborate crop circle formation (aerial/drone view):
+  * A large outer circle boundary
+  * Interior: a complex spiral/fan pattern filling approximately half of the circle (left half)
+  * The spiral consists of many nested "feather" or "fan blade" shapes:
+    * Multiple curved radial segments each subdivided into smaller rectangular cells
+    * The cells are arranged in concentric arcs, creating a nested-fan appearance
+    * The pattern is reminiscent of a mandala, a phyllotaxis spiral, or a turbine fan
+  * The right half of the circle has a simpler circular element (a small concentric circle group near the right edge of the outer circle)
+  * The overall pattern: one large spiral/fan element occupying 60-70% of the interior + one smaller circular element at the right = asymmetric composition
+  * Field: golden-brown wheat/grain field
+
+ARTICLE TEXT (first paragraph visible):
+* "IT all started with a UFO sighting."
+* "Dr Horace Drew, 81, was just 10 years old when he allegedly saw an unidentified, silver, windowless craft hovering in the sky near his suburban home, in Jacksonville, Florida."
+* (Text continues but cut off)
+
+TEXT (complete visible):
+* All described above
+* The article concerns "Dr Horace Drew, 81" (age at time of publication: March 2017) — a scientist who studies crop circles
+
+COLORS:
+* Website: white background, black/grey text, blue navigation links, orange breadcrumb links
+* Crop circle photo: golden-tan field, darker tan/brown flattened areas
+* Author photo: natural color
+
+PHYSICS CONCEPTS:
+* CROP CIRCLE FEATURED FORMATION — GEOMETRIC ANALYSIS:
+  * The spiral/fan formation shown is consistent with a GOLDEN RATIO PHYLLOTAXIS SPIRAL:
+    * The nested fan arrangement mimics the seed-head packing in sunflowers/pine cones (Fibonacci spiral in polar coordinates)
+    * This is the same family of patterns as 3_2004779265301377024 (Fibonacci/Apollonian gasket crop circle)
+    * In polar coordinates: r_n = r_0 φ^n, θ_n = 2π/φ² × n (where φ = (1+√5)/2 ≈ 1.618)
+  * The fan/feather subdivision suggests encoding: each cell is a 1-bit element, and the concentric arrangement can encode information
+  * The asymmetric composition (large fan + small circle off-center) might encode a mathematical ratio
+* DR. HORACE DREW:
+  * Born c. 1936 (81 in 2017)
+  * American molecular biologist (PhD in chemistry from Caltech, postdoctoral work at Cambridge)
+  * Relocated to Australia; claimed to have decoded messages in crop circles in binary
+  * His methods: mapping the binary pattern of standing vs. laid-down crop in formations, then decoding as ASCII text
+  * Claimed decoded messages include: "Beware the bearers of false gifts and their broken promises," "Much pain but still time. Believe. There is good out there.," "We oppose deception." "Conduit closing."
+  * The "bearers of false gifts" message was decoded from the 2002 Crabwood formation (grey alien face + binary disc)
+* BINARY INFORMATION ENCODING IN CROP FORMATIONS:
+  * Drew's decoding methodology: standing crop = 0, flattened crop = 1 (or vice versa)
+  * Read in a spiral pattern starting from the center
+  * Use 8-bit ASCII encoding
+  * The method mirrors the approach applied in 3_2006126288374022144 ("Om" binary crop circle)
+* SCIENTIFIC CREDIBILITY NOTE:
+  * The article frames Drew as a credentialed scientist (molecular biologist, connection to Cambridge/Caltech), lending credibility to the claim that serious researchers find evidence of encoded messages in crop formations
+  * Mainstream science does not accept crop circle messages as genuine ETI communication
+  * The article is categorized under "Technology > Science > Space" on news.com.au
+
+SPATIAL RELATIONSHIPS:
+* Website header/nav: top
+* Article headline and byline: below header
+* Crop circle photo: below byline
+* Article text: below photo
+* Right side: social share buttons and article metadata
+
+HIGH-LEVEL SUMMARY:
+A screenshot of a March 12, 2017 news.com.au article headlined "They're real and contain hidden messages, scientist says," featuring molecular biologist Dr. Horace Drew (then age 81, Caltech/Cambridge trained) who claims to have decoded binary ASCII messages in crop circle formations. The accompanying aerial photograph shows an elaborate crop formation with a complex spiral/phyllotaxis fan pattern (multiple concentric curved "feather" segments in the golden field). Physics content: the formation shown is consistent with a golden ratio phyllotaxis spiral (r_n ∝ φ^n), the same family as Fibonacci/Apollonian gasket formations. Drew's decoding method — standing/laid crop as binary bits, read in spiral sequence, interpreted as ASCII — is the same approach applied in the "Om" binary crop circle series (3_2006126288374022144). Drew's claimed decoded messages (e.g., "Beware the bearers of false gifts and their broken promises," from the 2002 Crabwood formation) are the primary evidence cited by researchers arguing that crop formations contain intentional ETI communication.

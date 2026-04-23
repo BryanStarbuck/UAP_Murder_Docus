@@ -1,0 +1,46 @@
+IMAGE DESCRIPTION: 3_1960837087789506561.jpg
+
+SHAPES AND ELEMENTS:
+* Rectangular (landscape, ~4:3 ratio) false-color hot-colormap astronomical image
+* Black L-shaped chip gap: LEFT side (diagonal staircase from upper-left to lower-left) — this chip gap is on the LEFT rather than the lower-left as in companion images, suggesting the object was positioned differently relative to the detector boundary
+* A small blue isolated pixel artifact visible at upper-left of the chip gap boundary
+* Background: purple-violet (uniform, no gradient)
+* Central source: bright white nucleus → yellow → orange → red → pink-purple, transitioning into the purple background
+* Coarse pixelation: individual square pixels visible throughout
+* The coma is positioned center to upper-center of the image
+* Asymmetric extension: the coma extends further toward the RIGHT than left (the left is cut by the chip gap)
+* Overall the isophotes are elongated horizontally, with the main coma body displaced from the chip gap
+
+COLORS:
+* Background: uniform purple-violet (different from the blue-violet of companion images)
+* Core: white (saturated)
+* Inner halo: yellow → orange
+* Mid-coma: red → pink
+* Outer coma: violet → purple
+* Chip gap: solid black (left side)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* DIFFERENT CHIP GAP ORIENTATION:
+  * In companion images (3_1959780062506717184, 3_1960388851488509952, 3_1960517124507725824, 3_1960571758018498560), the chip gap was in the LOWER-LEFT corner
+  * In this image, the chip gap runs along the LEFT side — a staircase from upper-left to lower-left
+  * This could indicate: (1) a different pointing/dithering position (the telescope was offset so the object fell closer to the left chip boundary), or (2) a different observation epoch when the object had moved relative to the chip
+  * The purple-violet background (rather than blue or blue-violet in companion images) suggests a different stretch/colormap or a different filter/wavelength
+* HORIZONTAL COMA ELONGATION:
+  * The coma is visibly elongated in the horizontal direction
+  * For a comet: horizontal elongation indicates the tail direction is close to horizontal in this image orientation
+  * The elongation direction plus knowledge of the solar position angle gives the dust/gas tail orientation, which constrains the object's orbit
+* PURPLE BACKGROUND VS. BLUE/VIOLET IN COMPANIONS:
+  * The more purple (less blue) background suggests a different filter or a redder overall color of the emission
+  * Alternatively: a different stretch/gamma applied to the same data
+  * Physically: if this is a redder emission band (e.g., OH red-doublet, or R-band dust continuum), the background would appear more red-dominated in the colormap
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: center to upper-center of image
+* Chip gap: left side (large black L-shaped region)
+* Coma extension: primarily toward right of image
+* Purple background: fills remainder of frame
+
+HIGH-LEVEL SUMMARY:
+A rectangular false-color hot-colormap cometary coma image with the chip gap running along the LEFT side (rather than the lower-left corner as in companion images), indicating a different telescope pointing position or observation epoch. Purple-violet background (vs. blue in companion images) suggests a different filter or stretch. The coma shows clear horizontal elongation (tail direction approximately horizontal in this frame). Physics: chip gap from dithered pointing, coma elongation direction constraining orbit geometry, radiation pressure tail direction, filter/colormap effects on apparent background color. Part of the 3I/ATLAS interstellar comet imaging series.

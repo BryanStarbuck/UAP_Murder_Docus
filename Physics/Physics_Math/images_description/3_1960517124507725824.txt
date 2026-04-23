@@ -1,0 +1,45 @@
+IMAGE DESCRIPTION: 3_1960517124507725824.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly square false-color thermal/hot-colormap coma image — near-duplicate of 3_1960388851488509952 and 3_1959780062506717184
+* Black L-shaped / diagonal staircase chip gap: lower-left corner (approximately 25% of image area) and a smaller black triangle lower-right
+* Blue-violet background: predominantly medium-blue lower-right, violet-purple upper regions
+* Central bright source: white saturated nucleus → yellow → orange → red → transitioning into pink-violet → blue background
+* Coarse pixelation: individual square pixels clearly visible, approximately same pixel scale as companion images
+* Asymmetric coma extension: the isophotes extend further toward the upper-right than lower-left, consistent with radiation-pressure anti-sunward tail
+* Nucleus is positioned approximately center-left of the image (excluding the black chip gap region)
+* The overall structure is identical to 3_1960388851488509952 — this is another rendering/copy of the same coma observation with slightly different contrast or display stretch
+
+COLORS:
+* Background: blue to violet/purple gradient
+* Core: white (saturated)
+* Inner halo: yellow
+* Mid-coma: orange → red
+* Outer coma: pink → violet → blue
+* Chip gap: solid black
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* NEAR-DUPLICATE COMA IMAGE:
+  * This image is essentially identical to 3_1960388851488509952 — same observation, same colormap, same chip gap geometry, same asymmetric coma morphology
+  * Minor differences: possibly different contrast stretch or slightly different display parameters (the nucleus in this image appears slightly less saturated than 3_1960388851488509952, and the background violet-blue gradient is slightly different)
+  * The repeated use of this image in the collection suggests it is the primary 3I/ATLAS coma image used for analysis and comparison
+* COMETARY COMA PHYSICS (same as companion images):
+  * Haser model: I(r) ∝ r^{-n} (n ≈ 1 for gas-parent, n ≈ 2 for photodissociation products)
+  * Radiation pressure asymmetry: grains pushed anti-sunward, creating asymmetric isophotes
+  * Thermal colormap: white = maximum intensity (nucleus), blue = background sky
+  * Coarse pixelation: detector rebinning for S/N enhancement
+* CHIP MOSAIC BOUNDARY:
+  * The L-shaped black corner is a detector mosaic boundary (CCD chip gap)
+  * Same geometry as 3_1959780062506717184 and 3_1960388851488509952, confirming same instrument
+  * The staircase pattern is characteristic of a square CCD detector positioned at a diagonal within the optical field, or a standard L-shaped chip layout
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: center-left of image (within the detected region)
+* Coma extension: upper-right (anti-sunward direction)
+* Black chip gap: lower-left and small lower-right triangle
+* Background: fills remainder of image
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1960388851488509952 and 3_1959780062506717184 — another rendering of the same pixelated hot-colormap cometary coma image (same L-shaped chip gap, same asymmetric upper-right coma extension, same pixel scale, same white-yellow-orange-red-violet-blue thermal colormap). Part of the 3I/ATLAS interstellar comet coma analysis series. Minor display parameter differences (contrast stretch) distinguish this from the other copies. The physics is identical: Haser model I(r) ∝ r^{-n}, radiation pressure asymmetry, detector binning, chip mosaic boundary artifact.

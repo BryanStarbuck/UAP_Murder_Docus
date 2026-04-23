@@ -1,0 +1,63 @@
+SHAPES:
+* Composite annotated schematic on white background — two disc configuration diagrams with connecting dashed lines and explanatory text
+* TITLE TEXT (upper area): "The blue magnet spins and rises up. The red flywheel spins in an opposite direction, as it gets pushed up by the blue magnet."
+* LEFT DIAGRAM (side-view, same as "magnet level with flywheel" configuration from previous images):
+  * Large outer RED ring
+  * Inner BLUE ring
+  * Large central black disc (flywheel)
+  * Smaller upper RED circle (the blue magnet — color-coded red to show it's currently at the RED disc position)
+  * GREEN horizontal line: equatorial plane
+  * Downward elements below the main disc (Birkeland current tail)
+* RIGHT DIAGRAM (plan-view, same as the "magnet below flywheel" plan-view):
+  * Outer graduated circle ring (~24-28 circles)
+  * Large RED outer ring
+  * Blue dotted inner arc
+  * Central concentric circle (axis)
+  * Top: large graduated circles + RED large disc
+  * Green "Δ Δ" (two green triangles, between red and blue elements): lift indicators
+* CONNECTING DASHED LINES: Two colored dashed lines connecting elements between the left and right diagrams:
+  * RED dashed line: connecting the red small circle in the left diagram to the red large disc at the top of the right diagram — labeled "up" (in red)
+  * BLUE dashed line: connecting the blue inner ring of the left diagram to the blue inner coupling arc of the right diagram — labeled "up" (in blue)
+* BOTTOM TEXT: "The blue magnet and red flywheel attract."
+
+TEXT VISIBLE:
+* "The blue magnet spins and rises up. The red flywheel spins in an opposite direction, as it gets pushed up by the blue magnet." (upper area, multi-colored: "blue" in blue, "rises up" in red, "red" in red, "pushed up" in red, "blue" in blue)
+* "up" (red label, on the red dashed connecting line)
+* "up" (blue label, on the blue dashed connecting line)
+* "The blue magnet and red flywheel attract." (lower area, multi-colored: "blue" in blue, "red" in red)
+
+COLORS:
+* Background: white
+* Left diagram: red and blue rings, black silhouette, green line
+* Right diagram: black silhouette, red ring, blue dotted arc
+* Dashed connecting lines: red (upper) and blue (lower)
+* Text: mixed black, red, and blue
+
+PHYSICS CONCEPTS:
+* This schematic explicitly describes the physics mechanism by which the counter-rotating discs generate upward thrust:
+  1. "THE BLUE MAGNET SPINS AND RISES UP": The inner "blue magnet" (the lighter, inner counter-rotating element) spins counterclockwise (blue convention from companion images) and simultaneously rises upward. The upward rising is due to:
+     * The Lense-Thirring gravitomagnetic effect: as the inner blue magnet spins faster (angular velocity ω_blue increases), the frame-dragging force (F_gravitomagnetic ∝ ω × L where L is the spin angular momentum) acts on the surrounding spacetime, creating an effective upward force on the spinning element itself (gravitomagnetic "lift" on the spinning mass)
+     * Or: the J × B Lorentz force on the radial current (J_radial) in the axial field (B_z) produces an azimuthal force that combines with the centrifugal and Coriolis forces to create a net upward helical drift
+  2. "THE RED FLYWHEEL SPINS IN AN OPPOSITE DIRECTION, AS IT GETS PUSHED UP BY THE BLUE MAGNET": The outer red flywheel (the heavier, outer counter-rotating element) spins clockwise (red convention) and is pushed upward by the rising blue inner magnet:
+     * The blue magnet and red flywheel are electromagnetically coupled (they attract: "The blue magnet and red flywheel attract")
+     * As the blue magnet rises, it electromagnetically drags the red flywheel upward — the attractive force between the two counter-rotating elements means they move together vertically even while spinning in opposite directions azimuthally
+  3. RED AND BLUE DASHED LINES ("up" connections): The connecting lines between the two diagrams show that the corresponding elements in both views (side-view and plan-view) move upward simultaneously:
+     * Red "up" line: the red flywheel rises
+     * Blue "up" line: the blue magnet rises
+     * Both elements rise together due to mutual electromagnetic attraction
+  4. GREEN Δ ARROWS (plan-view, right diagram): The lift generation occurs at the interface between the two counter-rotating elements (where the flux coupling is maximum and the J × B force has maximum axial component)
+  5. PHYSICAL SUMMARY: The complete mechanism:
+     * Blue inner magnet spins + rises (Lense-Thirring / J×B upward drift)
+     * Red outer flywheel counter-spins + is attracted upward by the blue magnet (electromagnetic coupling)
+     * Together: both elements rise — the electromagnetic disc propulsion system moves upward
+
+SPATIAL RELATIONSHIPS:
+* Title text: upper area
+* Left diagram (side view): left half
+* Right diagram (plan view): right half
+* Red dashed "up" line: upper connecting line between diagrams
+* Blue dashed "up" line: lower connecting line between diagrams
+* Bottom text: lower area
+
+HIGH-LEVEL SUMMARY:
+Composite annotated schematic titled "The blue magnet spins and rises up. The red flywheel spins in an opposite direction, as it gets pushed up by the blue magnet" — showing the complete upward thrust mechanism of the counter-rotating electromagnetic disc system. Two dashed lines (red labeled "up" and blue labeled "up") connect the corresponding elements in the side-view (left) and plan-view (right) diagrams, showing that both the blue inner magnet and the red outer flywheel move upward simultaneously. The "The blue magnet and red flywheel attract" caption identifies the electromagnetic attractive force (between counter-rotating coupled elements) as the mechanism by which the outer flywheel is dragged upward by the rising inner magnet. Together, the inner-magnet upward rise (via Lense-Thirring gravitomagnetic lift or J×B azimuthal-to-axial drift) and the outer flywheel's sympathetic upward motion (via electromagnetic attraction) constitute the net upward propulsion of the complete disc system.

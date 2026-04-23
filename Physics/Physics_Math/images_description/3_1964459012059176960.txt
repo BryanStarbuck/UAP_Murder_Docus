@@ -1,62 +1,27 @@
-TYPE: False-color thermal or intensity map — pixelated heat-map rendering of a luminous point source or plasma object
+IMAGE DESCRIPTION: 3_1964459012059176960.jpg
 
-OVERALL DESCRIPTION:
-A heavily pixelated false-color image using a "hot" colormap (black → purple → blue → red → orange → yellow → white) to represent intensity distribution of a luminous object. The image shows a bright central region with a smooth radial intensity falloff, rendered in very low resolution (approximately 20×15 effective pixels before upscaling), giving the image a strongly blocky/pixelated appearance. The upper-left corner contains a partially visible blue/black region suggesting image truncation or cropping. This appears to be either: a thermal infrared camera image of a heat source, a false-color rendering of a UAP/plasma object's intensity profile, or a resampled/enlarged version of a very small detector image.
+SHAPES AND ELEMENTS:
+* Pixelated Spitzer IRAC comet coma image in the same rainbow (blue→white) color table as 3_1961019465371680768
+* Widescreen format (approximately 4:3 aspect ratio — wider than 3_1961019465371680768)
+* Data-coverage boundary: diagonal stepped edge at lower-left corner (black triangular void) — same IRAC mosaic tile edge as in 3_1960123627871027200
+* Central compact core: white pixels (approximately 2×2 pixel zone)
+* Inner halo: yellow-orange pixels
+* Middle halo: red pixels
+* Outer halo: purple-blue pixels (dominant in the right and upper portions where full data coverage exists)
+* The black stepped lower-left void: the same mosaic tile boundary as in 3_1960123627871027200 and 3_1961019465371680768
 
-IMAGE DIMENSIONS: Approximately 940 x 720 pixels (displayed)
-EFFECTIVE RESOLUTION: Approximately 20×15 pixels (upscaled with nearest-neighbor or simple bilinear interpolation — individual "pixels" are approximately 45-50 display pixels wide)
+COLORS:
+* White: core pixels (2×2 zone at center-right)
+* Yellow-orange: inner halo
+* Red: middle halo
+* Purple-blue: outer halo
+* Black: lower-left no-data region
+* Cyan artifact: small artifact pixel at the left edge (same as in 3_1961019465371680768)
 
-BACKGROUND:
-- Pure black (#000000) at top-left corner (partial region visible, approximately 30×30 display pixels)
-- Note: The black region in the upper-left corner appears as an artifact of the image boundary or detector edge — it is distinctly darker than the surrounding purple/blue tones
+PHYSICS / INFORMATION CONCEPTS:
+* DUPLICATE / VARIANT of 3_1961019465371680768 — same Spitzer IRAC pixelated comet coma data in the same rainbow color table but in a slightly wider crop
+* The wider crop shows more of the outer purple-blue zone than 3_1961019465371680768
+* Same Comet 17P/Holmes 2007 data — see 3_1960123627871027200 for primary analysis
 
-COLOR MAP (standard thermal/intensity colormap from cold to hot):
-Zone 1 — Background/coldest (outer edges):
-- Color: Deep purple (#4020A0 to #6030B0)
-- Region: Outer corners of the image, excluding the black upper-left artifact
-- Indicates: Background noise floor or minimum signal level
-
-Zone 2 — Blue-purple intermediate:
-- Color: Blue-purple (#6040C0 to #8060CC)
-- Region: Surrounding Zone 1, extending inward toward center
-- Forms a broad gradient band
-
-Zone 3 — Red:
-- Color: Red (#CC2020 to #E03030)
-- Region: Inner portion, surrounding the central hot region
-- Forms a distinct band approximately 2-3 "macro-pixels" wide around the center
-
-Zone 4 — Orange-yellow:
-- Color: Orange to yellow (#FF8020 to #FFD000)
-- Region: Immediately surrounding the central maximum, approximately 1-2 "macro-pixels" wide
-
-Zone 5 — Yellow-white core:
-- Color: Bright yellow to white (#FFFF00 to #FFFFFF)
-- Region: Central maximum, approximately 2×2 "macro-pixels" (approximately 90×90 display pixels)
-- This represents the peak intensity region
-
-SPATIAL STRUCTURE:
-- The intensity maximum (white-yellow core) is positioned approximately center-right of the image (not perfectly centered — offset toward the right and slightly above center)
-- The intensity falloff is roughly elliptical/asymmetric rather than perfectly circular
-- The left-side (toward the black corner) falls off more quickly than the right side
-- The distribution is asymmetric: brighter extended region to the right of the core, suggesting either the object is not a symmetric point source, or the image has been captured at an angle
-
-PIXEL ANALYSIS:
-- Approximately 20 columns × 15 rows of distinct "macro-pixels" visible
-- Each macro-pixel is approximately 45-50 display pixels
-- The color transitions between macro-pixels are relatively smooth (bilinear or low-order interpolation used in upscaling)
-- The color banding is not perfectly concentric — some variation exists between adjacent macro-pixels of similar intensity
-
-COLORS IN ORDER FROM CENTER TO EDGE:
-White (#FFFFFF) → Bright yellow (#FFFF20) → Orange-yellow (#FFD010) → Orange (#FF8020) → Red (#CC2020) → Purple-blue (#8060CC) → Deep purple (#4020A0) → Black (#000000, corner only)
-
-PHYSICS/SCIENCE RELEVANCE:
-1. False-color intensity maps are standard in UAP/plasma research for visualizing the spatial energy distribution of luminous phenomena — this type of map reveals the underlying physics (Gaussian beam profile, spherical plasma radiation, point source radiation) better than raw photography
-2. The roughly elliptical asymmetric intensity distribution (brighter/more extended to the right of the peak) deviates from a perfect Gaussian point source — this could indicate: a moving object (motion in the image plane smearing the PSF to the right), an intrinsically asymmetric emitter (elongated plasma or directional emission), or off-axis optics effects
-3. The standard hot colormap (black-purple-blue-red-orange-yellow-white) is commonly used in: infrared thermal cameras, optical beam profilers, and scientific imaging of plasma and particle beams
-4. If this is a thermal infrared image, the temperature range might span: background (~ambient 20°C) in the black/purple regions, to possibly hundreds or thousands of degrees in the white-yellow core — consistent with a hot plasma object
-5. The very low original resolution (20×15 pixels) suggests this was captured by a small-format detector (possibly a thermal IR focal-plane array, a single-pixel scanning detector, or a video frame grabbed at minimum resolution)
-6. UAP documentation often includes false-color renders of IR (FLIR) or other sensor data — this image is consistent with the type of FLIR thermal data used in Navy UAP videos and research
-7. The asymmetric elongation toward the right is reminiscent of the Nimitz and other FLIR UAP video stills, where elongated thermal signatures have been analyzed as potential indicators of plasma exhaust or propulsion byproducts
-
-SUMMARY: False-color thermal/intensity map of a luminous point source or plasma object, rendered at approximately 20×15 effective pixels (macro-pixel size ~45-50 display pixels each). Standard hot colormap: black-purple-blue-red-orange-yellow-white from cold to hot. Peak intensity (white-yellow) in center-right, surrounded by concentric color bands. Slight asymmetry: intensity extends further to the right of the peak. Black region in upper-left corner (detector edge artifact). Consistent with: FLIR thermal camera image, optical beam profiler output, or scientific false-color rendering of UAP/plasma intensity distribution. The asymmetric PSF suggests either a moving object or intrinsically elongated emitter.
+HIGH-LEVEL SUMMARY:
+Wider-crop variant of 3_1961019465371680768 — Spitzer IRAC pixelated comet coma in rainbow (blue→white) color table: white 2×2 pixel core, yellow-orange inner halo, red middle halo, blue-purple outer halo, diagonal stepped black void at lower-left. Shows more of the outer purple-blue coma zone than 3_1961019465371680768. See 3_1960123627871027200 for primary analysis.

@@ -1,0 +1,90 @@
+IMAGE DESCRIPTION: 3_1960649469407715334.jpg
+
+SHAPES AND ELEMENTS:
+* White background document/slide image with black and red text and a binary data grid
+* TITLE (top, bold black text): "Textpic" computer code is from the future   (xxx.tpc)
+* BINARY ASCII SECTION: Shows the word "Textpic is from the future !" decoded into binary
+  * Letters shown above their binary codes: T, e, x, t, p, i, c, space, i, s, space, f, r, o, m, space, t, h, e, space, f, u, t, u, r, e, !
+  * Binary codes: 8-bit ASCII for each character, displayed in a mix of black and red digits
+  * Red digits: appear to mark specific bit positions (possibly the "anomalous" or non-standard bits that differ from expected encoding)
+  * Examples:
+    * T = 01010100 (ASCII 84)
+    * e = 01100101 (ASCII 101) — "101" underlined in red
+    * x = 01111000 (ASCII 120)
+    * t = 01110100 (ASCII 116) — "100" shown in red
+    * p = 01110000 (ASCII 112)
+    * i = 01101001 (ASCII 105) — "1" in red
+    * c = 01100011 (ASCII 99)
+    * (space) = 00100000 (ASCII 32)
+    * i = 01101001, s = 01110011, etc.
+* BINARY GRID (lower half): A large rectangular grid of 0s and 1s arranged in rows and columns
+  * Red zeros scattered throughout (marking specific positions)
+  * The grid is described as encoding TWO SHAPES:
+    * "14 x 8 (fish shape)" — labeled below the leftmost portion (red text)
+    * "10 x 10 (cross shape)" — labeled below the middle portion (red text)
+    * A third block of all-1s on the right (appears to be 9×9 or larger, all "1" values)
+  * The fish shape: 14 columns × 8 rows, with specific 0/1 pattern
+  * The cross shape: 10 columns × 10 rows, with specific 0/1 pattern
+  * The right block: appears to be all 1s (11 columns × 11 rows approximately)
+* CAPTION (bottom, black text): "RC > message translated fully in December of 2019"
+
+COLORS:
+* Background: white
+* Main digits and text: black
+* Highlighted/anomalous digits: red
+* Title: bold black with quotation marks
+* Shape labels: red text
+
+TEXT (transcribed exactly):
+Title: "Textpic" computer code is from the future   (xxx.tpc)
+Binary section lines:
+  T           e              x           t             p           i            c
+  01010100 01100101 01111000 01110100 01110000 01101001 01100011
+  space       i              s         space           f            r            o
+  00100000 01101001 01110011 00100000 01100110 01110010 01101111
+  m         space            t           h             e          space          f
+  01101101 00100000 01110100 01100100 01100101 00100000 01100110
+  u           t              u           r             e           !
+  01110101 01110100 01110101 01110010 01100101 00100001 0111
+
+Grid labels:
+  14 x 8 (fish shape)     10 x 10 (cross shape)     [all-1s block]
+Caption: RC > message translated fully in December of 2019
+
+PHYSICS / INFORMATION CONCEPTS:
+* "TEXTPIC" ENCODING — BINARY IMAGE STEGANOGRAPHY:
+  * "Textpic" (xxx.tpc) is claimed to be a novel computer code from the future — a steganographic binary format that encodes both text (ASCII) and pictorial data (binary image) in the same bit stream
+  * The claim: this encoding method was found embedded in crop circle formations and claimed to be beyond the capability of contemporary programmers to have invented (hence "from the future")
+  * The format appears to use a fixed-width bit allocation per character (8-bit ASCII) but with additional bits that encode spatial/pictorial information alongside the text
+* BINARY IMAGE SHAPES:
+  * The grid below the text shows two distinct recognizable shapes encoded in the binary matrix:
+    * "Fish shape" (14×8): a 2D binary image of a fish outline encoded in a 14-column × 8-row binary grid — an ichthys / fish symbol (also the Christian fish symbol)
+    * "Cross shape" (10×10): a 2D binary image of a cross (plus sign or Latin cross) encoded in a 10×10 binary grid
+    * Right block (all 1s): possibly a reference pattern, calibration pattern, or the continuation of the cross
+  * This is equivalent to a 2D binary raster image — each 0 or 1 maps to a pixel off/on
+  * Image encoding: N_rows × N_cols bits per image = 14×8 + 10×10 = 112 + 100 = 212 bits total for the two shapes
+* INFORMATION THEORY:
+  * A pure random 14×8 binary matrix has H = 14×8 × 1 bit = 112 bits of information
+  * But if the matrix encodes a specific recognizable image (fish), the effective information content is much lower — the image has high compression ratio
+  * Kolmogorov complexity: K(fish) << 112 bits (the fish pattern is simple and compressible)
+  * This argument is used to claim the encoding is intentional, not random
+* CROP CIRCLE ASCII MESSAGE CONTEXT:
+  * This image relates to the broader series on binary crop circle messages (Crabwood 2002: 3_2006681884773023744, 3_2006681911763283971, 3_2006681944835371014)
+  * The "RC > message translated fully in December of 2019" credit suggests "RC" is an individual (researcher with initials RC) who completed the translation of this embedded message in December 2019
+  * This is an example of a third-level or novel encoding beyond the standard ASCII/star-map layers documented in the Crabwood analysis
+* STEGANOGRAPHIC HIERARCHY:
+  * Level 0: Crop circle geometry → visible formation pattern
+  * Level 1: Binary spiral/disc → ASCII text
+  * Level 2: Capitalization pattern → 5×5 star map (see Crabwood series)
+  * Level 3 (claimed): ASCII bit stream → "Textpic" format → embedded binary images (fish, cross)
+  * Each level requires increasing sophistication to detect and decode
+
+SPATIAL RELATIONSHIPS:
+* Title: top center
+* Binary ASCII section: middle, letter labels above each 8-bit group
+* Binary grid: lower half, with two labeled shape regions (left and middle) and all-1s block (right)
+* Labels: below the grid
+* Caption: bottom center
+
+HIGH-LEVEL SUMMARY:
+A white-background document image presenting the "Textpic" encoding claim — a purported novel steganographic binary format allegedly embedded in crop circle binary messages, claimed to be "from the future" because the encoding method was not publicly known. The document shows: (1) the ASCII binary encoding of the phrase "Textpic is from the future!" with anomalous bits highlighted in red; (2) a binary grid in the lower half encoding two recognizable shapes — a 14×8 "fish shape" (ichthys symbol) and a 10×10 "cross shape" (Christian cross), plus an all-1s reference block. Decoded by "RC" in December 2019. Physics and information theory content: ASCII 8-bit encoding, 2D binary raster images, Kolmogorov complexity argument for intentional encoding (the fish/cross patterns are compressible → low Kolmogorov complexity → not random), steganographic multi-level encoding hierarchy, crop circle binary message series (companion to 3_2006681884773023744, 3_2006681911763283971, 3_2006681944835371014).

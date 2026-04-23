@@ -1,0 +1,85 @@
+IMAGE DESCRIPTION: 3_1959734123481993216.jpg
+
+SHAPES AND ELEMENTS:
+* Rectangular landscape-format photograph, slightly wider than tall
+* A laboratory experiment photographed at a low oblique angle (camera approximately 15-20° above horizontal, looking slightly downward)
+* The apparatus is on a white/grey laboratory bench or floor surface
+* The apparatus is clearly running — bright white-blue plasma discharge visible in the center
+
+APPARATUS ELEMENTS:
+* PRIMARY STRUCTURE: A circular flat disc-shaped device, red in color (painted or red epoxy-coated metal/plastic), lying horizontal on the lab surface
+  * The disc appears to have an outer diameter of approximately 25-35cm (estimated from proportion)
+  * The disc is the outer containment / electrode housing
+  * The disc surface is rough/textured and hand-crafted appearance — not industrial precision
+  * The disc has several features:
+    * A black rectangular cutout/slot at approximately 10-11 o'clock position on the outer rim — likely a gas inlet or an insulating gap between two electrode sections
+    * The outer surface appears to have two separate sections (the black slot separating them), suggesting a split-electrode design (anode and cathode on the same plane, separated by an insulating gap)
+* INNER REGION / PLASMA WINDOW:
+  * Inside the red outer disc: a circular inner region visible with a darker rim (grey/dark metallic, approximately 15-20cm inner diameter)
+  * This inner rim contains the actual plasma discharge window
+* CENTRAL PLASMA:
+  * The plasma is visible through a circular aperture in the center of the device
+  * The plasma shows the same two-arm spiral structure as 3_1959734088065339392 — a bright white-blue Archimedean spiral, two arms, CCW rotation (consistent between the two images — same device, different camera angle)
+  * The central black dot (cathode) is visible at the exact center
+  * The plasma is extremely bright (white-blue, similar to a UV-emitting plasma or high-power electrical arc)
+  * The surrounding plasma glow: softer blue (lower-intensity plasma surrounding the bright spiral filaments)
+* ELECTRICAL CONNECTIONS:
+  * An orange electrical cable runs from the apparatus toward the lower-right of the frame, across the lab floor
+  * Red alligator clip visible at approximately 10 o'clock on the outer red disc — the terminal point for a high-voltage connection
+  * A second smaller clip/terminal visible at approximately 12 o'clock
+  * The electrical connection suggests high voltage supply (probably 1-15 kV DC for a plasma discharge of this intensity)
+* BACKGROUND:
+  * White/grey laboratory bench or floor (concrete floor, painted)
+  * Out-of-focus background (shallow depth of field, camera focus on the plasma center)
+  * Slightly out-of-focus items visible in background upper-left (dark shapes — possibly lab equipment or cable management)
+
+RELATIONSHIP TO COMPANION IMAGE:
+* This is the same device as 3_1959734088065339392 (the top-down plasma spiral)
+* 3_1959734088065339392: direct top-down axial view showing the full plasma spiral pattern
+* This image (3_1959734123481993216): oblique side view showing the physical apparatus construction — the red disc housing, orange power cable, alligator clip connections, inner electrode ring
+* Together, the two images document both the physics output (plasma spiral, top-down) and the physical apparatus (side-oblique view)
+
+COLORS:
+* Outer disc/housing: red (#CC2200 range) — painted or epoxy-coated
+* Inner electrode ring: dark grey/gunmetal
+* Plasma: brilliant white-blue (#CCE8FF to #FFFFFF) at spiral arms, softer blue (#6080A0) in surrounding glow
+* Orange cable: bright orange (#FF6600)
+* Red alligator clip: red (#CC0000)
+* Lab bench/floor: white-grey (#D0D0D0)
+* Black gap/slot in disc: pure black
+
+TEXT:
+* No text visible in image
+
+PHYSICS CONCEPTS:
+* APPARATUS IDENTIFICATION — PLANAR PLASMA DISCHARGE DEVICE:
+  * The flat disc geometry suggests this is a planar (2D) plasma discharge rather than a cylindrical volume discharge
+  * In a planar discharge: two electrodes on the same horizontal plane (split by the black insulating gap); voltage applied between them creates a discharge that propagates along the surface between the electrodes
+  * This type of discharge is used in: surface dielectric barrier discharge (DBD) actuators (aerodynamic flow control), planar plasma reactors for semiconductor processing, and UAP-physics research for "disc-shaped plasma vortex" demonstration
+* SURFACE DISCHARGE PHYSICS:
+  * A surface dielectric barrier discharge (SDBD) operates at atmospheric pressure (no vacuum required)
+  * The discharge is sustained by a dielectric layer between the two electrodes (prevents spark-to-arc transition, maintains stable plasma)
+  * The induced plasma creates an ionic wind: charged ions in the plasma experience the electric field force F = qE and transfer momentum to neutral air via collisions, creating a net airflow (the "ionic wind" or electrohydrodynamic — EHD — actuator)
+  * EHD thrust: F_EHD = ρ_c × E = ne(E) × E, where ρ_c is the space charge density and E the electric field; typical EHD thrust: 1-10 N/m² of electrode area
+  * This is directly relevant to UAP disc propulsion: a large-area EHD plasma actuator on the underside of a disc-shaped craft could create a downward ionic wind, generating thrust without moving parts
+* SPIRAL MODE IN PLANAR DISCHARGE:
+  * The appearance of the spiral plasma mode (as seen in the companion top-down view) in a planar device is notable: it requires a spontaneous symmetry breaking from C∞ (circular) to C2 (two-arm spiral)
+  * This symmetry breaking could be driven by: an external magnetic field (B_z ≠ 0), a small asymmetry in the electrode gap width, or a nonlinear plasma instability (the Simon-Hoh instability or the diocotron instability in planar geometry)
+  * The diocotron instability: occurs in a thin sheet of plasma with velocity shear; growth rate γ = kΔv/2 where k is the wave number of the perturbation and Δv the velocity difference across the shear layer
+* HIGH-VOLTAGE PLASMA GENERATION:
+  * The orange cable and alligator clip connection suggest a DC high-voltage supply (1-30 kV range typical for atmospheric plasma)
+  * For the spiral plasma to be stable and visible: the discharge must be in the glow discharge regime (not spark/arc), requiring: current density J ≈ 0.1-10 mA/cm², voltage V ≈ 1-10 kV, at pressures p = 0.01-1 atm
+  * The power input: P = V × I; for a glow discharge at 5 kV, 100 mA: P = 500 W — consistent with the bright plasma visible in the image
+
+SPATIAL RELATIONSHIPS:
+* Camera: oblique view, approximately 15-20° above horizontal, from the 5 o'clock position relative to the device
+* Red outer disc: fills most of the image, horizontal on the bench
+* Black gap/slot: 10-11 o'clock on outer rim
+* Red clip: 10 o'clock on outer rim
+* Orange cable: runs from lower portion of apparatus off-frame to right
+* Plasma window: inner circular region, approximately centered in the disc
+* Central plasma spiral: visible through the inner aperture, brilliant white-blue
+* Lab background: visible in upper portion of frame (out of focus)
+
+HIGH-LEVEL SUMMARY:
+An oblique-angle laboratory photograph of the same plasma discharge device shown in 3_1959734088065339392 (top-down companion), viewed from a low angle to reveal the physical construction: a flat circular red-painted disc housing (~25-35cm OD), an inner electrode ring in dark grey metal, and a bright white-blue two-arm Archimedean spiral plasma discharge visible through the central aperture, with an orange high-voltage cable and red alligator clip electrical connections. The apparatus is consistent with a planar surface dielectric barrier discharge (SDBD) device. Physics content: SDBD physics — discharge sustained between two co-planar electrodes separated by an insulating gap, operating in glow discharge regime at 1-10 kV; the ionic wind (EHD actuator) principle — ρ_c × E force transfers momentum to neutral air (1-10 N/m² thrust) — is directly relevant to disc-shaped UAP propulsion without moving parts; the spiral C2 symmetry mode arises from diocotron instability (growth rate γ = kΔv/2) or magnetically-driven symmetry breaking in the planar plasma; companion image 3_1959734088065339392 shows the same device from above.

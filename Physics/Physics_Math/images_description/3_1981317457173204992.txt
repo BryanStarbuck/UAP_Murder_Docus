@@ -1,0 +1,55 @@
+SHAPES:
+* Annotated astronomical/sensor image (~960x720px) — a grayscale detection image with colored annotation overlays
+
+Background image:
+* GRAYSCALE PIXELATED IMAGE — moderately low resolution but higher than the extreme pixelation in 3_1980611443398471680 and 3_1981317366089654273; individual pixels are visible but at perhaps 200-300px effective resolution rather than 120px
+* The background has a mottled gray texture — lighter and darker gray regions forming a rough irregular pattern
+
+Primary detected object:
+* At approximately center of frame (x=500-560, y=360-440): a BRIGHT WHITE HALO (~100-120px diameter) with a DARK BLACK CORE (~60-70px diameter) at its center
+* The bright white region is a glowing halo or ring of maximum brightness surrounding a dark central void
+* The dark central region is significantly darker than both the surrounding white halo and the general gray background
+* This DARK CORE + WHITE HALO pattern is the characteristic appearance of a SATURATED DETECTOR or OVEREXPOSED OBJECT with a dark center artifact, OR a DONUT-SHAPED emission source (ring/torus emitter), OR the CORONAGRAPHIC PSF (airy disk + dark central stop)
+
+The dark horizontal band at bottom:
+* Approximately the bottom 15-20% of the image has a band of regularly spaced DARK RECTANGULAR BLOCKS (~40x50px each) against a lighter background — approximately 8-10 such dark blocks visible in a row at the bottom
+* These dark blocks appear at regular intervals (approximately 80-90px center-to-center) and represent either: a DATA GAP/STRIPE artifact from the detector readout; a calibration stripe; or an array of separate objects detected in a row
+
+Annotation overlays:
+* RED CROSS (crosshair): a red vertical line (~700px tall, spanning most of the image height) and a red horizontal line (~900px wide, spanning most of the image width) intersecting at the center of the dark core — precisely marking the detected object's centroid
+* BLUE ARROW: a solid blue horizontal arrow (~100px, pointing right) positioned at upper-left of frame (~x=10-110, y=55-70)
+* YELLOW ARROW: a solid yellow horizontal arrow (~50px, shorter than blue, also pointing right) positioned just to the right of the blue arrow's tip, overlapping slightly (~x=100-150, y=60-70) — the yellow arrow is shorter but in the same direction
+* MAGENTA/PINK LINES: two thin magenta diagonal lines meeting at the center of the dark core at a V-angle — the two lines approach from the upper-left-left (~x=290-480, y=430-480) and from the left (~x=460-480, y=475-490), forming an acute angle at the detection centroid. These lines indicate the APPROACH DIRECTION or TRAJECTORY of the detected object
+
+TEXT: None visible.
+
+COLORS:
+* Background image: grayscale (various gray tones)
+* Detection source: bright white halo + dark black core
+* Crosshair: red
+* Horizontal arrows: blue (long) + yellow (short), upper-left
+* Trajectory/approach lines: magenta/pink
+* Bottom artifact band: dark gray blocks on lighter gray
+
+SPATIAL RELATIONSHIPS:
+* Main detected object at center-left (slightly left of center)
+* Red crosshair centered on the dark core
+* Blue + yellow arrows at upper-left indicating direction of motion
+* Magenta lines approaching from left, converging at detection centroid
+* Dark block band at bottom of frame
+
+PHYSICS CONCEPT:
+This annotated detection image shows the analysis of a MOVING OBJECT detected against a sky/sensor background — most likely a UAP detection frame or an interstellar/near-Earth object detection. The characteristic DARK CORE + WHITE HALO morphology is significant: it is inconsistent with a point source star (which would show a symmetric Gaussian PSF) and is instead consistent with:
+
+(1) A DONUT-SHAPED or RING EMITTER: An object emitting light from a toroidal or annular geometry (the outer ring is bright, the center is dark because the center is not emitting). This matches the TORUS or RING structure of proposed UAP propulsion geometries — a plasma ring emitting RF/optical radiation from its toroid cross-section, with the geometric shadow of the torus creating the central dark region.
+
+(2) CORONAGRAPHIC ARTIFACT: If a bright star's PSF core has been masked by a coronagraphic stop, the resulting image shows a dark center (blocked core) surrounded by the diffraction ring. This would indicate the image was taken with a coronagraph, used to block a bright central source and reveal a surrounding emission structure.
+
+(3) SATURATED DETECTOR BLOOM: An extremely bright point source can saturate the central detector pixels to their maximum value and then "wrap around" to appear dark due to electronic overflow (charge bleeding + well depletion). However, the clean circular morphology of the dark core argues against this, as bloom artifacts are typically elongated along the detector readout direction.
+
+The TRAJECTORY ANALYSIS (magenta lines forming a V at the centroid) indicates RC or another analyst has measured the approach angle of the moving object from at least two positional measurements (two lines = two different observations of position, extrapolated back to the detection point). The BLUE+YELLOW ARROWS indicate the MOTION DIRECTION of the detected object — both arrows point right, indicating rightward/eastward motion, with the blue arrow (longer) representing the motion vector and the yellow (shorter) possibly representing a relative reference direction. The RED CROSSHAIR precisely marks the detection centroid for astrometric measurement. The DARK BLOCK BAND at the bottom is likely an artifact of the detector array (possibly a CMOS rolling shutter artifact, a CCD chip boundary, or a mosaic detector gap).
+
+This image is in the same series as 3_1980611443398471680 and 3_1981317366089654273 — all documenting the detection and analysis of the same moving object (UAP or interstellar object) across multiple frames/exposures.
+
+HIGH-LEVEL SUMMARY:
+Annotated grayscale detection image (~960x720px) showing a detected object with a distinctive DARK CORE (~65px) surrounded by a BRIGHT WHITE HALO (~110px) — consistent with a ring/torus emitter, coronagraphic artifact, or detector saturation pattern. Annotation overlays: RED CROSSHAIR centered on the dark core (astrometric centroid mark); BLUE+YELLOW horizontal arrows (upper-left, pointing right — motion direction indicator); MAGENTA V-angle lines converging at the centroid (trajectory/approach angle analysis). Bottom of frame shows a band of regularly spaced dark rectangular blocks (~8-10 blocks, possible detector artifact or separate object array). Part of the same detection series as 3_1980611443398471680 and 3_1981317366089654273 — all documenting what RC interprets as a UAP or interstellar object (possibly 3I/Atlas) tracked across multiple sensor frames. The dark-core/bright-halo morphology is physically inconsistent with a simple point source and supports a toroidal emission geometry.

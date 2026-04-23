@@ -1,0 +1,32 @@
+IMAGE DESCRIPTION: 3_1960653402381410307.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1960653368298496000 — nearly square false-color hot-colormap astronomical image
+* NO black chip gap corners — full frame filled with image data
+* Background: medium-dark blue-violet, smoothly varying, similar gradient as 3_1960653368298496000
+* Central source: bright white saturated nucleus → yellow → orange → red → pink → violet → blue
+* Coarse pixelation: large visible square pixels
+* Plus-pattern (+) saturation artifact at nucleus: same feature as 3_1960653368298496000
+* Approximately symmetric isophotes with slight upper-right asymmetry
+* This appears to be the same image as 3_1960653368298496000 with minor display differences (slightly different contrast stretch or JPEG compression artifact)
+
+COLORS:
+* Identical to 3_1960653368298496000:
+  * Background: blue-violet
+  * Core: white with plus artifact
+  * Halo: yellow → orange → red → pink → violet → blue
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* NEAR-DUPLICATE OF 3_1960653368298496000:
+  * This image is essentially identical to 3_1960653368298496000 — same observation, same colormap, same full-frame coverage (no chip gap), same plus-pattern nucleus, same approximate isophote symmetry
+  * Any differences are at the level of display stretch parameters or JPEG compression
+  * All physics content is identical to 3_1960653368298496000
+  * See 3_1960653368298496000 for full physics analysis
+
+SPATIAL RELATIONSHIPS:
+* Identical to 3_1960653368298496000
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1960653368298496000 — same full-frame (no chip gap) hot-colormap cometary coma image with white-plus nucleus, smooth radial coma falloff, blue-violet background, and coarse pixelation. Part of the 3I/ATLAS interstellar comet coma imaging series. See 3_1960653368298496000 for full physics analysis.

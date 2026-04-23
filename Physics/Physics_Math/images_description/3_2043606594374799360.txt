@@ -1,0 +1,66 @@
+SHAPES:
+* Composite annotated schematic on white background — two labeled plan-view diagrams side by side with a text question above
+* QUESTION TEXT (upper center): "Might each open-closed cycle create a slight upward thrust?"
+* LEFT DIAGRAM: Annotated version of the plan-view disc schematic (companion image 3_2043606552859590656)
+  * OUTER GRADUATED CIRCLE RING: Same ring of graduated circles (~24-28 circles)
+  * LARGE RED CIRCLE: A large red ring traced around the outer ring of circles (same as the red ellipse in 3_2043453533111132160 — identifying the outer magnet ring boundary)
+  * BLUE CIRCLE: A dotted or light blue circle at approximately 65% of the outer ring radius (the intermediate coupling radius)
+  * CENTRAL ELEMENT: The concentric circle (axis) at the center
+  * TOP: Red circle for the top disc position (the large graduated circles at the top)
+  * RED "V" (upward left): downward vector indicator
+  * GREEN "Δ Δ" (two green triangles/arrows between the red top disc and the blue central circle): lift vector indicators — identifying the thrust generation zone between the outer magnet ring and the inner hub
+  * Blue "∧" (lower center): upward vector indicator (the counter-disc)
+  * CAPTIONS: "magnet below flywheel" (cyan text, lower left)
+* RIGHT DIAGRAM: A second view showing a different disc configuration
+  * Shows a SIDE-VIEW cross-section of the disc system (embedded in the plan-view context):
+    * The disc appears as a simplified circular cross-section
+    * CONCENTRIC RINGS: A large outer red ring and an inner blue ring surrounding the disc cross-section
+    * INNER ELEMENTS: Red circle (top) and blue circle (below) within the central area
+    * GREEN HORIZONTAL LINE: Across the middle of the right diagram — marking the disc equatorial plane
+    * "V V" RED (two red downward V's): two clockwise rotation indicators on either side
+    * "∧ ∧" BLUE (two blue upward arrows): two counterclockwise rotation indicators below
+    * CAPTIONS: "magnet level with flywheel" (cyan/blue text, lower right)
+
+TEXT VISIBLE:
+* "Might each open-closed cycle create a slight upward thrust?" (upper center, black)
+* "V" (red, left and right) — downward/clockwise rotation indicator
+* "Δ" (green, two instances) — thrust/lift indicator
+* "∧" (blue, multiple) — upward/counterclockwise indicator
+* "magnet below flywheel" (cyan, lower left caption)
+* "magnet level with flywheel" (cyan, lower right caption)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer magnet ring indicator: red
+* Inner coupling radius: blue
+* Lift/thrust indicators: green
+* Captions: cyan/blue
+* Central axis elements: black
+
+PHYSICS CONCEPTS:
+* This annotated composite explores how the relative vertical position of the magnet ring affects thrust generation:
+  1. THE QUESTION ("MIGHT EACH OPEN-CLOSED CYCLE CREATE A SLIGHT UPWARD THRUST?"):
+     * "Open-closed cycle" refers to the electromagnetic flux cycle of the rotating disc:
+       * OPEN PHASE: As a magnet sweeps past a stator coil gap, the flux path is open (lower permeance) → lower field energy stored
+       * CLOSED PHASE: As a magnet aligns with a stator coil, the flux path is closed (higher permeance) → higher field energy stored
+       * The transition from open to closed creates an attractive force between magnet and stator iron
+     * If the magnet ring is positioned BELOW the midplane of the flywheel (left diagram: "magnet below flywheel"), the attractive force during flux closure has an upward vertical component → net upward thrust per open-closed cycle
+     * If the magnet ring is LEVEL with the flywheel (right diagram: "magnet level with flywheel"), the attractive force is purely radial → no upward thrust from this mechanism
+  2. LEFT DIAGRAM ("MAGNET BELOW FLYWHEEL"):
+     * The green Δ arrows between the red top disc and the blue center element indicate where thrust is generated: at the interface between the upper magnet ring (red) and the lower coupling region (blue) — the attractive force points upward toward the magnet (which is below the stator mid-plane)
+     * The red "V" and blue "∧" markings confirm the counter-rotation: the red outer ring spins clockwise (V = downward in the cross-product sense), the blue inner element spins counterclockwise (∧ = upward), producing the net lift
+  3. RIGHT DIAGRAM ("MAGNET LEVEL WITH FLYWHEEL"):
+     * The green horizontal line marks the disc equatorial plane
+     * The red "V V" and blue "∧ ∧" markings confirm the same counter-rotation, but now the magnetic forces are symmetric about the equatorial plane → no net upward or downward force from the open-closed cycle alone
+     * Thrust in this configuration must come from a different mechanism (e.g., J × B Lorentz force on the radial current, or gravitomagnetic Lense-Thirring effect)
+  4. THRUST OPTIMIZATION: The diagram argues that optimal thrust is generated when the magnets are positioned BELOW the flywheel midplane (or above, by symmetry) — a design parameter for the physical construction of the disc system
+
+SPATIAL RELATIONSHIPS:
+* Question text: upper center
+* Left diagram ("magnet below flywheel"): left half
+* Right diagram ("magnet level with flywheel"): right half
+* Color coding: red = clockwise/outer, blue = counterclockwise/inner, green = lift direction
+
+HIGH-LEVEL SUMMARY:
+Annotated composite schematic asking "Might each open-closed cycle create a slight upward thrust?" — comparing two disc configurations: (left) "magnet below flywheel" (the outer magnet ring positioned below the disc midplane, with green Δ thrust arrows between the red magnet ring and blue coupling radius, and red/blue counter-rotation indicators) vs. (right) "magnet level with flywheel" (magnet ring at the disc equatorial plane, green horizontal line marking the midplane, red V/blue ∧ counter-rotation indicators). The diagram argues that when the magnet ring is below the flywheel midplane, each electromagnetic open-closed flux cycle (as magnets pass stator coil positions) generates a net upward attractive force component — creating a small but continuous upward thrust. When the magnet ring is level with the flywheel midplane, the open-closed forces are symmetric and cancel, producing no net axial thrust from this mechanism. This identifies the vertical position of the magnet ring relative to the flywheel as a critical design parameter for generating gravitomagnetic lift via the open-closed flux cycle mechanism.

@@ -1,0 +1,28 @@
+IMAGE DESCRIPTION: 3_1960983206368305152.jpg
+
+SHAPES AND ELEMENTS:
+* Square astronomical image in an inverted blue-to-green color table (green outer, cyan middle, dark red-black core)
+* Slightly pixelated core (the central dark-red cluster shows some square pixel texture)
+* The frame is fully filled — no stepped data-coverage boundary
+* Central region: dark brownish-red to black granular cluster (= maximum flux, inverted to dark)
+* Inner zone: a lighter blue rectangular "halo" visible as a slightly lighter blue square around the dark core — this is a square artifact, possibly the inner detector sub-array boundary
+* Middle zone: bright cyan-blue, the dominant color of the image
+* Outer zone: green, smoothly fading to a brighter green at the frame corners
+* No background sources visible
+
+COLORS:
+* Dark red-black: core (maximum emission, inverted)
+* Lighter blue (square boundary): inner sub-array artifact
+* Cyan-blue: main halo
+* Green to bright green: outer zone and corners (minimum emission, inverted to light)
+
+PHYSICS / INFORMATION CONCEPTS:
+* INVERTED variant of 3_1960983163938746368 — same square-format smooth comet coma data but with an inverted blue-green color table
+* The dark red-black core = same feature as the white-yellow core in the non-inverted version
+* The green outer background = same feature as the deep blue corners in the non-inverted version
+* The square artifact around the core (lighter blue rectangular zone) reveals the inner sub-array boundary of the detector — the core was captured on a higher-sensitivity sub-array while the outer coma was captured on the main array
+* This square sub-array artifact is only visible in the inverted representation because the human visual system detects the subtle flux difference better against the uniform background
+* See 3_1960123627871027200 for primary analysis of the Comet 17P/Holmes 2007 coma
+
+HIGH-LEVEL SUMMARY:
+Square inverted astronomical image in green-cyan-dark color table: dark red-black granular core (maximum emission), faint square sub-array boundary artifact (lighter blue rectangle around core), bright cyan-blue halo, green outer background. Inverted companion to 3_1960983163938746368. The square artifact around the core reveals the inner detector sub-array boundary — only visible in the inverted representation due to human contrast sensitivity. See 3_1960123627871027200 for primary analysis.

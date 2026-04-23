@@ -1,0 +1,60 @@
+SHAPES:
+* Composite annotated schematic on white background — two labeled disc configuration diagrams side by side
+* TITLE/LABEL (upper center): "Step 1 up-down going to increased spin"
+  * Color coding: "up" in red, "down" in black, "increased spin" in black
+* LEFT DIAGRAM ("magnet level with flywheel" configuration):
+  * The same right-diagram from companion images 3_2043606594374799360 and 3_2043658065854275584, now shown on the left:
+    * Large outer RED ring
+    * Inner BLUE ring (slightly inside the red ring)
+    * Large central black disc (the "flywheel" or main rotating element)
+    * Smaller upper disc and lower elements (the stacked disc system)
+    * Below the main disc: a chain of decreasing circles (Birkeland current tail)
+    * GREEN horizontal line: at the disc equatorial plane
+    * "∧ ∧" RED (two red upward arrows): marking the upper disc rotation
+    * "V V" BLUE (two blue downward arrows): marking the inner disc rotation
+    * Top element: a black oval/disc silhouette at the very top (partial view of the upper disc)
+* RIGHT DIAGRAM ("magnet below flywheel" configuration with upward momentum):
+  * The same left-diagram from companion images, now shown on the right, with annotations for "Step 1":
+    * OUTER GRADUATED CIRCLE RING: Same ring of approximately 24-28 graduated circles
+    * LARGE RED RING: Traced around the outer circle ring
+    * BLUE DOTTED ARC: Inside the outer ring at the intermediate coupling radius
+    * CENTRAL CONCENTRIC CIRCLE: The rotation axis
+    * TOP: Large graduated circles at the top + stem extension above
+    * RED LARGE CIRCLE (top, inside red ring): The primary red disc
+    * RED "∧" (upper right): upward momentum vector
+    * GREEN "Δ Δ" (between red disc and blue center): thrust generation indicators
+    * Blue "V" (lower center): downward counter-rotation indicator
+
+TEXT VISIBLE:
+* "Step 1 up-down going to increased spin" (upper center)
+* "up" in RED, "down" in black
+* "∧" (red, upper right of right diagram): upward momentum
+* "Δ Δ" (green, between elements): lift/thrust indicators
+* "V" (blue, lower center of right diagram): downward rotation
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer magnet ring: red
+* Inner coupling radius: blue (dotted arc)
+* Lift indicators: green
+* Directional indicators: red and blue
+
+PHYSICS CONCEPTS:
+* This schematic is labeled "Step 1" — it is part of a multi-step sequence describing how the disc propulsion system builds up thrust:
+  1. "STEP 1: UP-DOWN GOING TO INCREASED SPIN": The first step in the operational sequence:
+     * "Up-down" refers to the axial displacement cycle of the magnetic elements: as the disc spins (increases in angular velocity ω), the magnets on the perimeter alternately move upward and downward relative to the stator elements due to electromagnetic and gyroscopic forces
+     * This axial oscillation at the spin frequency creates: (a) the "open-closed" flux cycling described in companion images 3_2043606594374799360 and 3_2043658065854275584; (b) a positive feedback loop — each up-down cycle generates a small upward thrust, and the resulting upward motion (gravitomagnetic flux) feeds back to increase the spin rate
+     * "Going to increased spin" = the gyroscopic effect: as thrust builds, the disc spins faster; as spin increases, the Lense-Thirring gravitomagnetic frame dragging increases; the increased gravitomagnetic field further amplifies the thrust — a positive feedback loop toward stable powered flight
+  2. LEFT DIAGRAM (CURRENT STATE): Shows the "magnet level with flywheel" initial state before the up-down cycle begins — the red and blue rings are coplanar (green equatorial line), no net axial thrust yet
+  3. RIGHT DIAGRAM (STEP 1 TRANSITION): Shows the disc transitioning to "magnet below flywheel" state — the magnets have moved below the flywheel midplane (by the gyroscopic precession or electromagnetic attractive force), and the green Δ thrust arrows appear, indicating the onset of upward thrust generation
+  4. THE OPERATIONAL SEQUENCE: The "Step 1" label implies there are subsequent steps (Step 2, Step 3...) that describe the full acceleration from rest to flight — this diagram represents only the initial thrust initiation phase
+
+SPATIAL RELATIONSHIPS:
+* Title: upper center
+* Left diagram: left half (initial "magnet level" state)
+* Right diagram: right half (Step 1 transition to "magnet below" state with thrust generation)
+* Red ∧ (upper right): indicates the net upward momentum direction in Step 1
+
+HIGH-LEVEL SUMMARY:
+Annotated composite schematic labeled "Step 1 up-down going to increased spin" — depicting the first operational step in building disc propulsion thrust. Two configurations are compared: (left) the initial "magnet level with flywheel" state (red/blue coplanar rings, green equatorial line, symmetric rotation indicators, no axial thrust) and (right) the "Step 1" state where the magnets are transitioning below the flywheel plane (graduated outer circle ring with large red circle at top, green Δ lift arrows between the red and blue elements, upward red ∧ momentum vector). The label encodes a positive feedback mechanism: as the disc spins faster, gyroscopic and electromagnetic forces cause the magnets to oscillate axially (up-down), each cycle generating a small upward thrust via the open-closed flux mechanism; the resulting upward acceleration further increases the effective spin rate via gravitomagnetic coupling, creating a self-amplifying loop from static state to powered flight. This is the first step in a multi-step operational sequence for the counter-rotating electromagnetic disc propulsion system.

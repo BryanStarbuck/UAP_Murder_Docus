@@ -1,0 +1,25 @@
+IMAGE DESCRIPTION: 3_1960890742605537285.jpg
+
+SHAPES AND ELEMENTS:
+* Pixelated astronomical image of a comet coma using an inverted green-cyan color table
+* White stepped data-coverage boundary at the left edge (diagonal staircase pattern indicating the edge of the detector array or mosaic tile)
+* Central region: dark blue-to-black core (= maximum flux in inverted representation — the peak emission appears darkest)
+* Inner halo: cyan-blue zone surrounding the dark core
+* Outer region: green-yellow-green background (= minimum emission / sky background in inverted representation)
+* Same pixelated resolution as the Spitzer IRAC series (3_1960123627871027200 and related files)
+
+COLORS:
+* Dark blue-to-black: core (maximum emission, inverted to dark)
+* Cyan-blue: inner halo zone
+* Green to yellow-green: outer background (minimum emission, inverted to light)
+* White: data-coverage boundary edge (stepped diagonal at left)
+
+PHYSICS / INFORMATION CONCEPTS:
+* DUPLICATE / VARIANT: This image is identical or near-identical in data content to 3_1960837107418849285.jpg (inverted green-cyan pixelated Spitzer comet coma)
+* The inverted color table reverses the usual brightness mapping: maximum flux → dark; minimum flux → light
+* The dark core corresponds to the peak of the radial brightness profile B(r) at r = 0
+* The white stepped boundary is the detector array edge — same feature as in 3_1960123627871027200 (standard color table version)
+* The underlying data is Comet 17P/Holmes 2007 Spitzer IRAC observation — see 3_1960123627871027200 for full physical analysis
+
+HIGH-LEVEL SUMMARY:
+Inverted green-cyan pixelated Spitzer IRAC image of the Comet 17P/Holmes 2007 coma: dark blue-black core (peak emission, inverted), cyan-blue inner halo, green-yellow outer background, white stepped data-boundary at left edge. Duplicate of 3_1960837107418849285 — same Spitzer Holmes data with inverted color table. For full physical analysis see 3_1960123627871027200.

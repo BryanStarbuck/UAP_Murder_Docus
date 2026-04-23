@@ -1,0 +1,57 @@
+IMAGE DESCRIPTION: 3_1960763865081450496.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly square false-color astronomical image using an INVERTED colormap — dark/absorption at center rather than bright/emission
+* UNIQUE COLORMAP: Cyan-to-green gradient background with a DARK central region — the opposite of hot colormaps used in companion images
+* Background: bright green at corners, transitioning to cyan/turquoise toward center
+* Central region: a dark rounded square/blob at the image center:
+  * Outermost: medium blue (approximately circular, ~50% of frame)
+  * Inner: darker blue, almost indigo (approximately 30% of frame)
+  * Core: near-black, dark reddish-brown (approximately 10% of frame)
+* The dark central blob has approximately square (rounded rectangle) geometry rather than circular — this is unusual and distinctive
+* The transition from background to core: green → cyan → blue → dark blue → near-black (reversed from hot colormap)
+* A faint square grid or box is subtly visible around the dark central blob (may be a subtracted PSF region or masking artifact)
+
+COLORS:
+* Outer background: bright green (lime/emerald)
+* Intermediate: turquoise/cyan
+* Inner zone: blue → dark blue → indigo
+* Core: near-black / very dark reddish-brown
+* The full colormap sequence: green → cyan → blue → dark blue → black (cold colormap, "cool" or "winter" colormap type)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* INVERTED / COLD COLORMAP COMA IMAGE:
+  * This image uses an inverted cold colormap: what was bright (nucleus) in the hot colormap images now appears dark; what was background (sky) now appears bright
+  * This is achieved by either: (1) an "inverted hot" or "cold" colormap (dark = high intensity), or (2) a residual/subtracted image where the central source has been PSF-subtracted, leaving a residual
+* PSF SUBTRACTION RESIDUAL HYPOTHESIS:
+  * If a smooth model PSF (representing the unresolved nucleus) was subtracted from the data, the residual image would show:
+    * Near-zero residual where the nucleus was (appears dark in the inverted map)
+    * Positive residuals where the extended coma emission exceeds the PSF model (appears bright/cyan in the inverted map)
+  * This technique is used to separate the unresolved nucleus contribution from extended coma structure
+  * The approximately square shape of the dark central region may correspond to the PSF subtraction box (a region within which the PSF fit was applied)
+* ALTERNATIVELY — INVERTED HOT COLORMAP:
+  * If simply applying the inverted colormap to the same raw data as companion images:
+    * High flux (nucleus) → maps to dark colors (near-black)
+    * Low flux (sky background) → maps to bright colors (green)
+    * The square box subtly visible may be a detector region boundary
+* SQUARE ISOPHOTE ANOMALY:
+  * The approximately square shape of the dark inner region (rather than circular) could indicate:
+    * A square PSF mask or subtraction region
+    * Detector pixel geometry bleeding along rows and columns
+    * An actual square-wave structure (possible for a bright saturated source where rows and columns bloom)
+* INFORMATION CONTENT OF THE COLD COLORMAP:
+  * Different colormaps can reveal different structures in the same data
+  * The cold colormap emphasizes the extended low-surface-brightness coma (bright green/cyan) while suppressing the bright inner region (dark)
+  * This is equivalent to adjusting the display stretch to highlight the faint extended emission rather than the bright compact core
+  * Astronomers use multiple colormaps on the same data to reveal different aspects of the source morphology
+
+SPATIAL RELATIONSHIPS:
+* Dark core: centered in frame
+* Blue-indigo zone: surrounding core, approximately circular
+* Cyan/turquoise zone: outer halo
+* Green: brightest at corners, filling the background
+
+HIGH-LEVEL SUMMARY:
+A false-color astronomical image using a cold/inverted colormap (dark = bright source, green/cyan = faint background) — the visual inverse of the hot colormap images in this series. The central dark blob (approximately square, transitioning from near-black core to dark blue to cyan to green) represents the cometary nucleus and inner coma. The green outer background is the faint extended coma or sky. The square geometry of the dark central region may indicate PSF subtraction (a square mask within which the PSF model was fit and subtracted), which would make this a PSF residual image showing extended coma structure after nuclear contribution removal. Alternatively, a simple inverted hot colormap applied to the same data as companion images (3_1960653368298496000 etc.). Physics content: inverted colormap/cold colormap visualization, PSF subtraction for nucleus/coma separation, extended coma surface brightness profile, display stretch for low-surface-brightness structure. Part of the 3I/ATLAS interstellar comet analysis series.

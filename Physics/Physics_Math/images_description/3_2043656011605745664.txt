@@ -1,0 +1,48 @@
+SHAPES:
+* Aerial oblique photograph of a crop formation — taken from a low altitude with significant perspective/tilt
+* FIELD: Pale golden/straw ripe grain field (UK summer, late season)
+* PEOPLE VISIBLE: Multiple human visitors visible inside and around the formation edges (approximately 15-20 people total) — providing scale
+* FORMATION STRUCTURE: A large formation combining concentric rings with a central cluster of graduated circles
+  * OUTER RING: A large continuous circular ring (approximately 480px diameter at this angle)
+    * Ring width: approximately 30-40px
+    * The outer ring is well-defined and clearly flattened
+  * SECONDARY/INNER RING: A second concentric ring inside the outer ring
+    * Diameter: approximately 340px
+    * Narrower than the outer ring
+  * CENTRAL CLUSTER: Inside the inner ring, a cluster of circular elements at the center-right of the formation
+    * A LARGE CENTRAL CIRCLE: The main central circle (approximately 120px diameter)
+    * THREE OR FOUR SMALLER CIRCLES in a line extending to the right of/below the central circle (approximately 60px, 40px, 25px in diameter — Fibonacci-decreasing sequence)
+    * The circles appear to be connected or aligned in a sequence along one axis
+  * OUTER SATELLITE: A single separate circle or arc element visible at the left edge outside the outer ring (approximately 80px diameter) — a standalone satellite circle or remnant of an adjacent formation
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Field: pale straw/cream (very ripe grain)
+* Formation elements: slightly darker cream (the flattened areas)
+* Human figures: small, colorful (one visible in red jacket)
+* Overall: pale, high-key, late-season crop colors
+
+PHYSICS CONCEPTS:
+* This formation (with concentric outer rings + central Fibonacci-sequence circle cluster) encodes:
+  1. CONCENTRIC RINGS: The two outer rings encode the same Faraday disc concentric voltage equipotential structure as other ring formations in this collection — V(r) = ½ωBr² at each ring radius
+  2. FIBONACCI-DECREASING CIRCLE CLUSTER: The central cluster of circles decreasing in size along a radial axis (large → medium → small → very small) encodes:
+     * The Fibonacci spiral sequence (r_n = r_0 × φ^n where φ = (1+√5)/2 ≈ 1.618): each circle is approximately 1/φ = 0.618 the diameter of the previous one
+     * This same Fibonacci/golden ratio scaling appears in the companion Milk Hill 2001 formation (3_2024567069296250882) and the Julia Set schematic (3_2040563979320459264)
+     * Physically: represents the radial scaling of the Birkeland current vortex filaments — each nested vortex is smaller by a factor of φ
+     * Also: encodes the solar system scale model interpretation (central Sun, then decreasing planet orbit radii proportional to the Fibonacci/Titius-Bode sequence)
+  3. SINGLE SATELLITE CIRCLE (OUTSIDE THE OUTER RING): Represents either:
+     * A standalone satellite formation that accompanied the main formation (common in authentic crop circle sites — multiple formations appearing in the same field)
+     * The "pilot wave" or precursor energy discharge that preceded the main formation
+  4. HUMAN SCALE CONTEXT: The approximately 15-20 human visitors visible inside the formation confirm the formation's large physical scale (approximately 80-100m outer ring diameter) — consistent with the hypothesis that these formations require non-mechanical creation mechanisms at such scale
+
+SPATIAL RELATIONSHIPS:
+* Outer ring: largest element, defines formation boundary
+* Secondary inner ring: inside the outer ring
+* Central circle cluster: off-center (right of center in the oblique view), with Fibonacci-decreasing satellites
+* Standalone satellite circle: outside the outer ring to the left
+* Human figures: inside and around the formation for scale
+
+HIGH-LEVEL SUMMARY:
+Oblique low-altitude aerial photograph of a large crop formation in very pale ripe grain with approximately 15-20 human visitors providing scale, showing: two concentric outer rings (Faraday disc radial voltage equipotentials), a central cluster of Fibonacci-decreasing circles (large central circle with 3-4 sequentially smaller adjacent circles in a radial line, where each circle is approximately 1/φ the diameter of the previous), and a standalone satellite circle outside the outer ring. The Fibonacci-decreasing circle sequence encodes the golden ratio scaling (r_n = r_0/φ^n) seen in the Julia Set, Milk Hill 2001, and spiral crop formations throughout the collection — representing the self-similar scaling of nested electromagnetic vortex filaments in a Birkeland current column. The two-ring outer boundary encodes the Faraday disc radial EMF structure. The standalone outer satellite circle confirms the multi-formation occurrence pattern documented at this field site.

@@ -1,0 +1,55 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side with magnetic pole labels
+* LEFT DIAGRAM: The familiar side-view disc cross-section (same base as companion schematics) with additional magnetic pole labels:
+  * Large outer RED ring
+  * Inner BLUE ring
+  * Main large black disc (flywheel)
+  * Upper smaller disc elements
+  * GREEN DASHED LINES: Four dashed green lines dividing the disc into quadrants (two crossing diagonal dashed lines, creating an X-pattern inside the blue circle) — the quadrant dividers encode the 4 magnetic pole regions
+  * "N" LABELS (red, large): Four red "N" labels at the four cardinal positions around the outer ring (upper-left, upper-right, lower-left, lower-right of the disc) — all four outer positions labeled North
+  * "S" LABEL (cyan/blue): A large "S" label inside the central disc (the inner blue element) — labeled South
+* RIGHT DIAGRAM: The familiar plan-view (top-down) disc schematic with additional annotations:
+  * Outer graduated circle ring
+  * Large RED outer ring
+  * Blue dotted inner arc
+  * Central concentric circle (axis)
+  * Red large disc element (top)
+  * Green "Δ" (two instances, upper center): lift generation indicators
+  * Green "Δ" (lower center): additional lift indicator below the axis element
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram, at quadrant outer positions)
+* "S" (cyan, large, inside the central disc of the left diagram)
+* "Δ" (green, three instances on right diagram)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring: red
+* Inner ring: blue
+* Magnetic pole labels: "N" in red, "S" in cyan/blue
+* Quadrant dashed lines: green
+* Lift indicators: green Δ
+
+PHYSICS CONCEPTS:
+* This schematic introduces the explicit magnetic pole labeling of the disc system components:
+  1. FOUR "N" (NORTH) LABELS ON THE OUTER RED RING: The four red N labels at the outer quadrant positions indicate that the outer red flywheel has NORTH polarity facing outward at four positions (N, E, S, W). This encodes:
+     * A 4-pole outer rotor (4 north poles at the outer perimeter, with alternating south poles between them — but the south poles may be facing inward, not outward)
+     * Or: the outer flywheel generates a magnetic field that is North-outward in all four quadrant positions simultaneously (a more unusual topology, suggesting a monopole-like or quadrupole-symmetric radial field)
+     * The green dashed X-quadrant lines define the 4 symmetry axes
+  2. "S" (SOUTH) LABEL ON THE INNER BLUE DISC: The large cyan "S" label on the inner blue disc indicates that the inner spinning magnet has SOUTH polarity facing outward (toward the outer N-labeled flywheel)
+     * This creates the attractive interaction: inner South (blue) attracts outer North (red) — consistent with "The blue magnet and red flywheel attract" from companion image 3_2044596462236090368
+     * The magnetic attraction between inner S and outer N is what keeps the two counter-rotating elements coupled electromagnetically (they can't fly apart despite counter-rotation because opposite poles attract across the gap)
+  3. GREEN Δ LIFT INDICATORS (RIGHT DIAGRAM): The three green Δ symbols in the right plan-view diagram (two above and one below the axis) indicate that lift is generated both above and below the disc (in both axial directions from the disc midplane), consistent with the upward push being a volumetric effect throughout the magnetized disc region, not just at one surface
+  4. THE MAGNETIC TOPOLOGY: Inner S surrounded by outer N (with gap between them) is a specific magnetic topology:
+     * Configurations where a South magnetic object is surrounded by North-facing surfaces at 4 positions with a gap creates a "magnetic bottle" or "magnetic mirror" topology — analogous to the fusion plasma confinement configurations
+     * The gap between inner S and outer N is the active region where the magnetic flux gradient (∂B/∂z ≠ 0) exists — this gradient is what creates the axial force (F_z = μ ∂B/∂z) on a magnetic dipole
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view with N/S labels and green dashed quadrant lines
+* Right diagram: plan-view with three green Δ lift indicators
+* N labels: four, at outer quadrant positions (red)
+* S label: one, on inner disc (cyan)
+
+HIGH-LEVEL SUMMARY:
+Composite annotated schematic adding magnetic pole labeling to the familiar two-diagram counter-rotating disc system: (left) the side-view disc cross-section with four red "N" labels at the outer ring's quadrant positions and one cyan "S" label on the inner blue disc, plus green dashed X-quadrant dividers; (right) the plan-view with three green Δ lift indicators (two above and one below the axis element). The pole labeling encodes: the outer red flywheel has North magnetic polarity facing outward at four symmetric positions (4-pole or all-outward-North field geometry), while the inner blue spinning magnet has South polarity facing outward — creating the attractive force "The blue magnet and red flywheel attract." The inner South surrounded by outer North topology creates a magnetic bottle/mirror configuration in the gap region, with the magnetic flux gradient ∂B/∂z ≠ 0 in that gap generating an axial force (F_z = μ ∂B/∂z) on the inner magnetic dipole — the fundamental mechanism for the upward lift force.

@@ -1,0 +1,64 @@
+IMAGE DESCRIPTION: 3_1960123627871027200.jpg
+
+SHAPES AND ELEMENTS:
+* False-color intensity map of an astronomical or laboratory object
+* Color scale: black (zero) → deep blue → purple → red → orange → yellow → white (maximum)
+* The color scale used is the "rainbow" or "jet" colormap: low values = blue-purple, high values = yellow-white
+* Main emission region: an approximately circular to slightly oval bright region occupying roughly the upper-right half of the image
+* Lower-left corner: hard black (zero signal) — an L-shaped region of no data (detector edge or masked region)
+* A few isolated blue pixels in the lower-left of the data region (instrumental artifacts or outliers)
+
+STRUCTURE:
+* CENTRAL NUCLEUS: a small, bright white region approximately 3-5 pixels wide at left-of-center of the bright region
+* INNER CORE: a yellow-orange elliptical region approximately 20-30% of the bright area's diameter, surrounding the nucleus
+* OUTER COMA: a red-to-purple diffuse region surrounding the inner core, extending to the full extent of the bright area
+* BOUNDARY: the bright region transitions gradually (not sharply) into the dark background
+* SHAPE: the bright emission region is slightly asymmetric — slightly more extended to the upper-right than to the lower-left (asymmetric coma = possibly due to solar radiation pressure pushing the coma anti-sunward)
+
+LOWER-LEFT MASKED REGION:
+* A stepped/staircase L-shaped black region in the lower-left (visible as hard square-pixel steps)
+* This is characteristic of a detector chip edge (the data starts at a non-rectangular boundary — the detector was not perfectly aligned with the source)
+* Similar masked boundary visible in 3_1960138377036210176 (near-duplicate)
+
+COLORS:
+* Black: no-data region
+* Deep blue-purple: lowest positive signal
+* Red-orange: moderate signal (outer coma)
+* Yellow: high signal (inner core)
+* White: maximum signal (nucleus)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* FALSE-COLOR COMA MAP OF AN INTERSTELLAR / COMETARY OBJECT:
+  * The morphology (compact nucleus + symmetric inner coma + asymmetric outer coma) is characteristic of an active comet or interstellar object (ISO)
+  * The asymmetric coma: the brightness asymmetry (upper-right > lower-left) is consistent with:
+    * Solar radiation pressure pushing dust grains anti-sunward → the sunward coma is compressed, the anti-sunward is extended
+    * An active jet on one side of the nucleus causing asymmetric outgassing
+  * CONNECTION TO 3I/ATLAS: if this is the interstellar object 3I/ATLAS (discovered December 2025, referenced in 3_2006249444371771392), this would be a different filter/processing of its coma map
+* HASER MODEL COMA PROFILE:
+  * For a spherically symmetric outgassing nucleus:
+    * Column density: N(ρ) ∝ ∫ n(r) ds where ρ = impact parameter, integration along line of sight
+    * For n(r) ∝ 1/r²: N(ρ) ∝ 1/ρ (the Haser model intensity decreases as 1/r from nucleus)
+    * For n(r) ∝ exp(-r/r₀)/r² (Gaussian envelope): more rapidly decreasing outward
+  * The color profile (white nucleus → yellow inner → orange mid → red outer → purple far → blue edge) shows the decreasing intensity consistent with Haser model
+* DETECTOR CHIP EDGE / MOSAIC:
+  * The staircase L-shaped black region: a chip gap or detector boundary in a mosaic CCD or infrared detector array
+  * In JWST NIRCam: the detector consists of two 2048×2048 H2RG arrays with a gap between; the staircase boundary could be from a drizzle-combined mosaic where the edges have no coverage
+  * The pixel scale: each pixel appears to correspond to approximately 0.5-2 arcseconds (low spatial resolution for JWST, suggesting this is from a ground-based telescope or rebinned data)
+* ASYMMETRIC COMA PHYSICS:
+  * If the coma is asymmetric due to solar radiation pressure:
+    * Dust grain equation of motion: m_grain (d²r/dt²) = -GM_sun r̂/r² + F_rad r̂ where F_rad = L_sun σ_geo Q_pr / (4πr²c)
+    * For micron-sized grains: F_rad/F_grav = β ≈ 0.1-1 (significant radiation pressure)
+    * The grains drift anti-sunward with velocity v_drift = β v_esc (where v_esc = √(2GM_sun/r))
+    * This creates the characteristic dust tail (anti-sunward) + ion tail (anti-sunward along B-field)
+
+SPATIAL RELATIONSHIPS:
+* Bright nucleus: center-left of the bright emission region (not image center due to asymmetry)
+* Inner yellow core: surrounding nucleus
+* Outer red-orange coma: surrounding inner core
+* Blue-purple outer coma: fading to image background
+* No-data region: lower-left (L-shaped black staircase)
+
+HIGH-LEVEL SUMMARY:
+False-color intensity map (rainbow/jet colormap: blue→red→yellow→white) of a cometary or interstellar object with a compact bright white nucleus (3-5 pixels), yellow-orange inner coma, red-to-purple outer coma, and slightly asymmetric emission (more extended upper-right — consistent with anti-sunward radiation pressure displacement or jet activity). An L-shaped staircase black region in the lower-left indicates a detector chip edge or mosaic gap. Physics: Haser model column density N(ρ) ∝ 1/ρ; radiation pressure on dust grains (β = F_rad/F_grav ≈ 0.1-1 for μm grains); asymmetric coma as solar radiation pressure indicator (dust drift velocity v_drift = β v_esc). Near-duplicate of 3_1960138377036210176; both appear to be the same data with minor processing differences. Part of the interstellar/cometary object imaging series (3I/ATLAS context, 3_2006249444371771392).

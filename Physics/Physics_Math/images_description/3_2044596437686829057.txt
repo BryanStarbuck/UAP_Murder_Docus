@@ -1,0 +1,58 @@
+SHAPES:
+* Schematic diagram on white background — plan view (top-down) of a 3-phase permanent magnet generator
+* OUTER RING (RED): A large red circle (approximately 480px diameter)
+  * Represents the outer boundary of the rotating magnet ring or the outer stator boundary
+* INNER RING (BLUE): A blue circle (approximately 360px diameter), concentric inside the red ring
+  * Represents the inner coupling radius or the inner stator boundary
+* THREE SATELLITE CIRCLES: Three rings (white-center, black-outline) at 120° angular intervals, positioned at the intersection of the red outer ring boundary:
+  * Upper-center (12 o'clock position): one ring circle
+  * Lower-left (8 o'clock position): one ring circle
+  * Lower-right (4 o'clock position): one ring circle
+  * Each ring circle: approximately 50px diameter, black outline with white center (ring magnet / end-on view of a pole piece)
+  * LABELED: "3-phase magnetism" (red text) next to each of the three satellite circles
+* CENTRAL SPINNING ELEMENT: A central disc element (approximately 200px diameter) showing a 3-bladed or 3-fan propeller/wind turbine shape:
+  * Three curved black "blades" arranged at 120° intervals, sweeping in a consistent rotational direction (clockwise or counterclockwise)
+  * Each blade appears to be a broad arc/fan shape
+  * The blades create the visual impression of a spinning 3-fold symmetric rotor
+  * LABELED: "spinning magnet" (bold red text) at the bottom of the central element
+  * Inside the spinning element: a small central circle (approximately 30px) with thin concentric outlines — the rotation axis
+
+TEXT VISIBLE:
+* "3-phase magnetism" (red text, three instances — one per satellite circle)
+* "spinning magnet" (red text, below the central spinning element)
+
+COLORS:
+* Background: white
+* Outer boundary: red circle
+* Inner boundary: blue circle
+* Satellite ring magnets: black outline, white interior
+* Spinning magnet: black filled blades
+* Text labels: red
+
+PHYSICS CONCEPTS:
+* This schematic is the clearest and most explicit single diagram of the 3-phase permanent magnet generator mechanism in the collection:
+  1. CENTRAL SPINNING MAGNET (3-blade fan): The central element is a 3-bladed spinning magnet — a permanent magnet in the shape of a 3-fold (120°-symmetric) rotor:
+     * The 3 blades represent the 3 magnetic poles (or 3 sets of poles) of the spinning magnet
+     * As the magnet spins, each blade sweeps past one of the 3 satellite "3-phase magnetism" positions
+     * This creates the rotating magnetic field (RMF) — the fundamental operating principle of the 3-phase AC induction motor/generator
+  2. THREE SATELLITE "3-PHASE MAGNETISM" CIRCLES: The 3 ring-magnet circles at 120° spacing represent:
+     * In a GENERATOR configuration: the 3 stator coil positions (U, V, W) — the spinning rotor's field induces EMF in each coil sequentially at 120° phase offset
+     * In a MOTOR configuration: the 3 stator magnets that are energized in sequence to attract the spinning rotor
+     * The ring circle geometry (end-on view of a ring magnet) shows that these are toroidal magnets or coils wound around an annular core
+  3. RED OUTER RING: The outer red boundary represents the physical perimeter of the disc (the outer magnetic coupling boundary) — consistent with the red ring encoding in companion images (the red = clockwise disc, perimeter magnet ring)
+  4. BLUE INNER RING: The inner blue boundary represents the inner coupling radius (the radius at which the stator-rotor coupling is measured) or the inner bearing race
+  5. THE COMPLETE 3-PHASE GENERATOR: This diagram encodes the exact mechanism of the electromagnetic disc propulsion generator:
+     * The central 3-blade spinning magnet creates the rotating magnetic field
+     * The 3 satellite coil/magnet positions are where EMF is induced (or driving current is applied)
+     * The EMF output of each phase: V_phase(t) = NBAω sin(ωt + φ_phase) where φ_U = 0°, φ_V = 120°, φ_W = 240°
+     * The balanced 3-phase output is used to: power the craft's subsystems, create the counter-rotating disc field, and drive the ion propulsion system
+
+SPATIAL RELATIONSHIPS:
+* Red outer ring: outermost element, ~480px diameter
+* Blue inner ring: inside the red ring, ~360px diameter
+* Three satellite ring circles: at 120° spacing, centered on the red ring boundary
+* Central 3-blade spinning magnet: at the exact geometric center
+* Labels: "3-phase magnetism" beside each satellite, "spinning magnet" below the central element
+
+HIGH-LEVEL SUMMARY:
+Schematic diagram (plan view, on white background) of the 3-phase permanent magnet generator showing: an outer red ring (disc perimeter), an inner blue ring (coupling/bearing radius), three ring-magnet circles at 120° angular spacing labeled "3-phase magnetism" (the U, V, W stator coil positions), and a central 3-bladed spinning rotor labeled "spinning magnet" (the permanent magnet rotor). This is the most explicit and complete single-image encoding of the 3-phase AC generator mechanism: the 3-bladed spinning magnet rotates and sweeps past each of the 3 stator positions in sequence, inducing EMF with 120° phase offset — V_phase(t) = NBAω sin(ωt + φ_phase), φ_U/V/W = 0°/120°/240°. The red and blue ring color coding matches the companion schematics encoding the clockwise (red) and counterclockwise (blue) disc pair.

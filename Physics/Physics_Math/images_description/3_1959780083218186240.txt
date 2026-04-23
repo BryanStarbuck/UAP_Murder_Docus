@@ -1,0 +1,82 @@
+IMAGE DESCRIPTION: 3_1959780083218186240.jpg
+
+SHAPES AND ELEMENTS:
+* Rectangular landscape-format scientific/astronomical data visualization
+* Three side-by-side panels with a uniform dark red background border
+* Each panel shows a pixelated spatial intensity map (false-color) of the same region of space at three different infrared wavelength bands
+* X and Y axes are labeled in arcseconds (") relative to a central source at (0,0)
+* Color bars (colorbars) on the right side of each panel show intensity scales
+
+PANEL LAYOUT:
+* LEFT PANEL (green background label area):
+  * Title: "2.65 μm < λ < 3.6 μm" (mid-infrared, L-band / M-band range)
+  * Colorbar label: "I_ν (MJy sr⁻¹)" with range approximately -0.1 to 0.4
+  * Color map: green-yellow-white (high intensity) to dark (low) — a "gist_heat" or viridis-type colormap
+  * The spatial map shows: a diffuse positive flux region in the central area; faint structure; the central source is relatively faint in this band (low I_ν)
+  * Green dashed crosshair lines at (0,0) indicating the source position reference
+* MIDDLE PANEL (pink background label area):
+  * Title: "4.16 μm < λ < 4.37 μm" (mid-infrared, M-band; this range covers the CO₂ ice absorption band at 4.27 μm and the CO gas emission at 4.67 μm)
+  * Colorbar label: "log₁₀(I_ν) (MJy sr⁻¹)" with range approximately -2 to 0 (i.e., I_ν from 0.01 to 1 MJy/sr)
+  * Color map: white/yellow = highest intensity; orange; dark = lowest — "fire" or "inferno" colormap
+  * Note: the colorbar is in log scale (log₁₀) — the middle panel shows a MUCH brighter, more compact central source than the others
+  * The central source: a brilliant white-yellow saturated spot at the exact center (0,0), surrounded by a structured orange-red halo; this is clearly where the primary flux is concentrated in this wavelength band
+  * Green dashed crosshair at (0,0)
+  * This panel shows the peak emission — the source is brightest in the 4.16-4.37 μm range
+* RIGHT PANEL (pink background label area):
+  * Title: "λ = 4.72 μm" (a single wavelength at 4.72 μm, mid-infrared)
+  * Colorbar label: "I_ν (MJy sr⁻¹)" with range approximately -0.1 to 0.4 (linear scale, same as left panel)
+  * Color map: similar to left panel (green-yellow-white)
+  * The spatial map: similar to the left panel — diffuse structure, moderate flux
+  * Green dashed crosshair at (0,0)
+
+AXIS INFORMATION (all panels):
+* X-axis: labeled in arcseconds, range approximately -25 to +25 arcseconds (50 arcsecond total field of view)
+* Y-axis: labeled in arcseconds, range approximately -25 to +25 arcseconds
+* Pixel size: estimated ~2 arcseconds/pixel (very coarse angular resolution — consistent with a ground-based mid-infrared instrument or the Spitzer Space Telescope IRAC/MIPS instrument)
+* Field of view: 50" × 50" total
+
+THE ASTROPHYSICAL SOURCE:
+* The source shows peak emission at 4.16-4.37 μm (middle panel is log-scale brighter than the others)
+* The 4.16-4.37 μm range is highly significant:
+  * It covers the CO₂ ice absorption feature at 4.27 μm (present in icy mantles on interstellar dust grains)
+  * It covers CO gas emission at 4.67 μm (just outside but near the range)
+  * It is near the Brackett-α hydrogen recombination line at 4.05 μm
+  * In a cometary context: the 4.1-4.4 μm range shows strong CO₂+ emission (CO₂ cation fluorescence excited by solar UV) — a PRIMARY COMET SIGNATURE
+* Given the UAP physics context (Comet Holmes documents found in this research set): this is almost certainly MID-INFRARED SPECTRAL PHOTOMETRY OF COMET 17P/HOLMES during or after its outburst (October 2007)
+  * The three panels show Holmes at L-band (2.65-3.6 μm), M-band CO₂ emission window (4.16-4.37 μm), and a single line at 4.72 μm (possibly N₂O⁺ or CO gas emission)
+
+COLORS:
+* Background border: dark red
+* Left panel background: light green (label)
+* Middle panel background: light pink (label)
+* Right panel background: light pink (label)
+* Colormaps within panels: viridis/fire-type false color
+
+PHYSICS CONCEPTS:
+* MID-INFRARED SPECTROPHOTOMETRY:
+  * Mid-infrared (MIR) astronomy covers 2-20 μm; atmospheric windows: L-band (2.9-4.1 μm), M-band (4.4-5.0 μm), N-band (7.5-14 μm)
+  * The 4.16-4.37 μm window specifically targets: CO₂ ice absorption (ν₃ asymmetric stretch mode at 4.27 μm, band strength A = 7.6 × 10⁻¹⁷ cm molecule⁻¹), and CO₂ gas emission (ν₃ fundamental, same frequency)
+  * The log₁₀ scale colorbar in the middle panel indicates the source is many orders of magnitude brighter in the CO₂ band than in the adjacent bands — consistent with a cometary CO₂ outgassing spike
+* COMET 17P/HOLMES OUTBURST MIR SPECTROSCOPY:
+  * Post-outburst observations of Holmes showed: elevated CO₂, CO, and H₂O production rates; the CO₂/H₂O ratio was anomalously high compared to typical comets; this suggested the outburst originated from a CO₂ ice-rich sublayer exposed by a cliff collapse or impact event on the nucleus
+  * Published observations: Reach et al. (2010), Spitzer Space Telescope IRAC observations of Holmes post-outburst, found strong 4.5 μm emission (CO₂ + CO blend in Spitzer's Channel 2 band 4.0-5.0 μm)
+  * The pixel scale and field of view are consistent with Spitzer IRAC: pixel scale = 1.22 arcsec/pixel, field 5'×5' (but this image shows 50"×50" subset)
+* SPECIFIC INTENSITY I_ν (MJy/sr):
+  * I_ν is the specific intensity per unit frequency interval per steradian
+  * 1 MJy sr⁻¹ = 10⁶ Jy sr⁻¹ = 10⁶ × 10⁻²⁶ W Hz⁻¹ m⁻² sr⁻¹ = 10⁻²⁰ W Hz⁻¹ m⁻² sr⁻¹
+  * The spatial map of I_ν traces the surface brightness distribution of the cometary coma — where dust and gas are densest, I_ν is highest
+  * The radiative transfer equation in the coma: dI_ν/ds = -κ_ν ρ I_ν + j_ν, where κ_ν is the absorption coefficient, j_ν the emission coefficient; for a tenuous coma (κ_ν ρ ≪ 1): I_ν ≈ ∫j_ν ds (the line-of-sight emission integral)
+* ANGULAR RESOLUTION AND INSTRUMENT INFERENCE:
+  * At Comet Holmes distance ~1.6 AU during the 2007 outburst: 1 AU ≈ 1.5 × 10¹¹ m; at 1.6 AU distance, 1 arcsecond ≈ 1.5 × 10¹¹ / 206265 × 1.6 ≈ 1163 km on the sky
+  * The 50 arcsecond field of view = 50 × 1163 km ≈ 58,000 km — capturing the inner 58,000 km of the coma
+  * Spitzer IRAC pixel = 1.22 arcsec ≈ 1419 km/pixel at this distance
+
+SPATIAL RELATIONSHIPS:
+* Three panels: left-to-right, equal width, spanning the full image width
+* Each panel has a labeled background (left: green; middle and right: pink)
+* Each panel has a colorbar on its right edge
+* Central source (0,0): marked by green dashed crosshair in each panel
+* Middle panel: dramatically brighter central source (log scale, peak at center)
+
+HIGH-LEVEL SUMMARY:
+A three-panel mid-infrared spectrophotometric data visualization showing false-color spatial intensity maps (I_ν in MJy sr⁻¹) of an astrophysical source at three wavelength bands: 2.65-3.6 μm (L/M-band, left, linear scale, diffuse source), 4.16-4.37 μm (M-band CO₂ emission window, center, log₁₀ scale, brilliant compact source), and 4.72 μm (single wavelength, right, linear scale, diffuse). The source is dramatically brighter in the 4.16-4.37 μm CO₂ emission band (log-scale colorbar), with a brilliant white-yellow core at (0,0) surrounded by an orange halo in a 50"×50" field. Most likely identification in context: Spitzer IRAC mid-infrared observations of Comet 17P/Holmes following its October 2007 outburst, showing anomalously strong CO₂ band emission at 4.27 μm (ν₃ asymmetric stretch, A = 7.6×10⁻¹⁷ cm/molecule). Physics content: mid-infrared cometary spectrophotometry (I_ν per steradian, radiative transfer dI_ν/ds = j_ν in optically thin limit); CO₂/H₂O production rate ratios encoding outburst sublimation source; angular scale at 1.6 AU: 1" ≈ 1163 km on sky, 50" field = 58,000 km inner coma; Spitzer IRAC pixel scale 1.22"/px ≈ 1419 km/pixel; companion to images 3_1943447934302887936 and 3_1959780062506717184 in the Holmes outburst documentation series.

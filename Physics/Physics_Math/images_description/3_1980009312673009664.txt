@@ -1,0 +1,53 @@
+SHAPES:
+* Composite image (~960x680px) on white background showing a handwritten notebook scan (upper half) and a binary decoding reference chart (lower half)
+
+Upper portion — Handwritten notebook scan (~960x260px):
+* A scan of a handwritten/hand-drawn notebook page (similar to 3_1979658256785055744)
+* Multiple rows of hand-drawn BINARY SYMBOLS using the CJ/Wadley "Textpic" symbol system (from 3_1979658363890712577):
+  - Each symbol is one of four types: FILLED SQUARE, OUTLINE SQUARE, FILLED RECTANGLE (narrow/tall), OUTLINE RECTANGLE
+  - The rows show these four symbol types drawn in sequence — black pen on ruled notebook paper
+  - Approximately 8-10 rows of symbols visible
+  - A date annotation: "29 Oct 15" (meaning October 29, 2015) is partially visible in the lower-left of the notebook section
+  - Some rows are highlighted/boxed in different colors: BLUE BOX around upper rows, RED BOX around some rows, GREEN BOX around other rows — these color boxes correspond to the three binary code streams (Code 1/red, Code 2/blue, Code 3/green) from 3_1979658363890712577
+  - A horizontal line separates sections of the handwritten symbols
+
+Lower portion — Binary-to-letter reference chart:
+* A printed reference table showing the binary encoding for each letter A-Z using the CJ symbol system:
+  - Left column labels: "Normal binary code (squares and lines)"
+  - Below this: a vertical list of decoded letters: i, m, m, i, n, e, n, t, space
+  - Each letter is shown with its corresponding 8-bit binary code:
+    * i = 0110 1001 (highlighted in blue box)
+    * m = 0110 1101 (red box)
+    * m = 0110 1101 (green box)
+    * i = 0110 1001 (blue box)
+    * n = 0110 1110 (red box)
+    * e = 0110 0101 (green box)
+    * n = 0110 1110 (red box)
+    * t = 0111 0100 (blue box)
+    * space = 0010 0000 (green box)
+  - The decoded word reads: "i m m i n e n t" = "IMMINENT"
+  - The letter-to-binary reference table on the right side shows visual representations of each letter's binary encoding using the filled/outline square and rectangle symbols (matching the 4-symbol encoding system in 3_1979658363890712577)
+
+TEXT (verbatim, key):
+* Decoded word: "imminent" (spelled out letter by letter with 8-bit codes)
+* "Normal binary code (squares and lines)"
+* "29 Oct 15" (date annotation in notebook)
+* Letters in reference table: A through Z (full alphabet with visual binary representations)
+* Color box labels correspond to Codes 1 (red), 2 (blue), 3 (green)
+
+COLORS:
+* Notebook paper: cream with blue ruled lines
+* Symbols: black pen
+* Highlight boxes: blue, red, green (overlaid digitally on the scan)
+* Reference chart: white background, black text, gray alternating rows
+* Decoded letters and binary codes: black with colored box borders
+
+SPATIAL RELATIONSHIPS:
+* Upper half: handwritten notebook symbol rows with colored highlight boxes
+* Lower half: decoded letter list (left) and full A-Z binary reference table (right)
+
+PHYSICS CONCEPT:
+This document reveals that the "CJ Textpic" binary contact (October 29, 2015) decoded to the single word "IMMINENT" — spelled out letter by letter using the three-code 8-bit ASCII system documented in 3_1979658363890712577. The decoded word "imminent" in this context is interpreted as an ET warning: something is imminent. Combined with the "Textpic is from the future" message (3_1979658444144627712), the ASCII messages from May-December 2017 (3_1978951280388161536), and the physical binary notebook logs (3_1979658256785055744), this creates a chronological ET communication sequence: October 2015 "IMMINENT" → "Textpic is from the future" → May-December 2017 full ASCII message stream ("COUNSEL AGREED ON CHOSEN ONE DEPLOY / WARN DECODERS GUARD"). The single-word "IMMINENT" message is particularly significant in contactee narrative because: (1) It is the simplest possible message — one word — suggesting it was an early/test transmission; (2) "Imminent" refers to a near-future event or arrival; (3) Combined with the 2017 message "prepare to defend yourself / CHOSEN / DEPLOY," the overall communication sequence reads as a warning of an imminent event for which a chosen individual or group must prepare and deploy. RC's decoding methodology (applying the three-stream binary ASCII key to extract the word) demonstrates that the encoded symbols, when correctly parsed, yield grammatically valid English text — evidence for intentional information encoding rather than noise.
+
+HIGH-LEVEL SUMMARY:
+Composite image (~960x680px) documenting the decoding of the October 29, 2015 "CJ Textpic" binary contact. Upper half: handwritten notebook scan showing rows of the four-symbol binary code (filled squares, outline squares, filled rectangles, outline rectangles) with colored box overlays identifying the three binary streams (blue = Code 1, red = Code 2, green = Code 3). Lower half: decoded letter list showing i=01101001, m=01101101, m=01101101, i=01101001, n=01101110, e=01100101, n=01101110, t=01110100, space=00100000 — spelling "imminent" — plus the full A-Z binary reference table. The decoded single-word message "IMMINENT" (October 2015) is the first in the ET communication chain documented in this series, followed by the "Textpic is from the future!" message and the May-December 2017 ASCII stream.

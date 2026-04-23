@@ -1,0 +1,23 @@
+IMAGE DESCRIPTION: 3_1960140875830530048.jpg
+
+SHAPES AND ELEMENTS:
+* Identical in all respects to 3_1960138377036210176 — same dimensions, same pixel pattern, same color structure, same black masked corner
+* This appears to be a duplicate or a second copy of the same Spitzer IRAC mid-infrared false-color image of Comet 17P/Holmes
+
+CROSS-REFERENCE:
+* See full description in 3_1960138377036210176.txt for complete physics analysis
+* Key elements: blue-purple background; bright source (white-yellow core → orange → red → blue) centered at upper-left of frame; large black masked region with diagonal staircase boundary in lower-left; two small blue artifact pixels in the masked region
+* False-color colormap: jet/rainbow (blue = faint, white = bright)
+* Pixelated appearance consistent with Spitzer IRAC data at 1.22 arcsec/pixel
+
+DIFFERENCE FROM COMPANION:
+* No differences discernible from visual inspection — this is either:
+  1. An exact duplicate of the same file (posted twice to social media)
+  2. A slightly different observation epoch of the same comet/source (same apparent field, same position)
+  3. A different wavelength band processed with the same stretch parameters to appear identical
+
+PHYSICS:
+* See 3_1960138377036210176.txt for complete analysis: Spitzer IRAC PSF FWHM 1.66" at 3.6 μm (≈ 1930 km at Holmes distance 1.6 AU); cometary coma I(ρ) ∝ ρ^(-1) surface brightness; detector FoV mask producing the black staircase corner
+
+HIGH-LEVEL SUMMARY:
+A duplicate or near-identical copy of 3_1960138377036210176 — a false-color (jet colormap) Spitzer IRAC mid-infrared image of Comet 17P/Holmes inner coma with a compact bright source (white-yellow core, orange-red halo) against blue background, with a large black masked region (staircase boundary) in the lower-left corner. All physics content is identical to the companion image 3_1960138377036210176; refer to that description for full analysis.

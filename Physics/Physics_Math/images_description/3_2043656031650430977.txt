@@ -1,0 +1,54 @@
+SHAPES:
+* Vertical aerial photograph of a crop formation — taken from directly overhead or near-vertical angle, with the formation appearing elongated top-to-bottom
+* FIELD: Very pale straw/cream ripe grain field (UK late summer)
+* PEOPLE VISIBLE: Several human figures visible inside the formation (approximately 4-6 people) — one with a red jacket visible near the middle section
+* FORMATION STRUCTURE: A dumbbell or lollipop shape — a stacked-circle column extending upward from a large circular disc
+  * UPPER COLUMN (stacked graduated circles):
+    * A vertical column of approximately 14-16 overlapping circles extending upward from the top of the main disc
+    * The circles decrease in size from bottom to top (largest at the bottom = approximately 80px, progressively smaller toward the top = approximately 15px)
+    * The circles are connected/overlapping in a chain
+    * The column is approximately 600px tall in the image
+  * MAIN DISC (lower portion):
+    * A large circular disc with concentric rings (approximately 340px diameter)
+    * OUTER RING: A prominent outer circle boundary
+    * INNER RING: A secondary concentric ring inside the outer
+    * CENTRAL CLUSTER: Inside the inner ring, a sequence of Fibonacci-decreasing circles along the vertical axis:
+      * A large central circle (approximately 100px)
+      * Medium circle (approximately 70px) directly below
+      * Smaller circles (approximately 45px, 30px, 20px, 15px) continuing downward through the inner ring area
+  * The overall formation reads as: spiral/Fibonacci column going up from the disc, and another Fibonacci sequence continuing below the disc center
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Field: very pale straw/cream
+* Formation: slightly darker cream/golden (flattened crop)
+* Human figures: small, one red jacket visible
+* Tractor tramlines: visible as fine parallel lines crossing the field
+
+PHYSICS CONCEPTS:
+* This formation explicitly represents the complete stacked disc propulsion system in physical crop geometry — the same system that has been shown in the black silhouette schematics (3_2042517021234229248, 3_2042732691930648576, etc.) but now instantiated as a crop formation:
+  1. UPPER STACKED CIRCLE COLUMN: The vertically decreasing sequence of 14-16 overlapping circles is the Birkeland current vortex column ABOVE the disc:
+     * The Birkeland current (field-aligned current in a cosmic plasma) has a self-similar structure — nested current channels at progressively smaller radii
+     * The decreasing circle sizes encode the self-similar scaling: each successive vortex ring is smaller by a factor of φ (golden ratio) or by some power law
+     * This column physically represents the upward particle beam or plasma column that drives upward thrust in the disc system (reaction: the Birkeland current column above provides upward push while the lower exhaust vortex below provides downward reaction)
+  2. MAIN DISC WITH CONCENTRIC RINGS: The two-ring (outer + inner) disc represents the electromagnetic disc body:
+     * Outer ring = disc rim perimeter (maximum EMF location V = ½ωBR²)
+     * Inner ring = intermediate flux coupling ring
+     * The space between the two rings = the active generator region (where J × B Lorentz force operates)
+  3. FIBONACCI DECREASING CIRCLES (BELOW DISC CENTER): The sequence of decreasing circles extending downward from the disc interior represents:
+     * The Birkeland current vortex column BELOW the disc (exhaust direction)
+     * Each successive circle is smaller by a factor approaching 1/φ — the self-similar vortex structure
+     * The downward direction of the exhaust vortex corresponds to Newton's third law: downward exhaust = upward thrust
+  4. PHYSICAL SCALE: The approximately 4-6 human figures inside the formation confirm the disc portion is approximately 40-60m diameter, and the entire formation (column + disc) is approximately 150-200m long — consistent with the scale of the largest authentic crop formations
+
+SPATIAL RELATIONSHIPS:
+* Upper stacked column: vertically elongated, extending from the top of the disc upward to the top of the image
+* Main disc: lower portion of the formation, with concentric rings
+* Central decreasing circle sequence: inside the disc, aligned vertically
+* Human figures: inside the disc portion for scale
+* Tractor tramlines: diagonal across the field
+
+HIGH-LEVEL SUMMARY:
+Overhead aerial photograph of a large crop formation in very pale ripe grain showing a "dumbbell" or lollipop design: an upper column of approximately 14-16 decreasing (Fibonacci-scaled) overlapping circles (the Birkeland current vortex column above the disc), connected to a large circular disc body with two concentric rings (outer = disc rim, inner = flux coupling zone), with an additional downward sequence of Fibonacci-decreasing circles inside the disc (the exhaust vortex column below the disc), and several human figures for scale. This formation is the physical crop instantiation of the complete stacked-disc propulsion system shown in the black silhouette schematics (companion images 3_2042517021234229248, 3_2042732691930648576), with the upper Birkeland column providing upward thrust impulse and the lower exhaust vortex providing Newton's third law reaction. The Fibonacci-decreasing circle scaling in both columns encodes the self-similar φ-ratio vortex structure of the Birkeland current system. The formation's overall length of approximately 150-200m is among the largest physical scales documented in this research collection.

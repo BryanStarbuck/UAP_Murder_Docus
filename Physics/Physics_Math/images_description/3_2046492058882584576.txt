@@ -1,0 +1,61 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side, combining elements from two distinct companion variants:
+  * From companion 3_2046491997440233472: "up" at top, "down" at lower interior, blue highlights on inner ring, upper brush contact, and central concentric rings
+  * From companion 3_2045638055244255232: green dashed connector lines linking the left side-view to the right plan-view diagram
+* LEFT DIAGRAM (side-view): Identical to companion 3_2046491997440233472:
+  * Large outer RED ring (~380px diameter)
+  * Inner BLUE/CYAN ring (~280px diameter) — rendered as blue outline (not solid fill)
+  * Main large BLACK disc/flywheel
+  * Upper smaller black disc element above
+  * Small RED disc element (upper brush contact position) above inner blue ring
+  * Decreasing circle chain below (4–5 circles, ~40–20px)
+  * Four green dashed X-pattern quadrant dividers inside blue ring (PRESENT in this variant, unlike companion 3_2046491997440233472 which appears to lack them)
+  * Four red "N" labels at quadrant outer positions
+  * One large cyan "S" label at center of inner disc
+* RIGHT DIAGRAM (plan-view): Identical to companion 3_2046491997440233472 in label positions and blue highlights:
+  * Outer graduated circle ring (~20–24 circles)
+  * Red circle arc inside outer ring
+  * Blue dotted inner arc
+  * Central 3-ring concentric element — outer rings rendered in BLUE outline
+  * Upper connecting element: BLUE-outlined circle at top
+  * Decreasing circle chain below central element
+  * "up" label (green, upper position)
+  * "down" label (green, lower interior position)
+* NEW ELEMENT — GREEN DASHED CONNECTOR LINES (same as companion 3_2045638055244255232 but in GREEN, not red/cyan):
+  * Two green dashed lines extending from the left side-view diagram to the right plan-view diagram
+  * Upper green dashed connector: from the small red/blue disc element in the left side-view (upper brush contact area) diagonally to the upper BLUE brush contact circle of the right plan-view
+  * Lower green dashed connector: from the cyan "S" inner disc region of the left diagram diagonally to the central BLUE concentric bull's-eye of the right plan-view
+  * Both connector lines are GREEN (not the red+cyan color coding of companion 3_2045638055244255232)
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram at outer quadrant positions)
+* "S" (cyan/blue, large, inside the central disc of left diagram)
+* "up" (green, upper position of right diagram)
+* "down" (green, lower interior position of right diagram)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring (left): red
+* Inner ring (left): blue/cyan outline
+* Upper brush contact (right): blue outline
+* Central concentric outer rings (right): blue outline
+* Connector lines: green dashed (both, replacing the red/cyan of companion 3_2045638055244255232)
+* Quadrant dashed lines (left): green
+* Directional labels: green
+
+PHYSICS CONCEPTS:
+* This image is a synthesis variant combining: (1) the reversed up/down directional labels and blue inner element highlighting from companion 3_2046491997440233472, plus (2) the cross-reference connector lines from companion 3_2045638055244255232. By rendering both connector lines in green (matching the directional labels and quadrant lines), this variant unifies all green annotations into one consistent color — emphasizing that the green color encodes MOTION or DIRECTION (upward, downward, and the correspondence pathways between views).
+* The green connector lines in this variant point specifically at the BLUE (inner South-polarity) elements — confirming that the cross-reference is highlighting the trajectory of the inner spinning magnet as it rises ("up") in Step 2, and specifically connecting the inner element's SIDE-VIEW position to its PLAN-VIEW position.
+* PHYSICS: Inner magnet in rising/level position → upper brush contact is blue (connected to inner S element) → net thrust is downward or preparatory phase → next transition will be to Step 1 (magnet precesses below, thrust becomes upward). See companions 3_2046491997440233472 and 3_2045638035229024256 for the full two-phase description.
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view, left half of image
+* Right diagram: plan-view, right half of image
+* Upper green dashed connector: diagonal from left diagram upper area to right diagram upper blue brush contact
+* Lower green dashed connector: diagonal from left diagram center to right diagram central blue concentric
+* "up" label: top of right diagram
+* "down" label: lower interior of right diagram
+
+HIGH-LEVEL SUMMARY:
+Synthesis variant combining the blue inner-element highlighting and reversed "up"/"down" directional labels of companion 3_2046491997440233472 with the cross-reference connector lines of companion 3_2045638055244255232, rendered entirely in green (not red/cyan). The dual green dashed connectors point specifically at the blue (inner South-polarity) elements in the plan-view, reinforcing the cross-reference: the blue inner disc in the side-view IS the blue concentric bull's-eye in the plan-view, both in the rising/level position (Step 2: "up" at top, "down" at lower interior). Together with the Step 1 companion (3_2045638035229024256 / 3_2045805312217849856), this image completes the two-phase oscillatory thrust cycle description with explicit view-correspondence annotations.

@@ -1,0 +1,85 @@
+IMAGE DESCRIPTION: 3_2006484721119932418.jpg
+
+NOTE: This image appears to be a duplicate or very similar version of 3_2004779291746435072 (the homopolar generator top-down diagram).
+
+SHAPES AND ELEMENTS:
+* Black-and-white technical diagram on white background
+* A large outer circle (radius R₂) with thick black outline
+* A smaller concentric inner circle (radius R₁) with thick black outline, offset slightly from the center
+* Multiple concentric arcs between R₁ and R₂, with arrows indicating current flow direction
+* Five ⊗ symbols (circle with X) in a horizontal row outside the right edge of the outer circle, labeled "voltage taps"
+* Two labeled radii: "R₁" (pointing outward from center of inner circle) and "R₂" (pointing from outer rim inward)
+* Two current labels: "I_in" (upper-left, with arrow pointing downward into the disc) and "I_out" (lower-center, with two arrows pointing outward/downward from the disc)
+
+OUTER CIRCLE (R₂):
+* Large circle, approximately 90% of image width
+* Thick black outline
+* This represents the outer rim/edge of the homopolar generator disc
+
+INNER CIRCLE (R₁):
+* Smaller concentric circle, positioned at the center-right area of the outer circle
+* Thick black outline
+* Represents the inner shaft/spindle contact of the homopolar generator
+
+CONCENTRIC ARCS (current streamlines):
+* Approximately 4-5 concentric curved arcs between R₁ and R₂
+* All arcs are curved and spiraling (not perfect circles) — they spiral from the upper-left arc region down and inward
+* Each arc has a downward-pointing arrow indicating the direction of current flow (from outer rim toward inner shaft, or vice versa depending on rotation polarity)
+* The spiral shape of the arcs indicates that the current does not flow purely radially — there is a rotational component (consistent with a spinning disc in a magnetic field, where the Lorentz force has both radial and azimuthal components)
+
+VOLTAGE TAPS (⊗ symbols):
+* Five symbols arranged horizontally to the right of the outer circle boundary
+* Each ⊗ = a circle with an X inscribed (represents a conductor going into the page — tail of an arrow)
+* These are the "voltage tap" connection points — external contacts that extract the EMF generated between R₁ and R₂
+* Bracket/line connects the five symbols to the outer circle rim, labeled "voltage taps"
+
+CURRENT LABELS:
+* "I_in" — upper-left, with downward arrow pointing into the disc: this is the input current entering the disc
+* "I_out" — lower-center, with two arrows pointing outward: this is the output current leaving through the outer rim
+
+COLORS:
+* Background: white
+* All elements: black
+
+TEXT:
+* "R₁" — label for inner circle radius
+* "R₂" — label for outer circle radius
+* "voltage taps" — label for the ⊗ symbol row
+* "I_in" — input current label
+* "I_out" — output current label
+
+PHYSICS CONCEPTS:
+* HOMOPOLAR GENERATOR (FARADAY DISC):
+  * This diagram is a top-down (plan) view of a homopolar generator (also called a Faraday disc or unipolar generator)
+  * The disc rotates in a uniform magnetic field B (perpendicular to the disc — into or out of the page)
+  * The Lorentz force on charge carriers in the rotating disc: F = qv × B
+    * v = ωr (tangential velocity at radius r)
+    * B = uniform axial field
+    * F = q(ωr)B directed radially outward (for appropriate polarity)
+  * The EMF generated: ε = ∫_{R₁}^{R₂} (ω × r) × B · dr = ½ω B (R₂² − R₁²)
+  * The current streamlines (concentric arcs with arrows) show the actual path of current in the rotating conductor — the spiral shape arises because the current must flow both radially (under the EMF) and azimuthally (due to the finite conductivity and the disc's rotation)
+* VOLTAGE TAPS:
+  * The ⊗ symbols (conductor into page) represent brush contacts that extract voltage between the inner shaft and outer rim
+  * Multiple taps can be connected in series or parallel to increase voltage or current output
+  * In the DePalma N-Machine and Searl Effect Generator (related devices), these voltage tap arrangements are central to the claimed "overunity" output
+* COMPARISON WITH 3_2004779291746435072:
+  * This image appears to be VERY similar or identical to 3_2004779291746435072 (the earlier homopolar generator diagram in this collection)
+  * KEY DIFFERENCES VISIBLE: this version has I_in/I_out arrows and the spiral (non-circular) arc streamlines more prominently shown; the earlier version had similar elements but may differ in exact details
+  * If these are the same diagram: this is a duplicate — see 3_2004779291746435072 for the primary description
+  * If they differ: the spiral arc streamlines in this version more accurately represent actual current flow in a rotating conductor (the Hall effect generates a circumferential component)
+* HALL EFFECT IN ROTATING CONDUCTOR:
+  * In a conductor rotating in B field: free charges experience F = q(v × B) + qE_Hall
+  * At steady state: radial E_Hall = ωrB (Hall field)
+  * Actual current flow has a circumferential component proportional to σ_Hall/σ_Drude ratio
+  * The spiral arcs encode this non-radial current geometry
+
+SPATIAL RELATIONSHIPS:
+* Outer circle (R₂): full image boundary element
+* Inner circle (R₁): center-right of outer circle
+* Concentric spiral arcs: filling the annular region between R₁ and R₂
+* ⊗ voltage taps: to the right, outside the outer circle
+* I_in label: upper-left
+* I_out label: lower-center
+
+HIGH-LEVEL SUMMARY:
+A black-and-white top-down technical diagram of a homopolar generator (Faraday disc), showing: outer circle (R₂, rim contact), inner circle (R₁, shaft contact), multiple spiral concentric arcs (current streamlines with arrows showing radially-inward current flow), five ⊗ voltage-tap contacts outside the right rim, and I_in/I_out labels for input/output currents. The diagram appears very similar or identical to 3_2004779291746435072. Physics: the spiral arc geometry (rather than purely radial arcs) reflects the Hall effect component in a rotating conductor — the EMF is ε = ½ωB(R₂²−R₁²) while the actual current streamlines acquire an azimuthal component from the circumferential Hall field. The voltage tap arrangement (multiple ⊗ contacts at the rim) relates to the DePalma N-Machine and Searl Effect Generator claims of anomalous power output in homopolar configurations.

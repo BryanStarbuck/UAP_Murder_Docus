@@ -1,0 +1,55 @@
+IMAGE DESCRIPTION: 3_1960837063970025472.jpg
+
+SHAPES AND ELEMENTS:
+* Wide rectangular (landscape) false-color astronomical image using a COLD/INVERTED colormap — white = faint background, dark/black = bright source
+* This is the INVERTED COLOR version of the same data shown in 3_1960837046945374212 (hot colormap), or a companion cold-colormap image of the same coma
+* Background: pure white at far left and right edges (brightest, lowest signal regions)
+* Outer coma: bright cyan/turquoise (high contrast transition zone)
+* Mid-coma: medium-blue → dark blue toward center
+* Core region: near-black (highest intensity = darkest in cold colormap)
+* The nucleus position appears as the darkest point, approximately center-left of the image
+* The coma is horizontally elongated (wider than tall), matching the same 2:1 aspect ratio as 3_1960837046945374212
+* Irregular structures are visible in the cyan outer region — blobs and bumps corresponding to the irregular bright structures in the hot colormap companion
+* A gradient or tail-like extension may be visible toward the right (cyan extending further right than left)
+
+COLORS:
+* Far edges (background): white
+* Outer coma zone: bright cyan/turquoise
+* Mid-coma: medium blue → dark blue
+* Core (nucleus): near-black
+* Color sequence from center outward: black → dark blue → blue → cyan → white
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* COLD COLORMAP COMPANION TO 3_1960837046945374212:
+  * This is the cold/inverted colormap version of the same coma observation shown with hot colormap in 3_1960837046945374212
+  * Cold colormap: high intensity → dark (blue/black); low intensity → bright (white/cyan)
+  * This is the complement of 3_1960763865081450496 (square cold colormap) applied to the wider rectangular field
+  * The cold colormap emphasizes:
+    * Extended low-surface-brightness coma structure (bright cyan and white regions)
+    * The exact boundary where the coma emission drops to sky level (transition to white)
+    * Subtle asymmetries and extensions in the outer coma
+* COMPARISON WITH 3_1960763865081450496 (square cold colormap):
+  * Both use cold colormaps with dark nucleus and bright outer regions
+  * 3_1960763865081450496 has a green outer region (different colormap) and square central blob
+  * This image has white outer region and cyan/blue intermediate zone (slightly different cold colormap variant)
+  * Together they show the same underlying data (or same object at same epoch) with different display choices
+* TAIL MORPHOLOGY AND RADIATION PRESSURE PARAMETER:
+  * If the cyan emission extends further to one side (tail direction), this constrains:
+    * β = F_rad/F_grav = radiation pressure parameter for the dominant grain size
+    * β = Q_pr × (1.19×10⁻³) / (ρ × a) where ρ = grain density (g cm⁻³), a = grain radius (cm)
+    * Typical β values: 0.001 (large grains) to 10 (sub-micron grains)
+  * The syndyne envelope at a given β constrains the grain size; the synchrone at a given ejection time constrains when the grains were ejected
+* LOW-SURFACE-BRIGHTNESS STRUCTURE:
+  * The cold colormap is the standard display choice for revealing extended low-surface-brightness emission
+  * Astronomers use this to identify: outer coma extent, tail morphology, disconnection events, halos
+
+SPATIAL RELATIONSHIPS:
+* Dark nucleus: center-left of image
+* Blue/dark-blue inner coma: surrounding nucleus, approximately circular
+* Cyan outer coma: wider, horizontally elongated, with possible right-side extension
+* White background: far left and right edges
+
+HIGH-LEVEL SUMMARY:
+A wide rectangular (landscape, ~2:1 aspect) false-color cold/inverted colormap cometary coma image — the visual inverse of 3_1960837046945374212. Cold colormap: near-black nucleus (highest intensity) → dark blue → cyan → white background (lowest intensity). The cold colormap reveals extended low-surface-brightness coma structure and potential tail morphology (possible right-side extension). Irregular blobs in the cyan zone correspond to the discrete jet structures seen in the hot colormap companion. Physics: cold colormap for low-surface-brightness structure, radiation pressure parameter β = Q_pr/(ρa) × 1.19×10⁻³, syndyne/synchrone analysis for grain size and ejection timing, tail morphology, outer coma extent. Part of the 3I/ATLAS interstellar comet imaging series.

@@ -1,0 +1,61 @@
+IMAGE DESCRIPTION: 3_1961228360580993025.jpg
+
+SHAPES AND ELEMENTS:
+* Scientific scatter plot from an academic publication
+* Title: "Nickel Production Rates vs. Heliocentric Distance / Comparison with Solar System and Interstellar Comets"
+* White background with grey grid lines
+* X-axis: "Heliocentric Distance (AU)" — right to left (decreasing distance, i.e., increasing approach to Sun): range from ~0.5 AU to ~4.5 AU
+* Y-axis (left): "log [Q(Ni)] (atoms s⁻¹)" — range from ~20.5 to ~24.0
+* Y-axis (right): "Surface Temperature (K)" — range from ~20 K to ~500 K
+* Blue diagonal oval annotation encircling the cluster of blue data points at heliocentric distance ~3-4 AU
+
+DATA SERIES (per legend):
+* Blue filled circles (dark blue): "3I/ATLAS (XShooter)" — multiple data points at heliocentric distance ~3-4 AU, log Q ~21.5-23.0
+* Blue filled circles (light blue): "3I/ATLAS (UVES)" — overlapping with dark blue at same distances
+* Solid black line: "Weighted fit: Q ∝ r⁻⁰·⁴³±⁰·⁷⁹"
+* Dashed black line: "Unweighted fit: Q ∝ r⁻⁰·⁰⁹±⁰·⁷⁹"
+* Green filled squares: "Interstellar objects" — specifically labeled: "2I/Borisov (Guzik+21)" at ~2.0 AU and "2I/Borisov (Opitom+21)" at ~2.0 AU
+* Red filled circles: "Jupiter-family comets (Manfroid+21)" — scattered from ~0.5 to ~2.5 AU
+* Yellow triangles (open): "Oort cloud comets (Manfroid+21)" — scattered from ~0.5 to ~3.5 AU with one outlier
+* Pink/salmon pentagons: "Halley Family comets (period <200 yr; Manfroid+21)" — at ~1.0-2.8 AU
+* Black diamond: "External comets (semi-major axis > 1e4 AU; Manfroid+21)" — at ~1.0 AU
+* Pink diagonal line: "T(r_h) scaled to 2000 K at 3 AU"
+
+LABELED DATA POINTS:
+* "C/1996 B2 Hyakutake (Hutsemékers+21)" — yellow triangle at ~1.0 AU, log Q ~22.7
+* "46P/Wirtanen (Hutsemékers+21)" — red circle at ~1.0 AU, log Q ~21.0
+* "2I/Borisov (Guzik+21)" — green square at ~2.0 AU, log Q ~22.0
+* "2I/Borisov (Opitom+21)" — green square at ~2.0 AU, log Q ~21.9
+* The 3I/ATLAS data cluster (blue oval) is at ~3-4 AU
+
+ANNOTATIONS:
+* Blue oval drawn around the 3I/ATLAS data cluster — highlighting the main dataset being analyzed
+
+COLORS:
+* Blue (two shades): 3I/ATLAS data (the primary subject)
+* Green: interstellar objects (2I/Borisov)
+* Red: Jupiter-family comets
+* Yellow: Oort cloud comets
+* Pink/salmon: Halley-family comets
+* Black: external comets
+* Pink diagonal line: temperature scale
+* Black: axis labels, title, fit lines
+
+PHYSICS / INFORMATION CONCEPTS:
+* 3I/ATLAS — THIRD INTERSTELLAR OBJECT:
+  * This plot documents the NICKEL (Ni) production rate Q(Ni) of the newly discovered interstellar object "3I/ATLAS"
+  * 3I/ATLAS is the third known interstellar object (following 1I/ʻOumuamua and 2I/Borisov) — it was discovered by the ATLAS survey at heliocentric distances of ~3-4 AU in 2024-2025
+  * "3I" designation = third interstellar object confirmed by the IAU
+  * The nickel (Ni) spectral feature was discovered in solar system comets by Manfroid et al. 2021 (Nature) — atomic nickel emission lines in the visible (Ni I lines at 336, 338, 341, 346, 352 nm) were detected even at temperatures well above nickel's condensation temperature, suggesting a photodissociation pathway from an unknown Ni-bearing precursor molecule
+  * Q(Ni) = nickel production rate in atoms s⁻¹; the log scale spans ~20.5 to 24.0 = 3.5 orders of magnitude
+  * The 3I/ATLAS data cluster (blue oval) is at ~3-4 AU — the object was already producing nickel at large heliocentric distances, unlike typical solar system comets
+  * The power-law fit Q ∝ r⁻⁰·⁴³ is much shallower than the expected Q ∝ r⁻² from pure solar radiation-driven sublimation — suggesting: (a) an unusually large nucleus, (b) a different composition, or (c) an active energy source independent of solar radiation
+  * The 2I/Borisov comparison (green squares at ~2 AU) shows similar Ni production rates to solar system comets at that distance
+  * 3I/ATLAS Ni production at 3-4 AU appears to match or exceed solar system comets at 1-2 AU — anomalously high activity for a distant object
+* UAP PHYSICS CONTEXT:
+  * The discovery of 3I/ATLAS renewed discussion of ʻOumuamua's anomalous acceleration and the "interstellar artifact" hypothesis (Loeb, Avi et al. 2021, 2023)
+  * If 3I/ATLAS shows anomalous Ni production at large heliocentric distances, it could indicate a non-standard energy source (e.g., internal radioactive heating, or active energy generation)
+  * Interstellar objects with anomalous properties are directly relevant to the UAP physics thesis that non-human intelligence may deploy "probes" in the solar system
+
+HIGH-LEVEL SUMMARY:
+Scientific scatter plot from a 2024-2025 academic paper: "Nickel Production Rates vs. Heliocentric Distance — Comparison with Solar System and Interstellar Comets." Y-axis: log Q(Ni) in atoms s⁻¹ (20.5-24.0); X-axis: heliocentric distance AU (0.5-4.5). Primary subject: 3I/ATLAS (third interstellar object, blue data points clustered at 3-4 AU, circled by blue oval). Key finding: 3I/ATLAS Ni production rates at 3-4 AU are anomalously high compared to solar system comets (which produce comparable Ni rates only at 1-2 AU). The shallow power-law fit (Q ∝ r⁻⁰·⁴³) suggests non-standard activity — either an unusually large nucleus or non-solar energy input. Comparison objects include 2I/Borisov (green), Jupiter-family comets (red), Oort cloud comets (yellow), and Hyakutake/Wirtanen (labeled). The anomalous Ni production rate of 3I/ATLAS is directly relevant to the interstellar artifact hypothesis.

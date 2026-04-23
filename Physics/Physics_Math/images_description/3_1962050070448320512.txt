@@ -1,0 +1,41 @@
+IMAGE DESCRIPTION: 3_1962050070448320512.png
+
+SHAPES AND ELEMENTS:
+* 3D ball-and-stick molecular model on a white background
+* The model is rendered in 3D perspective (slight tilt showing depth)
+
+MOLECULAR GEOMETRY:
+* Central atom: blue-grey sphere — the metal center of a coordination complex
+* 4 ligand arms extending in two planes:
+  * 2 arms in the horizontal plane (left and right), slightly tilted to show depth
+  * 2 arms in the vertical plane (up and down), or slightly out of plane
+  * The arrangement is OCTAHEDRAL with 4 of 6 positions occupied, or SQUARE PLANAR
+* Each arm consists of:
+  * A dark grey sphere (carbon atom of CN ligand)
+  * A blue sphere at the terminus (nitrogen atom of CN ligand)
+* The overall geometry: 4 ligands arranged at approximately 90° intervals
+
+COMPARISON TO 3_1961353805733511169.png:
+* This model appears to be the same molecular type (tetracyanometal complex) but rendered with:
+  * A different (blue-grey) central atom color (vs. green in 3_1961353805733511169)
+  * A slightly different 3D viewing angle showing depth perspective
+  * The ligands appear at slightly different angles due to the perspective
+* This could be [Ni(CN)₄]²⁻, [Pd(CN)₄]²⁻, or a similar d⁸ square planar complex
+
+COLORS:
+* Blue-grey (steel blue): central metal atom
+* Dark grey: carbon atoms of CN ligands
+* Blue (bright): nitrogen atoms at ligand termini
+* White: background
+
+PHYSICS / INFORMATION CONCEPTS:
+* SAME MOLECULAR CLASS as 3_1961353805733511169 — tetracyanometal(II) square planar complex
+* The blue-grey central atom suggests a different metal than the green-atom version:
+  * Blue-grey coloring in common molecular viewers: often used for Ni, Co, or Fe
+  * Or the same molecule rendered in a different molecular visualization software with a different default color scheme
+* The 3D perspective view (vs. flat 2D view in 3_1961353805733511169) reveals the square planar geometry more clearly as a true D₄h point group symmetry
+* The C≡N bond lengths, M-C bond lengths, and crystal field splitting are identical to 3_1961353805733511169
+* This may be a different view of tetracyanonickelate(II) [Ni(CN)₄]²⁻ included for comparative visualization
+
+HIGH-LEVEL SUMMARY:
+3D perspective ball-and-stick model of a tetracyanometal(II) square planar complex [M(CN)₄]²⁻ (likely [Ni(CN)₄]²⁻ or [Pd(CN)₄]²⁻): blue-grey central metal atom with four cyanide ligands (dark grey C + blue N) at approximately 90° intervals in D₄h symmetry, rendered in perspective to show 3D depth. Same molecular class as 3_1961353805733511169 but with different metal atom coloring (blue-grey vs. green) and a 3D perspective view. Related to the 3I/ATLAS Ni production rate context (3_1961228360580993025).

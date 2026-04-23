@@ -1,0 +1,31 @@
+IMAGE DESCRIPTION: 3_1960890948776550404.jpg
+
+SHAPES AND ELEMENTS:
+* Widescreen (approximately 2:1 aspect ratio) astronomical image in inverted cyan-white color table
+* No pixelation — smooth appearance (same smoothing as 3_1960890899128573961)
+* No data-coverage boundary — frame fully filled with data
+* Central compact source: black core (= maximum flux, inverted to dark) at image center
+* Inner zone: dark navy blue surrounding the black core
+* Middle zone: bright cyan-blue, the dominant color of the image
+* Outer zone: white/near-white at the very edges and corners
+* Background: white (inverted — minimum flux appears white)
+* Irregular cyan blobs at left and right edges
+
+COLORS:
+* Black: core (maximum emission, inverted to dark)
+* Dark navy blue: inner transition zone
+* Bright cyan: main halo zone
+* White: outer background and frame edges (minimum emission, inverted to white)
+
+PHYSICS / INFORMATION CONCEPTS:
+* INVERTED version of 3_1960890899128573961: same smooth comet coma data but with inverted cyan color table
+* The black core = same feature as the white-yellow core in the non-inverted version (3_1960890899128573961)
+* The white outer background = same feature as the black sky in the non-inverted version
+* The cyan zone = the same red halo zone in the non-inverted version
+* Inverted color tables are used in astronomical image analysis to make faint extended structure more visible (human visual system detects dark features on light backgrounds with higher contrast sensitivity)
+* The irregular cyan blobs at edges confirm the background sources seen as red blobs in 3_1960890899128573961
+* This is a companion image to 3_1960890899128573961 — same data, same smoothing, inverted color table
+* See 3_1960123627871027200 for full physical analysis of the Comet 17P/Holmes 2007 coma
+
+HIGH-LEVEL SUMMARY:
+Smooth widescreen comet coma in inverted cyan-white color table: black core (maximum emission), dark navy inner zone, bright cyan halo, white outer background. Inverted companion to 3_1960890899128573961 (same data, hot color table). The inverted representation enhances detection of faint extended coma structure for morphological analysis. For primary physical analysis see 3_1960123627871027200.

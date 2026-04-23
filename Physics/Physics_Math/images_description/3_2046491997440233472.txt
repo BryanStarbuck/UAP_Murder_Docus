@@ -1,0 +1,72 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side with magnetic pole labels and directional text labels in REVERSED positions relative to companion 3_2045638035229024256
+* This image is a variant of the N/S-labeled dual disc composite series with modified inner ring color and REVERSED "up"/"down" label positions
+* LEFT DIAGRAM (side-view): Structurally similar to companion variants but with modified inner ring:
+  * Large outer RED ring (~380px diameter)
+  * Inner BLUE/CYAN ring (~280px diameter) — appears with a BLUE OUTLINE (not solid fill) rather than the solid blue interior of the standard variant; the inner ring is rendered as a thick cyan circle outline
+  * Main large BLACK disc/flywheel (crescent-like in side view)
+  * Upper smaller black disc element above (approximately 60px)
+  * The small RED disc element above the inner blue ring (upper brush contact position) — visible as a solid red circle
+  * Decreasing circle chain below (4–5 circles, ~40–20px)
+  * Four green dashed lines forming X-pattern quadrant dividers inside the blue ring
+  * Four red "N" labels at the four quadrant outer positions
+  * One large cyan "S" label at center of inner disc (~50px font)
+* RIGHT DIAGRAM (plan-view) with REVERSED directional text labels:
+  * Outer graduated circle ring (~20–24 black circles, ~350px outer diameter)
+  * Red circle arc (~250px diameter) inside the outer ring
+  * Blue dotted inner arc (~200px diameter)
+  * Central 3-ring concentric element — rendered with BLUE outline only (not solid black/red) at the outer two rings; central dot present
+  * Upper connecting element: BLUE-outlined circle (~30px) at top — the upper brush contact is rendered in BLUE (not red as in other variants)
+  * Decreasing circle chain below central element (4–5 circles, 20–8px)
+  * "up" label (green text, approximately 30px, at the UPPER position of the right diagram — above the upper blue brush contact)
+  * "down" label (green text, approximately 30px, INSIDE the right diagram — below the central concentric, at the lower interior position)
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram at outer quadrant positions)
+* "S" (cyan/blue, large, inside the central disc of left diagram)
+* "up" (green, UPPER position of right diagram — above brush contact)
+* "down" (green, LOWER interior position of right diagram — below central concentric)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring (left): red
+* Inner ring (left): blue/cyan (outline only, not solid fill)
+* Upper brush contact (right): blue (not red as in other variants)
+* Central concentric outer rings (right): blue (not solid black)
+* Pole labels: "N" red, "S" cyan
+* Quadrant dashed lines: green
+* Directional labels: green
+* Outer perimeter circle ring (right): black
+* Red arc (right): red
+* Blue dotted arc (right): cyan dashed
+
+PHYSICS CONCEPTS:
+* This variant introduces two significant changes from companion 3_2045638035229024256 (the "down"/"up" variant):
+  1. REVERSED "up"/"down" POSITIONS:
+     * Companion 3_2045638035229024256: "down" at top, "up" at lower interior
+     * THIS IMAGE: "up" at top, "down" at lower interior
+     * This reversal encodes the OPPOSITE PHASE of the oscillatory thrust cycle. Companion 3_2045638035229024256 encoded the "magnet below flywheel" configuration (Step 1: inner magnet precesses below → top connector moves down, disc thrust is up). This image encodes the "magnet above flywheel" configuration (Step 2: inner magnet rises above → top connector moves up, but disc thrust is now down — or represents the initial starting position before gyroscopic precession begins). Together the two variants (3_2045638035229024256 and this image) represent the two half-cycles of the oscillatory Step 1 → Step 2 thrust mechanism:
+       * Step 2 (this image, "up" at top): Inner magnet in level or above-center position; upper connector extends upward; lower interior of disc shows downward momentum component
+       * Step 1 (companion 3_2045638035229024256, "down" at top): Inner magnet precessed below center; upper connector pushed down; lower interior shows upward net thrust
+  2. BLUE RENDERING OF UPPER BRUSH CONTACT AND INNER CONCENTRIC RINGS:
+     * In other variants, the upper brush contact circle is rendered in RED (matching the outer red flywheel it contacts)
+     * In this image, the upper brush contact is rendered in BLUE (matching the inner South-polarity element)
+     * This color reassignment indicates that in the "up" configuration (Step 2 / starting position), the upper brush contact is ELECTRICALLY CONNECTED TO THE INNER ELEMENT (the blue S-polarity spinning magnet) rather than to the outer red flywheel
+     * This encodes the commutation switching: as the inner magnet rises to the "up" position, the electrical connection at the top switches from the outer ring to the inner element — consistent with a homopolar generator switching circuit or a brush commutation event
+  3. COMBINED READING (this image + 3_2045638035229024256): The two "directional label" variants together provide the complete one-cycle description of the oscillatory thrust mechanism:
+     * THIS IMAGE ("up" at top): Inner magnet in starting/rising position; upper brush contacts inner element (blue)
+     * COMPANION ("down" at top): Inner magnet in precessed-below position; upper brush contacts outer element (red); net upward thrust generated
+     * The cycle repeats with each half-oscillation generating net positive thrust in the upward direction (since the upward impulse during the "down" phase exceeds the downward impulse during the "up" phase due to gyroscopic symmetry breaking)
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view, left half of image (~45% width)
+* Right diagram: plan-view, right half of image (~55% width)
+* "up" label: UPPER position of right diagram (above blue brush contact)
+* "down" label: LOWER interior position of right diagram (below central concentric)
+* N labels: four, outer quadrant positions of left diagram red ring
+* S label: center of left diagram inner disc
+* Blue color highlights: upper brush contact (right), inner concentric outer rings (right), inner ring outline (left)
+
+HIGH-LEVEL SUMMARY:
+Variant of the N/S pole-labeled dual disc composite with REVERSED directional labels relative to companion 3_2045638035229024256: "up" at the top of the right plan-view (above the brush contact, which is now rendered in BLUE rather than red) and "down" at the lower interior. The reversal encodes Step 2 of the oscillatory thrust cycle — the inner magnet in the level/rising configuration (before gyroscopic precession drives it below center), when the upper brush contact is electrically coupled to the inner South-polarity element (blue). Together with companion 3_2045638035229024256 (Step 1: "down" at top, brush contact in red/outer mode), this image completes the two-phase oscillatory description: Step 2 (up-top/blue-brush) → Step 1 (down-top/red-brush) → Step 2 ... with net positive upward thrust produced per complete cycle by gyroscopic symmetry breaking (F_up during Step 1 > F_down during Step 2).

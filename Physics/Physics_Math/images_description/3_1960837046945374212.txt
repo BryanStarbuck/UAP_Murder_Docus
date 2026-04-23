@@ -1,0 +1,59 @@
+IMAGE DESCRIPTION: 3_1960837046945374212.jpg
+
+SHAPES AND ELEMENTS:
+* Wide rectangular (landscape) false-color astronomical image — new colormap variant
+* Background: solid black (no data regions on left, right edges)
+* Central source dominates the frame: bright white nucleus → yellow → orange → red, filling most of the vertical extent
+* The coma/emission region is very wide horizontally (approximately 80% of image width) but occupies the full vertical height
+* This is a RECTANGULAR (not square) image, wider than tall — different aspect ratio from companion images
+* The outer extremities (left, right) fade into black background
+* The coma appears elongated horizontally (wider than tall), with a possible tail or extended emission extending to the right
+* There are several bright "blob" structures embedded in the red outer coma region on the left side — these are not smooth but show distinct irregular bright regions
+* The inner core (white-yellow) appears roughly centered horizontally but offset slightly upward from vertical center
+
+COLORS:
+* Background: pure black
+* Outer coma: deep red with irregular bright blobs (left side especially)
+* Mid-coma: orange-red
+* Inner coma: yellow-orange
+* Core: white (saturated)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* WIDE RECTANGULAR COMA IMAGE — NEW ASPECT RATIO AND COLORMAP:
+  * This image has a different aspect ratio from companion images (wider than tall, ~2:1 or 3:2 width:height ratio)
+  * The black background (rather than blue or green) and the purely red-orange-yellow-white colormap suggest a different display configuration
+  * This may be: (1) a different telescope/instrument, (2) a different processing pipeline, or (3) a zoomed/cropped version of a wider field
+* IRREGULAR COMA STRUCTURE:
+  * The bright "blobs" in the left-side red region are unusual — in a smooth symmetric coma these would not exist
+  * Possible causes:
+    * Outgassing jets: discrete regions of enhanced gas/dust production from localized active areas on the nucleus surface
+    * Radiation pressure structures: dust grains of specific size ranges (near the radiation pressure turnover) can produce ring-like or blob structures in the coma
+    * Star/galaxy contamination: background objects embedded in the coma (misidentified as coma structure)
+    * Image stacking artifacts: if multiple exposures were stacked with imperfect alignment, ghost images of the nucleus can appear
+  * For a genuine interstellar comet: discrete jets would indicate a rotating nucleus with localized active regions (same as solar-system comets)
+* JET PHYSICS:
+  * Cometary jets form where sunlight directly heats localized active areas (sublimation of ices: H₂O, CO, CO₂)
+  * Jet direction: initially radial from the nucleus, then curved by:
+    * Solar radiation pressure (grains): produces anti-sunward curved tail
+    * Coriolis force (rotating nucleus): produces spiral jet patterns
+    * Nuclear rotation: jets precess with the nucleus rotation period
+  * Measuring jet directions and intensities constrains: nuclear rotation period, active area locations, dust grain size distribution
+* PHOTODISSOCIATION SCALE LENGTHS:
+  * Different gas species in jets have different photodissociation scale lengths r_γ = v_mol/β_γ where v_mol is the molecular outflow velocity and β_γ is the photodissociation rate
+  * CN: r_γ ≈ 10⁵ km at 1 AU
+  * C₂: r_γ ≈ 5×10⁴ km
+  * OH: r_γ ≈ 2×10⁵ km
+  * Different species produce coma structures at different spatial scales
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: center-left of emission region, offset slightly upward
+* Inner coma: white-yellow, compact
+* Mid-coma: orange-red, elongated
+* Outer coma: red with irregular blobs (left side), fading to black
+* Horizontal extent: approximately 80% of image width; vertical extent: full image height
+* Black background: left and right edges
+
+HIGH-LEVEL SUMMARY:
+A wide rectangular (landscape, ~2:1 aspect) false-color hot/warm colormap cometary coma image with black background — a new rendering of the 3I/ATLAS comet data with wider field of view and different display parameters than companion images. The coma shows distinct irregular bright blobs in the outer red region (especially on the left/western side), suggesting discrete outgassing jets or localized active regions on the nucleus surface. Physics: cometary jet physics (sunlight heating of active areas, sublimation of H₂O/CO/CO₂, jet curvature from radiation pressure and Coriolis force), photodissociation scale lengths for CN/C₂/OH, dust grain radiation pressure structure, potential image stacking artifacts. Part of the 3I/ATLAS interstellar comet imaging series.

@@ -1,0 +1,66 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side with magnetic pole labels and green Δ lift indicators
+* This image is nearly identical to companion image 3_2045263848970858496 (the N/S-labeled dual disc composite) with one difference: the green Δ lift indicators appear at top and bottom of the right (plan-view) diagram instead of the three-position arrangement, and no green dashed X-quadrant lines appear in this variant
+* LEFT DIAGRAM (side-view): The familiar side-view disc cross-section with magnetic pole labels:
+  * Large outer RED ring (approximately 380px diameter)
+  * Inner BLUE ring (approximately 280px diameter)
+  * Main large BLACK disc/flywheel shape (approximately 320px wide, crescent-like due to the side-view perspective)
+  * Upper smaller black disc element (approximately 60px) visible above the blue ring at the top
+  * Decreasing circle chain below (4–5 circles, approximately 40–20px): Birkeland vortex exhaust tail
+  * Four green dashed lines forming an X-pattern (quadrant dividers, approximately 60px length each) — crossing inside the blue ring
+  * Four red "N" labels at the four quadrant outer positions (upper-left, upper-right, lower-left, lower-right of the red ring) — approximately 30px font
+  * One large cyan/blue "S" label at the center of the black inner disc — approximately 50px font
+* RIGHT DIAGRAM (plan-view): The familiar plan-view disc schematic with two green Δ indicators:
+  * Outer graduated circle ring: approximately 20–24 black circles arranged around the perimeter (approximately 350px outer diameter), each circle approximately 30px diameter
+  * Red circle arc (approximately 250px diameter) inside the outer circle ring — the red flywheel boundary
+  * Blue dotted inner arc (approximately 200px diameter) — the inner rotating element boundary
+  * Central concentric element: 3-ring concentric (outer approximately 80px, inner approximately 30px, central solid dot approximately 15px)
+  * Upper connecting element: a red-filled circle (approximately 30px) at the top of the plan-view, connected by a short vertical line to the top of the red arc — the upper brush contact
+  * Decreasing circle chain below the central element (approximately 4–5 circles, 20–8px) — downward vortex exhaust
+  * Green "Δ" (upper right, approximately 30px) — lift indicator at the top of the plan-view
+  * Green "Δ" (center, below central concentric, approximately 30px) — lift indicator at the bottom of the plan-view
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram, at quadrant outer positions of the red ring)
+* "S" (cyan/blue, large, inside the central black disc of the left diagram)
+* "Δ" (green, two instances on right diagram — upper and lower positions)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring (side-view): red
+* Inner ring (side-view): blue
+* Magnetic pole labels: "N" in red, "S" in cyan/blue
+* Quadrant dashed lines: green
+* Lift indicators: green Δ
+* Outer perimeter circle ring (plan-view): black
+* Red arc inside plan-view: red
+* Blue dotted arc inside plan-view: cyan/blue dashed
+
+PHYSICS CONCEPTS:
+* This schematic is a variant of companion 3_2045263848970858496 — the same fundamental N/S pole-labeled dual-view composite. The left side-view diagram is identical (4 red N labels on the outer ring, large cyan S on the inner disc, green dashed X-quadrant dividers). The right plan-view differs in showing exactly two Δ symbols (one above the upper brush contact, one below the central axis) rather than three:
+  1. LEFT DIAGRAM (side view) — identical physics to companion 3_2045263848970858496:
+     * Outer red ring = 4-pole North outer flywheel (North polarity facing outward at 4 quadrant positions)
+     * Inner cyan-labeled "S" disc = South-polarity inner spinning magnet
+     * Inner S surrounded by outer N → attractive electromagnetic coupling keeping the counter-rotating elements coupled despite opposite rotation
+     * Green X-quadrant dividers: 4-fold symmetry of the outer pole configuration
+     * Magnetic bottle topology in the gap between inner S and outer N: magnetic flux gradient ∂B/∂z ≠ 0 → axial force F_z = μ(∂B/∂z) on the inner dipole
+  2. RIGHT DIAGRAM (plan-view) — lift indicator annotation:
+     * Two green Δ symbols (top and bottom of the plan-view diagram) indicate that upward thrust is generated in both axial directions from the disc — consistent with the disc operating as a volumetric electromagnetic pressure source rather than a surface-reaction thruster
+     * The upper Δ at the brush contact position indicates the primary thrust vector (upward)
+     * The lower Δ inside the disc interior indicates secondary axial thrust or the symmetric lift field below the disc plane
+  3. THE TWO-Δ vs. THREE-Δ DISTINCTION (vs. companion 3_2045263848970858496):
+     * Companion 3_2045263848970858496 shows three Δ symbols (two above axis element, one below)
+     * This image shows two Δ symbols (one above, one below) — emphasizing the symmetric axial lift on both sides of the disc midplane
+     * Both encodings are consistent with the Lorentz body force field J×B that permeates the entire disc volume, producing thrust in both axial directions
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view, approximately 45% of image width (left half)
+* Right diagram: plan-view, approximately 55% of image width (right half)
+* N labels: four, at outer quadrant positions of the left diagram's red ring
+* S label: one, at the center of the left diagram's inner disc
+* Δ symbols: one at top of right diagram, one below the central concentric element of right diagram
+* Decreasing circles: below both left and right diagram central axes
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of companion image 3_2045263848970858496 — composite annotated disc schematic with a side-view (left) showing 4 red "N" labels at the outer red ring quadrant positions and one cyan "S" on the inner black disc (plus green dashed X-quadrant dividers), and a plan-view (right) with only two green Δ lift indicators (one above the upper brush contact, one below the central axis) rather than three. The two-Δ arrangement emphasizes the symmetric axial thrust field generated on both sides of the disc midplane (F_z = μ ∂B/∂z operating in both ±z directions from the disc center). The magnetic topology is identical to the companion: inner South surrounded by outer North creates a magnetic bottle configuration in the gap, with the flux gradient sourcing an axial lifting force on the inner spinning magnetic element.

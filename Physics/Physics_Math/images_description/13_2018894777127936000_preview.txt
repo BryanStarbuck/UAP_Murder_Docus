@@ -1,0 +1,69 @@
+IMAGE DESCRIPTION: 13_2018894777127936000_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Close-up photograph of a 6-coil ring generator prototype
+* Mounted on a transparent (clear) acrylic disc/plate
+* The disc appears circular, approximately 20-30cm diameter based on component scale
+* Six red wire-wound bobbins/coils arranged symmetrically in a ring pattern
+* Coils positioned at equal angular intervals (60° spacing = hexagonal arrangement)
+* Each coil: a bobbin-style spool wound with red insulated copper wire
+* Each coil oriented radially (coil axis pointing toward center of disc)
+* White or light-grey plastic separator/spacer elements between coils
+* White plastic mounting hardware/standoffs visible
+* One external electrical cable visible at right edge of frame
+* The acrylic disc surface: clear/transparent, showing the mounting hardware beneath
+
+COIL GEOMETRY:
+* 6 coils × 60° spacing = 6-pole stator (3 pole-pairs)
+* Radial orientation of each coil means the coil's magnetic axis is directed toward the disc center
+* This topology creates an in-plane (radial-flux) stator when the coils are energized in sequence
+* 3-phase operation: coils at 0°, 120°, 240° form Phase A; coils at 60°, 180°, 300° form Phase B — OR: paired opposite coils (0°+180°, 60°+240°, 120°+300°) form 3 phases
+* The 60° spacing and 6 poles is consistent with a standard 3-phase, 2-pole-pair generator topology
+
+COLORS:
+* Coil windings: red (red-insulated copper magnet wire)
+* Coil bobbins: dark grey or black plastic
+* Mounting plate: clear transparent acrylic
+* Spacer elements: white plastic
+* Mounting hardware: white or silver
+* Background: neutral grey/white
+
+TEXT: None visible on the components in this image.
+
+PHYSICS / ENGINEERING CONCEPTS:
+* 6-COIL RADIAL-FLUX STATOR ASSEMBLY:
+  * This is the stator component of a radial-flux permanent-magnet generator (PMG) or motor
+  * The 6 equally spaced radial coils create a stator field that can rotate when energized sequentially with phase-shifted currents
+  * For a 3-phase supply at 120° phase separation: the net B-field vector rotates continuously → creates a rotating magnetic field
+
+* RELEVANCE TO UAP DISC PROPULSION:
+  * A rotating magnetic field in the plane of the disc is precisely the physics proposed for UAP disc propulsion:
+    * The rotating B-field acts on charge carriers in the surrounding medium (ionized plasma sheath or inertial mass of the craft)
+    * The gradient of the rotating field creates a net force in the direction of field rotation (momentum exchange)
+    * This 6-coil prototype is a scaled-down physical test of that principle
+  * Compare with the 3-arm triskelion and 6-arm crop formations: these encode 3-phase (3-arm) or 6-phase (6-arm) winding topologies
+
+* INDUCTION MOTOR PRINCIPLE:
+  * If a conducting rotor (disc, ring, or squirrel-cage) is placed at the center of this stator:
+    * The rotating stator field induces eddy currents in the rotor
+    * The eddy currents interact with the rotating field → Lorentz force → rotor torque
+    * This is the standard squirrel-cage induction motor principle at prototype scale
+  * Efficiency η = (1 - s) where s = slip = (n_s - n_r)/n_s; for disc topology, slip minimization requires very low rotor resistance
+
+* TRANSPARENT ACRYLIC BASE:
+  * The transparent mounting disc allows visual inspection of the underside wiring/connections
+  * Common in prototype/demonstration setups to show internal connections
+  * May also allow optical measurement of rotor position (optical encoder through the clear disc)
+
+* MEASUREMENT CAPABILITY:
+  * The single cable at right edge suggests connection to power supply or oscilloscope for waveform measurement
+  * Standard characterization tests: back-EMF constant k_e, no-load voltage vs. RPM, resistance/inductance per phase
+
+SPATIAL RELATIONSHIPS:
+* Six coils arranged at 0°, 60°, 120°, 180°, 240°, 300° around disc center
+* Disc center: open area (rotor would be inserted here or at this location)
+* Mounting hardware: at each coil position and at disc perimeter
+* Single cable: right edge, exiting frame
+
+HIGH-LEVEL SUMMARY:
+Close-up photograph of a 6-coil radial-flux ring generator stator mounted on a transparent acrylic disc. Six red wire-wound bobbin coils are arranged at 60° intervals (hexagonal symmetry) on the clear acrylic plate, each oriented radially toward the disc center, separated by white plastic spacers. This is a prototype 3-phase, 6-pole stator for a radial-flux permanent-magnet generator/motor — the physical implementation of the rotating-magnetic-field disc propulsion concept central to the UAP physics research series. The 6-coil/60° topology is the engineering realization of the 6-arm flower-of-life crop formation geometry (vesica piscis mutual inductance network). A single external cable connects the assembly for testing. This hardware demonstrates active prototyping of the ring generator concept documented in the adjacent Muller dynamo and counter-rotating disc images.

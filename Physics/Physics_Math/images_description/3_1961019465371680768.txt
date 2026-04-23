@@ -1,0 +1,32 @@
+IMAGE DESCRIPTION: 3_1961019465371680768.jpg
+
+SHAPES AND ELEMENTS:
+* Square pixelated astronomical image in rainbow color table (blue→purple→red→orange→yellow→white)
+* Clearly pixelated (individual square pixels visible) — Spitzer IRAC native pixel scale
+* Data-coverage boundary: diagonal stepped edge at lower-left corner (black triangular void) — same detector mosaic edge as in 3_1960123627871027200
+* Central compact core: white, approximately 2×2 pixels at center-left of image (nucleus of coma)
+* Inner halo: yellow-orange pixels surrounding white core, approximately 5×5 pixel zone
+* Middle halo: red pixels, large zone, approximately 15×15 pixel area
+* Outer halo: purple-blue pixels, the dominant color of the visible data area
+* Data boundary: the image data fills the upper-right triangle while the lower-left triangle is black (no data)
+* A small cyan/teal artifact pixel visible at left edge
+
+COLORS:
+* White: core (1-2 pixels, maximum flux)
+* Yellow-orange: inner halo (~5×5 pixel zone)
+* Red: middle halo (~15×15 pixel zone)
+* Purple-blue: outer halo (dominant color)
+* Black: no-data region (lower-left triangle)
+* Cyan: artifact pixel at left edge
+
+PHYSICS / INFORMATION CONCEPTS:
+* VARIANT of the Spitzer IRAC comet coma series (same as 3_1960123627871027200) — same data but cropped/zoomed to show the core region more prominently
+* The diagonal stepped boundary (lower-left) is the characteristic Spitzer IRAC mosaic tile edge — confirms this is IRAC instrument data
+* The pixelation clearly shows individual IRAC pixels — each pixel ≈ 1.2 arcseconds at 3.6/4.5 μm, ≈ 2 arcseconds at 8 μm
+* The white core is 1-2 pixels = 1.2-2.4 arcseconds (the PSF FWHM of IRAC at 3.6 μm is ~1.7 arcseconds) — this is consistent with an unresolved point source (the nucleus + inner coma)
+* The transition from white→yellow→orange→red→purple encodes the radial brightness profile B(r) of the coma
+* The color sequence in this rainbow table (blue = lowest, white = highest) is inverted compared to standard astronomical convention (where blue = cold, red = hot in thermal images)
+* See 3_1960123627871027200 for full physical analysis of Comet 17P/Holmes 2007
+
+HIGH-LEVEL SUMMARY:
+Pixelated square Spitzer IRAC comet coma image in rainbow (blue→white) color table: white 2-pixel core, yellow-orange inner halo, red middle halo, blue-purple outer halo, diagonal stepped black no-data boundary at lower-left. Clearly shows individual IRAC pixels (1.2 arcsec/pixel at 3.6 μm). Same Comet 17P/Holmes 2007 data as 3_1960123627871027200 but cropped to emphasize the core. Core size consistent with IRAC PSF FWHM (~1.7 arcsec) = unresolved nucleus + inner coma. See 3_1960123627871027200 for primary analysis.

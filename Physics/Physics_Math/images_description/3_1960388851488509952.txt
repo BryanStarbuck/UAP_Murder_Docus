@@ -1,0 +1,54 @@
+IMAGE DESCRIPTION: 3_1960388851488509952.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly square false-color astronomical image with heavily pixelated/low-resolution appearance (large visible square pixels, ~15×15 pixel grid)
+* Black triangular corner regions: lower-left and lower-right corners are solid black (L-shaped or diagonal chip edge artifact, consistent with detector mosaic boundary)
+* Background: blue-to-violet gradient (deep blue at corners, transitioning to purple/violet at upper-right quadrant)
+* Central source: bright white saturated core → yellow → orange → red → transitioning into the blue-purple background
+* Colormap: hot/thermal (blue = cold/background, yellow-white = peak intensity) — same colormap as 3_1959780062506717184 and 3_1960123627871027200
+* The isophotes are roughly concentric but NOT perfectly circular: the emission extends further toward the upper-right than lower-left, indicating asymmetric coma or tail
+* The color transition sequence from center outward: white → yellow → orange → red → pink-purple → violet → blue
+* The pixelation is extremely coarse — individual pixels are visible squares roughly 4-6% of image width — suggesting the image was severely rebinned or zoomed from a very low-resolution detector
+
+BLACK CORNER REGIONS:
+* Lower-left: large triangular black region (approximately 20% of image area)
+* Lower-right: smaller triangular black region
+* This is the characteristic "staircase" L-shaped edge of a detector mosaic or CCD chip gap — seen also in 3_1959780062506717184
+
+COLORS:
+* Background: dark blue to violet/purple gradient
+* Core: saturated white
+* Inner halo: bright yellow
+* Mid-coma: orange-red
+* Outer coma: pink → violet → blue
+* Corner fill: solid black (no data)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* THERMAL/HOT COLORMAP COMA IMAGE:
+  * This is the same hot colormap series as 3_1959780062506717184 — a heavily pixelated low-resolution thermal false-color image of a cometary coma
+  * The coarse pixelation (large square pixels visible) indicates extreme spatial rebinning (2×2, 4×4, or 8×8 pixel binning) to increase signal-to-noise at the cost of spatial resolution
+  * This technique is used for faint objects: sum N×N pixels → increase flux per "super-pixel" by factor N², reduce read noise by factor N
+* ASYMMETRIC COMA — RADIATION PRESSURE:
+  * The asymmetric isophotes (extending further toward upper-right) are a key physical diagnostic:
+    * Radiation pressure acceleration: a_rad = (L_sun/4πr²c) × Q_pr/m (where Q_pr = radiation pressure efficiency, m = grain mass, r = heliocentric distance)
+    * Syndyne/synchrone analysis: dust grains of different sizes and different ejection times follow different syndyne and synchrone curves
+    * The extended direction toward upper-right indicates the anti-sunward direction (tail direction) — grains pushed by solar radiation
+  * For an interstellar object (3I/ATLAS): the radiation pressure effect is the same as for solar-system comets (since radiation pressure comes from the Sun at the current heliocentric position), but the dust-to-gas ratio and grain properties may differ
+* BLACK CHIP EDGE:
+  * The diagonal staircase black corner is a detector boundary artifact (same chip mosaic as 3_1959780062506717184)
+  * This confirms the images are from the same instrument/observation campaign
+  * The chip boundary cuts off part of the coma, so the true extent in the lower-left direction is larger than visible
+* COMPARISON TO COMPANION IMAGES:
+  * 3_1960388851488509952 (this image) appears to be the same or similar observation as 3_1959780062506717184 but with slightly different display parameters or a slightly different exposure/filter
+  * Together with 3_1960388815560040453 (blue-channel), 3_1960123627871027200 (rainbow colormap), 3_1960140859267223552 (warm colormap with crosshair), and 3_1959780083218186240 (IR surface brightness), this forms a multi-color multi-display diagnostic suite of the same cometary object
+
+SPATIAL RELATIONSHIPS:
+* Central source: approximately center of image, very slightly left of center
+* Asymmetric coma extension: toward upper-right (approximately 2 o'clock direction)
+* Black chip gap: lower-left and lower-right corners
+* Background gradient: dark blue (lower corners) to purple-violet (upper-right)
+
+HIGH-LEVEL SUMMARY:
+A heavily pixelated (large square pixels, coarse rebinning) false-color thermal-colormap coma image in the same series as 3_1959780062506717184, showing the same L-shaped black chip edge in the lower corners and the same hot colormap (blue background → white-yellow nucleus). The coma isophotes are clearly asymmetric, extending further toward the upper-right — consistent with radiation pressure pushing dust grains anti-sunward. Physics: radiation pressure acceleration a_rad = (L_sun/4πr²c)(Q_pr/m); syndyne/synchrone analysis for dust grain size and ejection timing; rebinned detector pixel summing for S/N enhancement; chip mosaic gap artifact. Part of the 3I/ATLAS interstellar comet coma analysis series.

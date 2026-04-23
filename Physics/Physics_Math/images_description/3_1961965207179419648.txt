@@ -1,0 +1,86 @@
+IMAGE DESCRIPTION: 3_1961965207179419648.jpg
+
+SHAPES AND ELEMENTS:
+* Composite image: aerial crop formation photograph as background, with two schematic insets overlaid
+* Background: aerial view of a bright yellow rapeseed field with tramlines and multiple circular crop formations visible
+
+BACKGROUND AERIAL PHOTOGRAPH:
+* Yellow rapeseed field with multiple dark circular depressions (crop formations)
+* LEFT SIDE of background: approximately 8-10 dark circular blobs arranged in a rough vertical column with slight left-right offset — these appear to be simple circle formations in the field
+* RIGHT SIDE of background: the same complex formation from 3_1961965189496201216 (the Milk Hill 1999 formation) — with the vertical structure of two discs + ring of circles + tail element visible in green-blue-black
+
+LEFT INSET — BLACK-AND-WHITE SIZE COMPARISON STRIP:
+* Vertical white-background strip (~100px wide × 500px tall)
+* Shows 5 circles in decreasing size from top to bottom:
+  * TOP: 1 large open-outline circle (~60px, white fill, black outline only)
+  * BELOW: 1 large filled black disc (~60px)
+  * BELOW: 1 medium open circle with a small filled disc at lower-left (~45px outer + 15px inner)
+  * BELOW: 1 small filled black disc (~18px)
+  * BOTTOM: 1 medium open-outline circle (~40px)
+* This strip represents the SIZE HIERARCHY of elements in the formation: from largest to smallest
+* The alternating open/filled convention may encode: open = non-flattened (standing crop circle outline); filled = flattened disc; combination = partially flattened or ringed
+
+CENTER-RIGHT INSET — DETAILED SCHEMATIC WITH RED CIRCLE HIGHLIGHT:
+* White background, approximately 150×350px
+* Same schematic as in 3_1961965189496201216 (right-side schematic), but here it is the MAIN FOCUS
+* From top to bottom:
+  * Large filled black disc with small white dot at center (the "spinning magnet rotor")
+  * Red oval/circle highlight drawn around the TRIDENT/TUNING FORK element immediately below the top disc — specifically highlighting the 3-phase symbol
+  * The trident: three downward prongs from a horizontal crossbar, with small "antenna" tips — represents 3-PHASE ELECTRICAL CONNECTION
+  * Main central dark disc: surrounded by a ring of ~16-18 smaller filled circles (the "coil ring")
+  * Below: smaller disc, then "~" wave symbol, then small terminal disc
+* RED CIRCLE: explicitly circling the trident element to emphasize the 3-phase connection interpretation
+
+COLORS:
+* Background field: bright yellow (rapeseed)
+* Left schematic strip: black circles on white background
+* Center-right schematic: black on white with red circle highlight
+* Right aerial section: dark green-black and bright yellow
+
+TEXT:
+* None visible
+
+PHYSICS CONCEPTS:
+* COMPANION IMAGE TO 3_1961965189496201216:
+  * This image provides additional detail on the same Milk Hill 1999 formation interpretation
+  * The left strip = SIZE REFERENCE for the formation elements (diameter ratios between components)
+  * The red circle emphasizes: the TRIDENT = 3-PHASE CONNECTOR is the KEY IDENTIFYING ELEMENT
+
+* SIZE HIERARCHY ANALYSIS:
+  * Open circle at top = the DISC TOP of the formation (the outline ring at the very top of the aerial formation, which is a circle with no interior — a ring)
+  * Filled disc = the LARGE CENTRAL MAGNET ROTOR
+  * Combination (open outer + small filled inner) = the SPIN AXIS BEARING or SHAFT (a circle within a circle = rotor bearing configuration)
+  * Small filled disc = the smaller lower disc
+  * Open circle at bottom = the lower terminal ring
+  * The size ratios: top open (~60px) = large filled (~60px) > combination outer (~45px) > small filled (~18px) > bottom open (~40px)
+
+* THREE-PHASE POWER SYMBOL — TRIDENT / TUNING FORK:
+  * The trident symbol in the schematic:
+    * In 3-phase electrical engineering: three current-carrying conductors are represented as three parallel lines from a common bus
+    * The three lines of 3-phase power have phase angles: φ_A = 0°, φ_B = 120°, φ_C = 240°
+    * V_A = V₀ sin(ωt); V_B = V₀ sin(ωt - 2π/3); V_C = V₀ sin(ωt - 4π/3)
+    * ΣV = V_A + V_B + V_C = 0 at all times (balanced 3-phase)
+    * ΣP = (3/2) V₀ I₀ cos(φ) = constant (no power ripple in balanced 3-phase)
+  * In physics symbol notation: a tuning fork / trident also represents a 3-pronged waveguide coupler (3-dB microwave splitter or 3-port network junction)
+  * The red circle drawing attention to this element: the 3-phase connection is the CRITICAL ENABLING MECHANISM for the propulsion hypothesis
+
+* SIDE-BY-SIDE COMPARISON (left column circles vs. right formation):
+  * The left strip allows quantitative comparison with the actual aerial formation (right side of background):
+    * In the actual aerial photo: the large disc = approximately 120-150px; the ring of circles = approximately 180-200px ring diameter; the small tail disc = approximately 40-50px
+    * The ratios: (large disc : ring diameter) ≈ 1 : 1.25-1.4 → consistent with the schematic large disc centered in the coil ring
+
+* MAGNETIC FLUX COUPLING EFFICIENCY:
+  * If the coil ring has radius R and the magnet rotor has radius r = R/1.3:
+    * Mutual inductance M = μ₀π r² N_coil / (2R) (for a flat coil)
+    * Flux coupling coefficient k = M/√(L_coil × L_rotor) → optimal coupling when r = R/√2
+
+SPATIAL RELATIONSHIPS:
+* Left strip (size reference): center-left, white background
+* Main schematic (with red circle): right-center, white background
+* Background aerial: entire image, visible around both insets
+* Trident element with red circle: upper portion of right schematic
+
+HIGH-LEVEL SUMMARY:
+A companion to 3_1961965189496201216 providing additional detail on the Milk Hill 1999 crop formation interpretation. Background: aerial yellow rapeseed field with multiple circular formations (left column of simple circles) and the complex elongated Milk Hill formation (right). Left inset: a vertical size-reference strip of 5 circles (alternating open/filled, decreasing from ~60px to ~18px) representing the size hierarchy of formation elements. Right inset: the same mechanical schematic from 3_1961965189496201216, now with a RED CIRCLE explicitly highlighting the TRIDENT symbol = 3-PHASE ELECTRICAL CONNECTION. Physics content: 3-phase power balance ΣV = 0, ΣP = (3/2)V₀I₀cos(φ) = constant; rotating magnetic field from 3-phase coils; magnetic flux coupling k = M/√(L₁L₂); trident as 3-port waveguide junction analog. The red circle emphasizes the 3-phase connection as the critical enabling physics for the proposed spinning-magnet levitation mechanism.
+
+*This information was compiled by Claude AI research.*

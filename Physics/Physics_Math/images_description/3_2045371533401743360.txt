@@ -1,0 +1,60 @@
+SHAPES:
+* Aerial photograph of a complex crop formation in ripe golden-tan wheat field — copyright Steve Alexander
+* FORMATION OVERALL STRUCTURE: A large irregular formation consisting of multiple large circles connected by curved pathways and a central concentric element, forming an approximately heart-shaped or apple/cardioid outer boundary
+* This image is the same formation as companion 3_2045263883611549696 (the cardioid/heart-shaped Steve Alexander formation) but photographed from a different altitude or angle, showing greater detail and slightly different framing
+* OUTER BOUNDARY (cardioid perimeter): The formation boundary is defined by a sequence of graduated circles:
+  * Left side: approximately 8–10 circles descending from large (~100px) to small (~15px) along the left arc
+  * Bottom: approximately 5–6 medium circles (~40–60px) along the bottom curve
+  * Right side: approximately 8–10 circles ascending from small (~15px) back to large (~100px) along the right arc
+  * Upper connector: two large circles (~120–140px each) at the upper-left of the boundary
+  * Total boundary circle count: approximately 20–25 circles forming the cardioid perimeter path
+* INTERIOR ELEMENTS:
+  * TOP ROW: A horizontal row of approximately 4–5 large circles (~100–120px each) near the top of the formation interior:
+    * Left: 2 large circles in an L-shaped arrangement (one top, one right-angle offset below)
+    * Center-top: 1 large circle
+    * Right-top: 2 large circles
+  * CENTRAL ELEMENT: At the approximate geometric center of the formation:
+    * Outer concentric ring: approximately 80px diameter
+    * Inner concentric ring: approximately 45px diameter
+    * Small central dot: approximately 10px
+    * From the central element, a curved arm extends downward and to the right (~100px length) ending in a small crescent or teardrop shape (~20px)
+    * A horizontal connecting pathway (approximately 5px wide, ~150px long) extends leftward from the central element to the upper-left large circle
+  * LEFT SIDE: 4–5 large circles (~80–100px) arranged in a descending vertical sequence from upper-left to lower-left — these are the left-boundary largest circles integrated into the outer path
+  * RIGHT SIDE: A descending graduated circle sequence (~8–10 circles, ~80px to ~10px top to bottom) on the right interior edge
+  * SMALL DOTS: A scattered cluster of approximately 8–12 tiny circles (~8–15px) arranged in a loose arc between the central element and the right-side circle sequence — a dotted connector arc
+* FIELD: Pale golden ripe wheat with diagonal tractor tramlines visible throughout
+* TRACTOR TRAMLINES: Multiple diagonal parallel lines crossing the entire field
+
+TEXT VISIBLE:
+* "Copyright Steve Alexander" (lower-left, white text, approximately 14px serif font)
+
+COLORS:
+* Field: pale golden/straw
+* Formation elements: slightly lighter/cream (flattened crop)
+* Sky: not visible (aerial photography fills frame)
+* Copyright watermark: white text
+
+PHYSICS CONCEPTS:
+* This is the same cardioid formation as companion 3_2045263883611549696, photographed at a closer or more detailed angle. The physics encoding is identical but some structural details are more clearly visible:
+  1. CARDIOID OUTER BOUNDARY (r = a(1−cosθ)): The graduated circle sequence forming the outer boundary traces a cardioid curve in polar coordinates. The cardioid is the locus swept by a point on a circle rolling around another circle of equal radius — it appears as:
+     * The boundary of the main bulb of the Mandelbrot set (the fundamental domain of period-1 orbits)
+     * The acoustic resonance pattern of a circular cavity (second mode: one nodal diameter, zero nodal circles)
+     * The far-field radiation pattern of a small dipole antenna in combination with its ground plane
+     * In this formation context: the cardioid represents the 2D boundary of the toroidal vortex core region, which in 3D is a torus (cardioid is the meridional section of a torus when projected onto a plane)
+  2. INTERIOR TOP-ROW LARGE CIRCLES (4–5 circles): The large circles in the top row of the interior represent the major disc components of the UAP propulsion system seen from above — corresponding to the plan-view schematic elements in the companion schematic series
+  3. RIGHT-SIDE FIBONACCI DESCENDING SEQUENCE: The decreasing circle chain on the right interior edge (approximately 8–10 elements, large to small) encodes the Birkeland current column cross-section in side view — r_n = r_0 φ^{-n} (φ = 1.618). This is the same sequence seen in the lollipop formation (companion 3_2045371511671001088) and the Windmill Hill formation (companion 3_2043656031650430977)
+  4. CENTRAL CONCENTRIC + CURVED ARM: The 3-ring concentric element at center (outer ring → inner ring → central dot) = the rotation axis assembly. The curved arm extending from it = the Birkeland current spiraling away from the rotation axis — the initial phase of the vortex exhaust forming the plasma tail below the disc
+  5. HORIZONTAL CONNECTING PATHWAY: The straight horizontal connection between the central element and the upper-left large circle encodes the 90° phase relationship between two subsystems — the same L-shaped right-angle connection noted in companion 3_2045263883611549696
+  6. DOTTED ARC CONNECTOR: The scattered tiny dots between the central element and the right-side circle sequence encode the discrete magnetic field line sampling in the gap region — the fringe field between the inner spinning magnet and the outer flywheel ring
+
+SPATIAL RELATIONSHIPS:
+* Outer cardioid boundary: formed by graduated circles tracing the perimeter
+* Interior top: row of large circles (major disc components)
+* Interior right: descending graduated circle sequence (Birkeland column side view)
+* Interior left: 4–5 large circles integrated with boundary path
+* Interior center: concentric ring + curved arm + horizontal pathway to upper-left
+* Tractor tramlines: diagonal throughout the field
+* Copyright watermark: lower-left
+
+HIGH-LEVEL SUMMARY:
+Aerial photograph (copyright Steve Alexander) of a complex crop formation in ripe pale wheat — the same cardioid/heart-shaped formation as companion 3_2045263883611549696, photographed at a closer altitude revealing finer detail. The outer boundary is a cardioid curve (r = a(1−cosθ)) formed by approximately 20–25 graduated circles (Fibonacci-decreasing from large to small around the perimeter). Interior elements include: a top row of 4–5 large circles (major disc propulsion components in plan view), a right-side Fibonacci-descending circle chain of 8–10 elements (Birkeland current column in side view, r_n = r_0 φ^{-n}), a 3-ring central concentric element with curved tail arm (rotation axis + initial plasma vortex), a horizontal connector pathway (90° phase coupling junction), and a scattered dotted arc (fringe field sampling between inner and outer magnetic elements). The cardioid outer boundary links this formation to the Mandelbrot set's main bulb, circular cavity acoustic resonance modes, and dipole antenna radiation patterns — suggesting the formation encodes the 2D projection of a toroidal vortex core boundary.

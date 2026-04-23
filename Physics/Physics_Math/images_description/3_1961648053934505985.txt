@@ -1,0 +1,78 @@
+IMAGE DESCRIPTION: 3_1961648053934505985.jpg
+
+SHAPES AND ELEMENTS:
+* Solar system orbital diagram on black background
+* Labeled "Jupiter-family" at top in bold yellow sans-serif text
+* Shows heliocentric solar system with multiple concentric circular/elliptical orbits
+* 5 visible planets with CGI representations
+* Multiple orbit lines in different colors
+* Overall image: approximately 800×800 pixels
+
+PLANETS AND ORBITS:
+* CENTER: The Sun — small reddish-orange sphere at image center (approximately 400, 430)
+* EARTH: Blue sphere with white cloud texture immediately around Sun (approximately 440, 390); Earth orbit: small white circle of ~80px radius
+* JUPITER: Large brown-banded gas giant sphere at upper-right (approximately 630, 130); Jupiter orbit: yellow circle of ~300px radius
+* SATURN: Gold-ringed gas giant at left (approximately 130, 375); Saturn orbit: grey/silver circle of ~430px radius
+* No Mars, Venus, Mercury, Uranus, or Neptune shown explicitly (orbits present as white circles)
+
+ORBIT LINES:
+* WHITE CIRCLES: 3-4 concentric white circular orbit lines representing inner planets (Mercury, Venus, Earth, Mars — only Earth labeled by planet)
+* YELLOW ELLIPSE/CIRCLE: Jupiter's orbit (large, ~300px radius) — prominent yellow
+* GREY/SILVER CIRCLE: Saturn's orbit (~430px radius) — grey-silver
+* RED ELLIPSE: A highly elongated ellipse extending from inner solar system out beyond Saturn and off the upper-right frame — represents a Jupiter-family comet orbit (large eccentricity, aphelia near Jupiter's orbit, perihelia near Earth)
+* GREEN LINE(S): Two green line trajectories extending from upper-right (near Jupiter) diagonally to lower-left and beyond the frame — represent flyby or approach trajectories (possibly cometary or spacecraft trajectories)
+
+TEXT:
+* "Jupiter-family" — bold yellow, upper center of image (~400, 70)
+
+COLORS:
+* Background: black
+* White circles: inner planet orbits
+* Yellow circle: Jupiter orbit
+* Grey/silver circle: Saturn orbit
+* Red ellipse: comet orbit
+* Green lines: approach trajectories
+* Jupiter: brown-orange banded sphere
+* Saturn: gold sphere with prominent rings
+* Earth: blue-white sphere
+* Sun: red-orange sphere
+
+PHYSICS CONCEPTS:
+* JUPITER-FAMILY COMETS (JFCs):
+  * Jupiter-family comets are short-period comets with orbital periods P < 20 years and Tisserand parameter 2 < T_J < 3
+  * The red ellipse represents a JFC orbit: high eccentricity (e ≈ 0.5-0.9), aphelia near Jupiter's orbit (Q ≈ 5.2 AU), perihelia near or inside Earth's orbit (q ≈ 1-3 AU)
+  * Comet 17P/Holmes IS a Jupiter-family comet: T_J ≈ 2.94, period P ≈ 6.88 years, q ≈ 2.05 AU, Q ≈ 5.18 AU
+* TISSERAND PARAMETER:
+  * T_J = a_J/a + 2√(a/a_J × (1-e²)) × cos(i)
+  * Where a = semi-major axis, a_J = Jupiter's semi-major axis = 5.20 AU, e = eccentricity, i = inclination
+  * JFCs: 2 < T_J < 3; Long-period comets: T_J < 2; Asteroids: T_J > 3
+  * T_J is a conserved quantity in the restricted three-body problem (Sun + Jupiter + comet)
+* ORBITAL MECHANICS — KEPLER'S LAWS:
+  * Period: T² = a³ (in AU and years), so Holmes with a ≈ 3.6 AU has T = 3.6^(3/2) ≈ 6.8 years
+  * Vis-viva equation: v² = GM(2/r - 1/a) — velocity at any point in orbit
+  * At perihelion (r=q): v_perihelion = √(GM(2/q - 1/a)) — maximum orbital velocity
+  * At aphelion (r=Q): v_aphelion = √(GM(2/Q - 1/a)) — minimum orbital velocity
+* JUPITER'S ROLE IN JFC DYNAMICS:
+  * Jupiter acts as a gravitational shepherd: strong perturbations from Jupiter scatter Kuiper Belt objects and outer solar system bodies into JFC orbits
+  * Close approaches to Jupiter ("Jupiter encounters") can change orbital elements dramatically: Δa/a ~ ΔE/E where ΔE = energy kick from Jupiter fly-by
+  * Comet Shoemaker-Levy 9: tidal disruption during Jupiter encounter (1992), impact chain (1994) = extreme example of Jupiter's gravitational influence
+* GREEN TRAJECTORY LINES:
+  * Two green lines from upper-right (near Jupiter) running lower-left = likely spacecraft trajectory (Galileo, Ulysses, Cassini, or New Horizons used Jupiter gravity assists)
+  * Or: hyperbolic cometary flyby with Jupiter assist
+  * Hyperbolic excess velocity: v_∞² = v_flyby² - v_escape² at Jupiter's orbit
+* SOLAR SYSTEM SCALE:
+  * Scale: if Jupiter orbit = 300px, then 1 AU ≈ 300/5.2 ≈ 58px
+  * Saturn orbit at ~430px → 430/58 ≈ 7.4 AU (actual: 9.54 AU) — slight compression
+
+SPATIAL RELATIONSHIPS:
+* Sun: center
+* Earth: immediately around Sun (near center)
+* Jupiter: upper-right at ~5x Earth-to-Sun distance
+* Saturn: left at ~8x
+* Red comet ellipse: elongated from inner solar system to upper-right (Jupiter aphelion region)
+* Green trajectories: from upper-right through Jupiter space into inner solar system
+
+HIGH-LEVEL SUMMARY:
+A solar system orbital diagram on black background labeled "Jupiter-family" in yellow text, showing the Sun (red-orange center), Earth (blue, innermost white orbit), Jupiter (brown-banded, yellow orbit), and Saturn (ringed, grey orbit). A highly elongated red ellipse represents a Jupiter-family comet (JFC) orbit — perihelia near Earth, aphelia near Jupiter — consistent with Comet 17P/Holmes (T_J ≈ 2.94, P ≈ 6.88 yr, q ≈ 2.05 AU, Q ≈ 5.18 AU). Two green lines show flyby trajectories. Physics content: Tisserand parameter T_J = a_J/a + 2√(a/a_J×(1-e²))cos(i) with 2 < T_J < 3 for JFCs; Kepler's third law T² = a³; vis-viva orbital velocity; Jupiter's role as gravitational shepherd for KBO-to-JFC orbital evolution. This image provides the orbital context for the Comet Holmes multi-wavelength Spitzer imaging series.
+
+*This information was compiled by Claude AI research.*

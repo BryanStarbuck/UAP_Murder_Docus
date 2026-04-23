@@ -1,0 +1,19 @@
+SHAPES:
+* Black-on-white schematic diagram (~960x940px) — an exact duplicate of 3_1978761654025510912, the complex spiral formation schematic with nested "eye" elements
+
+All elements are identical to 3_1978761654025510912:
+* Large outer spiral arc (thin black outline curving from upper-right to lower-right)
+* Beaded arc of graduated circles on the right side (largest ~80px at bottom, decreasing to ~20px at top, ~10-12 circles)
+* Three nested eye shapes (vesica piscis outlines with filled black "pupil" circles and small diamond markers), stacked vertically and decreasing in size from upper to lower
+* Large filled black nucleus circle at lower center
+* Three concentric arc outlines with cross/star node markers in the lower-left
+* Overall logarithmic spiral composition
+
+TEXT: None visible.
+
+COLORS: Black on white.
+
+PHYSICS CONCEPT: See 3_1978761654025510912.txt — logarithmic Fibonacci spiral encoding; nested Julia set / Mandelbrot set eye iteration structure; golden ratio spiral r = ae^(bθ); graduated beaded arc as radial coordinate encoding; concentric arcs with node markers as quantized radial distances.
+
+HIGH-LEVEL SUMMARY:
+Exact duplicate of 3_1978761654025510912. Black-on-white schematic of a spiral/galaxy-type crop formation with three nested vesica-piscis "eye" shapes (each containing a filled black pupil circle and diamond marker, stacked vertically in Fibonacci size scaling), a large nucleus circle at lower center, a graduated beaded arc along the right, and three concentric arc fragments with cross/star node markers at lower-left. Encodes logarithmic Fibonacci spiral geometry and nested complex-map iteration structure (Julia set / Mandelbrot). See 3_1978761654025510912.txt for full description.

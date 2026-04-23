@@ -1,0 +1,92 @@
+SHAPES:
+* Six-panel composite image — a 3×2 grid of distinct visual elements related to vortex physics and geometric symbolism
+* PANEL 1 (upper-left): Black-on-white schematic of a 6-armed star/snowflake with concentric rings:
+  * A central large solid black disc (approximately 120px diameter)
+  * From the center: 6 radial arms at 60° intervals, each arm approximately 150px long, ending in a medium solid black disc (approximately 40px diameter) with a smaller satellite disc (approximately 20px) adjacent at the tip
+  * Inside the central black disc: multiple concentric white rings (approximately 8–10 nested circles, progressively smaller toward center), creating a "bullseye" pattern within the solid disc
+  * Overall: a 6-fold symmetric (C₆) structure resembling a snowflake or a 6-pole magnet plan-view
+* PANEL 2 (middle-left): Same 6-armed star schematic as Panel 1 but rotated or mirrored:
+  * Structurally identical to Panel 1
+  * The concentric rings are visible inside the central disc
+  * The 6 radial arms with terminal discs appear at the same configuration
+  * Possibly a different rotational orientation (30° rotation relative to Panel 1) or same image
+* PANEL 3 (lower-left): A simplified version of the 6-armed star:
+  * Large central solid black ring (thick annulus, approximately 150px outer / 80px inner diameter — a thick black donut shape rather than a solid disc)
+  * 6 radial arms at 60° intervals, similar length (~150px), ending in medium black discs (~40px) and satellite discs (~20px)
+  * The concentric white rings INSIDE the central element are replaced by a SOLID BLACK thick annulus — creating a different encoding (no internal concentric detail, just the ring itself)
+* PANEL 4 (upper-center): Photograph of a glass bottle/jar with a tornado/vortex inside:
+  * A clear glass container (approximately 400mL size, tapered at top)
+  * Inside the container: a visible water vortex/tornado — a dark brown/amber liquid spinning to create a visible conical funnel vortex at the center
+  * The vortex appears as a dark helical funnel tapering from a wide opening at the bottom of the water column to a narrow point at the center-top
+  * The glass container's exterior shows the vortex clearly through the transparent walls
+  * Background: pale gray/blue
+* PANEL 5 (lower-center): Same tornado vortex photograph — inverted or a second image from the same series:
+  * Similar glass container
+  * The vortex structure is visible but appears in the lower half of the container (a different phase or the glass is inverted relative to Panel 4)
+  * The vortex funnel opens downward in this view
+* PANEL 6 (upper-right): Blurry close-up photograph — purple/pink/green tones:
+  * A heavily blurred or out-of-focus image
+  * Purple/magenta tones dominate the left and center
+  * Green tone at right edge
+  * A darker oval/circular shape visible at center-upper area (approximately 80px diameter dark region)
+  * Possible macro photograph of a biological or crystal specimen, or a blurred aerial/thermal image
+  * Content is ambiguous due to extreme blur — possible alien eye, gemstone, or biological material
+* PANEL 7 (lower-center): Black-on-white geometric crop formation schematic:
+  * A large outer circle (~280px diameter)
+  * Inside: an 8-pointed star polygon (octagram) formed by two overlapping squares rotated 45° relative to each other (a {8/3} or {8/2} star polygon pattern)
+  * Additionally: a 4-pointed diamond/square rotated 45° overlapping the squares
+  * Central element: 3 concentric circles (outer ~80px, middle ~50px, inner ~30px with central dot) — the familiar axis/bearing assembly concentric bull's-eye
+  * The geometric pattern is complex: multiple overlapping squares and triangles create a dense web of intersection lines within the outer circle
+* PANEL 8 (lower-right): Same geometric crop formation schematic as Panel 7 but on a BLACK background with WHITE lines:
+  * Identical geometry to Panel 7 but with inverted colors (black background, white lines/shapes)
+  * Outer circle: white outline on black
+  * Interior overlapping squares/stars: white lines
+  * Central concentric: white rings
+
+TEXT VISIBLE:
+* No text visible in any panel
+
+COLORS:
+* Panels 1, 2, 3, 7: black and white (monochrome)
+* Panels 4, 5: clear glass with amber/brown vortex, gray-blue background
+* Panel 6: purple/magenta/green (blurred)
+* Panel 8: black background with white lines
+
+PHYSICS CONCEPTS:
+* This composite presents multiple related physics concepts:
+  1. SIX-ARMED STAR SCHEMATICS (Panels 1, 2, 3): The 6-fold C₆ symmetric structure encodes:
+     * A 6-pole permanent magnet configuration (6 magnets at 60° intervals) — corresponding to a 3-phase 2-pole-pair machine (6 poles = 3 pole pairs for a 3-phase machine)
+     * The concentric rings inside the central disc (Panels 1, 2) encode the magnetic field lines of a disc magnet seen from above — the equipotential contours of a uniform axial B-field are concentric circles
+     * Panel 3's thick annulus (no internal concentric detail) encodes the OUTER FLYWHEEL RING specifically (the annular structure with mass concentrated at the rim, not the field configuration)
+     * The 6 terminal discs at the arm tips = 6 perimeter magnet positions (for a 6-magnet / 6-pole configuration — a simplified variant of the 12-magnet system; the 12-magnet system is 2 stacked 6-magnet layers or one 12-position ring)
+     * C₆ symmetry with concentric rings: the snowflake-like pattern also appears in the Flower of Life geometry (6 circles around 1 center) documented in companion image 3_2042732658900504576
+  2. WATER VORTEX / TORNADO PHOTOGRAPHS (Panels 4, 5): The laboratory tornado vortex in a glass container provides the physical demonstration of the Rankine vortex in a confined geometry:
+     * The vortex funnel visible through the glass walls shows the solid-body rotation core (innermost region, rotating as a rigid body with ω = const) surrounded by the free vortex exterior (v_θ ∝ 1/r)
+     * The dark helical funnel represents the low-pressure core of the vortex — the axis of minimum pressure in a rotating fluid
+     * In the inverted configuration (Panel 5), the vortex opens downward — encoding the DOWNWARD exhaust vortex of the disc propulsion system (the Birkeland current column below the disc)
+     * The two panels together (upward vortex funnel vs. downward vortex funnel) encode the BIDIRECTIONAL vortex structure: upward Birkeland intake column and downward exhaust column
+     * Navier-Stokes for the rotating cylinder: ∂v/∂t + (v·∇)v = -∇p/ρ + ν∇²v, with the vorticity ω = ∇×v concentrated on the vortex axis
+  3. BLURRED SPECIMEN (Panel 6): The ambiguous blurred image may be:
+     * A macro photograph of a bismuth crystal (bismuth is diamagnetic and shows iridescent rainbow coloration)
+     * A blurred UAP photograph or thermal image
+     * A microscopic image of a biological specimen
+     * The purple/green iridescent coloration is consistent with bismuth, which exhibits the strongest diamagnetic properties of any natural element (χ_m ≈ -1.66×10⁻⁴) and is relevant to exotic propulsion material discussions
+  4. OVERLAPPING SQUARES / OCTAGRAM SCHEMATIC (Panels 7, 8): The complex overlapping-squares crop formation schematic encodes:
+     * A {8/3} or {8/2} octagram (8-pointed star polygon) formed by two overlapping squares (∗ — the Star of Lakshmi pattern in Hindu geometry, also the basis of a 2D quasicrystal)
+     * Combined with a central 3-ring concentric bull's-eye (axis bearing assembly) and outer circle boundary
+     * This geometry appears in the 8-fold symmetric formation documented in companion 3_2043081867453505536 (the 8-pointed arrow star formation)
+     * The dual presentation (white-on-black in Panel 7, black-on-white in Panel 8) represents the same structure in electromagnetic duality — the electric field and magnetic field configurations are dual to each other (E→B, B→-E under duality transformation)
+     * The overlapping squares within a circle encode the 8-fold rotational symmetry of the disc system (8-pole stator configuration), which is consistent with the "Vitruvian Alien" formation (companion 3_2045648890054193152) and its 8 radial arms
+
+SPATIAL RELATIONSHIPS:
+* Panel 1 (upper-left): 6-armed star with concentric inner rings, approximately 30% of image width
+* Panel 2 (middle-left): same schematic, same size
+* Panel 3 (lower-left): simplified 6-armed star (annulus, no inner concentric detail)
+* Panel 4 (upper-center): upward water vortex photograph, approximately 30% of image width
+* Panel 5 (lower-center): downward water vortex photograph, same size
+* Panel 6 (upper-right): blurred purple/green specimen, approximately 40% of image width
+* Panel 7 (lower-center): overlapping squares octagram schematic, approximately 30% of image width
+* Panel 8 (lower-right): same octagram schematic inverted (black background), approximately 40% of image width
+
+HIGH-LEVEL SUMMARY:
+Six-panel composite presenting three distinct physics themes: (1) Three 6-armed star schematics (Panels 1/2/3) encoding a 6-pole magnetic configuration with C₆ symmetry — the 6 terminal discs are perimeter magnet positions, the central concentric rings encode axial B-field equipotentials; (2) Two water vortex photographs (Panels 4/5) demonstrating the Rankine vortex structure in a confined geometry — upward funnel (Panel 4) and downward funnel (Panel 5) encoding the bidirectional Birkeland vortex columns above and below the disc propulsion system; and (3) Two dual-presentation octagram/overlapping-squares schematics (Panels 7/8, white-on-black and black-on-white) encoding an 8-fold symmetric stator configuration with central concentric axis assembly. The blurred purple/green specimen (Panel 6) may represent bismuth (the most strongly diamagnetic natural element, χ_m ≈ -1.66×10⁻⁴) relevant to exotic propulsion material discussions.

@@ -1,0 +1,32 @@
+SHAPES:
+* Nearly identical to companion image 3_2044596462236090368 — the same composite annotated schematic with two disc diagrams and connecting dashed lines
+* DIFFERENCES FROM COMPANION:
+  * Different/expanded title text (two statements instead of one)
+  * Same left and right diagrams (side-view and plan-view with same color coding)
+  * Same red and blue dashed connecting lines labeled "up"
+
+TEXT VISIBLE:
+* LEFT TITLE TEXT: "The blue magnet spins and rises up. This pushes up the red flywheel." (multi-colored: "blue" in blue, "rises up" in red, "pushes up" in red, "red" in red)
+* RIGHT TITLE TEXT: "The blue magnet is attracted to the red flywheel, yet moves below when in rapid spin." (multi-colored: "blue" in blue, "red" in red)
+* "up" (red, on red dashed line)
+* "up" (blue, on blue dashed line)
+* Green "Δ Δ" (lift indicators, right diagram)
+
+COLORS:
+* Identical to companion 3_2044596462236090368: white background, black silhouettes, red and blue rings, green arrows, red and blue text
+
+PHYSICS CONCEPTS:
+* This is an enhanced version of companion image 3_2044596462236090368 with a second title statement that adds a new physics claim:
+  1. LEFT STATEMENT (same as companion): "The blue magnet spins and rises up. This pushes up the red flywheel." — The inner blue magnet's upward rise electromagnetically drags the outer red flywheel upward (via attraction)
+  2. RIGHT STATEMENT (new): "The blue magnet is attracted to the red flywheel, yet moves below when in rapid spin."
+     * ATTRACTED BUT MOVES BELOW: This describes a centrifugal/gyroscopic paradox — at low spin rates, the blue magnet is electromagnetically attracted toward the red flywheel (which is above it) and moves toward it (upward). But at high spin rates ("rapid spin"), the gyroscopic and centrifugal forces overcome the electromagnetic attraction, and the blue magnet precesses BELOW the red flywheel midplane.
+     * This is the "magnet below flywheel" state described in companion images 3_2043606594374799360 and 3_2043658065854275584 — the high-spin state where the magnets have moved below the equatorial plane of the flywheel (due to gyroscopic precession)
+     * The paradox: the blue magnet is simultaneously attracted upward (toward the red flywheel) AND forced downward (by gyroscopic precession at high spin). The resolution: at equilibrium spin rate ω_eq, these forces balance — the magnet hovers below the flywheel at a specific axial offset z* where the upward electromagnetic attraction equals the downward gyroscopic force: F_EM(z*) = F_gyro(ω_eq)
+     * This equilibrium defines the operating spin rate of the disc system — the "locked" rotation rate where the magnet-below-flywheel geometry is self-consistently maintained
+
+SPATIAL RELATIONSHIPS:
+* Identical to companion 3_2044596462236090368
+* Two title statements: left (above left diagram) and right (above right diagram)
+
+HIGH-LEVEL SUMMARY:
+Enhanced version of companion image 3_2044596462236090368 — the same two-diagram composite with red/blue dashed "up" connecting lines, but with an expanded dual title: (left) "The blue magnet spins and rises up. This pushes up the red flywheel." and (right) "The blue magnet is attracted to the red flywheel, yet moves below when in rapid spin." The right statement introduces the key gyroscopic paradox: at high spin rates (ω > ω_critical), the gyroscopic precession force exceeds the electromagnetic attractive force, driving the blue magnet below the red flywheel midplane — the "magnet below flywheel" geometry that generates the open-closed flux cycle thrust. The equilibrium spin rate ω_eq is defined by the balance between upward electromagnetic attraction F_EM(z*) and downward gyroscopic precession force F_gyro(ω), determining the self-sustaining operating point of the counter-rotating disc propulsion system.

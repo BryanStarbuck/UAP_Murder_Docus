@@ -1,0 +1,83 @@
+IMAGE DESCRIPTION: 3_1961968742675677184.jpg
+
+SHAPES AND ELEMENTS:
+* Video frame capture / screenshot from a video documentary or presentation
+* Low resolution, approximately 960×720 pixels
+* Heavily compressed JPEG with visible artifacts
+* The image appears to be a frame from a video showing image data from the Soviet Phobos 2 spacecraft
+
+MAIN VISUAL CONTENT:
+* CENTER OF IMAGE: A dark DISC-SHAPED or ELONGATED ELLIPTICAL OBJECT hovering in the center of the frame
+* The object is dark grey-black, highly elongated horizontally: approximately 400px wide × 35px tall (aspect ratio ~11:1)
+* The object appears to be: a classic flying saucer shape (highly flattened disc, lens-shaped profile) viewed from slightly above the equatorial plane, OR a genuine disc-shaped object photographed from below/above at near-horizontal angle
+* The disc is positioned at approximately (480, 360) — center of frame
+* SURROUNDING the disc: a circular or irregular white-light glow / halo pattern
+* The halo is irregularly shaped — brighter above the disc and more diffuse below
+* The background: mottled grey-blue-white with dark cloudy or shadowy regions (upper corners)
+
+DISC DETAILS:
+* Length: approximately 400px in the image
+* Thickness at center: approximately 35px (highly flattened)
+* Profile: a biconvex lens shape (thicker at center, tapered to zero at tips)
+* Color: very dark grey-black (much darker than surroundings)
+* No visible surface texture or markings due to image resolution
+* A faint bright line/rim appears along the top edge of the disc
+
+SURROUNDING GLOW:
+* The disc is surrounded by a roughly circular bright region: white-blue-grey haze
+* This could represent: (1) plasma sheath around the craft; (2) image processing artifact from contrast enhancement; (3) sun glint on the Martian surface or Phobos
+
+CAPTION TEXT:
+* "Phobos 2 images, March 26, 1989"
+* Font: yellow bold outlined text
+* Position: lower-center of frame
+
+COLORS:
+* Background: mottled grey-blue-white with dark shadow regions
+* Disc object: very dark grey-black
+* Surrounding halo: white-blue-grey
+* Caption: yellow text with black outline
+
+PHYSICS CONCEPTS:
+* PHOBOS 2 SPACECRAFT — ANOMALOUS OBJECT:
+  * The Phobos 2 spacecraft (USSR, launched July 12, 1988) reached Mars orbit in January 1989 and was preparing to deploy two landers onto Phobos
+  * On March 27, 1989, contact with Phobos 2 was abruptly lost — just before the planned Phobos landing attempt
+  * The final images transmitted before loss of contact included thermal infrared images (TERMOSKAN instrument) that showed:
+    * A large elliptical shadow on the Martian surface ~25km long × 19km wide
+    * The shadow appeared inconsistent with Phobos itself (wrong size, wrong position)
+  * The date "March 26, 1989" in this caption = one day before contact was lost
+  * These final images have been widely discussed in UAP research as evidence of an anomalous large object near Mars at the time
+* THE DISC IN THE IMAGE:
+  * The dark disc-shaped object shown here:
+    * OFFICIAL EXPLANATION: image artifact from image reconstruction / digital processing of the Soviet data; or Phobos 2's own antenna or solar panel photographed against the Martian surface
+    * UAP RESEARCHER INTERPRETATION: a large disc-shaped craft (estimated ~25km in length based on shadow size correlation) intercepted the Phobos 2 spacecraft shortly before the spacecraft lost contact
+  * The "shadow" detected by TERMOSKAN (thermal IR): if real, an object of ~25km length at orbital altitude ~300km would subtend angle θ = 25/300 ≈ 0.083 radians ≈ 4.7° — consistent with a very large near-field object
+* PHOBOS ANOMALY PHYSICS:
+  * If the shadow was from a real object:
+    * Apparent angular size from spacecraft altitude h: θ = L_object / h
+    * Shadow length on surface S = h × tan(θ_sun_angle) × L_object × cos(orientation_angle)
+    * For shadow 25km long at Mars orbital altitude 300-400km: L_object ≈ 25×(sin elevation angle) ~ 1-20km
+  * Soviet General R. Alekseyev's statement (post-mission): "before the connection broke down completely, the last frame contained a disc, which was identified later"
+  * Boris Bolitin (Phobos mission scientist): "we have a very interesting object near Phobos"
+* SPACECRAFT LOSS THEORIES:
+  * Loss of contact on March 27, 1989: officially attributed to computer command error by Soviet controllers
+  * UAP community interpretation: interference or interception by the anomalous object
+  * Supporting anomalous evidence: the sequence and direction of spacecraft attitude changes before contact loss were unexpected; the final transmission showed a disc in the imagery
+* DISC AERODYNAMICS AND EM SHIELD:
+  * If the disc is real and ~1-20km in length:
+    * Surface area: A ≈ π(L/2)² × 2 (top + bottom) + π L d (sides) for a very flat disc (d << L)
+    * For L=20km, d=0.1km: A ≈ 630 km²
+    * Electromagnetic cross-section σ_EM ≈ A × Q_EM for microwave → very large radar cross-section
+    * The plasma sheath observed around some UAPs could reduce radar cross-section by: σ_plasma = σ_0 × |1 - ω_p²/ω²| where ω_p = plasma frequency, ω = radar frequency
+    * Plasma frequency: ω_p = √(n_e e²/ε₀ m_e) → for n_e = 10¹⁸ m⁻³: ω_p ≈ 56 GHz → all radar below 56 GHz is absorbed/reflected
+
+SPATIAL RELATIONSHIPS:
+* Disc object: center of image
+* White halo: surrounding disc
+* Dark shadow regions: upper corners
+* Caption "Phobos 2 images, March 26, 1989": bottom-center
+
+HIGH-LEVEL SUMMARY:
+A low-resolution video frame capture labeled "Phobos 2 images, March 26, 1989" (yellow bold text, bottom-center) showing a dark, highly elongated disc-shaped object (~400×35px, aspect ratio ~11:1) centered in the frame against a mottled grey-blue-white background with surrounding bright halo. This is from the final images transmitted by the Soviet Phobos 2 spacecraft on March 26, 1989 — one day before contact was irretrievably lost on March 27 (just before the planned landing on Phobos). Physics content: TERMOSKAN thermal IR instrument detecting a ~25km elliptical shadow on the Martian surface inconsistent with Phobos itself; apparent angular size θ = L/h for object at spacecraft altitude; plasma sheath EM cross-section reduction ω_p = √(n_e e²/ε₀ m_e); General Alekseyev's post-mission statement about the "disc" in the last frames. UAP interpretation: a large disc-shaped non-human craft intercepted Phobos 2 shortly before loss of contact.
+
+*This information was compiled by Claude AI research.*

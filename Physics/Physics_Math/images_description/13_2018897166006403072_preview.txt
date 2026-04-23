@@ -1,0 +1,78 @@
+IMAGE DESCRIPTION: 13_2018897166006403072_preview.jpg
+
+SHAPES AND ELEMENTS:
+* Close-up photograph of a ring generator prototype with colorful stripe disc magnets
+* Mounted on a clear acrylic or transparent plate/disc (same platform visible in 13_2018894777127936000_preview)
+* Multiple small cylindrical permanent magnets with colored stripe patterns arranged in a ring
+* Magnets: approximately 8-12mm diameter × 5-8mm height cylindrical discs
+* Stripe colors on magnets: red, blue, yellow, green horizontal bands (standard magnet-set identification coloring)
+* Magnets arranged at equal angular intervals around a circle — ring formation
+* Each magnet connected with wiring via alligator clips
+* Alligator clip leads: multiple colors (red, black, others) connecting adjacent magnets or to external terminals
+* Vertical cylindrical elements visible in background: wound with red tape/wire, standing upright
+* Blue component packaging visible at rear right of frame
+
+MAGNET ARRANGEMENT:
+* Approximate count: 8-12 magnets in the ring (exact count uncertain due to perspective)
+* Angular spacing: approximately 30-45° between magnets → 8-12 pole machine
+* Ring diameter: estimated 10-15cm based on magnet scale
+* The magnets appear to alternate N-S polarity around the ring (standard Halbach or alternating-pole arrangement)
+* The colored stripes serve as visual orientation indicators for pole direction
+
+WIRING:
+* Each magnet has at least one wire attached via alligator clip
+* Wire network connects all magnets — either in series (high voltage, low current) or parallel (low voltage, high current)
+* The alligator clip connection method is typical of prototype/experimental setups where connections need to be easily reconfigured
+
+VERTICAL ELEMENTS (background):
+* Two or more cylindrical elements standing vertically, wound with red wire or red tape
+* These are likely coil formers / bobbin assemblies — the stator coils that would be placed adjacent to the rotating magnet ring
+* Each wound element represents one phase coil or pole-piece coil
+
+COLORS:
+* Magnets: red, blue, yellow, green stripes on silver/metallic cylinder
+* Wires: red, black, yellow, and other colors
+* Alligator clips: red and other colors
+* Background wound elements: red wire/tape on dark former
+* Packaging: blue cardboard box (component packaging)
+* Acrylic base: clear/transparent
+
+TEXT: Partial text on blue packaging (too small to read clearly at this resolution).
+
+PHYSICS / ENGINEERING CONCEPTS:
+* PERMANENT MAGNET ROTOR RING:
+  * This assembly represents the rotor element of a radial-flux permanent-magnet machine
+  * Each magnet provides one pole; alternating N-S around the ring creates the required multipole field
+  * For N magnets alternating N-S: N/2 pole-pairs, synchronous speed n_s = 60f/p (Hz) where p = pole-pairs
+  * For 8 magnets (4 pole-pairs): n_s = 60×50/4 = 750 RPM (50Hz supply); 60×60/4 = 900 RPM (60Hz supply)
+  * For 12 magnets (6 pole-pairs): n_s = 60×50/6 = 500 RPM; 60×60/6 = 600 RPM
+
+* RELATIONSHIP TO COMPANION IMAGE (13_2018894777127936000):
+  * The 6-coil stator (previous image) and this magnet ring (rotor) together form the complete generator/motor assembly
+  * Stator coils are stationary; the magnet ring rotates (or in the inverse: magnet ring stationary, coils rotate)
+  * The alligator-clip wiring allows easy measurement of EMF as a function of angular position
+
+* HALBACH ARRAY POSSIBILITY:
+  * If the magnets are arranged in a Halbach array (each successive magnet rotated 90° from previous):
+    * The field is strongly enhanced on one face and nearly zero on the other
+    * For a ring Halbach array: the interior field is enhanced → stronger coupling with stator coils
+    * The colored stripe pattern could indicate Halbach orientation (stripes perpendicular to polarization axis for tangentially magnetized magnets)
+
+* RELEVANCE TO DISC PROPULSION:
+  * This ring of permanent magnets is a miniaturized prototype of the "outer ring" of the proposed counter-rotating disc system
+  * In the UAP propulsion hypothesis: one disc carries a ring of permanent magnets; the opposing disc carries a corresponding set of coils
+  * As the discs counter-rotate: the relative motion between magnet ring and coil ring generates rotating flux and induced EMF
+  * The Faraday/Muller homopolar generator analogy: the hub extracts current from the rotating field
+
+* PROTOTYPE ITERATION:
+  * The presence of two different prototype assemblies (6-coil stator and magnet ring) in separate images suggests iterative construction and testing
+  * This is consistent with an active experimental program testing ring generator physics at bench scale
+
+SPATIAL RELATIONSHIPS:
+* Magnet ring assembly: foreground, center of frame
+* Vertical wound cylindrical elements: mid-ground, behind the ring
+* Blue packaging: rear right
+* Acrylic base plate: below the ring assembly
+
+HIGH-LEVEL SUMMARY:
+Close-up photograph of a permanent magnet ring assembly for a prototype radial-flux generator. Multiple small cylindrical magnets with colorful stripe patterns (red, blue, yellow, green bands) are arranged in a ring formation on a clear acrylic base, each connected by alligator-clip wiring. This represents the rotor element of the ring generator system, paired with the 6-coil stator shown in 13_2018894777127936000_preview. Vertical red-wire-wound cylindrical elements in the background are likely the stator coil formers. Together with the companion image, this documents a complete bench-scale prototype of the radial-flux permanent-magnet ring generator that models the counter-rotating disc propulsion concept. The prototype is in active testing phase (alligator clips, experimental wiring), consistent with ongoing experimental investigation of the disc-generator UAP propulsion hypothesis.

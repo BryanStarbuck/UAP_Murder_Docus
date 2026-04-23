@@ -1,0 +1,59 @@
+SHAPES:
+* Composite annotated schematic — two disc configuration diagrams side by side with magnetic pole labels and directional text labels
+* This image is a variant of the N/S-labeled dual disc composite series (companions: 3_2045263848970858496, 3_2045371494319202304). The left diagram is identical to those companions. The right diagram is the same plan-view but with "down" (upper position) and "up" (lower position) text labels replacing the green Δ symbols used in the other variants.
+* LEFT DIAGRAM (side-view): Identical to companions:
+  * Large outer RED ring (~380px diameter)
+  * Inner BLUE ring (~280px diameter)
+  * Main large BLACK disc/flywheel (crescent-like, side-view perspective)
+  * Upper smaller black disc element (~60px) above the blue ring
+  * Decreasing circle chain below (4–5 circles, ~40–20px)
+  * Four green dashed lines forming X-pattern quadrant dividers inside the blue ring
+  * Four red "N" labels at quadrant outer positions
+  * One large cyan "S" label at center of black inner disc (~50px font)
+* RIGHT DIAGRAM (plan-view) with directional text labels:
+  * Outer graduated circle ring (~350px outer diameter): ~20–24 black circles arranged around perimeter, each ~30px
+  * Red circle arc (~250px diameter) inside the outer ring
+  * Blue dotted inner arc (~200px diameter)
+  * Central 3-ring concentric element (outer ~80px, inner ~30px, dot ~15px)
+  * Upper connecting element: red-filled circle (~30px) at top of plan-view, connected by short vertical line to top of red arc
+  * Decreasing circle chain below central element (4–5 circles, 20–8px)
+  * "down" label (green text, approximately 30px, at the upper position of the right diagram — above the upper brush contact)
+  * "up" label (green text, approximately 30px, inside the right diagram — below the central concentric, at the lower interior position)
+
+TEXT VISIBLE:
+* "N" (red, four instances on left diagram at outer quadrant positions)
+* "S" (cyan/blue, large, inside the central disc of left diagram)
+* "down" (green, upper position of right diagram)
+* "up" (green, lower position of right diagram)
+
+COLORS:
+* Background: white
+* Main silhouettes: black
+* Outer ring (left): red
+* Inner ring (left): blue
+* Pole labels: "N" red, "S" cyan
+* Quadrant dashed lines: green
+* Directional labels: green
+* Outer perimeter circle ring (right): black
+* Red arc (right): red
+* Blue dotted arc (right): cyan dashed
+
+PHYSICS CONCEPTS:
+* This variant of the dual-view disc schematic introduces explicit directional labels ("down" at top, "up" at lower interior) replacing the Δ lift arrow symbols used in companion variants. This encoding specifically identifies the DIRECTION OF MOTION for the two regions of the disc:
+  1. "down" (upper position, above the brush contact): The text "down" at the top of the plan-view indicates that the upper brush contact element MOVES DOWNWARD relative to the disc body. This is the gyroscopic paradox encoding: when the inner spinning magnet accelerates past ω_critical, precession drives the magnet BELOW the flywheel midplane (the "magnet below flywheel" configuration documented in companion images 3_2043606594374799360, 3_2043658065854275584, 3_2043715801421905920). The top of the disc plan-view corresponds to the upward connector that moves DOWN as the magnet precesses below center.
+  2. "up" (lower interior position): The text "up" at the lower interior position indicates that the disc body itself (or the lower exhaust vortex connection) has an UPWARD motion vector — the net lift thrust direction. The lower interior of the disc is where the Birkeland exhaust column exits downward but the reaction force pushes the disc UPWARD.
+  3. THE COUNTER-INTUITIVE ORIENTATION: "down" at the top and "up" at the bottom encodes the Step 1 → Step 2 oscillatory thrust cycle:
+     * In the "magnet below flywheel" configuration (the gyroscopic precession equilibrium state), the top connector moves downward (toward the lowered magnet position) while the disc itself experiences net upward thrust from the J×B Lorentz force (F_z = μ ∂B/∂z acting on the precessing magnetic dipole)
+     * This is the same thrust mechanism described in companion images 3_2043715801421905920 (Step 1) and 3_2043715821369970688 (Step 2)
+  4. LEFT DIAGRAM PHYSICS (identical to all N/S-labeled companions): Inner South (blue "S" inner disc) attracted to Outer North (red "N" ring) → magnetic bottle topology in gap → F_z = μ(∂B/∂z) ≠ 0 → axial lift force on inner spinning element
+
+SPATIAL RELATIONSHIPS:
+* Left diagram: side-view, left half of image (~45% width)
+* Right diagram: plan-view, right half of image (~55% width)
+* "down" label: upper position of right diagram (above brush contact circle)
+* "up" label: lower interior position of right diagram (below central concentric)
+* N labels: four, outer quadrant positions of left diagram red ring
+* S label: center of left diagram inner disc
+
+HIGH-LEVEL SUMMARY:
+Variant of the N/S pole-labeled dual disc composite — left side-view diagram is identical to companions (4 red "N" at outer ring quadrant positions, cyan "S" on inner disc, green dashed X-quadrant dividers), while the right plan-view diagram replaces the green Δ lift arrow symbols with explicit directional text: "down" at the upper brush contact position and "up" at the lower interior position. This counter-intuitive labeling (down-at-top, up-at-bottom) encodes the gyroscopic precession equilibrium state of the inner spinning magnet: when ω > ω_critical, precession drives the inner magnet BELOW the flywheel midplane, causing the top connector to move downward while the disc body experiences net upward thrust via the Lorentz body force (J×B) and magnetic flux gradient force (F_z = μ ∂B/∂z) — the same mechanism described in the Step 1/Step 2 oscillatory thrust cycle in companion images 3_2043715801421905920 and 3_2043715821369970688.

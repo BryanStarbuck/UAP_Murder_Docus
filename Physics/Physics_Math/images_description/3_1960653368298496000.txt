@@ -1,0 +1,47 @@
+IMAGE DESCRIPTION: 3_1960653368298496000.jpg
+
+SHAPES AND ELEMENTS:
+* Nearly square false-color thermal/hot-colormap astronomical image
+* NO black chip gap corners — full frame is filled with image data (distinguishing feature vs. companion images 3_1959780062506717184, 3_1960388851488509952)
+* Background: medium-dark blue-violet, smoothly varying (no staircase black corners)
+* Central source: bright white saturated nucleus (~4×4 pixels) → yellow → orange → red → pink → violet → blue background
+* Coarse pixelation: large visible square pixels throughout (similar scale to companion images)
+* The isophotes are slightly asymmetric: the coma extends very slightly further toward the upper-right than lower-left, but the asymmetry is less pronounced than in the chip-gap images
+* A cross-shaped artifact is visible at the nucleus: the white saturated pixels form a slight plus (+) pattern rather than a circular blob — this is a PSF diffraction pattern or pixel saturation bloom artifact
+* Overall smooth circular appearance with gradual radial falloff from white to blue
+
+COLORS:
+* Background: blue-violet gradient (darker at upper corners, lighter violet-blue at lower areas)
+* Core: white (saturated, showing slight plus-pattern)
+* Inner halo: yellow → orange
+* Mid-coma: red → pink
+* Outer coma: violet → blue
+* No black regions (entire frame has data)
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* FULL-FRAME COMA IMAGE (NO CHIP GAP):
+  * This image differs from 3_1959780062506717184, 3_1960388851488509952, 3_1960517124507725824, 3_1960571758018498560 — those all have the L-shaped black chip gap in the lower corners
+  * This full-frame image suggests: either a different instrument/detector with full coverage, OR the object was positioned away from the chip gap, OR this is a different observation epoch
+  * The absence of chip gap makes it easier to characterize the full coma extent and asymmetry
+* PLUS-PATTERN SATURATION ARTIFACT:
+  * The white nucleus shows a slight cross/plus (+) pattern — this is characteristic of:
+    * Pixel saturation bleeding (charge bleeding along columns in CCD detectors — saturation in one pixel bleeds into adjacent pixels along the column direction)
+    * PSF diffraction spike (for telescopes with a secondary mirror support structure — a 4-legged spider creates 4 diffraction spikes; some telescopes have 3-legged or 2-legged spiders)
+  * For a compact unresolved nucleus, the plus-pattern indicates the nucleus is at or near saturation
+  * Saturation means the absolute flux of the nucleus is a lower limit only — the true nucleus magnitude cannot be measured from this pixel
+* SYMMETRIC COMA VS. ASYMMETRIC (RADIATION PRESSURE):
+  * The isophotes here are closer to circular/symmetric than in the chip-gap images
+  * Possible explanations: (1) earlier observation epoch before asymmetry developed; (2) different viewing geometry (anti-sunward direction projected nearly behind the observer); (3) higher spatial resolution making the tail/coma asymmetry less obvious; (4) different wavelength filter (gas emission vs. dust continuum — dust shows stronger radiation pressure asymmetry)
+* HASER MODEL AND SURFACE BRIGHTNESS:
+  * The smooth radial falloff (white → blue) follows the Haser model I(r) ∝ r^{-n}
+  * The absence of visible structure (no jets, fans, or spiraling shells visible at this resolution) suggests either: azimuthally symmetric outgassing, or the resolution is insufficient to resolve outgassing features
+
+SPATIAL RELATIONSHIPS:
+* Nucleus: approximately centered in frame, very slightly left of center
+* Coma: smoothly filling the frame, gradual radial falloff
+* No chip gap — full frame with data to all corners
+
+HIGH-LEVEL SUMMARY:
+A false-color hot-colormap cometary coma image distinguished from companion images (3_1959780062506717184, 3_1960388851488509952) by the absence of the L-shaped black chip gap — the full frame is filled with data. Hot colormap: white nucleus (with slight plus-pattern saturation/diffraction artifact) → yellow → orange → red → pink → violet → blue background. Coarse pixelation (large visible square pixels). The coma isophotes are approximately circular (less pronounced asymmetry than chip-gap images). Part of the 3I/ATLAS interstellar comet coma imaging series. Physics: Haser model I(r) ∝ r^{-n}, pixel saturation bloom (charge bleeding along CCD columns), PSF diffraction spike, radiation pressure asymmetry (weaker here than companion images), full-frame detector coverage.

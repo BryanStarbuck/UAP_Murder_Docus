@@ -1,0 +1,51 @@
+SHAPES:
+* Black-on-white line art schematic — a plan-view diagram of the disc propulsion system with a novel outer ring representation
+* OUTER RING: A circular ring (approximately 400px diameter, thin black outline only — NOT filled) with crescent/moon elements:
+  * At regular intervals around the thin outer ring: approximately 12 solid black crescent or D-shape elements
+  * Each crescent: approximately 50px wide, half-moon shape
+  * The crescents alternate between being on the OUTSIDE of the ring and on the INSIDE of the ring:
+    * Outer crescents: approximately 6, pointing outward (the black solid area is outside the ring circle line)
+    * Inner crescents: approximately 6, pointing inward (the black solid area is inside the ring circle line)
+  * This creates an alternating pattern of outward/inward crescents around the circumference — encoding alternating North/South magnetic poles
+* CENTRAL ELEMENT: Inside the outer ring, at the geometric center
+  * A concentric ring arrangement: approximately 3 nested circles (largest approximately 100px, smallest approximately 30px)
+  * The innermost element: a solid black circle (approximately 30px)
+  * The intermediate ring: a thin black circle around the solid center
+  * The outer ring: a thin black circle around the intermediate ring
+  * This is the axis/hub bearing assembly (3 concentric rings = 3-layer bearing race or 3 concentric voltage tap radii)
+* LOWER ATTACHMENT ELEMENT: Below the outer ring, at the bottom of the composition
+  * A large circle (approximately 120px diameter, thin black outline only) — a secondary disc
+  * This circle partially overlaps the outer ring boundary
+  * Below the large circle: a sequence of 4-5 decreasing solid black circles (approximately 30px → 10px) arranged vertically — the Birkeland current vortex tail
+
+TEXT VISIBLE:
+* No text
+
+COLORS:
+* Black line art on white background
+
+PHYSICS CONCEPTS:
+* This schematic introduces a key structural detail: the alternating outward/inward crescents around the outer ring:
+  1. ALTERNATING INWARD/OUTWARD CRESCENTS (12 total, alternating):
+     * Each crescent represents one permanent magnet at the disc perimeter
+     * OUTWARD crescent = North pole magnet (flux exits outward from the disc rim)
+     * INWARD crescent = South pole magnet (flux enters inward toward the disc center)
+     * ALTERNATING N-S-N-S around the ring = the standard multi-pole permanent magnet machine topology
+     * 12 crescents = 6 North + 6 South → 6 pole pairs → 3-phase, 6-pole-pair = 12-pole machine (exactly the Norman Paulsen specification: "twelve magnets")
+  2. THIN OUTER RING CIRCLE (vs. solid crescents): The outer ring is shown as a thin outline (not a solid disc) — this encodes:
+     * The disc itself has very low mass (thin rim construction) — the magnets are the substantial elements
+     * The thin-rim construction minimizes centrifugal structural stress while maximizing the magnet-to-disc-mass ratio
+  3. CENTRAL 3-LAYER CONCENTRIC (axis assembly): The three nested rings around the central solid dot represent:
+     * Inner ring: the rotation axis (shaft)
+     * Middle ring: the inner bearing race (allows the two counter-rotating elements to spin at different speeds)
+     * Outer ring: the outer bearing race or the inner flux coupling zone
+  4. LOWER SECONDARY DISC + DECREASING CIRCLE TAIL: The large lower circle (counter-rotating secondary disc, partially overlapping the main ring) with its decreasing circle tail below represents the complete bottom of the disc stack — consistent with all companion schematics
+
+SPATIAL RELATIONSHIPS:
+* Thin outer ring with alternating crescents: main large element (top)
+* Central 3-ring concentric hub: exact geometric center
+* Large lower secondary disc: partially overlapping the outer ring at the bottom
+* Decreasing circle tail: below the secondary disc
+
+HIGH-LEVEL SUMMARY:
+Black-on-white line art plan-view schematic of the electromagnetic disc propulsion system, with a distinctive outer ring showing alternating inward-pointing and outward-pointing solid black crescents (approximately 12 total, alternating) around a thin-outline circle — encoding the 12 alternating North-South permanent magnets at the disc perimeter (Norman Paulsen's 12-magnet specification in a 6-pole-pair, 3-phase, 12-pole machine configuration). The central element shows 3 nested concentric rings around a solid center dot (shaft + inner bearing race + outer bearing race / flux coupling zone). A large secondary disc (counter-rotating pair element) partially overlaps the outer ring at the bottom, with a 4-5 element decreasing circle tail below (Birkeland current vortex exhaust). The alternating crescent orientation (outward = North, inward = South) is the most explicit magnetic polarity encoding in the disc perimeter schematic series.

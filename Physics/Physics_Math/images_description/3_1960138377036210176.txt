@@ -1,0 +1,29 @@
+IMAGE DESCRIPTION: 3_1960138377036210176.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1960123627871027200 — the same false-color intensity map (rainbow/jet colormap) of an astronomical cometary or plasma source
+* The pixel structure, brightness distribution, asymmetric shape, and L-shaped lower-left no-data region are identical to 3_1960123627871027200
+* Minor differences: possible slight differences in contrast, brightness normalization, or pixel-level processing artifacts; the images appear to be the same dataset processed with very similar but not identical parameters
+
+SEE 3_1960123627871027200 FOR FULL DESCRIPTION.
+
+KEY CHARACTERISTICS (same as 3_1960123627871027200):
+* Color scale: black → deep blue → purple → red → orange → yellow → white
+* Central nucleus: bright white, left-of-center
+* Inner coma: yellow-orange
+* Outer coma: red-to-purple, slightly asymmetric (upper-right extension)
+* No-data region: L-shaped staircase in lower-left
+* Image type: false-color cometary/plasma emission map
+
+PHYSICS / INFORMATION CONCEPTS:
+* DUPLICATE IMAGE NOTE:
+  * This is a near-duplicate of 3_1960123627871027200
+  * The existence of two nearly identical versions suggests: either the same image was saved/shared twice in different quality/compression settings, or two processing variants of the same observation
+  * Both images document the same astronomical phenomenon (cometary coma or plasma source map)
+  * See 3_1960123627871027200 for complete physics analysis: Haser model (N(ρ) ∝ 1/ρ), radiation pressure asymmetry, detector chip edge interpretation
+
+SPATIAL RELATIONSHIPS:
+* Identical to 3_1960123627871027200
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1960123627871027200 — the same false-color (rainbow/jet colormap) intensity map of a cometary or plasma source, showing a bright white nucleus (left-of-center) surrounded by yellow-orange inner coma and red-to-purple outer coma with slight asymmetry (upper-right extension), and an L-shaped lower-left no-data region (detector chip edge). Represents a second save/compression/processing variant of the same data. See 3_1960123627871027200 for complete physics analysis (Haser model, radiation pressure asymmetry, Jeans collapse, 3I/ATLAS context).

@@ -1,0 +1,66 @@
+IMAGE DESCRIPTION: 3_1960140859267223552.jpg
+
+SHAPES AND ELEMENTS:
+* False-color astronomical image (low-resolution, highly pixelated)
+* Color scheme: hot/warm colormap — black (zero) → red → orange → yellow → white (maximum)
+* NO dark or cool-colored regions (unlike 3_1960123627871027200 which had blue/purple)
+* A central bright object dominates the image
+* Small green cross-hair (+) visible at the center of the brightest pixel region (a coordinate marker)
+
+STRUCTURE:
+* CENTRAL NUCLEUS: a small white-bright region (approximately 3×3 pixels) at the approximate center of the bright region; the green cross-hair is centered on or near this white spot
+* INNER REGION: a brighter yellow-orange region surrounding the nucleus, approximately 10-20 pixels in radius
+* OUTER REGION: the entire image is filled with orange-red mottled emission — there is NO dark background visible; the emission fills the frame to the edges
+* The entire image is essentially a "zoom-in" to just the inner coma region; the outer coma extends beyond the image boundaries
+
+CROSS-HAIR:
+* A green "+" (plus sign) cross-hair centered on the brightest pixel
+* This is a standard astrometry marker indicating the measured centroid position of the source
+* The horizontal and vertical green lines extend across most of the image
+* This centroid marker is used for: astrometric measurement (precise position determination), photometric aperture centering, or tracking of a moving object
+
+PIXEL STRUCTURE:
+* The image is noticeably blocky/pixelated — each pixel is large relative to the image size
+* This indicates: either a low-resolution detector, or a heavily zoomed/rebinned image
+* Individual pixels visible as distinct squares in the mottled red-orange background
+
+COLORS:
+* No black regions — the entire frame has positive signal
+* Minimum (corners): dark orange-red
+* Moderate (outer zone): orange-red
+* High (inner zone): bright yellow-orange
+* Maximum (nucleus): white
+* Cross-hair: bright green
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* COMETARY NUCLEUS CENTROID MEASUREMENT:
+  * This image appears to be: a heavily zoomed-in view of the inner coma/nucleus region of a comet or interstellar object, with a centroid cross-hair marking the measured nucleus position
+  * The green cross-hair = astrometric centroid: the intensity-weighted mean position of the source (not necessarily the true nucleus location, as the coma can shift the centroid)
+  * Centroid calculation: x_c = Σ(I_i × x_i) / Σ(I_i), y_c = Σ(I_i × y_i) / Σ(I_i) summed over all pixels above a threshold
+  * The centroid position defines: the astrometric position of the object on the sky → used to compute the orbital ephemeris
+* ASTROMETRY OF A MOVING OBJECT:
+  * For a solar system or interstellar moving object: the position changes over time
+  * Astrometric precision: typically 0.1-0.5 arcsec for ground-based telescopes; 0.01 arcsec for space telescopes
+  * The cross-hair is placed on the measured centroid to confirm the measurement
+  * For an interstellar object like 3I/ATLAS: the astrometric positions over multiple nights define the hyperbolic trajectory, allowing: velocity vector, closest approach distance, and interstellar origin direction to be computed
+* INNER COMA PHYSICS (at the scale shown):
+  * The inner coma (within ~1000-10000 km of the nucleus):
+    * Freshly sublimated molecules (H₂O, CO₂, CO) are released from the nucleus at v_gas ≈ 0.5-1 km/s
+    * The gas drags dust grains away from the nucleus: dust grain velocity ≈ gas velocity × (gas-to-dust drag coupling), typically v_dust ≈ 0.1-0.5 km/s
+    * In the inner coma: the gas is collisionally coupled (mean free path λ < coma size); further out: free molecular flow
+  * The brightness profile of the inner coma: I(ρ) ∝ ρ^(-1) for optically thin gas; steeper for optically thick emission or dust scattering
+* CONNECTION TO INTERSTELLAR OBJECTS:
+  * If this is 3I/ATLAS: this close-in view of the nucleus region shows the active outgassing source
+  * If this is another comet: the astrometric cross-hair is used for precise orbit determination — critical for confirming a hyperbolic trajectory (interstellar vs. solar system origin)
+  * The centroid measurement accuracy determines: how precisely the incoming velocity vector (and thus the interstellar origin direction) can be computed
+
+SPATIAL RELATIONSHIPS:
+* White nucleus: approximately image center (at green cross-hair)
+* Yellow-orange inner coma: surrounding nucleus, filling inner ~30% of image radius
+* Orange-red outer coma: filling remaining image area
+* Green cross-hair: centered on nucleus
+
+HIGH-LEVEL SUMMARY:
+Heavily zoomed/rebinned false-color intensity image (warm colormap: red→orange→yellow→white, no dark background — entire frame filled with coma emission) of the inner coma region of a comet or interstellar object, with a green astrometric cross-hair (+) centered on the white-bright nucleus pixel(s). The image represents a close-in view of the nucleus/inner coma where the outgassing source is directly observed. Physics: astrometric centroid measurement (x_c = Σ(I_i x_i)/ΣI_i) for precise orbital trajectory computation; inner coma physics at collisional scales (gas velocity v_gas≈0.5-1 km/s, dust drag coupling v_dust≈0.1-0.5 km/s, brightness profile I(ρ)∝ρ^{-1}); hyperbolic orbit confirmation from precise astrometry. Part of the interstellar object imaging series (3I/ATLAS context, alongside 3_2006249444371771392, 3_1959780062506717184, 3_1960123627871027200).

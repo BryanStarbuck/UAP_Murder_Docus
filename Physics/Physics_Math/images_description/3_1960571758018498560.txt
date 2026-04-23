@@ -1,0 +1,33 @@
+IMAGE DESCRIPTION: 3_1960571758018498560.jpg
+
+SHAPES AND ELEMENTS:
+* Near-duplicate of 3_1960388851488509952 and 3_1960517124507725824 — nearly square false-color thermal/hot-colormap coma image
+* Black L-shaped / diagonal staircase chip gap: lower-left corner (large triangular black region) and small lower-right black triangle
+* Blue-violet background: blue lower-right, violet-purple toward upper-right
+* Central bright source: white saturated nucleus → yellow → orange → red → pink-violet → blue
+* Coarse pixelation: individual square pixels clearly visible
+* Asymmetric coma extension: further toward upper-right (anti-sunward/tail direction)
+* Two small blue/cyan isolated pixels in the left edge of the chip gap boundary (possibly stray light or bad pixels at the chip edge)
+* The content and appearance are essentially identical to 3_1960517124507725824
+
+COLORS:
+* Background: blue to violet gradient
+* Core: white (saturated)
+* Halo: yellow → orange → red → pink → violet → blue
+* Chip gap: solid black
+* Edge artifact: small blue-cyan isolated pixels at left chip boundary
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* THIRD INSTANCE OF THIS COMA IMAGE:
+  * This is a near-duplicate of 3_1960388851488509952 and 3_1960517124507725824 — the same pixelated hot-colormap cometary coma image appearing multiple times in this collection
+  * The small blue/cyan pixel artifacts at the left chip boundary are the most distinguishing feature (consistent with bad pixels or stray light at the detector edge)
+  * Physics content: identical to companion images — Haser model, radiation pressure asymmetry, detector binning, chip mosaic boundary
+  * See 3_1959780062506717184 and 3_1960388851488509952 for full physics analysis
+
+SPATIAL RELATIONSHIPS:
+* Identical layout to companion images (3_1960388851488509952, 3_1960517124507725824)
+
+HIGH-LEVEL SUMMARY:
+Near-duplicate of 3_1960388851488509952 and 3_1960517124507725824 — third rendering/copy of the pixelated hot-colormap cometary coma image with L-shaped chip gap, asymmetric upper-right coma extension, and white-yellow-orange-red-violet-blue thermal colormap. Distinguished by small blue-cyan artifact pixels at the left chip boundary edge. Part of the 3I/ATLAS interstellar comet coma analysis series. See 3_1959780062506717184 for the primary full-resolution description.

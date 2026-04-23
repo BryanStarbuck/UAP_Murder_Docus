@@ -1,0 +1,84 @@
+IMAGE DESCRIPTION: 3_1943543670118191105.jpg
+
+SHAPES AND ELEMENTS:
+* Three-panel composite image showing three separate crop formations
+* White dividers between panels
+* Caption text overlaid on white areas
+* Main text box (lower-left, black border): "Three 'basket weaves' in England recently: men with rope and boards have NEVER made even one!"
+* Three aerial photographs of circular crop formations, each exhibiting a woven/basket-weave interior pattern
+
+PANEL 1 (top-left, labeled "June 17, 2025"):
+* Circular formation in a golden-brown dry field
+* Interior filled with a complex weave/crosshatch pattern (multiple sets of diagonal lines crossing at angles of approximately 45° and 135°, creating a diamond/rhombus cell pattern)
+* The weave pattern covers the entire interior of the circle uniformly
+* A thin outer ring annulus separates the woven interior from the surrounding field
+* Surrounding field appears harvested stubble or very dry crop (dark reddish-brown)
+
+PANEL 2 (top-right, labeled "July 6, 2025"):
+* Circular formation in a green-gold field
+* Interior similarly filled with a woven/basket-weave pattern — similar to Panel 1 but slightly different in color (greener, fresher crop)
+* The weave is slightly coarser (fewer diamonds visible = larger cell size or slightly different viewing angle)
+* Outer ring boundary visible
+* Field: green-gold standing crop surrounding the formation
+
+PANEL 3 (center-bottom, labeled "July 10, 2025"):
+* A square or diamond-shaped formation (not circular) — the boundary is a rotated square (diamond orientation) rather than a circle
+* Interior: woven basket-weave pattern of the same style as the circular formations
+* The diamond/square shape makes it distinctly different from the other two panels
+* Corners of the square/diamond are visible; the formation appears as a flattened diamond in the field
+* Field: similar golden-brown
+
+TEXT (complete transcription):
+* "June 17, 2025" (below top-left panel)
+* "July 6, 2025" (below top-right panel)
+* "July 10, 2025" (below center-bottom panel, right side)
+* "Three 'basket weaves' in England recently: men with rope and boards have NEVER made even one!" (text box, lower-left)
+
+COLORS:
+* Panel 1: dark reddish-brown field, lighter tan-cream weave pattern
+* Panel 2: green-gold field, lighter green weave pattern
+* Panel 3: golden-brown field, cream-tan weave pattern
+* Text box: black border, white interior, black text
+
+PHYSICS / INFORMATION CONCEPTS:
+* WOVEN BASKET-WEAVE PATTERN PHYSICS:
+  * The basket-weave interior is a 2D interference pattern analogous to the formation in 3_1942179691726577664
+  * Mathematical description: I(x,y) = |A₁e^{ik₁·r} + A₂e^{ik₂·r} + A₃e^{ik₃·r} + A₄e^{ik₄·r}|² where k₁,k₂,k₃,k₄ are wave vectors at ±45° orientations
+  * For a 4-wave interference with k₁ = (k/√2, k/√2), k₂ = (k/√2, -k/√2), k₃ = (-k/√2, k/√2), k₄ = (-k/√2, -k/√2):
+    * The superposition creates a 2D checkerboard/rhombus pattern with periodicity λ_cell = 2π/k
+  * Equivalently: a 2D photonic crystal or metamaterial unit cell array viewed from above
+  * The cell size (spacing between basket-weave diamonds) determines the effective wavelength k_eff
+* FORMATION AS METAMATERIAL LATTICE:
+  * The regular 2D lattice of the basket-weave pattern is structurally identical to a 2D metamaterial array:
+    * A 2D array of identical unit cells (the diamonds) with cell size a ≈ 1-3m (estimated)
+    * The lattice has square symmetry (4-fold rotational symmetry, C4v point group)
+    * Rotating the lattice by 45° → diamond-oriented lattice (as in Panel 3)
+    * Such a structure is a 2D electromagnetic crystal: band gaps exist at k = π/a (Brillouin zone boundary)
+  * Effective medium theory: for features much smaller than the electromagnetic wavelength λ >> a, the metamaterial has effective permittivity ε_eff and permeability μ_eff determined by the filling fraction
+* AUTHENTICITY ARGUMENT (text box):
+  * The text box makes an explicit claim: "men with rope and boards have NEVER made even one!"
+  * This refers to the "circlemakers" who claim to produce crop formations manually using wooden boards (stompers) on ropes
+  * The argument: the basket-weave pattern (where crop appears to be woven OVER and UNDER crossing strands) requires individual stalks to be interleaved at crossing points — a physical impossibility with simple board-flattening
+  * Manual circlemakers could only flatten all stalks in one direction within a region; achieving true weaving (alternating over-under) without cutting stalks would require individual stalk manipulation
+  * Counter-argument (mainstream view): the "weaving" appearance may be an optical illusion created by swirled flattening patterns; careful ground investigation would show whether stalks truly weave over-under or merely appear to from above
+* THREE OCCURRENCES IN 2025 UK SEASON:
+  * All three formations appeared within approximately 3.5 weeks (June 17 – July 10, 2025)
+  * Two circles (June 17, July 6) + one diamond/square (July 10)
+  * This clustering of similar formations in a short time period is cited as evidence for a single "maker" with a consistent technique
+  * The progression: same internal weave technique, different outer boundaries (circle → circle → diamond) suggests systematic variation
+  * Related to the spider formation (3_1943485554345283584) also dated July 10, 2025 near Cerne Abbas
+* SQUARE DIAMOND FORMATION (PANEL 3):
+  * The square/diamond outline is a rare crop formation shape (most are circular)
+  * A square with sides at 45° to compass north = a rotated square = a diamond in map orientation
+  * Possible encoding: the rotation of 45° may encode an angle, a wave polarization direction, or a coordinate system rotation
+  * In crystallography: a face-centered square lattice rotated 45° relative to a primitive square lattice gives the same structure but in a different basis
+
+SPATIAL RELATIONSHIPS:
+* Top-left panel (June 17, 2025 circle): upper-left
+* Top-right panel (July 6, 2025 circle): upper-right
+* Center-bottom panel (July 10, 2025 diamond): lower-center
+* Text box: lower-left, overlapping bottom panels
+* Date labels: below each respective panel
+
+HIGH-LEVEL SUMMARY:
+Three-panel composite showing three separate "basket weave" crop formations in England, summer 2025 (June 17, July 6, July 10), with a text box claiming: "men with rope and boards have NEVER made even one!" The formations: two circular (June 17 and July 6) and one diamond/square-outline (July 10), each filled uniformly with a complex basket-weave / crosshatch interior pattern (diagonal crossing lines at ≈45° creating rhombus cells). Physics content: the weave pattern = 4-wave 2D interference superposition I(x,y)=|Σ A_i e^{ik_i·r}|² or 2D metamaterial unit cell array with C4v symmetry; the diamond boundary of Panel 3 = 45°-rotated square lattice; the claimed impossibility of manual "weaving" of individual standing crop stalks underpins the authenticity argument. Compare 3_1942179691726577664 for a full woven-lattice aerial from an earlier season. Related to the July 10, 2025 spider formation at 3_1943485554345283584.

@@ -1,0 +1,55 @@
+IMAGE DESCRIPTION: 3_2020788171211145216.jpg
+
+SHAPES AND TEXT:
+* Aerial photograph of a crop formation in a ripe golden/yellow grain field (wheat or barley), photographed from directly above (nadir or near-nadir view)
+* The formation is approximately elliptical overall (slightly wider east-west than north-south in the image frame)
+* Estimated diameter: ~20-35m based on crop stalk scale
+
+Outer ring system:
+* Two to three concentric elliptical/circular rings visible at the outer boundary of the formation
+* The outermost ring: a continuous thin arc of flattened crop forming the outer boundary circle/ellipse
+* A second inner ring: another concentric ring of standing crop (a narrow annular band of upright crop between the two flattened regions)
+* The rings are slightly elliptical rather than perfectly circular — possibly due to oblique camera angle or actual formation geometry
+
+Interior structure — 5-arm or 6-arm pinwheel/star:
+* The interior of the innermost ring is dominated by a pinwheel or rotating-star structure
+* Approximately 5-6 radial arms (blades/petals) radiate from a central hub point
+* Each arm/blade is a swept, curved region of flattened crop, curving gently from the hub toward the outer ring
+* The blades sweep in a clockwise (CW) direction as they extend outward — creating the classic pinwheel or triskelion rotation visual
+* Between adjacent blades: triangular or wedge-shaped regions where the crop lay direction may differ (lighter/standing crop or differently-directed lay)
+
+Central hub:
+* At the center of the pinwheel: a small circular standing-crop hub (the "boss" of the pinwheel)
+* The hub appears brighter/lighter than the flattened surrounding region — indicating standing crop rather than flattened
+* The hub is approximately circular, ~1-2m diameter
+
+Lay directions visible:
+* The swept blade regions show directional crop lay — stalks pointing outward and CW from hub to outer ring, following each blade's curvature
+* The inter-blade regions show different lay direction or standing crop (lighter tone)
+
+Field context:
+* The surrounding standing crop is golden/amber — ripe grain
+* The flattened regions appear slightly darker golden due to stalks lying flat (different reflectance angle)
+* No tramlines visible in this crop, or tramlines are not visible in the frame
+
+TEXT: No text visible. No photographer credit or date overlay visible.
+
+COLORS: Golden-amber (ripe standing grain), slightly darker golden (flattened crop formation floor), pale buff/cream (oldest/driest flattened regions near center). Green tinges in the background field.
+
+PHYSICS / CONCEPTS:
+* 5-arm or 6-arm pinwheel — 5-phase or 6-pole rotating magnetic field topology:
+
+  1. Pinwheel / triskelion / rotating-star: the most fundamental encoding of a rotating electromagnetic field in crop formation geometry. A pinwheel with N arms encodes an N-phase (or N/2-pole) rotating magnetic field. The CW sweep direction of the blades encodes the direction of rotation of the field vector B(t). The curvature of each blade encodes the temporal phase evolution of the field as it rotates — the curved shape of each blade traces the integral curve of the rotating field vector.
+
+  2. 5-arm version (pentagonal symmetry): if 5 blades, the formation encodes a 5-phase rotating field (phase spacing 72° = 2π/5). A 5-phase rotating field is energetically more efficient than 3-phase for certain high-power applications because the field is smoother (lower harmonic content). A 5-phase field vector B(t) = B₀ Σ_{k=0}^{4} cos(ωt - 2πk/5) [cos(2πk/5) x̂ + sin(2πk/5) ŷ] rotates continuously with very low ripple. The formation may be encoding a specific phase count for the disc propulsion system.
+
+  3. 6-arm version (hexagonal symmetry): if 6 blades, the formation encodes a 6-pole 3-phase rotating field (the standard industrial motor topology), where 3 phases × 2 poles/phase = 6 visible arms. This is consistent with the "6 wire coils" annotation visible in related diagram images (3_2019232966652862464). A 6-pole rotating field has the smallest synchronous speed for a given frequency: n_s = 60f/p = 60×50/3 = 1000 RPM (for 50 Hz, 3-pole-pairs). Lower synchronous speed = higher torque density for the same shaft power — consistent with the heavy-lift requirements of a disc propulsion system.
+
+  4. Concentric ring system — stator boundary and field confinement: the two or three concentric rings at the formation boundary encode the multi-layer stator structure. In the motor design described in the Muller dynamo and related specifications, the stator consists of: (a) the inner air gap (innermost flattened region), (b) the stator ring itself (the standing-crop annular band between the two flattened regions), and (c) the outer housing/yoke (outermost flattened ring). This three-zone structure is standard in all motor designs: air gap → stator iron → outer yoke.
+
+  5. Central standing hub — zero-velocity rotation axis: the small circular standing-crop hub at the center of the pinwheel encodes the physical rotation axis of the motor — the point of zero velocity in the rotating frame. In a rotating disc propulsion system, the center hub is the mechanical pivot point (the ball bearing assembly in the Muller dynamo design) and the electrical output terminal for hub current extraction in the Faraday homopolar generator configuration.
+
+  6. Blade curvature — Archimedean spiral trajectory of the rotating field: the curved shape of each pinwheel blade (not radially straight but gently swept/curved) encodes the Archimedean spiral trajectory r = a + bθ. In a rotating field at angular velocity ω, a test particle launched radially outward at velocity v_r traces an Archimedean spiral in the lab frame: r(t) = v_r t, θ(t) = ωt. The ratio of spiral pitch b = v_r/ω encodes the ratio of radial (centrifugal) force to tangential (magnetic) force acting on the crop stalks during the formation event — a direct measure of the field rotation rate ω relative to the induced stalk-bending velocity v_r.
+
+SUMMARY:
+Aerial photograph of a 5-arm or 6-arm pinwheel crop formation in a ripe golden grain field, enclosed within two or three concentric elliptical rings. The interior pinwheel has swept, CW-curving radial blades radiating from a small central standing-crop hub. The formation encodes a 5-phase or 6-pole 3-phase rotating magnetic field: each blade = one phase component of the rotating field vector B(t); CW blade sweep = CW field rotation direction; blade curvature = Archimedean spiral trajectory of force-induced stalk lay; concentric outer rings = stator iron / air gap / outer yoke three-zone motor structure; central hub = rotation axis and Faraday homopolar hub current extraction point. This is a canonical rotating-field crop formation — the clearest visual encoding of the continuously rotating electromagnetic field principle that underlies both the induction motor and the counter-rotating disc propulsion system.

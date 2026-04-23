@@ -1,0 +1,48 @@
+IMAGE DESCRIPTION: 3_1960837107418849285.jpg
+
+SHAPES AND ELEMENTS:
+* Rectangular (landscape, ~4:3 ratio) false-color COLD colormap astronomical image
+* LEFT side chip gap: same diagonal staircase L-shape as 3_1960837087789506561 — black on left edge
+* A white/cream isolated square visible at upper-left of chip gap boundary (may be an artifact or stray light in the chip gap region)
+* Background: LIME-GREEN / YELLOW-GREEN (this is the INVERTED version of the purple background in 3_1960837087789506561)
+* Central source: DARK (inverted) — the nucleus region is near-black / dark indigo
+* The isophotes transition from center outward: near-black nucleus → dark blue → medium blue → cyan → turquoise → lime-green background
+* Coarse pixelation: large visible square pixels throughout
+* The coma/dark region is centered to the upper-center of image, same position as 3_1960837087789506561
+* Asymmetric extension: the dark (high-emission) region extends further to the right than left (mirror of companion hot-colormap image)
+* Overall horizontal elongation of the dark coma zone (matching the horizontal tail elongation seen in 3_1960837087789506561)
+
+COLORS:
+* Background: lime-green / yellow-green
+* Outer zone: turquoise → cyan → medium blue
+* Mid-zone: medium blue → dark blue → indigo
+* Core (nucleus): near-black / very dark
+* Chip gap: solid black (left side)
+* Artifact at chip gap upper boundary: white/cream
+
+TEXT: None visible.
+
+PHYSICS / INFORMATION CONCEPTS:
+* COLD COLORMAP COMPANION TO 3_1960837087789506561:
+  * This is the cold/inverted colormap version of the same data shown with hot colormap in 3_1960837087789506561
+  * The same chip gap orientation (left side), same coma position (upper-center), same horizontal elongation — all identical features appear inverted
+  * The lime-green background = lowest intensity sky; the near-black core = highest intensity nucleus
+  * This pair (hot + cold colormap of the same observation) is the same technique used for the wider-field images (3_1960837046945374212 hot + 3_1960837063970025472 cold)
+* COLORMAP PAIR ANALYSIS:
+  * Displaying the same data with complementary colormaps (hot + cold, warm + cool) allows the viewer to:
+    * Emphasize different spatial structures: hot colormap highlights the bright nucleus; cold colormap highlights the faint extended coma
+    * Verify that features are real and not colormap artifacts
+    * Cross-check asymmetries: the horizontal elongation is visible in BOTH colormaps, confirming it is a real coma/tail feature
+* LIME-GREEN BACKGROUND:
+  * The lime-green color for the background (lowest flux) is characteristic of specific cold colormaps (e.g., the "spring" or "hsv" colormaps in matplotlib/Python)
+  * The colormap sequence: black → dark blue → blue → cyan → turquoise → lime-green (running from high to low flux)
+  * This is the "cool" or "winter" colormap inverted
+
+SPATIAL RELATIONSHIPS:
+* Same as 3_1960837087789506561 (inverted colors)
+* Dark nucleus: center to upper-center
+* Chip gap: left side (black)
+* Lime-green background: fills right side and lower area
+
+HIGH-LEVEL SUMMARY:
+Cold/inverted colormap companion to 3_1960837087789506561 — the same observation (same left-side chip gap, same upper-center source position, same horizontal coma elongation) displayed with inverted colors: lime-green background (low flux), near-black nucleus (high flux), blue-cyan intermediate zone. Part of the complementary hot+cold colormap pair analysis used to reveal both bright nuclear and faint extended coma structure simultaneously. Physics identical to 3_1960837087789506561: horizontal tail direction, chip gap from dithered pointing, radiation pressure elongation. Part of the 3I/ATLAS interstellar comet imaging series.
