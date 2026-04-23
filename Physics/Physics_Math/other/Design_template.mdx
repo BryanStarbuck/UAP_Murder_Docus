@@ -1,0 +1,122 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+# Copy to {ROOT_DIR}/attempts/{N}/Design.mdx
+# Running document — update each day. Never delete sections, only add or annotate.
+# See Manual Section 2.2 for optional file guidance.
+
+====================================================================
+DESIGN — Attempt {N}: {Approach_Name}
+====================================================================
+
+Version: {M}.0 (Day {D}, {YYYY-MM-DD})
+Status: {Pre-simulation baseline | Updated with Day D findings}
+
+
+====================================================================
+1. TOP-LEVEL DESIGN ARCHITECTURE
+====================================================================
+
+# Describe the overall system at component level.
+# Name the sub-approaches if more than one variant is being investigated.
+# State which sub-approach Day 1 focuses on and why.
+
+
+====================================================================
+2. PRIMARY ACTIVE ELEMENT
+====================================================================
+
+# The element that generates the force: magnet array, coil set, electrode, etc.
+# Specify:
+#   * Geometry: shape, dimensions, count, arrangement
+#   * Material: grade, Br/epsilon/sigma, saturation limits
+#   * Operating parameters: RPM, voltage, current, frequency
+#   * Orientation relative to gravity vector
+
+Configuration:
+  # name of configuration
+
+Geometry:
+  # specific dimensions with units
+
+Material:
+  # grade and key specs
+
+Operating parameters:
+  # TBD from simulation or specified from corpus
+
+
+====================================================================
+3. REACTION ELEMENT (if applicable)
+====================================================================
+
+# The element the primary active element pushes against.
+# For Sub-approach A: the external fixed target.
+# For free flight: may be absent (must explain how momentum is exchanged).
+# Specify material, geometry, position, and whether it is part of the craft.
+
+Is this element part of the craft? {YES | NO}
+If NO: describe the fixed infrastructure required.
+
+
+====================================================================
+4. DRIVE SYSTEM (if applicable)
+====================================================================
+
+# Motor, power supply, ESC, frequency control, etc.
+# Torque cancellation approach.
+# Power budget estimate.
+
+
+====================================================================
+5. MECHANICAL CONSTRAINTS
+====================================================================
+
+# Centrifugal stress at maximum operating RPM
+# Thermal limits: Curie temperature, eddy heating, demagnetization risk
+# Structural: frame material, retention method, safety factor
+# Air gap control: how gap is maintained and stabilized
+
+Centrifugal stress:
+  # F_c = m * r * Omega^2 at design RPM, compare to frame tensile strength
+
+Thermal budget:
+  # Maximum temperature of primary element vs. material limit
+
+Gap control:
+  # Passive (fixed gap) or active (servo feedback)?
+
+
+====================================================================
+6. PARAMETERS TO VARY IN SIMULATION
+====================================================================
+
+# List in priority order. Day 1 fixes most of these.
+# State which parameters are varied on Day 1 and which are deferred.
+
+Priority 1: {parameter name} — range: {min} to {max}
+Priority 2: {parameter name} — range: {min} to {max}
+# ...
+
+Day {D} simulation fixes: {list what is held constant}
+Day {D} simulation varies: {list what is swept}
+
+
+====================================================================
+7. MINIMUM BUILD FOR KEY PHYSICS TEST
+====================================================================
+
+# What is the smallest physical assembly that tests the core claim?
+# List components, masses, and what measurement it enables.
+# This is the validation build — not the full craft.
+
+Components:
+  # ...
+Total mass: {estimate}
+Measurement: {what the test reads out, and what it proves}
+
+
+====================================================================
+8. DESIGN REVISION HISTORY
+====================================================================
+
+Day {D} ({YYYY-MM-DD}): {brief description of initial design or changes}

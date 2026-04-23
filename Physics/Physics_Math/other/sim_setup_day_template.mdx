@@ -1,0 +1,94 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+# Copy to {ROOT_DIR}/attempts/{N}/sim_setup_day_{D}.mdx for each new work day.
+# Documents what the simulation was set up to do. See Manual Section 4.7.
+
+====================================================================
+SIMULATION SETUP — Attempt {N}, Day {D} ({YYYY-MM-DD})
+Tool: {Software name and version}
+====================================================================
+
+
+====================================================================
+1. TOOL SELECTION AND VALIDATION STATUS
+====================================================================
+
+Software:    {name and version}
+Physics domain: {magnetostatics | electrostatics | MHD | FEM | FDTD}
+Appropriate for this attempt? {YES — brief reason}
+Already validated? {YES (Day D, error %) | NO — must validate today first}
+Validation script: {ROOT_DIR}/simulation/{software}/software/run_{N}_{D}_validation_{name}.py
+
+# If validating today:
+Validation test: {what known result will be reproduced}
+Analytical target: {formula and expected numeric value}
+Pass criterion: error < {5%} (or state custom threshold)
+
+
+====================================================================
+2. MAIN SIMULATION DESCRIPTION
+====================================================================
+
+Script: {ROOT_DIR}/simulation/{software}/software/run_{N}_{D}_{description}.py
+
+What this simulation tests:
+  # One paragraph. State the physics question this run answers.
+
+Geometry inputs:
+  # All geometric parameters (dimensions, positions, orientations).
+  # Every number must appear in Attempt.yaml design_parameters.
+
+Material inputs:
+  # Br, M, chi, sigma, epsilon, etc. with values and units.
+
+Field source inputs:
+  # Current values, magnet strengths, voltages, frequencies.
+
+Observer / output grid:
+  # Where the field or force is computed. Grid dimensions and spacing.
+
+Computed quantities:
+  * {Quantity 1}: {what it represents}
+  * {Quantity 2}: ...
+
+Success criterion:
+  {Threshold or condition that constitutes a positive result}
+
+
+====================================================================
+3. BOUNDARY CONDITIONS AND APPROXIMATIONS
+====================================================================
+
+# State what the simulation does NOT include (eddy currents? rotation? ground?).
+# State what approximations are built into the tool (dipole? far-field? static?).
+# These determine what the results can and cannot tell us.
+
+Included: {list}
+NOT included: {list — these are deferred to future simulation tools}
+Approximation validity: {aspect ratio, frequency range, linearity regime, etc.}
+
+
+====================================================================
+4. EXPECTED RESULTS (from math_day_{D}.mdx)
+====================================================================
+
+# Derive or cite the analytical estimate for each computed quantity.
+# This is the target for the simulation to match (validation) or
+# the prior estimate the simulation will correct (main run).
+
+{Quantity}: expected {value} {units}. Source: [math_day_{D}.mdx Eq. N.M]
+{Quantity}: direction {upward/downward/radial}. Force sign check complete? {YES}
+
+
+====================================================================
+5. RECORDING REQUIREMENTS
+====================================================================
+
+# Per Manual Section 5.4, record for each run:
+#   * Software version: (fill in)
+#   * Input parameters: (refer to Sections 2-3 above)
+#   * What was tested: (fill in)
+#   * Expected result: (fill in from Section 4)
+#   * Actual result: (fill in after run — in sim_learned_day_{D}.mdx)
+#   * Surprising: (fill in after run)
+#   * Next simulation: (fill in in reflection)

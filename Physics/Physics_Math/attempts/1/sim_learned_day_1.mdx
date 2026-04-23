@@ -1,0 +1,179 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+SIMULATION LEARNED — Attempt 1, Day 1 (2026-04-23)
+Software: Magpylib 5.2.2
+====================================================================
+
+
+====================================================================
+ACTUAL SIMULATION RESULTS
+====================================================================
+
+VALIDATION (run_1_1_validation_dipole.py):
+
+  B_z (Magpylib):    0.117334 mT
+  B_z (Analytical):  0.117775 mT
+  Relative error:    0.374%
+  RESULT: VALIDATION PASSED
+
+  Magpylib is validated for static magnetostatics. Error of 0.37%
+  is well within the expected ~5% range from the dipole approximation.
+  The tool is trustworthy for Kelvin force analysis at centimeter scales.
+
+
+MAIN SIMULATION (run_1_1_kelvin_force.py):
+
+  Option A (all-axial +z ring):
+    Bz on axis at z = 0.5–3 cm:  negative (−3.8 to −3.0 mT)
+    Bz zero crossing at z ≈ 7 cm (as predicted analytically)
+    dBz/dz:  positive throughout (0 to 7 cm range), peaking ~0.074 T/m at z = 3.4 cm
+    F_lift on craft:  NEGATIVE throughout (−7.54 N peak at z = 3.4 cm)
+    F/mg at peak:  −1.54 (54% above target weight in WRONG direction)
+
+  Option B (2× Halbach pattern):
+    Bz on axis:  effectively zero (machine precision ~1e-18 mT)
+    F_lift:  effectively zero at all z
+    CONFIRMED: net z-dipole moment of 2× Halbach ring = 0 (as derived analytically)
+
+
+====================================================================
+WHAT THE SIMULATION CONFIRMED
+====================================================================
+
+1. Magpylib is correctly computing magnetostatic fields (0.37% error).
+
+2. The 2× Halbach ring (Option B) produces zero on-axis B_z field, exactly
+   as derived in math_day_1.mdx (Eq. 1.5). The analytical prediction was
+   verified at machine precision. Option B is eliminated from consideration
+   for axial Kelvin force lift. It concentrates flux RADIALLY, not axially.
+
+3. The all-axial ring (Option A) produces a Kelvin-type force with magnitude
+   substantially exceeding the target lift weight (7.54 N vs. 4.905 N
+   required). The force magnitude is real and sufficient.
+
+
+====================================================================
+WHAT THE SIMULATION CONTRADICTED IN THE THEORY
+====================================================================
+
+CRITICAL FINDING: The force on the craft (Halbach ring) from the Kelvin
+interaction with the steel ground plate is DOWNWARD — not upward.
+
+Root cause: Ferromagnetic Kelvin interaction is always ATTRACTIVE.
+A ferromagnetic body is always pulled TOWARD the region of higher
+field intensity. In the Sub-approach A geometry (ring above ground
+plate), the ring is the field source. The plate is attracted toward
+the ring (upward). By Newton's Third Law, the ring is attracted toward
+the plate (downward).
+
+This means:
+  * The steel plate would be pulled UP toward the craft.
+  * The craft would be pulled DOWN toward the steel plate.
+  * The craft cannot rise from the plate using this geometry.
+
+The error was in physics_day_1.mdx Section 2.3 ("Sub-approach A"):
+the claim that "the ring (craft) is pushed upward" was wrong. The
+Kelvin interaction is attractive between the ring and the plate; the
+ring is pulled toward the plate (downward), not pushed away (upward).
+
+The analytical estimate in math_day_1.mdx Section 4 computed the
+MAGNITUDE of the force correctly (5.87 N, close to the simulated 7.54 N)
+but attributed the wrong direction. This is now corrected.
+
+WHEN DOES THE KELVIN FORCE PRODUCE LIFT?
+
+Sub-approach A only produces lift on the craft if the steel plate is
+ABOVE the craft (the ring hangs below a steel ceiling and is pulled up
+toward it). This is not useful for free flight.
+
+Sub-approach A is eliminated as a free-flight mechanism.
+Sub-approach A could be repurposed as a "ceiling crawler" — a device
+that adheres to and moves along a ferromagnetic ceiling using Kelvin
+attraction. This is a different application and is not the project goal.
+
+
+====================================================================
+FORCE MAGNITUDE IS A USEFUL RESULT
+====================================================================
+
+Even though the direction was wrong for the intended use, the simulation
+shows that the MAGNITUDE of Kelvin force from an 8-magnet N52 ring is
+7.54 N at z_gap = 3.4 cm — sufficient to exceed the 500 g target weight.
+
+This magnitude result is relevant for:
+1. Repulsive permanent magnet levitation: same-polarity magnet above
+   same-polarity track. Repulsive force can be computed with Magpylib.
+   Earnshaw instability is addressed by spin stabilization or active control.
+
+2. Drew's helical field device: the upward force on the spinning inner
+   magnet in Drew's experiment is a CONFIRMED result (500 g equivalent
+   at 17 Hz). The issue is the equal downward reaction on the coil
+   assembly. The force MAGNITUDE is achievable with the right geometry.
+
+3. The Buhler electrostatic approach: if Buhler achieves millinewton
+   thrust in vacuum, scaling to Newton-level lift requires a solver
+   for asymmetric electrostatic pressure. The day 2 priority.
+
+
+====================================================================
+PARAMETER CHANGES WORTH TESTING IN FUTURE DAYS
+====================================================================
+
+Direction correction for Kelvin force:
+  * Test repulsive permanent magnet ring over same-polarity ring:
+    Top ring (craft) and bottom ring (track) both have magnets in same
+    orientation. Repulsion force on craft = upward. Earnshaw instability
+    requires rotation or active stabilization.
+
+  * Alternatively, test whether the rotating array generates a
+    TIME-AVERAGED upward force on the array itself via eddy current
+    reaction (Sub-approach B requires time-varying simulation — not
+    possible in Magpylib; use ElmerFEM or openEMS for Day 3+).
+
+New attempt priority (from simulation findings):
+  * Start Attempt 2: Buhler asymmetric electrostatic thrust.
+    Tool: scipy/numpy electrostatic solver.
+    Target: reproduce Buhler's millinewton force from known electrode
+    geometry, then scale toward lift force.
+    This is Priority 1 from Manual Section 8 and Section 4.3.
+
+  * Start Attempt 3: Repulsive permanent magnet levitation.
+    Tool: Magpylib (already validated).
+    Design: two matched Halbach rings, same polarity. Compute repulsive
+    force vs. gap distance. Identify equilibrium height. Analyze stability.
+
+
+====================================================================
+ANOMALOUS RESULTS RELATIVE TO STANDARD PHYSICS
+====================================================================
+
+None on Day 1. Both simulation results are fully consistent with
+classical electrodynamics. No anomaly was found. This is an expected
+outcome for a Day 1 baseline simulation.
+
+The important finding is not an anomaly — it is a design flaw
+(Kelvin force direction) that was identified and will redirect the
+project toward more promising approaches.
+
+
+====================================================================
+UPDATED Attempt.yaml FIELDS (see Attempt.yaml)
+====================================================================
+
+status: stalled_direction_error
+status_notes: Day 1 simulation showed Kelvin force on craft is
+  DOWNWARD in Sub-approach A geometry (ring above steel plate).
+  Ferromagnetic Kelvin interaction is always attractive; craft is
+  pulled toward the ground plate, not lifted. Force magnitude is
+  sufficient (7.54 N > 4.905 N required) but direction is wrong.
+  Sub-approach A eliminated for lift. Sub-approach B (time-varying)
+  and Attempt 2 (Buhler electrostatic) are the Day 2 priorities.
+
+open_questions UPDATED:
+  * Can repulsive permanent magnet configuration (same polarity rings)
+    produce stable lift? Simulate with Magpylib Day 2.
+  * Does the rotating asymmetric array create non-zero time-averaged
+    upward force via eddy reaction? Requires ElmerFEM (time-varying).
+  * Is the Buhler electrostatic thrust scalable to N-level forces?
+    Start Attempt 2 on Day 2.

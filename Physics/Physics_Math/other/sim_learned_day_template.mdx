@@ -1,0 +1,94 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+# Copy to {ROOT_DIR}/attempts/{N}/sim_learned_day_{D}.mdx after running simulations.
+# Written from ACTUAL simulation output — not predictions. See Manual Section 4.9.
+# After writing this file, update Attempt.yaml status_notes with key findings.
+
+====================================================================
+SIMULATION LEARNED — Attempt {N}, Day {D} ({YYYY-MM-DD})
+Software: {name and version}
+====================================================================
+
+
+====================================================================
+ACTUAL SIMULATION RESULTS
+====================================================================
+
+# Paste or transcribe the relevant numeric output from each simulation run.
+# Include: all key quantities, not just the final answer.
+# Use tables where multiple values were computed at different parameters.
+
+VALIDATION RUN ({script name}):
+  {Quantity} (Magpylib / scipy / tool):  {value} {units}
+  {Quantity} (Analytical):               {value} {units}
+  Relative error:  {percent}%
+  RESULT: {VALIDATION PASSED | VALIDATION FAILED — reason}
+
+MAIN RUN ({script name}):
+  {Describe and tabulate key outputs}
+
+
+====================================================================
+WHAT THE SIMULATION CONFIRMED
+====================================================================
+
+# List what matched predictions from math_day_{D}.mdx or physics_day_{D}.mdx.
+# Each confirmation strengthens the simulation framework's credibility.
+
+1. {confirmed finding}
+2. {confirmed finding}
+
+
+====================================================================
+WHAT THE SIMULATION CONTRADICTED IN THE THEORY
+====================================================================
+
+# List everything that did NOT match the prior analytical estimate.
+# For each contradiction:
+#   * State what was predicted
+#   * State what the simulation showed
+#   * Identify the source of the discrepancy (approximation error? wrong sign? missing term?)
+#   * Update the relevant Theory.mdx or physics_day_{D}.mdx with the correction
+
+FORCE DIRECTION CHECK (required):
+# Was the force on the craft in the intended direction? {YES | NO}
+# If NO: explain why and what geometry change would correct it.
+
+
+====================================================================
+PARAMETER CHANGES WORTH TESTING IN FUTURE DAYS
+====================================================================
+
+# Specific, actionable suggestions based on the simulation results.
+# Name the parameter, the direction of change, and the expected effect.
+
+* {Parameter}: increase/decrease to {value} → expected to {effect}
+* ...
+
+New attempt candidate (if current approach is stalled):
+  * Approach {N}: {Section 3.X name} — reason: {why this should be tried next}
+
+
+====================================================================
+ANOMALOUS RESULTS RELATIVE TO STANDARD PHYSICS
+====================================================================
+
+# State whether any simulation output was NOT explained by standard physics.
+# If none: say "None on Day {D}." This is the most common result.
+# If anomalous: document carefully. This is where progress hides.
+
+None on Day {D} / {description of anomaly}
+
+
+====================================================================
+UPDATED Attempt.yaml FIELDS
+====================================================================
+
+# After writing this file, update Attempt.yaml:
+# - status: active | stalled | complete
+# - status_notes: one-paragraph summary of Day D findings
+# - simulation_results_day_{D}: key numeric outputs
+# - open_questions: add/remove based on what was answered/raised
+
+status change: {active → stalled | active → complete | no change}
+status_notes update: {summary for Attempt.yaml}

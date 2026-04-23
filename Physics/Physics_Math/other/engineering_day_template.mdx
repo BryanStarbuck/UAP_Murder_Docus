@@ -1,0 +1,95 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+# Copy to {ROOT_DIR}/attempts/{N}/engineering_day_{D}.mdx for each new work day.
+# Translate physics into buildable specs. See Manual Section 4.6.
+
+====================================================================
+ENGINEERING — Attempt {N}, Day {D} ({YYYY-MM-DD})
+Buildable specifications for {attempt name}
+====================================================================
+
+
+====================================================================
+1. BILL OF MATERIALS — DAY {D} DESIGN
+====================================================================
+
+# List every distinct physical component with procurement-grade specificity.
+# Include: quantity, dimensions (with units), material grade, key parameters,
+# source specification (what to buy / what standard it meets), estimated mass.
+
+Component 1: {name}
+  Quantity:    {N}
+  Dimensions:  {length x width x height} mm
+  Material:    {alloy, grade, or commercial name}
+  Key spec:    {Br, chi, sigma, tensile strength, etc.}
+  Mass:        {estimate} g
+
+# Repeat for each component.
+
+Total mass estimate: {sum} g (target: {target_lift_mass * 1000} g craft mass budget)
+
+
+====================================================================
+2. POWER REQUIREMENTS
+====================================================================
+
+# Static (no rotation) power: usually zero for permanent magnets.
+# Dynamic (at operating frequency/RPM) power:
+#   - Motor input power
+#   - Eddy current dissipation estimate
+#   - Thermal output
+# Battery or power supply spec to meet runtime target.
+
+Static configuration power: {value} W
+Dynamic power at operating RPM/frequency: {value} W
+Battery spec: {voltage} V, {capacity} Ah → {runtime} min at rated power
+
+
+====================================================================
+3. MECHANICAL CONSTRAINTS
+====================================================================
+
+# Show the calculation for each constraint — not just the conclusion.
+
+Centrifugal stress at {RPM} RPM (Ω = {rad/s} rad/s):
+  F_c per {component} = {mass} × {radius} × Ω² = {force} N
+  Frame material tensile strength: {value} MPa
+  Required cross-section: A_min = F_c / σ = {area} mm²
+  Design wall thickness: {thickness} mm (safety factor: {SF}×)
+
+Thermal budget:
+  Maximum operating temperature of {component}: {limit}°C
+  Estimated thermal dissipation at operating power: {value} W
+  Cooling required? {YES / NO — if yes, specify}
+
+Retention / fastening:
+  {fastener or bonding method}: {strength specification}
+  Bond area: {area} mm² → bond force capacity: {force} N
+  Centrifugal load: {force} N → safety factor: {SF}×
+
+
+====================================================================
+4. WHAT CAN BE SIMULATED VS. WHAT REQUIRES PHYSICAL BUILD
+====================================================================
+
+Simulatable now (Magpylib / scipy / ElmerFEM):
+  * {item 1}
+  * {item 2}
+
+Requires physical build or benchtop measurement:
+  * {item 1 — e.g., actual eddy current heating at RPM}
+  * {item 2 — e.g., mechanical resonance frequency}
+
+
+====================================================================
+5. MINIMUM BUILD FOR KEY PHYSICS TEST
+====================================================================
+
+# The minimum assembly to validate the core force claim without full craft build.
+# No motor required for static validation tests.
+
+Components:
+  * {list}
+Total mass: {estimate} g
+Measurement method: {scale / load cell / strain gauge / etc.}
+What it proves: {specific claim validated by this measurement}

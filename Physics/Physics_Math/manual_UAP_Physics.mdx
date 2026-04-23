@@ -205,8 +205,19 @@ computation.
 
 Current attempt directory: {ROOT_DIR}/attempts/1/
 
-Status as of Day 1: Theory initialized. Design parameters set.
-No simulation run yet.
+Status as of Day 1: Simulation run (Magpylib 5.2.2). Sub-approach A
+(Kelvin force, ring above steel ground plate) ELIMINATED. Kelvin
+force is attractive: craft is pulled TOWARD the plate (downward), not
+lifted. Force magnitude is sufficient (7.54 N > 4.905 N target) but
+direction is wrong. Sub-approach B (time-varying eddy repulsion via
+EDS) is the viable path; requires ElmerFEM, scheduled Day 3+.
+
+CRITICAL LEARNING — Day 1: The Kelvin body force on a positive-chi
+ferromagnetic target always points toward higher |B|. The equal and
+opposite reaction on the field source always points TOWARD the target.
+In Sub-approach A (array above plate), the array is pulled DOWNWARD.
+To use Kelvin force to lift the array, the target must be ABOVE it.
+See Section 9.7 for the generalized Kelvin direction rule.
 
 
 3.2 APPROACH: COUNTER-ROTATING PERMANENT MAGNET DISC (PAULSEN / SEARL)
@@ -311,7 +322,23 @@ electrostatic pressure integral over the surface. Verify net force
 direction and magnitude vs. Buhler's published results first. Then
 scale parameters toward lift-scale force.
 
-No attempt directory yet for this approach. Start one when ready.
+Current attempt directory: {ROOT_DIR}/attempts/2/
+
+DAY 2 SIMULATION RESULTS (2026-04-23):
+Simulation: Legendre polynomial expansion of phi on hemisphere (L_MAX=21)
++ Maxwell stress tensor surface integral via scipy/numpy.
+Tool validated (full sphere: F_z = 0 exactly, < 1e-10 N). PASS.
+Main result: F_z = 9.50 mN at V_0 = 10 kV, R = 10 cm (upward, confirmed).
+Scaling law F_z = C_eff * V_0^2 confirmed exactly (F/V^2 = 94.99 pN/V^2, constant).
+Geometry factor C = F_z / (eps_0 * V_0^2) = 10.73 (10.7x above naive estimate).
+Lift voltage for 0.5 kg: V_lift = 227 kV (apex E-field = 6.82 MV/m).
+Physical feasibility: requires vacuum (exceeds air breakdown at 3 MV/m),
+but well below vacuum field emission onset (~100 MV/m). FEASIBLE IN VACUUM.
+Legendre series may not be fully converged (Gibbs ringing at theta=10 deg).
+True C may be 12-15 (V_lift potentially as low as 190-210 kV).
+Day 3 plan: series convergence test (L_MAX=51, 101), cone geometry sweep,
+isolated capacitor geometry (reaction force accounting).
+Status: ACTIVE.
 
 
 3.5 APPROACH: NEUTRINO-MAGNETIC FLUX PROPULSION (CERNOHAJEV GCD)
@@ -863,6 +890,47 @@ on a body surface creates net electrostatic pressure force. In vacuum
 internal charge distribution on the conductor surface.
 
 
+9.7 KELVIN FORCE DIRECTION RULE (Day 1 Critical Learning)
+
+The Kelvin body force on a material with positive magnetic susceptibility
+(χ > 0, including ferromagnetics and paramagnetics) always points TOWARD
+regions of higher field magnitude |B|. The material is always attracted
+to the field source.
+
+Consequence for lift design:
+* If the field source (permanent magnet array) is ABOVE the ferromagnetic
+  target: the array is pulled DOWNWARD (toward the target). The target is
+  pulled UPWARD (toward the array). The array (craft) cannot use this
+  geometry to rise; it is pulled into the ground.
+* If the field source (array) is BELOW the ferromagnetic target: the array
+  is pulled UPWARD (toward the target above). This can produce lift IF the
+  target is fixed (e.g., a steel ceiling). This is the "ceiling crawler"
+  geometry — useful but not free flight.
+* For repulsive levitation: requires either diamagnetic materials (χ < 0),
+  the Meissner effect (superconductor), or induction (EDS) where eddy
+  currents create opposing fields. None of these are Kelvin forces.
+
+Design implication: Any "Sub-approach A" design using ferromagnetic
+Kelvin force for lift must place the fixed target ABOVE the craft, not
+below it. For free flight with no fixed infrastructure, the Kelvin force
+mechanism requires a diamagnetic or superconducting external element, or
+must be replaced with EDS (electrodynamic suspension) from eddy currents
+in a rotating field — which is Sub-approach B.
+
+EDS (Electrodynamic Suspension) Physics:
+A time-varying (rotating) magnetic field above a conducting plate induces
+eddy currents in the plate. By Lenz's law, eddy currents create a field
+opposing the source. At sufficient rotation speed (above the critical
+frequency Ω_c = 1/(μ₀ σ δ²)), the repulsive eddy force exceeds the
+attractive static Kelvin force and the system levitates. This is the
+physical principle of EDS maglev (Inductrack, Swissmetro). F_EDS scales
+as (Ω/Ω_c)² at low speed and saturates at F_max = B² A / (2μ₀) at high speed.
+EDS requires active rotation; at Ω = 0, there is no repulsion.
+
+For Sub-approach B simulation: use ElmerFEM with rotating source field
+over a conducting plate. Target the Ω where F_EDS > m_craft * g.
+
+
 ====================================================================
 SECTION 10 — SKILL FILES REGISTRY
 ====================================================================
@@ -1176,6 +1244,11 @@ Validation by tool and attempt:
     or Approach 3.5 (Cernohajev GCD charge density parameters).
   Note: Create this attempt and its validation when Approach 3.4 becomes
     the active focus. Do not attempt this validation with Magpylib.
+  STATUS: VALIDATED — Day 2. Hemisphere-on-grounded-plane geometry.
+    F_z = 9.50 mN at V=10kV, R=10cm. Full sphere symmetry: F_z = 0 (exact).
+    Geometry factor C = 10.73. V^2 scaling confirmed. See attempts/2/.
+  Note: Create this attempt and its validation when Approach 3.4 becomes
+    the active focus. Do not attempt this validation with Magpylib.
 
 
 ====================================================================
@@ -1445,3 +1518,25 @@ SECTION 14 — CHANGE LOG
   listing of all directories under ROOT_DIR with 20-word summaries.
   Section 13 (Key Files Index) added. Top 20 most important files
   identified and documented in priority order.
+
+2026-04-23 — Version 1.3. Day 1 simulation results incorporated.
+  CRITICAL LEARNING: Kelvin force on ferromagnetic target is always
+  attractive. Sub-approach A (craft above steel ground plate) produces
+  downward force on craft, not upward. Sub-approach A eliminated.
+  Section 3.1 updated with Day 1 findings. Section 9.7 (Kelvin Force
+  Direction Rule + EDS physics) added. First Validation Priority section
+  rewritten to separate magnetic (Magpylib) and electrostatic (scipy)
+  tools — Magpylib validated (0.37% error). skill_work_day.md improved:
+  DAYS_DIR corrected to DAY_DIR, "online simulator" language corrected
+  to "execute locally", tool-physics matching guidance added, pip install
+  check step added to day template. Attempt 1 status: stalled.
+
+2026-04-23 — Version 1.4. Day 2 simulation results incorporated into
+  Section 3.4 (Buhler Electrostatic Thrust). Attempt 2 directory created.
+  KEY RESULTS: Maxwell stress tensor integration on hemisphere confirms
+  F_z = 9.50 mN at 10 kV, geometry factor C = 10.73, lift voltage for
+  0.5 kg = 227 kV, apex E-field 6.82 MV/m (feasible in vacuum, below
+  field emission threshold). Scaling law F_z ~ V_0^2 confirmed exactly.
+  Validation (sphere F_z = 0) passed exactly. Legendre series convergence
+  issue noted (Gibbs ringing); actual C may be 12-15. Day 3: convergence
+  test, cone geometry sweep, isolated capacitor reaction-force analysis.

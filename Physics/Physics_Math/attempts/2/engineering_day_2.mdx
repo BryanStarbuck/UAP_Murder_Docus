@@ -1,0 +1,225 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+ENGINEERING — DAY 2 — ATTEMPT 2: ASYMMETRIC ELECTROSTATIC PRESSURE THRUST
+Date: 2026-04-23
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+1. DESIGN OVERVIEW
+====================================================================
+
+The Day 2 device is a bench-scale Buhler-analog electrostatic thrust
+demonstrator. Goal: demonstrate measurable net vertical force from
+asymmetric electrostatic pressure in a geometry that is reproducible
+and scalable.
+
+Component list:
+1. Aluminum hemisphere (the primary asymmetric conductor)
+2. Aluminum base plate (the grounded reference)
+3. PTFE (polytetrafluoroethylene) mounting post (insulator)
+4. High-voltage DC power supply
+5. Precision microforce balance (for thrust measurement)
+6. Vacuum chamber (for clean measurement without ion wind)
+
+
+====================================================================
+2. PRIMARY CONDUCTOR — HEMISPHERE
+====================================================================
+
+Material: Aluminum 6061-T6 (or equivalent high-conductivity aluminum)
+  * Conductivity: 2.4e7 S/m — effectively perfect conductor
+  * Surface finish: polished to < 1 micron Ra to minimize field emission
+    and corona discharge
+  * Why: rough surfaces cause field enhancement at protrusions that
+    can initiate breakdown at voltages much lower than smooth-surface
+    estimates
+
+Geometry:
+  * Hemisphere: radius R = 10.0 cm ± 0.5 mm
+  * Base diameter: 20.0 cm
+  * Height (apex to base): 10.0 cm
+  * Wall thickness: 2.0 mm (hollow to reduce mass)
+  * Mass estimate: pi * R * t * rho_Al = pi * 0.1 * 0.002 * 2700 ≈ 1.7 g
+    (hollow hemispherical shell)
+  * Mounting flange: 4× M3 tapped holes at base perimeter, on 18 cm
+    bolt circle, for insulated post attachment
+
+Surface treatment:
+  * Electropolish after machining to remove machining marks and oxide
+  * Anodize with thin (5-10 micron) hard anodize for surface passivation
+  * Do NOT anodize apex region: anodize is an insulator and would
+    prevent charge distribution from reaching the apex. Keep apex
+    region polished aluminum.
+
+CRITICAL: The sharp edge at the hemisphere base (where flat base
+meets the curved surface) must be rounded to R_edge ≥ 2 mm radius.
+Sharp edges cause catastrophic field enhancement:
+  E_edge ~ E_apex * (R_apex / R_edge) = 3 V/R * (R / R_edge)
+  For R_edge = 0.1 mm: E_edge ~ 30 * E_apex → immediate breakdown
+
+
+====================================================================
+3. GROUND REFERENCE PLATE
+====================================================================
+
+Material: Aluminum 6061-T6 (same as hemisphere, matching conductivity)
+
+Geometry:
+  * Square plate: 50 cm × 50 cm × 3 mm thickness
+  * The hemisphere is mounted at center of plate on insulating post
+  * Ground connection: #12 AWG copper wire to true earth ground (or
+    negative terminal of HV supply for a floating system)
+
+Surface finish: Clean, no anodize (anodize is dielectric and would
+  change the effective boundary condition).
+
+Position: The plate is at z = 0 in our coordinate system. The hemisphere
+  base sits on the PTFE post at z = z_post, with the hemisphere curved
+  surface beginning above.
+
+NOTE: For the simulation, the ground plane extends to infinity. In the
+physical device, the 50 cm plate is a finite approximation. The plate
+must be large enough that edge effects are negligible:
+  * At plate edge (25 cm from center), the hemisphere field has fallen to:
+    E(r=25cm) ~ V_0 * (R/r)^2 ~ 10kV * (10/25)^2 = 10kV * 0.16 = 1.6 kV/25cm
+    = 6.4 kV/m — far from breakdown
+  * The force contribution from the region r > 25 cm is negligible.
+  * 50 cm plate is adequate for 10 cm hemisphere.
+
+
+====================================================================
+4. INSULATING MOUNTING POST
+====================================================================
+
+Material: PTFE (Polytetrafluoroethylene)
+  * Dielectric strength: 20-24 MV/m
+  * Dielectric constant: 2.1 (low — minimizes capacitive loading)
+  * Volume resistivity: > 10^18 Ohm*cm (effectively perfect insulator)
+  * Mechanically machinable, dimensionally stable
+
+Geometry:
+  * Cylinder: outer diameter 25 mm, inner bore 10 mm (for HV wire)
+  * Height: 20 mm (separates hemisphere from ground plate by 20 mm)
+  * Base flange: 60 mm diameter for bolted attachment to ground plate
+  * Top flange: 60 mm diameter for bolted attachment to hemisphere base
+
+The post must carry the electrostatic force load. From math_day_2.mdx,
+maximum expected force is ~6 mN at 10 kV. PTFE in compression handles
+~25 MPa; the post cross section is pi*(0.0125)^2 = 4.9e-4 m^2.
+Maximum allowable load: 25e6 * 4.9e-4 = 12,250 N >> 6 mN. Post strength
+is more than adequate. Thread engagement is the limiting factor.
+
+
+====================================================================
+5. HIGH-VOLTAGE POWER SUPPLY
+====================================================================
+
+Requirements:
+  * Output voltage: 0-50 kV DC, continuously adjustable
+  * Output current: 1-10 mA maximum (capacitive load, not resistive)
+  * Polarity: positive (hemisphere at +V_0, ground plate at 0 V)
+  * Regulation: < 0.1% ripple (clean DC for static measurement)
+  * Leakage current measurement: ideally built-in to separate leakage
+    from true electrostatic force
+
+Capacitance of the device: C = 2 pi eps_0 R ≈ 2 pi * 8.854e-12 * 0.1
+  = 5.6e-12 F = 5.6 pF (rough estimate for hemisphere near ground plane)
+  More accurate: C ~ 10-20 pF for this geometry.
+
+Charging energy: E = (1/2) C V^2 = (1/2) * 20e-12 * (10e3)^2 = 1e-3 J = 1 mJ.
+  Charging time: < 1 ms with a 1 mA supply. Quasi-static measurement is valid.
+
+Leakage concern: Any leakage current through the PTFE post creates an
+  ion wind or corona effect that contaminates the force measurement.
+  PTFE resistance at 10 kV across 20 mm: I_leak = V / R_post = 10e3 / (10^18 * 0.02 / 4.9e-4)
+  = 10e3 / 4.1e13 = 2.4e-10 A = 0.24 nA. Negligible.
+
+Vacuum requirement: At 10 kV, air breakdown occurs at the apex field
+  E_apex = 3 * 10e3 / 0.1 = 300 kV/m. Air breakdown field is ~3 MV/m.
+  Ratio: 300 kV/m / 3000 kV/m = 0.1. Safe in air at 10 kV, R = 10 cm.
+  
+  At V = 280 kV (lift force scale): E_apex = 8.4 MV/m > air breakdown.
+  Vacuum required for lift-scale operation. For validation at 10 kV,
+  air operation is safe.
+
+
+====================================================================
+6. FORCE MEASUREMENT SETUP
+====================================================================
+
+Measurement approach: Direct force measurement via precision balance.
+
+Option A: Weigh the ground plate.
+  * Place ground plate on a precision balance.
+  * Apply HV to hemisphere.
+  * If F_z acts upward on hemisphere, the reaction force F_z (downward)
+    acts on the ground plate.
+  * The balance reading increases by F_z when HV is applied.
+  * Resolution needed: < 1 mN = 0.1 g force (0.1 g sensitivity balance)
+  * Many lab balances read to 0.01 g = 0.1 mN. Adequate.
+
+Option B: Suspend hemisphere from a torsion wire, measure deflection.
+  * More complex setup. Not needed if Option A is available.
+
+Option A preferred: it is simple, direct, and ground-plane reaction
+confirms the force is electrostatic (if it were ion wind blowing
+downward on the ground plate, the balance reading would also increase,
+but ion wind can be eliminated by vacuum testing).
+
+Vacuum testing:
+  * Seal the entire assembly in a vacuum chamber.
+  * Reduce pressure to < 1e-3 mbar to eliminate all ion transport.
+  * If the ground plate force increase survives in vacuum, the mechanism
+    is purely electrostatic (Maxwell stress). Ion wind is eliminated.
+  * This is the critical test that distinguishes the mechanism.
+
+
+====================================================================
+7. BUILDABLE MINIMUM TEST CONFIGURATION
+====================================================================
+
+Minimum viable test (bench test in air, 10 kV):
+
+* 1 aluminum hemisphere, R = 10 cm (can be machined or purchased as
+  aluminum bowl/dome from hardware supply)
+* 1 aluminum plate 50 × 50 cm
+* 1 PTFE cylinder 25 mm OD × 20 mm height
+* 1 HV supply 0-30 kV (available from Spellman or similar, $500-3000)
+* 1 analytical balance, 0.01 g resolution (available for $200-500)
+* Standard BNC/SHV coaxial cabling rated for 30 kV
+
+Expected result in air at 10 kV:
+  F_z ≈ 2-6 mN (from simulation prediction)
+  Balance reading increase: 0.2-0.6 g
+
+This is a detectable signal on a 0.01 g balance with 20-60× SNR.
+
+Minimum cost: ~$1000-4000 for components.
+Build time: 1-2 weeks (machining and assembly).
+Clean room or special conditions: NOT required for validation test.
+
+
+====================================================================
+8. WHAT CAN BE SIMULATED VS. WHAT REQUIRES PHYSICAL BUILD
+====================================================================
+
+Simulatable:
+  * E-field distribution over the hemisphere surface (scipy/numpy, Day 2)
+  * Net force from Maxwell stress tensor integral (scipy/numpy, Day 2)
+  * Scaling of force with voltage and geometry (parametric sweep, Day 2)
+  * Dependence on ground plate distance and size (can model as finite plate)
+  * Multiple hemisphere stack force (Day 3+)
+
+Requires physical build:
+  * Confirm absence of ion wind (vacuum test)
+  * Measure actual leakage current (determines if mechanism is clean)
+  * Confirm force magnitude agrees with simulation
+  * Identify failure modes (field emission, corona onset, mechanical)
+  * Validate that multiple elements add force without cancellation
+
+The simulation results today will determine whether the physical build
+is worth pursuing. If simulation shows force is too small to measure
+with available equipment, redesign before building.

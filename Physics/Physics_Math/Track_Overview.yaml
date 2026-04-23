@@ -2,30 +2,49 @@ project: UAP Magnet-Based Propulsion Research
 goal: Design and simulate a magnet-based craft that achieves lift and flight
 started: 2026-04-23
 
-current_day: 1
-current_attempt: 1
+current_day: 3
+current_attempt: 2
 
 state:
-  active_attempt: 1
-  last_completed_day: 0
-  day_in_progress: 1
-  total_attempts: 1
+  active_attempt: 2
+  last_completed_day: 2
+  day_in_progress: null
+  total_attempts: 2
 
 attempts:
   1:
     name: Rotating_Permanent_Magnet_Array
     started: 2026-04-23
-    status: active
+    status: stalled
     summary: >
       Asymmetric rotating permanent magnet array generating net vertical Lorentz-analog
-      force via non-uniform flux gradient. Goal is static lift off ground surface.
+      force via non-uniform flux gradient. Sub-approach A eliminated (Kelvin force
+      direction is downward). Sub-approach B (EDS eddy current repulsion) pending
+      ElmerFEM validation on Day 3+.
+  2:
+    name: Asymmetric_Electrostatic_Pressure_Thrust
+    started: 2026-04-23
+    status: active
+    summary: >
+      Asymmetric electrostatic pressure distribution on a conductor body produces
+      net thrust in vacuum. Based on Buhler (NASA Kennedy) experimental result.
+      scipy/numpy electrostatic Maxwell stress tensor solver. Day 2 result:
+      F_z = 9.50 mN at 10 kV (POSITIVE). Geometry factor C = 10.73.
+      Lift voltage for 0.5 kg = 227 kV in vacuum. Feasible below field emission.
+      Scaling F_z ~ V^2 confirmed exactly. ACTIVE, positive progress.
 
 days:
   1:
     started: 2026-04-23
-    status: in_progress
+    status: complete
     attempt_focus: 1
-    reflection_file: null
+    reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/1/reflection_day_1.mdx
+  2:
+    started: 2026-04-23
+    status: complete
+    attempt_focus: 2
+    reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/2/reflection_day_2.mdx
+    key_result: F_z = 9.50 mN at 10 kV; geometry factor C = 10.73; V_lift = 227 kV in vacuum
 
 parameters:
   target_lift_mass_kg: 0.5

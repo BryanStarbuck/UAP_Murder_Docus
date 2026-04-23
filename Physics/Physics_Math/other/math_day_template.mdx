@@ -1,0 +1,73 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+# Copy to {ROOT_DIR}/attempts/{N}/math_day_{D}.mdx for each new work day.
+# Full derivations — no hand-waving, no skipped steps.
+# See Manual Section 4.5 for writing requirements.
+
+====================================================================
+MATH — Attempt {N}, Day {D} ({YYYY-MM-DD})
+Full derivations for {mechanism name}
+====================================================================
+
+
+====================================================================
+SECTION 1 — {FIRST DERIVATION TOPIC}
+====================================================================
+
+1.1 {Starting equation or law}
+
+# State the starting equation. Name the law it comes from.
+# Reference: [Eq. 1.1]
+
+# DERIVATION (show every step):
+# Step 1: ...
+# Step 2: ...
+# ...
+# Result: [Eq. 1.N]
+
+DIMENSIONAL CHECK:
+# Left-hand side: {units}
+# Right-hand side: {unit analysis step by step} = {units}
+# Match? {YES / NO — if NO, find the error before proceeding}
+
+
+====================================================================
+SECTION 2 — {GRADIENT / DERIVATIVE DERIVATION}
+====================================================================
+
+2.1 {Taking derivative of the key field quantity}
+
+# If computing dF/dz, dB/dz, or similar: show the quotient rule / chain rule steps.
+# Do not write "taking the derivative gives..." — show the algebra.
+
+SIGN ANALYSIS:
+# State the sign of the result as a function of geometry parameters.
+# Identify zero crossings and their physical significance.
+
+
+====================================================================
+SECTION 3 — NUMERICAL EVALUATION AT DESIGN PARAMETERS
+====================================================================
+
+# Plug in the values from Attempt.yaml and compute numeric estimates.
+# Format: quantity = formula = intermediate = final_value (units)
+# Include every number to at least 3 significant figures.
+
+{Parameter_1} = {symbol} = {value} {units}
+{Parameter_2} = {symbol} = {value} {units}
+
+{Key result name}:
+  {symbol} = {formula}
+           = {substituted expression}
+           = {numeric result} {units}
+
+COMPARISON TO TARGET:
+  Required {force/field/other}: {value} {units}
+  Predicted {force/field/other}: {value} {units}
+  Ratio (predicted / required): {ratio}
+  Conclusion: {exceeds target | below target by Nx | same order of magnitude}
+
+IMPORTANT CAVEAT:
+# State what approximation was used (e.g., dipole approximation, far-field, linear response).
+# State the expected accuracy of the approximation (e.g., "valid to ~5% at 10:1 aspect ratio").
+# The simulation will correct for this approximation.

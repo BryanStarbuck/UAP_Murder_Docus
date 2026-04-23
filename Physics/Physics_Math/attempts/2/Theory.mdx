@@ -1,0 +1,233 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+THEORY — ATTEMPT 2: ASYMMETRIC ELECTROSTATIC PRESSURE THRUST
+Last updated: 2026-04-23 (Day 2)
+====================================================================
+
+
+====================================================================
+1. THE PHYSICAL MECHANISM
+====================================================================
+
+A conductor at fixed electrostatic potential V in free space develops
+a surface charge density sigma(r) determined by the geometry of the
+conductor surface. The local surface charge density is not uniform
+for an asymmetric conductor — it is higher where the surface has
+greater curvature (sharper features, apices, edges).
+
+The local electric field immediately outside the conductor surface is
+perpendicular to the surface (boundary condition: tangential E = 0
+for a conductor) and equal to:
+
+    E_n = sigma / eps_0     [V/m]
+
+where sigma is the local surface charge density [C/m^2] and eps_0 is
+the permittivity of free space (8.854e-12 F/m).
+
+The electrostatic pressure (Maxwell electrostatic stress normal to
+the surface) acting on the conductor surface is:
+
+    P = eps_0 * E_n^2 / 2 = sigma^2 / (2 * eps_0)     [Pa = N/m^2]
+
+This pressure acts outward (away from the conductor, in the direction
+of n_hat). For each surface element dA with outward normal n_hat(r),
+the force contribution is:
+
+    dF = P(r) * n_hat(r) * dA     [N]
+
+The total net force on the conductor is the surface integral:
+
+    F = integral over S of P(r) * n_hat(r) dA
+      = integral over S of (eps_0/2) * E_n(r)^2 * n_hat(r) dA     [N]
+
+
+====================================================================
+2. WHY A SYMMETRIC CONDUCTOR HAS ZERO NET FORCE
+====================================================================
+
+For a perfect sphere of radius R at potential V, the charge distribution
+is uniform: sigma = eps_0 * V / R everywhere on the surface. The field
+is radially symmetric: E_n(r) = V/R, constant. The outward normal n_hat
+is radially outward. By symmetry, for every surface element at position
+r contributing force dF = P * n_hat(r) * dA, there is an equal and
+opposite element at -r contributing -dF. The integral vanishes:
+
+    F_sphere = (eps_0/2) * (V/R)^2 * integral over sphere of n_hat dA = 0
+
+This is the symmetry cancellation result. A sphere in isolation has
+zero net electrostatic force. This provides the validation test: any
+electrostatic simulation code must return zero net force for a sphere.
+
+
+====================================================================
+3. WHY AN ASYMMETRIC CONDUCTOR HAS NONZERO NET FORCE
+====================================================================
+
+Consider a hemisphere of radius R at potential V, positioned with its
+flat face on a grounded conducting plane (z = 0 plane, grounded to V = 0).
+
+The hemisphere is at potential V. The plane is at V = 0. The boundary
+conditions are:
+  * On the hemisphere surface S_h: V = V_0
+  * On the ground plane z = 0: V = 0
+  * At infinity: V -> 0
+
+The resulting E-field distribution is asymmetric. At the apex of the
+hemisphere (topmost point, theta = 0), the field is concentrated because
+the local radius of curvature is smallest and the charge density is
+highest. At the equator of the hemisphere (theta = pi/2), the geometry
+transitions to the flat plane, and the field gradient changes character.
+
+The key asymmetry: the E-field at the apex is approximately:
+
+    E_apex ≈ 3 * V_0 / R     [V/m]    (for hemisphere on ground plane)
+
+This is 3× the field of a full sphere at the same potential. The field
+is highly concentrated at the apex compared to a sphere. Meanwhile, the
+base of the hemisphere (edge at z = 0) has a different field geometry
+entirely, governed by the ground plane boundary condition.
+
+The resulting net force integral:
+
+    F_z = integral over S_h of (eps_0/2) * E_n(r)^2 * cos(theta) * dA
+
+is nonzero because E_n(theta) is not symmetric about the midplane.
+The apex has higher E^2 contribution and its n_hat has a larger z-component
+(cos theta → 1 at apex). The equatorial regions have lower E^2 and
+their n_hat has cos theta → 0. There is no opposing surface below (the
+flat base is at the ground plane, with different boundary conditions).
+
+Net result: F_z ≠ 0, directed upward (toward the apex).
+
+This is the fundamental claim. It is NOT a violation of Newton's third law:
+the reaction force is on the ground plane (and whatever is connected to it
+through the circuit that maintains the potential difference).
+
+
+====================================================================
+4. THE MAXWELL STRESS TENSOR — FULL FORMULATION
+====================================================================
+
+The Maxwell stress tensor for electrostatics is:
+
+    T_ij = eps_0 * (E_i * E_j - (1/2) * delta_ij * E_k * E_k)     [Pa]
+
+where i, j, k are Cartesian indices, and summation over repeated indices
+is implied (Einstein convention). In vector notation:
+
+    T = eps_0 * (E ⊗ E - (1/2) * I * |E|^2)
+
+The force on a volume V surrounded by a closed surface S is:
+
+    F_i = integral over S of T_ij * n_j dA
+
+where n is the outward unit normal to S. For a conductor, the surface
+charge density determines the field just outside:
+
+    E = (sigma / eps_0) * n_hat    at the conductor surface
+
+Substituting into T_ij:
+
+    T_ij * n_j = eps_0 * (E_i (E · n) - (1/2) * n_i * |E|^2)
+               = eps_0 * E_n * (E_i - (1/2) * n_i * E_n)
+
+For a conductor where E is purely normal (E_tangential = 0):
+
+    T_ij * n_j = eps_0 * E_n^2 * n_i - (1/2) * eps_0 * E_n^2 * n_i
+               = (eps_0 / 2) * E_n^2 * n_i
+
+This confirms the pressure form P = eps_0 * E_n^2 / 2 acting in the
+outward normal direction. No tangential components survive for a perfect
+conductor in electrostatic equilibrium.
+
+
+====================================================================
+5. BUHLER EXPERIMENTAL RESULT AND THIS THEORY
+====================================================================
+
+Dr. Charles Buhler at NASA Kennedy Center demonstrated net thrust from
+an asymmetric electrostatic device in hard vacuum. The critical design
+element: asymmetric electrode geometry that creates a non-uniform
+electrostatic pressure distribution over the device surface.
+
+Buhler's result is in the millinewton range. The force scales as:
+
+    F ~ eps_0 * V^2 * L    [rough dimensional analysis]
+
+where L is the characteristic linear size of the conductor. For V = 10 kV
+and L = 0.1 m:
+
+    F ~ 8.854e-12 * (10e3)^2 * 0.1 = 8.854e-8 N ≈ 88 nN
+
+This naive estimate is far below millinewton scale. The actual Buhler
+result requires a more careful geometry with concentrated charge and a
+specific asymmetry. Geometry is the key amplifier. The hemisphere apex
+concentration factor and the ground plane interaction both amplify the
+force beyond the naive estimate.
+
+The connection to Cernohajev (Manual Section 3.5): Gene Sticco claims
+Cernohajev independently derived the theoretical basis for this effect
+from UAP craft analysis in the 1980s. Cernohajev specifies a charge
+density of 0.2e-6 C/m^3 in the context of his solenoid array design.
+Whether this connects directly to the surface-charge mechanism here
+is unresolved but worth investigating in a later attempt.
+
+
+====================================================================
+6. KEY UNKNOWN AND SIMULATION VALIDATION TARGET
+====================================================================
+
+The key question for Day 2:
+
+Does the Maxwell stress tensor integral over the hemisphere-on-ground-plane
+geometry produce a measurable net upward force, and does its magnitude
+agree with the Buhler millinewton scale for comparable geometry and voltage?
+
+The simulation must answer:
+  * F_z for hemisphere geometry (should be nonzero, upward)
+  * F_z for full sphere (should be zero — validation check)
+  * Scaling law: how F_z varies with R and V
+  * Which geometric parameter most amplifies F_z
+
+If the scipy/numpy simulation confirms a nonzero upward F_z for the
+hemisphere, Attempt 2 is experimentally validated in principle. The
+next question becomes: can the force be scaled to lift-relevant magnitude?
+
+
+====================================================================
+7. DEPARTURE FROM CONVENTIONAL PHYSICS EXPECTATIONS
+====================================================================
+
+Standard electrostatics textbooks do not emphasize that asymmetric
+conductors generate net forces on themselves. This is because in the
+typical context, a conductor in free space (no ground plane, no external
+fields) has zero net force — the electrostatic pressure is internal
+stress that the conductor material supports. The body as a whole has
+no net force.
+
+The critical departure in the Buhler configuration: the conductor is
+NOT in free space. It is in the presence of a ground plane. The ground
+plane breaks the symmetry of the return path for the electric field.
+The force on the asymmetric conductor relative to the ground plane is
+nonzero.
+
+In a circuit sense: the capacitor formed by the hemisphere and the
+ground plane has a force between the plates. For a parallel-plate
+capacitor, this force is attractive (toward the other plate). For an
+asymmetric geometry, the force has a component that is NOT toward the
+ground plane — it can have a net tangential or off-normal component.
+
+This is the mechanism that Buhler measured: not a violation of
+conservation of momentum, but an asymmetric distribution of the
+electrostatic force between an asymmetric conductor and its circuit
+ground. The reaction force is on the ground (the rest of the circuit).
+If the ground is the Earth (a Faraday cage building, for example), the
+force on the conductor is an effective thrust relative to ground.
+
+For propulsion: the ground plane must be replaced by something. In
+free space, you need a separate ground reference. This is why Buhler's
+result, while real, requires careful thought about the closed system.
+In vacuum, if the device includes its own internal ground (a capacitor
+with asymmetric electrodes), the net force on the external package is
+what matters. This is the Day 2+ question.

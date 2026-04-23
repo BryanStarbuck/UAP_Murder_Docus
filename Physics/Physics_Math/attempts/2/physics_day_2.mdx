@@ -1,0 +1,321 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PHYSICS — DAY 2 — ATTEMPT 2: ASYMMETRIC ELECTROSTATIC PRESSURE THRUST
+Date: 2026-04-23
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+1. PHYSICAL QUESTION FOR DAY 2
+====================================================================
+
+Does the asymmetric distribution of electrostatic pressure over the
+surface of a conducting hemisphere (positioned on a grounded plane)
+produce a net upward force on the conductor?
+
+This is the fundamental physics claim underlying the Buhler result.
+The mechanism does not require exotic physics beyond classical
+electrostatics and the Maxwell stress tensor. The question is whether
+the geometry produces the asymmetry needed for a nonzero net force.
+
+
+====================================================================
+2. GOVERNING EQUATIONS
+====================================================================
+
+2.1 Electrostatic Potential Problem
+
+The electrostatic potential phi satisfies the Laplace equation
+in the region exterior to the conductors:
+
+    nabla^2 phi = 0     [Laplace equation, charge-free exterior region]
+
+Boundary conditions:
+    phi = V_0    on the hemisphere surface
+    phi = 0      on the grounded plane (z = 0, r > R)
+    phi -> 0     as r -> infinity
+
+This is a Dirichlet problem. The solution determines the potential
+distribution everywhere outside the conductors.
+
+2.2 Electric Field
+
+The electric field is the negative gradient of the potential:
+
+    E = -nabla phi     [V/m]
+
+At the conductor surface, E is purely normal (tangential component = 0
+by conductor boundary condition):
+
+    E_tangential = 0         [at conductor surface, electrostatic equilibrium]
+    E_normal = -dphi/dn      [outward normal derivative of potential]
+
+The outward normal E_n is related to the surface charge density by
+Gauss's law:
+
+    sigma = eps_0 * E_n     [C/m^2]
+
+where sigma is the local surface charge density on the conductor surface.
+
+2.3 Electrostatic Pressure (Maxwell Stress Normal Component)
+
+The electrostatic pressure acting outward on the conductor surface is:
+
+    P_e = eps_0 * E_n^2 / 2 = sigma^2 / (2 * eps_0)     [Pa]
+
+This follows directly from the Maxwell stress tensor T_ij evaluated
+with the conductor boundary condition (E purely normal). The full
+derivation was shown in Theory.mdx Section 4.
+
+2.4 Net Force via Maxwell Stress Tensor
+
+The net electrostatic force on the conductor is the surface integral
+of the electrostatic pressure weighted by the outward surface normal:
+
+    F = integral over S of P_e(r) * n_hat(r) dA
+
+In Cartesian components:
+
+    F_x = integral over S of P_e(r) * n_x(r) dA
+    F_y = integral over S of P_e(r) * n_y(r) dA
+    F_z = integral over S of P_e(r) * n_z(r) dA
+
+By the azimuthal symmetry of the hemisphere-on-plane geometry (cylinder
+symmetric about the z-axis), F_x = F_y = 0 exactly. Only F_z is nonzero.
+
+
+====================================================================
+3. THE HEMISPHERE-ON-PLANE GEOMETRY
+====================================================================
+
+3.1 Geometry Definition
+
+Coordinate system: cylindrical (rho, phi, z) or spherical (r, theta, phi).
+
+The hemisphere:
+    * Center at origin
+    * Radius R
+    * Occupies z > 0 hemisphere: r = R, 0 <= theta <= pi/2
+    * Flat face at z = 0 (circle of radius R in the ground plane)
+
+The ground plane:
+    * Infinite conducting plane at z = 0
+    * Grounded: phi = 0 everywhere on z = 0 plane
+
+Applied voltage: The hemisphere is maintained at phi = V_0 > 0.
+
+3.2 Solution by Method of Images
+
+The grounded plane boundary condition (phi = 0 at z = 0) can be
+satisfied by the method of images. For any charge configuration above
+the plane, the image is an equal and opposite charge configuration at
+the mirror location below the plane.
+
+For a sphere of charge q at height h above a grounded plane, the image
+is -q at depth -h below the plane. The potential is the superposition:
+
+    phi = (q / 4 pi eps_0) * (1/r_+ - 1/r_-)
+
+where r_+ is the distance from the real charge and r_- is the distance
+from the image charge.
+
+For the conducting hemisphere at potential V_0:
+The sphere (extended to a full sphere) has image -V_0 sphere at
+z < 0. The ground plane condition is automatically satisfied by this
+image construction. The hemisphere surface at r = R, z > 0 is at
+potential:
+
+    phi(R, theta) = V_0     [0 <= theta <= pi/2]
+
+The complete solution for the potential outside a sphere of radius R
+at potential V_0 above a grounded plane is (from sphere + image system):
+
+    phi(r, theta) = V_0 * (R/r)     [full sphere, any theta]
+
+But the hemisphere boundary condition is more subtle. The flat base of
+the hemisphere (the disk at z = 0, rho < R) is part of the conductor
+at V_0, but the ground plane at rho > R is at V = 0. This creates a
+boundary condition discontinuity at rho = R, z = 0 (the edge of the
+hemisphere base) which cannot be solved exactly in closed form.
+
+For the purpose of estimating the E-field geometry:
+
+Approximate treatment (upper hemisphere only, above z = 0 plane):
+The field above z = 0 is approximately that of a full sphere at V_0
+in the upper half space, with the image charge below providing the
+ground plane condition. This approximation is most accurate far from
+the equator and gives:
+
+    E_r(R, theta) ≈ V_0 / R + image correction term
+
+Near the apex (theta ≈ 0, far from the ground plane discontinuity):
+
+    E_r(R, 0) ≈ 2 * V_0 / R    (sum of real and image contributions)
+
+Near the equator (theta ≈ pi/2, near the discontinuity):
+    The image charge contribution partially cancels the direct term.
+    E_r(R, pi/2) ≈ V_0 / R    (approximate, lower bound)
+
+This approximation yields a factor of 2 asymmetry in E^2 between
+the apex and equator, producing a net upward force. The exact field
+requires numerical computation.
+
+3.3 Exact Numerical Approach
+
+For precise force calculation, the potential can be computed numerically:
+
+Method 1: Boundary element method (BEM). Discretize the conductor
+surface into N panels. Set up and solve a linear system for the charge
+density sigma_i on each panel such that the superposition of all panel
+potentials satisfies the boundary conditions. Compute the field from
+sigma_i and integrate the force.
+
+Method 2: Finite difference or finite element on a regular mesh.
+Discretize the domain, apply boundary conditions, solve nabla^2 phi = 0.
+Extract E at the conductor surface by differencing.
+
+For Day 2, Method 1 (simplified analytical + numerical integration)
+using the image charge approximation will be used. This gives the
+qualitative result and correct scaling. Full BEM is Day 3+ if needed.
+
+
+====================================================================
+4. E-FIELD AT HEMISPHERE SURFACE — ANALYTICAL ESTIMATE
+====================================================================
+
+For the hemisphere at potential V_0, radius R, on grounded plane,
+the dominant E-field at the curved surface is (from image charge
+approximation):
+
+    E_n(theta) ≈ E_0 * f(theta)     [V/m]
+
+where E_0 = V_0 / R is the reference field scale and f(theta) is a
+dimensionless function capturing the angular dependence.
+
+For the image charge model (point charge +q at origin, image -q at
+origin reflected through z = 0 — not quite physical but illustrative):
+
+The actual image charge model for a hemisphere on a grounded plane
+gives a field that peaks at the apex and decreases toward the equator.
+From field line geometry and known solutions to similar problems:
+
+    E_n(theta = 0) ≈ 2 * V_0 / R      [apex, field enhanced by image]
+    E_n(theta = pi/4) ≈ 1.4 * V_0 / R  [45 degrees, interpolated]
+    E_n(theta = pi/2) ≈ 0.7 * V_0 / R  [equator, field reduced by image]
+
+These are rough estimates. The simulation will compute exact values.
+
+4.1 Force Integrand
+
+The electrostatic pressure is P_e = (eps_0 / 2) * E_n^2. The vertical
+(z) component of force from a surface element at angle theta is:
+
+    dF_z = P_e(theta) * n_z(theta) * dA
+         = (eps_0 / 2) * E_n(theta)^2 * cos(theta) * R^2 * sin(theta) * dtheta * dphi
+
+Integrating over phi (0 to 2*pi) and theta (0 to pi/2):
+
+    F_z = (eps_0 / 2) * (2 pi R^2) * integral from 0 to pi/2 of
+          E_n(theta)^2 * cos(theta) * sin(theta) * dtheta
+
+For a uniform field E_n = E_0 (all angles equal):
+    F_z_uniform = pi * R^2 * (eps_0 / 2) * E_0^2 * integral from 0 to pi/2 of
+                  2 * cos(theta) * sin(theta) * dtheta
+                = pi * R^2 * (eps_0 / 2) * E_0^2 * [sin^2(theta)] from 0 to pi/2
+                = pi * R^2 * (eps_0 / 2) * E_0^2 * 1
+
+For the hemisphere, E_n is NOT uniform, and the net force is NOT zero
+because the image charge creates an asymmetry: the apex region has
+higher E^2 * cos(theta) than the equatorial region. The integral does
+not cancel.
+
+
+====================================================================
+5. DEPARTURE FROM CONVENTIONAL PHYSICS PREDICTIONS
+====================================================================
+
+In conventional electrostatics (conductor in free space, no ground plane):
+A conductor at any potential experiences zero NET force on itself because
+for every surface element, there is a corresponding element with an equal
+and opposite force contribution (by Earnshaw's theorem and Newton's third
+law applied to the self-energy).
+
+The departure here:
+The presence of the grounded conducting plane breaks the symmetry.
+The conductor + ground plane is a two-body system. The force between
+the two conductors is the force on each relative to the other. For a
+symmetric geometry (e.g., two parallel flat plates), the force is purely
+attractive normal to the plates. For an asymmetric geometry (hemisphere
+vs. flat plate), the force has components that are not purely normal to
+the plane. Specifically, the vertical component F_z on the hemisphere
+is upward (away from the ground plane) for any V_0 > 0.
+
+This is not a violation of Newton's third law. The equal and opposite
+force is on the ground plane. In the lab frame, if the ground plane is
+fixed (connected to Earth ground), the hemisphere experiences a net
+upward force from the electrostatic interaction with the ground.
+
+The Buhler result goes further: even with no conducting ground plane,
+in hard vacuum, an asymmetric charged conductor can produce a net force.
+This requires the device to include its own internal ground reference
+(the negative electrode of a capacitor pair). The present Day 2
+simulation is the ground-plane case (the simpler configuration), which
+directly applies to devices where the craft maintains a potential
+relative to an external conductor below it.
+
+
+====================================================================
+6. WHAT THE SIMULATION MUST SHOW
+====================================================================
+
+To confirm this physics is operating:
+
+1. Validation check: Symmetric sphere at potential V, no ground plane
+   (or ground plane at infinity). Net force F_z = 0. Any deviation from
+   zero is a numerical error.
+
+2. Main result: Hemisphere at potential V_0 on grounded plane.
+   F_z > 0. Force is upward. Magnitude scales as eps_0 * V_0^2 * R.
+
+3. Scaling check: F_z vs V_0 should follow F_z ~ V_0^2 (because the
+   field scales as V_0 and the pressure as E^2).
+
+4. Geometry check: F_z vs hemisphere radius R at fixed V_0 should
+   scale as R (since F ~ pressure * area ~ eps_0 * (V/R)^2 * R^2 = eps_0 * V^2,
+   independent of R for fixed voltage!). Actually: force is independent
+   of R at fixed V? Let me check dimensional analysis below.
+
+Dimensional analysis of F_z:
+    F_z ~ eps_0 * E^2 * R^2 ~ eps_0 * (V/R)^2 * R^2 = eps_0 * V^2
+
+This is independent of R at fixed V! Increasing the size of the conductor
+at fixed voltage does NOT increase the force. Only increasing voltage helps.
+This is a critical practical limitation of the approach.
+
+To scale to lift force: need eps_0 * V^2 ~ m * g
+
+For m = 0.5 kg: F_target = 4.905 N
+    eps_0 * V^2 = F_target
+    V^2 = F_target / eps_0 = 4.905 / 8.854e-12 = 5.54e11
+    V = 7.4e5 V = 740 kV
+
+This is 740 kilovolts. Extremely high. Even before considering breakdown.
+
+Implication: Buhler-type devices are inherently millinewton-scale
+propellantless thrusters for attitude control or microspace applications,
+NOT lift-scale propulsion systems — unless the force amplification
+from the Cernohajev solenoid array geometry is real and provides
+orders-of-magnitude enhancement.
+
+THIS IS A KEY FINDING that must be noted in the sim_learned file.
+The single-hemisphere configuration does not scale to lift force at
+reasonable voltages. The interesting question becomes: what amplification
+mechanism (if any) can bridge the gap?
+
+Note: A factor of 10^5 amplification would require bringing the gap
+    down from ~740 kV to ~7 kV. That requires either a fundamentally
+    different geometry or a new physical mechanism. The Cernohajev
+    solenoid array parameters (B = 16.65 T, specific charge density)
+    may suggest such a geometry — worth investigating in a later attempt.

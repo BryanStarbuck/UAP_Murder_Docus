@@ -1,0 +1,53 @@
+# Attempt.yaml Template
+# Copy to {ROOT_DIR}/attempts/{N}/Attempt.yaml when starting a new attempt.
+# Replace all placeholder values. Do not leave template comments in the live file.
+# See Manual Section 6 for attempt lifecycle rules.
+
+attempt_number: {N}           # integer, matches directory name
+name: {Approach_Name}         # PascalCase, describes the core mechanism (not the outcome)
+                              # Examples: Rotating_Permanent_Magnet_Array, Buhler_Electrostatic
+status: active                # active | stalled | complete | abandoned
+started: {YYYY-MM-DD}
+last_updated: {YYYY-MM-DD}
+
+summary: >
+  # 2-4 sentences. What physical mechanism is being tested. What the
+  # hypothesis is. What "success" means for this attempt.
+
+physics_basis:
+  primary_mechanism: # One phrase naming the key physical effect
+  key_equations:
+    - "# Equation 1 with label"
+    - "# Equation 2 with label"
+  field_symmetry: # How does the design break spatial symmetry to produce net force?
+  rotation_role:  # How does time-variation or rotation enter the force calculation?
+
+design_parameters:
+  target_lift_mass_kg: # numeric
+  # List all key geometric and material parameters with units.
+  # Every parameter that enters the simulation must appear here.
+
+simulation_plan:
+  software:    # primary tool (e.g., magpylib, scipy, ElmerFEM)
+  secondary:   # fallback or validation tool
+  test_cases:
+    - # Validation case: reproduce known result before novel physics
+    - # Main case 1: what the first simulation run will test
+    - # Main case 2: parametric variation
+
+engineering_notes: >
+  # Key mechanical, thermal, and power constraints.
+  # What physical build would test the core claim?
+  # Minimum build for a proof-of-concept?
+
+open_questions:
+  - # Q1: What the simulation must resolve on Day 1
+  - # Q2: Follow-on question for Day 2+
+  - # Q3: Theoretical question that simulation cannot answer
+
+days_worked:
+  - # list of day numbers (integers) that worked on this attempt
+
+status_notes: >
+  # Running log of findings. Update at end of each day worked.
+  # Most recent finding at top. Date each entry.

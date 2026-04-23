@@ -1,6 +1,6 @@
 attempt_number: 1
 name: Rotating_Permanent_Magnet_Array
-status: active
+status: stalled
 started: 2026-04-23
 last_updated: 2026-04-23
 
@@ -56,5 +56,19 @@ days_worked:
   - 1
 
 status_notes: >
-  Attempt 1 initialized on Day 1. Theory and initial design parameters set.
-  Simulation not yet run.
+  Day 1 simulation (Magpylib 5.2.2) showed that Kelvin force on the craft is
+  DOWNWARD in Sub-approach A geometry (ring above steel ground plate).
+  Ferromagnetic Kelvin interaction is always attractive — the craft is pulled
+  toward the plate, not lifted. Force magnitude is sufficient (7.54 N at
+  z_gap = 3.4 cm vs. 4.905 N required) but direction is wrong. The 2x Halbach
+  pattern (Option B) produces zero on-axis B_z, exactly as predicted analytically.
+  Sub-approach A is eliminated. Sub-approach B (time-varying, needs ElmerFEM)
+  and Attempt 2 (Buhler electrostatic) are Day 2 priorities. Attempt 1 status
+  moved to stalled pending a Sub-approach B time-varying field simulation.
+
+simulation_results_day_1:
+  validation_error_pct: 0.374
+  option_A_peak_force_N: -7.54
+  option_A_peak_z_cm: 3.4
+  option_B_peak_force_N: 0.0
+  direction: WRONG — attractive toward ground plate, not repulsive

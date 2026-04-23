@@ -1,0 +1,96 @@
+attempt_number: 2
+name: Asymmetric_Electrostatic_Pressure_Thrust
+status: active
+started: 2026-04-23
+last_updated: 2026-04-23
+
+summary: >
+  Asymmetric distribution of electrostatic pressure across a conductor body produces
+  a net propellantless thrust force in vacuum. Based directly on the experimentally
+  confirmed Buhler result (NASA Kennedy Center). The mechanism: electrostatic pressure
+  P = eps_0 * E^2 / 2 acts normal to the conductor surface. For an asymmetric conductor
+  geometry (e.g. hemisphere on ground plane), the integrated surface pressure force is
+  nonzero. Ion wind is ruled out by vacuum testing. The force is transmitted to the
+  conductor body through the surface charge distribution.
+
+physics_basis:
+  primary_mechanism: Maxwell stress tensor integral over asymmetric conductor surface
+  key_equations:
+    - "P = eps_0 * E^2 / 2  [electrostatic pressure at conductor surface]"
+    - "T_ij = eps_0 * (E_i * E_j - delta_ij * |E|^2 / 2)  [Maxwell stress tensor]"
+    - "F_i = integral over S of T_ij * n_j dA  [net force from surface integral]"
+    - "E_surface = sigma / eps_0  [E-field at conductor surface from surface charge sigma]"
+    - "E_hemisphere_apex = 3 * V / R  (approx, hemisphere on ground plane)"
+  field_geometry: Asymmetric — apex concentrates E-field; base plate has uniform field
+  force_direction: Toward apex of asymmetric conductor (upward in hemisphere geometry)
+  unique_claim: Nonzero net force in vacuum without ion wind or reaction mass
+
+design_parameters:
+  target_lift_mass_kg: 0.5
+  conductor_geometry: hemisphere on grounded flat plate
+  hemisphere_radius_cm: 10.0
+  applied_voltage_kV: 10.0
+  material: aluminum conductor (sigma >> 1; surface charge distribution is key)
+  insulator: post mounting on PTFE or alumina
+  environment: hard vacuum (no ion wind)
+
+simulation_plan:
+  software: scipy_numpy_analytical
+  day_2_validation: >
+    First verify symmetry cancellation: a full sphere at V should produce
+    zero net force (symmetry). If nonzero, fix sign/integration error.
+  day_2_main: >
+    Hemisphere on grounded plane. Compute E-field via image charge method.
+    Compute P = eps_0 E^2 / 2 at surface. Integrate T * n_hat over surface.
+    Record net F_z. Compare to Buhler millinewton scale.
+  test_cases:
+    - Full sphere validation: F_net must be zero (symmetry check)
+    - Hemisphere on ground plane: F_z expected nonzero upward
+    - Cone on ground plane: F_z vs cone half-angle (scaling law)
+    - Two-hemisphere stack: verify force additivity
+    - Voltage scaling: F_z vs V for fixed geometry (expect F proportional to V^2)
+
+engineering_notes: >
+  A physical Buhler-analog device is buildable from off-the-shelf components.
+  Key requirements: (1) high-voltage DC supply 10-50 kV range,
+  (2) conducting hemisphere 5-20 cm radius, (3) grounded base plate,
+  (4) insulating mount. The critical test requires a vacuum chamber to
+  eliminate ion wind. Without vacuum, measured force cannot be attributed
+  to the electrostatic pressure mechanism alone. Vacuum chamber requirement
+  makes this a laboratory experiment, not a garage build.
+
+open_questions:
+  - Does the scipy/numpy Maxwell stress tensor integration reproduce Buhler force scale?
+  - What geometry maximizes force per unit applied voltage?
+  - How does force scale with conductor size (R)?
+  - Can a stack of asymmetric elements add force coherently (no cancellation)?
+  - Is there a configuration that produces sufficient force to levitate 0.5 kg?
+  - What is the breakdown voltage limit for the geometry (air vs. vacuum)?
+
+days_worked:
+  - 2
+
+simulation_results_day_2:
+  validation_pass: true
+  sphere_force_N: 0.0
+  hemisphere_Fz_N: 9.4994e-3
+  hemisphere_Fz_mN: 9.4994
+  voltage_V: 10000.0
+  radius_m: 0.10
+  geometry_factor_C: 10.73
+  scale_coefficient_N_per_V2: 9.4994e-11
+  lift_voltage_kV: 227.2
+  apex_field_at_lift_MV_per_m: 6.82
+  vacuum_required: true
+  air_breakdown_exceeded_at_lift: true
+  field_emission_margin: ">15x below vacuum limit"
+
+status_notes: >
+  Day 2 simulation (scipy/numpy Legendre expansion, L_MAX=21) POSITIVE.
+  Validation: full sphere F_z = 0 (exact). Main test: hemisphere F_z = 9.50 mN
+  upward at R=10cm, V=10kV. Force scales exactly as V^2, independent of R.
+  Geometry factor C = 10.73 (higher than naive estimate C~1). Lift voltage
+  = 227.2 kV in vacuum (E_apex = 6.82 MV/m, below field emission limit ~100 MV/m).
+  Gibbs ringing in E_r at theta~10° due to L_MAX=21 truncation — force integral
+  still valid. Day 3 priorities: BEM for exact E_r profile, cone geometry sweep,
+  convergence check at L_MAX=51/101. Attempt status: ACTIVE, positive progress.

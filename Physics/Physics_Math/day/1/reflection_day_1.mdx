@@ -1,0 +1,206 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+REFLECTION — Day 1 (2026-04-23)
+Attempt Focus: 1 (Rotating_Permanent_Magnet_Array)
+====================================================================
+
+
+====================================================================
+Q1: WHAT DID SIMULATION OR ANALYSIS SHOW THAT WAS NOT EXPECTED?
+====================================================================
+
+The Kelvin force on the Halbach ring craft is DOWNWARD in the intended
+geometry (ring above steel ground plate), not upward. The ferromagnetic
+Kelvin interaction is universally attractive — the craft is pulled toward
+the ground plate, not lifted from it.
+
+This was not anticipated at the start of Day 1. The analytical estimate
+in math_day_1.mdx computed the force magnitude correctly (5.87 N
+vs. simulated 7.54 N peak — 28% difference from dipole approximation
+inaccuracy) but assigned the wrong sign, leading to an incorrect
+prediction that Sub-approach A would produce lift.
+
+The error was conceptual: the physics_day_1.mdx Section 2.3 stated
+"the ring (craft) is pushed upward" when the Kelvin force is
+attractive. This has been corrected in sim_learned_day_1.mdx.
+
+SECONDARY FINDING: The 2× Halbach ring (Option B) produces effectively
+zero on-axis B_z, which WAS expected from the analytical derivation but
+is now confirmed numerically to machine precision. Option B is
+eliminated for any on-axis axial force application. This was expected
+and not surprising.
+
+
+====================================================================
+Q2: IS THE CURRENT ATTEMPT SHOWING POSITIVE PROGRESS?
+====================================================================
+
+Attempt 1 is now STALLED after one day. The core design hypothesis
+(Kelvin gradient force producing upward lift) was falsified in the
+first simulation run. The force magnitude is achievable but the
+direction is wrong for the intended configuration.
+
+This is not a failure — it is a rapid falsification of a wrong
+hypothesis. One day to rule out a design approach is efficient.
+
+The correct characterization: Attempt 1 Sub-approach A is eliminated.
+Attempt 1 Sub-approach B (time-varying rotating field) has not yet
+been tested. Sub-approach B requires a time-domain FEM solver
+(ElmerFEM or openEMS), not available in Day 1 (Magpylib is
+magnetostatics only). Sub-approach B is a Day 3+ candidate.
+
+
+====================================================================
+Q3: HAS ANY ATTEMPT GONE FIVE OR MORE DAYS WITHOUT A POSITIVE RESULT?
+====================================================================
+
+No. Day 1 is the first day. No pattern is established yet. Evaluate
+again after Day 5.
+
+
+====================================================================
+Q4: ARE THERE PATTERNS ACROSS THE LAST 10 DAYS SUGGESTING STRATEGY CHANGE?
+====================================================================
+
+No prior days to compare. However, the Day 1 result immediately suggests
+a priority reordering for Day 2:
+
+Manual Section 8 priority list:
+  Priority 1 — Buhler asymmetric electrostatic thrust (not yet started)
+  Priority 2 — BUGA device anomalous mass readings (not yet started)
+  Priority 3 — Rotating asymmetric magnet array = Attempt 1 (STALLED Day 1)
+
+The correct order of work was Priority 1 first. Attempt 1 was started
+first because it seemed more conservative, but it was ruled out on Day 1.
+The project should have started with Buhler (Priority 1) per the manual.
+
+STRATEGY: Start Attempt 2 (Buhler electrostatic) on Day 2 immediately.
+Keep Attempt 1 alive for Sub-approach B (time-varying) which can be
+scheduled for Day 3 or later when ElmerFEM has been validated.
+
+
+====================================================================
+Q5: SHOULD A NEW ATTEMPT BE STARTED? WHICH APPROACH?
+====================================================================
+
+YES. Start Attempt 2 on Day 2.
+
+Approach: Section 3.4 — Asymmetric Electrostatic Pressure Thrust (Buhler).
+
+Rationale:
+* Buhler result is the most experimentally credible in the entire
+  corpus (named researcher, named institution, vacuum-tested, reproducible).
+* The simulation tool (scipy/numpy electrostatic analytical model) is
+  available — no new software installation needed.
+* This is Manual Priority 1 and should have been Attempt 1.
+* The force is in the millinewton range experimentally; understanding
+  the field geometry is the Day 2 goal, not scaling to lift force yet.
+
+Attempt 2 design:
+* Asymmetric conductor: hemispherical conductor on a flat ground plane,
+  or a cone-shaped conductor with charge concentrated at tip.
+* Field computation: analytical or scipy Laplace solver.
+* Force calculation: Maxwell stress tensor integrated over conductor surface.
+* Goal: reproduce the qualitative result (net force from asymmetric
+  electrostatic pressure distribution) before attempting to scale.
+
+
+====================================================================
+Q6: SHOULD AN OLD ATTEMPT BE REVISITED?
+====================================================================
+
+Attempt 1 Sub-approach B (rotating field time-asymmetric force):
+Revisit on Day 3 after Attempt 2 has been started. Requires ElmerFEM
+or openEMS. Not urgent — Sub-approach A is ruled out, B is unproven.
+
+Specifically: the rotating Halbach array may create eddy currents in
+the steel plate below that produce a REPULSIVE secondary field. Eddy
+currents in a conducting plate from a time-varying magnetic source
+create fields that oppose the change (Lenz's law) — this can produce
+repulsive force between the rotating array and the plate. This is
+exactly how maglev induction repulsion works (EDS: electrodynamic
+suspension). If this is the mechanism, the lift force scales with
+(rotation speed)² and becomes significant above a critical RPM.
+
+This is worth a dedicated Day 3 investigation. ElmerFEM handles
+rotating fields and eddy currents in 3D.
+
+
+====================================================================
+Q7: ARE THERE EMPIRICAL DATA POINTS FROM SECTION 4 NOT YET TARGETED?
+====================================================================
+
+All three Section 4 data points are untargeted:
+
+4.1 BUGA device anomalous mass readings (−30 to −50 g weight change):
+    → Day 4+ after Buhler and eddy current attempts are complete
+
+4.2 BUGA material degradation:
+    → No simulation needed; context for understanding BUGA operating power
+
+4.3 Buhler propellantless thrust:
+    → Day 2, Attempt 2. THIS IS THE IMMEDIATE PRIORITY.
+
+4.4 Cernohajev 32-solenoid spherical array:
+    → Day 5+ (requires Elmer FEM for complex 3D solenoid geometry)
+
+
+====================================================================
+Q8: SHOULD DAY TEMPLATE BE UPDATED?
+====================================================================
+
+YES. Add one step to the simulation section of the template:
+
+"Verify force direction: before declaring a Kelvin force result positive,
+check the sign of the computed force relative to the intended lift direction.
+Ferromagnetic Kelvin force is always attractive (sign = toward field source).
+State explicitly whether the force on the craft is upward or downward."
+
+This step prevents the Day 1 sign error from recurring in future days.
+
+
+====================================================================
+Q9: SHOULD THE MANUAL BE UPDATED?
+====================================================================
+
+YES. Add to Section 3.1 (Rotating Asymmetric Magnet Array):
+
+"Day 1 finding: Kelvin force between a permanent magnet array and a
+ferromagnetic target is ALWAYS ATTRACTIVE. In Sub-approach A (ring above
+steel ground plate), the craft is pulled TOWARD the plate (downward), not
+lifted. Sub-approach A is eliminated as a free-flight lift mechanism.
+Sub-approach B (time-varying eddy current repulsion) is the viable path
+for Attempt 1 continuation."
+
+Add to Section 9 (Physics Reference Notes) a new note on force direction:
+
+"9.7 KELVIN FORCE DIRECTION RULE
+The Kelvin body force on a ferromagnetic material (χ > 0) always points
+TOWARD higher |B|. The reaction force on the field source always points
+TOWARD the ferromagnetic target. Therefore, in any geometry where the
+field source is above the target: source is pulled DOWN, target is pulled
+UP. To use Kelvin force to lift the source, the target must be ABOVE
+the source."
+
+
+====================================================================
+Q10: WHAT SHOULD DAY 2 FOCUS ON?
+====================================================================
+
+PRIMARY: Start Attempt 2 — Buhler asymmetric electrostatic thrust.
+  * Read Manual Section 3.4 and 4.3 fully
+  * Set up scipy/numpy electrostatic field solver
+  * Model asymmetric conductor geometry (hemisphere on ground plane)
+  * Compute electrostatic pressure distribution: P = ε₀ E² / 2
+  * Integrate Maxwell stress tensor over conductor surface → net force
+  * Validate against Buhler's reported millinewton force scale
+
+SECONDARY: Plan Attempt 1 Sub-approach B (eddy current repulsion)
+  * Research EDS (electrodynamic suspension) physics
+  * Identify whether ElmerFEM can simulate rotating field + conducting plate
+  * Write Attempt.yaml entry for Sub-approach B if it is distinct enough
+    to warrant a new attempt number, or update Attempt 1 to include it
+
+Day 2 should begin with creating {ROOT_DIR}/attempts/2/Attempt.yaml and
+writing the plan before any simulation work.

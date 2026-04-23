@@ -1,0 +1,186 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PLAN FOR DAY 2
+Date: 2026-04-23
+Attempt Focus: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+CONTEXT FROM REFLECTION (Day 1)
+====================================================================
+
+Day 1 falsified Attempt 1 Sub-approach A in a single simulation run.
+The Kelvin body force between the Halbach magnet array and the steel
+ground plate is attractive (downward on the craft), not repulsive.
+Force magnitude was sufficient (7.54 N > 4.905 N target) but direction
+was wrong. Sub-approach A is eliminated. Sub-approach B (EDS eddy
+current repulsion via time-varying field) is deferred to Day 3+
+pending ElmerFEM validation.
+
+The Day 1 reflection explicitly identified Buhler electrostatic thrust
+(Manual Section 3.4, Priority 1) as the correct Day 2 focus. This
+approach should have been Attempt 1 per the Manual priority ordering.
+Correcting that today.
+
+
+====================================================================
+DECISION: ATTEMPT SELECTION
+====================================================================
+
+Attempt 2: Asymmetric_Electrostatic_Pressure_Thrust
+  * New attempt — create attempts/2/Attempt.yaml
+
+Attempt 1 status: stalled
+  * Not abandoned. Sub-approach B revisit scheduled for Day 3+.
+  * No work on Attempt 1 today.
+
+
+====================================================================
+DAY 2 PRIMARY GOAL
+====================================================================
+
+Demonstrate via simulation that an asymmetric conductor geometry
+(hemisphere on a flat ground plane) produces a net electrostatic
+pressure force using the Maxwell stress tensor. This reproduces the
+qualitative physics underlying the Buhler NASA Kennedy result.
+
+Success criterion: A non-zero net force in a definite direction
+from asymmetric electrostatic pressure — confirmed numerically
+using scipy/numpy. Force direction and approximate magnitude in
+agreement with physics prediction.
+
+NOT a goal today: Scaling to lift force. Understanding field geometry
+and confirming net force exists is sufficient for Day 2.
+
+
+====================================================================
+DAY 2 SECONDARY GOAL
+====================================================================
+
+Plan the ElmerFEM Sub-approach B simulation for Attempt 1. Define
+what specifically needs to be simulated. Confirm ElmerFEM handles
+rotating fields and eddy currents. Do not run the simulation today
+(that is Day 3). Today: define the simulation setup in writing.
+
+
+====================================================================
+PHYSICS PLAN (Section 4.3 Buhler + Manual 3.4)
+====================================================================
+
+The Buhler mechanism:
+* A conductor with asymmetric geometry is charged to high voltage.
+* The electrostatic pressure on the conductor surface is P = eps_0 E^2 / 2.
+* On a curved asymmetric surface, the normal to the surface varies.
+* The net integrated electrostatic pressure force F = integral over S of
+  P * n_hat dA is nonzero when the conductor geometry is asymmetric.
+* The force is in the direction of the apex of the asymmetric conductor
+  (the end with highest E-field concentration due to curvature).
+
+For a hemisphere on a flat ground plane:
+* Top surface: curved, E-field concentrated at apex.
+* Bottom surface: flat, E-field uniform.
+* Net force: upward (toward the apex of the hemisphere).
+
+This is what Buhler measured in hard vacuum. Ion wind was ruled out by
+vacuum testing. The mechanism is purely electrostatic pressure on the
+conductor surface, transmitted to the conductor as a body force.
+
+
+====================================================================
+MATH PLAN
+====================================================================
+
+1. Compute E-field analytically for a hemisphere at potential V on a
+   grounded ground plane. Use image charge method or separation of
+   variables in spherical harmonics.
+
+2. Compute electrostatic pressure P(theta, phi) = eps_0 |E|^2 / 2
+   at each point on the surface.
+
+3. Integrate P * n_hat over the upper hemisphere surface (curved part)
+   and compare to the flat base section.
+
+4. Show that the net vertical force F_z = integral [P * z_hat component]
+   dA is nonzero and upward.
+
+5. Numerical evaluation: estimate force magnitude for a 10 cm radius
+   hemisphere at 10 kV. Compare to Buhler's millinewton scale.
+
+
+====================================================================
+SIMULATION PLAN
+====================================================================
+
+Tool: Python scipy/numpy (electrostatic analytical model)
+  * No FEM needed for hemisphere geometry — analytical solution exists.
+  * Use Method of Images for a hemispherical conductor on a grounded plane.
+  * Compute E-field on the hemisphere surface.
+  * Compute Maxwell stress tensor T_ij = eps_0 (E_i E_j - delta_ij |E|^2/2).
+  * Integrate T_ij * n_j over the surface to get net force.
+
+Validation check: For a spherically symmetric conductor (full sphere),
+net force must be zero (symmetry). Test this first. If non-zero, the
+code has a sign or integration error.
+
+Main test: Hemisphere on ground plane. Net force must be nonzero and
+upward. Record magnitude for comparison to Buhler result.
+
+Extension test: Vary the conductor geometry (cone, prolate spheroid)
+and record how force varies with asymmetry ratio.
+
+
+====================================================================
+ENGINEERING PLAN
+====================================================================
+
+For a Buhler-analog device:
+* A conducting hemisphere (e.g., aluminum, 10 cm radius)
+* Mounted on an insulating post
+* Connected to a high-voltage DC supply (10-50 kV range)
+* Grounded base plate
+* The device would operate in air but the ion wind would contaminate
+  the measurement. For clean measurement: vacuum chamber.
+
+For scaling:
+* Key question: can force be scaled to lift level by increasing voltage,
+  radius, or stacking multiple asymmetric elements?
+* Day 2 will compute the scaling law from the Maxwell stress tensor.
+
+
+====================================================================
+FILES TO CREATE TODAY
+====================================================================
+
+* attempts/2/Attempt.yaml
+* attempts/2/physics_day_2.mdx
+* attempts/2/math_day_2.mdx
+* attempts/2/engineering_day_2.mdx
+* attempts/2/sim_setup_day_2.mdx
+* attempts/2/sim_learned_day_2.mdx
+* simulation/scipy_numpy/software/run_2_2_asymmetric_electrostatic.py
+* day/2/reflection_day_2.mdx
+
+
+====================================================================
+NOTES ON APPROACH PRIORITY CORRECTION
+====================================================================
+
+The Manual (Section 8 priority list) states:
+  Priority 1 — Buhler electrostatic
+  Priority 2 — BUGA anomalous mass
+  Priority 3 — Rotating magnet array
+
+Attempt 1 started with Priority 3 (most physically conservative).
+This was a reasonable first-day choice because:
+  * The magnet array simulation tool (Magpylib) was immediately available
+  * The physics was familiar
+  * It provided a fast validation that the simulation toolchain worked
+
+However, Priority 3 was ruled out on Day 1. The correct next step is
+Priority 1 (Buhler electrostatic). This is what Day 2 executes.
+
+The pattern to follow going forward: when Priority N approach stalls,
+move to Priority N-1 (higher priority) rather than sideways to a
+similar approach.

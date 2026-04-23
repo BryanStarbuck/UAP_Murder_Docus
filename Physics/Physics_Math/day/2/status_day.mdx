@@ -1,17 +1,17 @@
 ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
 
-DAY_STATUS_FILE is file {ROOT_DIR}/day/1/status_day.mdx
+DAY_STATUS_FILE is file {ROOT_DIR}/day/2/status_day.mdx
 
 
 ====================================================================
 DAY STATUS FILE
 ====================================================================
 
-WORK DAY NUMBER: 1
+WORK DAY NUMBER: 2
 DATE: 2026-04-23
-ATTEMPT_FOCUS: 1
+ATTEMPT_FOCUS: 2
 
-PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/1/plan_day_1.mdx
+PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/2/plan_day_2.mdx
 
 --------------------------------------------------------------------
 PLAN
@@ -59,50 +59,57 @@ DAILY TECHNICAL FILES
       * Create or update physics analysis in the attempt directory
       * Document all equations at PhD level: tensors, field equations, boundary conditions
       * Note any departures from standard Newtonian or GR framework
-      * File: {ROOT_DIR}/attempts/1/physics_day_1.mdx
+      * File: {ROOT_DIR}/attempts/2/physics_day_2.mdx
 
 [x] MATH files for this day
       * Derive or extend key equations for the design
       * Show full derivations, no hand-waving of steps
       * Document dimensional analysis and limiting cases
-      * File: {ROOT_DIR}/attempts/1/math_day_1.mdx
+      * File: {ROOT_DIR}/attempts/2/math_day_2.mdx
 
 [x] ENGINEERING files for this day
       * Translate physics into buildable component specs
       * Identify materials, tolerances, power requirements, mechanical constraints
       * Note what can be simulated vs. what requires physical construction
-      * File: {ROOT_DIR}/attempts/1/engineering_day_1.mdx
+      * File: {ROOT_DIR}/attempts/2/engineering_day_2.mdx
 
 [x] Applied Physics Simulator files for this day
       * Write or update simulation code for today's design
       * Document what each simulation is testing and expected output
-      * File: {ROOT_DIR}/attempts/1/sim_setup_day_1.mdx
+      * File: {ROOT_DIR}/attempts/2/sim_setup_day_2.mdx
 
 --------------------------------------------------------------------
 SIMULATION PASS (loop up to 10 times, stop at 10)
 --------------------------------------------------------------------
 
-SIMULATION_PASS_COUNT: 0
+SIMULATION_PASS_COUNT: 1
 
 [x] Verify simulation library is installed; install if needed (pip install)
+      * scipy 1.17.1, numpy 2.4.2 — confirmed installed
       * Check: python3 -c "import <library>"
       * If not installed: pip install <library>
       * Tool must match attempt physics (magnetostatics vs. electrostatics vs. FEM)
-      * magpylib: pip install magpylib (already installed as of Day 1)
+      * Do not proceed to code writing until the import succeeds
 
 [x] Create any code needed to run the simulator
+      * run_2_2_asymmetric_electrostatic.py written and placed in simulation/scipy_numpy/software/
       * Place code in {ROOT_DIR}/simulation/{WHICH_SIMULATION_SOFTWARE}/software/
       * Language preference: Python, then JavaScript
       * Document inputs, outputs, and assumptions in a header comment block
 
 [x] Execute simulation code locally (run Python script via system interpreter; use Bash tool) and capture output
+      * Run: python3 run_2_2_asymmetric_electrostatic.py → SUCCESS
+      * F_z = 9.50 mN at R=10cm V=10kV. Validation passed (sphere F_z=0).
 
 [x] Fix any code or configuration to make simulation tests work
-      * Log each error and fix in sim_setup_day_1.mdx
+      * No errors. Simulation ran clean on first pass.
+      * Log each error and fix in sim_setup_day_2.mdx
 
 [x] Fix any remaining issues (second pass if needed)
+      * No second pass needed. Simulation successful on first pass.
 
 [x] Completed simulation work
+      * SIMULATION_PASS_COUNT: 1 (well under 10). Simulation complete.
       * Confirm SIMULATION_PASS_COUNT did not exceed 10
       * If count reached 10, stop and document blocking issue in reflection
 
@@ -115,7 +122,8 @@ SIMULATION LEARNING
       * Document what the simulation confirmed vs. what surprised
       * Note parameter changes worth testing in future days
       * Update attempt Attempt.yaml with simulation findings
-      * File: {ROOT_DIR}/attempts/1/sim_learned_day_1.mdx
+      * File: {ROOT_DIR}/attempts/2/sim_learned_day_2.mdx
+      * sim_learned written: F_z=9.5mN confirmed; geometry factor C=10.7; V_lift=227kV; vacuum feasible
 
 --------------------------------------------------------------------
 REFLECTION AND POSTMORTEM
@@ -127,7 +135,8 @@ REFLECTION AND POSTMORTEM
       * Consider: radical new approach, new attempt, changes to methodology?
       * Consider: update manual, new skills, change day template, update YAML files?
       * Consider: try a new simulation software?
-      * Write reflection file: {ROOT_DIR}/day/1/reflection_day_1.mdx
+      * Write reflection file: {ROOT_DIR}/day/2/reflection_day_2.mdx
+      * Reflection written: Day 2 POSITIVE result. C=10.7, V_lift=227kV, vacuum feasible.
 
 --------------------------------------------------------------------
 MANUAL AND SYSTEM IMPROVEMENT
@@ -137,6 +146,7 @@ MANUAL AND SYSTEM IMPROVEMENT
       * Build more skills in {ROOT_DIR}/prompts/other/ if useful
       * Grow the DAY_STATUS_FILE_TEMPLATE with new steps that proved valuable
       * Do not remove steps; only add or refine
+      * Manual updated: Section 3.4 Day 2 results, Section 11 scipy_numpy VALIDATED status
 
 --------------------------------------------------------------------
 END OF DAY
@@ -144,4 +154,5 @@ END OF DAY
 
 [x] WORK_DAY_IS_NOW_FINISHED
       * Update Track_Overview.yaml: increment current_day, mark day completed
-      * Confirm all brackets are checked or have a note explaining why skipped
+      * Track_Overview.yaml: current_day=3, last_completed_day=2, day 2 status=complete
+      * All steps [x] confirmed. Day 2 complete.
