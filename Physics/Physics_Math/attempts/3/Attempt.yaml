@@ -91,25 +91,66 @@ simulation_plan:
       device, the device is radiating net z-directed EM momentum.
 
 open_questions:
-  - OPEN: Does the three-phase rotating field produce a nonzero time-averaged
-          axial Kelvin force on the toroidal ferrite?
-  - OPEN: What is the frequency dependence of the Kelvin force?
-          (Expected: F_Kelvin ~ omega^2 in some regimes)
-  - OPEN: Is there net EM angular momentum flux in the axial direction?
-  - OPEN: How does the force scale with toroid permeability mu_r?
-  - OPEN: Can the BUGA scale measurement difference (62 g) be explained by
-          the Kelvin force mechanism at practical field strengths?
-  - OPEN: What coil current / frequency combination would produce measurable
-          force (>1 mN) at the BUGA device scale?
+  - ANSWERED Day 4: Kelvin force on toroid IS nonzero: F_z = 1.91 N at 1A (UPWARD).
+    Force exceeds lift threshold at I = 1.6 A. BUT: force is INTERNAL — net external = 0.
+  - ANSWERED Day 4: EM momentum force at 60 Hz: ~2.4e-8 N (NEGLIGIBLE).
+    Critical frequency for 1 mN via EM momentum: f* ≈ 3.4 GHz.
+  - ANSWERED Day 4: BUGA scale readings (0.12 kg vs 0.058 kg) = different
+    construction stages. Mass difference (62 g) = toroid mass (~68 g for soft iron).
+    NOT anomalous mass reduction. Section 4.1 empirical claim downgraded.
+  - ANSWERED Day 4: Kelvin force scales as I² (confirmed). Soft iron optimal
+    over ferrite (higher B_sat, operates below saturation at practical currents).
+  - OPEN: Can the spinning rotor convert internal Kelvin force to external thrust?
+          Mechanism: rotor absorbs angular momentum → releases via asymmetric coupling.
+          If conversion efficiency > 1%: F_external > 76 mN at I = 2 A (measurable).
+  - OPEN: What angular velocity does the rotor reach at steady state?
+          Synchronous torque: tau = m_rotor × B × sin(delta). Day 5.
+  - OPEN: Gyrostatic lift hypothesis — does rotor precession in Earth gravity
+          produce net vertical force? At what omega_rotor? Day 5.
+  - OPEN: Frequency sweep for EM momentum: at what f does F_EM reach 1 mN?
+  - OPEN: Optimal coil-to-toroid gap for maximizing Kelvin force per watt.
 
 days_worked:
   - 4
 
+simulation_results_day_4:
+  rotating_field:
+    rotation_confirmed: true
+    rotation_rate_rad_s: 380.9
+    expected_omega: 377.0
+    ratio: 1.010
+    field_asymmetry_above_below: 4.917
+    B_rms_toroid_top_mT: 2.435
+    B_rms_5cm_below_device_mT: 0.165
+  kelvin_force:
+    material: soft_iron_mu_r_200
+    B_sat_T: 1.5
+    F_z_at_1A_N: 1.9076
+    F_z_at_2A_N: 7.6305
+    lift_threshold_current_A: 1.60
+    force_law: "F_z proportional to I_0^2 (confirmed below saturation)"
+    saturation_onset_A: 5_to_10
+    internal_force: true
+    net_external_force_N: 0.0
+    newtons_3rd_confirmed: true
+  em_momentum:
+    force_at_60Hz_N: 2.43e-8
+    critical_frequency_GHz: 3.4
+    status: NEGLIGIBLE_at_60Hz
+  buga_scale_readings:
+    interpretation: different_construction_stages
+    mass_difference_g: 62
+    toroid_mass_estimate_g: 68
+    anomalous_mass_reduction: false
+
 status_notes: >
-  Day 4: Attempt 3 created. First physics and simulation work today.
-  Key empirical target: BUGA scale readings 0.12 kg and 0.058 kg.
-  Physics question: does rotating three-phase EM field + toroidal ferrite
-  produce net axial time-averaged force? Approach differs from Attempts 1 and 2:
-  time-varying (not static), does not require external ground plane.
-  If Kelvin force from rotating field is zero by symmetry, EM angular
-  momentum redistribution is the remaining candidate mechanism.
+  Day 4: Three simulations completed. Three-phase rotating field confirmed.
+  CRITICAL FINDING: Kelvin force at 1A = 1.91 N (exceeds lift threshold at 1.6A),
+  BUT is an INTERNAL force (net external = 0). The BUGA scale readings are explained
+  by toroid mass addition between construction stages — NOT anomalous mass reduction.
+  EM momentum at 60 Hz is negligible (~2.4e-8 N).
+  PIVOT: The spinning rotor angular momentum mechanism is the remaining candidate
+  for external thrust. Day 5 will investigate rotor dynamics (synchronous torque,
+  steady-state angular velocity, gyrostatic lift hypothesis).
+  The internal Kelvin force magnitude (1.9 N at 1A) is large enough that even
+  1% coupling efficiency would produce measurable (76 mN) external thrust.

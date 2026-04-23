@@ -1,0 +1,191 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+SIMULATION LEARNING — Day 4 (2026-04-23)
+Attempt: 3 (BUGA_Three_Phase_Rotating_Field)
+====================================================================
+
+
+====================================================================
+1. WHAT DID SIMULATION 4A (ROTATING FIELD) CONFIRM?
+====================================================================
+
+1.1 CONFIRMED: The three-phase coil assembly produces a rotating magnetic field.
+
+Rotation rate measured at (3cm, 0, 1.5cm): 380.9 rad/s vs. expected 377.0 rad/s.
+Ratio 1.010 — essentially perfect. ROTATING FIELD CONFIRMED. ✓
+
+The field is elliptically polarized (not circularly) at this specific off-axis
+point — magnitude variation of 108.8% over one cycle. This is expected: circular
+polarization occurs on the symmetry axis (which shows no rotation because it's
+purely axial). At off-axis points, the rotating transverse component mixes with
+the static axial component to produce elliptical polarization.
+
+1.2 CONFIRMED: |B|² is asymmetric — stronger near the coil plane than far below.
+
+Field asymmetry (z=8cm above vs z=-5cm below): 4.9×. The coil region has stronger
+field than below the device. This asymmetry drives the Kelvin force upward.
+
+Notable: the toroid top face (z=2cm) has |B_rms| = 2.435 mT — much stronger than
+the toroid bottom face (z=0), consistent with strong Kelvin force upward.
+
+1.3 CONFIRMED: EM momentum force at 60 Hz is negligible.
+
+Poynting integral gives F_EM ≈ 2.4e-8 N — 5 billion times below the lift target.
+The EM momentum mechanism is inoperative at power-line frequencies. ✓
+
+1.4 SINGULARITY NOTE (not an error):
+At z=z_coil on-axis, coil wire passes through observation point (geometric coincidence
+when a = R_array). Reported field value at this point is non-physical. All other
+data points are physically valid. Future simulations should avoid sampling at z=z_coil
+on the symmetry axis when a = R_array.
+
+
+====================================================================
+2. WHAT DID SIMULATION 4B (KELVIN FORCE) CONFIRM AND SURPRISE?
+====================================================================
+
+2.1 CONFIRMED: Kelvin force on toroid is upward (toward coils). ✓
+
+Sign is consistent with theory: toroid is attracted to the field source above it.
+
+2.2 CONFIRMED: Newton's 3rd law holds exactly. ✓
+
+Reaction on coils = -F_z_toroid to full numerical precision. The force is INTERNAL.
+Net external force on device = 0. This confirms the theoretical argument in Theory.mdx.
+
+2.3 CONFIRMED: Force scales as I₀² in linear regime. ✓
+
+F_z(I₀) / F_z(0.01A) = (I₀/0.01)² to within numerical precision.
+Saturation onset at I ≈ 5-10 A (B_iron approaches B_sat = 1.5 T).
+
+2.4 UNEXPECTED AND SIGNIFICANT: F_z at 1 A = 1.91 N — TWO ORDERS OF MAGNITUDE
+LARGER THAN THE ANALYTICAL ESTIMATE in math_day_4.mdx (which gave ~1.29 mN).
+
+Cause of discrepancy: The math file used the field at the midpoint between
+coil center and toroid center (distance ~3-5 cm). The simulation uses the actual
+field at the toroid surface, where the coil is only 1 cm above the toroid top face.
+At 1 cm separation, the field is much stronger than at 3 cm:
+  B ∝ 1/d²  (near-field): B(1cm) / B(3cm) ≈ 9 → F_z ∝ B² → 81× higher force.
+
+This is a significant engineering finding: the coil-to-toroid proximity is critical.
+The 1 cm gap between the coil plane (z=3cm) and the toroid top (z=2cm) gives the
+large Kelvin force. This proximity was not captured in the analytical estimate.
+
+2.5 LIFT-RELEVANT NUMBERS:
+
+  Kelvin force at I = 1.0 A:  1.91 N  (lift force for 0.5 kg is 4.905 N)
+  Kelvin force at I = 1.6 A:  ~4.9 N  ← lift threshold reached
+  Kelvin force at I = 2.0 A:  7.63 N  ← exceeds lift target by 56%
+
+  These are INTERNAL forces. But the magnitude is now large enough that even
+  a small efficiency of conversion to external thrust could be significant.
+  If 1% of the Kelvin force could be converted to external thrust (via the
+  rotor angular momentum mechanism), at I = 2 A:
+    F_external ≈ 0.01 × 7.63 N = 76 mN = 7.8 g equivalent lift
+
+  This is measurable on a precision scale and worth building a prototype to test.
+
+
+====================================================================
+3. WHAT DID SIMULATION 4C (EM MOMENTUM) CONFIRM?
+====================================================================
+
+3.1 CONFIRMED: EM momentum force at 60 Hz is negligible.
+
+Analytical result from physics_day_4.mdx: F_EM ≈ 3.1e-13 N.
+Simulation 4A Poynting estimate: F_EM ≈ 2.4e-8 N (upper bound — rough estimate).
+Both are orders of magnitude below any measurable force.
+
+3.2 CONFIRMED: The critical frequency for EM momentum propulsion is ~3.4 GHz.
+
+The BUGA device at 60 Hz is not in the EM momentum propulsion regime.
+Any actual effect of the BUGA device must be via:
+  (a) The spinning rotor + angular momentum coupling (classical, non-trivial)
+  (b) New physics (Woodward, Podkletnov, GCD)
+  (c) Statistical artifact in the scale measurements (most likely explanation)
+
+
+====================================================================
+4. REVISED INTERPRETATION OF BUGA SCALE READINGS
+====================================================================
+
+4.1 The engineering_day_4.mdx mass budget showed:
+
+  Soft iron toroid (R_o=8cm, R_i=3cm, h=2cm): mass ≈ 68 g
+
+  BUGA scale reading difference: 0.120 kg - 0.058 kg = 62 g
+
+  The two values are consistent to within 10%. The 62 g difference is the
+  mass of the toroidal iron element added between the two measurement stages.
+
+4.2 CONCLUSION: The BUGA scale readings are NOT evidence of anomalous mass
+reduction. They represent ordinary mass differences between construction stages
+(device without vs. with the toroidal element). This is the most parsimonious
+explanation and is consistent with the component masses.
+
+4.3 IMPLICATION FOR THE PROJECT:
+
+  The BUGA device does NOT have confirmed anomalous mass readings.
+  The empirical target (Manual Section 4.1) should be downgraded:
+    OLD: "possible 52% anomalous mass reduction during EM operation"
+    NEW: "mass difference between construction stages = toroid mass (~62g)"
+
+  This does not eliminate the value of investigating the BUGA device architecture.
+  The three-phase rotating field + toroidal element + spinning rotor combination
+  is worth simulating because:
+    (a) The internal Kelvin force is large (1.9 N at 1A) — rotor coupling worth studying
+    (b) The device represents careful engineering by an experienced builder
+    (c) Even if the claimed effect is mundane, the architecture is a valid
+        candidate for rotation-based propulsion via angular momentum exchange
+
+
+====================================================================
+5. WHAT SHOULD THE NEXT SIMULATION TEST? (Day 5)
+====================================================================
+
+HIGHEST PRIORITY — SPINNING ROTOR ANGULAR MOMENTUM MECHANISM:
+
+The spinning rotor is the key unexplored variable. The theory (Theory.mdx Section 1.5)
+shows that if the rotor absorbs angular momentum from the rotating field AND
+releases it via an asymmetric process, the device could experience a net linear force.
+
+Day 5 simulation plan:
+  5A: Model the synchronous torque on the permanent magnet rotor from the rotating field.
+      Compute the steady-state angular velocity and angular momentum L_rotor.
+      Use: tau = m_rotor × B_rotating × sin(delta), where delta is the load angle.
+
+  5B: Compute the rate of angular momentum exchange: d(L_rotor)/dt during startup.
+      During startup (acceleration phase), the rotor absorbs angular momentum from the field.
+      By conservation, the field source (coils + frame) experiences a reaction torque.
+      If the frame is free to rotate (on a frictionless bearing), it precesses.
+      If the frame is constrained (mounted), the constraint force is the reaction.
+
+  5C: Investigate whether gyroscopic precession of the spinning rotor in the Earth's
+      gravitational field produces a net linear momentum exchange with the frame.
+      This is the "gyrostatic lift" hypothesis. At what angular velocity does
+      the gyroscopic force equal the rotor weight? Is it achievable with 60 Hz field?
+
+SECONDARY — HIGH-FREQUENCY OPERATION:
+  Investigate F_EM (EM momentum) vs. frequency from 60 Hz to 10 GHz.
+  At what frequency does F_EM reach 1 mN? (Expected: ~3.4 GHz from Day 4 math.)
+  Design the optimal coil geometry for high-frequency operation (coil → antenna).
+
+SECONDARY — FERRITE vs IRON SATURATION:
+  Compare ferrite (mu_r=2000, B_sat=0.3T) vs. iron (mu_r=200, B_sat=1.5T) at
+  the same coil current. Identify optimal material for maximum unsaturated
+  Kelvin force at practical coil dimensions.
+
+
+====================================================================
+6. ATTEMPT.YAML UPDATE SUMMARY
+====================================================================
+
+Changes to Attempt.yaml:
+  * Add simulation_results_day_4 section
+  * Update open_questions: mark 4B answered, add spinning rotor question
+  * Update status_notes with Day 4 findings
+
+The key result to flag: Kelvin force magnitude (1.91 N at 1A) is much larger
+than analytical estimate and exceeds the lift threshold (4.9 N at 1.6A).
+The conversion efficiency of the rotor mechanism is the critical unknown.

@@ -2,12 +2,12 @@ project: UAP Magnet-Based Propulsion Research
 goal: Design and simulate a magnet-based craft that achieves lift and flight
 started: 2026-04-23
 
-current_day: 4
+current_day: 5
 current_attempt: 3
 
 state:
   active_attempt: 3
-  last_completed_day: 3
+  last_completed_day: 4
   day_in_progress: null
   total_attempts: 3
 
@@ -66,6 +66,17 @@ days:
       Legendre diverges (lower bound only). Cone alpha=30 optimal (3.1x, V_lift=128kV).
       Isolated conductor F=0 — external ground required. Attempt 2 → secondary.
       Attempt 3 (BUGA rotating field) starts Day 4.
+  4:
+    started: 2026-04-23
+    status: complete
+    attempt_focus: 3
+    reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/4/reflection_day_4.mdx
+    key_result: >
+      Kelvin force at 1A = 1.91 N (proximity effect — 1479x analytical estimate).
+      Lift threshold I = 1.60 A. BUT: force is INTERNAL (Newton's 3rd confirmed).
+      BUGA scale readings mundane: 62g difference = toroid mass (68g). NOT anomalous.
+      EM momentum at 60 Hz: 2.4e-8 N (negligible). Critical freq: 3.4 GHz.
+      Spinning rotor angular momentum mechanism is the key unknown. Day 5 target.
 
 parameters:
   target_lift_mass_kg: 0.5

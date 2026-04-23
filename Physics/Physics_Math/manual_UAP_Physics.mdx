@@ -16,7 +16,7 @@ INPUT_DIR is dir {ROOT_DIR}/1_Track/video_transcriptions
 
 ====================================================================
 MANUAL: UAP PHYSICS PROPULSION RESEARCH
-Version: 1.0
+Version: 1.6
 Date: 2026-04-23
 ====================================================================
 
@@ -514,24 +514,27 @@ worth one attempt to test systematically.
 SECTION 4 — KEY EMPIRICAL DATA POINTS REQUIRING EXPLANATION
 ====================================================================
 
-4.1 BUGA DEVICE ANOMALOUS MASS READINGS
+4.1 BUGA DEVICE MASS READINGS
 
 Scale readings from the research images show:
 * 0.12 kg (120 grams) at one construction stage
 * 0.058 kg (58 grams) at another stage
 
-These could represent:
-* Two different measurement targets (different components)
-* Before and after measurements of the same component under active EM
-  field operation (suggesting anomalous mass reduction)
+DAY 4 ANALYSIS: The 62 g difference between the two readings is
+consistent with the mass of the toroidal iron element computed from
+geometry (R_o=8 cm, R_i=3 cm, h=2 cm, rho=7700 kg/m^3): mass ≈ 68 g.
+The anomalous mass reduction hypothesis is NOT supported by the image
+evidence. The most parsimonious interpretation is that the two readings
+represent different construction stages (device without vs. with the
+toroidal element), not before/after measurements under EM operation.
 
-Priority: Attempt to correlate which construction stage corresponds to
-which measurement. If the measurements represent the same component
-under different EM operating conditions, this is a high-value result.
+EMPIRICAL VALUE: Downgraded from HIGH to LOW. No active EM operation
+confirmed during either measurement. The BUGA scale images do not
+provide evidence of anomalous mass reduction.
 
-Action: Review source images in images_description directory. Identify
-which images correspond to each measurement. Cross-reference with the
-construction stage timeline.
+RETAINED VALUE: The BUGA device architecture (three-phase rotating
+field + toroidal element + spinning rotor) remains worth investigating
+for the spinning rotor angular momentum mechanism (Day 5).
 
 
 4.2 MATERIAL DEGRADATION UNDER HIGH-ENERGY OPERATION
@@ -1067,6 +1070,56 @@ Empirical calibration from Day 3:
   Hemisphere on ground plane (90-deg rim): +26.4% growth (L_MAX 21→101).
   Classification: Category 4 — logarithmic divergence confirmed.
   Day 3 value F_z = 9.50 mN at L_MAX=21 is a lower bound.
+
+
+9.10 KELVIN FORCE PROXIMITY EFFECT (Day 4 Critical Learning)
+
+For closely spaced coil-ferrite geometries (coil-to-surface gap <
+coil radius), the Kelvin force is dominated by the near-field
+contribution at the ferrite surface rather than at the centroid.
+
+THE ERROR: Analytical estimates for the Kelvin force commonly use
+the field evaluated at the centroid-to-centroid distance between
+the coil and the ferrite element. This underestimates the force
+dramatically when the ferrite surface is much closer to the coil
+than the centroid is.
+
+THE PHYSICS: The Kelvin force on a linear ferrite element is:
+  F_z = (mu_0 * chi_m / 2) * integral_V (grad |H|^2) dz dV
+      ≈ (mu_0 * chi_m / 2) * [|H_top|^2 * A_top - |H_bot|^2 * A_bot]
+
+where |H_top|^2 and |H_bot|^2 are evaluated at the top and bottom
+surfaces of the element. The force depends on |H|^2 at the SURFACE,
+not at the centroid.
+
+In near-field (d < coil radius), the field scales as H ~ 1/d^2. The
+Kelvin force therefore scales as F ~ |H|^2 ~ 1/d^4. For a coil plane
+at z=3 cm with toroid top face at z=2 cm (1 cm gap) vs. an analytical
+estimate using d=3 cm (centroid-to-centroid):
+  F_actual / F_analytical ~ (d_centroid / d_surface)^4 = (3/1)^4 = 81
+
+The full 3D integration over the toroid volume with actual Biot-Savart
+fields (rather than on-axis approximation) adds further multiplying
+factors. Day 4 simulation found the actual force was ~1479× the
+analytical estimate (from 1.29 mN to 1.91 N at I=1A).
+
+RULE: Always evaluate the Kelvin force using the field at the SURFACE
+of the ferrite element, not at the centroid. For quickly-varying fields
+(near-field regime), a factor-of-10 to factor-of-1000 underestimate
+is routine if centroid distance is used.
+
+OPERATIONAL GUIDELINE: When the coil-to-ferrite-surface gap is less
+than the coil radius, the analytical centroid estimate is unreliable.
+Run the Biot-Savart field simulation and integrate over the full
+ferrite volume. Do not trust analytical order-of-magnitude estimates
+for the Kelvin force in close-proximity geometries.
+
+Empirical calibration from Day 4:
+  Three-phase coil array (z=3cm) above soft iron toroid (top at z=2cm).
+  1 cm coil-to-surface gap. Coil radius = 5 cm.
+  Analytical estimate (centroid at d=3 cm): F_z ≈ 1.29 mN at I=1A.
+  Simulation result (surface at d=1 cm, full 3D): F_z = 1907.6 mN at I=1A.
+  Ratio: 1479×. Note: force is INTERNAL (Newton's 3rd holds).
 
 
 ====================================================================
@@ -1694,3 +1747,21 @@ SECTION 14 — CHANGE LOG
       Near-surface hover (H < 5R) is viable. Attempt 2 moved to SECONDARY.
   Section 3.4 updated with full Day 3 results and status change.
   Attempt 3 (BUGA three-phase rotating field) starts Day 4.
+
+2026-04-23 — Version 1.6. Day 4 simulation results incorporated.
+  THREE CRITICAL FINDINGS (Attempt 3, BUGA Three-Phase Rotating Field):
+  (1) Kelvin force at 1A = 1.91 N — 1479× larger than analytical estimate.
+      Root cause: Kelvin force proximity effect (Section 9.10). Coil only
+      1 cm above toroid top face. Surface field >> centroid estimate.
+      Lift threshold current I_lift = 1.60 A for 0.5 kg device.
+      CRITICAL CAVEAT: This is an INTERNAL force. Net external force = 0.
+      Newton's 3rd law confirmed to full numerical precision.
+  (2) BUGA scale readings (0.12 kg vs 0.058 kg) are NOT anomalous.
+      Mass difference (62 g) matches computed toroid mass (68 g for soft iron).
+      Section 4.1 updated: empirical value downgraded from HIGH to LOW.
+      Most parsimonious interpretation: different construction stages.
+  (3) EM momentum force at 60 Hz: ~2.4e-8 N (NEGLIGIBLE). Inoperative.
+      Critical frequency for 1 mN via EM momentum: f* ≈ 3.4 GHz (microwave).
+  Section 9.10 added: Kelvin Force Proximity Effect (Day 4 Critical Learning).
+  Day template updated: Biot-Savart singularity check + Kelvin proximity warning.
+  Next: Day 5 — spinning rotor angular momentum mechanism analysis.

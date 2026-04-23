@@ -71,6 +71,12 @@ DAILY TECHNICAL FILES
       * For electrostatic thrust problems: state explicitly whether the conductor
         geometry has an EDGE SINGULARITY (corner or rim where two surfaces meet).
         If yes, note that Legendre series will diverge and recommend BEM.
+      * For magnetic Kelvin force problems: estimate the Kelvin force using the
+        field at the SURFACE of the magnetic material, not at the centroid or at
+        the source-to-target center-to-center distance. The surface field can be
+        10x-1000x larger than the centroid field for close coil-ferrite geometries.
+        The analytical estimate from centroid distance will underestimate F_Kelvin
+        significantly: underestimate factor ~ (d_centroid/d_surface)^4 or more.
       * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/physics_day_{WORK_DAY_NUMBER}.mdx
 
 [ ] MATH files for this day
@@ -130,6 +136,13 @@ SIMULATION LEARNING
         L_MAX=21 AND L_MAX=101. If series grows > 10% from 21 to 101, the
         rim singularity is significant. The L_MAX=21 result is a lower bound.
         Flag for BEM validation on a future day and do NOT report as final value.
+      * For Biot-Savart simulations: before sampling the field, check whether any
+        observation point coincides with the coil wire. If coil radius a equals
+        the array radius R_array, the coil wire passes through (0, 0, z_coil) on
+        the symmetry axis (each coil's wire at azimuth pi passes through the axis).
+        Avoid sampling at exactly (0, 0, z_coil) in this geometry — offset by at
+        least 1 mm to avoid the 1/R^3 singularity. This is a geometric coincidence
+        in the specific case a = R_array, not a general Biot-Savart problem.
       * Update attempt Attempt.yaml with simulation findings
       * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/sim_learned_day_{WORK_DAY_NUMBER}.mdx
 
