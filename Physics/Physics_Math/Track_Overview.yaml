@@ -1,0 +1,36 @@
+project: UAP Magnet-Based Propulsion Research
+goal: Design and simulate a magnet-based craft that achieves lift and flight
+started: 2026-04-23
+
+current_day: 1
+current_attempt: 1
+
+state:
+  active_attempt: 1
+  last_completed_day: 0
+  day_in_progress: 1
+  total_attempts: 1
+
+attempts:
+  1:
+    name: Rotating_Permanent_Magnet_Array
+    started: 2026-04-23
+    status: active
+    summary: >
+      Asymmetric rotating permanent magnet array generating net vertical Lorentz-analog
+      force via non-uniform flux gradient. Goal is static lift off ground surface.
+
+days:
+  1:
+    started: 2026-04-23
+    status: in_progress
+    attempt_focus: 1
+    reflection_file: null
+
+parameters:
+  target_lift_mass_kg: 0.5
+  target_altitude_cm: 10
+  simulation_software: femm
+  preferred_languages:
+    - python
+    - javascript

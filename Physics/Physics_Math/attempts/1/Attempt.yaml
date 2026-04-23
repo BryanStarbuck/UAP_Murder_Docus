@@ -1,0 +1,60 @@
+attempt_number: 1
+name: Rotating_Permanent_Magnet_Array
+status: active
+started: 2026-04-23
+last_updated: 2026-04-23
+
+summary: >
+  Asymmetric rotating permanent magnet array that generates a net vertical force
+  via spatially non-uniform magnetic flux gradients. The design exploits the
+  Kelvin body force density f = mu_0 * (M · nabla)H acting on a paramagnetic or
+  ferromagnetic body in an inhomogeneous field. Rotation of the magnet array
+  creates a time-averaged net upward body force when the field geometry is
+  optimized for vertical asymmetry.
+
+physics_basis:
+  primary_mechanism: Gradient-force (Kelvin body force) lift via rotating asymmetric flux
+  key_equations:
+    - "f = mu_0 * (M · nabla) H  [Kelvin body force density]"
+    - "F_lift = integral over V of mu_0 * (M · nabla) H dV"
+    - "Phi = B · A  [magnetic flux through loop]"
+    - "tau = m x B  [magnetic torque on dipole]"
+  field_symmetry: Broken vertical symmetry via pole geometry
+  rotation_role: Time-averaging eliminates horizontal components, preserves vertical net force
+
+design_parameters:
+  target_lift_mass_kg: 0.5
+  magnet_type: Neodymium N52 permanent magnets
+  array_geometry: Halbach array variant with vertical flux bias
+  rotation_axis: vertical
+  rotation_speed_rpm: TBD via simulation
+  rotor_diameter_cm: 20
+  stator_geometry: ferromagnetic flux concentrator ring
+
+simulation_plan:
+  software: femm
+  secondary: python-magnetics or magpylib
+  test_cases:
+    - Static flux map of single magnet arrangement
+    - Rotating array flux gradient vs altitude
+    - Net vertical force vs rotation speed
+    - Power input vs lift force efficiency curve
+
+engineering_notes: >
+  Key challenge: reaction torque on the vehicle chassis when the rotor spins.
+  Counter-rotating dual arrays or momentum wheels required for torque cancellation.
+  Materials must tolerate centrifugal stress at operating RPM.
+  Heat dissipation from eddy currents in nearby conductors must be managed.
+
+open_questions:
+  - Can asymmetric flux gradient sustain net lift without net horizontal drift?
+  - What RPM range maximizes lift-to-power ratio?
+  - Does a Halbach array configuration improve vertical force asymmetry?
+  - Can superconducting elements replace permanent magnets to eliminate resistive loss?
+
+days_worked:
+  - 1
+
+status_notes: >
+  Attempt 1 initialized on Day 1. Theory and initial design parameters set.
+  Simulation not yet run.

@@ -1,0 +1,933 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+MANUAL_FILE is file {ROOT_DIR}/manual_UAP_Physics.mdx
+
+PROMPTS_DIR is dir {ROOT_DIR}/prompts
+NEW_PROMPTS_DIR is dir {PROMPTS_DIR}/other
+TRACK_OVERVIEW_YAML_FILE is file {ROOT_DIR}/Track_Overview.yaml
+DAY_STATUS_FILE_TEMPLATE is file {ROOT_DIR}/other/Day_Status_Template.mdx
+ATTEMPT_NUMBER_DIR is dir {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}
+STATUS_ATTEMPT_NUMBER_FILE is file {ATTEMPT_NUMBER_DIR}/Attempt.yaml
+DAY_DIR is dir {ROOT_DIR}/day/{WHICH_DAY}
+DAY_STATUS_FILE is file {DAY_DIR}/status_day.mdx
+SIMULATION_DIR is dir {ROOT_DIR}/simulation
+INPUT_DIR is dir {ROOT_DIR}/1_Track/video_transcriptions
+
+
+====================================================================
+MANUAL: UAP PHYSICS PROPULSION RESEARCH
+Version: 1.0
+Date: 2026-04-23
+====================================================================
+
+This manual documents how this AI research system operates day to day.
+It defines the working method, documents all known experimental approaches,
+records empirical learnings as they accumulate, and guides decision-making
+across attempts and work days.
+
+This manual must be read at the start of every new work day.
+It must be updated whenever a meaningful lesson is learned.
+It must not be reduced. It may grow. Add new sections. Add to existing
+sections. Do not delete sections.
+
+Reference sections by number. Example: see Section 3.2 for magnet array
+approach. Example: Section 7 defines when to abandon an attempt.
+
+
+====================================================================
+SECTION 1 — CORE GOAL AND PHILOSOPHY
+====================================================================
+
+1.1 THE GOAL
+
+The goal is to design, simulate, and eventually build a craft that
+achieves lift using magnet-based or electromagnetic methods. The craft
+must physically lift off the ground. It must not rely on conventional
+aerodynamic lift. It must not rely on combustion or rocket thrust.
+
+The working hypothesis is that magnetic, gravitomagnetic, electrostatic,
+or electromagnetic mechanisms can produce net upward force without
+conventional propellant or aerodynamic surfaces.
+
+The goal is not to prove any one theory correct. The goal is to find
+what works by experimenting across multiple approaches simultaneously.
+
+
+1.2 PHILOSOPHY OF MULTIPLE ATTEMPTS
+
+Do not commit to one physics framework. Run multiple attempts in
+parallel or sequentially. Each attempt is a different hypothesis about
+which mechanism produces lift. Some attempts will fail. Failure is
+information. Treat every result as data.
+
+When starting a new day, look across all existing attempts and decide
+which one to advance or whether to start a fresh attempt with a new
+approach. Do not keep running an approach that shows no empirical
+progress after many days of work.
+
+A failed attempt is not abandoned forever. It may be revisited after
+new knowledge changes the evaluation.
+
+
+1.3 LEARNING FROM EMPIRICAL TRUTH
+
+Simulation results and physical measurements override theory. If a
+simulation shows no net force for a given design, update the theory.
+Do not defend a model against simulation evidence.
+
+Document every surprising result. Surprising results are where progress
+hides.
+
+Anomalous measurements in the research data are high priority. See
+Section 4 for documented anomalies that need explanation.
+
+
+1.4 WHAT WE KNOW SO FAR
+
+The research corpus collected in this project contains documented
+observations from real experimenters in multiple countries. These
+include:
+
+* Rotating magnetic disc assemblies observed operating with claimed
+  anomalous weight changes
+* Soviet-era technical documents describing specific parameters for
+  electromagnetic lift systems recovered from or inspired by UAP craft
+* Independent electrostatic propulsion validation from NASA Kennedy
+  Center research
+* Counter-rotating permanent magnet disc designs with over-unity energy
+  claims
+* Crop circle geometric patterns that map onto electromagnetic apparatus
+  geometries with suspicious precision
+
+None of these constitute proof. All constitute directions worth
+investigating seriously.
+
+
+====================================================================
+SECTION 2 — DIRECTORY STRUCTURE AND FILE CONVENTIONS
+====================================================================
+
+2.1 ROOT LAYOUT
+
+ROOT_DIR contains:
+* Track_Overview.yaml — master state file for the whole project
+* manual_UAP_Physics.mdx — this file. The one source of truth for process
+* attempts/ — one subdirectory per design attempt
+* day/ — one subdirectory per work day
+* other/ — shared reference files, templates, background knowledge
+* simulation/ — all simulation code and results
+* prompts/ — prompt and skill files driving AI operation
+* 1_Track/ — tweet and video transcription input data
+* Track_2/, Track_3/ — additional track input data
+* patents_intl/ — international patent reference files
+* images/, images_description/ — visual research material
+* videos/ — reference videos
+
+
+2.2 ATTEMPT DIRECTORY CONTENTS
+
+Each {ROOT_DIR}/attempts/{N}/ directory contains at minimum:
+* Attempt.yaml — design parameters, status, open questions, findings
+* physics_day_{D}.mdx — physics analysis for day D
+* math_day_{D}.mdx — full mathematical derivations for day D
+* engineering_day_{D}.mdx — buildable component specs for day D
+* sim_setup_day_{D}.mdx — simulation setup and code for day D
+* sim_learned_day_{D}.mdx — simulation findings for day D
+
+Optional and encouraged:
+* Theory.mdx — running theoretical framework document
+* Design.mdx — mechanical design evolution
+* Components.mdx — component library and specs
+
+
+2.3 DAY DIRECTORY CONTENTS
+
+Each {ROOT_DIR}/day/{N}/ directory contains at minimum:
+* status_day.mdx — the work day checklist (copied from template)
+* plan_day_{N}.mdx — plan written at the start of the day
+* reflection_day_{N}.mdx — reflection written at end of the day
+
+Optional and encouraged:
+* notes_{N}.mdx — any mid-day notes not fitting other files
+* code snippets, test output logs, simulation screenshots
+
+
+2.4 FILE NAMING RULES
+
+* Use underscores not dashes or spaces
+* Use lower case for generic files
+* Use PascalCase for attempt and theory documents
+* Day files always include the day number at the end
+* Never use special characters in file names
+
+
+2.5 THE PROMPTS DIRECTORY
+
+{PROMPTS_DIR} contains skill files that drive the system.
+{NEW_PROMPTS_DIR} is where new skill files go. Never put new
+skills anywhere else.
+
+Create a new skill file when a step in the day template has become
+complex enough to benefit from its own prompt. Skills become reusable
+across days and attempts.
+
+
+====================================================================
+SECTION 3 — KNOWN EXPERIMENTAL APPROACHES
+====================================================================
+
+This section catalogs all experimentally documented approaches found
+in the research corpus. Each approach is a candidate for an attempt
+directory. New approaches can be added here as they are discovered.
+
+
+3.1 APPROACH: ROTATING ASYMMETRIC MAGNET ARRAY (GRADIENT FORCE LIFT)
+
+Physics basis: Kelvin body force density f = mu_0 * (M dot nabla) H.
+A magnetic dipole in a spatially non-uniform field experiences a force
+toward higher field strength. If a rotating magnet array creates a
+time-averaged spatially non-uniform field with vertical asymmetry, a
+net vertical force results.
+
+Design parameters from the research corpus:
+* Neodymium N52 permanent magnets
+* Halbach array variant with vertical flux bias
+* Rotation about vertical axis
+* Ferromagnetic flux concentrator ring as reaction surface
+
+Key challenge: Torque cancellation. Counter-rotating dual arrays or
+momentum wheels required.
+
+Simulation tool: FEMM (Finite Element Method Magnetics). Python
+interface via pyFEMM. Also: magpylib Python library for rapid field
+computation.
+
+Current attempt directory: {ROOT_DIR}/attempts/1/
+
+Status as of Day 1: Theory initialized. Design parameters set.
+No simulation run yet.
+
+
+3.2 APPROACH: COUNTER-ROTATING PERMANENT MAGNET DISC (PAULSEN / SEARL)
+
+Source: Norman Paulsen witness account and John Searl Effect Generator.
+
+Two discs rotating in opposite directions. Each disc carries twelve
+magnets at its perimeter. Claim: once spinning, the system generates
+more electrical energy than required to sustain rotation. Additional
+claim: magnetic and gyroscopic interaction creates local gravitational
+modification.
+
+Specific Paulsen parameters:
+* Two discs counter-rotating
+* Twelve magnets per disc on perimeter
+* Central hub current extraction (Faraday/homopolar configuration)
+* Magnetic plus gyroscopic interaction claimed to create own gravity
+
+Physics mechanisms to investigate:
+* Lense-Thirring frame dragging from rotating mass
+* Gyromagnetic ratio effects in high-speed rotating permanent magnets
+* Rotating-frame electrodynamics (Schiff-Barnett effect)
+* Possible Searl Effect: anomalous plasma discharge and weight reduction
+  observed by Searl himself during SEG operation
+
+Simulation approach: model the rotating magnetic field using magpylib.
+Compute spatially resolved Kelvin force on ferromagnetic reference body.
+Check for net vertical force asymmetry.
+
+No attempt directory created yet for this approach. Create one when
+this becomes the focus of a work day.
+
+
+3.3 APPROACH: THREE-PHASE ROTATING FIELD WITH TOROIDAL CIRCUIT
+    (BUGA ORB-SPHERE DEVICE)
+
+Source: Multi-year construction project documented in research images.
+Australian workshop. Builder identity unknown. Design evolving across
+multiple documented stages.
+
+Core architecture:
+* Three disc coil assemblies at 120-degree intervals (three-phase field)
+* Central spinning rotor element
+* Large toroidal ferrite element at base
+* Central hemispherical electrode at top of shaft
+
+Physical observations:
+* Motion-blur photographic evidence confirms active rotor rotation
+* Material degradation (foil delamination, cracked epoxy, crumbled
+  plaster) indicates high-temperature or high-energy operation
+* Scale measurements showing 0.12 kg and 0.058 kg at different stages.
+  Possible anomalous weight change during electromagnetic operation.
+  This is a key empirical data point that needs simulation follow-up.
+
+Physics mechanisms:
+* Three-phase rotating B-field (no mechanical rotation needed for stator)
+* Toroidal magnetic circuit (ferrite, mu_r approximately 1000 to 5000)
+  concentrates flux toroidally with minimal leakage
+* Podkletnov geometry analog at room temperature: rotating EM field
+  above toroidal element mirrors rotating superconducting disc above
+  toroidal superconductor
+* Hemispherical electrode creates spherical electric field E = V over
+  r^2 with upward apex concentration (direction of claimed lift effect)
+
+Podkletnov original result (1992): rotating superconducting disc above
+toroidal solenoid produced approximately 0.3% weight reduction in objects
+placed above the disc. Not reproducible in all labs. Strongly disputed.
+Worth investigating whether room-temperature analog can produce any
+measurable effect.
+
+Simulation approach: COMSOL Multiphysics or OpenFOAM for MHD.
+Simpler first pass: compute rotating B-field from three-phase coil
+array, compute Kelvin force on test mass above the assembly.
+
+No attempt directory for this approach yet. High priority given the
+anomalous scale measurements in the source images.
+
+
+3.4 APPROACH: ASYMMETRIC ELECTROSTATIC PRESSURE THRUST (BUHLER)
+
+Source: Dr. Charles Buhler, NASA Kennedy Center electrostatics research.
+Independent experimental validation of propellantless thrust.
+
+Observation: Asymmetric distribution of electrostatic pressure across
+a body produces net force in vacuum. Ion wind ruled out by testing in
+hard vacuum. Force in millinewton range. Mechanism not explained by
+conventional physics.
+
+Connection: Gene Sticco links this result directly to Cernohajev
+Gravitational-Charge Dualism theory. Claims Cernohajev theorized the
+underlying physics from analysis of recovered UAP craft in the 1980s.
+Buhler observed the effect experimentally decades later, independently.
+
+Potential amplification: Cernohajev specifies 0.2 times 10^-6 C per
+m^3 charge density and specific solenoid geometries. Whether these
+parameters can scale the millinewton Buhler effect to lift-scale forces
+is unknown. This is worth simulating.
+
+Simulation approach: Electrostatic field solver. Python with scipy or
+COMSOL. Model asymmetric charge distribution on a body. Compute net
+electrostatic pressure integral over the surface. Verify net force
+direction and magnitude vs. Buhler's published results first. Then
+scale parameters toward lift-scale force.
+
+No attempt directory yet for this approach. Start one when ready.
+
+
+3.5 APPROACH: NEUTRINO-MAGNETIC FLUX PROPULSION (CERNOHAJEV GCD)
+
+Source: Valerijs Cernohajev (Soviet aerospace engineer, 1958 to 2019).
+Twelve technical works. Compiled in Engineering Infinity book.
+Archive: cernohajev.omeka.net
+
+Core claim: Gravity is a dual-charge structure analogous to
+electromagnetism. Not spacetime curvature. Ether exists. Massive photons,
+neutrinos, and charges propagate through it.
+
+Key propulsion mechanism: neutrino-magnetic flux designated as nu_m.
+Defined as: nu_m approximately equals {nu_mu} plus {nu_{e-e+}}.
+Muon neutrinos plus electron-positron-associated neutrinos.
+Claim: nu_m propagates instantaneously (faster than c).
+Interaction with spinning electron-positron or electron-proton systems
+produces thrust without reaction mass.
+
+Specific technical parameters claimed for the UFO propulsion system:
+* Thermonuclear power plant onboard
+* Reactor pressure greater than 2000 atm
+* Magnetic induction B = 16.65 Tesla
+* 32 solenoids in spherical array configuration
+* Operating current I = 1.65 times 10^3 Amperes
+* Electron density at ignition greater than 0.12 times 10^13 per m^3
+* Charge density 0.2 times 10^-6 C per m^3
+* Hull material: monocrystalline silicon-aluminum paramagnetic material
+* MHD generators without rotating parts
+* Laval-nozzle thrust vectoring
+
+Assessment: This framework explicitly rejects general relativity and
+special relativity. The instantaneous propagation claim cannot be
+simulated with standard physics codes. However, the specific hardware
+parameters are testable in simulation at reduced scale. The solenoid
+array geometry and its magnetic field configuration can be modeled.
+Whether those field configurations produce any anomalous force can be
+tested using standard EM field solvers.
+
+Practical simulation target: Model 32-solenoid spherical array at
+the stated parameters. Compute net Lorentz force on a plasma confined
+in this geometry. Compare to conventional MHD predictions. Look for
+any anomaly relative to standard predictions.
+
+No attempt directory for this approach yet.
+
+
+3.6 APPROACH: PLASMA MHD PROPULSION
+
+Supporting physics from multiple sources in the corpus. Cernohajev
+specifies MHD generators without rotating parts. BUGA device shows
+plasma discharge elements.
+
+MHD thrust: conducting plasma in crossed E and B fields experiences
+Lorentz force j cross B where j is current density. Net force on plasma
+transmitted to vehicle via magnetic coupling with surrounding field coils.
+
+For lift application: orient thrust vector vertically. Plasma loop
+above craft. B field horizontal. j vertical through plasma. Force
+horizontal (reaction on coils) does not produce lift. Need j horizontal
+and B vertical or a more complex geometry. Rotating plasma torus in
+vertical B field produces complex force geometry worth mapping.
+
+Simulation approach: OpenFOAM MHD solver. Python with FEniCS for
+custom EM formulations. Start with simple Hartmann flow validation
+then scale to complex geometry.
+
+No attempt directory yet. Add one when ready.
+
+
+3.7 APPROACH: GRAVITOMAGNETIC FIELD GENERATION (PODKLETNOV ANALOG)
+
+Source: E. Podkletnov and R. Nieminen, 1992 paper in Physica C.
+Rotating YBCO superconductor above toroidal solenoid showed apparent
+weight reduction of 0.3% for objects above the disc. Paper retracted
+by co-author. Podkletnov continued research. NASA and Boeing attempted
+replication; results disputed.
+
+Room-temperature analog question: The BUGA device appears to implement
+a room-temperature analog. Rotating three-phase EM field above a
+toroidal ferrite element mirrors the Podkletnov geometry structurally.
+Ferrite replaces superconductor. Rotating EM field replaces mechanically
+rotating disc.
+
+Key difference: Superconductor carries persistent surface currents with
+zero resistance. Ferrite does not. Whether the rotating EM field in
+ferrite can approximate the surface current distribution of a rotating
+superconductor is the central physics question.
+
+Simulation target: Compute J_surface distribution on rotating
+superconducting disc (from London equations) versus rotating EM
+field in ferrite (from Maxwell plus constitutive relations). Compare
+field geometries above each. Determine whether similar gravitomagnetic
+fields (if any) could result.
+
+Note: Gravitomagnetic effects are real within general relativity
+(Lense-Thirring effect). However, the Podkletnov claimed effect is
+orders of magnitude larger than GR predicts for any achievable rotating
+mass. If real, it requires new physics.
+
+No attempt directory yet.
+
+
+3.8 APPROACH: GEOMETRIC HARMONIC RESONANCE (CROP CIRCLE ENCODING HYPOTHESIS)
+
+Source: Dr. Horace Drew (@RedCollie1, Caltech/Cambridge MRC LMB)
+and associated researchers.
+
+Hypothesis: Crop circle geometric formations encode schematic diagrams
+of electromagnetic field configurations for advanced propulsion systems.
+The precision of multi-fold symmetry in documented formations suggests
+deliberate geometric encoding rather than random formation.
+
+Specific geometric patterns documented:
+* Three-fold symmetry (120-degree intervals) maps to three-phase EM systems
+* Twelve-fold symmetry maps to Paulsen counter-rotating disc configuration
+* Triskelion / Borromean ring geometry maps to rotating toroidal fields
+* Vesica Piscis encodes phi and root-3 relationships present in EM field
+  line geometry at specific intersection angles
+* Ring-of-dots (central circle plus 10-12 surrounding circles) maps to
+  Halbach array configuration
+
+Practical approach: Use the geometric parameters encoded in documented
+crop circle formations as design input for simulation runs. Test whether
+field configurations derived from these geometries show any anomalous
+behavior relative to randomly selected configurations. This is a way to
+test the hypothesis without first resolving whether the encoding is
+deliberate.
+
+This is a lower priority than direct electromagnetic simulation but
+worth one attempt to test systematically.
+
+
+====================================================================
+SECTION 4 — KEY EMPIRICAL DATA POINTS REQUIRING EXPLANATION
+====================================================================
+
+4.1 BUGA DEVICE ANOMALOUS MASS READINGS
+
+Scale readings from the research images show:
+* 0.12 kg (120 grams) at one construction stage
+* 0.058 kg (58 grams) at another stage
+
+These could represent:
+* Two different measurement targets (different components)
+* Before and after measurements of the same component under active EM
+  field operation (suggesting anomalous mass reduction)
+
+Priority: Attempt to correlate which construction stage corresponds to
+which measurement. If the measurements represent the same component
+under different EM operating conditions, this is a high-value result.
+
+Action: Review source images in images_description directory. Identify
+which images correspond to each measurement. Cross-reference with the
+construction stage timeline.
+
+
+4.2 MATERIAL DEGRADATION UNDER HIGH-ENERGY OPERATION
+
+The BUGA device shows systematic material degradation:
+* Red metallic foil delamination from thermal cycling
+* Epoxy/potting compound exposure and cracking
+* Plaster crumbling from surface fractures
+
+This implies genuine high-energy or high-temperature operation. A
+device that is not working would not show thermal degradation signatures.
+This is evidence the researcher is genuinely operating the device at
+significant power levels, not a demonstration model.
+
+
+4.3 BUHLER PROPELLANTLESS THRUST RESULT
+
+Dr. Charles Buhler, NASA Kennedy Center. Asymmetric electrostatic
+device producing net force in hard vacuum. Ion wind ruled out. Force
+in millinewton range.
+
+This is the most experimentally credible result in the corpus. It is
+from a named researcher at a named institution. It is reproducible
+(Buhler has reproduced it). It is not explained by standard physics.
+
+It should be the first approach validated by simulation before any
+other. If our simulation framework cannot reproduce Buhler's result,
+our framework needs work.
+
+
+4.4 CERNOHAJEV SPECIFIC HARDWARE PARAMETERS
+
+B = 16.65 Tesla, I = 1.65 x 10^3 Amperes, 32 solenoids in spherical
+array, charge density 0.2 x 10^-6 C per m^3. These are oddly specific.
+
+Either they are fabricated with false precision to appear authoritative,
+or they come from real engineering analysis of a real system. Given the
+broader context of the Cernohajev archive and the Sticco documentation
+chain, this is worth treating as a hypothesis to test.
+
+Simulation target: Model the 32-solenoid spherical array at reduced
+scale. Look for any force geometry anomaly.
+
+
+====================================================================
+SECTION 5 — SIMULATION FRAMEWORK
+====================================================================
+
+5.1 SIMULATION TOOLS AVAILABLE
+
+In order of increasing complexity and computational cost:
+
+* magpylib (Python): Fast analytical computation of permanent magnet
+  fields and forces. Best for: Halbach arrays, rotating magnet configs,
+  rapid parameter sweeps. Cannot handle induced currents or plasma.
+
+* FEMM (Finite Element Method Magnetics, free): 2D axisymmetric EM
+  field solver. Good for: solenoid design, magnet geometries, force
+  calculation. Limitation: 2D only, no time-varying fields natively.
+
+* Elmer FEM (open source, 3D): Full 3D EM + heat + structural. Good
+  for complex 3D geometries. Steeper learning curve.
+
+* OpenFOAM with MHD solver: For plasma and conducting fluid problems.
+  Good for MHD propulsion simulation.
+
+* COMSOL Multiphysics (commercial, if available): Best overall for
+  coupled EM + thermal + mechanical problems. Use if access available.
+
+* Python scipy / numpy: Custom analytical models for rapid hypothesis
+  testing before committing to FEM.
+
+
+5.2 SIMULATION DIRECTORY STRUCTURE
+
+{SIMULATION_DIR}/{WHICH_SIMULATION_SOFTWARE}/software/
+  * All code for that software goes here
+  * Python scripts, FEM model files, input decks
+
+Naming convention for simulation runs:
+  * run_{attempt_number}_{day_number}_{description}.py or .fmm or .sif
+
+
+5.3 SIMULATION VALIDATION REQUIREMENT
+
+Before using any simulation framework for new physics investigation,
+validate it against a known result. Options:
+
+* magpylib: Reproduce analytical field of a dipole at measured distance.
+  Compare to B = (mu_0 over 4 pi) times (m over r^3) formula.
+
+* FEMM: Reproduce Kelvin gradient force on a paramagnetic sphere in a
+  solenoid field. Compare to analytical result.
+
+* OpenFOAM MHD: Reproduce Hartmann flow profile between parallel plates.
+
+Do not skip validation. A simulator that cannot reproduce known results
+cannot be trusted for unknown results.
+
+
+5.4 WHAT TO RECORD FROM EVERY SIMULATION RUN
+
+For every simulation run, record in the attempt directory:
+* Simulation software and version
+* Input parameters (exact values, not approximations)
+* What the simulation was testing
+* What result was expected
+* What result was obtained
+* Whether the result matched expectation
+* What was surprising
+* What the next simulation run should test
+
+This record is what future work days learn from.
+
+
+====================================================================
+SECTION 6 — ATTEMPT MANAGEMENT
+====================================================================
+
+6.1 WHEN TO START A NEW ATTEMPT
+
+Start a new attempt when any of the following is true:
+* The current attempt has shown no positive simulation results after
+  five consecutive days of work
+* A new physical mechanism is identified in the research corpus that
+  is sufficiently different from all current attempts to warrant its
+  own design hypothesis
+* Reflection analysis across the last ten days suggests a fundamentally
+  different approach is needed
+* A surprise empirical result in any attempt suggests a new mechanism
+  not captured by existing attempt designs
+
+Starting a new attempt does not mean abandoning the old one. The old
+attempt directory remains. It may be returned to.
+
+
+6.2 WHEN TO RETURN TO A PRIOR ATTEMPT
+
+Return to a prior attempt when:
+* New knowledge from a later attempt casts the prior one in a new light
+* A simulation improvement makes it possible to test something the
+  prior attempt could not test
+* Reflection analysis identifies a design flaw that was fixable but
+  was not fixed before moving on
+
+
+6.3 ATTEMPT NUMBERING AND NAMING
+
+Attempts are numbered sequentially from 1 upward.
+Attempt.yaml in each attempt directory has a name field. Choose a
+name that describes the core mechanism, not the outcome. Names should
+be readable in isolation. Example: Rotating_Permanent_Magnet_Array,
+not Attempt_1_v2_final.
+
+
+6.4 HOW MANY ATTEMPTS TO RUN SIMULTANEOUSLY
+
+Run no more than two attempts in parallel within a single work day.
+Focus is more productive than breadth within a single day. Over the
+course of multiple days, breadth emerges naturally from sequential
+attempt focus.
+
+
+====================================================================
+SECTION 7 — DAY OPERATION RULES
+====================================================================
+
+7.1 STARTING A DAY
+
+At the start of every day:
+* Read this manual fully
+* Read {TRACK_OVERVIEW_YAML_FILE} to get current state
+* Read reflection files from last ten days
+* Weight most recent reflections most heavily
+* Decide which attempt to focus on or whether to start a new attempt
+* Write the plan file before doing any technical work
+
+The plan file is not optional. It is the record of the reasoning that
+drove the day's choices. Future reflections depend on it.
+
+
+7.2 WORKING THROUGH THE DAY
+
+Follow the day status file checklist top to bottom. Mark each step
+complete immediately when done. Do not batch completions.
+
+If a step produces a surprising result, document it in the day files
+before continuing. Do not defer documentation to the reflection step.
+
+
+7.3 SIMULATION PASS LOOP LIMIT
+
+The SIMULATION PASS block in the day template loops on failure. Stop
+after ten passes regardless of outcome. Document what failed. Move on
+to reflection. A blocked simulation is data about the limits of the
+current approach.
+
+
+7.4 THE REFLECTION STEP
+
+Reflection is not a summary. It is analysis. Answer these questions:
+* What did simulation or analysis show today that was not expected?
+* Is the current attempt showing any sign of positive progress?
+* Are there patterns across the last ten days that suggest a strategic
+  change is needed?
+* Should the day template be updated with new steps?
+* Should the manual be updated with new learnings?
+* What should the next day prioritize?
+
+Write the reflection file before marking the day complete.
+
+
+7.5 UPDATING THIS MANUAL
+
+Update this manual whenever:
+* A new experimental approach is identified in the research corpus
+* A simulation produces a surprising result that changes understanding
+* A new simulation tool is adopted
+* A new skill file is created in the prompts directory
+* A new empirical data point is found in the research files
+
+Add to the appropriate section. Do not create new sections carelessly.
+Fit new knowledge into existing sections first. Create a new section
+only when the knowledge genuinely does not fit anywhere existing.
+
+
+====================================================================
+SECTION 8 — KEY RESEARCHERS AND SOURCES IN THE CORPUS
+====================================================================
+
+8.1 VALERIJS CERNOHAJEV
+
+Soviet aerospace engineer. Born 1958. Died 2019. Author of twelve
+technical works on Gravitational-Charge Dualism (GCD) theory.
+Archive: cernohajev.omeka.net
+Book: Engineering Infinity. Curator: Gene Sticco (USAF SSGT).
+
+Key claims:
+* Gravity is dual-charge structure, not spacetime curvature
+* Neutrino-magnetic flux (nu_m) propagates instantaneously
+* Specific UAP propulsion parameters derived from craft analysis
+* Thermonuclear power plant specifications for full-scale UAP drive
+
+Credibility factors: Oddly specific hardware parameters. Gene Sticco
+documentary and 2025 press conference. Claimed convergence with Buhler
+independent experimental result.
+
+Assessed approach: Treat hardware parameters as simulation targets.
+Do not require the GCD theoretical framework to be true in order to
+test the hardware configuration.
+
+
+8.2 NORMAN PAULSEN
+
+Student of Paramahansa Yogananda. Claimed direct encounter with advanced
+craft. Documented counter-rotating twelve-magnet disc propulsion system.
+
+Connection: Design maps to John Searl Effect Generator (SEG) which has
+documented (though disputed) experimental results including plasma
+discharge and claimed weight reduction during operation.
+
+Credibility: Witness account only. No instrument data. However, the
+design is physically sensible and simulatable. Worth one simulation run
+to check for any anomalous force signature.
+
+
+8.3 DR. HORACE DREW (RED COLLIE)
+
+Caltech and Cambridge MRC LMB researcher. Specialist in DNA and X-ray
+crystallography. Also documenting and decoding crop circle formations.
+Twitter: @RedCollie1, 57,364 followers.
+
+Approach: Geometric analysis of crop circle formations. Hypothesis that
+formations encode electromagnetic apparatus schematics. Detailed decoding
+of binary messages in several formations.
+
+Credibility: Legitimate scientific credentials in an unrelated field.
+Crop circle encoding hypothesis is not validated. However, the geometric
+correspondences between formation patterns and EM apparatus designs are
+detailed enough to warrant one simulation test of crop-circle-derived
+design parameters.
+
+
+8.4 DR. CHARLES BUHLER
+
+NASA Kennedy Center electrostatics researcher. Demonstrated
+propellantless thrust in hard vacuum using asymmetric electrostatic
+device. Millinewton force range. Ion wind ruled out.
+
+Credibility: Highest in the corpus. Named researcher. Named institution.
+Vacuum-tested. Reproducible.
+
+This result is the baseline validation target for the simulation
+framework. If we cannot model and reproduce this result, the simulation
+framework is inadequate.
+
+
+8.5 GENE STICCO
+
+USAF Staff Sergeant. Intelligence contractor. Curator of Cernohajev
+archive. Co-produced Infinity Disclosed documentary. 2025 Malden MA
+press conference. Twitter: @InfinityDisclsd.
+
+Credibility: Military and intelligence background. Not a physicist.
+Claimed direct access to Cernohajev materials. Claims link between
+Cernohajev theory and Buhler experimental result as independent
+convergence.
+
+
+8.6 PODKLETNOV AND NIEMINEN
+
+1992 paper in Physica C. Rotating YBCO superconductor above toroidal
+solenoid. Claimed 0.3% weight reduction in objects above disc.
+Paper retracted by Nieminen. Podkletnov continued research.
+NASA and Boeing conducted replication attempts with disputed results.
+
+Credibility: The 1992 result is contested but never definitively
+refuted. The BUGA device appears to implement a room-temperature
+structural analog of this geometry.
+
+
+====================================================================
+SECTION 9 — PHYSICS REFERENCE NOTES
+====================================================================
+
+9.1 KELVIN BODY FORCE
+
+f = mu_0 times (M dot nabla) H
+
+Force per unit volume on a magnetic material in a non-uniform field.
+M is magnetization, H is applied field. Net lift force requires:
+* Non-zero vertical gradient of H at the location of the material
+* Magnetization M aligned with the gradient direction
+
+For a permanent magnet array below a ferromagnetic target, the gradient
+is upward near the poles and downward away from them. Net force depends
+on integral of (M dot nabla)H over the target volume.
+
+
+9.2 THREE-PHASE ROTATING MAGNETIC FIELD
+
+Three coils at 120-degree intervals carrying AC currents 120 degrees
+out of phase generate a rotating magnetic field vector B(t) that
+rotates at angular frequency omega without any mechanical movement.
+
+If a conductive or magnetic rotor is placed in this rotating field,
+induced eddy currents create a torque via Lenz's law (induction motor
+principle). The three-phase architecture is why three-disc assemblies
+at 120-degree intervals appear in multiple research devices.
+
+
+9.3 TOROIDAL MAGNETIC CIRCUIT
+
+Toroidal core of high-permeability material (ferrite, mu_r 1000-5000)
+confines magnetic flux within the torus with minimal external leakage.
+Interaction of rotating external field with this confined flux creates
+specific force geometry that differs from interaction with open-core
+geometries.
+
+
+9.4 LENSE-THIRRING GRAVITOMAGNETIC EFFECT
+
+General relativity predicts that rotating mass drags spacetime.
+A rotating gyroscope near a massive rotating body precesses at rate
+Omega_LT = (G/c^2 r^3) times (2J - 3(J dot r_hat) r_hat) where J is
+angular momentum of the central body.
+
+For any achievable mechanical rotation, this effect is immeasurably
+small. The Podkletnov claimed effect is 10^10 times larger than GR
+predicts. If real, it requires beyond-GR physics.
+
+
+9.5 HALBACH ARRAY
+
+Arrangement of permanent magnets with spatially rotating magnetization
+direction that concentrates flux on one side of the array and cancels
+it on the other. Widely used in linear motors and maglev systems.
+
+Standard Halbach: strong flux below array, near-zero above.
+Modified Halbach with vertical bias: can create asymmetric vertical
+gradient for Kelvin force application.
+
+
+9.6 SPHERICAL ELECTROSTATIC FIELD GEOMETRY
+
+Hemispherical conductor at potential V in free space creates field
+lines that concentrate at the apex. Near the apex, E approximately
+equals V over r^2 where r is distance from center. This creates an
+electrostatic pressure gradient in the vertical direction.
+
+For Buhler-style asymmetric thrust: asymmetric charge distribution
+on a body surface creates net electrostatic pressure force. In vacuum
+(no ion wind), this force must be transmitted to the body through
+internal charge distribution on the conductor surface.
+
+
+====================================================================
+SECTION 10 — SKILL FILES REGISTRY
+====================================================================
+
+All skill files created for this project are listed here.
+Update this list whenever a new skill file is created.
+
+
+10.1 skill_work_day.md
+Location: {PROMPTS_DIR}/skill_work_day.md
+Purpose: Primary driving skill. Runs a work day from start to finish.
+Finds current day, continues if incomplete, creates new day if complete.
+Call this skill to advance the project.
+
+
+10.2 (future skills go here)
+
+When a new skill is created in {NEW_PROMPTS_DIR}/other/, add an entry
+here with its location and purpose.
+
+
+====================================================================
+SECTION 11 — SIMULATION SOFTWARE REGISTRY
+====================================================================
+
+All simulation software approaches attempted are listed here.
+Add entries as new software is adopted.
+
+
+11.1 magpylib
+Language: Python
+Type: Analytical permanent magnet field computation
+Strengths: Fast, no mesh, good for permanent magnet array design
+Limitations: Cannot handle induced currents, plasma, or time-varying
+  currents without extension
+Validation target: Reproduce analytical dipole field at 10cm from
+  a 10x10x5mm N52 magnet cube. Compare to B = (mu_0/4pi)(m/r^3).
+Status: Not yet installed or validated.
+
+
+11.2 FEMM (Finite Element Method Magnetics)
+Language: Script (LUA) or Python via pyFEMM
+Type: 2D/axisymmetric FEM electromagnetic field solver
+Strengths: Free, well-documented, handles permanent magnets and coils
+Limitations: 2D only, no time-varying fields natively, no plasma
+Validation target: Kelvin gradient force on paramagnetic sphere in
+  solenoid field. Compare to known analytical result.
+Status: Not yet installed or validated.
+
+
+11.3 OpenFOAM MHD
+Language: C++ configuration files
+Type: Computational fluid dynamics with MHD extension
+Strengths: Full 3D, handles conducting plasma, open source
+Limitations: High setup complexity, requires mesh generation
+Validation target: Hartmann flow between parallel plates in crossed
+  E and B fields. Compare velocity profile to analytical Hartmann solution.
+Status: Not yet installed or validated.
+
+
+====================================================================
+SECTION 12 — CHANGE LOG
+====================================================================
+
+2026-04-23 — Version 1.0. Manual created. Sections 1-12 written.
+  All known experimental approaches from research corpus documented.
+  Key empirical data points identified. Simulation framework defined.
+  Key researchers documented. Physics reference notes added.
+  Skill registry initialized with skill_work_day.md.

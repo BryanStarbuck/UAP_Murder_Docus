@@ -1,0 +1,150 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+DAY_STATUS_FILE_TEMPLATE is file {ROOT_DIR}/other/Day_Status_Template.mdx
+
+
+====================================================================
+DAY STATUS FILE TEMPLATE
+====================================================================
+
+This is the canonical template for a work day status file.
+When starting a new day, copy this file to:
+  {ROOT_DIR}/day/{WHICH_DAY}/status_day.mdx
+
+Replace {WORK_DAY_NUMBER} with the actual day number.
+Replace {PLAN_FOR_THE_DAY_FILE} with the plan file path for the day.
+Replace all bracket-enclosed items as they are completed.
+
+
+WORK DAY NUMBER: {WORK_DAY_NUMBER}
+DATE: {DATE}
+ATTEMPT_FOCUS: {ATTEMPT_NUMBER}
+
+--------------------------------------------------------------------
+PLAN
+--------------------------------------------------------------------
+
+PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/{WORK_DAY_NUMBER}/plan_day_{WORK_DAY_NUMBER}.mdx
+
+[ ] Plan for Day Completed
+      * Read reflection reports for last 10 days (most recent weighted heaviest)
+      * Decide: continue existing attempt or create new attempt
+      * Write PLAN_FOR_THE_DAY_FILE with decisions and intended work
+      * Add any new steps to checklist below before starting work
+
+--------------------------------------------------------------------
+ATTEMPT SELECTION
+--------------------------------------------------------------------
+
+[ ] Decide if working on one of the previous attempts or create a new attempt
+      * If new attempt: create {ROOT_DIR}/attempts/{NEW_ATTEMPT_NUMBER}/Attempt.yaml
+      * Update Track_Overview.yaml with new attempt details
+      * Set ATTEMPT_FOCUS above to the chosen attempt number
+
+--------------------------------------------------------------------
+THEORY WORK
+--------------------------------------------------------------------
+
+[ ] Work on Theory
+      * Review current theoretical basis in the attempt directory
+      * Identify gaps or contradictions in the physics model
+      * Write or update Theory.mdx in the attempt directory
+      * Cross-check against known UAP physics research in Physics_Math docs
+
+--------------------------------------------------------------------
+DESIGN ITERATION
+--------------------------------------------------------------------
+
+[ ] Map out the attempts to make it better
+      * Review prior attempt directories for useful design elements
+      * Identify which design parameters to change or hold fixed
+      * Update Design.mdx or Engineering.mdx in the attempt directory
+
+--------------------------------------------------------------------
+DAILY TECHNICAL FILES
+--------------------------------------------------------------------
+
+[ ] PHYSICS files for this day
+      * Create or update physics analysis in the attempt directory
+      * Document all equations at PhD level: tensors, field equations, boundary conditions
+      * Note any departures from standard Newtonian or GR framework
+      * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/physics_day_{WORK_DAY_NUMBER}.mdx
+
+[ ] MATH files for this day
+      * Derive or extend key equations for the design
+      * Show full derivations, no hand-waving of steps
+      * Document dimensional analysis and limiting cases
+      * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/math_day_{WORK_DAY_NUMBER}.mdx
+
+[ ] ENGINEERING files for this day
+      * Translate physics into buildable component specs
+      * Identify materials, tolerances, power requirements, mechanical constraints
+      * Note what can be simulated vs. what requires physical construction
+      * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/engineering_day_{WORK_DAY_NUMBER}.mdx
+
+[ ] Applied Physics Simulator files for this day
+      * Write or update simulation code for today's design
+      * Document what each simulation is testing and expected output
+      * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/sim_setup_day_{WORK_DAY_NUMBER}.mdx
+
+--------------------------------------------------------------------
+SIMULATION PASS (loop up to 10 times, stop at 10)
+--------------------------------------------------------------------
+
+SIMULATION_PASS_COUNT: 0
+
+[ ] Create any code needed to run the simulator
+      * Place code in {ROOT_DIR}/simulation/{WHICH_SIMULATION_SOFTWARE}/software/
+      * Language preference: Python, then JavaScript
+      * Document inputs, outputs, and assumptions in a header comment block
+
+[ ] Run Tests in online digital simulator software
+
+[ ] Fix any code or configuration to make simulation tests work
+      * Log each error and fix in sim_setup_day_{WORK_DAY_NUMBER}.mdx
+
+[ ] Fix any remaining issues (second pass if needed)
+
+[ ] Completed simulation work
+      * Confirm SIMULATION_PASS_COUNT did not exceed 10
+      * If count reached 10, stop and document blocking issue in reflection
+
+--------------------------------------------------------------------
+SIMULATION LEARNING
+--------------------------------------------------------------------
+
+[ ] SIMULATION learned for this day
+      * Analyze all simulation output for this day
+      * Document what the simulation confirmed vs. what surprised
+      * Note parameter changes worth testing in future days
+      * Update attempt Attempt.yaml with simulation findings
+      * File: {ROOT_DIR}/attempts/{ATTEMPT_NUMBER}/sim_learned_day_{WORK_DAY_NUMBER}.mdx
+
+--------------------------------------------------------------------
+REFLECTION AND POSTMORTEM
+--------------------------------------------------------------------
+
+[ ] REFLECTION and Postmortem Report
+      * Review all files created today in DAY_DIR and attempt dir
+      * Look back at last 20 days if available: is the project progressing?
+      * Consider: radical new approach, new attempt, changes to methodology?
+      * Consider: update manual, new skills, change day template, update YAML files?
+      * Consider: try a new simulation software?
+      * Write reflection file: {ROOT_DIR}/day/{WORK_DAY_NUMBER}/reflection_day_{WORK_DAY_NUMBER}.mdx
+
+--------------------------------------------------------------------
+MANUAL AND SYSTEM IMPROVEMENT
+--------------------------------------------------------------------
+
+[ ] Improve manual if appropriate
+      * Build more skills in {ROOT_DIR}/prompts/other/ if useful
+      * Grow the DAY_STATUS_FILE_TEMPLATE with new steps that proved valuable
+      * Do not remove steps; only add or refine
+
+--------------------------------------------------------------------
+END OF DAY
+--------------------------------------------------------------------
+
+[ ] WORK_DAY_IS_NOW_FINISHED
+      * Update Track_Overview.yaml: increment current_day, mark day completed
+      * Confirm all brackets are checked or have a note explaining why skipped
