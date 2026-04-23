@@ -175,6 +175,11 @@ const people: Person[] = [
     blurb: "Retired Major General. Commanded $4.4 billion Air Force Research Lab. Vanished from Albuquerque home, February 2026. Left phone, glasses, all devices behind. FBI searching.",
   },
   {
+    name: "Joshua LeBlanc",
+    path: "/uaps/Details/Joshua_LeBlanc",
+    blurb: "Age 29. NASA nuclear propulsion engineer for DRACO military cislunar program. Left phone and wallet behind. Found dead in burned Tesla. Walker County, Alabama.",
+  },
+  {
     name: "Viktor Schauberger",
     path: "/uaps/Details/Viktor_Schauberger",
     blurb: "Age 73. Vortex energy inventor. Forced to sign away all rights in America. Said: \u2018They took everything from me.\u2019 Died five days later. Austria.",
