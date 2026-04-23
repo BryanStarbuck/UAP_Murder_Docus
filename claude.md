@@ -268,6 +268,52 @@ aws cloudfront create-invalidation --distribution-id EB7H1RCLH09U2 --paths "/*"
 
 This site does **not** use GitHub Pages. The domain DNS points to CloudFront, not GitHub Pages. If GitHub Pages shows as "not configured" (`gh api repos/BryanStarbuck/UAP_Murder_Docus/pages` returns 404), that is expected and correct.
 
+## Physics_Math Project
+
+`Physics/Physics_Math/` is a standalone local research workspace for investigating the actual physics and math behind UAP propulsion, energy, and exotic phenomena. It is **not published** to the Docusaurus website and has no Docusaurus frontmatter or sidebar integration.
+
+**Root dir:** `~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/`
+
+### What It Is
+
+* A working lab for researching, simulating, and documenting UAP physics theses at PhD level
+* Completely separate from the murder-profile content in `Physics/Details/` — this is about the *science*, not the people
+* Organized into **Tracks** — each Track is a distinct physics approach or propulsion method being actively researched and simulated
+* Uses an iterative **Days + Attempts** model: each day of work is logged, each attempt at a solution is numbered and named
+
+### Directory Layout
+
+* `1_Track/` — First research track (current primary track); contains `docs/`, `images/`, `prompts/`, `video_transcriptions/`, and supporting files
+* `Track_2/` — Second research track with its own working files
+* `Track_3/` — Third research track
+* `Track_Overview.yaml` — Master state file: tracks current day, current attempt, attempt name/status, parameters (target lift mass, altitude, simulation software, preferred languages). **Read this first** when resuming work.
+* `attempts/` — Stored attempt artifacts across all tracks
+* `day/` — Per-day work logs and outputs
+* `images/` — Physics/propulsion research images (local reference only, no IPFS, not web-embedded)
+* `images_description/` — Markdown descriptions of images in `images/`
+* `videos/` — Physics/propulsion research videos (local reference only)
+* `prompts/` — Prompt files driving AI-assisted research and simulation tasks
+* `simulation/` — Simulation code and results (Python, JavaScript; tools include FEMM)
+* `patents_intl/` — International patent references for exotic propulsion/energy
+* `other/` — Miscellaneous reference material
+* `manual_UAP_Physics.mdx` — Running manual / reference document for the overall Physics_Math effort
+* `transcribe_videos.js` / `transcribe_videos.log` — Tool for transcribing research videos locally
+
+### Key Concepts
+
+* **Track** — A coherent physics thesis being researched (e.g., rotating permanent magnet array for lift). One track = one top-level directory (`1_Track/`, `Track_2/`, etc.)
+* **Attempt** — A named approach within a track (e.g., `Rotating_Permanent_Magnet_Array`). Attempts are numbered and tracked in `Track_Overview.yaml`
+* **Day** — A single work session. Days increment sequentially; each has a reflection file when completed
+* **PhD-level only** — All content defaults to full mathematical formalism (tensors, Lagrangians, field equations, exact solutions). Never simplify unless explicitly asked for a lay summary
+* **No IPFS, no web publishing** — Media here is local reference only; it does not get embedded in Docusaurus pages or tracked in IPFS like murder-investigation media does
+
+### When Working Here
+
+* Check `Track_Overview.yaml` first — it tells you the active attempt, current day, and simulation parameters
+* Prompts for driving the work live in `1_Track/prompts/` and `Physics_Math/prompts/`
+* Simulation outputs go in `simulation/`; image references go in `images/` with descriptions in `images_description/`
+* The running reference manual is `manual_UAP_Physics.mdx` — update it as new findings emerge
+
 ## Last Sync
 
 **Source: `~/BGit/Bryan_git/Epstein_Kull_List/`** (UAPs, Energy):

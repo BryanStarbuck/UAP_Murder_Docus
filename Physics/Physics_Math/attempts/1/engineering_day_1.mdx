@@ -1,0 +1,193 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+ENGINEERING — Attempt 1, Day 1 (2026-04-23)
+Buildable component specifications for Halbach ring lift device
+====================================================================
+
+
+====================================================================
+1. BILL OF MATERIALS — DAY 1 BASELINE DESIGN
+====================================================================
+
+Component 1: N52 Neodymium Magnets
+  Quantity:    8
+  Dimensions:  20 mm × 20 mm × 10 mm (W × L × H, axial dimension 10 mm)
+  Grade:       NdFeB N52
+  Remanence:   Br = 1.48 T (minimum; N52 specification)
+  Coercivity:  Hci ≥ 955 kA/m
+  Max temp:    80°C (demagnetization begins above this)
+  Coating:     Triple-layer nickel (Ni-Cu-Ni) for corrosion resistance
+  Magnetization direction: ±Z (axial) for Option A (all-axial ring)
+  Source spec: SuperMagnete, K&J Magnetics, or equivalent
+  Unit mass:   ~30 g (NdFeB density 7400 kg/m³, V = 4×10^-6 m³)
+  Total magnet mass: 8 × 30 g = 240 g
+
+Component 2: Ring Frame
+  Material:    G10/FR4 fiberglass (non-ferromagnetic, non-conductive)
+    Alternatively: PEEK or Delrin (acetal) — low magnetic loss
+  Geometry:    Annular disc with 8 precisely spaced pockets for magnets
+  Inner radius: 80 mm (clears motor mount hub)
+  Outer radius: 120 mm (magnet centers at R = 100 mm, outer faces at 110 mm)
+  Thickness:   12 mm (equals magnet height for flush mounting)
+  Machining:   CNC milled pockets to ±0.1 mm tolerance
+  Retention:   Mechanical clamping + Loctite 638 retaining compound
+  Mass estimate: ~150 g (G10 density ~1900 kg/m³, annular volume ~79 cm³)
+
+Component 3: Motor Mount Hub
+  Material:    Aluminum 6061-T6 (non-ferromagnetic)
+  Diameter:    40 mm
+  Height:      30 mm
+  Function:    Central axle mount for BLDC motor shaft
+  Thread spec: M6 center bolt, 3× M4 radial set screws for angular lock
+  Mass estimate: ~30 g
+
+Component 4: Brushless DC Motor
+  Type:        Outrunner BLDC (model TBD from simulation RPM target)
+  Target RPM:  1000–5000 RPM (range, narrowed after Day 1 simulation)
+  Power:       100–500 W estimated (from centrifugal torque requirements)
+  Shaft:       8 mm diameter, 40 mm length
+  Mount style: Top-mounted, shaft-down configuration
+  Mass:        250–400 g typical for this power class
+  ESC required: Yes (30–50A ESC with bidirectional control for torque cancellation)
+
+Component 5: Counter-rotation Flywheel (torque cancellation)
+  Material:    Aluminum alloy
+  Diameter:    80 mm
+  Height:      20 mm
+  Mass:        ~250 g
+  Mount:       Separate shaft, driven by second identical motor at
+               same RPM but opposite direction
+  Alternative: Use a second counter-rotating Halbach ring (preferred —
+               doubles lift force while canceling torque)
+
+Component 6: Ground Reaction Plate (Sub-approach A, external)
+  Material:    Low-carbon steel ASTM A36 (B_sat = 2.0 T)
+  Diameter:    250 mm
+  Thickness:   5 mm
+  Mass:        ~1.92 kg (density 7850 kg/m³)
+  Surface:     Smooth, no paint or non-magnetic coating on upper face
+  Mount:       Fixed to ground/launch pad. NOT part of the craft.
+
+
+====================================================================
+2. POWER REQUIREMENTS
+====================================================================
+
+Magnet holding force (static):
+  The Kelvin force exerted by the rotating array on the ground plate
+  at z_gap = 20 mm is estimated at 5.87 N (from math_day_1.mdx).
+  The plate is attracted toward the array. The array is pushed upward.
+  This static configuration requires zero electrical power (permanent
+  magnets provide the field). Power is required only for rotation.
+
+Motor power for rotation:
+  Rotational kinetic energy of ring at angular velocity Ω:
+    I_ring = 8 × m_mag × R² = 8 × 0.030 × 0.10² = 0.0024 kg·m²
+    KE = 0.5 × I_ring × Ω²
+
+  At 1000 RPM: Ω = 104.7 rad/s → KE = 0.5 × 0.0024 × 104.7² = 13.2 J
+  Start-up time 5 s → avg power = 13.2 / 5 = 2.6 W (negligible)
+
+  Steady-state power is dominated by:
+  (a) Eddy current losses in ground plate and nearby conductors
+  (b) Air drag on magnets at operating RPM
+  (c) Bearing friction
+
+  Eddy current dissipation (rough estimate):
+    At 1000 RPM (f_field = 8 × 1000/60 = 133 Hz for 8-pole array)
+    Skin depth in steel: δ = √(2ρ / (ωμ)) = √(2×1.7×10^-7 / (838×4π×10^-7×1000))
+    = √(3.4×10^-7 / 1.054×10^-3) = √(3.23×10^-4) = 0.018 m = 18 mm
+
+    At 133 Hz, skin depth ≈ 1.8 mm in steel (μ_r = 1000).
+    Eddy power density: P_eddy = (B²ω²δ²) / (2ρ_resistivity) × V_plate
+    = (0.003² × 838² × 0.0018²) / (2 × 1.7×10^-7) × V_plate
+    Rough estimate: < 50 W for this configuration at 1000 RPM.
+
+  Total electrical budget: 100–200 W at operating RPM (motor + losses).
+  Battery pack: 6S LiPo (~22.2 V, 5 Ah) → 111 Wh → ~33 min runtime.
+
+
+====================================================================
+3. MECHANICAL CONSTRAINTS AND SAFETY
+====================================================================
+
+Centrifugal stress at maximum RPM (from Design.mdx):
+  At 1000 RPM: F_c per magnet = 0.030 × 0.10 × (104.7)² = 32.8 N
+  At 3000 RPM: F_c = 295 N per magnet
+  Frame must bear 8 × F_c in tension across its cross-section
+
+  G10 fiberglass tensile strength: ~275 MPa
+  Cross-section area of frame wall between pockets (minimum):
+    A_min = F_c / σ_tensile = 295 / 275×10^6 = 1.07×10^-6 m² ≈ 1 mm²
+  This is a very thin section — design wall thickness at ≥ 3 mm for
+  safety factor of 3×.
+
+  MAXIMUM SAFE RPM for 3 mm wall section (preliminary):
+    F_c = σ_allowable × A = (275×10^6 / 3) × (3×10^-3 × 12×10^-3) = 3,300 N
+    Ω_max = √(F_c / (m_mag × R)) = √(3300 / (0.030 × 0.10)) = 3317 rad/s
+    RPM_max ≈ 31,700 RPM (well above any motor candidate)
+
+  Structural constraint is not limiting. Rotor imbalance and bearing life
+  are the practical speed limiters.
+
+Magnet retention at temperature:
+  Loctite 638 shear strength: 25 N/mm² at room temperature
+  Bond area per magnet: 20×10 = 200 mm²
+  Bond shear force: 25 × 200 = 5000 N (far exceeds centrifugal load)
+  Temperature limit of Loctite 638: 150°C (well above Nd Curie limit)
+
+Air gap control:
+  Precision of z_gap critically affects lift force (see simulation).
+  If lift force is a strong function of z_gap, a gap control servo
+  (capacitive or Hall sensor + feedback loop) may be required for
+  stable ground-plate hovering.
+
+
+====================================================================
+4. WHAT CAN BE SIMULATED VS. WHAT REQUIRES PHYSICAL BUILD
+====================================================================
+
+Simulatable with Magpylib (Day 1):
+  * Static B field distribution above the array
+  * Kelvin force magnitude vs. z_gap
+  * Comparison between Option A (all-axial) and Option B (Halbach)
+  * Force variation with n_magnets and ring radius (parametric study)
+
+Simulatable with ElmerFEM or OpenFOAM (future days):
+  * Eddy current distribution in rotating system
+  * Thermal effects from eddy heating
+  * Dynamic force during rotation (time-averaged)
+
+Requires physical build to test:
+  * Torque reaction cancellation effectiveness
+  * Mechanical resonance frequencies of the frame
+  * Actual eddy current heating at operating RPM
+  * Gap control loop stability
+  * Actual lift-off behavior at the ground plate
+
+
+====================================================================
+5. MINIMUM BUILD FOR KEY PHYSICS TEST
+====================================================================
+
+To test the core Kelvin force claim at z_gap = 20 mm:
+  * 8 × N52 magnets (20×20×10 mm), oriented all-axial (+z)
+  * G10 ring frame holding magnets at 100 mm radius
+  * Ground plate: 250 mm steel disc, 5 mm thick
+  * Scale between ground plate and craft (not part of craft) to measure
+    force applied to ground plate (equal and opposite to lift force)
+
+This static test (no rotation) directly validates whether the Kelvin
+force magnitude matches the analytical and simulation predictions.
+No motor required for the static validation test.
+
+Mass budget for static test:
+  Magnets: 240 g
+  Frame:   150 g
+  Hub:     30 g
+  Total test assembly: ~420 g (< 500 g target lift weight)
+
+If the ground plate scale reads ~4.9 N upward pull and the assembly
+is positioned at exactly 20 mm above the plate, this validates both
+the theory and the simulation.

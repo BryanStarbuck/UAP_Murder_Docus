@@ -1,0 +1,108 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/1/plan_day_1.mdx
+
+====================================================================
+DAY 1 PLAN — 2026-04-23
+Attempt Focus: 1 (Rotating_Permanent_Magnet_Array)
+====================================================================
+
+
+CONTEXT READING SUMMARY
+--------------------------------------------------------------------
+
+No prior reflection files exist (Day 1). Research corpus read instead:
+* 1_Track/docs/Lift_And_Propulsion.mdx — primary synthesis
+* 1_Track/RedCollie1_overview/Lift_Propoultion.md — detailed source
+* 1_Track/docs/New_Energy_Source.mdx — energy background
+* Track_Overview.yaml — project state: Day 1, Attempt 1 active
+
+KEY FINDING FROM CORPUS:
+
+Dr. Horace Drew's experimental device achieves confirmed upward force
+on the inner spinning magnet (500g-equivalent at 17 Hz, 80V, 3A).
+However, the total system weight on the scale beneath the device
+is unchanged: F_up(magnet) = F_down(coils) exactly. Newton's Third
+Law is operating within the system boundary; no net external force.
+
+Drew's own statement: "there's also a force down on the three phase
+coils in both orientations, and the force up is only maybe a tiny
+bit bigger than the force down. So that's the basic trouble with
+the UFO levitation."
+
+This finding directly constrains Attempt 1: a symmetric rotating
+magnet array with an internal ferromagnetic target cannot produce
+net lift on the combined system. The "reaction surface" in Attempt 1
+(ferromagnetic flux concentrator ring) must be EXTERNAL to the craft
+(fixed ground element) or the design must exploit a different
+mechanism.
+
+UPDATED UNDERSTANDING OF ATTEMPT 1:
+
+Two valid sub-approaches for Attempt 1:
+
+Sub-approach A (Ground-Coupled): The ferromagnetic reaction surface
+is fixed to the ground. The Halbach array (craft) pushes upward
+against the field gradient created by the ground surface. The craft
+rises but cannot fly freely — only lifts off a prepared surface.
+Analogous to maglev but using gradient (Kelvin) force rather than
+inductive repulsion. Valid for demonstrating the lift mechanism even
+if not free-flight capable.
+
+Sub-approach B (Time-Asymmetric): If the rotating array creates a
+time-varying field with an asymmetric impulse — stronger upward push
+during one phase than downward push during another — the time-averaged
+force on the craft could be non-zero upward. This requires the field
+topology to break time-reversal symmetry, which in turn requires a
+mechanism like: (1) non-linear ferromagnetic material response to a
+rotating field, (2) eddy current phase lag creating a retarded force,
+(3) radiation pressure analog at the drive frequency.
+
+Day 1 focus: Sub-approach A. Model the static (non-rotating) case
+first to establish force scale. The rotating case analysis begins Day 2.
+
+
+STRATEGIC DECISIONS FOR TODAY
+--------------------------------------------------------------------
+
+* Attempt selection: Continue Attempt 1 (no reason to abandon — Day 1)
+* Physics mechanism focus: Kelvin body force via Halbach flux gradient
+* Simulation tool: Magpylib (magnetostatics; now installed)
+* Validation required: YES — Magpylib not yet validated
+  Validation target: Analytical dipole field of single N52 cube magnet
+  at r = 10 cm. Compare to B_z = (mu_0/4pi) * 2m / r^3.
+* Main simulation: Halbach ring (8 N52 magnets, 20 cm diameter)
+  Compute: B_z profile above array, dBz/dz gradient, Kelvin force
+  estimate on ferromagnetic target at various heights
+* No new attempt needed today
+
+
+PHYSICS QUESTIONS TO ANSWER TODAY
+--------------------------------------------------------------------
+
+Q1: What is the B_z field profile above an 8-magnet Halbach ring
+    at the Attempt 1 dimensions (20 cm diameter, N52)?
+
+Q2: What is the magnitude of dBz/dz in the near-field region (1-5 cm
+    above the array surface)?
+
+Q3: For a ferromagnetic target at saturation, what Kelvin force does
+    the computed field gradient imply at each height?
+
+Q4: How does the implied force compare to the target lift weight
+    (0.5 kg × 9.81 m/s² = 4.905 N)?
+
+Q5: What height range and geometry would need to change to close the
+    gap if the force is insufficient?
+
+
+WHAT SUCCESS LOOKS LIKE TODAY
+--------------------------------------------------------------------
+
+* Magpylib validated against analytical dipole formula (error < 5%)
+* B_z field profile computed and plotted (or tabulated) above the array
+* Kelvin force magnitude at 1-5 cm height range computed
+* sim_learned file documents whether force is sufficient and what the
+  gap or margin is relative to target
+* Reflection documents whether Sub-approach A is viable and what
+  Day 2 should investigate (time-varying / Sub-approach B)

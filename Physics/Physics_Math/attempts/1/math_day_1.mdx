@@ -1,0 +1,240 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+MATH — Attempt 1, Day 1 (2026-04-23)
+Full derivations for Kelvin force on ferromagnetic target
+====================================================================
+
+
+====================================================================
+SECTION 1 — OFF-AXIS FIELD OF A CURRENT LOOP (RING APPROXIMATION)
+====================================================================
+
+Each magnet in the Halbach ring is approximated as a magnetic dipole
+for analytical field computation. The dipole field at a general point
+(r, z) in cylindrical coordinates is obtained from the scalar potential.
+
+For a magnetic dipole with moment m = m_z ẑ located at position
+(R, φ_k, 0) (the k-th magnet on the ring at radius R, angle φ_k):
+
+The Cartesian position of the dipole: r_k = (R cos φ_k, R sin φ_k, 0)
+Observer position: r_obs = (0, 0, z) (on symmetry axis)
+Separation vector: r' = r_obs - r_k
+|r'| = √(R² + z²)
+
+The dipole field at r_obs from dipole k (magnetized along ẑ):
+
+  B_z^(k) = (μ_0 m_z / 4π) * [3(r' · ẑ)² / |r'|^5 - 1/|r'|^3]
+
+  r' · ẑ = z - 0 = z
+  |r'|² = R² + z²
+
+  B_z^(k)(on axis) = (μ_0 m_z / 4π) * [3z² / (R²+z²)^(5/2) - 1/(R²+z²)^(3/2)]
+                   = (μ_0 m_z / 4π) * (2z² - R²) / (R²+z²)^(5/2)      [Eq. 1.1]
+
+
+STEP-BY-STEP DERIVATION of [Eq. 1.1]:
+
+The z-component of the dipole field for m = m ẑ:
+  B_z = (μ_0 / 4π) * [3(m · r̂)(r̂ · ẑ) - (m · ẑ)] / r³
+      = (μ_0 m / 4π) * [3 cos²θ - 1] / r³
+
+where θ is the angle between r' and ẑ, and r = |r'|.
+
+  cos θ = z / √(R² + z²)
+  cos²θ = z² / (R² + z²)
+
+  3 cos²θ - 1 = 3z²/(R²+z²) - 1 = (3z² - R² - z²)/(R²+z²) = (2z² - R²)/(R²+z²)
+
+  B_z^(k) = (μ_0 m_z / 4π) * (2z² - R²) / (R²+z²)^(5/2)         [confirmed]
+
+Dimensional check:
+  [μ_0] = T·m/A, [m_z] = A·m², [R²+z²]^(5/2) = m^5
+  → [B_z] = (T·m/A)(A·m²) / m^5 = T·m³/m^5 = T/m² × m^0 ... 
+
+  Correct: (T·m/A)(A·m²)/m^5 = T·m³/m^5 = T/m² is wrong.
+
+  Re-check: μ_0/(4π) has units H/m = T·m/A.
+  m_z is A·m². (T·m/A)(A·m²)/m^5 = T·m^3/m^5 = T/m².
+
+  That is B per unit distance, not B. Error in the formula?
+
+  No: the denominator is (R²+z²)^(5/2) which has units m^5.
+  Numerator after μ_0 * m_z: (T·m/A)(A·m²) = T·m³.
+  (2z²-R²) has units m². So numerator total: T·m³ × m² = T·m^5.
+  Denominator: m^5. → B = T. Correct. ✓
+
+
+TOTAL B_z ON AXIS FROM N-MAGNET RING:
+
+All N magnets at the same radius R with the same z-component of
+magnetization m_z contribute equally to B_z on the symmetry axis
+(by rotational symmetry about the z-axis):
+
+  B_z_total(z) = N * (μ_0 m_z / 4π) * (2z² - R²) / (R²+z²)^(5/2)  [Eq. 1.2]
+
+
+SIGN ANALYSIS:
+
+  Numerator (2z² - R²) changes sign at z = R/√2 ≈ 0.707 * R.
+
+  For z < R/√2: numerator is negative → B_z < 0 (field points downward)
+  For z > R/√2: numerator is positive → B_z > 0 (field points upward)
+
+  For R = 10 cm: sign change at z ≈ 7.07 cm.
+
+  This means the on-axis B_z from an all-axial ring is DOWNWARD for
+  z < 7 cm and UPWARD for z > 7 cm. The gradient ∂B_z/∂z is:
+
+  At z = 0: B_z = -N * (μ_0 m_z / 4π) * R² / R^5 = -N * (μ_0 m_z)/(4π R³)
+  This is the field at the center of the ring plane — pointing downward.
+
+  The field changes from negative to positive at z = R/√2, creating a
+  zero crossing and then a positive field at larger z.
+
+
+====================================================================
+SECTION 2 — FIELD GRADIENT AND KELVIN FORCE
+====================================================================
+
+Taking ∂/∂z of Eq. 1.2:
+
+  ∂B_z/∂z = N * (μ_0 m_z / 4π) * d/dz [(2z² - R²) / (R²+z²)^(5/2)]  [Eq. 2.1]
+
+Let f(z) = (2z² - R²) / (R²+z²)^(5/2). Using the quotient rule:
+
+  f'(z) = [4z * (R²+z²)^(5/2) - (2z²-R²) * 5z * (R²+z²)^(3/2)] / (R²+z²)^5
+         = [(R²+z²)^(3/2)] * [4z(R²+z²) - 5z(2z²-R²)] / (R²+z²)^5
+         = [4z(R²+z²) - 5z(2z²-R²)] / (R²+z²)^(7/2)
+
+  Numerator: 4zR² + 4z³ - 10z³ + 5zR² = 9zR² - 6z³ = 3z(3R² - 2z²)
+
+  ∂B_z/∂z = N * (μ_0 m_z / 4π) * 3z(3R² - 2z²) / (R²+z²)^(7/2)     [Eq. 2.2]
+
+SIGN ANALYSIS of ∂B_z/∂z:
+
+  For z > 0 (above the ring):
+  Numerator factor z > 0 always (positive).
+  Sign of (3R² - 2z²): positive for z < R√(3/2) ≈ 1.22 R.
+  For R = 10 cm: sign change at z ≈ 12.2 cm.
+  For z < 12.2 cm: ∂B_z/∂z > 0 (field increasing with height).
+
+  But wait — from Section 1, B_z is negative below z = R/√2 ≈ 7 cm.
+  A positive gradient on a negative field means the field is becoming
+  less negative (approaching zero) as we move upward.
+  Above z = 7 cm, B_z > 0 and ∂B_z/∂z > 0 means field increasing
+  with height — which would push a ferromagnetic body upward
+  (attracted toward higher field above it).
+
+  Maximum ∂B_z/∂z: at the inflection point where d²B_z/dz² = 0.
+  Setting derivative of [Eq. 2.2] to zero and solving gives the
+  height of maximum gradient — computed numerically in simulation.
+
+
+====================================================================
+SECTION 3 — KELVIN FORCE CALCULATION
+====================================================================
+
+For a small ferromagnetic sphere (radius a, saturation magnetization
+M_sat) in the field B(z) with gradient ∂B_z/∂z:
+
+  F_z = (V_sphere * M_sat) * ∂B_z/∂z  [at saturation]              [Eq. 3.1]
+      = (4π a³ / 3) * (B_sat / μ_0) * ∂B_z/∂z
+
+For the 500 g steel disc target:
+  m_target = 0.5 kg
+  V_target = m_target / ρ_steel = 0.5 / 7800 = 6.41 × 10^-5 m³
+  B_sat = 2.0 T (mild steel)
+  M_sat = B_sat / μ_0 = 2.0 / (4π × 10^-7) = 1.592 × 10^6 A/m
+
+  F_z = V_target * M_sat * ∂B_z/∂z * μ_0
+      = V_target * B_sat * ∂B_z/∂z / μ_0 * μ_0
+      = V_target * B_sat * ∂B_z/∂z / μ_0 * μ_0
+
+Wait — let me re-derive carefully.
+
+  f_z = M_sat * ∂B_z/∂z    [force density, N/m³]
+
+  But B_z = μ_0(H_z + M_z). The gradient of B_z includes the gradient
+  of the target's own magnetization: ∂B_z/∂z = μ_0 ∂(H_z+M_z)/∂z.
+  In the far-field of the target (treating target as a small body in
+  the external field), the external field gradient ∂B_z^ext/∂z drives
+  the force and we use:
+
+  f_z = μ_0 * M_sat * ∂H_z^ext/∂z ≈ M_sat * ∂B_z^ext/∂z     [Eq. 3.2]
+
+  (The approximation holds when μ_r >> 1, making μ_0 H_z << B_z.)
+
+  Total force:
+  F_z = V_target * M_sat * (∂B_z^ext/∂z)|_{target center}       [Eq. 3.3]
+
+Numerically, to lift the target:
+
+  F_z ≥ m_target * g = 0.5 × 9.81 = 4.905 N
+
+  Required gradient:
+  ∂B_z/∂z ≥ F_z / (V_target * M_sat)
+            = 4.905 / (6.41×10^-5 × 1.592×10^6)
+            = 4.905 / 102.0
+            = 0.048 T/m                                           [Eq. 3.4]
+
+CONCLUSION: A field gradient of only 0.048 T/m is sufficient to lift
+the 500 g target at magnetic saturation. This is easily achievable by
+N52 magnet assemblies at centimeter distances.
+
+
+====================================================================
+SECTION 4 — NUMERICAL EVALUATION AT DESIGN PARAMETERS
+====================================================================
+
+Analytical estimate for 8-magnet all-axial ring (Option A):
+
+  N = 8 magnets, R = 0.10 m, m_z per magnet:
+  V_magnet = 0.02 × 0.02 × 0.01 = 4×10^-6 m³
+  m_z = (B_r/μ_0) * V_magnet = (1.48/4π×10^-7) * 4×10^-6
+
+  (1.48/4π×10^-7) = 1.48/1.2566×10^-6 = 1.177 × 10^6 A/m
+
+  m_z = 1.177×10^6 × 4×10^-6 = 4.71 A·m²
+
+  B_z at z = 0.02 m (2 cm above ring center, R = 10 cm):
+  Denominator: (R²+z²)^(5/2) = (0.01+0.0004)^(5/2) = (0.0104)^(5/2)
+             = 0.0104^2 × 0.0104^0.5 = 1.082×10^-4 × 0.102 = 1.104×10^-5 m^5
+  Numerator: 2z² - R² = 2×0.0004 - 0.01 = 0.0008 - 0.01 = -0.0092 m²
+
+  B_z_single = (μ_0/4π) * m_z * (2z²-R²) / (R²+z²)^(5/2)
+             = 10^-7 * 4.71 * (-0.0092) / 1.104×10^-5
+             = 10^-7 * (-0.04333) / 1.104×10^-5
+             = 10^-7 * (-3927) = -3.93 × 10^-4 T
+
+  B_z_total = 8 × (-3.93×10^-4) = -3.14 × 10^-3 T (3.14 mT, downward)
+
+  ∂B_z/∂z at z = 0.02 m:
+  From Eq. 2.2: 3z(3R²-2z²) / (R²+z²)^(7/2)
+  Denominator: (0.0104)^(7/2) = 0.0104^3 × 0.0104^0.5 = 1.124×10^-6 × 0.102 = 1.147×10^-7 m^7
+  Numerator: 3 × 0.02 × (3×0.01 - 2×0.0004) = 0.06 × (0.03 - 0.0008) = 0.06 × 0.0292 = 1.752×10^-3 m³
+
+  ∂B_z/∂z|single = (μ_0/4π) * m_z * 3z(3R²-2z²) / (R²+z²)^(7/2)
+                 = 10^-7 * 4.71 * 1.752×10^-3 / 1.147×10^-7
+                 = 10^-7 * 8.252×10^-3 / 1.147×10^-7
+                 = 10^-7 × 71,943 = 7.194×10^-3 T/m
+
+  ∂B_z/∂z|total = 8 × 7.194×10^-3 = 5.75 × 10^-2 T/m
+
+  F_z = V_target × M_sat × ∂B_z/∂z = 6.41×10^-5 × 1.592×10^6 × 0.0575
+       ≈ 6.41×10^-5 × 91,540 = 5.87 N
+
+  COMPARISON TO TARGET: F_z = 5.87 N vs. required 4.905 N.
+
+  F_z / (m_target × g) = 5.87 / 4.905 ≈ 1.20
+
+ANALYTICAL PREDICTION: The 8-magnet all-axial ring at 2 cm gap
+produces a Kelvin force approximately 20% GREATER than the weight
+of the 500 g ferromagnetic target. At this height, Sub-approach A
+(ground-coupled lift) is analytically viable.
+
+IMPORTANT CAVEAT: This calculation uses the dipole approximation
+(each magnet treated as a point dipole). At 2 cm above a 10 mm tall
+magnet, the aspect ratio is 2:1, making the dipole approximation
+inaccurate by potentially 20-50%. The simulation (using Magpylib's
+exact integration) gives the corrected result.

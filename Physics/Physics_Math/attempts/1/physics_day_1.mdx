@@ -1,0 +1,176 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PHYSICS — Attempt 1, Day 1 (2026-04-23)
+Mechanism: Kelvin gradient force on ferromagnetic target
+====================================================================
+
+
+====================================================================
+PHYSICS QUESTION FOR TODAY
+====================================================================
+
+What is the spatial distribution of the Kelvin body force on a
+ferromagnetic target placed above a Halbach permanent magnet ring?
+Specifically: does the 8-magnet, 20 cm diameter N52 Halbach ring
+defined in Attempt.yaml generate a force sufficient to lift a 500 g
+ferromagnetic target at any accessible height (1–10 cm above ring)?
+
+
+====================================================================
+SECTION 1 — FIELD PHYSICS OF THE HALBACH RING
+====================================================================
+
+1.1 SINGLE MAGNETIC DIPOLE FIELD
+
+A permanent magnet of volume V_m, remanence B_r, magnetized along ẑ
+has a dipole moment:
+
+  m = (B_r / μ_0) * V_m                                 [Eq. 1.1]
+
+On the symmetry axis (r = 0) at height z above the dipole center:
+
+  B_z(0, z) = (μ_0 / 4π) * (2m / z³)                   [Eq. 1.2]
+
+This is the far-field (z >> magnet dimension) approximation. For a
+10 mm tall magnet evaluated at z = 10 cm, the aspect ratio is 10:1,
+making this approximation accurate to ~5%.
+
+For the 20×20×10 mm N52 magnet:
+  V_m = 20 × 20 × 10 × 10^-9 m³ = 4 × 10^-6 m³
+  m = (1.48 / 4π × 10^-7) * 4 × 10^-6 ≈ 4.712 A·m²    [Eq. 1.3]
+
+
+1.2 HALBACH RING SUPERPOSITION
+
+An N-magnet Halbach ring of radius R with magnetization direction
+rotating at angular rate p (p = 2 for the 2× Halbach pattern) has
+a field that, at height z on the symmetry axis, is the coherent
+superposition of N individual dipole fields. For a 2× Halbach pattern,
+the dipole moments projected onto ẑ are:
+
+  m_z^(k) = m * cos(2 * (2πk/N))  for k = 0, 1, ..., N-1    [Eq. 1.4]
+
+where the factor of 2 in the cosine comes from the 2× magnetization
+rotation. For N = 8, the N ẑ-components sum as:
+
+  M_z_total = m * Σ_{k=0}^{7} cos(2 * kπ/4)
+             = m * Σ_{k=0}^{7} cos(kπ/2)
+             = m * [1 + 0 + (-1) + 0 + 1 + 0 + (-1) + 0] = 0  [Eq. 1.5]
+
+IMPORTANT RESULT: The net z-dipole moment of the 8-magnet 2× Halbach
+ring is ZERO. The on-axis far-field (dipole approximation) B_z from
+the ring is therefore zero at all z.
+
+This does NOT mean the field is zero — it means the dipole term
+vanishes and the field is dominated by quadrupole and higher multipole
+terms. The on-axis field falls off faster than z^-3 (at least z^-5
+for the quadrupole term), which means the Kelvin force also falls
+off faster with distance.
+
+IMPLICATION FOR DESIGN: The 2× Halbach ring does NOT create a strong
+on-axis upward gradient force. The flux is concentrated RADIALLY in
+the plane of the ring, not axially. For axial (vertical) Kelvin
+force, the field gradient must be maximized along the z-axis.
+
+
+1.3 REVISED GEOMETRY: AXIAL FLUX CONCENTRATION
+
+To produce a large ∂B_z/∂z above the ring, the magnetic flux must
+be directed upward. This requires each magnet to have a net upward
+(+z) component of magnetization. Several options:
+
+Option A — Simple axial array: All magnets magnetized in +z direction.
+  Field on axis: N dipoles at radius R, all pointing +z.
+  B_z(0, z) = N * (μ_0/4π) * m_z * f(z, R)
+  where f(z, R) accounts for off-axis geometry (computed numerically).
+
+Option B — Modified Halbach with axial bias: Magnets magnetized in a
+  pattern that combines tangential Halbach concentration with a net
+  upward (+z) component. Each magnet's magnetization has:
+    M = M_0 * (sin(θ) r̂ + cos(θ) ẑ)  with θ = 2φ_k
+  This creates both radial flux concentration and a net z-component.
+
+Option C — Two-layer array: An upper Halbach ring (concentrates flux
+  upward) above a lower Halbach ring (concentrates flux downward from
+  below). The superposition creates a strong axial gradient between
+  the two layers and above the upper layer.
+
+Day 1 simulation tests Option A (simple axial array) and Option B
+(2× Halbach ring). Option C is a Day 2 follow-on if A or B shows
+insufficient gradient.
+
+
+1.4 KELVIN FORCE ON FERROMAGNETIC TARGET — PHYSICAL ANALYSIS
+
+For a ferromagnetic body at magnetic saturation, M_sat ≈ B_sat/μ_0:
+  For mild steel: B_sat ≈ 2.0 T → M_sat ≈ 1.59 × 10^6 A/m
+
+Body force density at saturation:
+  f_z = M_sat * ∂B_z/∂z = (B_sat / μ_0) * ∂B_z/∂z      [Eq. 1.6]
+
+For the body not at saturation (linear regime), with χ_m >> 1:
+  f_z ≈ (χ_m / (1 + χ_m)) * (1/μ_0) * B_z * ∂B_z/∂z ≈ (1/μ_0) * B_z * ∂B_z/∂z  [Eq. 1.7]
+
+The total lift force on a steel disc of mass m_target = 0.5 kg:
+  Volume: V_target = m_target / ρ_steel = 0.5 / 7800 ≈ 6.41 × 10^-5 m³
+
+  Required average force density to lift target:
+    f_z_required = m_target * g / V_target = 4.905 / 6.41×10^-5 ≈ 76,500 N/m³  [Eq. 1.8]
+
+  Required ∂B_z/∂z (at saturation):
+    ∂B_z/∂z = f_z * μ_0 / B_sat = 76,500 * 4π×10^-7 / 2.0 ≈ 0.048 T/m  [Eq. 1.9]
+
+This is a VERY achievable gradient. Permanent magnet assemblies
+routinely produce gradients of 1–100 T/m at 1–5 cm distance.
+
+CONCLUSION: The required field gradient for Kelvin lift of a 0.5 kg
+steel target (∂B_z/∂z ≈ 0.048 T/m) is modest and well within the
+range of N52 permanent magnet arrays. The geometric design question
+is whether the Halbach ring can produce this gradient at the
+operating height with the specified magnet count and dimensions.
+
+
+====================================================================
+SECTION 2 — DEPARTURE FROM STANDARD PHYSICS FRAMEWORK
+====================================================================
+
+This approach operates entirely within classical electrodynamics.
+There is no claim of beyond-standard physics for Attempt 1.
+
+The Kelvin body force is a well-established result derivable from
+Maxwell's stress tensor applied to a polarizable medium. The relevant
+equations are:
+
+  T_ij = μ_0 * H_i * H_j + (1/μ_0) * B_i * B_j / 2 - δ_ij * (μ_0 H² + B²/μ_0) / 2
+
+The force on a body is the surface integral of T_ij * n_j over the
+body surface (or volume integral of ∂T_ij/∂x_j over the body volume).
+
+The only "unusual" claim is that a rotating magnet array with
+asymmetric geometry can produce a sustained net upward force on the
+craft itself without an external reaction surface. That claim (Sub-
+approach B) requires the time-averaged force on the current-carrying
+system itself to be non-zero — which is not guaranteed by Noether's
+theorem for a time-periodic, spatially asymmetric field configuration
+interacting with its own mechanical frame through a nonlinear medium.
+
+Day 1 does not make this claim. Day 1 establishes the static force
+baseline using only Sub-approach A (external target fixed to ground).
+
+
+====================================================================
+SECTION 3 — WHAT SIMULATION MUST SHOW
+====================================================================
+
+From the physics above, the simulation must compute:
+
+1. B_z(0, z) on the symmetry axis above the ring for z = 1–10 cm
+2. ∂B_z/∂z as a function of z (numerical gradient of B_z)
+3. F_z(z) = M_sat * (∂B_z/∂z) * V_target at each z
+4. Whether F_z exceeds m_target * g at any accessible z
+5. Comparison between Option A (all-axial) and Option B (2× Halbach)
+   to determine which geometry produces the larger on-axis gradient
+
+If Option A exceeds the target at any z, the Sub-approach A design
+is viable as a ground-coupled launch system.

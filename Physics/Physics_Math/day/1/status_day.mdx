@@ -17,7 +17,7 @@ PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/1/plan_day_1.mdx
 PLAN
 --------------------------------------------------------------------
 
-[ ] Plan for Day Completed
+[x] Plan for Day Completed
       * Read reflection reports for last 10 days (most recent weighted heaviest)
       * Decide: continue existing attempt or create new attempt
       * Write PLAN_FOR_THE_DAY_FILE with decisions and intended work
@@ -27,7 +27,7 @@ PLAN
 ATTEMPT SELECTION
 --------------------------------------------------------------------
 
-[ ] Decide if working on one of the previous attempts or create a new attempt
+[x] Decide if working on one of the previous attempts or create a new attempt
       * If new attempt: create {ROOT_DIR}/attempts/{NEW_ATTEMPT_NUMBER}/Attempt.yaml
       * Update Track_Overview.yaml with new attempt details
       * Set ATTEMPT_FOCUS above to the chosen attempt number
@@ -36,7 +36,7 @@ ATTEMPT SELECTION
 THEORY WORK
 --------------------------------------------------------------------
 
-[ ] Work on Theory
+[x] Work on Theory
       * Review current theoretical basis in the attempt directory
       * Identify gaps or contradictions in the physics model
       * Write or update Theory.mdx in the attempt directory
@@ -46,7 +46,7 @@ THEORY WORK
 DESIGN ITERATION
 --------------------------------------------------------------------
 
-[ ] Map out the attempts to make it better
+[x] Map out the attempts to make it better
       * Review prior attempt directories for useful design elements
       * Identify which design parameters to change or hold fixed
       * Update Design.mdx or Engineering.mdx in the attempt directory
@@ -55,25 +55,25 @@ DESIGN ITERATION
 DAILY TECHNICAL FILES
 --------------------------------------------------------------------
 
-[ ] PHYSICS files for this day
+[x] PHYSICS files for this day
       * Create or update physics analysis in the attempt directory
       * Document all equations at PhD level: tensors, field equations, boundary conditions
       * Note any departures from standard Newtonian or GR framework
       * File: {ROOT_DIR}/attempts/1/physics_day_1.mdx
 
-[ ] MATH files for this day
+[x] MATH files for this day
       * Derive or extend key equations for the design
       * Show full derivations, no hand-waving of steps
       * Document dimensional analysis and limiting cases
       * File: {ROOT_DIR}/attempts/1/math_day_1.mdx
 
-[ ] ENGINEERING files for this day
+[x] ENGINEERING files for this day
       * Translate physics into buildable component specs
       * Identify materials, tolerances, power requirements, mechanical constraints
       * Note what can be simulated vs. what requires physical construction
       * File: {ROOT_DIR}/attempts/1/engineering_day_1.mdx
 
-[ ] Applied Physics Simulator files for this day
+[x] Applied Physics Simulator files for this day
       * Write or update simulation code for today's design
       * Document what each simulation is testing and expected output
       * File: {ROOT_DIR}/attempts/1/sim_setup_day_1.mdx
@@ -84,12 +84,18 @@ SIMULATION PASS (loop up to 10 times, stop at 10)
 
 SIMULATION_PASS_COUNT: 0
 
-[ ] Create any code needed to run the simulator
+[x] Verify simulation library is installed; install if needed (pip install)
+      * Check: python3 -c "import <library>"
+      * If not installed: pip install <library>
+      * Tool must match attempt physics (magnetostatics vs. electrostatics vs. FEM)
+      * magpylib: pip install magpylib (already installed as of Day 1)
+
+[x] Create any code needed to run the simulator
       * Place code in {ROOT_DIR}/simulation/{WHICH_SIMULATION_SOFTWARE}/software/
       * Language preference: Python, then JavaScript
       * Document inputs, outputs, and assumptions in a header comment block
 
-[ ] Run Tests in online digital simulator software
+[ ] Execute simulation code locally (run Python script via system interpreter; use Bash tool) and capture output
 
 [ ] Fix any code or configuration to make simulation tests work
       * Log each error and fix in sim_setup_day_1.mdx

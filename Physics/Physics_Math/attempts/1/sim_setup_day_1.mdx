@@ -1,0 +1,111 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+SIMULATION SETUP — Attempt 1, Day 1 (2026-04-23)
+Tool: Magpylib 5.0.1 (installed)
+====================================================================
+
+
+====================================================================
+1. VALIDATION RUN — Magpylib vs. Analytical Dipole
+====================================================================
+
+Software:    Magpylib 5.0.1
+Script:      {ROOT_DIR}/simulation/magpylib/software/run_1_1_validation_dipole.py
+Test:        Single N52 cube magnet (10×10×5 mm), z-magnetized.
+             Compare B_z at z = 10 cm to analytical dipole formula.
+Expected:    |Error| < 5% (dipole approx error at 10:1 aspect ratio)
+
+Design parameters:
+  Magnet:    10×10×5 mm (W×L×H) — smaller than main design, for cleaner
+             dipole approximation (z/height = 20:1 at 10 cm)
+  Br:        1.48 T (N52)
+  Observer:  z = 0.10 m (10 cm), on symmetry axis
+
+Analytical target:
+  V = 0.01 × 0.01 × 0.005 = 5×10^-7 m³
+  m = (1.48 / 4π×10^-7) × 5×10^-7 = 0.590 A·m²
+  B_z = (μ_0/4π) × 2m / z³ = 10^-7 × 2 × 0.590 / 0.001 = 1.18×10^-4 T = 0.118 mT
+
+
+====================================================================
+2. MAIN SIMULATION — Halbach Ring Field and Kelvin Force
+====================================================================
+
+Software:    Magpylib 5.0.1
+Script:      {ROOT_DIR}/simulation/magpylib/software/run_1_1_kelvin_force.py
+Test:        Compare two ring geometries:
+             Option A: 8 N52 magnets, all +z magnetization (axial array)
+             Option B: 8 N52 magnets, 2× Halbach magnetization pattern
+
+Geometry (both options):
+  N:         8 magnets
+  R:         0.10 m (10 cm radius, magnet centers)
+  Magnet:    20×20×10 mm (W×L×H)
+  Br:        1.48 T
+
+Observing grid:
+  z range:   0.005 m to 0.100 m (5 mm to 10 cm above ring plane)
+  Points:    50 equally spaced on z-axis (0, 0, z)
+
+Computed quantities:
+  * B_z(z): z-component of field on symmetry axis
+  * ∂B_z/∂z: numerical gradient (np.gradient with z_array)
+  * F_kelvin(z): Kelvin force on 500 g steel target at each height
+    F = V_target × B_sat × (∂B_z/∂z) / μ_0 × μ_0
+      = V_target × M_sat × (∂B_z/∂z)
+    where M_sat = B_sat/μ_0 = 2.0/(4π×10^-7) = 1.592×10^6 A/m
+    V_target = 0.5/7800 = 6.41×10^-5 m³
+
+Success criterion:
+  F_kelvin(z) / (m_target × g) > 1.0 at any z in [0.005, 0.05] m
+
+Comparison metric:
+  Which option (A or B) produces larger F_kelvin?
+  At what height z is the Kelvin force maximized?
+
+
+====================================================================
+3. INPUTS AND BOUNDARY CONDITIONS
+====================================================================
+
+All simulations run in free space (μ_r = 1 everywhere except magnets).
+Ground plate is NOT included in the Magpylib model — Magpylib handles
+the permanent magnet fields; the ground plate effect is captured by
+treating the plate as the target body in the force calculation
+(the Kelvin force on the plate = reaction force on the ring array).
+
+No thermal, eddy current, or time-varying effects in Day 1.
+This is a pure magnetostatic calculation.
+
+
+====================================================================
+4. EXPECTED RESULTS (from math_day_1.mdx analysis)
+====================================================================
+
+Option A (all-axial):
+  At z = 20 mm: F_kelvin ≈ 5.87 N (dipole approximation)
+  At saturation: this exceeds target weight 4.905 N by ~20%
+
+Option B (2× Halbach):
+  Net z-dipole moment = 0 (cancels exactly for 8 magnets)
+  On-axis B_z is dominated by quadrupole term → falls as z^-5
+  Expected F_kelvin << Option A at z > 10 mm
+
+Surprise criterion: If Option B shows F_kelvin within factor of 2
+of Option A, this would indicate the quadrupole contribution is
+more significant than estimated.
+
+
+====================================================================
+5. RECORDING REQUIREMENTS
+====================================================================
+
+Per Manual Section 5.4, record for each simulation run:
+  * Software version: Magpylib 5.0.1
+  * Input parameters: as specified above
+  * What was tested: validation (dipole formula) + Kelvin force comparison
+  * Expected result: documented in Section 4 above
+  * Actual result: recorded in sim_learned_day_1.mdx after run
+  * Surprising results: documented immediately in sim_learned_day_1.mdx
+  * Next simulation target: identified in reflection

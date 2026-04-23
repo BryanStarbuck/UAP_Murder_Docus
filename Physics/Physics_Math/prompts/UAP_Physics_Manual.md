@@ -179,7 +179,7 @@ The file exists in one place. This is your learnings on how you operate day to d
 MANUAL_FILE is file {ROOT_DIR}/manual_UAP_Physics.mdx
 
 
-1. 
+1. The day of temp should start with number one; the next one should be one more and a higher period. Use the newest one by the higher numbers, the highest number? 
 
 
 ====================================================================

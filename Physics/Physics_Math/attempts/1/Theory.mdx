@@ -1,0 +1,184 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+THEORY — Attempt 1: Rotating Asymmetric Permanent Magnet Array
+====================================================================
+
+Version: 1.0 (Day 1, 2026-04-23)
+Status: Initial formulation. No simulation results yet.
+Author: Claude AI research, Physics_Math project
+
+
+====================================================================
+1. CLAIMED LIFT MECHANISM
+====================================================================
+
+The Kelvin body force (ponderomotive force on magnetic matter) acting
+on a ferromagnetic target body in the spatially non-uniform magnetic
+field produced by a rotating asymmetric permanent magnet array. The
+time-averaged force has a net upward component when the field geometry
+is engineered to concentrate flux above the array and attenuate it
+below, creating a spatial gradient whose vertical component does not
+cancel over a full rotation cycle.
+
+
+====================================================================
+2. GOVERNING EQUATIONS
+====================================================================
+
+2.1 KELVIN BODY FORCE DENSITY
+
+The body force per unit volume on a magnetically linear material in
+an external field H is:
+
+  f_i = mu_0 * M_j * (∂H_j / ∂x_i)                     [Eq. 2.1]
+
+In vector notation:
+
+  f = mu_0 * (M · ∇) H                                  [Eq. 2.2]
+
+For a linear paramagnetic or ferromagnetic material:
+  M = chi_m * H  (linear regime, chi_m = mu_r - 1)
+
+  f = mu_0 * chi_m * (H · ∇) H = (mu_0 * chi_m / 2) * ∇(H²)  [Eq. 2.3]
+
+The total force on a body of volume V is:
+
+  F = ∫_V mu_0 * (M · ∇) H dV                          [Eq. 2.4]
+
+For a ferromagnetic body at or near saturation (chi_m → ∞):
+  M → M_sat (constant, independent of H)
+
+  f_z ≈ M_sat * mu_0 * (∂H_z / ∂z) = M_sat * (∂B_z / ∂z)  [Eq. 2.5]
+
+where B_z = mu_0 * (H_z + M_z) evaluated at the external field H_z.
+
+
+2.2 EARNSHAW'S THEOREM — WHY IT DOES NOT PROHIBIT THIS DESIGN
+
+Earnshaw's theorem: a static arrangement of magnetic monopoles
+(or electric charges, or gravitational masses) cannot be in stable
+equilibrium under purely conservative forces. For magnetostatics, the
+theorem generalizes to: no body of fixed magnetization can be in
+stable equilibrium in the field of external static magnets.
+
+Why Attempt 1 circumvents Earnshaw:
+
+(a) The array rotates — the field is time-varying. Earnshaw applies
+    to static fields. Time-varying fields can create stable force
+    profiles that static fields cannot.
+
+(b) The target material responds nonlinearly (ferromagnetic saturation)
+    — the effective chi_m is field-dependent. Nonlinear response creates
+    force profiles not subject to Earnshaw's linear-field theorem.
+
+(c) The configuration is not seeking equilibrium levitation of the
+    target but rather lift force on the array (craft) against an
+    external fixed target (ground surface). Earnshaw constrains the
+    stability of free levitation, not the existence of force between
+    a moving source and a fixed target.
+
+
+2.3 SYMMETRY ARGUMENT FOR NET VERTICAL FORCE
+
+A necessary condition for net lift: the field geometry must break
+vertical (z-axis) symmetry. For a symmetric rotating array (same
+flux above and below), the Kelvin force on targets above and below
+cancel, and the net z-force on the array itself is zero.
+
+Symmetry breaking mechanism: Modified Halbach array with vertical flux
+bias. In a standard linear Halbach array, magnetization direction
+rotates as a function of position to concentrate flux on one face.
+For a ring Halbach array with the rotation period equal to half the
+ring circumference, the flux is concentrated radially inward on one
+axial face and radially outward (or suppressed) on the other.
+
+The key design choice is the orientation of this concentration:
+flux concentrated ABOVE the array creates ∂B_z/∂z < 0 above
+(field decreasing with height) → upward Kelvin force on ferromagnetic
+target placed above the array.
+
+The array reaction: by Newton's third law, the force on the target
+is equal and opposite to the force on the array. If the target is
+fixed (external), the array (craft) is pushed away from the target.
+If flux is concentrated upward and the target is below the craft,
+the craft is pushed upward.
+
+This is the Sub-approach A (ground-coupled) geometry.
+
+
+2.4 TIME-AVERAGING FOR THE ROTATING CASE
+
+For a rotating magnet array at angular velocity Ω_z (rotation about
+the z-axis), the field at a fixed point in space is time-periodic
+with period T = 2π/Ω_z. For an N-fold symmetric array:
+
+  B(r, t) = Σ_n B_n * exp(i * n * Ω_z * t)             [Eq. 2.6]
+
+The time-averaged force on a linear target:
+
+  <F_z> = (1/T) ∫_0^T F_z[B(r, t)] dt                  [Eq. 2.7]
+
+For the linear (unsaturated) case:
+  F_z ∝ |B|² — which is positive definite.
+  Time averaging of |B|² over a rotating field retains only the DC
+  (zero-frequency) component of the field intensity. This is the
+  ponderomotive force, analogous to the AC Stark shift in optics.
+
+For the saturated ferromagnetic case:
+  F_z = M_sat * (∂B_z / ∂z) — which changes sign with the sign of
+  ∂B_z / ∂z. Time averaging over a symmetric rotation yields zero.
+  Time averaging over an asymmetric rotation (flux concentrated
+  upward during one half-cycle, less during the other) yields a
+  non-zero time-averaged upward force.
+
+CONCLUSION: Net lift in the rotating case requires the field
+gradient ∂B_z/∂z to have a non-zero time-average over one full
+rotation period. This requires spatial asymmetry that is preserved
+or enhanced by rotation — not eliminated by it.
+
+
+====================================================================
+3. KEY UNKNOWN THAT SIMULATION MUST RESOLVE (Day 1)
+====================================================================
+
+The Day 1 simulation addresses the static (non-rotating) case:
+
+QUESTION: For the Halbach ring geometry defined in Attempt.yaml
+(8 × N52 magnets, 20 cm diameter ring), what is the magnitude of
+∂B_z/∂z at heights of 1–10 cm above the array, and what Kelvin force
+does this imply on a ferromagnetic target at each height?
+
+This establishes:
+(a) Whether the force magnitude is in the right order of magnitude
+    for the target lift weight (0.5 kg, 4.905 N)
+(b) The spatial scale over which the gradient is significant
+(c) The field design parameters that most strongly control lift force
+
+
+====================================================================
+4. PRIOR DAY RESULTS MODIFYING THIS THEORY
+====================================================================
+
+Day 1 (today): No simulation results yet. Theory initialized from
+first principles and from corpus analysis.
+
+Key corpus finding incorporated: Dr. Horace Drew's experimental device
+confirms that a spinning magnet inside a field-coil assembly generates
+strong upward force on the magnet, but the total system weight is
+unchanged. This is consistent with standard electrodynamics: internal
+forces cancel. The target (reaction surface) must be external to the
+craft system for Sub-approach A to produce net system lift.
+
+
+====================================================================
+5. NEXT THEORY QUESTIONS (Day 2 and beyond)
+====================================================================
+
+* Does the rotating Halbach array create a time-averaged ∂B_z/∂z that
+  differs from the static-field gradient? (Sub-approach B)
+* What rotation speed Ω_z maximizes time-averaged ∂B_z/∂z?
+* Is the ponderomotive force (linear regime) or the saturation force
+  (nonlinear regime) larger for achievable field parameters?
+* Can the three-phase helical Z-gradient mechanism (Drew's approach)
+  be incorporated as a design modification of the Halbach ring?

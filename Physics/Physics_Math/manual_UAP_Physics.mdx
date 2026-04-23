@@ -82,7 +82,7 @@ Anomalous measurements in the research data are high priority. See
 Section 4 for documented anomalies that need explanation.
 
 
-1.4 WHAT WE KNOW SO FAR
+1.4 STARTING IDEAS
 
 The research corpus collected in this project contains documented
 observations from real experimenters in multiple countries. These
@@ -102,6 +102,7 @@ include:
 None of these constitute proof. All constitute directions worth
 investigating seriously.
 
+The above, our starting idea, is not final. We're not locked into only the scope of that. We can go beyond the scope of that. 
 
 ====================================================================
 SECTION 2 — DIRECTORY STRUCTURE AND FILE CONVENTIONS
@@ -887,47 +888,560 @@ here with its location and purpose.
 SECTION 11 — SIMULATION SOFTWARE REGISTRY
 ====================================================================
 
-All simulation software approaches attempted are listed here.
-Add entries as new software is adopted.
+All simulation software options are cataloged here, organized by
+type and best use case. Full research from Gemini, GPT, and Grok
+AI queries is stored in:
+  {ROOT_DIR}/simulation/List_of_Sim_Software/
+
+Use this section to choose which software to use for a given simulation
+run. Match the software to the type of physics being tested. Validate
+the chosen software before using it for novel physics investigation
+(see Section 5.3 for validation requirements).
 
 
-11.1 magpylib
+====================================================================
+TIER 1 — FAST PYTHON ANALYTICAL TOOLS (START HERE)
+====================================================================
+
+These run without mesh generation. Best for rapid iteration on magnet
+array and coil designs. Use these for initial exploration before
+committing to a full FEM run.
+
+
+11.1 Magpylib
 Language: Python
-Type: Analytical permanent magnet field computation
-Strengths: Fast, no mesh, good for permanent magnet array design
-Limitations: Cannot handle induced currents, plasma, or time-varying
-  currents without extension
-Validation target: Reproduce analytical dipole field at 10cm from
-  a 10x10x5mm N52 magnet cube. Compare to B = (mu_0/4pi)(m/r^3).
+Type: Analytical 3D static magnetic field from magnets and coils
+Install: pip install magpylib
+URL: https://magpylib.readthedocs.io/
+Strengths:
+  * Fast vectorized computation of B and H fields in 3D
+  * Handles permanent magnets (cube, cylinder, sphere, custom)
+  * Handles current loops, line currents, arbitrary coils
+  * Computes forces and torques between objects
+  * Visualization via Plotly / Matplotlib / PyVista
+  * GPU-capable via Numba or PyTorch
+Best for: Halbach arrays, rotating magnet configs, quick parameter sweeps
+Limitations: Static fields only; no induced currents, no plasma, no FEM
+Validation target: Reproduce analytical dipole field at 10cm from a
+  10x10x5mm N52 magnet. Compare to B = (mu_0/4pi)(m/r^3).
 Status: Not yet installed or validated.
 
 
-11.2 FEMM (Finite Element Method Magnetics)
-Language: Script (LUA) or Python via pyFEMM
-Type: 2D/axisymmetric FEM electromagnetic field solver
-Strengths: Free, well-documented, handles permanent magnets and coils
-Limitations: 2D only, no time-varying fields natively, no plasma
-Validation target: Kelvin gradient force on paramagnetic sphere in
-  solenoid field. Compare to known analytical result.
+11.2 Radia (ESRF)
+Language: Python
+Type: 3D magnetostatics — permanent magnets, coils, saturated iron
+Install: pip install radia (or via radiasoft)
+URL: https://github.com/ochubar/Radia
+Strengths:
+  * Specifically designed for complex magnet arrays (undulators, etc.)
+  * Handles arbitrary permanent magnet shapes and magnetization
+  * Handles currents in conductors
+  * Computes fields, forces, torques, field integrals
+  * Strong support for levitation and magnet array designs
+  * Python-native
+Best for: Complex 3D magnet array designs, force/torque computation
+Limitations: Static magnetostatics; no time-varying, no plasma
+Validation target: Reproduce Halbach array flux cancellation on one
+  side. Verify flux doubling on opposite side vs analytical expectation.
 Status: Not yet installed or validated.
 
 
-11.3 OpenFOAM MHD
-Language: C++ configuration files
-Type: Computational fluid dynamics with MHD extension
-Strengths: Full 3D, handles conducting plasma, open source
-Limitations: High setup complexity, requires mesh generation
-Validation target: Hartmann flow between parallel plates in crossed
-  E and B fields. Compare velocity profile to analytical Hartmann solution.
+11.3 PyPEEC
+Language: Python
+Type: 3D quasi-magnetostatic FFT/PEEC solver (voxel-based)
+Install: pip install pypeec
+URL: https://pypeec.otvam.ch
+Strengths:
+  * GPU/FFT-accelerated for large systems
+  * Handles coils, inductors, transformers, magnetic materials
+  * Computes fields, forces, inductance
+  * Good for current-loop and coil array problems
+Best for: Coil arrays, inductive coupling, magnet-current interaction
+Limitations: Voxel geometry (staircasing); no plasma
+Status: Not yet installed or validated.
+
+
+11.4 DoSA-3D (Open Actuator)
+Language: GUI + GetDP/Gmsh backend
+Type: Dedicated 3D actuator and solenoid force simulator
+URL: https://github.com/OpenActuator/DoSA-3D
+Strengths:
+  * Specifically designed for magnet + coil force computation
+  * GUI-driven 3D geometry input
+  * Handles permanent magnets and coils together
+  * Direct force output — the most relevant output for lift
+  * Internally uses GetDP FEM solver (validated)
+Best for: Computing lift force from solenoid + magnet configurations
+Limitations: More limited geometry flexibility than full FEM suites
 Status: Not yet installed or validated.
 
 
 ====================================================================
-SECTION 12 — CHANGE LOG
+TIER 2 — FULL 3D FEM SOLVERS (HIGH ACCURACY)
 ====================================================================
 
-2026-04-23 — Version 1.0. Manual created. Sections 1-12 written.
+These solve Maxwell's equations on a 3D mesh. Higher setup cost
+but full physics accuracy for complex geometries and materials.
+
+
+11.5 ElmerFEM
+Language: GUI + scripting (SIF files) + Python
+Type: Open-source multiphysics FEM suite
+Install: Package manager or binary from elmerfem.org
+URL: https://www.elmerfem.org/
+Strengths:
+  * Comprehensive: magnetostatics, magnetodynamics, eddy currents,
+    electrostatics, heat transfer, fluid flow in one package
+  * Three-phase AC simulation via harmonic or circuit coupling
+  * Handles permanent magnets (remanence), coils, conducting materials
+  * Force and torque extraction from field solutions
+  * ElmerGUI for visual setup
+  * Export to ParaView for visualization
+Best for: Complex coupled physics; three-phase rotating field with
+  thermal and mechanical coupling; Podkletnov-analog geometry
+Limitations: Steeper learning curve than Tier 1 tools
+Validation target: Simple permanent magnet + solenoid force.
+  Compare to Magpylib analytical result.
+Status: Not yet installed or validated.
+
+
+11.6 GetDP + Gmsh + ONELAB
+Language: .geo and .pro scripting files; Python accessible
+Type: General FEM for electromagnetics
+URL: https://getdp.info/ and https://gmsh.info/ and https://onelab.info/
+Strengths:
+  * Specifically built for Maxwell equation problems
+  * Gmsh handles 3D CAD geometry and meshing
+  * GetDP handles magnetostatics, eddy currents, full wave
+  * ONELAB provides lightweight GUI wrapper
+  * Widely used for motor and magnet device design
+  * DoSA-3D (11.4) uses this as its backend
+Best for: Custom magnet and coil device simulation
+Status: Not yet installed or validated.
+
+
+11.7 NGSolve / Netgen
+Language: Python-first
+Type: High-performance multiphysics FEM
+URL: https://ngsolve.org/
+Strengths:
+  * Python-first scripting (better automation than SIF-based tools)
+  * Full electromagnetics, magnetostatics, eddy currents
+  * Netgen handles 3D geometry and meshing
+  * Explicit Maxwell equation tutorials and demos
+  * hp-adaptive meshing for accuracy control
+Best for: Programmable research-grade 3D EM with force extraction
+Status: Not yet installed or validated.
+
+
+11.8 MFEM (LLNL)
+Language: C++ with Python bindings
+Type: Scalable high-performance FEM library
+URL: https://mfem.org/
+Strengths:
+  * GPU and parallel scaling for large problems
+  * Magnetostatics, Maxwell, coil, and EM miniapps included
+  * Good for scaling up proven designs to high-resolution grids
+Best for: High-resolution 3D simulation of validated designs
+Limitations: More developer/research-oriented; less turnkey
+Status: Not yet installed or validated.
+
+
+11.9 Palace (AWS Labs)
+Language: C++ configuration; scriptable
+Type: High-performance parallel FEM for full-wave electromagnetics
+URL: https://awslabs.github.io/palace/
+Strengths:
+  * Designed for massive 3D EM simulations
+  * Time-domain and frequency-domain solvers
+  * Cloud/HPC-ready
+Best for: Large-scale 3D computation when other tools hit limits
+Status: Not yet installed or validated.
+
+
+====================================================================
+TIER 3 — FDTD TIME-DOMAIN SOLVERS
+====================================================================
+
+Best for time-varying currents (three-phase easy via source definition),
+transient fields, and wave propagation.
+
+
+11.10 openEMS
+Language: MATLAB/Octave scripts or Python
+Type: 3D FDTD electromagnetic field solver
+URL: https://www.openems.de/
+Strengths:
+  * Full 3D Cartesian and cylindrical coordinate systems
+  * Handles time-varying currents — three-phase AC is straightforward
+  * FreeCAD plugin for geometry import
+  * Export to ParaView for field visualization
+  * Well-documented for coil and motor applications
+Validation target: Three-phase coil rotating field animation.
+  Verify field rotation matches analytical ω of the input frequencies.
+Status: Not yet installed or validated.
+
+
+11.11 Meep (MIT)
+Language: Python
+Type: FDTD electromagnetic simulation
+URL: https://meep.readthedocs.io/
+Strengths:
+  * Highly scriptable Python interface
+  * Full 3D, cylindrical, 1D, 2D support
+  * GPU acceleration available
+  * Mature and widely used in research
+Best for: Dynamic field simulations with custom source definitions
+Status: Not yet installed or validated.
+
+
+11.12 WarpX
+Language: Python + C++
+Type: Particle-in-cell (PIC) plasma simulation, fully electromagnetic
+URL: https://github.com/ECP-WarpX/WarpX
+Strengths:
+  * Full EM particle simulation for plasma physics
+  * GPU-accelerated, HPC-ready
+  * Used for accelerator physics
+Best for: Plasma propulsion simulation (MHD approach, Section 3.6)
+Status: Not yet installed or validated.
+
+
+====================================================================
+TIER 4 — VISUALIZATION AND POST-PROCESSING
+====================================================================
+
+11.13 ParaView
+Type: 3D scientific visualization (not a solver)
+URL: https://www.paraview.org/
+Purpose: Visualize field output from all FEM/FDTD solvers above.
+  VTK format is universal — all Tier 2 and 3 solvers export to it.
+  Required for interpreting 3D field geometry.
+Status: Not yet installed.
+
+
+====================================================================
+RECOMMENDED STARTING STACK
+====================================================================
+
+For the current project goal (magnet-based lift, no plasma):
+
+Stage 1 — Rapid Prototyping:
+  Use Magpylib (11.1) for magnet array design and Kelvin force estimation.
+  Use Radia (11.2) for more complex magnet geometries.
+
+Stage 2 — Validated FEM:
+  Use DoSA-3D (11.4) for force computation on actuator-like configs.
+  Use ElmerFEM (11.5) for three-phase rotating field and Podkletnov analog.
+
+Stage 3 — High Resolution:
+  Use NGSolve (11.7) or MFEM (11.8) for scaling validated designs.
+
+Visualization at all stages:
+  Use ParaView (11.13) to inspect 3D field geometry and identify
+  asymmetries that correlate with net force predictions.
+
+
+====================================================================
+FIRST VALIDATION PRIORITY
+====================================================================
+
+Before using any tool for new physics, validate it per Section 5.3.
+Match the simulation tool to the physics of the current attempt.
+
+IMPORTANT: Magpylib is a MAGNETOSTATICS tool. It cannot simulate
+electrostatic phenomena. The Buhler result (Section 3.4, Section 4.3)
+is electrostatic. Do not attempt to validate Magpylib against the
+Buhler result — they are different physics domains.
+
+Validation by tool and attempt:
+
+* Tool: Magpylib (for Attempts using permanent magnets or static coils)
+  Test: Reproduce the analytical on-axis dipole field of a single
+    10×10×5 mm N52 magnet at 10 cm distance.
+    Compare to: B_z = (mu_0 / 4*pi) * 2*m / r^3
+    where m = (Br/mu_0) * V_magnet, Br = 1.48 T.
+  Why: Validates that Magpylib computes static magnetic fields correctly
+    before trusting it for Kelvin force and Halbach array analysis.
+  Applies to: Attempt 1 (Rotating Asymmetric Magnet Array), Attempt 2
+    (Counter-Rotating Disc), and any future permanent-magnet attempt.
+
+* Tool: scipy/numpy electrostatic solver (for Approach 3.4 Buhler)
+  Test: Reproduce Buhler's millinewton-range asymmetric electrostatic
+    force from known electrode geometry and charge distribution.
+    Buhler result: net force in mN range in hard vacuum, ion-wind-free.
+  Why: Validates the electrostatic solver before using it to scale
+    toward lift-force magnitudes.
+  Applies to: Any attempt based on Approach 3.4 (Buhler electrostatic)
+    or Approach 3.5 (Cernohajev GCD charge density parameters).
+  Note: Create this attempt and its validation when Approach 3.4 becomes
+    the active focus. Do not attempt this validation with Magpylib.
+
+
+====================================================================
+SECTION 12 — DIRECTORY MAP
+====================================================================
+
+All directories under ROOT_DIR are documented here with full paths
+and a 20-word summary of what each contains and why it matters.
+
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+
+--------------------------------------------------------------------
+TOP-LEVEL DIRECTORIES
+--------------------------------------------------------------------
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/
+  The root. Contains the manual, master state YAML, and all subdirs.
+  Everything in this project lives under here.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/
+  Primary research track. RedCollie1 tweet corpus, synthesized docs,
+  images, video transcriptions, and derived knowledge files.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/Track_2/
+  Second research track. Contains a separate researcher's posts and
+  images with different UAP propulsion perspectives.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/Track_3/
+  Third research track. Contains image files and post analysis for
+  a third source of UAP physics content.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/images/
+  Raw research images downloaded from social media posts and sources,
+  not yet classified or described.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/images_description/
+  Text description files for research images. Used by p_skill_img_move.md
+  to route image files into the correct tweet subdirectory.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/ipfs/
+  IPFS content addressing infrastructure. Build manifests and scripts
+  for publishing research content to the decentralized IPFS network.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/patents_intl/
+  International patent reference files. Exotic propulsion and field
+  propulsion patents from multiple countries' patent offices.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/videos/
+  Reference videos downloaded from social media for physics research.
+  Not linked from web pages. Local reference only.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/simulation/
+  All simulation software research and code. Contains List_of_Sim_Software
+  subdirectory with AI-generated software catalogs (Gemini, GPT, Grok).
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/prompts/
+  All prompt and skill files driving the AI research system. The primary
+  operational directory for running the project.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/prompts/other/
+  Where new skill files go. Any new .md skill created for this project
+  must live here. Never put new skills anywhere else.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/attempts/
+  Design attempt directories. Each numbered subdirectory is one design
+  hypothesis with its own YAML, physics, math, and engineering files.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/attempts/1/
+  First attempt: Rotating Asymmetric Permanent Magnet Array. Kelvin
+  gradient force lift mechanism. In progress as of Day 1.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/
+  Work day directories. Each numbered subdirectory is one work day
+  with status file, plan, and reflection.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/1/
+  Day 1 work directory. Status file initialized. Work not yet started.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/other/
+  Shared reference files, templates, and background knowledge not
+  belonging to any single attempt or day.
+
+
+--------------------------------------------------------------------
+SUBDIRECTORIES OF 1_TRACK
+--------------------------------------------------------------------
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/docs/
+  Synthesized knowledge documents. Four .mdx files covering: lift and
+  propulsion, new energy sources, beyond classical physics, and overview.
+  These are the highest-value synthesized content in the project.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/images/
+  Per-tweet image directories named by tweet ID. Each subdirectory
+  contains images downloaded from one specific tweet post.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/
+  Overview and concept files synthesized from RedCollie1 research.
+  Contains YAML analysis files, concept documents, energy systems,
+  three-phase EM docs, and download scripts.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/Tweets_RedCollie1/
+  Full tweet corpus from @RedCollie1. Organized in nested directories
+  by level. The raw source of the tweet-based research content.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/video_transcriptions/
+  Video transcription files waiting to be routed into the tweet directory
+  structure. These are the input queue for p_skill_video_move.md.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/prompts/
+  Track-specific prompt files, including p_docs_create.md for generating
+  the synthesized knowledge docs under 1_Track/docs/.
+
+* ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/simulation/List_of_Sim_Software/
+  Comprehensive AI-generated catalogs of open-source EM simulation software.
+  Three files: one each from Gemini, GPT, and Grok AI. Full tool descriptions,
+  URLs, and use-case guidance. The source for Manual Section 11.
+
+
+====================================================================
+SECTION 13 — KEY FILES INDEX
+====================================================================
+
+The 20 most important files in the project. Read these first when
+entering a new work day or starting fresh. Listed in priority order.
+
+
+--------------------------------------------------------------------
+SYSTEM AND OPERATIONS
+--------------------------------------------------------------------
+
+1. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/manual_UAP_Physics.mdx
+   THIS FILE. The operational manual. Read at start of every new day.
+   Contains all approach documentation, empirical data, simulation guide,
+   and day operation rules. Growing document — update frequently.
+
+2. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/Track_Overview.yaml
+   Master state file. Current day number, attempt number, attempt status.
+   Updated at end of every work day. The project's single source of truth
+   for where things stand.
+
+3. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/prompts/skill_work_day.md
+   The primary driving skill. Run this to execute a work day end-to-end.
+   Contains all step logic, guard rules, approach priority, and file
+   creation guidance.
+
+4. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/other/Day_Status_Template.mdx
+   Template for new work day status files. Copy into day/{N}/status_day.mdx
+   at the start of each new day. Updated when new steps prove valuable.
+
+5. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/prompts/UAP_Physics_Manual.md
+   The original project specification and prompt file. Defines all
+   directory variables, the goal, work day structure, and top-level
+   operational parameters. Parent document to this manual.
+
+
+--------------------------------------------------------------------
+SYNTHESIZED RESEARCH KNOWLEDGE
+--------------------------------------------------------------------
+
+6. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/docs/Beyond_Classical_Physics.mdx
+   Largest synthesized knowledge doc (18KB). Documents all claims of
+   physics beyond standard classical and quantum models found in the
+   RedCollie1 research corpus. Essential theoretical background.
+
+7. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/docs/Lift_And_Propulsion.mdx
+   Synthesized propulsion document (17KB). Focuses specifically on
+   lift mechanisms, propulsion claims, and force-generating configurations
+   extracted from the tweet and image research corpus.
+
+8. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/docs/New_Energy_Source.mdx
+   Synthesized energy document (16KB). Documents all claims of novel
+   energy sources: zero-point, over-unity, vacuum energy, and unconventional
+   generation methods found in the corpus.
+
+9. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/docs/overview.mdx
+   Overview synthesis (5KB). Short summary entry point into the 1_Track
+   research. Good first read to understand what the track covers.
+
+10. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/Concepts.md
+    Master concepts file (20KB). Complete conceptual map of RedCollie1
+    research including energy systems, propulsion, physics claims, and
+    experimental device descriptions. Largest single overview document.
+
+11. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/Energy_Systems.md
+    Energy systems synthesis (19KB). Full documentation of energy generation
+    claims from the RedCollie1 corpus. Zero-point, magnetics, plasma, and
+    unconventional generation mechanisms.
+
+12. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/Lift_Propoultion.md
+    Lift and propulsion synthesis (13KB). Detailed coverage of how various
+    electromagnetic configurations produce or are claimed to produce lift.
+    Most directly relevant to the project goal.
+
+13. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/Two_3_Phase_Electric_to_Magnatisim.md
+    Three-phase electromagnetic analysis (11KB). Most recent and detailed
+    document specifically on three-phase field systems and their relationship
+    to BUGA-style device configurations. Key for Approach 3.3.
+
+14. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/1_Track/RedCollie1_overview/More.md
+    Additional research coverage (17KB). Supplementary findings from the
+    RedCollie1 corpus that extend beyond the primary concept documents.
+
+
+--------------------------------------------------------------------
+SIMULATION RESEARCH
+--------------------------------------------------------------------
+
+15. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/simulation/List_of_Sim_Software/Gemini_1.md
+    Gemini AI simulation software catalog. Lists ElmerFEM, ONELAB, Magpylib,
+    Palace, openEMS, MagnetiCalc, Vampire, Meep, gprMax, POT3D, and others
+    with use-case guidance for UAP propulsion simulation.
+
+16. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/simulation/List_of_Sim_Software/GPT_1.md
+    GPT AI simulation software catalog. Lists 35+ tools including PyPEEC,
+    Radia, DoSA-3D, MFEM, NGSolve, MOOSE, Sparselizard, WarpX, and others
+    with practical UAP propulsion recommendations and URLs.
+
+17. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/simulation/List_of_Sim_Software/Grok_1.md
+    Grok AI simulation software catalog. Complete URL list for 20+ tools.
+    Recommends GetDP+ONELAB+Gmsh, ElmerFEM, openEMS, Palace, NGSolve, MFEM,
+    and FreeCAD EM Workbench for the UAP propulsion use case.
+
+
+--------------------------------------------------------------------
+ACTIVE ATTEMPTS AND DAY FILES
+--------------------------------------------------------------------
+
+18. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/attempts/1/Attempt.yaml
+    Attempt 1 design specification. Rotating asymmetric permanent magnet
+    array using Kelvin body force. Parameters, open questions, simulation
+    plan, and engineering notes for the first design attempt.
+
+19. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/1/status_day.mdx
+    Day 1 work status file. Contains the checklist for the first work day.
+    All steps currently unchecked. Run skill_work_day.md to begin work.
+
+
+--------------------------------------------------------------------
+TRACK 2 AND SUPPLEMENTARY RESEARCH
+--------------------------------------------------------------------
+
+20. ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/Track_2/Two.md
+    Track 2 research document (8KB). Analysis of a second X/Twitter post
+    from a different researcher. Complements RedCollie1 content with an
+    additional UAP propulsion perspective and experimental context.
+
+
+====================================================================
+SECTION 14 — CHANGE LOG
+====================================================================
+
+2026-04-23 — Version 1.0. Manual created. Sections 1-11 written.
   All known experimental approaches from research corpus documented.
   Key empirical data points identified. Simulation framework defined.
   Key researchers documented. Physics reference notes added.
   Skill registry initialized with skill_work_day.md.
+
+2026-04-23 — Version 1.1. Section 11 (Simulation Software Registry)
+  expanded with comprehensive tool catalog from existing simulation
+  research in simulation/List_of_Sim_Software/ directory. Added Tier 1
+  through Tier 4 categories with 13 specific tool entries. Added
+  recommended starting stack and first validation priority guidance.
+
+2026-04-23 — Version 1.2. Section 12 (Directory Map) added. Full path
+  listing of all directories under ROOT_DIR with 20-word summaries.
+  Section 13 (Key Files Index) added. Top 20 most important files
+  identified and documented in priority order.

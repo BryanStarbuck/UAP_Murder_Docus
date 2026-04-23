@@ -93,12 +93,18 @@ SIMULATION PASS (loop up to 10 times, stop at 10)
 
 SIMULATION_PASS_COUNT: 0
 
+[ ] Verify simulation library is installed; install if needed (pip install)
+      * Check: python3 -c "import <library>"
+      * If not installed: pip install <library>
+      * Tool must match attempt physics (magnetostatics vs. electrostatics vs. FEM)
+      * Do not proceed to code writing until the import succeeds
+
 [ ] Create any code needed to run the simulator
       * Place code in {ROOT_DIR}/simulation/{WHICH_SIMULATION_SOFTWARE}/software/
       * Language preference: Python, then JavaScript
       * Document inputs, outputs, and assumptions in a header comment block
 
-[ ] Run Tests in online digital simulator software
+[ ] Execute simulation code locally (run Python script via system interpreter; use Bash tool) and capture output
 
 [ ] Fix any code or configuration to make simulation tests work
       * Log each error and fix in sim_setup_day_{WORK_DAY_NUMBER}.mdx

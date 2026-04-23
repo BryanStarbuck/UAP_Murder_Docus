@@ -8,7 +8,7 @@ TRACK_OVERVIEW_YAML_FILE is file {ROOT_DIR}/Track_Overview.yaml
 DAY_STATUS_FILE_TEMPLATE is file {ROOT_DIR}/other/Day_Status_Template.mdx
 MANUAL_FILE is file {ROOT_DIR}/manual_UAP_Physics.mdx
 ATTEMPTS_DIR is dir {ROOT_DIR}/attempts
-DAYS_DIR is dir {ROOT_DIR}/days
+DAY_DIR is dir {ROOT_DIR}/day
 
 
 ====================================================================
@@ -303,6 +303,13 @@ File: {ATTEMPTS_DIR}/{ATTEMPT_NUMBER}/sim_setup_day_{DAY_NUMBER}.mdx
 
 Before running a simulation:
 * Check Manual Section 11 (Simulation Software Registry)
+* Select the simulation tool appropriate for the physics of the current attempt:
+  * Rotating/static magnetic fields → Magpylib or Radia (magnetostatics)
+  * Electrostatic thrust (Approach 3.4) → scipy/numpy electrostatic solver
+  * Full 3D FEM (complex geometry) → ElmerFEM or GetDP
+  * NEVER use a magnetostatics tool (Magpylib) to simulate electrostatics
+* Verify the chosen simulation library is installed: run `python3 -c "import <package>"`.
+  If not installed, run `pip install <package>` before proceeding. Do not skip this.
 * Has the chosen software been validated yet?
   * If NO: run the validation case first (see Manual Section 5.3)
   * If YES: proceed to the main simulation setup
