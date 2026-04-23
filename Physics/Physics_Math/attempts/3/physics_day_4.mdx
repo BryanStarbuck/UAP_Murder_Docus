@@ -1,0 +1,326 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PHYSICS ANALYSIS — Day 4 (2026-04-23)
+Attempt: 3 (BUGA_Three_Phase_Rotating_Field)
+====================================================================
+
+
+====================================================================
+1. PHYSICS QUESTION FOR TODAY
+====================================================================
+
+Three physics questions investigated:
+
+QUESTION 4A: What is the spatial structure of the rotating B-field produced
+by three coil assemblies at 120-degree intervals? Is the time-averaged |B|²
+axially asymmetric (different above vs. below the coil plane)?
+
+QUESTION 4B: What is the time-averaged Kelvin force on a toroidal ferrite
+placed below the coil plane? Is it an internal force (reaction on coils
+equal and opposite) or a net external force on the device?
+
+QUESTION 4C: What is the time-averaged electromagnetic momentum flux through
+the horizontal planes above and below the device? Is there a net axial
+momentum flux that could produce a sustained force?
+
+EDGE SINGULARITY CHECK: No conductor edge singularities are relevant for
+this attempt. The geometry is all-magnetic (coils, ferrite toroid). No
+conductor edges with electrostatic singularities. BEM not required.
+
+
+====================================================================
+2. ROTATING THREE-PHASE FIELD — DETAILED DERIVATION
+====================================================================
+
+2.1 SETUP
+
+Three circular coil loops in the z = h_c plane (h_c = 3 cm above toroid).
+Each coil has radius a = 5 cm, N = 100 turns, current I₀ = 1 A.
+Azimuthal positions: φ_k = 2πk/3 for k = 0, 1, 2.
+Coil centers at: r_k = (R_array cos φ_k, R_array sin φ_k, h_c)
+where R_array = 5 cm (distance from z-axis to coil center).
+
+Current in coil k:
+    I_k(t) = I₀ cos(ωt - 2πk/3)
+
+The coils are oriented so their magnetic axes are perpendicular to their
+planes. For horizontal coils (lying in the xy-plane), the magnetic moment
+of coil k is:
+    m_k(t) = N I_k(t) π a² ẑ
+
+This gives a field pointing vertically from each coil.
+
+2.2 BIOT-SAVART INTEGRAL
+
+For circular coil k at position r_k = (x_k, y_k, h_c) with axis ẑ, the
+magnetic field at point r = (x, y, z) is:
+
+    B_k(r) = (μ₀ N I₀)/(4π) ∮ dl' × (r - r') / |r - r'|³
+
+where the integral runs over the coil loop. In cylindrical symmetry about
+the coil axis:
+
+    B_{k,r}(ρ_k, z_k) = (μ₀ N I₀)/(2π a) * (z_k / √(ρ_k² + z_k²)) * f_r(ρ_k/a, z_k/a)
+    B_{k,z}(ρ_k, z_k) = (μ₀ N I₀)/(2π a) * f_z(ρ_k/a, z_k/a)
+
+where ρ_k = |r - r_k|_⊥ (transverse distance from coil k's axis) and
+z_k = z - h_c (height above coil k), and f_r, f_z are dimensionless
+field shape functions expressible in terms of complete elliptic integrals K(k)
+and E(k):
+
+    f_z = (1/π) √(a/(ρ² + (z-h_c)²)) [(K(k_mod) - E(k_mod)(a² - ρ² - z_k²)/Δ²)]
+
+with k_mod = 2√(a ρ) / √((a+ρ)² + z_k²) and Δ² = (a+ρ)² + z_k².
+
+For numerical computation, the field is computed via direct Biot-Savart
+discretization (dl parameterized as dl = a dφ' (-sin φ', cos φ', 0)).
+
+2.3 TIME STRUCTURE OF THE TOTAL FIELD
+
+B(r, t) = Σ_{k=0}^{2} B_k^{static}(r) cos(ωt - 2πk/3)
+
+Components (Cartesian):
+    B_x(r,t) = Σ_k B_{k,x}^{static}(r) cos(ωt - 2πk/3)
+    B_y(r,t) = Σ_k B_{k,y}^{static}(r) cos(ωt - 2πk/3)
+    B_z(r,t) = Σ_k B_{k,z}^{static}(r) cos(ωt - 2πk/3)
+
+Time average of products: <cos(ωt - φ_j) cos(ωt - φ_k)> = (1/2) δ_{jk}
+(orthogonality for different phases).
+
+Therefore:
+    <B_x²> = (1/2) Σ_k (B_{k,x}^{static})²
+    <B_y²> = (1/2) Σ_k (B_{k,y}^{static})²
+    <B_z²> = (1/2) Σ_k (B_{k,z}^{static})²
+    <|B|²> = (1/2) Σ_k |B_k^{static}|²
+
+For identical coils at 120° intervals, the azimuthal average of Σ_k |B_k^{static}(r)|²
+is 3 * |B^{single}_k(r)|² (same magnitude by symmetry). Therefore:
+
+    <|B(r)|²> = (3/2) |B^{single}(r)|²
+
+The time-averaged field strength is √(3/2) times the peak single-coil field.
+
+ROTATING CHARACTER: At any fixed point r in the equatorial plane of the coil
+array, the field vector B(r,t) traces an ellipse in time (in general). On the
+axis of symmetry (r = 0), by symmetry B = B_z ẑ and the field is purely axial
+and oscillating (not rotating). The rotating character is most pronounced in
+the azimuthal direction at intermediate radii.
+
+2.4 TIME-AVERAGED |B|² ALONG THE z-AXIS
+
+On the symmetry axis (ρ = 0), each coil contributes only a z-component:
+
+    B_{k,z}^{static}(z) = (μ₀ N I₀ a²) / (2 ((z-h_c)² + a² + (x_k²+y_k²))^{3/2}) * (correction for off-axis coil)
+
+For coils displaced from the axis by R_array = a = 5 cm, the on-axis field
+is reduced compared to an on-axis coil. The three coils add coherently
+(same z-direction). Therefore:
+
+    <B_z²(0,z)> = (3/2) |B_z^{single}(0,z)|²
+
+This is larger above the coil plane (where all three coils converge their
+fields toward the axis) than below. The asymmetry creates a Kelvin force
+gradient.
+
+2.5 FARADAY-INDUCED ELECTRIC FIELD
+
+∇ × E = -∂B/∂t = ω Σ_k B_k^{static}(r) sin(ωt - 2πk/3)
+
+For the rotating component in the azimuthal direction:
+    E_φ ≈ -ω ∫_0^ρ B_z^{avg}(ρ', z) ρ' dρ'  [from ∂B_z/∂t Faraday]
+
+At 60 Hz and B₀ = 1 mT (for I₀ = 1 A, 100 turns, a = 5 cm):
+    |E_induced| ≈ ω ρ B_0 = 2π * 60 * 0.1 * 1e-3 ≈ 3.8e-2 mV/m
+
+This induced E is extremely small. The electromagnetic momentum density:
+    |g_EM| = ε₀ |E × B| ≈ ε₀ * 3.8e-5 * 1e-3 ≈ 3.4e-19 kg/(m²·s)
+
+Force = d/dt ∫ g_EM dV ≈ ω * 3.4e-19 * 1e-3 ≈ 1.3e-22 N
+
+This is negligibly small (22 orders of magnitude below 1 N). The quasi-static
+EM momentum mechanism is inoperative at 60 Hz.
+
+
+====================================================================
+3. KELVIN FORCE ON TOROIDAL FERRITE — DETAILED ANALYSIS
+====================================================================
+
+3.1 GEOMETRY
+
+Toroidal ferrite: inner radius a_i = 3 cm, outer radius a_o = 8 cm,
+height h_t = 2 cm. Material: soft ferrite, μ_r = 2000, χ_m = 1999.
+Position: centered at z = 0 (coils at z = h_c = 3 cm above top face of toroid).
+
+3.2 FORCE DENSITY
+
+For linear ferrite in quasi-static limit (magnetostatics, μ_r = const):
+
+    f(r) = μ₀ (M · ∇)H = (μ₀ χ_m / 2) ∇(|H|²)
+
+    f_z(r) = (μ₀ χ_m / 2) ∂|H|²/∂z
+
+3.3 NET FORCE INTEGRAL
+
+    F_z = ∫_V f_z(r) dV = (μ₀ χ_m / 2) ∫_V ∂|H|²/∂z dV
+
+Using the divergence theorem on the scalar function |H|²:
+    ∫_V ∂|H|²/∂z dV = ∮_∂V |H|² n_z dA = ∫_{top} |H|² dA - ∫_{bottom} |H|² dA
+
+Since the coils are above the toroid:
+    |H|²_{top face} > |H|²_{bottom face}
+
+Therefore F_z > 0 (upward force on toroid). This is the ATTRACTIVE force
+pulling the toroid toward the field source (the coils above it).
+
+3.4 REACTION FORCE ON COILS
+
+By Newton's third law, the force on the coils from the toroid is:
+    F_{coils,z} = -F_{toroid,z}  (downward)
+
+Both forces are internal to the device frame. The net external force on the
+device = F_{toroid} + F_{coils} = 0.
+
+This is the same conclusion as for the hemisphere-on-ground-plane (Attempt 2):
+internal forces between components of a rigidly mounted device cancel exactly.
+
+3.5 THE ROLE OF SATURATION
+
+At high fields (μ₀ H > B_sat ≈ 0.3 T for typical ferrite), the toroid saturates.
+Above saturation: M → M_sat = const, χ_m → 0. The Kelvin force drops to zero
+when the toroid is fully saturated. This means there is an OPTIMAL current
+I* that maximizes F_Kelvin: too little current gives small H and small force;
+too much saturates the ferrite and force drops again.
+
+For a_o = 8 cm, N = 100 turns, I* ≈ B_sat / (μ₀ μ_r N/h_coil) ≈ 0.3 / (1e-6 * 2000 * 1e4) ≈ 15 mA
+
+At I₀ = 1 A (our design), H_at_toroid ≈ N I₀ a² / (2(h_c² + a²)^{3/2}) * correction ≈ 100 A/m
+    B_in_ferrite = μ₀ μ_r H ≈ 1.26e-6 * 2000 * 100 ≈ 0.25 T  → near saturation
+
+This means the 1 A coil current at 100 turns is in the saturation regime for μ_r = 2000.
+The actual force is less than the linear χ_m estimate. Full calculation requires
+the nonlinear B-H curve for the specific ferrite grade.
+
+
+====================================================================
+4. ELECTROMAGNETIC MOMENTUM FLUX ANALYSIS
+====================================================================
+
+4.1 MOMENTUM DENSITY FROM FARADAY'S LAW
+
+The time-averaged Poynting vector:
+    <S_z> = <(E × H)_z> = <E_x H_y - E_y H_x>
+
+For the rotating field, the induced E is azimuthal (E_φ). In Cartesian:
+    E_x = -E_φ sin φ,  E_y = E_φ cos φ
+
+H_x = H_x^{rotating}(r,t),  H_y = H_y^{rotating}(r,t)
+
+The time average involves products of trigonometric functions. For the
+three-phase rotating field:
+
+    <E_x H_y - E_y H_x> = <E_φ (cos φ H_x + sin φ H_y)>
+
+where E_φ is the Faraday-induced azimuthal field. The cross product involves
+the azimuthal component of H times E_φ. For an axially symmetric coil array,
+<H_φ> = 0 (the azimuthal field cancels by symmetry). The dominant H is in
+the ρ-z plane (H_ρ, H_z components). Since E_φ ∝ ∂B_z/∂t and H_ρ ∝ ∂A_φ/∂z,
+the cross product <E_φ H_ρ> ≠ 0 in principle.
+
+For the specific time structure of the rotating field:
+    E_φ(r,t) = E_φ^{amp}(r) sin(ωt - φ_E(r))
+    H_ρ(r,t) = H_ρ^{amp}(r) cos(ωt - φ_H(r))
+
+    <E_φ H_ρ> = (E_φ^{amp} H_ρ^{amp}/2) sin(φ_E - φ_H)
+
+This is the reactive (quadrature) Poynting component — it oscillates at 2ω
+but has nonzero time average only if the E and H phases differ.
+
+For the rotating coil field: E_φ lags H_z by π/2 (Faraday induction), so
+φ_E - φ_H = π/2 for the azimuthal components. The time-averaged axial
+Poynting flux is:
+
+    <S_z>|_{z=+H} = ∫_ρ ρ dρ dφ * (1/μ₀) <(E × B)_z>
+
+This integral is nonzero. However, as shown in Section 2.5, the magnitude is
+<S_z> ≈ E_induced * H ≈ 3.8e-2 mV/m * 100 A/m * 4π×10^{-7} ≈ 4.8e-9 W/m²
+
+Force = <S_z>/c ≈ 1.6e-17 N — completely negligible.
+
+4.2 CONCLUSION ON EM MOMENTUM
+
+At 60 Hz, the EM momentum mechanism produces forces 17+ orders of magnitude
+below 1 N. This mechanism is irrelevant for practical propulsion at power-line
+frequencies. It would become relevant at:
+  * f ~ 1 GHz: force scales as f², improvement of 10^{14} from 60 Hz → ≈ 10^{-3} N
+  * f ~ 10 GHz (microwave): ≈ 0.1 N potentially achievable at high power
+
+The BUGA device operates at power-line frequency (observed from the AC connection
+in the images). This rules out the EM momentum mechanism as the source of the
+anomalous scale readings.
+
+
+====================================================================
+5. INTERPRETATION OF THE BUGA SCALE READINGS
+====================================================================
+
+5.1 WHAT THE SCALE READINGS TELL US
+
+Scale image 1 (13_1912715675791159296): 0.12 kg — advanced construction stage
+  with large toroidal element and three disc assemblies fully assembled.
+Scale image 2 (13_1964248354038435843): 0.058 kg — different build stage
+  with dark disc assemblies in hexagonal arrangement, fewer components visible.
+
+Two interpretations:
+
+INTERPRETATION A — Different construction stages (different mass):
+  The 0.12 kg reading includes the toroidal ferrite element (added late in
+  construction). The 0.058 kg reading is from an earlier stage without
+  the toroid. The 62 g difference = mass of toroidal ferrite element.
+  Ferrite density ρ ≈ 4.8 g/cm³. For a toroid of dimensions seen in images:
+  outer R ≈ 10 cm, inner R ≈ 5 cm, height ≈ 2 cm:
+    V_toroid = π (R_o² - R_i²) * h = π (0.01 - 0.0025) * 0.02 ≈ 4.7e-4 m³
+    m_toroid = 4800 * 4.7e-4 ≈ 2.3 kg — far too large.
+  More realistic (from actual device visible size, R_o ≈ 8 cm, R_i ≈ 3 cm, h ≈ 1 cm):
+    V_toroid = π (0.0064 - 0.0009) * 0.01 ≈ 1.73e-4 m³
+    m_toroid = 4800 * 1.73e-4 ≈ 0.83 kg — still larger than the 62 g difference.
+  Interpretation A is plausible only if the toroid is small plastic-encased
+  ferrite (not a large solid block), mass ~50-100 g.
+
+INTERPRETATION B — Same component measured before and during/after operation:
+  This would imply 52% mass reduction under EM operation — physically extraordinary.
+  Conventional EM forces cannot produce this. Kelvin force is internal (net 0).
+  EM momentum at 60 Hz ≈ 10^{-22} N. Thermal effects could explain partial
+  readings if the coils are hot and the scale drifts, but not 52%.
+
+INTERPRETATION C — Scale uncertainty or different scale modes:
+  If scale 1 is in kg and scale 2 is in different units or showing a partial
+  reading (e.g., "058" could be 0.58 kg, not 58 g), the two readings could
+  reflect a much larger or smaller difference.
+  0.12 kg vs. 0.580 kg: then scale 2 reads MORE (added toroid), consistent
+  with Interpretation A.
+
+5.2 MOST LIKELY INTERPRETATION
+
+The two scale readings represent different build stages at different total
+masses. The 62 g difference is explained by a small ferrite core or structural
+element added between the two measurement sessions. There is NO evidence of
+active electromagnetic operation at the time of the scale measurements —
+both images appear to show the device at rest (no blurred rotor, no glowing
+discharge). The anomalous mass reduction hypothesis requires the measurements
+to be taken during active operation, which is not confirmed by the images.
+
+CONCLUSION: The BUGA scale readings do NOT constitute confirmed evidence of
+anomalous mass reduction. They are consistent with ordinary mass differences
+between construction stages. This is an important de-escalation of the
+empirical priority of Section 4.1.
+
+The BUGA device remains worth simulating because:
+  * The construction is detailed and shows genuine electromagnetic engineering
+  * The material degradation confirms real high-power operation
+  * The rotating rotor + toroidal ferrite + three-phase coil architecture is
+    a specific design with a testable physics mechanism
+  * Even if the scale readings are mundane, the device may still produce
+    measurable (if small) forces via the mechanisms analyzed above
+
+The Day 4 simulation will establish the classical EM baseline force values.

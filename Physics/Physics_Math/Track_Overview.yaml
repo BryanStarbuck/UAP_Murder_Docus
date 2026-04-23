@@ -2,14 +2,14 @@ project: UAP Magnet-Based Propulsion Research
 goal: Design and simulate a magnet-based craft that achieves lift and flight
 started: 2026-04-23
 
-current_day: 3
-current_attempt: 2
+current_day: 4
+current_attempt: 3
 
 state:
-  active_attempt: 2
-  last_completed_day: 2
+  active_attempt: 3
+  last_completed_day: 3
   day_in_progress: null
-  total_attempts: 2
+  total_attempts: 3
 
 attempts:
   1:
@@ -24,14 +24,25 @@ attempts:
   2:
     name: Asymmetric_Electrostatic_Pressure_Thrust
     started: 2026-04-23
+    status: secondary
+    summary: >
+      Asymmetric electrostatic pressure on conductor surface produces near-surface
+      hover force. Buhler (NASA Kennedy) confirmed. Day 3 findings: Legendre series
+      DIVERGES at rim singularity (Day 2 F_z = 9.50 mN is lower bound). Cone
+      geometry alpha=30 deg optimal: C_eff = 33.56 m, V_lift = 128 kV (3.1x
+      hemisphere). CRITICAL LIMITATION: isolated conductor F_net = 0. External
+      ground plane required. Free-flight NOT viable. Near-surface hover (H < 5R)
+      viable. BEM validation needed for accurate force value (Day 7+).
+  3:
+    name: BUGA_Three_Phase_Rotating_Field
+    started: 2026-04-24
     status: active
     summary: >
-      Asymmetric electrostatic pressure distribution on a conductor body produces
-      net thrust in vacuum. Based on Buhler (NASA Kennedy) experimental result.
-      scipy/numpy electrostatic Maxwell stress tensor solver. Day 2 result:
-      F_z = 9.50 mN at 10 kV (POSITIVE). Geometry factor C = 10.73.
-      Lift voltage for 0.5 kg = 227 kV in vacuum. Feasible below field emission.
-      Scaling F_z ~ V^2 confirmed exactly. ACTIVE, positive progress.
+      Three-phase rotating electromagnetic field above toroidal ferrite circuit.
+      Based on BUGA orb-sphere device (documented anomalous mass readings: 0.12 kg
+      to 0.058 kg). Podkletnov-analog at room temperature. Time-varying field
+      carries electromagnetic angular momentum; redistribution may produce linear
+      force. Does not require external ground plane. Approach 3.3 in manual.
 
 days:
   1:
@@ -39,12 +50,22 @@ days:
     status: complete
     attempt_focus: 1
     reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/1/reflection_day_1.mdx
+    key_result: Sub-approach A (Kelvin force) eliminated — direction always downward. EDS pending.
   2:
     started: 2026-04-23
     status: complete
     attempt_focus: 2
     reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/2/reflection_day_2.mdx
     key_result: F_z = 9.50 mN at 10 kV; geometry factor C = 10.73; V_lift = 227 kV in vacuum
+  3:
+    started: 2026-04-23
+    status: complete
+    attempt_focus: 2
+    reflection_file: ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math/day/3/reflection_day_3.mdx
+    key_result: >
+      Legendre diverges (lower bound only). Cone alpha=30 optimal (3.1x, V_lift=128kV).
+      Isolated conductor F=0 — external ground required. Attempt 2 → secondary.
+      Attempt 3 (BUGA rotating field) starts Day 4.
 
 parameters:
   target_lift_mass_kg: 0.5

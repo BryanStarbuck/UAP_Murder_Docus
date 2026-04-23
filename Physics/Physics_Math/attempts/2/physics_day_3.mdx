@@ -1,0 +1,385 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PHYSICS — Day 3 (2026-04-23)
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+1. PHYSICS QUESTIONS FOR DAY 3
+====================================================================
+
+Three physics questions drive today's work:
+
+  Q1: Does the Legendre series for the hemisphere-on-ground-plane
+      geometry converge at L_MAX = 21? What is the true geometry factor C?
+
+  Q2: What conductor geometry (hemisphere vs. cone vs. other) maximizes
+      the geometry factor C = F_z / (ε₀ V₀²)?
+
+  Q3: For an isolated asymmetric conductor (no external ground plane),
+      is the net Maxwell stress thrust nonzero or identically zero?
+
+
+====================================================================
+2. THEORETICAL FRAMEWORK RECAP
+====================================================================
+
+2.1 Maxwell Stress Tensor Review
+
+The Maxwell stress tensor in vacuum is:
+
+    T_ij = ε₀ [ E_i E_j - (1/2) δ_ij |E|² ]
+
+The electrostatic force on a conductor (or any closed surface
+enclosing charge) is obtained by integrating T over a surface S
+enclosing the conductor:
+
+    F_i = ∮_S T_ij n_j dA
+
+where n_j is the outward unit normal to S.
+
+Equivalently, at the conductor surface, the outward electric pressure is:
+
+    P = ε₀ E²_n / 2
+
+where E_n is the normal component of E at the surface. For a conductor
+in electrostatic equilibrium, E is purely normal (no tangential component
+on the surface), so E_n = |E| = σ / ε₀ where σ is the surface charge density.
+
+The local pressure force per unit area on the conductor surface is:
+
+    dF / dA = (σ² / 2ε₀) n̂ = (ε₀ E²_n / 2) n̂
+
+This pressure is always directed outward from the conductor surface
+(outward normal direction), regardless of the sign of the surface charge.
+Positive and negative charge both result in outward Maxwell pressure.
+This is because P ~ E² ~ σ², which is sign-invariant.
+
+
+2.2 Why Asymmetric Geometry Produces Net Force
+
+For a symmetric conductor (sphere), by symmetry:
+
+    ∮_S P n̂ dA = 0   (all directions cancel)
+
+For a hemisphere on a grounded plane at voltage V, the geometry breaks
+spherical symmetry in two ways:
+
+    (a) The hemispherical cap has a curved surface; the field
+        concentrates near the apex (smaller local radius of curvature).
+    (b) The grounded plane provides an image charge boundary condition
+        that further modifies the field distribution.
+
+The net force is:
+
+    F_z = ∫_hemisphere (ε₀ E_n² / 2) cos(θ) dA
+         + ∫_plate (ε₀ E_n² / 2) (-ẑ · n̂_plate) dA
+
+where the plate normal points downward. The sign of the plate contribution
+depends on the field geometry at the plate surface.
+
+In the hemisphere-on-plane geometry (Day 2 result), F_z = +9.50 mN at
+V = 10 kV, R = 10 cm, directed upward (+z). The hemisphere contribution
+dominates and is upward; the plate contribution is downward but smaller.
+
+
+2.3 Image Charge Method for Hemisphere on Grounded Plane
+
+The hemisphere on a grounded infinite plane is solved analytically via
+the image method. The conductor at potential V is equivalent to a
+hemisphere with its mirror image below the plane. The potential in the
+upper half-space satisfies Laplace's equation with:
+
+    φ = V   on hemisphere surface (r = R, 0 ≤ θ ≤ π/2)
+    φ = 0   on ground plane (z = 0, r > R)
+    φ → 0  as r → ∞
+
+This boundary value problem is solved via Legendre series expansion:
+
+    φ(r, θ) = Σ_{l=0,1,2,...} [ A_l r^l + B_l r^{-(l+1)} ] P_l(cos θ)
+
+Applying boundary conditions and using orthogonality of Legendre polynomials,
+the coefficients B_l are determined uniquely (with A_l = 0 for l ≥ 1 in the
+exterior problem). The surface E-field follows from E = -∇φ evaluated at r = R.
+
+
+2.4 Legendre Series Convergence and Gibbs Phenomenon
+
+The boundary condition has a step discontinuity at θ = π/2 (the edge where
+the hemisphere meets the ground plane). The potential jumps from V (on the
+hemisphere) to 0 (on the plane) at that angle.
+
+Gibbs phenomenon: Fourier and Legendre series converge slowly at step
+discontinuities. Near θ = π/2, the partial sum overshoots by ~9% of the
+step height, regardless of truncation order L_MAX. The overshoot persists
+but narrows as L_MAX increases.
+
+Effect on force integral: The Gibbs ringing near θ = π/2 locally distorts
+the computed E_n. However, the region near θ = π/2 contributes small cos(θ)
+weight (cos(π/2) = 0), so the distortion in E² near the edge has minimal
+effect on F_z = ∫ P cos(θ) dA. The force integral is relatively insensitive
+to the series accuracy near θ = π/2.
+
+Prediction: Increasing L_MAX from 21 to 51 and 101 should change F_z by
+less than 5-10%. The Day 2 result C = 10.73 should be close to the
+converged value. The true C is likely 11.0 ± 1.0 rather than 12-15 as
+initially estimated from the Gibbs overshoot analysis.
+
+
+====================================================================
+3. ISOLATED CONDUCTOR PHYSICS — THE FUNDAMENTAL QUESTION
+====================================================================
+
+3.1 Newton's Third Law and an Isolated Charge Distribution
+
+Consider a single isolated conductor carrying net charge Q in vacuum.
+The total electromagnetic momentum in the field is:
+
+    P_EM = ε₀ ∮_V (E × B) dV = 0   (electrostatics: B = 0)
+
+For an electrostatic system with B = 0, the momentum flux integral
+reduces to the Maxwell stress surface integral over a large sphere S_∞:
+
+    F_total = ∮_{S_∞} T_ij n_j dA → 0 as S → ∞
+
+This appears to say the net force on the entire system (conductor + field)
+is zero. But this is the force exerted by EXTERNAL sources on the system.
+For a truly isolated conductor with no external fields, the self-force
+integral is zero by Newton's third law (internal forces cancel).
+
+However, this does NOT mean F = 0 for an asymmetric charged conductor.
+The argument above says the total force on the conductor DUE TO EXTERNAL
+FIELDS is zero. For the ground plane geometry (Day 2), the external field
+is the image charge contribution. If we remove the ground plane (isolated
+conductor), the image charge disappears.
+
+
+3.2 Can an Isolated Asymmetric Conductor Self-Propel?
+
+For a conductor at potential V carrying net charge Q in free space:
+
+    The E-field outside the conductor is determined by the solution to
+    Laplace's equation with boundary condition φ = V on the conductor surface.
+
+    The Maxwell stress on the conductor surface is:
+
+        dF/dA = (ε₀ E²_n / 2) n̂(x)
+
+    The NET FORCE integrates this over the closed conductor surface.
+
+Claim from classical EM: For ANY isolated conductor in the absence
+of external fields, the net self-force is ZERO.
+
+Proof sketch:
+
+    By Green's theorem and the uniqueness theorem, the electrostatic
+    potential φ outside an isolated conductor at uniform potential V is
+    uniquely determined. The field E = -∇φ satisfies ∇²φ = 0 outside.
+
+    The total force is:
+
+        F = ∮_S (ε₀ E²_n / 2) n̂ dA
+
+    By the divergence theorem applied to the Maxwell stress tensor
+    (which has ∇ · T = ρ E for source charge density ρ), and since
+    there is no free charge outside the conductor:
+
+        ∮_S T_ij n_j dA = ∫_V (∂_j T_ij) dV = ∫_V ρ E_i dV = 0
+
+    in the exterior region (ρ = 0 outside the conductor).
+
+This means the integral of the Maxwell stress over ANY closed surface
+surrounding the conductor (with no external charges between S and the
+conductor) is zero. The net force on the isolated conductor is zero.
+
+Conclusion: An isolated asymmetric conductor in vacuum CANNOT produce
+net thrust via electrostatic pressure alone. The Buhler effect requires
+an external reaction body (the ground plane or another conductor).
+
+
+3.3 Physical Interpretation of the Buhler Effect
+
+If the force on the isolated hemisphere is zero, what does the Buhler
+experiment actually measure?
+
+In the Buhler experiment:
+    * The device hangs on a torsion pendulum in vacuum.
+    * The electrode is at high voltage V relative to a nearby grounded surface
+      (the chamber wall or a nearby plate — even at "infinite" distance,
+      the vacuum chamber is at ground potential).
+    * The ground plane exists even if it is remote; the image charge is
+      distributed diffusely over the chamber walls.
+    * The Maxwell pressure on the electrode is NOT zero because the external
+      field (from image charges on chamber walls) breaks the symmetry.
+
+For very large chamber: as R_chamber → ∞, the image charges recede
+and the asymmetric force should vanish. But the asymmetric force depends
+on the RATIO of hemisphere size to chamber size, not just the hemisphere
+alone. The effective geometry factor C depends on the boundary conditions.
+
+This creates a critical design question: for a spacecraft in free space
+(no nearby walls), does the Buhler thrust persist?
+
+Answer from first principles:
+    * In free space far from any other conductor, the craft IS the only
+      conductor. Its image charges exist only in nearby objects.
+    * If the craft is truly isolated (all surfaces at the same potential),
+      the net force is zero.
+    * If the craft has an INTERNAL asymmetry (part at high voltage, part
+      at a different voltage), then there is an internal Coulomb force
+      between the two parts. But this is an internal force — it does not
+      produce net momentum change for the center of mass.
+
+Practical implication: The Buhler result measures the force on the
+HIGH-VOLTAGE ELECTRODE relative to the nearby low-voltage chamber wall.
+This is an external-interaction force. For free-flight propulsion, the
+spacecraft must carry its own "ground plane" — either as a separate
+external antenna or as a large differential in charge distribution.
+
+
+3.4 Implications for the Craft Design
+
+Two viable configurations for a self-contained craft:
+
+OPTION A: Asymmetric internal charge — high-voltage apex, grounded base
+    * The craft has a sharp apex (emitter) and a flat base (ground plane).
+    * Apply HV to apex. Base is grounded internally.
+    * The force is between the apex and the base — an INTERNAL force.
+    * But: the base and apex are at DIFFERENT POTENTIALS within the craft.
+    * In vacuum, if the two electrodes are separated by an insulating gap,
+      the force on the apex is upward and the force on the base plate is
+      downward, with Newton's 3rd law satisfied (they push against each other).
+    * Net external force on the craft = 0. No propulsion.
+
+OPTION B: Charge-imbalanced craft with an external ion beam
+    * The craft carries net positive charge on the apex (charge +Q).
+    * It emits electrons from the base (generating a net positive charge).
+    * The ejected electron beam carries momentum p = mv_e in the -z direction.
+    * The craft recoils in the +z direction.
+    * THIS IS ION THRUSTER PHYSICS. It requires reaction mass.
+
+OPTION C: Time-varying charge distribution (AC operation)
+    * Apply oscillating voltage at frequency ω >> 1/τ_drift.
+    * The time-averaged Maxwell stress may have a non-zero DC component
+      if the geometry breaks time-reversal symmetry.
+    * This requires a non-trivial phase relationship between voltage
+      oscillation and the charge redistribution dynamics.
+    * This is related to the electrostatic ratchet concept.
+    * Worth investigating as a Day 4+ extension.
+
+OPTION D: External field interaction (the tested configuration)
+    * Craft as hemisphere electrode, charged to V relative to a large
+      external ground (e.g., the Earth, a space tether, or a charged plate).
+    * Force between craft and external ground is REAL and MEASURABLE.
+    * This does produce net force on the craft in the lab.
+    * For space: requires a long conducting tether to the "ground" body
+      or interaction with a charged planetary surface.
+    * This is an external propulsion mechanism — the reaction force is
+      taken by the external conductor (ground plane, Earth, etc.).
+
+
+====================================================================
+4. CONE GEOMETRY PHYSICS
+====================================================================
+
+4.1 Why Cone Half-Angle Matters
+
+For a conical conductor at potential V, the surface E-field scales with
+the local radius of curvature ρ_c of the surface. Near the apex of a
+cone with half-angle α, the apex curvature is:
+
+    ρ_c(apex) ≈ R_apex · sin(α)
+
+where R_apex is the apex rounding radius (for a perfectly sharp cone,
+ρ_c → 0 and E → ∞). For a finite-radius rounded apex:
+
+    E_apex ≈ V / (R_apex · f(α))
+
+where f(α) is a geometry-dependent factor. As α → 0 (sharp needle),
+E_apex increases dramatically.
+
+The Maxwell pressure at the apex scales as:
+
+    P_apex = ε₀ E²_apex / 2 ~ V² / f²(α)
+
+and the apical surface area contributing to F_z scales as:
+
+    dA_apex ~ 2π R²_apex sin(α) dα
+
+The trade-off: sharper cones have higher E at the apex (more pressure)
+but smaller area at the apex (less area to integrate). The geometry factor:
+
+    C(α) = F_z / (ε₀ V²)
+
+has an optimum at some intermediate α that maximizes the product E² × dA
+in the z-direction.
+
+4.2 Dimensional Argument for Optimal Cone Angle
+
+For a cone of height h and base radius r_base, with α = arctan(r_base/h):
+
+    * The total cone surface area ~ πr_base (slant height) = πr_base √(r_base² + h²)
+    * The z-component of the normal force per unit area ~ P · cos(θ_cone)
+    * At small α (sharp cone), cos(θ_cone) → 1 but E² is concentrated at apex
+    * At large α (flat cone → hemisphere), cos(θ_cone) varies widely
+
+The geometry factor C(α) is a smooth function of α with a maximum at
+the angle that optimally balances field concentration against projected
+area. The Day 3 cone sweep will locate this maximum numerically.
+
+Prediction: based on the geometry arguments above, the optimum half-angle
+is likely in the range 30-60 degrees. A hemisphere (α = 90 degrees) is
+probably not optimal. A sharp cone (α < 20 degrees) is also unlikely to
+be optimal due to limited apex area.
+
+
+====================================================================
+5. DEPARTURE FROM STANDARD PHYSICS
+====================================================================
+
+The Day 3 simulations are entirely within classical electrostatics.
+No departure from Maxwell's equations or Newtonian mechanics is invoked.
+The specific departure from standard expectations investigated today is:
+
+    STANDARD: Classical EM predicts zero net force on any isolated
+    charge-neutral conductor in vacuum (Newton's 3rd law for internal forces).
+
+    BUHLER CLAIM: Nonzero net force observed in hard vacuum, even when ion
+    wind is excluded. If the craft is not charge-neutral (net +Q on apex),
+    some force exists but requires ejecting charge (ion thruster).
+
+    CERNOHAJEV CONNECTION (GCD framework): Claims that the gravitational
+    charge interaction allows a suitably configured charged conductor to
+    interact with the local gravitational charge field and produce thrust
+    WITHOUT external reaction mass. This would require new physics beyond
+    classical EM. The GCD framework is not simulated today — only the
+    classical Maxwell equations are used.
+
+The Day 3 isolated conductor simulation will determine how much of the
+Buhler result is explainable by the classical external-ground-plane
+interaction and how much (if any) cannot be explained classically.
+
+
+====================================================================
+6. WHAT THE SIMULATIONS SHOULD SHOW (PREDICTIONS)
+====================================================================
+
+  3A (Legendre convergence):
+      C at L_MAX = 21: 10.73 (already known)
+      Prediction: C converges to ~ 11.0-11.5 by L_MAX = 51.
+      C at L_MAX = 101 should differ from L_MAX = 51 by < 2%.
+      V_lift at converged C: ~ 215-225 kV (within 5% of Day 2 estimate).
+
+  3B (Cone sweep):
+      Prediction: C increases as α decreases from 90 degrees (hemisphere)
+      until some optimal α_opt ~ 30-50 degrees, then decreases again
+      for very sharp cones (< 15 degrees). The maximum C may be 15-30.
+      A sharper cone at the same V could halve the lift voltage.
+
+  3C (Isolated conductor):
+      Prediction: F_z ≈ 0 for isolated conductor (Newton's 3rd law).
+      This will confirm that the Buhler mechanism requires external reaction.
+      Result will redirect Day 4 toward either (a) the external-field
+      design (spacecraft + Earth tether) or (b) a different mechanism.

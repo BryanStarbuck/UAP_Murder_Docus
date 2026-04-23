@@ -1,0 +1,419 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+THEORY — Attempt 3: BUGA Three-Phase Rotating Field
+Updated: Day 4 (2026-04-23)
+====================================================================
+
+
+====================================================================
+1. THE CORE PHYSICAL MECHANISM
+====================================================================
+
+1.1 FROM STATIC TO TIME-VARYING FIELDS
+
+Days 1-3 demonstrated that static classical electromagnetic mechanisms
+(Kelvin body force, Maxwell electrostatic pressure) cannot produce free-flight
+propulsion from a closed conductor in free space. The fundamental barrier is
+Newton's third law in its EM form: for any static configuration,
+∮_∂Ω T_ij n_j dA = 0 for an isolated system (proven by Green's theorem since
+∇·T = 0 in free space and the surface integral at infinity vanishes).
+
+Time-varying fields evade this constraint. When fields are time-dependent,
+the electromagnetic field itself carries momentum density:
+
+    g_EM = ε₀ (E × B) = S/c²
+
+where S = (1/μ₀)(E × B) is the Poynting vector. The total momentum of an
+isolated system is:
+
+    p_total = p_mechanical + ∫ g_EM dV = constant
+
+A device that changes ∫ g_EM dV over time changes its mechanical momentum
+by the equal and opposite amount — without requiring an external reaction body.
+This is the photon rocket in generalized form.
+
+For practical low-frequency EM devices, the relevant effect is not radiation
+(which requires f ~ GHz for mechanical relevance) but rather the quasi-static
+redistribution of field momentum within the device geometry.
+
+
+1.2 THREE-PHASE ROTATING FIELD
+
+A three-phase AC source drives three coil assemblies at azimuthal positions
+φ_k = 2πk/3 (k = 0, 1, 2). Each coil carries current:
+
+    I_k(t) = I₀ cos(ωt - φ_k) = I₀ cos(ωt - 2πk/3)
+
+The superposition of three dipole fields (each with magnetic moment m_k
+perpendicular to the coil plane and tilted at azimuthal angle φ_k) produces:
+
+    B(r, t) = Σ_k B_k(r) cos(ωt - 2πk/3)
+
+For a flat planar arrangement of three identical coils, the time-averaged
+field magnitude squared is:
+
+    <|B(r,t)|²> = (3/2) |B_single(r)|²  [by three-phase orthogonality]
+
+The instantaneous field rotates in the azimuthal direction:
+
+    B_x(r,t) = (3/2) B_r(r) cos(ωt - φ_local)
+    B_y(r,t) = (3/2) B_r(r) sin(ωt - φ_local)
+
+where φ_local is a position-dependent phase. This is the rotating phasor
+representation: the field vector sweeps through 2π in one period T = 1/f,
+identical in structure to the rotating magnetic field in a three-phase
+induction motor.
+
+
+1.3 ELECTROMAGNETIC ANGULAR MOMENTUM
+
+The rotating field carries electromagnetic angular momentum density:
+
+    ℓ_EM = ε₀ (r × (E × B)) = r × g_EM
+
+For a purely magnetostatic rotating field (E = 0, B = B_rotating), ℓ_EM = 0
+identically. However, a time-varying B induces an electric field via Faraday's
+law:
+
+    ∇ × E = -∂B/∂t = ωB_⊥  [time-varying rotating field]
+
+This induced E is azimuthal (perpendicular to both r and ẑ). The cross product
+E × B has a component in the ẑ direction:
+
+    (E × B)_z = E_φ B_r - E_r B_φ
+
+For an axisymmetric rotating field: E_φ ≠ 0, B_r ≠ 0, giving a nonzero
+time-averaged (E × B)_z. The Poynting vector has a net axial component:
+
+    <S_z> = (1/μ₀) <(E × B)_z>
+
+A net upward <S_z> means net upward EM momentum flux — the field carries more
+electromagnetic momentum upward than downward. By momentum conservation,
+if the field geometry is asymmetric (more flux going up through the top of
+the device than down through the bottom), the device receives a net downward
+reaction force. But if <S_z> is larger ABOVE the device than BELOW it, the
+device is pumping upward momentum into the field — and experiences a net
+upward force.
+
+The key quantity to compute from simulation is:
+
+    ΔP_z = ε₀ [∫_{z=+H} (E × B)_z dA - ∫_{z=-H} (E × B)_z dA]
+
+If ΔP_z > 0 (more upward flux through the top surface than the bottom), the
+device has a net upward force equal to dΔP_z/dt.
+
+
+1.4 KELVIN FORCE ON THE TOROIDAL FERRITE
+
+For a magnetic material with permeability μ = μ₀ μ_r placed in a non-uniform
+magnetic field, the Kelvin body force density is:
+
+    f_Kelvin = μ₀ (M · ∇)H = μ₀ χ_m (H · ∇)H = (μ₀ χ_m / 2) ∇(|H|²)
+
+where χ_m = μ_r - 1 is the magnetic susceptibility. The net force on the
+toroid is:
+
+    F_Kelvin = ∫_V (μ₀ χ_m / 2) ∇(|H|²) dV = (μ₀ χ_m / 2) ∮_∂V |H|² n̂ dA
+
+For a static field and closed toroid: this integrates the gradient of |H|²
+over the toroid volume. The result is nonzero whenever |H|² is not uniform
+over the toroid surface — i.e., whenever the coils are closer to one face
+of the toroid than the other.
+
+For the BUGA geometry: the three-phase coils are ABOVE the toroid, at height
+h_coil above the top face. The field |H|² is larger at the top of the toroid
+than at the bottom. Therefore:
+
+    F_z = (μ₀ χ_m / 2) ∫_V ∂|H|²/∂z dV > 0  (upward, toward coils)
+
+This is the static Kelvin force (time-averaged version for rotating field).
+The time-averaging for the rotating field: since <cos²(ωt)> = 1/2 for any
+single-phase component, the time-averaged <|H|²> = (3/2)|H_single|² (three-phase
+result). The Kelvin force is therefore:
+
+    <F_z> = (3μ₀ χ_m / 4) ∫_V ∂|H_single|²/∂z dV
+
+where H_single is the field from a single stationary coil.
+
+Critical point: this force is BETWEEN the coils and the toroid, just as
+the Buhler force was between the hemisphere and the ground plane. It is
+INTERNAL to the device. If the coils and toroid are mounted rigidly on
+the same frame, F_Kelvin(coils → toroid) is an internal force: the frame
+sees zero net external force. Newton's third law is satisfied.
+
+The coils experience a downward reaction force equal and opposite to the
+upward force on the toroid. The structural frame transmits both. Net external
+force = 0.
+
+THIS IS THE FUNDAMENTAL SYMMETRY ARGUMENT: For a device with all components
+rigidly mounted, no static internal Kelvin force produces net external thrust.
+
+
+1.5 THE ASYMMETRY REQUIRED FOR FREE-FLIGHT THRUST
+
+For a net external force, one of the following must be true:
+  (a) One component is not rigidly attached to the frame (e.g., the rotor
+      is free to rotate, and the reaction torque on the frame converts to
+      linear momentum through some additional asymmetry)
+  (b) The field carries EM momentum out of the system boundary in a net
+      axial direction (radiation or quasi-static EM momentum flow)
+  (c) The device interaction with the external medium (e.g., interaction
+      with the Earth's magnetic field or ionosphere) provides an external
+      reaction body
+  (d) New physics (Woodward Mach effect, Podkletnov gravitomagnetic coupling)
+      couples the EM field to the gravitational field
+
+The BUGA device has a SPINNING ROTOR (the central shaft with bead). This
+is not simply decorative: it means the rotor is NOT rigidly coupled to the
+field coils in the rotational degree of freedom. The rotor can absorb or
+release angular momentum independently of the stator coils. If:
+
+  1. The rotating EM field exerts a torque on the rotor (through induction
+     or magnetic coupling)
+  2. The rotor is asymmetric in shape or mass distribution
+  3. This creates a time-varying angular momentum L_rotor(t)
+
+then by conservation:
+
+    d/dt (L_EM + L_rotor + L_frame) = external torque (from ground/surroundings)
+
+If the frame is in free flight (no external torque) and L_EM averages to
+a nonzero constant flux upward, the frame receives a sustained reaction.
+
+The spinning rotor in the BUGA device may be the CRITICAL component —
+not the toroidal ferrite or the electrostatic electrode. It acts as a
+gyroscopic/angular momentum pump: the rotating EM field drives the rotor,
+and the rotor's angular momentum interacts with the Earth's gravitational
+gradient (or the device's own magnetic field gradient) to produce a net
+linear force. This is the gyrostatic lift hypothesis.
+
+
+1.6 SYMMETRY ANALYSIS (why it might work)
+
+For the static Kelvin mechanism to produce net external thrust, the following
+would be required: one end of the device interacts with the field more
+strongly than the other, AND the reaction is absorbed by the external
+environment rather than the opposing coils.
+
+The BUGA device has both a toroidal ferrite (below the coils) AND a
+hemispherical electrode (above the coils). If the electrode is charged:
+  * Above the coil plane: high-E-field region (electrode apex)
+  * Below the coil plane: high-B-field region (toroid)
+
+The Maxwell stress tensor T_ij contains both E and B contributions. The
+cross term ε₀ E_i B_j (for time-varying fields, the Abraham or Minkowski
+momentum density) may produce a net force if the field geometry has
+appropriate top/bottom asymmetry.
+
+More specifically: if the rotating B-field and the static E-field from
+the electrode have a phase-locked interaction, the time-averaged Abraham
+momentum density g_Abraham = (1/c²)(E × H) has a nonzero z-component
+on average. This is the Abraham-Minkowski force — controversial but
+physically real for electromagnetic pulses in dielectric media.
+
+In ferrite (with both ε_r > 1 and μ_r > 1), the Abraham momentum density
+is nonzero even for time-averaged fields:
+
+    <g_Abraham>_z = <ε₀(E × B)>_z = <S>_z / c²
+
+If the geometry produces a net upward <S_z>, the ferrite absorbs net
+upward EM momentum, and the device experiences a net downward force —
+UNLESS the momentum flows THROUGH the device and exits from the bottom.
+
+
+1.7 PODKLETNOV GRAVITOMAGNETIC ANALOG
+
+Podkletnov (1992, 1994, 2003) claimed that a rotating YBCO superconducting
+disc above a toroidal solenoid produced a ~0.3% reduction in the weight of
+objects placed above it. The proposed mechanism: the rotating supercurrent
+in the disc generates a gravitomagnetic field (analogous to the magnetic
+field generated by a moving charge) that partially shields gravity.
+
+In general relativity, the gravitomagnetic field B_g is generated by mass
+currents, analogous to the magnetic field from charge currents:
+
+    B_g = (2G/c²) ∫ (j_mass × r̂) / r² dV
+
+For a rotating superconducting disc with surface mass current j_mass = ρ_s v,
+the gravitomagnetic field above the disc is:
+
+    B_g,z ≈ (2G/c²) m_disc Ω_disc / R_disc
+
+where Ω_disc is the angular velocity. The gravitomagnetic force on a mass m
+above the disc is:
+
+    F_g = -m (v × B_g) ≈ m B_g,z v_z ≈ 0  (for static objects)
+
+Podkletnov's claimed effect (weight reduction, not levitation) suggests a
+shielding mechanism rather than a direct gravitomagnetic force. This is
+not explained by standard GR.
+
+For the room-temperature BUGA analog: the ferrite toroid replaces the
+superconductor. Ferrite has μ_r >> 1 but no Meissner effect and no
+supercurrent. The gravitomagnetic current is proportional to ρ v, not to
+any EM supercurrent. At room temperature, the Podkletnov gravitomagnetic
+effect is NOT expected from standard GR. This is a new-physics claim.
+
+However, the rotating EM field in the ferrite sets up a real magnetization
+current density J_M = ∇ × M that rotates with the field. If this
+magnetization current has a gravitomagnetic effect analogous to the
+supercurrent, it would be:
+
+    B_g,z ≈ (2G/c²) * (μ_r - 1) * J_M * V_ferrite
+
+At μ_r = 2000 and typical magnetization currents, this is still many
+orders of magnitude below detectability. The Podkletnov effect (if real)
+must involve superconductor-specific physics not present in ferrite.
+
+CONCLUSION: The Podkletnov gravitomagnetic analog is NOT the primary
+mechanism to simulate. The EM Kelvin force and EM momentum flux are the
+correct starting points for a room-temperature ferrite device.
+
+
+1.8 THE CORRECT PHYSICAL QUESTION FOR SIMULATION
+
+The simulation must answer: for the BUGA three-phase geometry (coils above
+ferrite toroid, spinning rotor on shaft), does the time-averaged Maxwell
+stress tensor integral over the complete device boundary give F_z ≠ 0?
+
+For a closed system with no EM momentum leaking to infinity (quasi-static),
+the answer is NO — same as the static case. The rotating field merely
+redistributes the field geometry; it does not change the topological
+argument that ∮ T·n̂ dA = 0 for the complete system.
+
+For an OPEN system where EM momentum can flow out:
+  * At 60 Hz: wavelength λ = 5000 km. Radiation is negligible.
+  * EM momentum stored in the near-field: quasi-static, no net flux to infinity.
+  * Therefore: even for rotating field, <F_z>_external = 0 for the complete
+    rigid device (no Podkletnov new physics, no spinning rotor decoupling).
+
+THE KEY FINDING FROM THEORY: The spinning rotor is ESSENTIAL. Without
+decoupling the rotor's angular momentum from the frame, the BUGA device
+has zero net external force from pure EM physics. With the spinning rotor:
+  * If the rotor absorbs angular momentum from the rotating field
+  * AND loses it via an asymmetric process (gravity gradient, EM coupling
+    to Earth's field, or mechanical drag asymmetry)
+  * THEN the net angular impulse could produce a net linear force
+
+This is the mechanism to investigate computationally.
+
+
+====================================================================
+2. KEY EQUATIONS FOR SIMULATION
+====================================================================
+
+2.1 BIOT-SAVART FOR THREE-PHASE COIL ARRAY
+
+Each circular coil k at azimuthal position φ_k = 2πk/3 carries current:
+
+    I_k(t) = I₀ cos(ωt - 2πk/3)
+
+For a coil of radius a centered at (r_k, 0, h_coil) and tilted to be
+perpendicular to the z-axis (i.e., lying in a horizontal plane):
+
+    dB_k(r,t) = (μ₀ I_k(t))/(4π) ∮ (dl_k × R̂) / |R|²
+
+where R = r - r' (observation minus source). The time dependence factors out:
+
+    B_k(r,t) = B_k^{static}(r) * cos(ωt - 2πk/3)
+
+The total time-varying field:
+
+    B(r,t) = Σ_{k=0}^{2} B_k^{static}(r) * cos(ωt - 2πk/3)
+
+Time-averaged |B|²:
+
+    <|B|²> = (1/2) Σ_k |B_k^{static}|² + cross terms
+           = (3/2) |B^{single}_k|²  [for identical coils by symmetry]
+
+The cross terms vanish for three-phase orthogonality:
+    <cos(ωt) cos(ωt - 2π/3)> = (1/2) cos(2π/3) = -1/4
+    Σ_{k≠l} <cos(ωt-φ_k) cos(ωt-φ_l)> = 0  [for full three-phase set]
+
+2.2 KELVIN FORCE ON FERRITE TOROID
+
+Assuming linear isotropic ferrite (M = χ_m H, χ_m = μ_r - 1):
+
+    F_z = (μ₀ χ_m / 2) ∫_V ∂|H|²/∂z dV
+
+For the time-averaged rotating field:
+
+    <F_z> = (μ₀ χ_m / 2) ∫_V ∂<|H|²>/∂z dV = (3μ₀ χ_m / 4) ∫_V ∂|H^{single}|²/∂z dV
+
+This is the same as the static Kelvin force with field amplitude scaled by
+√(3/2). The rotating field provides no topological advantage over a static
+non-uniform field for the Kelvin force. The internal/external force argument
+still applies (Section 1.4).
+
+2.3 EM MOMENTUM IN QUASI-STATIC ROTATING FIELD
+
+The induced electric field from the rotating B (Faraday's law):
+
+    ∇ × E = -∂B/∂t = ω × B_⊥ (approximately)
+
+For a rotating B with amplitude B_0 at radius R_device and frequency ω:
+
+    |E_induced| ≈ ω R_device B_0  [at the device surface]
+
+The electromagnetic momentum density:
+
+    g_EM = ε₀ (E × B) ≈ ε₀ ω R_device B_0² [order of magnitude]
+
+For f = 60 Hz, R = 0.1 m, B₀ = 10 mT:
+
+    |g_EM| ≈ (8.85e-12) * (2π*60) * 0.1 * (0.01)² ≈ 3.3e-15 kg/(m²·s)
+
+Integrated over the device volume V ≈ 0.001 m³:
+
+    |p_EM| = ∫ g_EM dV ≈ 3.3e-18 kg·m/s
+
+The force is F = d/dt (p_EM) ≈ ω * p_EM ≈ 1.2e-15 N — completely negligible.
+
+This confirms: at low frequencies (60 Hz), quasi-static EM momentum is
+far too small to produce any measurable force. The BUGA device, if it
+works, must involve a different mechanism than quasi-static EM momentum.
+
+The candidate mechanisms left standing:
+  (a) Spinning rotor decoupling + angular momentum exchange (Section 1.5)
+  (b) Woodward Mach effect transient mass fluctuations (non-standard)
+  (c) Actual gravitomagnetic coupling (requires superconductor by standard theory)
+  (d) Something not yet identified in the image analysis
+
+
+====================================================================
+3. SYMMETRY ARGUMENTS
+====================================================================
+
+3.1 FOR THE STATIC KELVIN FORCE (internal, not useful for free flight)
+
+The Kelvin force on the toroid from the coils above it is upward.
+The reaction force on the coils is downward. These are internal forces.
+The net external force on the device = 0. (Newton 3rd, verified analytically.)
+
+3.2 FOR THE ROTATING FIELD (same conclusion)
+
+The rotating field is a superposition of three static dipole fields
+modulated in time. The time-averaged force distribution is equivalent to
+a static field of the same RMS amplitude. Since static Kelvin forces are
+internal, the rotating Kelvin forces are also internal. Net external = 0.
+
+3.3 WHAT THE SIMULATIONS WILL PROVE
+
+Simulation 4A: Verify rotating field structure and |B|² asymmetry above/below coils.
+Simulation 4B: Compute <F_z> on toroid — confirm it is an internal force.
+  The Kelvin force WILL be nonzero and upward on the toroid.
+  But the reaction on the coils will be equal and downward.
+  Net system force = 0.
+Simulation 4C: Compute EM momentum flux. Confirm it is negligible at 60 Hz.
+
+EXPECTED RESULT: Simulations 4A-4C will show zero net external force from
+classical EM mechanisms at 60 Hz. This is a correct physics result.
+
+The physical conclusion: the BUGA device's anomalous mass readings, IF REAL,
+cannot be explained by classical EM at 60 Hz. They require either:
+  (a) The spinning rotor as an essential component (angular momentum exchange)
+  (b) High-frequency operation (RF or microwave, where EM momentum is larger)
+  (c) Non-standard physics (Woodward, Podkletnov, new coupling)
+
+Day 4 will confirm this conclusively. Days 5+ will investigate (a) and (b).

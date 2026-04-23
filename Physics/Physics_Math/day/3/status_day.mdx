@@ -1,0 +1,193 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+DAY_STATUS_FILE_TEMPLATE is file {ROOT_DIR}/other/Day_Status_Template.mdx
+
+
+====================================================================
+DAY STATUS FILE
+====================================================================
+
+WORK DAY NUMBER: 3
+DATE: 2026-04-23
+ATTEMPT_FOCUS: 2
+
+--------------------------------------------------------------------
+PLAN
+--------------------------------------------------------------------
+
+PLAN_FOR_THE_DAY_FILE is file {ROOT_DIR}/day/3/plan_day_3.mdx
+
+[x] Plan for Day Completed
+      * Read reflection reports for last 10 days (most recent weighted heaviest)
+      * Decide: continue existing attempt or create new attempt
+      * Write PLAN_FOR_THE_DAY_FILE with decisions and intended work
+      * Add any new steps to checklist below before starting work
+
+--------------------------------------------------------------------
+ATTEMPT SELECTION
+--------------------------------------------------------------------
+
+[x] Decide if working on one of the previous attempts or create a new attempt
+      DECISION: Continue Attempt 2 (Asymmetric_Electrostatic_Pressure_Thrust).
+      Strong positive result Day 2. Isolated conductor question must be answered
+      before strategy changes. No new attempt today.
+      * If new attempt: create {ROOT_DIR}/attempts/{NEW_ATTEMPT_NUMBER}/Attempt.yaml
+      * Update Track_Overview.yaml with new attempt details
+      * Set ATTEMPT_FOCUS above to the chosen attempt number
+
+--------------------------------------------------------------------
+THEORY WORK
+--------------------------------------------------------------------
+
+[x] Work on Theory
+      Theory.mdx updated with isolated conductor physics analysis.
+      Core finding: isolated conductor in vacuum has F_net = 0 classically.
+      Buhler mechanism requires external reaction body (ground plane).
+      * Review current theoretical basis in the attempt directory
+      * Identify gaps or contradictions in the physics model
+      * Write or update Theory.mdx in the attempt directory
+      * Cross-check against known UAP physics research in Physics_Math docs
+
+--------------------------------------------------------------------
+DESIGN ITERATION
+--------------------------------------------------------------------
+
+[x] Map out the attempts to make it better
+      Cone geometry identified as key optimization variable.
+      Three simulation paths defined: convergence, cone sweep, isolated system.
+      Optimal cone half-angle predicted ~30-50 deg (to be confirmed by sim).
+      * Review prior attempt directories for useful design elements
+      * Identify which design parameters to change or hold fixed
+      * Update Design.mdx or Engineering.mdx in the attempt directory
+
+--------------------------------------------------------------------
+DAILY TECHNICAL FILES
+--------------------------------------------------------------------
+
+[x] PHYSICS files for this day
+      * Create or update physics analysis in the attempt directory
+      * Document all equations at PhD level: tensors, field equations, boundary conditions
+      * Note any departures from standard Newtonian or GR framework
+      * File: {ROOT_DIR}/attempts/2/physics_day_3.mdx
+
+[x] MATH files for this day
+      * Derive or extend key equations for the design
+      * Show full derivations, no hand-waving of steps
+      * Document dimensional analysis and limiting cases
+      * File: {ROOT_DIR}/attempts/2/math_day_3.mdx
+
+[x] ENGINEERING files for this day
+      * Translate physics into buildable component specs
+      * Identify materials, tolerances, power requirements, mechanical constraints
+      * Note what can be simulated vs. what requires physical construction
+      * File: {ROOT_DIR}/attempts/2/engineering_day_3.mdx
+
+[x] Applied Physics Simulator files for this day
+      * Write or update simulation code for today's design
+      * Document what each simulation is testing and expected output
+      * File: {ROOT_DIR}/attempts/2/sim_setup_day_3.mdx
+
+--------------------------------------------------------------------
+SIMULATION PASS (loop up to 10 times, stop at 10)
+--------------------------------------------------------------------
+
+SIMULATION_PASS_COUNT: 0
+
+[x] Verify simulation library is installed; install if needed (pip install)
+      RESULT: scipy 1.17.1, numpy 2.4.2 — both present. No install needed.
+      * Check: python3 -c "import scipy; import numpy"
+      * If not installed: pip install scipy numpy
+      * Tool must match attempt physics (electrostatics: scipy/numpy)
+      * Do not proceed to code writing until the import succeeds
+
+[x] Create any code needed to run the simulator
+      3 files created in simulation/scipy_numpy/software/:
+        run_2_3_legendre_convergence.py
+        run_2_3_cone_sweep.py
+        run_2_3_isolated_conductor.py
+      * Place code in {ROOT_DIR}/simulation/scipy_numpy/software/
+      * Language preference: Python
+      * Document inputs, outputs, and assumptions in a header comment block
+
+[x] Execute simulation code locally (run Python script via system interpreter; use Bash tool) and capture output
+      3A: run_2_3_legendre_convergence.py — completed, diverging C(L) found
+      3B: run_2_3_cone_sweep.py — completed, optimal at alpha=30 deg
+      3C: run_2_3_isolated_conductor.py — completed, F_z=0 confirmed for isolated
+
+[x] Fix any code or configuration to make simulation tests work
+      PASS 1: np.trapz → np.trapezoid (numpy 2.4 removed trapz)
+      PASS 2: convergence script had wrong coefficient formula (factor 2 error + l=0 term).
+              Fixed to use Day 2 approach: odd l only, A_l = (2l+1)*V_0*I_l.
+      * Log each error and fix in sim_setup_day_3.mdx
+
+[x] Fix any remaining issues (second pass if needed)
+      No third pass needed. All three simulations ran to completion.
+
+[x] Completed simulation work
+      SIMULATION_PASS_COUNT: 2 (fix 1: trapz; fix 2: coefficient formula). Well under 10.
+      * Confirm SIMULATION_PASS_COUNT did not exceed 10
+      * If count reached 10, stop and document blocking issue in reflection
+
+--------------------------------------------------------------------
+SIMULATION LEARNING
+--------------------------------------------------------------------
+
+[x] SIMULATION learned for this day
+      KEY FINDINGS:
+      3A: Legendre series diverges (log) due to rim singularity. Day 2 is a lower bound.
+      3B: Cone alpha=30 deg gives C=33.56 m (3.1x hemisphere). V_lift = 128 kV.
+      3C: Isolated conductor F_z = 0 (confirmed). Buhler requires external ground plane.
+      CONCLUSION: Attempt 2 viable for near-surface hover (H < 5R), NOT free flight.
+      PIVOT: Start Attempt 3 (BUGA three-phase rotating field) for free-flight mechanism.
+      * Analyze all simulation output for this day
+      * Document what the simulation confirmed vs. what surprised
+      * Note parameter changes worth testing in future days
+      * After computing F_z, verify E-field profile against physical expectations:
+          - Check that E_r > 0 (outward) at all surface points for positively charged conductor
+          - A sign reversal in E_r at an intermediate angle indicates Legendre series
+            truncation error (Gibbs phenomenon near the edge discontinuity)
+          - If sign reversal is present, increase L_MAX until it disappears
+          - The sign reversal does not prevent force computation but may underestimate magnitude
+      * Update attempt Attempt.yaml with simulation findings
+      * File: {ROOT_DIR}/attempts/2/sim_learned_day_3.mdx
+
+--------------------------------------------------------------------
+REFLECTION AND POSTMORTEM
+--------------------------------------------------------------------
+
+[x] REFLECTION and Postmortem Report
+      * Review all files created today in DAY_DIR and attempt dir
+      * Look back at last 20 days if available: is the project progressing?
+      * Consider: radical new approach, new attempt, changes to methodology?
+      * Consider: update manual, new skills, change day template, update YAML files?
+      * Consider: try a new simulation software?
+      * Write reflection file: {ROOT_DIR}/day/3/reflection_day_3.mdx
+
+--------------------------------------------------------------------
+MANUAL AND SYSTEM IMPROVEMENT
+--------------------------------------------------------------------
+
+[x] Improve manual if appropriate
+      MANUAL UPDATED to Version 1.5:
+        Section 3.4: Added Day 3 cone sweep, Legendre divergence, isolated conductor findings.
+        Section 5.3: Added Legendre divergence warning + detection rule.
+        Section 9.8: New entry — conductor edge singularities in electrostatics.
+        Section 9.9: New entry — Legendre convergence rules for edge singularity geometries.
+        Changelog: Version 1.5 entry added.
+      DAY_STATUS_TEMPLATE updated with two new steps:
+        SIMULATION LEARNING: Legendre convergence check (L_MAX=21 vs L_MAX=101).
+        PHYSICS files: Edge singularity check for electrostatic thrust problems.
+      * Build more skills in {ROOT_DIR}/prompts/other/ if useful
+      * Grow the DAY_STATUS_FILE_TEMPLATE with new steps that proved valuable
+      * Do not remove steps; only add or refine
+
+--------------------------------------------------------------------
+END OF DAY
+--------------------------------------------------------------------
+
+[x] WORK_DAY_IS_NOW_FINISHED
+      Track_Overview.yaml updated: Day 3 marked complete. current_day → 4.
+      current_attempt → 3. Attempt 2 status → secondary. Attempt 3 entry added.
+      All brackets checked above. Day 3 is fully closed.
+      * Update Track_Overview.yaml: mark day completed
+      * Confirm all brackets are checked or have a note explaining why skipped

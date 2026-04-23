@@ -1,0 +1,194 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PLAN — Day 3 (2026-04-23)
+Attempt Focus: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+CONTEXT SUMMARY
+====================================================================
+
+Days 1 and 2 complete. Two reflections read. Manual read in full.
+
+Day 1: Attempt 1 (Rotating_Permanent_Magnet_Array) stalled immediately.
+Kelvin force direction is always attractive — Sub-approach A (craft above
+steel plate) pulls craft downward, not upward. Sub-approach B (EDS eddy
+current repulsion) requires ElmerFEM, deferred.
+
+Day 2: Attempt 2 (Asymmetric_Electrostatic_Pressure_Thrust) produced
+strong positive results. Hemisphere on grounded plane at V = 10 kV, R = 10 cm.
+Maxwell stress tensor integral via Legendre expansion (L_MAX = 21) gave:
+  F_z = 9.50 mN (upward, confirmed)
+  Geometry factor C = F_z / (eps_0 * V^2) = 10.73
+  V_lift (0.5 kg) = 227 kV
+  Apex E-field at lift = 6.82 MV/m (feasible in vacuum, below field emission)
+  F_z ~ V_0^2 confirmed exactly
+  Validation (sphere, F_z = 0) passed exactly
+
+Known issue from Day 2: E_r sign reversal at theta = 10 degrees (Gibbs
+phenomenon at the hemisphere edge). Suggests L_MAX = 21 may underestimate
+C. True C may be 12-15.
+
+
+====================================================================
+STRATEGIC ASSESSMENT BEFORE DAY 3
+====================================================================
+
+Is any attempt showing simulation-positive results?
+  YES. Attempt 2 is positive. F_z confirmed upward at expected millinewton
+  scale. Force law confirmed. Geometry factor is 10x above naive estimate.
+
+Has any attempt exceeded 5 days without positive result?
+  No. Only 2 days total.
+
+Are there empirical data points from Section 4 not yet targeted?
+  4.1 BUGA anomalous mass readings — NOT YET (Day 4+)
+  4.3 Buhler thrust — VALIDATED Day 2 (simulation matches mN scale)
+  4.4 Cernohajev 32-solenoid array — NOT YET (Day 5+)
+
+Are there approaches from Section 3 with no attempt directory?
+  3.2 Counter-rotating disc (Paulsen/Searl) — no attempt
+  3.3 BUGA three-phase rotating field — no attempt
+  3.5 Cernohajev 32-solenoid — no attempt
+  3.6 Plasma MHD — no attempt
+  3.7 Gravitomagnetic Podkletnov analog — no attempt
+  3.8 Geometric harmonic resonance — no attempt
+
+What did Day 2 reflection say to prioritize?
+  Task 3A: Legendre convergence test at L_MAX = 51 and 101
+  Task 3B: Cone geometry sweep over half-angles 10, 20, 30, 45, 60, 75 deg
+  Task 3C: Isolated capacitor geometry — force on full system (craft + plate)
+  SECONDARY: Check ElmerFEM availability for future Attempt 1 Sub-approach B
+
+
+====================================================================
+DECISION: ATTEMPT AND FOCUS FOR DAY 3
+====================================================================
+
+DECISION: Continue Attempt 2. Do NOT start a new attempt.
+
+Rationale:
+  * Attempt 2 is the first attempt to show a positive, physically
+    confirmed result. It has at minimum 3-5 more simulation days
+    of investigable territory before diminishing returns.
+  * The three Day 3 tasks (convergence, geometry sweep, isolated system)
+    are all load-bearing for the design question: can this approach
+    scale to produce 0.5 kg lift?
+  * The isolated-system task (3C) is the most critical. If the net force
+    on the whole system (hemisphere + plate) is zero by Newton's third law
+    in vacuum, the mechanism does not work for a self-contained craft.
+    This must be resolved before investing further in the approach.
+
+If Task 3C shows zero net force on the isolated system, the approach
+must be revisited fundamentally. In that case, Day 4 should pivot to
+a new mechanism (likely Approach 3.3, BUGA device).
+
+
+====================================================================
+WHAT PHYSICS MECHANISM IS ANALYZED TODAY
+====================================================================
+
+Two physics themes for Day 3:
+
+THEME 1 (Tasks 3A, 3B): Accuracy and geometry optimization of the
+Maxwell stress tensor integration for asymmetric electrostatic thrust.
+  * Legendre series convergence: quantify Gibbs ringing error in L_MAX=21
+  * Cone geometry: find optimal half-angle for maximum geometry factor C
+
+THEME 2 (Task 3C): Reaction force accounting for an isolated conductor system.
+  * When hemisphere and plate are both part of the same device (not one
+    grounded externally), Newton's third law requires F_total = 0 on the system.
+  * The question: is the Buhler mechanism an external-reaction-force effect
+    (the craft pushes off the external ground plane — not useful for free flight)?
+  * Or: is there a self-contained geometry where net force on the total
+    system is nonzero in vacuum (which would violate classical EM...)?
+  * Resolution via image charge method: the image charge in the ground plane
+    represents the charge distribution on the external conductor. For a truly
+    isolated craft, the image charge does not exist — the only conductor is
+    the craft itself.
+  * The correct simulation for an isolated craft: asymmetric surface charge on
+    a single conductor (no ground plane). Compute E externally. Integrate Maxwell
+    stress over the full conductor surface.
+  * If F_total = 0 for any isolated conductor regardless of shape (which
+    classical EM demands for a charge-neutral conductor), then the Buhler
+    mechanism requires an external reaction surface and is NOT a free-flight
+    propulsion system.
+  * If F_total > 0 (possible only for a conductor with net charge), then the
+    system requires net charge, and thrust comes from Coulomb interaction with
+    the charged environment (ion wind in air, or field interaction in vacuum).
+
+
+====================================================================
+SIMULATIONS TO RUN TODAY
+====================================================================
+
+SIMULATION 3A: Legendre Convergence Test
+  File: simulation/scipy_numpy/software/run_2_3_legendre_convergence.py
+  Test: Hemisphere on grounded plane. Run L_MAX = 5, 11, 21, 51, 101.
+  Record F_z and geometry factor C at each L_MAX. Plot convergence.
+  Goal: determine converged value of C, quantify Day 2 underestimate.
+
+SIMULATION 3B: Cone Geometry Sweep
+  File: simulation/scipy_numpy/software/run_2_3_cone_sweep.py
+  Test: Replace hemisphere with cone of half-angle alpha.
+  Sweep alpha = 10, 20, 30, 45, 60, 75, 90 degrees.
+  (alpha = 90 is the hemisphere; alpha < 90 is a sharper cone)
+  At each alpha, compute C = F_z / (eps_0 * V^2).
+  Goal: find alpha_max that maximizes C.
+
+SIMULATION 3C: Isolated Conductor Force Analysis
+  File: simulation/scipy_numpy/software/run_2_3_isolated_conductor.py
+  Test: Single asymmetric conductor (hemisphere) in free space — no ground plane.
+  Method: Expand surface charge as multipole series on the isolated conductor.
+  Compute E-field. Integrate Maxwell stress over full conductor surface.
+  Check: does F_total = 0 by Newton's 3rd law?
+  If yes: free-flight propulsion from electrostatic pressure alone is impossible.
+  If no: investigate what breaks the symmetry.
+
+Validation requirement: All three simulations use the Day 2 validated
+scipy/numpy framework. No new tool validation needed for Day 3.
+
+
+====================================================================
+SECONDARY TASK: ELMERFEM AVAILABILITY CHECK
+====================================================================
+
+Check whether ElmerFEM is installable on this machine:
+  * Try: brew install elmerfem
+  * Or check: https://github.com/ElmerCSC/elmerfem
+  * If available: document version and plan Day 5 Attempt 1 Sub-approach B
+  * If unavailable: identify openEMS or NGSolve as alternative; plan installation
+
+This is low priority today. If Tasks 3A-3C consume the full day, defer to Day 4.
+
+
+====================================================================
+OUTCOME CRITERIA
+====================================================================
+
+Day 3 is successful if:
+  1. Legendre convergence is characterized (we know true C within 10%)
+  2. The cone sweep identifies whether hemisphere is optimal or not
+  3. The isolated conductor question is definitively answered
+
+The isolated conductor result will determine whether Day 4 continues
+Attempt 2 or pivots to a new attempt (Approach 3.3, BUGA device).
+
+
+====================================================================
+FILES TO CREATE TODAY
+====================================================================
+
+  * day/3/plan_day_3.mdx — THIS FILE
+  * day/3/status_day.mdx — already created
+  * attempts/2/physics_day_3.mdx — Day 3 physics analysis
+  * attempts/2/math_day_3.mdx — Day 3 mathematical derivations
+  * attempts/2/engineering_day_3.mdx — Day 3 engineering analysis
+  * attempts/2/sim_setup_day_3.mdx — simulation setup and results
+  * attempts/2/sim_learned_day_3.mdx — simulation learning analysis
+  * simulation/scipy_numpy/software/run_2_3_legendre_convergence.py
+  * simulation/scipy_numpy/software/run_2_3_cone_sweep.py
+  * simulation/scipy_numpy/software/run_2_3_isolated_conductor.py
+  * day/3/reflection_day_3.mdx — end of day reflection

@@ -1,0 +1,467 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+MATH — Day 3 (2026-04-23)
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+1. LEGENDRE SERIES CONVERGENCE ANALYSIS
+====================================================================
+
+1.1 Series Expansion for Hemisphere on Grounded Plane
+
+The electrostatic potential in spherical coordinates (r, θ, φ) for
+the half-space z > 0 above a grounded plane, with a hemispherical
+conductor of radius R at potential V:
+
+    φ(r, θ) = Σ_{l=0}^{L_MAX} B_l r^{-(l+1)} P_l(cos θ)    for r > R
+
+Boundary condition at r = R:
+
+    φ(R, θ) = V      for 0 ≤ θ ≤ π/2  (hemisphere surface)
+    φ(R, θ) = 0      for π/2 < θ ≤ π  (image of ground plane region)
+
+Applying orthogonality of Legendre polynomials:
+
+    B_l R^{-(l+1)} = (2l+1)/2 ∫_0^π φ(R, θ) P_l(cos θ) sin θ dθ
+
+Split the integral:
+
+    B_l = R^{l+1} (2l+1)/2 [ V ∫_0^{π/2} P_l(cos θ) sin θ dθ ]
+
+Let x = cos θ, dx = -sin θ dθ:
+
+    B_l = R^{l+1} (2l+1)/2 V ∫_0^1 P_l(x) dx
+
+The integral I_l = ∫_0^1 P_l(x) dx has closed form for integer l:
+
+    I_0 = 1
+    I_1 = 1/2
+    I_l = [ P_{l-1}(0) - P_{l+1}(0) ] / (2l+1)    for l ≥ 1
+
+where P_l(0) = 0 for odd l, and for even l:
+
+    P_l(0) = (-1)^{l/2} (l-1)!! / l!!
+
+For l = 2:  P_2(0) = -1/2
+    I_2 = [P_1(0) - P_3(0)] / 5 = [0 - 0]/5 = 0
+
+For l = 3:  I_3 = [P_2(0) - P_4(0)] / 7 = [-1/2 - 3/8] / 7 = -7/8 / 7 = -1/8
+
+For l = 4:  I_4 = [P_3(0) - P_5(0)] / 9 = [0 - 0]/9 = 0
+
+The pattern: I_l = 0 for all even l ≥ 2. Only odd l terms contribute.
+This means the series has non-negligible terms only at l = 1, 3, 5, 7, ...
+
+
+1.2 Convergence Rate
+
+For large odd l, the magnitudes of the Legendre integral coefficients:
+
+    I_l ~ O(l^{-1/2})   (from asymptotic expansion of Legendre polynomials)
+
+The surface E-field contribution at order l scales as:
+
+    E_l(R, θ) ~ B_l (l+1) R^{-(l+2)} P_l(cos θ) ~ V (l+1) / R · O(l^{-1/2}) = O(l^{1/2})
+
+This appears divergent, but the physical E-field is the SUM of all l
+terms. The field AT THE EDGE (θ = π/2) has the worst convergence; the
+Gibbs overshoot is ~9% of the voltage step = 0.09V, independent of L_MAX.
+
+The FORCE integral involves:
+
+    F_z = ∫_0^{π/2} (ε₀ E²_n / 2) cos θ · 2πR² sin θ dθ
+
+The cos θ weighting suppresses the contribution from near θ = π/2
+(where Gibbs is worst). The integrand vanishes at θ = π/2 because
+cos(π/2) = 0. Therefore:
+
+    * The force integral converges FASTER than the E-field itself
+    * The convergence rate for F_z is governed by terms away from θ = π/2
+    * Expected: F_z is 95%+ converged at L_MAX = 21
+
+
+1.3 Quantitative Convergence Estimate
+
+Sum the l-th order contribution to F_z:
+
+    δF_z(l) ~ ε₀ V² R² · (2l+1) · I_l² · G_l
+
+where G_l = ∫_0^{π/2} P_l²(cos θ) cos θ sin θ dθ is a geometric factor
+that decreases for large l (Parseval-like estimate).
+
+For l = 21 (the maximum in Day 2):
+
+    I_{21} ~ C_21 / sqrt(21) ~ 0.22   (from computed values)
+    G_{21} ~ O(1/21)  (geometric suppression)
+    δF_z(21) / F_z ≈ fraction contributed by l = 21 term ≪ 1%
+
+This supports the prediction that C at L_MAX = 21 is within 2-3% of
+the true converged value. The Day 2 C = 10.73 should be C_∞ ≈ 10.7-11.5.
+
+
+====================================================================
+2. CONE GEOMETRY FACTOR DERIVATION
+====================================================================
+
+2.1 Coordinate System for Cone on Plane
+
+Cone of half-angle α, height h, base radius r_base = h tan α.
+Place apex at height h above the base plate (origin at apex).
+The cone surface in spherical coordinates is: θ = α.
+
+For the conical conductor at potential V on a grounded plane,
+the boundary value problem becomes:
+
+    φ = V    on cone surface (θ = α, 0 ≤ r ≤ r_base)
+    φ = 0    on ground plane (z = 0, r > r_base)
+    φ = 0    at r → ∞
+
+Unlike the hemisphere (closed surface), the cone is an open surface.
+The solution requires a different approach — a conical coordinate
+Legendre expansion or a numerical Green's function method.
+
+For the numerical simulation (run_2_3_cone_sweep.py), we use a direct
+approach: place the conductor on a grounded plane, model the cone as a
+surface at potential V, and integrate the Maxwell stress numerically.
+
+
+2.2 E-field Concentration at Cone Apex
+
+Near the apex of a cone with rounded tip radius ρ_t:
+
+    E_apex ≈ V / (h · f(α))    where f(α) is the cone factor
+
+For a hemisphere: α = 90°, f(α) = 1/3 (since E_apex = 3V/R for
+hemisphere on plane, verified Day 2). More precisely:
+
+    E_apex (hemisphere) = (1/R) · Σ_l (l+1) B_l P_l(1) / V = 3.0 V/R
+
+This matches the Day 2 simulation: E_apex = V/R · (sum of l+1 coefficients).
+At V = 10 kV, R = 0.10 m: E_apex = 3.0 × 10^5 V/m (300 kV/m),
+consistent with the Day 2 Legendre series apex value.
+
+For a cone of half-angle α < 90°, the apex field enhancement is larger:
+
+    E_apex ~ V / (h · g(α))
+
+where g(α) decreases as α → 0 (sharper apex → higher E).
+The force at the apex:
+
+    P_apex = ε₀ E²_apex / 2 ~ V² ε₀ / (2 h² g²(α))
+
+
+2.3 Geometry Factor as Function of Cone Angle
+
+Let C(α) = F_z / (ε₀ V²) be the geometry factor.
+The cone results can be normalized by hemisphere result C(90°) = C_0.
+
+Analytical scaling argument:
+
+For a fixed-volume geometry at fixed V, as α decreases:
+    * Apex E increases as ~ 1/sin(α) for moderate α
+    * Apex pressure P ~ 1/sin²(α)
+    * Apex area contributing to F_z ~ R² sin²(α) · Δα (solid angle element)
+    * Product P · dA_z ~ (1/sin²α) · R² sin²α = R² (independent of α at apex!)
+
+This suggests the apex contribution to C(α) is roughly independent of α.
+The main variation in C(α) comes from the BASE region of the cone where
+the charge distribution changes with α.
+
+Prediction refinement: C(α) varies by less than 50% across cone angles,
+with a maximum somewhere in the 40-60 degree range. The hemisphere at
+α = 90° is NOT far from optimal.
+
+This prediction will be tested by the Day 3 cone sweep simulation.
+
+
+====================================================================
+3. ISOLATED CONDUCTOR FORCE INTEGRAL
+====================================================================
+
+3.1 Green's Theorem Proof of Zero Self-Force
+
+For an isolated conductor Ω with surface ∂Ω at uniform potential V
+in vacuum (no external charges):
+
+    The electrostatic potential φ satisfies:
+        ∇²φ = 0    in R³ \ Ω  (Laplace outside)
+        φ = V       on ∂Ω
+        φ → 0       as |r| → ∞
+
+    The Maxwell stress tensor in the exterior is:
+        T_ij = ε₀ (E_i E_j - δ_ij |E|²/2)
+
+    The net force on the conductor is:
+        F_i = ∮_{∂Ω} T_ij n^{out}_j dA
+
+    where n^{out}_j is the OUTWARD normal from the conductor.
+
+    Now consider the divergence of T in the exterior region:
+        ∂_j T_ij = ε₀ (E_j ∂_j E_i + E_i ∂_j E_j - ∂_i (|E|²/2))
+                 = ε₀ (E_j ∂_j E_i + E_i (∇·E) - E_j ∂_i E_j)
+
+    In vacuum (ρ = 0): ∇·E = 0, and ∇×E = 0 → ∂_j E_i = ∂_i E_j.
+    Therefore:
+        ∂_j T_ij = ε₀ (E_j ∂_i E_j - E_j ∂_i E_j) = 0   ✓
+
+    So ∇·T = 0 in the exterior.
+
+    By Gauss's divergence theorem over the region V_ext between ∂Ω and a
+    large sphere S_R at radius R → ∞:
+
+        ∮_{∂Ω} T_ij n_j dA + ∮_{S_R} T_ij n_j dA = ∫_{V_ext} (∂_j T_ij) dV = 0
+
+    As R → ∞, the field E ~ Q/R² (monopole) if the conductor has net charge Q.
+    The stress tensor T ~ E² ~ Q²/R⁴, and the sphere area ~ R². Therefore:
+
+        ∮_{S_R} T_ij n_j dA ~ Q²/R⁴ · R² = Q²/R² → 0 as R → ∞
+
+    Hence:
+        ∮_{∂Ω} T_ij n_j dA = 0
+
+    The net force on the isolated conductor is exactly ZERO.
+
+    This result holds for ANY shape of conductor, regardless of asymmetry,
+    provided no external charges or conductors are present.
+
+
+3.2 Physical Interpretation
+
+The result F = 0 for an isolated conductor means:
+
+    * The electrostatic self-force on a conductor cannot propel it.
+    * Any net force requires an EXTERNAL reaction.
+    * The Buhler experiment measures force between the electrode and the
+      chamber walls (which act as the ground plane / reaction body).
+
+IMPORTANT DISTINCTION: The force between the craft electrode and an
+external conductor IS real and is the Buhler mechanism. For a craft in
+free space interacting with a planet's electric field, the mechanism
+becomes:
+
+    F_craft = (charge on craft) × (external E-field from planet)
+            = Q · E_external
+
+This is an ordinary Coulomb interaction with the planet — not a novel
+thrust mechanism. For a small craft charge Q ~ 1 μC in Earth's fair-weather
+E-field of ~100 V/m: F ~ 10⁻⁴ N. Insufficient for lift.
+
+
+3.3 Can the Craft Carry Its Own Ground Plane?
+
+If the craft carries both the apex emitter (+V) and a base plate (ground),
+both separated by an insulator, the internal force structure is:
+
+    Force on apex: F_up = ε₀ E²_apex · A_apex / 2    (upward)
+    Force on plate: F_down = ε₀ E²_plate · A_plate / 2  (downward)
+
+By Newton's 3rd law for internal forces:
+    F_up + F_down = 0    (for the center-of-mass motion)
+
+The two parts push against each other with equal and opposite forces.
+The craft as a WHOLE experiences zero net force.
+
+But: if the potential difference across the insulator drives a current
+(e.g., corona discharge, field emission), charged particles are EJECTED
+from the system. The ejected charge carries momentum, and the craft
+recoils. This is ion thruster physics — requires consumable propellant
+(the emitted charge).
+
+
+====================================================================
+4. NUMERICAL VALUES FOR DAY 3 SIMULATIONS
+====================================================================
+
+4.1 Convergence Test Parameters
+
+L_MAX values to test: 5, 11, 21 (Day 2 value), 51, 101
+At each L_MAX, compute:
+    C = F_z / (ε₀ V₀²)    [dimensionless geometry factor]
+    V_lift = sqrt(m·g / (ε₀ · C · R²))  where m = 0.5 kg, g = 9.81 m/s²
+    E_apex = E_r(R, θ=0)   [field at apex, kV/m]
+    Delta_C = |C - C(L_MAX=21)| / C(L_MAX=21)  [fractional change]
+
+Expected at L_MAX = 51:
+    C ≈ 10.9 ± 0.5
+    V_lift ≈ 220 kV
+    Convergence: Delta_C < 3%
+
+Expected at L_MAX = 101:
+    C ≈ 11.0 ± 0.5
+    V_lift ≈ 218 kV
+    Convergence: Delta_C < 1% relative to L_MAX = 51
+
+
+4.2 Cone Sweep Parameters
+
+Cone half-angles to test (degrees): 5, 10, 20, 30, 45, 60, 75, 90
+Note: α = 90° = hemisphere (Day 2 reference C = 10.73)
+
+For each angle, the simulation normalizes by R (a reference length scale).
+The "cone" conductor is modeled as a thin shell at angle α above a
+grounded plane. The Maxwell stress is integrated over the cone surface.
+
+Expected C values (rough estimates from field concentration scaling):
+    α = 90° (hemisphere): C ≈ 10.7  (known)
+    α = 60°: C ≈ 12-15  (moderately sharper apex)
+    α = 45°: C ≈ 15-20  (strong apex concentration)
+    α = 30°: C ≈ 18-25  (maximum expected near here)
+    α = 20°: C ≈ 15-22  (beginning to lose area at apex)
+    α = 10°: C ≈ 10-18  (very sharp, apex area very small)
+    α = 5°:  C ≈ 5-12   (area effect dominates)
+
+
+4.3 Isolated Conductor Parameters
+
+Geometry: hemisphere of radius R = 10 cm, in free space (no ground plane).
+Charge: Q = 4πε₀ R V = 4π × 8.854×10⁻¹² × 0.10 × V₀
+At V₀ = 10 kV: Q = 1.11 × 10⁻⁸ C = 11.1 nC
+
+Expected F_z: ZERO by the Green's theorem proof above.
+Simulation should confirm to machine precision F_z < 10⁻¹² N
+(limited by floating point, ~10⁻¹⁰ N for double precision).
+
+If F_z is nonzero in the simulation: this indicates a numerical error
+in the integration (not a physical effect). The sign and location of
+the error should be logged.
+
+
+====================================================================
+5. DIMENSIONAL ANALYSIS CHECK
+====================================================================
+
+5.1 Geometry Factor C
+
+    C = F_z / (ε₀ V₀²)
+    Units: [N] / ([F/m] · [V²]) = [N] / ([N·m/V² · V²]) = [N/N] = dimensionless ✓
+
+    At Day 2 values:
+    C = 9.50×10⁻³ N / (8.854×10⁻¹² F/m × (10⁴ V)²)
+      = 9.50×10⁻³ / (8.854×10⁻⁴)
+      = 10.73 ✓ (matches simulation)
+
+
+5.2 Lift Voltage from C
+
+    F_z = ε₀ C V₀² R²   (where R is the characteristic length of the conductor)
+
+    Wait — actually from Day 2: F/V² = 9.4994×10⁻¹¹ N/V² was found to be
+    independent of R (in the Day 2 scan, R independence was noted).
+    This means C_eff = F/(ε₀ V²) has an R dependence embedded.
+
+    Checking units: if F_z = ε₀ · C_eff · V²:
+    Then C_eff = F / (ε₀ V²) has units [N / (F/m · V²)] = [N·m/(N)] = [m]
+
+    So C_eff = 10.73 has units of meters!? At R = 10 cm = 0.10 m:
+    C_eff = 10.73 m? No — let's recheck.
+
+    Actually: ε₀ = 8.854×10⁻¹² C²/(N·m²) = 8.854×10⁻¹² F/m
+
+    F_z = 9.50×10⁻³ N
+    ε₀ V² = 8.854×10⁻¹² × (10⁴)² = 8.854×10⁻¹² × 10⁸ = 8.854×10⁻⁴ N/m
+
+    So C_eff = F_z / (ε₀ V²) = 9.50×10⁻³ N / (8.854×10⁻⁴ N/m) = 10.73 m
+
+    C_eff has dimensions of LENGTH (meters). At R = 0.10 m:
+    C_eff / R = 10.73 m / 0.10 m = 107.3 (dimensionless)
+
+    OR: define the dimensionless C as F / (ε₀ V² R):
+
+    C_dimensionless = F_z R / (ε₀ V²)  [dimensionless]
+                    = (9.50×10⁻³ × 0.10) / (8.854×10⁻⁴)
+                    = 9.50×10⁻⁴ / 8.854×10⁻⁴
+                    = 1.073
+
+    Or alternatively, the correct dimensionless form:
+
+    C = F_z / (ε₀ V² / R) = F_z R / (ε₀ V²)
+
+    For the hemisphere: C_dimensionless ≈ 1.073
+
+    The quantity reported as C = 10.73 was F_z / (ε₀ V²) with implicit
+    unit of length embedded. The truly dimensionless form uses F_z R / (ε₀ V²) = 1.073.
+
+    This affects how we compare cone geometries at different sizes.
+    The cone sweep should report C_dimensionless = F_z R / (ε₀ V²) where
+    R is the characteristic length of the cone (e.g., base radius or height).
+
+
+5.3 Corrected Lift Voltage
+
+    At lift:   F_z = m g
+
+    F_z = ε₀ (V_lift / R) C_dim R²   ... (using C_dim = F R / (ε₀ V²))
+
+    Wait, let me redo from scratch.
+
+    From the numerical result:
+        coefficient = F_z / V² = 9.4994×10⁻¹¹ N/V²  (for R = 0.10 m)
+
+    For lift at 0.5 kg:
+        V_lift = sqrt( m g / (F/V²) ) = sqrt( 0.5 × 9.81 / 9.4994×10⁻¹¹ )
+               = sqrt( 4.905 / 9.4994×10⁻¹¹ )
+               = sqrt( 5.163×10¹⁰ )
+               = 2.272×10⁵ V = 227.2 kV    ✓ (matches Day 2)
+
+    The coefficient F/V² scales with R. How?
+
+    From the Legendre series:
+        F_z = (ε₀ V² / R) × Σ_l (l+1)(2l+1) B̃_l² × angular_factor_l
+
+    where B̃_l = B_l / (R^{l+1} V) are dimensionless coefficients. So:
+
+        F_z ~ ε₀ V² R^{?}
+
+    Let's check scaling: if R doubles (R → 2R at same V):
+        Each B_l scales as R^{l+1}
+        E-field at surface: E_n = -(l+1) B_l R^{-(l+2)} ~ R^{-1}
+        P = ε₀ E²/2 ~ R^{-2}
+        dA ~ R² (area element scales as R²)
+        F_z = ∫ P cos θ dA ~ R^{-2} × R² = R^0 = constant
+
+    F_z is INDEPENDENT of R at fixed V. This confirms the Day 2 observation
+    that the scaling coefficient F/V² is independent of R at the same voltage.
+
+    Physical reason: E ~ V/R (voltage over size), so P ~ V²/R². Multiplied by
+    area ~ R², gives F ~ V². The R dependences cancel.
+
+    Therefore:
+        V_lift is INDEPENDENT of conductor size at fixed geometry shape.
+        V_lift = sqrt(mg / coefficient) = 227 kV regardless of R.
+
+    This is counterintuitive but correct: making the hemisphere larger
+    does NOT reduce the lift voltage at fixed V. To reduce V_lift, one must:
+        (a) Increase C (geometry optimization: cone sweep task 3B)
+        (b) Stack multiple elements (increases F_z proportional to N
+            at fixed geometry, so V_lift = const / sqrt(N))
+        (c) Change to higher-epsilon environment (not vacuum — loses Buhler validity)
+
+
+====================================================================
+6. SUMMARY OF KEY EQUATIONS FOR DAY 3
+====================================================================
+
+Maxwell stress surface force:
+    F_z = ∮ (ε₀ E²_n / 2) ẑ·n̂ dA
+
+Legendre series for hemisphere on grounded plane:
+    φ(r,θ) = V R/r Σ_l [(2l+1)/2 I_l] (R/r)^l P_l(cos θ)
+    I_l = ∫_0^1 P_l(x) dx   (nonzero only for l = 0 and odd l)
+
+Geometry factor (dimensionless):
+    C_dim = F_z R / (ε₀ V²)   [correct dimensionless form]
+    Day 2 value: C_dim = 1.073 (hemisphere, L_MAX=21)
+
+Lift voltage (R-independent):
+    V_lift = sqrt(mg / (F/V²))   where F/V² = ε₀ C_dim / R
+
+For N identical stacked elements:
+    F_z,total = N × F_z,one
+    V_lift,stack = V_lift,single / sqrt(N)
+
+For 10 stacked hemispheres at R = 10 cm, V_lift,one = 227 kV:
+    V_lift,stack(N=10) = 227 / sqrt(10) = 71.8 kV
+    V_lift,stack(N=100) = 227 / 10 = 22.7 kV

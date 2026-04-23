@@ -1,0 +1,268 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+ENGINEERING — Day 3 (2026-04-23)
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+1. ENGINEERING IMPLICATIONS OF DAY 3 PHYSICS RESULTS
+====================================================================
+
+The isolated conductor analysis in physics_day_3.mdx establishes that
+the Buhler mechanism requires an external reaction body. This fundamentally
+changes the engineering design space.
+
+The following configurations are physically viable for a craft:
+
+
+====================================================================
+2. CONFIGURATION A: GROUND-REFERENCED PROPULSION SYSTEM
+    (Near-surface craft with external ground reference)
+====================================================================
+
+2.1 System Description
+
+The craft carries a high-voltage electrode array. The Earth (or any
+large conducting body) serves as the external ground plane / reaction body.
+The Maxwell stress forces the craft upward against the reaction force
+transmitted to Earth via the electrostatic field.
+
+2.2 Key Engineering Parameters
+
+Electrode geometry: Hemisphere array, R = 10 cm, N = 100 elements
+    * Voltage per element: 10 kV (manageable with commercial HV supplies)
+    * Lift per element (V = 10 kV, R = 10 cm): F_z ≈ 9.5 mN
+    * Total lift (N = 100): F_z,total ≈ 0.95 N
+    * Lift mass: 0.95 / 9.81 ≈ 97 grams
+
+For 0.5 kg lift:
+    * N = 100 elements at 22.7 kV each, OR
+    * N = 10 elements at 71.8 kV each, OR
+    * N = 1 element at 227 kV
+
+Power requirement:
+    * Electrostatic system: P = V × I
+    * I depends on leakage and corona discharge
+    * In vacuum (no corona): I approaches zero, P → 0
+    * In air: corona onset at E > 3 MV/m limits electrode geometry
+    * At apex of hemisphere: E_apex = 3V/R = 3 × 10000/0.1 = 300 kV/m
+    * This is below air corona threshold (3000 kV/m) — air operation possible!
+    * However: air ion wind (NOT corona) contributes to force in air
+    * The Buhler vacuum test is required to isolate the pure electrostatic effect
+
+2.3 Altitude Limitation
+
+The mechanism requires the craft to be close enough to a conducting surface
+to have significant field coupling. The force falls off as the distance to
+the ground plane increases.
+
+For a hemisphere at height H above the ground:
+
+    F_z(H) ≈ F_z(H=0) × (R / (R + H))²  (approximate, dipole falloff)
+
+At H = 1 m, R = 10 cm: F_z(1m) ≈ F_z(0) × (0.1/1.1)² ≈ 0.83% of F_z(0)
+
+This is a severe limitation. At 1 meter altitude, the force is < 1% of
+the ground-reference value. This configuration is essentially limited to
+surface skimming (H < R) or requires an extremely high voltage to compensate.
+
+At H = R = 10 cm and V = 227 kV:
+    F_z(H=R) ≈ F_z(H=0) × (1/2)² = 25% × F_z(0) = 25% × 0.5 × 9.81 = 1.23 N
+
+Still sufficient for 0.5 kg lift at half-hemisphere-height.
+
+Engineering verdict for Configuration A: VIABLE FOR NEAR-SURFACE FLIGHT ONLY.
+Range limited to H ≲ 5R from ground. At R = 10 cm, max useful altitude ~ 50 cm.
+
+
+====================================================================
+3. CONFIGURATION B: STACKED MULTI-ELEMENT ARRAY
+    (Higher voltage, more elements for increased lift)
+====================================================================
+
+3.1 Stack Design
+
+Stack N hemispherical elements vertically, each at potential V relative
+to the element below it. The bottom element is referenced to external ground.
+
+The total force F_z,total = N × F_z,single if elements are spaced far enough
+to avoid field cancellation between adjacent elements.
+
+Required spacing: D_min ≈ 5R between element centers to avoid field interference.
+For R = 10 cm: D_min ≈ 50 cm between centers → total stack height ≈ N × 50 cm.
+
+For N = 10 elements at R = 10 cm:
+    Stack height: 5 m (impractical for a compact craft)
+    Total F_z: 10 × 9.5 mN at 10 kV = 95 mN at 10 kV per element
+    For 0.5 kg: need V = 71.8 kV at 10 kV/element (7 elements at 10 kV each)
+    Stack height for 7 elements: 3.5 m
+
+Verdict: Stack configuration requires unacceptably large physical dimensions
+for reasonable voltages. A flat array (2D, N elements side-by-side) is more
+compact.
+
+3.2 Flat Array Design
+
+N = 100 hemispherical elements in a 10×10 array, each of radius R = 2 cm.
+    Spacing: D = 5R = 10 cm center-to-center
+    Array dimensions: 10 × 10 cm = 100 cm × 100 cm = 1 m²
+    Each element: F_z = 9.5 mN at 10 kV (independent of R — confirmed Day 3)
+    Total F_z = 100 × 9.5 mN = 950 mN ≈ 0.97 N
+    For 0.5 kg: required F_z = 4.905 N → need ~500 elements at 10 kV
+    5 m × 5 m array for 500 elements
+
+For practical craft (1 m²):
+    N = 100, V = 10 kV per element: F_z = 0.95 N → 97 g lift
+    N = 100, V = 32 kV per element: F_z = 10 N → 1 kg lift
+
+Engineering verdict for Configuration B:
+    A 1 m² flat array at 32 kV achieves 1 kg lift.
+    This is COMPACT and MANAGEABLE from a high-voltage perspective.
+    The 32 kV supply is off-the-shelf laboratory HV.
+    The electromagnetic emissions from such an array need analysis.
+
+
+====================================================================
+4. CONFIGURATION C: CONE ARRAY
+    (Leverage cone geometry optimization from Day 3 simulation)
+====================================================================
+
+If the cone sweep (simulation 3B) shows C_cone > C_hemisphere, the array
+design can use cones to achieve higher force per element.
+
+Assume optimistic case: cone at α = 30° gives C = 20 (roughly double hemisphere).
+
+Then for the same array parameters as Configuration B:
+    N = 100, V = 32 kV per element, cone geometry:
+    F_z = 2 × 10 N = 20 N → 2 kg lift from 1 m² array
+
+For 0.5 kg lift with cone geometry:
+    N = 100, V = 22 kV per element
+    Or N = 25, V = 44 kV per element
+
+This is meaningfully better than the hemisphere array. Day 3 cone simulation
+will determine whether this gain is achievable.
+
+
+====================================================================
+5. HIGH-VOLTAGE SYSTEM SPECIFICATIONS
+====================================================================
+
+5.1 Voltage Supply
+
+Required: 10-100 kV DC, adjustable, 1-100 mA
+Available off-shelf: Glassman, UltraVolt, Spellman HV supplies
+    * Glassman ER series: 0-100 kV, 0-1 mA, compact
+    * Cost: ~$2,000-5,000 per supply
+    * One supply per element or shared supply with resistive divider network
+
+5.2 Insulation Requirements
+
+Between HV electrode and craft structure:
+    Dielectric strength requirement: 100 kV over 5 cm gap = 2 MV/m
+    PTFE (Teflon): dielectric strength 19.7 MV/m → 5 cm PTFE is safe
+    Alumina ceramic: dielectric strength 10-20 MV/m → also safe
+
+Electrode mounting post:
+    * PTFE rod, 2 cm diameter, 5 cm height
+    * No sharp edges on mounting structure (chamfer to avoid corona)
+    * Surface resistivity of PTFE > 10¹⁵ Ω (minimal leakage)
+
+5.3 Corona and Breakdown in Air
+
+At V = 10 kV, R = 10 cm:
+    E_apex = 300 kV/m = 0.3 MV/m
+    Air breakdown field: 3 MV/m (10× higher)
+    Corona onset for hemispherical geometry: ~1 MV/m
+    → No corona at 10 kV, R = 10 cm in air
+
+At V = 32 kV, R = 10 cm:
+    E_apex = 960 kV/m = 0.96 MV/m
+    → Still below corona onset in clean dry air
+    → Marginal in humid air or near surfaces
+
+At V = 100 kV, R = 10 cm:
+    E_apex = 3 MV/m = air breakdown threshold
+    → Corona discharge begins in air. Vacuum required above 100 kV / (R = 10 cm).
+
+Design rule: For air operation, keep V < 50 kV at R = 10 cm.
+For 0.5 kg lift in air with R = 10 cm: need N = 50 elements at 50 kV each.
+Array: 7×7 elements, 0.49 m² footprint. Manageable.
+
+5.4 Vacuum Chamber Requirements for Validation
+
+For Buhler-mechanism validation (eliminating ion wind):
+    * Chamber volume: 60 cm diameter, 60 cm height
+    * Pressure: < 10⁻⁵ Torr (turbomolecular pump)
+    * Feedthrough: 100 kV HV ceramic feedthrough (MDC Vacuum, Kurt Lesker)
+    * Internal suspension: torsion balance or force transducer
+    * Data: force vs. voltage, force vs. geometry, force vs. pressure (to show vanishing at 1 atm is NOT observed = confirms mechanism is not ion wind)
+
+Estimated cost of minimum validation setup:
+    * Vacuum chamber: $3,000-8,000
+    * Turbomolecular pump + controller: $5,000-12,000
+    * HV feedthrough: $500-2,000
+    * HV supply: $2,000-5,000
+    * Force measurement: $500-2,000
+    Total: $11,000-29,000
+
+This is a realizable laboratory experiment.
+
+
+====================================================================
+6. WHAT CAN BE SIMULATED VS. WHAT REQUIRES PHYSICAL BUILD
+====================================================================
+
+SIMULATABLE (ongoing):
+    * Geometry factor C vs. cone angle (Day 3)
+    * Legendre convergence (Day 3)
+    * Force vs. voltage scaling law (confirmed Day 2)
+    * Array element interaction and cancellation (Day 4+)
+    * Height-above-ground force falloff (Day 4+)
+
+REQUIRES PHYSICAL BUILD / MEASUREMENT:
+    * Confirmation that ion wind is excluded (vacuum chamber test)
+    * Material breakdown limits under prolonged HV operation
+    * Dielectric creep and charging effects on PTFE mounts
+    * Thermal effects from any HV losses
+    * Corona discharge onset as function of electrode sharpness
+    * Force measurement with calibrated scale or torsion balance
+
+
+====================================================================
+7. MINIMUM VIABLE PROTOTYPE FOR PROOF-OF-CONCEPT
+====================================================================
+
+Target: Demonstrate measurable upward force (> 1 mN) from electrostatic
+pressure asymmetry in air, before committing to vacuum setup.
+
+Components:
+    * 10 cm radius aluminum hemisphere (machined or hand-formed)
+    * 25 cm × 25 cm aluminum ground plate
+    * PTFE mounting post (3 cm dia, 10 cm high)
+    * 10-30 kV DC HV supply
+    * Analytical balance (0.01 g resolution) as force sensor
+    * Option: digital scale with 0.01 g resolution, isolated from HV
+
+Test procedure:
+    1. Place assembly on scale (not connected to HV)
+    2. Record baseline weight
+    3. Apply 10 kV to hemisphere
+    4. Record weight change
+    5. Repeat at 20 kV, 30 kV
+    6. Plot weight vs. V² (should be linear if mechanism is Maxwell stress)
+    7. Compare weight change to predicted F_z (9.5 mN = 0.97 g at 10 kV)
+
+NOTE: In air (not vacuum), the measured force will include BOTH the
+electrostatic Maxwell stress AND an ion wind contribution. Ion wind
+will produce a larger, direction-dependent force. To isolate the
+Maxwell stress component:
+    * Ion wind is inversely proportional to air pressure
+    * Maxwell stress is independent of pressure (it's a surface force)
+    * Measuring force at multiple pressures (atmospheric → rough vacuum)
+      and extrapolating to P = 0 isolates the Maxwell stress contribution
+
+Cost of minimum prototype: $200-500.
+This is a viable first step before investing in a vacuum chamber.

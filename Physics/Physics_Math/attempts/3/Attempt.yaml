@@ -1,0 +1,115 @@
+attempt_number: 3
+name: BUGA_Three_Phase_Rotating_Field
+status: active
+started: 2026-04-23
+last_updated: 2026-04-23
+
+summary: >
+  Three-phase rotating electromagnetic field produced by three coil assemblies
+  at 120-degree azimuthal intervals, coupled to a large toroidal ferrite element
+  at the base and a hemispherical electrode at the top. Based on the European
+  BUGA ORB-SPHERE device (multi-year documented construction, anomalous scale
+  readings: 0.12 kg and 0.058 kg across construction stages).
+  Physical mechanism: rotating B-field carries electromagnetic angular momentum;
+  asymmetric coupling to the ferrite toroid may produce a net axial force.
+  The Podkletnov gravitomagnetic analog at room temperature (ferrite replaces
+  rotating superconductor). Does NOT require an external ground plane —
+  the mechanism is field-intrinsic and thus viable for free-flight propulsion
+  if a nonzero time-averaged axial force is confirmed.
+
+physics_basis:
+  primary_mechanism: Three-phase rotating B-field + toroidal ferrite Kelvin force
+  time_varying: true
+  frequency_range_Hz: 10 to 10000
+  field_geometry: Rotating azimuthal field (three coils at 0, 120, 240 degrees)
+  key_equations:
+    - "B(r,t) = sum_{k=0}^{2} B_k(r) * cos(2*pi*f*t - 2*pi*k/3)  [three-phase superposition]"
+    - "L_EM = eps_0 * integral (r x (E x B)) dV  [EM angular momentum density]"
+    - "F_Kelvin = mu_0 * chi_m * integral (H · grad)H dV  [Kelvin body force on ferrite]"
+    - "T_avg = (1/T) * integral_0^T (d/dt)(L_EM) dt  [time-averaged torque]"
+    - "S_z = (1/mu_0) * (E x B)_z  [axial Poynting flux for linear momentum]"
+  force_direction: Axial (vertical, z-direction), sign to be determined by simulation
+  unique_claim: >
+    Asymmetric coupling between rotating EM field and toroidal ferrite produces
+    a net time-averaged axial force. The asymmetry arises from the toroid
+    geometry (field lines preferentially enter through the top face near the coils
+    and exit through the outer equatorial surface). This geometry may create
+    a net vertical component in the Kelvin force integral.
+  podkletnov_analog: >
+    Podkletnov (1992): rotating YBCO superconductor above toroidal solenoid
+    showed ~0.3% weight reduction for objects above the disc. Attributed to
+    gravitomagnetic coupling. Here: ferrite toroid (mu_r~2000) replaces
+    superconducting disc; rotating three-phase EM field replaces mechanical
+    rotation. Room temperature operation. If the Podkletnov effect is real
+    and depends only on field rotation geometry, the ferrite analog should
+    show a detectable fraction of the 0.3% effect.
+
+design_parameters:
+  coil_count: 3
+  coil_phase_separation_deg: 120
+  coil_radius_cm: 5.0
+  coil_height_above_toroid_cm: 3.0
+  coil_turns: 100
+  coil_current_A: 1.0
+  frequency_Hz: 60
+  toroid_inner_radius_cm: 3.0
+  toroid_outer_radius_cm: 8.0
+  toroid_height_cm: 2.0
+  toroid_material: ferrite
+  toroid_mu_r: 2000
+  electrode_radius_cm: 2.0
+  electrode_voltage_kV: 0.0  # Day 4: pure magnetic; electrode added later if needed
+  total_device_mass_kg_estimate: 2.0  # estimated from BUGA scale readings
+
+empirical_targets:
+  buga_scale_reading_1: "0.12 kg (advanced construction stage with toroid)"
+  buga_scale_reading_2: "0.058 kg (different build stage, dark disc assemblies)"
+  mass_difference_g: 62
+  mass_reduction_percent: 52
+  note: >
+    The two scale readings may represent: (a) different components at different
+    construction stages, or (b) before/during active EM operation measurements.
+    If (b), the 52% mass reduction would be extraordinary. Simulation must
+    test whether ANY detectable force can be produced to bound the effect.
+
+simulation_plan:
+  software: scipy_numpy_biot_savart
+  day_4_tasks:
+    4A: >
+      Biot-Savart rotating B-field map: three coils at 0/120/240 degrees,
+      each driven by I(t) = I_0 * cos(omega*t - phi_k). Compute B(r,t)
+      at all spatial points. Verify field rotates in azimuth. Compute
+      time-averaged |B|^2 as function of z (height above device). Check
+      for axial asymmetry between above and below the coil plane.
+    4B: >
+      Kelvin force on toroidal ferrite: integrate F = mu_0 * chi_m * (M·grad)H
+      over the toroid volume using the rotating field from 4A. Compute
+      <F_z> (time-averaged z-component). Is it zero by symmetry or nonzero?
+    4C: >
+      EM angular momentum flux: compute S_z(z) = (E x B)_z / mu_0 integrated
+      over a horizontal plane at height z. If <S_z> ≠ 0 above vs. below the
+      device, the device is radiating net z-directed EM momentum.
+
+open_questions:
+  - OPEN: Does the three-phase rotating field produce a nonzero time-averaged
+          axial Kelvin force on the toroidal ferrite?
+  - OPEN: What is the frequency dependence of the Kelvin force?
+          (Expected: F_Kelvin ~ omega^2 in some regimes)
+  - OPEN: Is there net EM angular momentum flux in the axial direction?
+  - OPEN: How does the force scale with toroid permeability mu_r?
+  - OPEN: Can the BUGA scale measurement difference (62 g) be explained by
+          the Kelvin force mechanism at practical field strengths?
+  - OPEN: What coil current / frequency combination would produce measurable
+          force (>1 mN) at the BUGA device scale?
+
+days_worked:
+  - 4
+
+status_notes: >
+  Day 4: Attempt 3 created. First physics and simulation work today.
+  Key empirical target: BUGA scale readings 0.12 kg and 0.058 kg.
+  Physics question: does rotating three-phase EM field + toroidal ferrite
+  produce net axial time-averaged force? Approach differs from Attempts 1 and 2:
+  time-varying (not static), does not require external ground plane.
+  If Kelvin force from rotating field is zero by symmetry, EM angular
+  momentum redistribution is the remaining candidate mechanism.

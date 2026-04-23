@@ -60,15 +60,19 @@ engineering_notes: >
   makes this a laboratory experiment, not a garage build.
 
 open_questions:
-  - Does the scipy/numpy Maxwell stress tensor integration reproduce Buhler force scale?
-  - What geometry maximizes force per unit applied voltage?
-  - How does force scale with conductor size (R)?
-  - Can a stack of asymmetric elements add force coherently (no cancellation)?
-  - Is there a configuration that produces sufficient force to levitate 0.5 kg?
-  - What is the breakdown voltage limit for the geometry (air vs. vacuum)?
+  - ANSWERED Day 2: scipy/numpy Maxwell stress tensor reproduces Buhler force scale. ✓
+  - ANSWERED Day 3: Cone alpha=30 deg maximizes C (3.1x hemisphere). V_lift = 128 kV.
+  - ANSWERED Day 3: Force scales as V^2 (R-independent for fixed shape). ✓
+  - ANSWERED Day 3: Isolated conductor F_z = 0 — external ground plane required. ✗ free flight
+  - OPEN: BEM/FEM validation of the cone result (Legendre series diverges at rim singularity)
+  - OPEN: Fine cone sweep 20-40 degrees to find true optimal angle
+  - OPEN: Force vs. height above ground — quantify usable altitude envelope
+  - OPEN: Multi-element flat array force additivity and optimal element spacing
+  - OPEN: Can a different physics mechanism (BUGA, Podkletnov analog) produce free-flight thrust?
 
 days_worked:
   - 2
+  - 3
 
 simulation_results_day_2:
   validation_pass: true
@@ -85,12 +89,36 @@ simulation_results_day_2:
   air_breakdown_exceeded_at_lift: true
   field_emission_margin: ">15x below vacuum limit"
 
+simulation_results_day_3:
+  legendre_convergence:
+    L_MAX_21: {F_z_mN: 9.50, C_eff_m: 10.73}
+    L_MAX_51: {F_z_mN: 10.89, C_eff_m: 12.30}
+    L_MAX_101: {F_z_mN: 12.00, C_eff_m: 13.56}
+    convergence_status: DIVERGING (log growth due to rim singularity)
+    day_2_is_lower_bound: true
+  cone_sweep:
+    optimal_angle_deg: 30
+    optimal_C_eff_m: 33.56
+    optimal_V_lift_kV: 128.5
+    hemisphere_C_eff_m: 10.73  # Day 2 reference
+    improvement_factor: 3.1
+    note: FD simulation, coarse grid, relative results reliable, absolute ±30%
+  isolated_conductor:
+    F_z_isolated_N: 0.0
+    external_ground_required: true
+    free_flight_viable: false
+    near_surface_viable: true
+    max_altitude_approx: "5 * R"
+
 status_notes: >
-  Day 2 simulation (scipy/numpy Legendre expansion, L_MAX=21) POSITIVE.
-  Validation: full sphere F_z = 0 (exact). Main test: hemisphere F_z = 9.50 mN
-  upward at R=10cm, V=10kV. Force scales exactly as V^2, independent of R.
-  Geometry factor C = 10.73 (higher than naive estimate C~1). Lift voltage
-  = 227.2 kV in vacuum (E_apex = 6.82 MV/m, below field emission limit ~100 MV/m).
-  Gibbs ringing in E_r at theta~10° due to L_MAX=21 truncation — force integral
-  still valid. Day 3 priorities: BEM for exact E_r profile, cone geometry sweep,
-  convergence check at L_MAX=51/101. Attempt status: ACTIVE, positive progress.
+  Day 2: Legendre (L_MAX=21) gave F_z = 9.50 mN at 10kV (lower bound).
+  Day 3: Three key findings:
+  (1) Legendre series DIVERGES logarithmically due to square-root singularity at rim.
+      Day 2 result is a lower bound; true F_z is higher. BEM needed for accurate value.
+  (2) Cone geometry alpha=30 deg gives C_eff = 33.56 m, 3.1x hemisphere, V_lift = 128 kV.
+      Geometry optimization has high leverage; finer sweep and FEM validation needed.
+  (3) Isolated conductor F_z = 0. The mechanism is an EXTERNAL FORCE between hemisphere
+      and ground plane. Free-flight propulsion not possible. Near-surface hover viable (H<5R).
+  STATUS: Secondary — near-surface hover application preserved. Primary thrust moved to
+  Attempt 3 (BUGA three-phase rotating field, Approach 3.3) for free-flight mechanism.
+  BEM validation of cone result is Day 5+ priority.

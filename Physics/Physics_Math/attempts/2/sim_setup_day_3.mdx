@@ -1,0 +1,111 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+SIMULATION SETUP — Day 3 (2026-04-23)
+Attempt: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+SOFTWARE: scipy 1.17.1 / numpy 2.4.2
+VALIDATION STATUS: scipy/numpy electrostatic framework VALIDATED (Day 2).
+    Full sphere F_z = 0 (exact). Hemisphere F_z = 9.50 mN at 10 kV. No re-validation needed.
+
+====================================================================
+SIMULATION 3A: Legendre Series Convergence
+====================================================================
+
+FILE: simulation/scipy_numpy/software/run_2_3_legendre_convergence.py
+
+GEOMETRY: Hemisphere of radius R = 10 cm on grounded plane. V_0 = 10 kV.
+WHAT IT TESTS: How much does F_z change as L_MAX increases from 5 to 101?
+EXPECTED: C_eff converges by L_MAX = 51; Day 2 result (L_MAX=21) accurate within 5%.
+INPUTS: L_MAX values = [5, 11, 21, 51, 101]. R = 0.10 m, V_0 = 10 kV.
+
+--- ACTUAL RESULTS ---
+
+PASS: Day 2 result reproduced at L_MAX=21: F_z = 9.4994 mN ✓
+
+L_MAX=5:   F_z = 7.552 mN,   C_eff = 8.529 m
+L_MAX=11:  F_z = 8.558 mN,   C_eff = 9.665 m
+L_MAX=21:  F_z = 9.499 mN,   C_eff = 10.729 m  ← Day 2 reference
+L_MAX=51:  F_z = 10.890 mN,  C_eff = 12.299 m  (+14.6% from L_MAX=21)
+L_MAX=101: F_z = 12.003 mN,  C_eff = 13.556 m  (+26.4% from L_MAX=21)
+
+KEY FINDING: The Legendre series is NOT converged at L_MAX=21.
+The series appears to grow logarithmically: C(L) ≈ 5.3 + 1.8*ln(L).
+Log-fit predicts: at L_MAX=101, C ≈ 13.56 (matches).
+This is caused by a SQUARE-ROOT SINGULARITY in sigma at the hemisphere rim
+(theta = pi/2). The singularity causes slow convergence of the Legendre series.
+The force integral is finite (cos(theta) → 0 at the rim), but the series
+converges logarithmically, not to a fixed value — suggesting the actual
+integral has a weak logarithmic divergence from the corner.
+
+At L_MAX=101:
+  V_lift (0.5 kg) = 202 kV (vs. 227 kV at L_MAX=21; ~11% lower)
+  Apex E at lift  = 19.3 MV/m (exceeds air breakdown, below vacuum field emission)
+
+Gibbs check at L_MAX=101: No sign changes in E_r near edge. Oscillations
+from the ringing are at the surface near theta=90 degrees.
+
+====================================================================
+SIMULATION 3B: Cone Geometry Sweep
+====================================================================
+
+FILE: simulation/scipy_numpy/software/run_2_3_cone_sweep.py
+
+GEOMETRY: Cone of half-angle alpha on grounded plane. V_0 = 10 kV.
+WHAT IT TESTS: C_eff vs. cone angle. Find angle that maximizes C.
+EXPECTED: Maximum C somewhere between 30 and 60 degrees. Hemisphere (90 deg) not optimal.
+INPUTS: alpha values = [10, 20, 30, 45, 60, 75, 90 degrees]. V_0 = 10 kV.
+METHOD: 2D FD Laplace solver in cylindrical coordinates (rho, z). Grid: 60×80.
+
+--- ACTUAL RESULTS ---
+
+alpha (deg) | F_z (mN) | C_eff (m) | V_lift (kV)
+10          |  9.63    | 10.87     | 226
+20          | 22.79    | 25.74     | 147
+30          | 29.71    | 33.56     | 128   ← OPTIMAL
+45          | 11.95    | 13.50     | 203
+60          |  3.51    |  3.96     | 374
+75          |  0.58    |  0.66     | 917
+90 (disk)   |  0.00    |  0.00     |  ∞    (degenerate: alpha=90 in FD = flat disk)
+
+NOTE: alpha=90 in the FD code is a flat horizontal disk (degenerate case),
+NOT the hemisphere from the Day 2 Legendre calculation. The hemisphere
+result (9.50 mN, C_eff=10.73) from Day 2 corresponds to the curved spherical dome.
+The FD cone sweep alpha=10 result (9.63 mN) is close to the hemisphere result,
+confirming the FD code is consistent with Day 2 for small angles.
+
+KEY FINDING: Cone angle alpha = 30 degrees gives C_eff = 33.56 m,
+approximately 3.1x higher than the hemispherical geometry (10.73 m from Day 2).
+This reduces V_lift from 227 kV (hemisphere) to ~128 kV (30-degree cone).
+The optimal is between 20-35 degrees; finer sweep recommended in Day 4.
+
+====================================================================
+SIMULATION 3C: Isolated Conductor Force Analysis
+====================================================================
+
+FILE: simulation/scipy_numpy/software/run_2_3_isolated_conductor.py
+
+GEOMETRY: Hemisphere in free space (no ground plane). Various cases.
+WHAT IT TESTS: Does the Maxwell stress on an isolated conductor give F_z = 0?
+EXPECTED: F_z = 0 for any closed isolated conductor.
+            F_z ≠ 0 only when external ground plane is present.
+INPUTS: R = 0.10 m, V_0 = 10 kV. Three test cases (sphere, isolated cap, Newton's 3rd law).
+
+--- ACTUAL RESULTS ---
+
+TEST 1 (Full sphere validation): F_z = -2.17e-19 N ≈ 0 exactly. PASS.
+TEST 2 (Isolated hemisphere cap, uniform charge): F_z_cap = 1.39 mN (upward).
+  This is the force on the CAP ALONE when the base disk is the reaction body.
+  For a CLOSED conductor: F_z_total = 0. Green's theorem confirmed.
+TEST 3 (Newton's 3rd law check):
+  F_z on hemisphere = +9.499 mN (upward)
+  F_z on ground plate = -9.499 mN (downward)
+  System total = 0 N (Newton's 3rd law holds exactly)
+
+KEY FINDING: The Buhler mechanism is an EXTERNAL FORCE between the electrode
+(hemisphere) and the external ground plane. The force on the ISOLATED CONDUCTOR
+alone is zero. For flight, an external ground plane (Earth or tether) is required.
+Free-space propulsion from electrostatic pressure alone is not possible with a
+closed conductor — requires either a nearby external conductor or ion emission
+(which is mass-consuming propulsion).

@@ -1,0 +1,294 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+MATHEMATICAL DERIVATIONS — Day 4 (2026-04-23)
+Attempt: 3 (BUGA_Three_Phase_Rotating_Field)
+====================================================================
+
+
+====================================================================
+1. BIOT-SAVART FIELD FROM THREE-PHASE COIL ARRAY
+====================================================================
+
+1.1 SETUP AND NOTATION
+
+Three identical circular coils. Coil k (k = 0,1,2):
+  Center:     r_k = R_c (cos φ_k, sin φ_k, 0),  φ_k = 2πk/3
+  Radius:     a = 0.05 m
+  Array radius: R_c = 0.05 m (coil centers at R_c from z-axis)
+  Height:     z_c = 0.03 m (coils above toroid top face)
+  Turns:      N = 100
+  Current:    I_k(t) = I₀ cos(ωt - 2πk/3),  I₀ = 1 A,  ω = 2π × 60 rad/s
+
+Peak single-coil field at center of array (on z-axis at z = z_c):
+    B₀ ≡ μ₀ N I₀ a² / (2(a² + R_c²)^{3/2})
+
+Numerically:
+    a² = 2.5e-3,  R_c² = 2.5e-3,  a² + R_c² = 5.0e-3
+    (5.0e-3)^{3/2} = 3.536e-4
+    B₀ = (4π×10⁻⁷ × 100 × 1 × 2.5e-3) / (2 × 3.536e-4)
+       = (3.14e-10) / (7.07e-4) = 4.44e-4 T = 0.44 mT
+
+For off-axis coils displaced by R_c, the on-axis field is reduced by the
+geometric factor (a/(a²+R_c²)^{1/2})² relative to the on-axis case.
+Since a = R_c, the peak field is already reduced by (1/2)^{3/2} ≈ 35%.
+
+
+1.2 BIOT-SAVART NUMERICAL FORM
+
+Parameterize coil k by angle θ ∈ [0, 2π):
+    r'_k(θ) = r_k + a(-sin φ_k sin θ + cos φ_k cos θ, cos φ_k sin θ + sin φ_k cos θ, 0)
+
+Simplified (for coil k at position (x_k, y_k, z_c) with radius a):
+    r'_k(θ) = (x_k + a cos θ', y_k + a sin θ', z_c)
+    where θ' is the angle around the coil's own center
+
+    dl_k = a(-sin θ', cos θ', 0) dθ'
+
+The Biot-Savart contribution:
+    dB_k(r) = (μ₀ N I_k)/(4π) × (dl_k × (r - r'_k)) / |r - r'_k|³
+
+Integrating numerically over θ' from 0 to 2π with M_coil = 1000 segments.
+The full field at any point r and time t:
+
+    B(r,t) = Σ_{k=0}^{2} cos(ωt - 2πk/3) × B_k^{static}(r)
+
+where B_k^{static}(r) is the field from coil k at I = I₀ (computed once, stored).
+
+
+1.3 TIME AVERAGES
+
+    <B_i(r)²> = (1/2) Σ_k [B_{k,i}^{static}(r)]²
+
+    <|B(r)|²> = (3/2) |B_0^{static}(r)|²  [by three-phase symmetry, identical coils]
+
+Gradient of time-averaged field magnitude squared:
+
+    ∂<|B|²>/∂z = (3/2) ∂|B_0^{static}|²/∂z
+
+This gradient is evaluated numerically along the z-axis and in the toroid volume.
+
+
+1.4 ON-AXIS FIELD MAGNITUDE VS. HEIGHT
+
+On z-axis (ρ = 0), each of the three coils (displaced from z-axis by R_c) 
+contributes a field with equal z-component B_{k,z} (by three-fold symmetry,
+the x and y components cancel). The on-axis total z-field:
+
+    B_z(0, z, t) = cos(ωt) × 3 B_{z,0}^{single}(0, z)
+
+where B_{z,0}^{single}(0, z) = μ₀ N I₀ a² R_c / (2 (R_c² + a² + (z-z_c)²)^{3/2})
+                                 × (correction for off-axis)
+
+Numerically at z = 0 (center of toroid top face), z_c = 0.03 m:
+    distance² = R_c² + a² + z_c² = 0.0025 + 0.0025 + 0.0009 = 0.0059
+    B_{z,0}^{single}(0, 0) ≈ (4π×10⁻⁷ × 100 × 1 × 0.0025 × 0.05) / (2 × 0.0059^{3/2})
+                            ≈ (1.57e-11) / (9.07e-4) ≈ 1.73e-8 T
+
+Very small because the coil is displaced from the z-axis. The three coils
+contribute B_z,total ≈ 3 × 1.73e-8 = 5.2e-8 T at the center of the toroid top.
+
+The field is much larger directly below each coil than on-axis. The relevant
+quantity for the Kelvin force is the field in the toroid volume, not just on-axis.
+
+
+====================================================================
+2. KELVIN FORCE — COMPLETE DERIVATION
+====================================================================
+
+2.1 FORCE DENSITY IN LINEAR FERRITE
+
+For linear isotropic material: M = χ_m H, where χ_m = μ_r - 1.
+Kelvin force density:
+
+    f_K(r) = μ₀ (M·∇)H = μ₀ χ_m (H·∇)H = (μ₀ χ_m / 2) ∇(H·H)
+
+z-component:
+    f_{K,z} = (μ₀ χ_m / 2) ∂(|H|²)/∂z
+
+NOTE: H = B/μ₀μ_r inside the ferrite (linear material). In the coil-generated
+external field, H_ext = B_coils/μ₀. Inside ferrite:
+    H_int ≈ H_ext / (1 + χ_m N_d)
+where N_d is the demagnetization factor of the toroid geometry.
+
+For a thin toroid (h ≪ outer radius): N_d ≈ 0.01 (very small). Thus:
+    H_int ≈ H_ext / 1.02 ≈ H_ext  (for χ_m = 1999, this approximation breaks down)
+
+For high-permeability materials: H_int ≈ H_ext / (χ_m N_d) at saturation.
+This means the internal H is REDUCED inside the ferrite for large χ_m. The
+Kelvin force is properly evaluated using the external field gradient at the
+ferrite boundary.
+
+Correct formulation using boundary conditions:
+    f_{K,z} = (μ₀/2) (μ_r - 1)/μ_r × ∂(B_tot²)/∂z   [for the toroid in field B_ext]
+
+2.2 FORCE AS SURFACE INTEGRAL
+
+By the divergence theorem applied to the gradient of H²:
+    F_z = (μ₀ χ_m/2) ∫_V ∂|H|²/∂z dV = (μ₀ χ_m/2) ∮_∂V |H|² n_z dA
+
+This simplifies to:
+    F_z = (μ₀ χ_m/2) [∫_{top} |H(r)|² dA - ∫_{bottom} |H(r)|² dA]
+
+Since the coils are above the toroid:
+    |H|²_{top face (z=h_t)} > |H|²_{bottom face (z=0)}
+
+Therefore F_z > 0 (upward, toward coils). The toroid is attracted to the coils.
+
+2.3 NUMERICAL ESTIMATE
+
+At the top face of the toroid (z = h_t = 0.02 m), directly below the coil center:
+    H_at_top ≈ B_z_single(coil above at 1cm separation) / μ₀
+
+For a coil of radius a = 5 cm, N = 100 turns, I = 1 A, at distance d = 1 cm below:
+    B_z ≈ μ₀ N I a² / (2(a² + d²)^{3/2}) = (4π×10⁻⁷ × 100 × 1 × 0.0025) / (2 × 0.00252^{3/2})
+        ≈ (3.14e-10) / (2 × 1.26e-4) ≈ 1.24e-3 T
+    H ≈ B/μ₀ ≈ 1.24e-3 / (4π×10⁻⁷) ≈ 988 A/m
+
+At the bottom face of the toroid (z = 0), h_c = 3 cm above:
+    B_z ≈ (4π×10⁻⁷ × 100 × 1 × 0.0025) / (2 × 0.003^{3/2})
+        ≈ (3.14e-10) / (2 × 1.64e-4) ≈ 9.57e-4 T
+    H_bottom ≈ 761 A/m
+
+Time-averaged force estimate (using three-phase factor 3/2):
+    F_z ≈ (μ₀ χ_m/2) × (3/2) × (H_top² - H_bot²) × A_toroid
+        ≈ (4π×10⁻⁷ × 1999/2) × 1.5 × (988² - 761²) × π(0.08² - 0.03²)
+        ≈ (1.257e-3) × 1.5 × (976144 - 579121) × 0.01728
+        ≈ (1.257e-3) × 1.5 × 397023 × 0.01728
+        ≈ (1.257e-3) × 10298
+        ≈ 12.9 mN
+
+This is a surprisingly large force — comparable to the Buhler result from Day 2.
+However, this assumes linear behavior (χ_m = 1999). At these field strengths
+(H ≈ 1000 A/m, B_int = μ_r μ₀ H ≈ 2.5 T >> B_sat ≈ 0.3 T), the ferrite is
+SATURATED. The actual χ_m ≈ 0 in saturation, and the force is near zero.
+
+For the ferrite operating below saturation (H < H_sat ≈ B_sat/(μ₀ μ_r) ≈ 0.12 A/m at μ_r = 2000):
+  The coil current must be reduced to I* ≈ I₀ × (H_sat / H_at_coil) ≈ 1 × (0.12/988) ≈ 1.2e-4 A
+
+At I = 1.2e-4 A (near saturation threshold):
+    F_z ≈ 12.9 mN × (1.2e-4)² / 1² ≈ 1.85e-7 N
+
+This is orders of magnitude below the Buhler result. The ferrite helps when
+used as a static concentrator; it hurts when operated in the rotating-field
+configuration at high current because it saturates immediately.
+
+KEY INSIGHT: Ferrite is not optimal for the rotating field mechanism at
+practical coil currents. Soft iron (μ_r ≈ 200, higher saturation B_sat ≈ 1.5 T)
+would be significantly better:
+  H_sat,iron = B_sat / (μ₀ μ_r) ≈ 1.5 / (1.26e-6 × 200) ≈ 5960 A/m > H_at_coil(1A)
+  χ_m,iron ≈ 199  (vs ferrite χ_m = 1999 but saturated)
+
+With soft iron, χ_m = 199 at 1 A:
+    F_z ≈ (4π×10⁻⁷ × 199/2) × 1.5 × (988² - 761²) × 0.01728
+        ≈ (1.25e-4) × 1.5 × 397023 × 0.01728 ≈ 1.29 mN
+
+Still internal force, still zero net external thrust, but Kelvin force magnitude is larger.
+
+
+====================================================================
+3. ELECTROMAGNETIC MOMENTUM FLUX
+====================================================================
+
+3.1 ESTIMATE FROM FARADAY'S LAW
+
+Faraday-induced E from rotating B:
+    E_φ(ρ, z) ≈ ω ρ B_z(0, z) / 2  [azimuthal field from ∂B_z/∂t]
+
+At ρ = 0.05 m, z = 0.03 m:
+    E_φ ≈ (2π × 60) × 0.05 × (B_z / 2)
+
+With B_z ≈ 1.24e-3 T from above:
+    E_φ ≈ 376.7 × 0.05 × 6.2e-4 ≈ 1.17e-2 mV/m = 1.17e-5 V/m
+
+Time-averaged Poynting flux z-component at z = z_c:
+    <S_z> = <(E × H)_z> ≈ E_φ × H_r  [azimuthal E × radial H]
+
+H_r at the coil plane: H_r ≈ B_r / μ₀ ≈ (10⁻³ / μ₀) ≈ 796 A/m
+
+    <S_z> ≈ (1/μ₀) <E_φ B_r> ≈ E_φ × H_r / 2 ≈ (1.17e-5 × 796) / 2 ≈ 4.66e-3 W/m²
+
+EM force on device = <S_z> × A / c ≈ 4.66e-3 × 0.02 / 3e8 ≈ 3.1e-13 N
+
+This confirms: EM momentum force at 60 Hz is ~10⁻¹³ N — utterly negligible.
+
+
+====================================================================
+4. FREQUENCY SCALING AND CRITICAL FREQUENCY
+====================================================================
+
+The EM momentum force scales as:
+    F_EM ∝ ω² R² B₀² A / c
+
+For fixed B₀ (fixed coil current), the force increases as f². The critical
+frequency f* for F_EM = 1 mN (Buhler scale):
+
+    1e-3 = F_EM(60 Hz) × (f*/60)²
+         = 3.1e-13 × (f*/60)²
+    (f*/60)² = 3.23e9
+    f* = 60 × √(3.23e9) ≈ 60 × 56842 ≈ 3.4 GHz
+
+To match the Buhler millinewton scale with the EM momentum mechanism requires
+GHz operation. This is in the microwave range. At this frequency, the coil
+geometry must be redesigned as a cavity or patch antenna. The quasi-static
+Biot-Savart approximation breaks down entirely above f ~ c/(2πR) ≈ 1 GHz.
+
+This is an important finding: the BUGA device at 60 Hz is in completely the
+wrong frequency regime for EM momentum propulsion. If the BUGA device works,
+it must be via a different mechanism.
+
+
+====================================================================
+5. DIMENSIONAL ANALYSIS SUMMARY
+====================================================================
+
+All key force scales for the Attempt 3 BUGA geometry:
+
+  Kelvin force (linear regime, 1 A, 100 turns, ferrite μ_r = 2000):
+    F_Kelvin ≈ 12.9 mN (internal force, external thrust = 0)
+    [SATURATED above I ≈ 0.12 mA — force drops to ~0 in practice]
+
+  Kelvin force (soft iron μ_r = 200, 1 A, 100 turns):
+    F_Kelvin ≈ 1.29 mN (internal force, external thrust = 0)
+
+  EM momentum force (60 Hz, 1 A, ferrite geometry):
+    F_EM ≈ 3.1e-13 N  (completely negligible)
+
+  EM momentum force at f* (GHz) for 1 mN:
+    f* ≈ 3.4 GHz (microwave regime, beyond quasi-static approximation)
+
+  Buhler result (Attempt 2, electrostatic, 10 kV):
+    F_Buhler ≈ 9.5 mN (external force, but requires ground plane)
+
+TARGET LIFT FORCE (0.5 kg × g):
+    F_lift = 4.905 N
+
+  Kelvin force deficit: 4.905 / 0.00129 = 3800× below target
+  EM momentum deficit: 4.905 / 3.1e-13 = 1.6e13× below target at 60 Hz
+
+Neither mechanism produces sufficient force for lift at the BUGA device scale
+and operating parameters. The device is not a propulsion device by classical EM.
+
+
+====================================================================
+6. WHAT THE SIMULATIONS MUST CONFIRM
+====================================================================
+
+Simulation 4A should confirm:
+  * Rotating field structure: B(r,t) has azimuthally rotating character
+  * Time-averaged |B|² is larger above vs. below the coil plane
+  * On-axis B_z field profile: monotonic decrease with distance from coils
+
+Simulation 4B should confirm:
+  * Kelvin force on toroid: F_z ≈ 1-13 mN (upward, internal)
+  * Reaction on coils: F_z ≈ -1 to -13 mN (downward)
+  * Net system force: |F_net| < numerical noise (< 10⁻¹⁵ N)
+
+Simulation 4C should confirm:
+  * EM momentum flux: <S_z> × area / c ≈ 3e-13 N (negligible)
+  * This flux is approximately equal above and below the coil plane
+    (no net axial momentum leaking to the far field at 60 Hz)
+
+All three results are expected to be consistent with classical EM.
+Any deviation from these expectations would be extraordinary and
+would require careful numerical validation before reporting.

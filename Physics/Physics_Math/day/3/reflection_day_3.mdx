@@ -1,0 +1,255 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+REFLECTION — Day 3 (2026-04-23)
+Attempt Focus: 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+====================================================================
+
+
+====================================================================
+Q1: WHAT DID SIMULATION OR ANALYSIS SHOW TODAY THAT WAS NOT EXPECTED?
+====================================================================
+
+THREE UNEXPECTED FINDINGS:
+
+UNEXPECTED 1: The Legendre series for the hemisphere force DIVERGES logarithmically.
+
+The Day 2 result (F_z = 9.50 mN at L_MAX=21) was believed to be converged with
+minor Gibbs corrections of 10-20%. The Day 3 convergence test showed:
+  L_MAX=21:  9.50 mN
+  L_MAX=51:  10.89 mN (+14.6%)
+  L_MAX=101: 12.00 mN (+26.4%)
+
+The series is growing as C ~ 5.3 + 1.8*ln(L), suggesting the partial sums are
+converging to a value that depends on the truncation level — i.e., the series
+represents an integrand with a non-integrable singularity in the Legendre
+representation. The physical cause: square-root singularity of the surface charge
+density sigma ~ (pi/2 - theta)^{-1/2} at the rim, where the hemisphere joins the
+ground plane. The E_r^2 integrand has ~ (pi/2 - theta)^{-1} singularity, and the
+cos(theta) weight does NOT fully cancel this — the integral log-diverges.
+
+This means the DAY 2 RESULT IS NOT THE CORRECT VALUE. It is a lower bound. The true
+electrostatic thrust force is larger than 9.50 mN at 10 kV, but we cannot quantify
+how much larger without a BEM or FEM solver that handles the rim singularity correctly.
+
+UNEXPECTED 2: Cone angle 30 degrees gives 3.1x the geometry factor of the hemisphere.
+
+V_lift drops from 227 kV (hemisphere) to 128 kV (30-degree cone) at R=10cm.
+This is a larger improvement than the physics estimate of ~1.5x. The sharp cone
+concentrates field at the apex far more effectively than the hemisphere, and the
+FD simulation (while coarse) shows a clear, robust optimum at 25-35 degrees.
+
+If the absolute value is within a factor of 2 of the correct value (plausible for
+coarse FD), the 30-degree cone lifts 0.5 kg at 90-180 kV rather than 227 kV.
+
+UNEXPECTED 3: The Buhler mechanism is FUNDAMENTALLY a near-field effect.
+
+The isolated conductor analysis confirmed with Green's theorem proof and numerical
+verification that an isolated conductor cannot produce net thrust. The force is
+always between the electrode and an external conductor. This means Buhler's result
+is a NEAR-FIELD interaction with the vacuum chamber walls, NOT a free-space
+propulsion mechanism.
+
+This resolves the project's central question for Attempt 2: the electrostatic
+mechanism cannot be the primary propulsion system for a free-flying craft. It is
+useful for near-surface hover (altitude < 5 R from a conducting surface).
+
+
+====================================================================
+Q2: IS THE CURRENT ATTEMPT SHOWING POSITIVE PROGRESS?
+====================================================================
+
+YES and NO.
+
+YES:
+  * The physical mechanism is confirmed and well-understood (three days of work)
+  * The geometry optimization (30-degree cone) is a valuable engineering result
+  * The near-surface hover application is real and could be useful for VTOL craft
+    that operate close to the ground
+  * The Buhler mechanism is now fully characterized: force law, scaling, geometry,
+    and the external-ground limitation
+
+NO:
+  * Free-flight propulsion is ruled out for this mechanism
+  * The Legendre series divergence means we don't have an accurate absolute force value
+  * The approach has been exhausted for its primary purpose (lift without reaction mass)
+
+Attempt 2 should transition to SECONDARY status. It has useful results but its
+principal limitation (external ground required) cannot be overcome.
+
+
+====================================================================
+Q3: HAS ANY ATTEMPT GONE FIVE OR MORE DAYS WITHOUT A POSITIVE RESULT?
+====================================================================
+
+No. Day 3 is the third day total.
+
+Attempt 1: 1 day (stalled — Kelvin force direction wrong)
+Attempt 2: 2 days (active — positive results, now partially limited)
+
+No five-day failure pattern yet.
+
+
+====================================================================
+Q4: ARE THERE PATTERNS ACROSS THE LAST 10 DAYS SUGGESTING STRATEGY CHANGE?
+====================================================================
+
+Pattern after 3 days:
+
+  Day 1: Classical magnetostatics (Kelvin force) → falsified in one day. Eliminated.
+  Day 2: Classical electrostatics (Maxwell stress) → CONFIRMED in one day. Viable.
+  Day 3: Classical electrostatics (continued) → LIMITATION discovered. Near-surface only.
+
+The pattern: both approaches work well within their domains but are limited:
+  * Kelvin magnetostatic force: direction always wrong for free flight
+  * Maxwell electrostatic force: requires external ground for free flight
+
+Both are classical effects from Maxwell's equations without any new physics.
+Both fail for free-flight propulsion because:
+  * Newton's 3rd law always applies
+  * Any force on the craft comes from interaction with an external body
+
+EMERGING INSIGHT: For a truly self-contained propulsive mechanism (free flight
+without reaction mass or external reaction body), the physics MUST either:
+  (a) Involve time-varying fields where momentum can be carried by the field
+      (radiation pressure, electromagnetic momentum) — photon rocket scaled up
+  (b) Invoke physics beyond Maxwell's equations (GCD theory, ZPE fluctuations)
+  (c) Use quantum effects (Casimir force variants, sonoluminescence analog)
+  (d) Exploit the structure of spacetime itself (gravitomagnetic, Alcubierre)
+
+This reframes the project: purely classical electromagnetic mechanisms
+(static or quasi-static) cannot produce free-flight propulsion without
+reaction mass. The corpus approaches that DO claim free flight must invoke
+either (a) high-frequency EM (microwave/laser photon pressure), or (b) new physics.
+
+STRATEGIC IMPLICATION: Day 4 should start Attempt 3 (BUGA device, Approach 3.3).
+The BUGA device uses a ROTATING electromagnetic field — a time-varying configuration.
+Rotating fields can carry electromagnetic angular and linear momentum. Whether
+the BUGA configuration produces a net time-averaged force on a stationary body
+above it is the physics question to answer.
+
+
+====================================================================
+Q5: SHOULD A NEW ATTEMPT BE STARTED? WHICH APPROACH?
+====================================================================
+
+YES. Start Attempt 3 on Day 4.
+
+Approach: Approach 3.3 — BUGA Three-Phase Rotating Field with Toroidal Circuit.
+
+Rationale:
+  1. Different physical principle from Attempts 1 and 2 (time-varying, not static)
+  2. Documented anomalous mass readings in the source images (Section 4.1)
+  3. Podkletnov analog — room-temperature replica of a disputed but non-refuted effect
+  4. The three-phase rotating field architecture naturally carries electromagnetic
+     angular momentum; redistribution of EM momentum can produce linear force
+  5. The BUGA device is a REAL experimental device with documented behavior
+     (thermal degradation, active rotor), not just a theoretical construct
+
+Day 4 plan for Attempt 3:
+  * Read Manual Section 3.3 fully
+  * Create attempts/3/Attempt.yaml
+  * Write physics_day_4.mdx: rotating three-phase EM field, angular momentum flux,
+    toroidal magnetic circuit, Podkletnov geometry analysis
+  * Install and validate openEMS or ElmerFEM for rotating field simulation
+  * First simulation: three-phase coil array in cylindrical geometry, compute
+    rotating B-field amplitude and direction vs. position
+
+
+====================================================================
+Q6: SHOULD AN OLD ATTEMPT BE REVISITED?
+====================================================================
+
+Attempt 1 Sub-approach B (EDS eddy current repulsion):
+  Still pending ElmerFEM or openEMS. Now that Attempt 3 will require installing
+  one of these tools, the EDS simulation should be added to the Day 4 secondary task.
+  If ElmerFEM is successfully installed for Attempt 3, run the EDS simulation as well.
+
+Attempt 2:
+  Return to Attempt 2 when a BEM solver is available to:
+  (a) Get correct absolute F_z value (fix the Legendre divergence)
+  (b) Validate the cone geometry result (FD coarse mesh may have 30% error)
+  (c) Study near-surface altitude dependence for the hover application
+
+Target: Attempt 2 BEM validation on Day 7-8.
+
+
+====================================================================
+Q7: ARE THERE EMPIRICAL DATA POINTS FROM SECTION 4 NOT YET TARGETED?
+====================================================================
+
+  4.1 BUGA anomalous mass readings — NOT YET TARGETED
+        This becomes Day 4 target. The BUGA device is the basis for Attempt 3.
+        The mass reading anomaly (0.12 kg → 0.058 kg) is what we're trying to explain.
+
+  4.2 BUGA material degradation — not targeted (no simulation needed, provides context)
+
+  4.3 Buhler thrust — TARGETED AND VALIDATED (Days 2-3)
+        Mechanism confirmed. Limitation (external ground required) documented.
+        New target for Buhler: BEM validation (Day 7+).
+
+  4.4 Cernohajev 32-solenoid array — NOT YET TARGETED (Day 6+)
+        After BUGA attempt is established, the 32-solenoid geometry can be compared.
+
+
+====================================================================
+Q8: SHOULD DAY TEMPLATE BE UPDATED?
+====================================================================
+
+YES. Two additions recommended:
+
+1. In SIMULATION LEARNING step, add:
+   "If force integral computed via Legendre series, check for convergence by
+    comparing L_MAX=21 to L_MAX=101. If series grows > 10% from 21 to 101,
+    the rim singularity is significant. Note that the L_MAX=21 result is a lower
+    bound and flag for BEM validation on a future day."
+
+2. In PHYSICS files step, add:
+   "For electrostatic thrust problems: state explicitly whether the geometry
+    has an EDGE SINGULARITY (conductor corner or rim) and whether it could
+    cause Legendre series divergence. If so, recommend BEM."
+
+
+====================================================================
+Q9: SHOULD THE MANUAL BE UPDATED?
+====================================================================
+
+YES. Three updates needed:
+
+1. Section 3.4 (Buhler): Add Day 3 findings.
+   - Legendre series divergence finding (log growth, rim singularity)
+   - Cone sweep result: alpha=30 optimal, C_eff = 33.56 m, V_lift = 128 kV
+   - Isolated conductor result: F_z = 0, external ground required
+   - Application scope: near-surface hover only (H < 5R)
+
+2. Section 9 (Physics Reference Notes): Add new entries:
+   - 9.8: Edge singularity in electrostatics (conductor rim: sigma ~ (pi/2-theta)^{-1/2})
+   - 9.9: Legendre series convergence in the presence of edge singularities
+
+3. Section 5.3 (Simulation Validation): Add warning:
+   - The Legendre series method should NOT be used without a BEM/FEM cross-check
+     when the conductor has a geometric edge (90-degree corner, rim)
+   - Day 3 demonstrated log-divergence; BEM is the recommended replacement
+
+Manual update is done immediately after this reflection, before Day 3 is closed.
+
+
+====================================================================
+Q10: WHAT SHOULD DAY 4 FOCUS ON?
+====================================================================
+
+PRIMARY: Start Attempt 3 — BUGA Three-Phase Rotating Field with Toroidal Circuit.
+
+  * Create attempts/3/Attempt.yaml
+  * Read Manual Section 3.3 and all BUGA-related images/descriptions
+  * Write physics_day_4.mdx: rotating EM field physics, angular momentum, Podkletnov analogy
+  * Install openEMS or ElmerFEM (whichever is more installable)
+  * If install succeeds: plan first simulation — three-phase coil rotating field geometry
+  * If install fails: use Python analytical approach (three-coil Biot-Savart rotating field)
+    as a fallback to keep the day productive
+
+SECONDARY: Attempt 1 Sub-approach B (EDS eddy repulsion)
+  * If ElmerFEM is installed for Attempt 3, add EDS simulation as a secondary run
+  * This addresses the Section 4 "rotational field creates lift" empirical data point
+
+Day 4 priority order: Attempt 3 setup → Attempt 3 first physics → FEM installation → EDS check.

@@ -1,0 +1,179 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/UAP_Murder_Docus/Physics/Physics_Math
+
+====================================================================
+PLAN — Day 4 (2026-04-23)
+====================================================================
+
+====================================================================
+STRATEGIC CONTEXT FROM PRIOR DAYS
+====================================================================
+
+Day 1 — Attempt 1 (Rotating Permanent Magnet Array):
+  Kelvin force direction eliminated Sub-approach A. Sub-approach B (EDS)
+  pending ElmerFEM. Attempt 1 stalled.
+
+Day 2 — Attempt 2 (Asymmetric Electrostatic Pressure Thrust):
+  POSITIVE RESULT: F_z = 9.50 mN at 10 kV (Buhler-analog confirmed).
+  Mechanism validated. F ~ V^2 scaling confirmed.
+
+Day 3 — Attempt 2 (continued):
+  THREE FINDINGS:
+  1. Legendre series DIVERGES (log) — Day 2 result is a lower bound.
+     BEM required for accurate force. True F_z > 12 mN.
+  2. Cone geometry alpha=30 deg: C_eff = 33.56 m (3.1x hemisphere).
+     V_lift drops from 227 kV to 128 kV for 0.5 kg. Engineering win.
+  3. CRITICAL LIMITATION: isolated conductor F_net = 0. The mechanism
+     requires an external ground plane. FREE FLIGHT NOT POSSIBLE.
+     Near-surface hover (H < 5R) is the viable application.
+
+  CONCLUSION: Attempt 2 → SECONDARY. Classical electrostatics (static
+  fields, Newton's 3rd law) cannot produce free-flight propulsion from
+  any closed conductor. A fundamentally different mechanism is required.
+
+  PIVOT: Start Attempt 3 — BUGA three-phase rotating field.
+
+
+====================================================================
+STRATEGIC QUESTIONS ANSWERED
+====================================================================
+
+Is any current attempt showing positive results?
+  Yes. Attempt 2 positive for near-surface hover but limited.
+  Attempt 3 (new today) not yet simulated.
+
+Has any attempt gone five or more days without a positive result?
+  No. Day 4 is the fourth day total. No five-day failure yet.
+
+Are there empirical data points not yet targeted?
+  Section 4.1 (BUGA anomalous mass readings) — PRIMARY TARGET TODAY.
+  Section 4.4 (Cernohajev 32-solenoid array) — Day 6+.
+
+Are there approaches from Section 3 with no attempt directory?
+  Yes: Section 3.3 (BUGA), 3.2 (Paulsen/Searl), 3.5 (Cernohajev),
+  3.6 (Plasma MHD), 3.7 (Podkletnov). Today: Attempt 3 = Section 3.3.
+
+What did the Day 3 reflection say to prioritize?
+  Start Attempt 3 (BUGA three-phase rotating field, Approach 3.3).
+  Physics reason: time-varying fields carry EM momentum; redistribution
+  of angular momentum may produce linear force. Does not require an
+  external ground plane (unlike Attempt 2 mechanism).
+
+
+====================================================================
+DAY 4 FOCUS: ATTEMPT 3 — BUGA THREE-PHASE ROTATING FIELD
+====================================================================
+
+Approach reference: Manual Section 3.3
+Empirical target: Manual Section 4.1 (BUGA anomalous mass readings)
+
+BUGA device summary (from image descriptions):
+  * European workshop. Multi-year construction. Unknown builder.
+  * Three disc coil assemblies at 120-degree intervals (three-phase)
+  * Central spinning rotor element on vertical shaft
+  * Large toroidal ferrite element at base (~15-20 cm diameter)
+  * Central hemispherical electrode at top of shaft
+  * Orange/amber bead observed on shaft in some construction stages
+  * Scale image 1 (13_1912715675791159296): reading "0.12" (= 120 g)
+    — advanced construction stage, toroidal element visible
+  * Scale image 2 (13_1964248354038435843): reading "058" (= 58 g)
+    — different build stage, dark disc assemblies, hexagonal arrangement
+  * The 62 g difference (if same component) would be 52% mass reduction.
+    Alternatively: two different device configurations.
+  * Material degradation (foil delamination, cracked epoxy, plaster
+    crumbling) confirms genuine high-energy operation.
+
+PHYSICS MECHANISM TO ANALYZE:
+  A three-phase rotating magnetic field (produced by three coil assemblies
+  at 120-degree intervals driven by a three-phase AC source) produces an
+  EM field that rotates in space with angular velocity Omega = 2 * pi * f.
+  The rotating field carries electromagnetic angular momentum L_EM given by:
+    L_EM = eps_0 * integral (r x (E x B)) dV
+  Any interaction that changes the direction or magnitude of L_EM over time
+  produces a time-averaged torque on the field source. If the device
+  geometry is asymmetric (toroidal ferrite below, hemispherical electrode
+  above), asymmetric coupling may produce a net linear force on the assembly.
+  The key question: does time-averaged F_z = <integral T_iz n_i dA> differ
+  from zero for the three-phase rotating field above a toroidal ferrite?
+
+SIMULATION PLAN (Day 4):
+
+  Simulation 4A — Three-phase coil Biot-Savart field map:
+    Compute rotating B-field from three coil assemblies at 120-degree
+    intervals. Verify that the field rotates (phi(t) = 2*pi*f*t).
+    Compute instantaneous and time-averaged |B|^2 above and below the
+    coil plane. Check for axial asymmetry in the time-averaged field.
+    Software: scipy/numpy + Biot-Savart (no new install needed).
+
+  Simulation 4B — Kelvin force on toroidal ferrite in rotating field:
+    Compute the Kelvin body force on a toroidal ferrite (mu_r = 2000)
+    placed in the rotating field from Simulation 4A.
+    F_Kelvin = mu_0 * chi_m * integral (M · grad)H dV
+             = (chi_m / (1 + chi_m)) * integral grad(|H|^2/2) * V dV
+    Is there a net vertical component? Does it depend on the toroid
+    position relative to the coil plane?
+    Software: scipy/numpy (analytical Kelvin force integral).
+
+  Simulation 4C — Angular momentum flux analysis:
+    Compute <S_z> = (1/T) integral_0^T (E x B)_z dt at the plane z = H
+    above the device. If <S_z> ≠ 0 (net axial Poynting flux), the device
+    is radiating EM angular momentum in the z-direction. By conservation,
+    the device experiences an equal and opposite angular impulse — and
+    potentially a linear force if the geometry breaks rotational symmetry.
+    This is the key free-flight mechanism test.
+
+FALLBACK (if scipy/numpy insufficient):
+  If the Biot-Savart rotating field shows no axial force and no angular
+  momentum flux asymmetry, that is a real physics result — document it.
+  The fallback question becomes: what would be required for the BUGA
+  geometry to produce a detectable force? What parameter (frequency,
+  ferrite geometry, electrode asymmetry) controls the effect?
+
+SOFTWARE SELECTION:
+  scipy/numpy already validated (Day 2/3). Use for all Day 4 simulations.
+  No new FEM install needed today. FEM (ElmerFEM) deferred to Day 5+.
+
+
+====================================================================
+SECONDARY TASK (time permitting)
+====================================================================
+
+Attempt 1, Sub-approach B (EDS eddy current repulsion):
+  ElmerFEM not yet installed. If time permits, test pip install of
+  an EM Python library (e.g., discretize, empymod) for basic eddy current
+  simulation. If no suitable library installs, document and defer.
+  EDS simulation will not be the blocking item for Day 4.
+
+
+====================================================================
+SUCCESS CRITERIA FOR DAY 4
+====================================================================
+
+MINIMUM SUCCESS:
+  * Attempt 3 Attempt.yaml written.
+  * physics_day_4.mdx written at PhD level with full EM momentum derivation.
+  * math_day_4.mdx written with full Biot-Savart + Kelvin force derivation.
+  * Simulation 4A completed (rotating B-field map confirmed).
+  * Attempt.yaml updated with Day 4 simulation results.
+
+FULL SUCCESS (all above plus):
+  * Simulations 4A, 4B, 4C all completed.
+  * Clear answer to: does the BUGA three-phase geometry produce any
+    measurable time-averaged axial force via Kelvin or EM momentum?
+  * Design parameter identified that maximizes the effect (frequency,
+    coil spacing, ferrite permeability, etc.).
+
+
+====================================================================
+FILES TO BE CREATED TODAY
+====================================================================
+
+  {ROOT_DIR}/attempts/3/Attempt.yaml
+  {ROOT_DIR}/attempts/3/physics_day_4.mdx
+  {ROOT_DIR}/attempts/3/math_day_4.mdx
+  {ROOT_DIR}/attempts/3/engineering_day_4.mdx
+  {ROOT_DIR}/attempts/3/sim_setup_day_4.mdx
+  {ROOT_DIR}/attempts/3/sim_learned_day_4.mdx
+  {ROOT_DIR}/day/4/reflection_day_4.mdx
+  {ROOT_DIR}/simulation/scipy_numpy/software/run_3_4_biot_savart_rotating.py
+  {ROOT_DIR}/simulation/scipy_numpy/software/run_3_4_kelvin_toroid.py
+  {ROOT_DIR}/simulation/scipy_numpy/software/run_3_4_em_momentum.py

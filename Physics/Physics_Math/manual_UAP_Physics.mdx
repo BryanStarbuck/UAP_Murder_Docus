@@ -334,11 +334,49 @@ Geometry factor C = F_z / (eps_0 * V_0^2) = 10.73 (10.7x above naive estimate).
 Lift voltage for 0.5 kg: V_lift = 227 kV (apex E-field = 6.82 MV/m).
 Physical feasibility: requires vacuum (exceeds air breakdown at 3 MV/m),
 but well below vacuum field emission onset (~100 MV/m). FEASIBLE IN VACUUM.
-Legendre series may not be fully converged (Gibbs ringing at theta=10 deg).
-True C may be 12-15 (V_lift potentially as low as 190-210 kV).
-Day 3 plan: series convergence test (L_MAX=51, 101), cone geometry sweep,
-isolated capacitor geometry (reaction force accounting).
-Status: ACTIVE.
+
+DAY 3 SIMULATION RESULTS (2026-04-23):
+
+Finding 1 — Legendre Series Divergence:
+Convergence test at L_MAX = 5, 11, 21, 51, 101 reveals DIVERGING series:
+  L_MAX=5:   F_z = 7.55 mN
+  L_MAX=21:  F_z = 9.50 mN  (Day 2 reference — confirmed LOWER BOUND)
+  L_MAX=51:  F_z = 10.89 mN
+  L_MAX=101: F_z = 12.00 mN
+Series grows as C(L) ≈ 5.3 + 1.8 * ln(L) — logarithmic divergence.
+Physical cause: square-root singularity sigma ~ (pi/2 - theta)^{-1/2} at
+the hemisphere rim (90-degree conductor edge). The E_r^2 integrand has a
+(pi/2 - theta)^{-1} near-singularity; the cos(theta) weight only partially
+cancels it, leaving a logarithmically divergent Legendre partial sum.
+IMPLICATION: Day 2 F_z = 9.50 mN is a lower bound. True F_z is larger.
+BEM or FEM with rim-refined mesh required for accurate absolute value.
+See Section 9.8 and 9.9 for edge singularity physics and convergence rules.
+
+Finding 2 — Cone Geometry Optimization:
+2D FD Laplace sweep over cone half-angles alpha = 10 to 90 degrees:
+  alpha = 10 deg: C_eff = 10.87 m,  V_lift = 226 kV  (near hemisphere)
+  alpha = 20 deg: C_eff = 25.74 m,  V_lift = 147 kV
+  alpha = 30 deg: C_eff = 33.56 m,  V_lift = 128 kV  ← OPTIMAL
+  alpha = 45 deg: C_eff = 13.50 m,  V_lift = 203 kV
+Optimal cone half-angle ≈ 25-35 degrees. True optimum requires finer sweep.
+30-degree cone gives 3.1x improvement over hemisphere (C_eff 33.56 vs 10.73).
+Reduces lift voltage from 227 kV to 128 kV for 0.5 kg at R = 10 cm.
+NOTE: FD result uses coarse 60x80 grid. Absolute values ± 30%. Relative
+ordering (30 deg > 20 deg > 45 deg) is robust.
+
+Finding 3 — External Ground Required (Critical Limitation):
+Green's theorem proof and numerical test confirm: an isolated closed conductor
+in vacuum has F_net = 0 identically (see Section 9.8). The Buhler mechanism
+is an INTERACTION FORCE between the electrode (craft) and the external ground
+plane. Newton's third law: F_hemi = +9.50 mN upward, F_plate = -9.50 mN
+downward, system total = 0.
+  Free-flight (no external conductor): F_z = 0. NOT viable for free flight.
+  Near-surface hover (H < 5R from conductor): Full Day 2 force applies.
+  Maximum useful altitude: H ≲ 5R. At R = 1 m: max altitude ≈ 5 m.
+
+STATUS: SECONDARY. Near-surface hover application (H < 5R) preserved.
+Free-flight primary thrust moved to Attempt 3 (BUGA three-phase rotating
+field, Approach 3.3). BEM validation of cone result: Day 7+.
 
 
 3.5 APPROACH: NEUTRINO-MAGNETIC FLUX PROPULSION (CERNOHAJEV GCD)
@@ -592,6 +630,27 @@ validate it against a known result. Options:
 
 Do not skip validation. A simulator that cannot reproduce known results
 cannot be trusted for unknown results.
+
+WARNING — LEGENDRE SERIES AND CONDUCTOR EDGES (Day 3 Critical Learning):
+The Legendre polynomial expansion method for electrostatic force integrals
+MUST NOT be used without a BEM or FEM cross-check when the conductor
+geometry has a sharp edge (90-degree corner, rim between conductor and
+ground plane, or any point where two conducting surfaces meet at a corner).
+
+The reason: conductor edges produce a square-root singularity in the surface
+charge density sigma ~ d^{-1/2} where d is distance from the edge. The
+electrostatic pressure E^2/2 then has a d^{-1} singularity, and the
+Legendre partial sum diverges logarithmically in the number of terms L_MAX.
+
+Detection: run the force integral at L_MAX = 21 and L_MAX = 101. If the
+result grows by more than 10% between these two values, the rim singularity
+is significant. The L_MAX = 21 result is a LOWER BOUND, not the answer.
+
+Recommended replacement: Boundary Element Method (BEM) with singular basis
+functions at conductor edges, or FEM with mesh refinement (element size ≲
+d/10 near the rim). Day 3 demonstrated log-divergence in the hemisphere-on-
+ground-plane geometry; BEM is the recommended replacement for any result
+from this geometry family.
 
 
 5.4 WHAT TO RECORD FROM EVERY SIMULATION RUN
@@ -929,6 +988,85 @@ EDS requires active rotation; at Ω = 0, there is no repulsion.
 
 For Sub-approach B simulation: use ElmerFEM with rotating source field
 over a conducting plate. Target the Ω where F_EDS > m_craft * g.
+
+
+9.8 CONDUCTOR EDGE SINGULARITIES IN ELECTROSTATICS (Day 3 Critical Learning)
+
+When two conducting surfaces meet at a sharp corner (dihedral angle alpha
+measured interior to the conductor), the surface charge density sigma
+diverges as a power law:
+    sigma(r) ~ r^{nu - 1}   as r → 0 (distance from edge)
+where nu satisfies the transcendental equation for the Laplacian near a
+wedge. For a 90-degree exterior corner (hemisphere rim on ground plane,
+dihedral angle = 90 degrees between curved surface and flat plate):
+    nu = 1/2  →  sigma ~ r^{-1/2}
+
+Consequences:
+  * The E-field at the surface (E = sigma / eps_0) also diverges as r^{-1/2}
+  * The electrostatic pressure P = eps_0 E^2 / 2 diverges as r^{-1}
+  * The force integral ∫ P cos(theta) dA is FINITE (the area element and
+    the cos(theta) projection together kill the singularity at the rim)
+  * BUT: any Fourier/Legendre series for the integrand converges only
+    logarithmically because the series coefficients decay as l^{-1} from
+    the cross-terms near the singularity
+
+For a 90-degree INTERIOR corner (flat-to-flat), the divergence is weaker:
+nu = 2/3, sigma ~ r^{-1/3}. This still causes slow Legendre convergence
+but not logarithmic divergence of the force integral.
+
+BEM handling: Boundary Element Methods use singular basis functions
+(e.g., sigma_edge = f(s) * r^{-1/2}) that correctly capture the edge
+behavior and produce exponential convergence in the number of elements.
+FEM: mesh refinement with element size h ~ d^{3/2} near the edge gives
+O(h^2) accuracy in the force integral.
+
+Practical identification: before starting any electrostatic thrust
+simulation, check whether the conductor geometry has any edge where two
+surfaces meet. If yes, flag for BEM validation. If Legendre series
+must be used (analytical model needed), report L_MAX=21 as a lower bound
+and recommend BEM for the definitive result.
+
+
+9.9 LEGENDRE SERIES CONVERGENCE IN THE PRESENCE OF EDGE SINGULARITIES
+    (Day 3 Critical Learning)
+
+The Legendre polynomial expansion of the surface potential phi on a
+sphere/hemisphere converges pointwise for smooth boundary data. The
+convergence rate is determined by the smoothness of the boundary condition.
+For piecewise-smooth boundary data (e.g., V on the upper hemisphere, 0 on
+the lower hemisphere), the series converges at rate O(l^{-3/2}) in the
+Legendre coefficients A_l, and the force integral converges at rate O(l^{-1}).
+
+When the boundary condition has a JUMP DISCONTINUITY (as in the hemisphere
+problem: V for theta < pi/2, 0 for theta > pi/2), the coefficients A_l
+decay only as l^{-1/2}. The product A_l * A_l' near the jump contributes
+terms of order l^{-1} to the force integrand, causing the partial sum to
+grow as ln(L_MAX) rather than converging.
+
+The key distinction:
+  * Force integral (true mathematical value): FINITE and well-defined
+  * Legendre partial sum at order L_MAX: grows as a + b * ln(L_MAX)
+  * The partial sum does NOT converge to the true integral
+  * As L_MAX → ∞, the partial sum → ∞ (diverges)
+
+This is NOT a numerical instability — it is an intrinsic limitation of
+the Legendre expansion applied to an integrand with a non-integrable
+singularity in its Fourier representation.
+
+OPERATIONAL RULE FOR THIS PROJECT:
+  1. Before computing any electrostatic force via Legendre series, run at
+     L_MAX = 21 and L_MAX = 101.
+  2. If the result increases by less than 5%: series is converged. Use it.
+  3. If the result increases by 5-20%: near-edge singularity. Use L_MAX=101
+     result as a rough estimate; flag for BEM/FEM validation.
+  4. If the result increases by more than 20%: logarithmic divergence
+     confirmed. The L_MAX=21 result is a lower bound ONLY. Do NOT report
+     it as a force value. Replace with BEM/FEM.
+
+Empirical calibration from Day 3:
+  Hemisphere on ground plane (90-deg rim): +26.4% growth (L_MAX 21→101).
+  Classification: Category 4 — logarithmic divergence confirmed.
+  Day 3 value F_z = 9.50 mN at L_MAX=21 is a lower bound.
 
 
 ====================================================================
@@ -1540,3 +1678,19 @@ SECTION 14 — CHANGE LOG
   Validation (sphere F_z = 0) passed exactly. Legendre series convergence
   issue noted (Gibbs ringing); actual C may be 12-15. Day 3: convergence
   test, cone geometry sweep, isolated capacitor reaction-force analysis.
+
+2026-04-23 — Version 1.5. Day 3 simulation results incorporated.
+  THREE CRITICAL FINDINGS:
+  (1) Legendre series DIVERGES logarithmically for hemisphere-on-ground-plane
+      geometry (rim singularity sigma ~ r^{-1/2}). Day 2 result F_z = 9.50 mN
+      is a LOWER BOUND. BEM required for accurate absolute value.
+      Section 5.3 updated with Legendre divergence warning and detection rule.
+      Sections 9.8 and 9.9 added (edge singularity physics and convergence rules).
+  (2) Cone geometry alpha = 30 degrees gives C_eff = 33.56 m (3.1x hemisphere).
+      V_lift drops from 227 kV to 128 kV. FD result, absolute values ± 30%.
+      Relative ordering robust. Fine sweep and BEM validation needed (Day 7+).
+  (3) Isolated closed conductor: F_net = 0 (Green's theorem + numerical).
+      Buhler mechanism requires external ground plane. Free-flight NOT viable.
+      Near-surface hover (H < 5R) is viable. Attempt 2 moved to SECONDARY.
+  Section 3.4 updated with full Day 3 results and status change.
+  Attempt 3 (BUGA three-phase rotating field) starts Day 4.
