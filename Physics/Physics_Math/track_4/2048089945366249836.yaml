@@ -1,0 +1,69 @@
+id: '2048089945366249836'
+url: 'https://x.com/InfinityDisclsd/status/2048089945366249836'
+author:
+  username: 'InfinityDisclsd'
+  name: 'Gene Sticco'
+  id: '1754277511783997440'
+  description: 'USAF Veteran. Intel Contractor. Big Oil Whistleblower. Opera Impresario. UFO Reverse Engineering From Soviet Design to US Denial with @DirtyWaterDiva'
+  followers: 2133
+text: |
+  Two technical records from the same Cold War period, U.S. side and Soviet side,
+  documenting vehicles with similar characteristics.
+
+  The Los Alamos National Laboratory figures in Corbell's release document the disc
+  morphology observationally: flat top with central post, flat skirt, hatched striated
+  body, measured at 39x and 40x magnification.
+
+  The Černohajev manuscripts detail those elements at the engineering level. Crew cabin
+  and reactor. The skirt is the solenoid array generating neutrino-magnetic flux. The
+  striations are eight radial titanium stringers. 30 meter diameter, mass calculated,
+  materials specified.
+
+  Public for researchers since November 2024 at cernohajev.omeka.net with additional
+  detail and the complete translations at engineeringinfinitybook.com
+
+  @nypost @DailyMail @posting_shane @stacyliberatore
+created_at: '2026-04-25T17:21:09.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 4
+  reply_count: 1
+  like_count: 10
+  quote_count: 2
+  bookmark_count: 9
+  impression_count: 806
+has_video: false
+has_image: true
+image_count: 4
+images:
+  - media_key: '3_2048088695686021120'
+    url: 'https://pbs.twimg.com/media/HGxF0UbbwAA3Xrq.jpg'
+    local_file: '2048089945366249836_1.jpg'
+    width: 1582
+    height: 2048
+  - media_key: '3_2048088695669227520'
+    url: 'https://pbs.twimg.com/media/HGxF0UXbgAAHrWg.jpg'
+    local_file: '2048089945366249836_2.jpg'
+    width: 1582
+    height: 2048
+  - media_key: '3_2048088695681773568'
+    url: 'https://pbs.twimg.com/media/HGxF0Uaa8AAKjC0.jpg'
+    local_file: '2048089945366249836_3.jpg'
+    width: 1582
+    height: 2048
+  - media_key: '3_2048088695690113024'
+    url: 'https://pbs.twimg.com/media/HGxF0UcaMAAHFVj.jpg'
+    local_file: '2048089945366249836_4.jpg'
+    width: 1582
+    height: 2048
+external_links:
+  - url: 'http://cernohajev.omeka.net'
+    description: 'Černohajev manuscripts — public research archive, available since November 2024'
+  - url: 'http://www.engineeringinfinitybook.com'
+    description: 'Engineering Infinity book — complete translations and additional detail'
+related_post:
+  url: 'https://twitter.com/nypost/status/2048030632102567973'
+  note: 'NY Post article linked from this post'
+topic: 'Cold War technical records — US (Los Alamos / Corbell release) + Soviet (Černohajev manuscripts) — disc craft morphology and engineering specs. Solenoid skirt, neutrino-magnetic flux, titanium stringers, 30m diameter.'
+investigation: 'Physics_Math/track_4'
+added_date: '2026-04-25'
