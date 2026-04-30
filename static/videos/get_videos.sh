@@ -96,6 +96,9 @@ ipfs pin add Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
 # Investigation: UAPs Murders (General)
 # ============================================================
 
+# VIDEO: Amy Eskridge — antigravity discovered by four different people and suppressed each time; her father also discovered antigravity; Amy murdered 2022
+ipfs pin add QmdEY5U4HjXFNriDoEboezC8ZiXQoi1yN9wXoKoNMSc3Ta
+
 # VIDEO: The Nine channeling through Indian psychic Vinod at the Round Table Foundation (Andrija Puharich / Chinese Scientists page)
 ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
 
