@@ -89,6 +89,13 @@ ipfs pin add QmcWGbrcRvZWsNPYJmy5VQBX2BDMn9U9Dh7nNVKcjWBCRc
 # VIDEO: John Christie and Lou Britz Lutec 1000 free energy device — both inventors died
 ipfs pin add Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
 
+# ============================================================
+# Investigation: UAPs Murders (General)
+# ============================================================
+
+# VIDEO: The Nine channeling through Indian psychic Vinod at the Round Table Foundation (Andrija Puharich / Chinese Scientists page)
+ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
+
 echo "========================================"
 echo "  Done. All videos fetched and pinned."
 echo "========================================"
