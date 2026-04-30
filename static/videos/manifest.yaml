@@ -135,3 +135,13 @@ videos:
   investigation: UAPs
   added_date: '2026-04-30'
   pinned: true
+
+- filename: 2049955307313602951.mp4
+  ipfs_cid: Qmc8ob97zYLyLxDGsDDrm5LycuN3BfLNiJvcSBFCS95dv9
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qmc8ob97zYLyLxDGsDDrm5LycuN3BfLNiJvcSBFCS95dv9
+  source_url: https://x.com/thematrixb0t/status/2049955307313602951
+  source_author: '@thematrixb0t (matrixbot)'
+  description: 'John Hutchison — Canadian inventor credited with the controversial Hutchison Effect (levitation, metal fusion, spontaneous fracturing via overlapping electromagnetic fields)'
+  investigation: Energy
+  added_date: '2026-04-30'
+  pinned: true

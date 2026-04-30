@@ -88,6 +88,9 @@ ipfs pin add QmcWGbrcRvZWsNPYJmy5VQBX2BDMn9U9Dh7nNVKcjWBCRc
 # Investigation: UAP Energy Systems Murders
 # ============================================================
 
+# VIDEO: John Hutchison — Hutchison Effect (levitation, metal fusion, electromagnetic fields)
+ipfs pin add Qmc8ob97zYLyLxDGsDDrm5LycuN3BfLNiJvcSBFCS95dv9
+
 # VIDEO: John Christie and Lou Britz Lutec 1000 free energy device — both inventors died
 ipfs pin add Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
 
