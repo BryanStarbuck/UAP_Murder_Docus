@@ -28,6 +28,10 @@ const config: Config = {
     locales: ["en"],
   },
 
+  metadata: [
+    { name: 'google-site-verification', content: 'RUz8ukRe1Bq-veydpGR2cFPUvB8con_WUc4RCqIq-5Q' },
+  ],
+
   presets: [
     [
       "classic",
