@@ -155,3 +155,13 @@ videos:
   investigation: UAPs
   added_date: '2026-04-30'
   pinned: true
+
+- filename: 2049457591097389338.mp4
+  ipfs_cid: QmaHCY7tgLqi44QGjBSuMWozUihHid6ELkJSK27HGuA31J
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmaHCY7tgLqi44QGjBSuMWozUihHid6ELkJSK27HGuA31J
+  source_url: https://x.com/NassimHaramein/status/2049457591097389338
+  source_author: '@NassimHaramein (Nassim Haramein)'
+  description: 'Nassim Haramein — the physics of what comes next, quantum vacuum energy breakthroughs already begun, International Space Federation research'
+  investigation: Physics
+  added_date: '2026-04-30'
+  pinned: true

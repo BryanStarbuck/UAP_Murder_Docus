@@ -104,6 +104,13 @@ ipfs pin add QmdEY5U4HjXFNriDoEboezC8ZiXQoi1yN9wXoKoNMSc3Ta
 # VIDEO: The Nine channeling through Indian psychic Vinod at the Round Table Foundation (Andrija Puharich / Chinese Scientists page)
 ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
 
+# ============================================================
+# Investigation: UAP Physics Murders
+# ============================================================
+
+# VIDEO: Nassim Haramein — physics of what comes next, quantum vacuum energy breakthroughs, ISF research
+ipfs pin add QmaHCY7tgLqi44QGjBSuMWozUihHid6ELkJSK27HGuA31J
+
 echo "========================================"
 echo "  Done. All videos fetched and pinned."
 echo "========================================"`;
