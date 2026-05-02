@@ -6,6 +6,16 @@
 # curl -fsSL https://uapmurders.com/videos/get_videos.sh | sh
 
 videos:
+- filename: 2050347650193506503.mp4
+  ipfs_cid: QmXcgFNbJuWGyKX35utMmksj1EkbfjCsP6nzWKYZ64MoPM
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmXcgFNbJuWGyKX35utMmksj1EkbfjCsP6nzWKYZ64MoPM
+  source_url: https://x.com/Skriptkeeper17/status/2050347650193506503
+  source_author: '@Skriptkeeper17'
+  description: 'Graham Birdsall (UFO Magazine UK editor) died at 49 after sharing NASA STS shuttle plasma-entity footage; clip includes Martyn Stubbs explaining the spherical phenomena'
+  investigation: UAPs
+  added_date: '2026-05-02'
+  pinned: true
+
 - filename: 2030365676901204133.mp4
   ipfs_cid: QmQg1wqnejWf3yydTQHd15QUmVkMgvZ7TmdCBNC18BUx5z
   ipfs_gateway_url: https://ipfs.io/ipfs/QmQg1wqnejWf3yydTQHd15QUmVkMgvZ7TmdCBNC18BUx5z

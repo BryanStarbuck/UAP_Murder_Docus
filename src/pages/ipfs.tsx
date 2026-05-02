@@ -44,6 +44,9 @@ echo "========================================"
 # Investigation: UAPs Murders (General)
 # ============================================================
 
+# VIDEO: Graham Birdsall (UFO Magazine UK editor) died at 49 after sharing NASA STS shuttle plasma-entity footage
+ipfs pin add QmXcgFNbJuWGyKX35utMmksj1EkbfjCsP6nzWKYZ64MoPM
+
 # VIDEO: Rep. Eric Burlison warned he may be killed for pursuing UAP truth
 ipfs pin add QmQg1wqnejWf3yydTQHd15QUmVkMgvZ7TmdCBNC18BUx5z
 
