@@ -66,3 +66,110 @@ The triangular craft geometry, inertial mass reduction mechanism, microwave reso
 - Sheehy, J. (NAWCAD CTO) — advocacy letter to USPTO during patent examination
 
 *This information was compiled from Break_thrus.mdx staging file.*
+
+---
+
+## Adjacent Claim: Michael Corbin M1 Motor — Permanent-Magnet Displacement Over-Unity (2026-05-02)
+
+This section logs an unverified over-unity claim circulating on X that is topically adjacent to the ZPF / inertial-mass-reduction physics tracked in Track_20. The mechanism described is **not** the Pais resonant-cavity vacuum-polarization mechanism. It is a permanent-magnet "displacement" rotor topology marketed as a 4×–25× mechanical-power amplifier. The two are unified only by the broader thesis that classified or suppressed electromagnetics may extract energy from a non-classical reservoir (zero-point field, magnetic domain alignment energy, or similar). Documented here for cross-referencing — claims are unverified.
+
+### Source Post
+
+[@deepwebslinger on X](https://x.com/deepwebslinger/status/2050657458457371070), posted 2026-05-02 (76 likes, 34 retweets, 66 bookmarks, 2,056 impressions). Author self-identifies as a retired criminal investigator and free-energy advocate. The post claims:
+
+> "A known inventor named Michael Corbin just built an electromagnetic motor that outputs 4X to 25X the energy that is inputted… It runs itself… and can mechanically spin a full sized generator. This isn't a theory. This is real. Clean, limitless energy is now being tested. No more bills, pollution or big energy corporation dependence." — @deepwebslinger, 2026-05-02
+
+The "Michael Corbin" referenced is identified in the video narration as the inventor of the **Sparrow** electric vehicle (Corbin Motors, 1990s), now claiming a permanent-magnet motor design called the **M1**.
+
+### Video Evidence
+
+<video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+  <source src="http://127.0.0.1:8080/ipfs/QmQPCKkiwjWi6xNubAk2KKCMjpHPCUGCyDuCcNRzWoy65D" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmQPCKkiwjWi6xNubAk2KKCMjpHPCUGCyDuCcNRzWoy65D" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmQPCKkiwjWi6xNubAk2KKCMjpHPCUGCyDuCcNRzWoy65D" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Animated explainer of the Corbin M1 permanent-magnet "director-armature" topology, followed by handheld demonstration of a physical prototype. Source: [@deepwebslinger on X](https://x.com/deepwebslinger/status/2050657458457371070), 2026-05-02. Duration 3:49.*
+
+### Mechanism as Described in the Video Transcript
+
+The narration describes a three-element rotor topology:
+
+1. **Director** — a laminated ferrous-steel rotor of high magnetic permeability, free to rotate ahead of the armature
+2. **Armature** — the load-coupled rotor carrying or interacting with the working magnetic flux
+3. **Stator pole tips** — fixed permanent magnets arranged around the periphery, providing the source magnetomotive force (MMF)
+
+The narrator's claim of operation, paraphrased from the transcript with its own language preserved:
+
+> "The dotted lines indicate the magnetic lines of flux at this stage of the motor's cycle. Just like our own planet, the lines travel from south to north and seek the shortest path of completion… Inside the armature, this rotation distorts the magnetic lines. The lines now travel through the director and armature magnets and seek a cleaner, shorter path. This path is found via the next magnetic pole tip… The tightening of the magnetic lines causes the armature to be pulled forward, which brings the motor flux motor back to a pure circuit… By keeping the director in constant rotation in front of the armature, we achieve mechanical power using just the energy of the permanent magnets. This is our M1 motor."
+
+The operative phrase from the demonstration:
+
+> "The director always has to move first and then the armature follows it… With this displacement discovery, he is able to get 4 to 25 times the power output."
+
+The narrator further claims a side-channel constraint:
+
+> "We also don't have to worry about microwaves as much as if we keep this device in a ferrous cage."
+
+The implication being that the device emits electromagnetic noise outside the rotor that requires Faraday-cage shielding — relevant from a measurement-artifact standpoint (see "What Would Falsify the Claim" below).
+
+### Physics Assessment — PhD Level
+
+The configuration described is a variant of a long-running family of permanent-magnet motor topologies (Howard Johnson, Bedini, Searl, Mylow) which claim mechanical power output in excess of any electrical or mechanical input by exploiting "displacement" of the rotor relative to the stator's flux geometry. The orthodox-physics analysis is unambiguous and is reproduced here in full so the claim can be evaluated rigorously against it.
+
+**Energy balance for a magnetostatic rotor system.** Let the magnetic field of the permanent magnets be $\mathbf{B}(\mathbf{r}, \theta)$, parameterized by the rotor angle $\theta$. The total magnetostatic energy stored in the field is
+
+$$
+W(\theta) = \frac{1}{2\mu_0} \int_V |\mathbf{B}(\mathbf{r}, \theta)|^2 \, dV.
+$$
+
+The mechanical torque on the rotor is the negative gradient of stored energy at constant flux linkage (or equivalently, the positive gradient of co-energy at constant MMF):
+
+$$
+\tau(\theta) = -\left.\frac{\partial W}{\partial \theta}\right|_{\Phi} = +\left.\frac{\partial W'}{\partial \theta}\right|_{\text{MMF}}.
+$$
+
+For a rotation through one full mechanical cycle $\theta: 0 \to 2\pi$, the line integral
+
+$$
+\oint_0^{2\pi} \tau(\theta)\, d\theta = W(0) - W(2\pi) = 0
+$$
+
+vanishes identically, because $W$ is a single-valued function of rotor position and the field configuration at $\theta = 2\pi$ is identical to that at $\theta = 0$. There is no net mechanical work extractable from any closed magnetostatic cycle of permanent magnets alone. This is a direct consequence of the conservative nature of the magnetostatic field (curl-free $\mathbf{H}$ outside currents) and ultimately of the fact that $\nabla \cdot \mathbf{B} = 0$.
+
+**The "director moves first" framing.** The transcript's claim that the director "always has to move first and then the armature follows it" describes ordinary reluctance-motor or hysteresis-motor cogging behavior. In a variable-reluctance topology, the rotor seeks the configuration that minimizes magnetic reluctance (maximizes flux linkage). When the director is mechanically displaced ahead of the armature, restoring torque develops on the armature pulling it to align — but the director must have been moved against an equal and opposite reaction torque, and the work done to displace it is exactly recovered (in the lossless limit) when the armature catches up. The system is a magnetic spring, not a power source.
+
+**The 4×–25× mechanical-amplification claim.** Mechanical advantage (gear ratios, lever arms, hydraulic pistons) trivially trades torque for angular velocity at constant power. A 4× torque amplification at 1/4 of the input shaft speed produces no net power gain. The handheld "horsepower meters showing the input and output of the system" referenced in the narration are not specified in the transcript — without a calorimetric energy-balance measurement (input electrical or mechanical work integrated over a closed cycle vs. dissipated heat plus useful output work), no over-unity claim can be evaluated. This is the standard failure mode of permanent-magnet over-unity demonstrations: input power is measured at one rate (e.g., DC current × voltage), output is measured at a different rate or with a different instrument bandwidth, and the discrepancy is attributed to "free energy" rather than to instrument mismatch, transient kinetic energy stored in the rotor, or unaccounted-for hand-applied torque.
+
+**Where the Pais ZPF mechanism differs.** The Pais inertial mass reduction patent (`patent.mdx` in this Track) does not claim violation of energy conservation — it claims access to a non-vacuum-equilibrium reservoir (the zero-point field). The first law is preserved if $\rho_{\text{ZPF}}$ is treated as an extractable reservoir; the question is whether asymmetric coupling to the ZPF is physically realizable. Corbin's M1 as described in the transcript invokes no ZPF, no vacuum polarization, and no quantum reservoir — it is purely a magnetostatic-rotor argument, and as such fails the closed-line-integral test above. The two devices belong to different categories of unconventional energy claim and should not be conflated.
+
+### What Would Falsify the Claim
+
+A rigorous test of the M1 motor would require:
+
+1. **Closed calorimetric envelope** — the entire device including any input drive motor, power supply, and load (mechanical or electrical) must be inside a thermal calorimeter. Total electrical work in over time $T$, plus initial kinetic + magnetic energy, must equal total heat dissipated plus useful work out plus final kinetic + magnetic energy. Any over-unity claim must show $\eta = W_{\text{out}} / W_{\text{in}} > 1$ across this envelope.
+2. **Independent dynamometer measurement** of shaft torque and angular velocity at both input and output sampled at sufficient bandwidth to capture transients.
+3. **Faraday-cage operation** to rule out RF coupling from external sources (the narrator's own remark that "we don't have to worry about microwaves as much as if we keep this device in a ferrous cage" is a flag for unmeasured RF emission, but it equally indicates susceptibility to external RF — the cage protects against both).
+4. **Run-down test** — drive the motor to steady-state, disconnect all input, measure the time-integral of mechanical work delivered by the rotor as it spins down. This isolates magnetostatic energy from input-coupled energy.
+
+To date, no permanent-magnet motor in this lineage (Howard Johnson 1979, Bedini SG, Searl SEG, Mylow, Yildiz Magnet Motor) has passed an independently-supervised calorimetric test. The Corbin M1, on the basis of the transcript alone, presents no measurement protocol that would distinguish it from this prior class.
+
+### Relevance to Track_20
+
+Track_20 is the Pais inertial mass reduction patent thread. The Corbin M1 is logged here only because:
+
+* It appears in the same X-platform "free energy / suppressed physics" discourse stream that surrounds discussion of the Pais patents
+* It represents the **null hypothesis** category — a claim that, on rigorous analysis, reduces to a known classical-physics misidentification — against which the genuinely novel ZPF-coupling claim of the Pais patent must be distinguished
+* The contrast clarifies what a serious classified-physics claim must do that a permanent-magnet-displacement claim does not: invoke an explicit non-equilibrium quantum reservoir, specify the coupling Hamiltonian, and make falsifiable predictions in a regime where classical magnetostatics gives a definite null
+
+### Sources (this section)
+
+- [@deepwebslinger original X post](https://x.com/deepwebslinger/status/2050657458457371070), 2026-05-02
+- Local video: `static/videos/2050657458457371070.mp4` (IPFS CID `QmQPCKkiwjWi6xNubAk2KKCMjpHPCUGCyDuCcNRzWoy65D`)
+- Local transcript: `Physics/other/transcripts/2050657458457371070_transcript.txt`
+- Corbin Motors / Sparrow EV background: Corbin Motors, Hollister CA, founded 1997; Sparrow three-wheeled EV produced 1999–2002
+- Theorem on closed-cycle magnetostatic work: Stratton, J. A. (1941), *Electromagnetic Theory*, McGraw-Hill, §2.13 (energy of permanent-magnet systems); Jackson, J. D. (1999), *Classical Electrodynamics* 3rd ed., §5.16
+- ZPF inertia framework (for contrast with Corbin claim): Haisch, Rueda, Puthoff (1994), Phys. Rev. A 49(2):678–694
+
+*Note on attribution: claims attributed to "Michael Corbin" in this section are as represented in the @deepwebslinger video narration of 2026-05-02. No independent verification has been performed. The inventor named has not been contacted; any technical claims should be treated as alleged pending independent measurement.*
