@@ -88,7 +88,7 @@ This on-demand plasma stealth activation is architecturally superior to passive 
 
 ### Assignee Context: MKB Raduga
 
-MKB Raduga (the address on the patent, through the Ministry of Industry and Trade) is the developer of the Kh-22, Kh-55, and Kh-101/102 cruise missile families for the Russian Air Force. The 2014 filing date is contemporaneous with the development period of the Kh-101/102 stealth cruise missile (declared operational 2016). The technical approach matches what would be needed to achieve the reported <0.01 m² radar cross-section of that system.
+MKB Raduga (the address on the patent, through the Ministry of Industry and Trade) is the developer of the Kh-22, Kh-55, and Kh-101/102 cruise missile families for the Russian Air Force. The 2014 filing date is contemporaneous with the development period of the Kh-101/102 stealth cruise missile (declared operational 2016). The technical approach matches what would be needed to achieve the reported &lt;0.01 m² radar cross-section of that system.
 
 ## Relationship to Other Patents in This Archive
 

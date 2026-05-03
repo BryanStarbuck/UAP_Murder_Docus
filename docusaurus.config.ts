@@ -1,6 +1,8 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 
 const siteUrl = process.env.DOCUSAURUS_URL || "https://uapmurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL || "/";
@@ -28,9 +30,9 @@ const config: Config = {
     locales: ["en"],
   },
 
-  metadata: [
-    { name: 'google-site-verification', content: 'RUz8ukRe1Bq-veydpGR2cFPUvB8con_WUc4RCqIq-5Q' },
-  ],
+  markdown: {
+    format: "detect",
+  },
 
   presets: [
     [
@@ -41,6 +43,9 @@ const config: Config = {
           path: "UAPs",
           routeBasePath: "uaps",
           sidebarPath: "./sidebarsGeneral.ts",
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
+          exclude: ["**/CLAUDE.md", "**/claude.md"],
         },
         blog: false,
         theme: {
@@ -48,6 +53,15 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+  stylesheets: [
+    {
+      href: "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css",
+      type: "text/css",
+      integrity: "sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV",
+      crossorigin: "anonymous",
+    },
   ],
 
   plugins: [
@@ -58,6 +72,9 @@ const config: Config = {
         path: "Energy",
         routeBasePath: "energy",
         sidebarPath: "./sidebarsEnergySystems.ts",
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+        exclude: ["**/CLAUDE.md", "**/claude.md"],
       },
     ],
     [
@@ -67,8 +84,12 @@ const config: Config = {
         path: "Physics",
         routeBasePath: "physics",
         sidebarPath: "./sidebarsPhysics.ts",
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
         exclude: [
-          // Physics_Math research workspace — exclude all except Physics_Math/ui/
+          "**/CLAUDE.md",
+          "**/claude.md",
+          // Physics_Math research workspace — only publish Tracks, ui/, 2_patents_intl/, top-level overview/Break_thrus
           'Physics_Math/1_Track/**',
           'Physics_Math/attempts/**',
           'Physics_Math/day/**',
@@ -90,6 +111,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+      { name: 'google-site-verification', content: 'RUz8ukRe1Bq-veydpGR2cFPUvB8con_WUc4RCqIq-5Q' },
+    ],
     image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,

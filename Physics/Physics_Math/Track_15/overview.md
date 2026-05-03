@@ -36,7 +36,7 @@ This on-demand plasma stealth activation is architecturally superior to passive 
 
 MKB Raduga (address on patent) is the developer of the Kh-22, Kh-55, and Kh-101/102 cruise missile families for the Russian Air Force. A plasma stealth drone filed through the Ministry of Industry and Trade with MKB Raduga's address is almost certainly a classified cruise missile or loitering munition variant with reduced radar cross-section.
 
-The 2014 filing date is contemporaneous with the development period of the Kh-101/102 stealth cruise missile (declared operational 2016), and the technical approach matches what would be needed to achieve the reported <0.01 m² RCS of that system.
+The 2014 filing date is contemporaneous with the development period of the Kh-101/102 stealth cruise missile (declared operational 2016), and the technical approach matches what would be needed to achieve the reported &lt;0.01 m² RCS of that system.
 
 ## Connection to US8006939B2 (Lockheed Plasma Accelerator)
 
