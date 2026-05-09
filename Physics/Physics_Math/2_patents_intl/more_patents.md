@@ -1,3 +1,6 @@
+---
+sidebar_label: "more patents"
+---
 
 It is fascinating to explore the intersection of exotic physics and aerospace engineering, especially when looking for concepts that mirror UAP flight characteristics—like propellant-less propulsion, instantaneous maneuvering, or electromagnetic drives. 
 
