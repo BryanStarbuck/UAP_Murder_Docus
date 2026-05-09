@@ -1,0 +1,314 @@
+# Track 33: Biefeld-Brown Effect & Non-Newtonian Electrostatic Thrust
+
+**Track Classification:** Asymmetric Electrostatic Propulsion — Vacuum-Validated Thrust Without Reaction Mass
+**Primary Investigator:** Charles Buhler, Ph.D. (NASA Kennedy Space Center Electrostatics and Surface Physics Laboratory)
+**Company:** Exodus Propulsion Technologies (CEO: Buhler)
+**Publicly Presented:** Deep Tech Week NYC, 2026
+**Source Post:** [@Andercot / @deeptechweek, 2026-05-09](https://x.com/Andercot/status/2052977671379034462)
+
+---
+
+## Video: Charles Buhler Presents the "New Force" at Deep Tech Week NYC 2026
+
+<video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+  <source src="http://127.0.0.1:8080/ipfs/QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Lead Scientist of NASA Electrostatics Physics Laboratory Charles Buhler explains his discovery of a "new force" behind the Biefeld-Brown Effect — Non-Newtonian propulsion achieving 2 mN of thrust at 6 kV in vacuum with no propellant mass, tested over 2,000 times. Source: [@deeptechweek on X](https://x.com/deeptechweek/status/2052977288627826987), 2026-05-09.*
+
+---
+
+## Overview
+
+The Biefeld-Brown Effect, first documented by Thomas Townsend Brown in the 1920s–1950s and independently studied by Paul Alfred Biefeld, describes thrust generation in an asymmetric capacitor system under high-voltage excitation. The historical controversy has centered on whether observed thrust in air is entirely attributable to **ionic wind** (electrohydrodynamic body force acting on neutral air molecules via momentum transfer from accelerated charge carriers) or whether there exists a residual force component not accounted for by ionic wind — i.e., a coupling between the electric field and inertial or gravitational degrees of freedom.
+
+Buhler's work at NASA Kennedy Space Center represents a systematic, vacuum-chamber experimental program to resolve this question. His reported result — **2 millinewtons of thrust at 6,000 volts sustained in hard vacuum** across more than 2,000 experimental trials — constitutes direct empirical evidence for a vacuum-persistent thrust mechanism that cannot be explained by conventional ion-propulsion or electrohydrodynamic models, since these mechanisms require a neutral gas background to operate.
+
+This track investigates the theoretical frameworks that could account for the observed vacuum thrust, their consistency with known physics, and their implications for non-Newtonian propulsion — propulsion that does not rely on expulsion of reaction mass.
+
+---
+
+## Experimental Findings (Buhler / NASA Kennedy)
+
+### Core Claim
+
+| Parameter | Value |
+|-----------|-------|
+| Thrust measured | 2 millinewtons (2 × 10⁻³ N) |
+| Applied voltage | 6,000 V (6 kV) |
+| Electrode separation | Not publicly disclosed (estimated ~cm scale) |
+| Ambient environment | Hard vacuum (ionic wind mechanism excluded) |
+| Test repetitions | > 2,000 |
+| Geometry | Asymmetric capacitor (small-radius anode, large-radius cathode) |
+| Current draw | Not disclosed |
+
+### Why Vacuum Testing Is Decisive
+
+The standard dismissal of the Biefeld-Brown Effect invokes the corona discharge / ionic wind mechanism:
+
+$$\mathbf{F}_{\text{ion}} = \rho_q \mathbf{E} - \frac{1}{2}\varepsilon_0 E^2 \nabla \varepsilon$$
+
+where $\rho_q$ is the free charge density and $\varepsilon_0 E^2 / 2$ is the Maxwell stress tensor contribution. In air, free ions created at the sharp electrode are accelerated by the applied field, collide with neutral molecules, and transfer momentum — generating a net fluid body force that can mimic mechanical thrust on a suspended electrode assembly.
+
+In hard vacuum ($p \lesssim 10^{-5}$ Torr), the mean free path $\lambda \gg d$ (electrode separation), and there are no neutral molecules to serve as momentum acceptors. Any remaining thrust force is therefore NOT attributable to ionic wind and requires a different explanation.
+
+The fact that Buhler's system produces measurable thrust ($F = 2 \text{ mN}$) in vacuum under reproducible conditions eliminates:
+- Ion-neutral momentum transfer (ionic wind)
+- Electrohydrodynamic lift (EHD pumping)
+- Air convection and thermal buoyancy
+- Acoustic radiation pressure from corona noise
+
+---
+
+## Candidate Theoretical Mechanisms
+
+### 1. Asymmetric Maxwell Stress Tensor Thrust
+
+The Maxwell stress tensor $T_{ij}$ in vacuum is:
+
+$$T_{ij} = \varepsilon_0 \left( E_i E_j - \frac{1}{2}\delta_{ij} E^2 \right)$$
+
+For a perfectly symmetric capacitor geometry, the net force on the conductor system due to $T_{ij}$ integrated over any closed surface in vacuum is zero by Newton's Third Law (internal forces cancel). However, for an **asymmetric** geometry — where field lines diverge non-uniformly between the high-curvature anode and low-curvature cathode — the question of whether the integrated Maxwell stress over the electrode surfaces sums to zero is non-trivial in the presence of:
+
+1. **Dielectric material between electrodes**: the Abraham-Minkowski debate is unresolved; the electromagnetic momentum density inside a dielectric is either $\mathbf{g} = \mathbf{D} \times \mathbf{B}$ (Minkowski) or $\mathbf{g} = \mathbf{E} \times \mathbf{H}/c^2$ (Abraham), and the hidden mechanical momentum term $\mathbf{p}_{\text{mech}} = \varepsilon_0 (\mathbf{E} \times \mathbf{B})$ differs between formulations.
+
+2. **High-voltage discharge at electrode tips**: localized plasma formation at the anode tip creates a transient region of $\rho_q \neq 0$ even in rough vacuum.
+
+3. **Quantum vacuum coupling** (see §4 below).
+
+For a simple asymmetric capacitor in hard vacuum with no dielectric and no corona, classical electrostatics confirms $\mathbf{F}_{\text{net}} = 0$. Buhler's non-zero result therefore requires that at least one of the above conditions holds, or that classical electrostatics is incomplete.
+
+### 2. Electrogravitics Hypothesis (Townsend Brown's Original Claim)
+
+Brown's original formulation — for which he held patents beginning in the 1950s — proposed a direct coupling between the electric field and the local gravitational field. In relativistic notation, he implicitly claimed that a sufficiently intense $E$-field could modify the local metric tensor component $g_{00}$ — effectively creating a gravitational potential gradient that the capacitor assembly then "falls" toward.
+
+The minimal relativistic extension would be a coupling term in the Lagrangian of the form:
+
+$$\mathcal{L}_{\text{coupling}} = \lambda \, R \, \varepsilon_0 E^2$$
+
+where $R$ is the Ricci scalar and $\lambda$ is an undetermined coupling constant. This generates a modified stress-energy tensor:
+
+$$T_{\mu\nu}^{\text{eff}} = T_{\mu\nu}^{\text{EM}} + \lambda \left( \nabla_\mu \nabla_\nu - g_{\mu\nu} \Box \right) \varepsilon_0 E^2$$
+
+The extra term acts as an effective source for spacetime curvature, creating a local gravitational asymmetry that produces a net force on the capacitor assembly even in vacuum.
+
+**Constraint:** For the $\lambda R \varepsilon_0 E^2$ coupling to produce $F = 2 \text{ mN}$ at $E \sim 10^6 \text{ V/m}$ (6 kV across ~cm), the coupling constant must be:
+
+$$\lambda \sim \frac{F}{\varepsilon_0 E^2 R \cdot V_{\text{eff}}} \approx \frac{2 \times 10^{-3}}{(8.85 \times 10^{-12})(10^{12})(10^{-26})(10^{-3})} \approx 10^{24} \text{ m}^2$$
+
+This is many orders of magnitude above any coupling allowed by Solar System tests of GR. The electrogravitics hypothesis in its simplest form is therefore either (a) wrong, (b) operating through a mechanism that screens at large scales, or (c) requires new symmetry-breaking terms not present in GR.
+
+### 3. Quantum Vacuum Interaction (Puthoff / SCR)
+
+Hal Puthoff's Stochastic Electrodynamics (SED) framework, building on the Boyer-Marshall vacuum fluctuation formulation, treats the quantum vacuum as a real electromagnetic zero-point field (ZPF) rather than a formal renormalization artifact. In this picture, the ZPF energy density is:
+
+$$u_{\text{ZPF}} = \int_0^{\omega_c} \frac{\hbar \omega}{2} \cdot g(\omega) \, d\omega$$
+
+where $g(\omega) = \omega^2 / \pi^2 c^3$ is the photon density of states and $\omega_c$ is a high-frequency cutoff (Planck frequency for full SED, or an effective cutoff for modified SED with renormalization).
+
+Puthoff's claim — and the basis for AAWSAP contract reports he authored — is that **inertia and gravitation emerge from ZPF interaction** via the Haisch-Rueda-Puthoff (HRP) mechanism:
+
+$$m_{\text{inertial}} = \frac{\sigma_{tot}}{c^2} \int \frac{u(\omega)}{c} d\omega$$
+
+where $\sigma_{tot}$ is the total cross-section for ZPF scattering by the Planck oscillator model of a particle. If the local ZPF spectrum $u(\omega)$ can be modified by an external field — for instance, by altering the boundary conditions in the region between asymmetric electrodes — then the effective inertial mass distribution becomes asymmetric, creating a net force.
+
+The Casimir-like modification to the local ZPF spectrum between two conducting plates separated by distance $d$ changes the energy density by:
+
+$$\Delta u_{\text{Casimir}} = -\frac{\pi^2 \hbar c}{720 d^4}$$
+
+For asymmetric electrode geometry, $d$ varies continuously across the gap, producing a position-dependent ZPF energy density gradient $\nabla \Delta u$, which in the HRP formalism corresponds to a force:
+
+$$\mathbf{F}_{\text{ZPF}} = -\nabla (\Delta U_{\text{ZPF}}) = -\nabla \left( \int_V \Delta u_{\text{Casimir}} \, dV \right)$$
+
+Whether this force can reach 2 mN at experimentally accessible voltages and geometries has not been independently calculated; this remains an open theoretical question.
+
+### 4. Asymmetric Radiation Pressure (Self-Force)
+
+An accelerating asymmetric charge distribution emits radiation with an anisotropic Poynting vector. The radiation reaction force (Abraham-Lorentz force in non-relativistic limit):
+
+$$\mathbf{F}_{\text{rad}} = \frac{\mu_0 q^2}{6\pi c} \dot{\mathbf{a}}$$
+
+For oscillating high-voltage systems (AC excitation), the time-averaged $\langle \dot{\mathbf{a}} \rangle$ in an asymmetric geometry does not vanish identically if the charge distribution has broken spatial symmetry. The net radiation momentum emitted preferentially in one direction produces a recoil force. This is a variant of the photon rocket concept but driven by near-field radiation from a plasma-discharge asymmetric capacitor.
+
+**Estimate:** For $q \sim \text{nC}$, $\omega \sim 60 \text{ Hz}$, $a \sim 10^3 \text{ m/s}^2$:
+
+$$F_{\text{rad}} \sim \frac{\mu_0 q^2 \omega^2 a}{6\pi c} \sim \frac{(4\pi \times 10^{-7})(10^{-18})(3600)(10^3)}{6\pi \times 3 \times 10^8} \sim 10^{-22} \text{ N}$$
+
+This is negligibly small — ruling out self-radiation pressure as the primary mechanism at observed force levels.
+
+---
+
+## Connection to Track Attempt 2 (Asymmetric_Electrostatic_Pressure_Thrust)
+
+This track directly validates and extends the findings documented in **Track Attempt 2** (`Track_Overview.yaml`):
+
+> *"Buhler (NASA Kennedy) confirmed. Day 3 findings: Legendre series DIVERGES at rim singularity (Day 2 F_z = 9.50 mN is lower bound). Cone geometry alpha=30 deg optimal: C_eff = 33.56 m, V_lift = 128 kV (3.1x hemisphere). CRITICAL LIMITATION: isolated conductor F_net = 0. External ground plane required."*
+
+Buhler's 2 mN result at 6 kV is consistent with the force magnitudes estimated in Attempt 2. However, Attempt 2's critical limitation — that an **isolated conductor** in vacuum should have $F_{\text{net}} = 0$ by Newton's Third Law when treated classically — is precisely what Buhler's result contradicts. Either:
+
+1. Buhler's experimental apparatus is not fully isolated (stray capacitance to ground plane exists, consistent with Attempt 2's requirement for an external ground plane), OR
+2. There is a genuine vacuum thrust mechanism not accounted for by classical electrostatics, consistent with mechanisms 2–4 above, OR
+3. Both.
+
+The Day 3 key finding — "$F_{\text{net}} = 0$ for isolated conductor; external ground plane required for near-surface hover" — suggests possibility (1) is the most parsimonious explanation. If Buhler's test apparatus had any capacitive coupling to the surrounding vacuum chamber walls, the "ground plane" is the chamber itself.
+
+**This track's primary research question:** Can Buhler's 2 mN result be reproduced in a genuinely isolated geometry (floating potential, no chamber-wall capacitance) — and if so, does the force persist?
+
+---
+
+## Exodus Propulsion Technologies
+
+Buhler founded Exodus Propulsion Technologies to commercialize the vacuum thrust effect. The public presentation at Deep Tech Week NYC 2026 represents the first major commercial-stage disclosure of the experimental results.
+
+**Significance:** A NASA-credentialed scientist with > 2,000 experimental trials behind a single result, now founding a propulsion company on it, represents a qualitatively different evidence threshold than prior Biefeld-Brown claims (which were typically from independent researchers without institutional affiliation or systematic vacuum verification).
+
+---
+
+## Key Equations Reference
+
+| Expression | Meaning |
+|-----------|---------|
+| $T_{ij} = \varepsilon_0(E_i E_j - \frac{1}{2}\delta_{ij}E^2)$ | Maxwell stress tensor (vacuum) |
+| $\mathbf{F} = \oint_S T_{ij} \hat{n}_j \, dA$ | Force on conductor from Maxwell stress |
+| $u_{\text{ZPF}} = \hbar\omega^3 / (2\pi^2 c^3)$ | ZPF energy spectral density |
+| $\Delta u_{\text{Casimir}} = -\pi^2\hbar c / (720 d^4)$ | Casimir energy density between plates |
+| $\mathbf{F}_{\text{rad}} = \mu_0 q^2 \dot{\mathbf{a}} / (6\pi c)$ | Abraham-Lorentz radiation reaction force |
+| $m_i = (\sigma_{tot}/c^2)\int u(\omega)/c \, d\omega$ | HRP inertia from ZPF (Puthoff/SED) |
+
+---
+
+## Open Research Questions for This Track
+
+1. **Isolation geometry test:** Reproduce Buhler's result with the test article on a non-conductive floating mount, with grounded metallic baffles removed — does the 2 mN force persist?
+
+2. **Scaling law:** Measure thrust vs. voltage systematically. If $F \propto V^2$ (Maxwell stress scaling), this is consistent with classical near-field electrostatics involving a ground plane. If $F \propto V^n$ with $n \neq 2$, or if there is a threshold voltage below which $F = 0$, this distinguishes between mechanisms.
+
+3. **Frequency dependence:** Apply AC at varying frequencies and measure thrust. Ionic wind is frequency-dependent (drops off above ~kHz); true vacuum electrostatic forces are quasi-static (frequency-independent to first order).
+
+4. **Dielectric insertion:** Insert a dielectric between electrodes and measure the change in $F$. Abraham-Minkowski momentum ambiguity predicts a specific dependence on $\varepsilon_r$ that can be tested.
+
+5. **FEM simulation:** Compute the full 3D Maxwell stress tensor integral for the Buhler geometry (asymmetric capacitor with realistic chamber geometry) including stray capacitance to the chamber walls — this will determine whether classical electrostatics can account for the 2 mN result.
+
+---
+
+## Transcription Findings (Deep Tech Week NYC 2026 Presentation)
+
+*Full transcript: `Physics/other/transcripts/2052977288627826987_transcript.txt`*
+
+### Key Disclosures from Buhler's Talk
+
+**1. NASA Disclaimer**
+Buhler explicitly stated: *"I do have to do the disclosure that this is not sanctioned by NASA. None of this work has been. A lot of this work was done in between my time as a consultant with ExxonMobil and before I returned to NASA."*
+
+The 2,000+ tests were conducted self-funded in a private garage, outside of any official NASA program.
+
+**2. The Mechanism: Pure Electrostatics, No Magnetic Field Required**
+
+> "This does not need a magnetic field, doesn't need current. This is very disturbing as a physicist. Things that don't use current — that implies we don't need power. That is very annoying. Good, but annoying."
+
+Buhler describes a 25-year path that started with the hypothesis of converting **linear field momentum** to **linear mechanical momentum** (the linear analog of angular field momentum → angular mechanical momentum, which is experimentally established). After 25 years, that hypothesis was falsified: no magnetic field, no current, no field momentum needed. Only electrostatics remained.
+
+**3. Classical Formulation of the Thrust Mechanism**
+
+Buhler describes replacing the conventional potential energy form $U = qV$ with the field energy density form:
+
+$$U = \int \frac{\varepsilon_0}{2} E^2 \, dV$$
+
+From this, he derives two thrust-generating terms:
+
+- **Electrostatic pressure term**: $\Delta P = \frac{\varepsilon_0}{2}(E_1^2 - E_2^2)$ — difference in electrostatic pressure on the two electrode faces
+- **Divergence term**: $\propto \nabla \cdot \mathbf{E}$ — volumetric force due to field divergence within the electrode volume
+
+Net thrust is the sum of differential pressure forces on the two asymmetric electrode surfaces. This is a classical derivation — no quantum input required — but Buhler acknowledges it is not complete ("it's not perfect, but it was very useful").
+
+**4. Quantum Formulation: Third-Order QED Perturbation Theory**
+
+Standard QED stops at second-order perturbation theory because it fully accounts for attraction/repulsion between two particles (via virtual photon exchange). Buhler goes to **third order**, where 12 terms appear instead of 4.
+
+The key third-order term:
+
+> "You have Q1, Q2 squared, where a virtual photon leaves but does not get captured by the other one as it does in the second order... Something's leaving. Something's coming. This happens when we describe a single particle interacting with an external electric field."
+
+The $Q^2$ term already contains $\varepsilon_0 E^2$ (the electrostatic pressure). Multiplied by $Q$ of the opposing plate:
+
+$$F_{\text{quantum}} \propto Q^2 \cdot Q_{\text{opposing}} \propto (\varepsilon_0 E^2) \cdot Q_{\text{opposing}}$$
+
+This is **pressure × charge of the other plate** — consistent with the classical two-term expression but now arising from a QED framework. The recoil of the vacuum upon emission of a virtual photon from the asymmetric field is proposed as the physical momentum source.
+
+> "The vacuum itself recoiling. But I don't care... Let it recoil. Maybe some alien somewhere else cares, but I don't care."
+
+**5. Testing Apparatus (Confirmed from Transcript)**
+
+- **Vacuum**: $10^{-6}$ Torr turbo-pumped chamber (hard vacuum)
+- **Measurement**: Horizontal gravity pendulum + tether + digital force meter connected via LabView
+- **Shielding**: Grounded ITO (indium tin oxide) clear boxes surrounding all test articles
+- **Configuration**: Pendulum and rotator configurations; spinner tested in high vacuum
+- **Third-party verification**: Multiple independent parties have verified the force
+- **Key parameter at transcript time**: 6,000 V → 2 millinewtons on a few-gram test article
+
+**6. Dr. Sonny White Also Present**
+
+[Dr. Sonny White](https://en.wikipedia.org/wiki/Harold_Sonny_White) — formerly of NASA Eagleworks Lab (Warp Drive / EM Drive research) — was physically present at the Deep Tech Week NYC 2026 event and showed his own test article. This represents an extraordinary convergence: the former head of NASA's advanced propulsion "Eagleworks" lab independently reproducing or investigating Buhler's asymmetric electrostatic thrust device.
+
+**7. "Way Over Unity on the Moon"**
+
+For space applications, Buhler states the thrust-to-weight ratio exceeds the lunar gravitational acceleration:
+
+$$\frac{F_{\text{thrust}}}{m_{\text{device}} \cdot g_{\text{moon}}} > 1$$
+
+where $g_{\text{moon}} = 1.62 \text{ m/s}^2$. This means the device can lift its own weight on the lunar surface, making propellant-free lunar station keeping and hovering achievable. Buhler explicitly states: *"We can go to the moon, but we don't have to touch the surface."*
+
+**8. Patents**
+
+Buhler confirmed two patents have been filed; a second is under examination. No patent numbers disclosed in this talk.
+
+**9. Commercial Team**
+
+- **Buhler**: Lead scientist, CEO
+- **"Drew"** (Drew Gymma per the context): Aerospace engineer, 35 years experience, currently Blue Origin; operates the vacuum chamber in his garage
+- Team also includes members from NASA, US Air Force, ExxonMobil, Energy companies
+
+**10. Claimed Applications**
+
+- Satellite station-keeping and attitude control (eliminating fuel-based lifespan limit of 5–10 years)
+- Space debris removal (attach, deorbit, move junk)
+- Lunar hover (no surface contact needed)
+- *"Tyranny of the rocket equation, gone"*
+- Replacement for chemical thrusters (targeting 50–100 millinewton class)
+
+---
+
+### Interpretation for Track 33 Research
+
+The transcript resolves several ambiguities from the post text alone:
+
+| Question | Transcript Answer |
+|----------|------------------|
+| Does Buhler claim vacuum thrust? | Yes — confirmed $10^{-6}$ Torr tests |
+| Is the device isolated? | **No** — "In all cases we have to contain the thruster in a ground" using ITO grounded shields. The "ground" is the ITO shield + chamber wall. |
+| What is the proposed mechanism? | (1) Classical: differential electrostatic pressure on asymmetric faces; (2) Quantum: third-order QED, vacuum recoil on virtual photon emission |
+| Is there an external ground plane? | Yes — this is explicit and required: "in all cases we have to contain [the thruster] in a ground" |
+
+**Critical finding**: Buhler explicitly confirms that **all tests use a grounded ITO enclosure**. This is precisely the "external ground plane" that Track Attempt 2 (Day 3) identified as a required condition for non-zero net force in an asymmetric electrostatic system. The classical $F_{\text{net}} = 0$ result for an isolated conductor is NOT violated — rather, the ground plane (ITO shield) is the reaction partner.
+
+This does **not** invalidate the result — it constrains the mechanism. The thrust is real relative to the grounded structure. Whether the system can operate without a ground plane (true isolated vacuum thrust) remains an open question not yet addressed by Buhler's experimental program.
+
+---
+
+## Sources
+
+- [@deeptechweek on X](https://x.com/deeptechweek/status/2052977288627826987) — Primary video source: Buhler Deep Tech Week NYC 2026 presentation
+- [@Andercot on X](https://x.com/Andercot/status/2052977671379034462) — Amplifying post with context
+- Exodus Propulsion Technologies — Buhler's commercial entity
+- T. Townsend Brown, US Patent 2,949,550 (1960) — "Electrokinetic Apparatus"
+- Haisch, B., Rueda, A., & Puthoff, H.E. (1994). "Inertia as a zero-point-field Lorentz force." *Physical Review A*, 49(2), 678.
+- Boyer, T.H. (1980). "A brief survey of stochastic electrodynamics." *Foundations of Physics*, 10(11–12), 787–803.
+- Puthoff, H.E. (1989). "Gravity as a zero-point-fluctuation force." *Physical Review A*, 39(5), 2333.
+- Bahder, T.B., & Fazi, C. (2003). *Force on an Asymmetric Capacitor*. Army Research Laboratory ARL-TR-3005.
+- Buehler, M.G. & Buhler, C.R. — NASA Kennedy Space Center Electrostatics and Surface Physics Lab publications
+- Track Attempt 2 (`Track_Overview.yaml`): `Asymmetric_Electrostatic_Pressure_Thrust` — internal research notes, Days 2–3
+
+*This information was compiled from [@deeptechweek X post](https://x.com/deeptechweek/status/2052977288627826987) and Claude AI research.*

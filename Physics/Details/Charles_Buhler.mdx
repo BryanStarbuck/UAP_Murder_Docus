@@ -1,0 +1,102 @@
+---
+title: Charles Buhler
+---
+
+# Charles Buhler
+Lead scientist at NASA's Electrostatics and Surface Physics Laboratory who privately developed and validated asymmetric electrostatic thrust in hard vacuum — a "new force" underlying the century-old Biefeld-Brown Effect, now commercializing through Exodus Propulsion Technologies.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Charles R. Buhler (transcribed as "Bueller" in some sources) |
+| **Role** | Physicist / Engineer — NASA Scientist & Entrepreneur |
+| **Platform** | Deep Tech Week NYC 2026 (first public presentation); Exodus Propulsion Technologies |
+| **Notable Works** | Electrodynamic Dust Shield (NASA Kennedy, landed on Moon); Exodus Propulsion asymmetric electrostatic thruster; 2+ patent filings (Exodus Propulsion); ~2,000 experimental trials of vacuum electrostatic thrust |
+
+## Their Claims
+
+Buhler claims to have discovered and experimentally validated a **new electrostatic force mechanism** — not ionic wind, not electromagnetic — capable of generating measurable thrust in hard vacuum ($10^{-6}$ Torr) without expelling any reaction mass.
+
+His core experimental result: **approximately 2 millinewtons of thrust at 6,000 volts**, demonstrated in a horizontal gravity pendulum apparatus using grounded ITO (indium tin oxide) shielded test articles in a vacuum chamber. This result has been replicated by third parties and by Buhler's own team across more than 2,000 experimental trials over approximately 10 years.
+
+The mechanism Buhler identifies has two complementary formulations:
+
+**Classical formulation:** Starting from the field energy density $U = \int \frac{\varepsilon_0}{2} E^2 \, dV$ rather than the conventional $U = qV$, the force equation yields two terms:
+1. A **surface pressure term**: net force proportional to the difference in electrostatic pressure $\frac{\varepsilon_0}{2}(E_1^2 - E_2^2)$ between the two asymmetric electrode faces
+2. A **volumetric divergence term**: force proportional to $\nabla \cdot \mathbf{E}$ within the electrode volume
+
+The asymmetric geometry ensures $E_1^2 \neq E_2^2$ between the high-curvature anode and the low-curvature cathode, producing a non-zero net pressure difference and thus a net thrust in the direction from cathode to anode.
+
+**Quantum formulation:** Buhler proposes a third-order QED perturbation theory explanation, extending beyond the standard second-order treatment (which fully accounts for particle attraction/repulsion via virtual photon exchange). At third order, 12 terms appear. The relevant new term involves a virtual photon emitted from the field of one electrode that interacts with the external field rather than being absorbed by the second charge — the **vacuum recoils** upon this virtual photon emission, and the asymmetric geometry biases the direction of this recoil, producing net thrust. In his notation:
+
+$$F_{\text{quantum}} \propto Q^2 \cdot Q_{\text{opposing}} = (\varepsilon_0 E^2) \cdot Q_{\text{opposing}}$$
+
+which is **pressure times the charge of the opposing plate** — consistent with the classical two-term expression but derived from QED rather than Maxwell stress tensor integration.
+
+**Important constraint:** All of Buhler's vacuum tests use a **grounded ITO-shielded enclosure** surrounding the test article. Buhler explicitly states: *"In all cases we have to contain the thruster in a ground."* This means the force is measured relative to a grounded structure, not in a fully isolated floating configuration. Whether the thrust persists in a completely isolated (floating potential) vacuum geometry has not been demonstrated. The ground plane is the classical reaction partner that permits $F_{\text{net}} \neq 0$ for the test article — consistent with [Track Attempt 2](../Physics_Math/Track_33/overview.mdx) Day 3 findings.
+
+## Key Quotes
+
+> "This does not need a magnetic field, doesn't need current. This is very disturbing as a physicist. Things that don't use current — that implies we don't need power. That is very annoying. Good, but annoying."
+> — **Charles Buhler**, Deep Tech Week NYC, May 2026
+
+> "Do you think NASA would pay me to do 2,000 tests on something? No. The SLS that just launched the other day — it's test number two. We're not going to do 2,000 tests on anything in NASA. This has to be done outside of NASA. Trying to get funding for this at NASA? No, you're not going to get funding for this at NASA."
+> — **Charles Buhler**, Deep Tech Week NYC, May 2026
+
+> "I do have to do the disclosure that this is not sanctioned by NASA. None of this work has been. A lot of this work was done in between my time as a consultant with ExxonMobil and before I returned to NASA."
+> — **Charles Buhler**, Deep Tech Week NYC, May 2026
+
+> "The vacuum itself recoiling. But I don't care. Do you care if the vacuum recoils? Does anyone care? I don't care. Let it recoil. Maybe some alien somewhere else cares, but I don't care."
+> — **Charles Buhler**, on the quantum vacuum momentum source, Deep Tech Week NYC, May 2026
+
+> "The tyranny of the rocket equation, gone. Rockets — all they do is send up more mass for their bigger rocket. You don't need to do that anymore. That's our hope."
+> — **Charles Buhler**, Deep Tech Week NYC, May 2026
+
+## Key Arguments & Evidence They Cite
+
+- **100+ years of asymmetric capacitor observations**: Buhler notes the Biefeld-Brown effect has been observed "for over 100 years," positioning his work as finally explaining the mechanism rather than discovering a new phenomenon
+- **Hard vacuum ($10^{-6}$ Torr) testing**: Turbo-pumped vacuum chamber eliminates ionic wind, electrohydrodynamic effects, thermal convection, and acoustic radiation pressure as alternative explanations
+- **2,000+ experimental trials**: Far exceeds standard replication requirements; includes configuration variations (pendulum, rotator, spinner, scale measurements)
+- **Third-party independent verification**: Multiple independent parties have replicated the thrust measurement
+- **Electrodynamic Dust Shield heritage**: NASA-funded, Moon-deployed technology from the same laboratory — establishes Buhler's credibility in electrostatic systems engineering
+- **Dr. Sonny White's independent interest**: Former head of NASA's Eagleworks Advanced Propulsion Lab (Warp Drive / EM Drive program) was present at the Deep Tech Week presentation with his own test article
+- **Lunar over-unity**: Thrust-to-weight ratio exceeds lunar gravitational acceleration ($g_\text{moon} = 1.62$ m/s²) — enabling propellant-free lunar operations
+- **Two patents filed**: Commercial-stage intellectual property protection underway
+
+## Where They've Said It
+
+- **Deep Tech Week NYC 2026** — First major public commercial-stage presentation; video posted by [@deeptechweek on X](https://x.com/deeptechweek/status/2052977288627826987), 2026-05-09
+- **[@Andercot amplification](https://x.com/Andercot/status/2052977671379034462)** — 149,771 impressions, 1,130 bookmarks, 2,072 likes; reached broad technical audience
+- **Exodus Propulsion Technologies** — Commercial entity through which Buhler is pursuing investment and deployment
+
+## The Counterargument
+
+**Mainstream physics position:** Asymmetric electrostatic thrust in vacuum should be zero for an isolated system by Newton's Third Law applied to the Maxwell stress tensor. For a conductor system in vacuum with no free charges, the integral of $T_{ij}\hat{n}_j$ over any closed surface enclosing the system sums to zero — there is no net external force. The ARL-TR-3005 study (Bahder & Fazi, 2003) found that asymmetric capacitor thrust in vacuum was negligible compared to in-air measurements, consistent with the ionic wind explanation.
+
+**Alternative explanations for Buhler's non-zero vacuum result:**
+1. **Ground plane reaction**: Buhler explicitly uses grounded ITO shields — the system is not isolated. The thrust is measured relative to the grounded structure, which is the classical reaction partner. This is not "reactionless" thrust in the strictest sense; it is thrust from an electrostatic interaction between the asymmetric test article and the surrounding grounded chamber. Demonstrating the same force with a completely floating, isolated test article would be far more extraordinary.
+2. **Stray capacitance and electromagnetic coupling**: At 6,000 V, even tiny capacitive coupling to the chamber walls or support structure could produce forces consistent with the observed 2 mN.
+3. **Measurement artifacts on scales**: Buhler himself acknowledges that electrostatic coupling to scale electronics can corrupt scale-based measurements ("scales can lie to you"), which is why he prefers the tethered pendulum geometry. But the pendulum itself has a grounded fiber or cable that could serve as a reaction path.
+
+**Credibility assessment:** Buhler is a credentialed NASA physicist with legitimate non-controversial work (Electrodynamic Dust Shield). His 2,000-trial dataset and third-party verification are unusually rigorous for alternative propulsion claims. The ground-plane dependency does not invalidate the experimental result — it constrains the interpretation. Whether a ground-plane-free version can produce the same thrust is the critical unanswered question.
+
+## Related Perspectives
+
+- [Electromagnetic Propulsion](Electromagnetic_Propulsion.mdx) — Covers the Biefeld-Brown Effect history, including T.T. Brown's original claims and the electrogravitics classification in the 1950s
+- [Salvatore Pais](Salvatore_Pais.mdx) — Navy physicist holding patents on electromagnetic inertial mass reduction and high-energy field propulsion
+- [Hal Puthoff](Hal_Puthoff.mdx) — Theoretical framework (SED/ZPF) that could underpin Buhler's quantum vacuum recoil explanation
+- [Zero Point Energy](Zero_Point_Energy.mdx) — Connection to Buhler's quantum formulation (vacuum recoil, ZPF interaction)
+- Track 33 overview: [`Physics_Math/Track_33/overview.mdx`](../Physics_Math/Track_33/overview.mdx) — Detailed PhD-level mathematical analysis of Buhler's proposed mechanisms
+
+## Sources
+
+- [@deeptechweek on X](https://x.com/deeptechweek/status/2052977288627826987) — Primary video: Buhler's Deep Tech Week NYC 2026 presentation (20 min 52 sec, 1080p)
+- [@Andercot on X](https://x.com/Andercot/status/2052977671379034462) — Amplifying post: "NASA scientist discovers a 'new force' he has tested over 2000 times"
+- Bahder, T.B., & Fazi, C. (2003). *Force on an Asymmetric Capacitor*. U.S. Army Research Laboratory, ARL-TR-3005.
+- T. Townsend Brown, US Patent 2,949,550 (1960) — "Electrokinetic Apparatus"
+- NASA Kennedy Space Center — Electrostatics and Surface Physics Laboratory (Buhler's home institution)
+- Haisch, B., Rueda, A., & Puthoff, H.E. (1994). "Inertia as a zero-point-field Lorentz force." *Physical Review A*, 49(2), 678.
+- Exodus Propulsion Technologies — Buhler's commercial entity; patent applications pending
+
+**Status:** Alive (as of 2026-05-09)
+
+*This information was compiled from [@deeptechweek X post](https://x.com/deeptechweek/status/2052977288627826987) transcription and Claude AI research.*

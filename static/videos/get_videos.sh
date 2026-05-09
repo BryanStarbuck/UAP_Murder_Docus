@@ -108,6 +108,9 @@ ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
 # VIDEO: Nassim Haramein — physics of what comes next, quantum vacuum energy breakthroughs, ISF research
 ipfs pin add QmaHCY7tgLqi44QGjBSuMWozUihHid6ELkJSK27HGuA31J
 
+# VIDEO: Charles Buhler (NASA Kennedy / Exodus Propulsion) — Biefeld-Brown "new force": 2 mN thrust at 6 kV in hard vacuum, 2000+ trials, Deep Tech Week NYC 2026
+ipfs pin add QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS
+
 echo "========================================"
 echo "  Done. All videos fetched and pinned."
 echo "========================================"

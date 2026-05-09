@@ -175,3 +175,13 @@ videos:
   investigation: Physics
   added_date: '2026-04-30'
   pinned: true
+
+- filename: 2052977288627826987.mp4
+  ipfs_cid: QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS
+  source_url: https://x.com/deeptechweek/status/2052977288627826987
+  source_author: '@deeptechweek (Deep Tech Week) via @Andercot (Andrew Côté)'
+  description: 'Charles Buhler (NASA Kennedy Space Center Electrostatics Physics Lab, CEO Exodus Propulsion) — presents the "new force" behind the Biefeld-Brown Effect: 2 mN thrust at 6 kV in hard vacuum, no propellant mass, 2000+ trials. Deep Tech Week NYC 2026.'
+  investigation: Physics
+  added_date: '2026-05-09'
+  pinned: true
