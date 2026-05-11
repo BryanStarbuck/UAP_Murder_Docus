@@ -105,6 +105,9 @@ ipfs pin add QmfMP3L6kk3pGwQmctZBJS583nL65gdkzTw1o74diZEXBi
 # VIDEO: Amy Eskridge — antigravity discovered by four different people and suppressed each time; her father also discovered antigravity; Amy murdered 2022
 ipfs pin add QmdEY5U4HjXFNriDoEboezC8ZiXQoi1yN9wXoKoNMSc3Ta
 
+# VIDEO: Juliette Bryant — South African Epstein survivor claims Epstein shapeshifted into reptilian devil creature and UFOs seen over Zorro Ranch
+ipfs pin add QmSXUa7W8edjW8tZD5GrZjGDyi7T6p9wsFM2rBSo4LoQr3
+
 # VIDEO: The Nine channeling through Indian psychic Vinod at the Round Table Foundation (Andrija Puharich / Chinese Scientists page)
 ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
 
