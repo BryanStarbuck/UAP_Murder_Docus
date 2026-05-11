@@ -6,6 +6,16 @@
 # curl -fsSL https://uapmurders.com/videos/get_videos.sh | sh
 
 videos:
+- filename: 2035584366257316097.mp4
+  ipfs_cid: QmfMP3L6kk3pGwQmctZBJS583nL65gdkzTw1o74diZEXBi
+  ipfs_gateway_url: https://ipfs.io/ipfs/QmfMP3L6kk3pGwQmctZBJS583nL65gdkzTw1o74diZEXBi
+  source_url: https://x.com/RedPandaKoala/status/2035584366257316097
+  source_author: '@RedPandaKoala (Red Panda Koala)'
+  description: 'Reagan Secretary of Energy John Herrington — reportedly briefed on UFOs in underground West Virginia facility, cried nightly, stated "Aliens are real, they are here, and I''ve seen them" (secondhand via Brent Friedman / Bryce Zabel)'
+  investigation: UAPs
+  added_date: '2026-05-10'
+  pinned: true
+
 - filename: 2050347650193506503.mp4
   ipfs_cid: QmXcgFNbJuWGyKX35utMmksj1EkbfjCsP6nzWKYZ64MoPM
   ipfs_gateway_url: https://ipfs.io/ipfs/QmXcgFNbJuWGyKX35utMmksj1EkbfjCsP6nzWKYZ64MoPM

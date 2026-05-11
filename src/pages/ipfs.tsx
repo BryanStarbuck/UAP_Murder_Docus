@@ -101,6 +101,9 @@ ipfs pin add Qmd9bpZie1ZaWBwKJrV5tgEJqrXSLnXJozza1SuTfR5ZEb
 # Investigation: UAPs Murders (General)
 # ============================================================
 
+# VIDEO: John Herrington (Reagan Secretary of Energy) — reportedly briefed on UFOs in underground WV facility; "Aliens are real, they are here, and I've seen them"
+ipfs pin add QmfMP3L6kk3pGwQmctZBJS583nL65gdkzTw1o74diZEXBi
+
 # VIDEO: Amy Eskridge — antigravity discovered by four different people and suppressed each time; her father also discovered antigravity; Amy murdered 2022
 ipfs pin add QmdEY5U4HjXFNriDoEboezC8ZiXQoi1yN9wXoKoNMSc3Ta
 
