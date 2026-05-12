@@ -7,9 +7,13 @@ import rehypeKatex from "rehype-katex";
 const siteUrl = process.env.DOCUSAURUS_URL || "https://uapmurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL || "/";
 
+const siteDescription =
+  "Investigations into suspicious deaths, disappearances, and suppression of UAP/UFO researchers, whistleblowers, energy inventors, and physicists silenced for what they knew.";
+
 const config: Config = {
   title: "Murdering UAP Experts",
-  tagline: "",
+  tagline:
+    "UAP researchers, whistleblowers, energy inventors, and physicists silenced — three investigations into suspicious deaths.",
   favicon: "img/favicon.ico",
 
   future: {
@@ -53,9 +57,85 @@ const config: Config = {
         },
         sitemap: {
           lastmod: "date",
+          changefreq: "weekly",
+          priority: 0.7,
+          filename: "sitemap.xml",
+          ignorePatterns: ["/tags/**"],
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+  headTags: [
+    {
+      tagName: "link",
+      attributes: {
+        rel: "canonical",
+        href: siteUrl + "/",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "preconnect",
+        href: "https://cdn.jsdelivr.net",
+        crossorigin: "anonymous",
+      },
+    },
+    {
+      tagName: "meta",
+      attributes: {
+        name: "robots",
+        content: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+    },
+    {
+      tagName: "meta",
+      attributes: {
+        name: "author",
+        content: "Bryan Starbuck",
+      },
+    },
+    {
+      tagName: "script",
+      attributes: {
+        type: "application/ld+json",
+      },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: "Murdering UAP Experts",
+        alternateName: "UAP Murders",
+        url: siteUrl + "/",
+        description: siteDescription,
+        inLanguage: "en-US",
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: siteUrl + "/search?q={search_term_string}",
+          },
+          "query-input": "required name=search_term_string",
+        },
+      }),
+    },
+    {
+      tagName: "script",
+      attributes: {
+        type: "application/ld+json",
+      },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        name: "UAP Murders Investigation",
+        url: siteUrl + "/",
+        logo: siteUrl + "/img/logo.svg",
+        description: siteDescription,
+        sameAs: [
+          "https://intelligencemurders.com/",
+        ],
+      }),
+    },
   ],
 
   stylesheets: [
@@ -116,6 +196,28 @@ const config: Config = {
   themeConfig: {
     metadata: [
       { name: 'google-site-verification', content: 'RUz8ukRe1Bq-veydpGR2cFPUvB8con_WUc4RCqIq-5Q' },
+      { name: 'description', content: siteDescription },
+      {
+        name: 'keywords',
+        content:
+          'UAP murders, UFO whistleblowers killed, suppressed energy inventors, zero-point energy deaths, cold fusion researchers murdered, UAP physics, classified physics, GEC-Marconi scientists, suspicious deaths, AATIP, AAWSAP, David Grusch, Stanley Meyer, Phil Schneider, suppressed technology',
+      },
+      { name: 'application-name', content: 'Murdering UAP Experts' },
+      { name: 'apple-mobile-web-app-title', content: 'UAP Murders' },
+      { name: 'theme-color', content: '#0b0b0b' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:site_name', content: 'Murdering UAP Experts' },
+      { property: 'og:locale', content: 'en_US' },
+      { property: 'og:title', content: 'Murdering UAP Experts — UFO Whistleblowers, Energy Inventors & Physicists Silenced' },
+      { property: 'og:description', content: siteDescription },
+      { property: 'og:image', content: siteUrl + '/img/docusaurus-social-card.jpg' },
+      { property: 'og:image:alt', content: 'Murdering UAP Experts — three investigations into suspicious deaths' },
+      { property: 'og:url', content: siteUrl + '/' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:title', content: 'Murdering UAP Experts' },
+      { name: 'twitter:description', content: siteDescription },
+      { name: 'twitter:image', content: siteUrl + '/img/docusaurus-social-card.jpg' },
+      { name: 'twitter:image:alt', content: 'Murdering UAP Experts — three investigations into suspicious deaths' },
     ],
     image: "img/docusaurus-social-card.jpg",
     colorMode: {
@@ -124,7 +226,7 @@ const config: Config = {
     navbar: {
       title: "Murdering UAP Experts",
       logo: {
-        alt: "Site Logo",
+        alt: "Murdering UAP Experts site logo",
         src: "img/logo.svg",
       },
       items: [
