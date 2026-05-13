@@ -1,0 +1,241 @@
+# Track 34: Hattem-Configuration Magnetic Rotor / Claimed Overunity Alternator Demonstration
+
+**Track Classification:** Claimed Overunity Electromechanical System — Magnetic-Coupling Rotor Pair Driving a Battery-Inverter Load
+**Source Post:** [@AshtonForbes, 2026-05-13](https://x.com/AshtonForbes/status/2054597813745365254)
+**Video Duration:** 9:01 (538,981 ms)
+**Demonstrator:** Unnamed third-party builder (video shared by Ashton Forbes)
+**Topology Label (per poster):** "Hattem configuration"
+
+---
+
+## Source Post Text (Ashton Forbes, @AshtonForbes)
+
+> Free energy is free in the sense that it's unlimited.
+>
+> Unedited, you can see the meters on this magnetic motor show overunity.
+>
+> This is a Hattem configuration. Classic physics says this is impossible, yet you're seeing it with your eyes.
+>
+> You can't just spin magnets around and expect overunity. There are resonance conditions that need to be met so a device like this to be tuned.
+>
+> This is old technology. We have microchips now.
+
+---
+
+## Video: Claimed Overunity Magnetic-Rotor Demonstration
+
+<video controls style={{width: '100%', maxWidth: '720px', height: 'auto', display: 'block'}}>
+  <source src="http://127.0.0.1:8080/ipfs/QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq" type="video/mp4" />
+  <source src="https://ipfs.io/ipfs/QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq" type="video/mp4" />
+  <source src="https://dweb.link/ipfs/QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+*Demonstrator presents a two-rotor magnetically-coupled alternator system claimed to produce more electrical power than it consumes, charging a 12 V battery feeding a 120 V AC inverter loaded with 200 W incandescent lamps. Source: [@AshtonForbes on X](https://x.com/AshtonForbes/status/2054597813745365254), 2026-05-13.*
+
+---
+
+## Apparatus as Described in the Video
+
+The demonstrator describes the following topology:
+
+| Element | Description |
+|---------|-------------|
+| Drive motor | AC motor plugged into household mains (120 V AC) |
+| Drive rotor | Permanent-magnet rotor mounted on the drive motor shaft |
+| Driven rotor | Permanent-magnet rotor mounted on the alternator shaft |
+| Coupling | Non-contact: only magnetic field interaction between the two rotor arrays (no gear, belt, or chain) |
+| Alternator | Standard automotive-style alternator, output rectified internally |
+| Energy storage | 12 V lead-acid battery, initially near-discharged (< 10.5 V, below inverter low-voltage cutoff) |
+| Inverter | DC-to-AC modified-sine-wave inverter, 120 V AC output, low-voltage cutoff alarm at ~10.5 V |
+| Load | 200 W incandescent lamps |
+| Instrumentation | Three plug-in meters reading V, I, and W on (1) consumption side, (2) production side, and (3) battery voltage |
+
+The reported instantaneous readings near the climax of the demonstration:
+
+- Consumption: 117 V × 1.15 A → 134.55 W
+- Production: 118 V × 1.59 A → 187.62 W
+- Apparent power ratio: P_out / P_in ≈ 1.39 (claimed COP > 1)
+
+The poster labels the topology a "Hattem configuration" and asserts the device must be "tuned" to satisfy unspecified "resonance conditions" to exhibit the claimed overunity behavior.
+
+---
+
+## Critical Evaluation at PhD Level
+
+The demonstration claims violation of the first law of thermodynamics in a closed electromechanical loop driven by household mains. Before treating this as a physics result, the following null-hypothesis instrumentation issues must be excluded — none of which is addressed by the demonstrator on camera.
+
+### 1. Power Factor and Reactive-Power Aliasing in Inexpensive Plug-In Meters
+
+Consumer-grade plug-through wattmeters compute power as either:
+
+$$P_{\text{meter}} = V_{\text{rms}} \cdot I_{\text{rms}}$$
+
+(apparent power, ignoring power factor) or:
+
+$$P_{\text{meter}} = \frac{1}{T}\int_0^T v(t)\, i(t)\, dt$$
+
+(true active power, requiring time-aligned ADC sampling of $v(t)$ and $i(t)$).
+
+For an **inductive load** (such as an alternator field winding or an unloaded alternator) driven by a **modified-sine-wave inverter** (the demonstrator explicitly says he is using a modified-sine inverter "because it was cheaper"), the current waveform $i(t)$ contains substantial harmonic content and the relative phase $\varphi$ between $v(t)$ and $i(t)$ is not zero. The true power is:
+
+$$P_{\text{true}} = V_{\text{rms}}\, I_{\text{rms}}\, \cos\varphi$$
+
+while the displayed value is typically $V_{\text{rms}}\, I_{\text{rms}}$ (apparent power $S$). The discrepancy:
+
+$$S - P_{\text{true}} = V_{\text{rms}}\, I_{\text{rms}}\, (1 - \cos\varphi)$$
+
+scales with the reactive-power component $Q = V_{\text{rms}}\, I_{\text{rms}}\, \sin\varphi$. A power factor of 0.7 — entirely typical for an unloaded or lightly-loaded alternator winding — yields an apparent-power overstatement of ~40%, which is exactly the magnitude of the claimed overunity gain (1.39).
+
+The demonstrator himself acknowledges meter instability:
+
+> "I think it's creating a little bit of a glitch in these meters. So you might see the overall wattage jump around a bit but I think for the purposes of this video it's going to be good enough to demonstrate what we're trying to demonstrate."
+
+This is the demonstrator volunteering precisely the failure mode that would produce an apparent-overunity reading from a fully conventional sub-unity system: harmonic distortion plus reactive load aliasing into the meter's apparent-power computation.
+
+### 2. The Mains Side Is the Only True Source
+
+The drive motor is plugged into household 120 V AC mains. There is no current clamp or true-power meter on the wall outlet shown on camera. Without a calibrated mains-side measurement, the experiment has no defensible measurement of $P_{\text{in}}$ to the system. The "consumption" meter shown on camera measures the *inverter input* — i.e., the discharge of the battery on the *output* side of the alternator — not the energy delivered from the wall to the drive motor. Conservation requires:
+
+$$P_{\text{wall}} = P_{\text{mech,drive}} + P_{\text{loss,motor}}$$
+
+$$P_{\text{mech,drive}} = P_{\text{elec,alt}} + P_{\text{loss,coupling}} + P_{\text{loss,alt}}$$
+
+The meters shown measure neither side of this energy chain at the boundary that matters. They measure two points on the *output* side (battery discharge and AC-load consumption) plus a battery voltage reading — none of which can establish whether the wall socket is supplying more or less energy than the AC load sees.
+
+### 3. Battery State of Charge Is Not a Sufficient Witness
+
+The demonstrator argues that because the battery voltage rises during the demonstration, the system must be net-positive. This is invalid for two reasons:
+
+1. Open-circuit battery voltage $V_{\text{oc}}(\text{SoC})$ is a sluggish, nonmonotonic function of charge state and load history. A heavily discharged battery exhibits a sharp recovery in $V_{\text{oc}}$ once the load is reduced, due to relaxation of polarization overpotentials at the electrodes. This recovery requires no net energy gain — only redistribution of internal charge over a relaxation time of seconds to minutes.
+
+2. The battery is being charged by the alternator. The alternator is being driven by mains-powered mechanical input. No measurement excludes the trivial hypothesis that the battery is simply being charged by mains-derived energy with sub-unity round-trip efficiency.
+
+### 4. The "Hattem Configuration" Label
+
+The descriptor "Hattem configuration" does not appear in the peer-reviewed electrical-machinery literature as of 2026. Searches for the term return only social-media references in the free-energy community. No defining schematic, winding pattern, magnetic-circuit geometry, or analytical model has been published under that name. The label is therefore non-falsifiable as stated.
+
+### 5. The Resonance Argument
+
+The poster invokes "resonance conditions that need to be met." A genuine LC, mechanical, or magnetic-mechanical resonance does not produce overunity — it produces a high-Q transfer function. The steady-state power balance is unchanged. Resonance can amplify *voltage* or *current* in a tuned arm of a network, but not *time-averaged real power* flowing into an isolated system. Any system in steady-state operation must satisfy:
+
+$$\langle P_{\text{in}}\rangle = \langle P_{\text{out}}\rangle + \langle P_{\text{dissipated}}\rangle$$
+
+independent of any resonance.
+
+### 6. Magnetic-Coupling Load Sharing Misconception
+
+The demonstrator states:
+
+> "part of the load that will otherwise be on the motor itself is relieved and so I am able to produce more power than I'm consuming because of these magnetic rotors which are doing some of the work."
+
+This is a statement about Newton's third law applied to magnetic torque transfer. The driven rotor's reaction torque on the drive rotor is *exactly* equal and opposite to the torque the drive rotor exerts on the driven rotor (modulo magnetic-field-energy storage transients). The mechanical work done by the drive motor against this reaction torque equals (less losses) the mechanical work delivered to the alternator shaft. Permanent-magnet coupling is a torque-coupler, not a torque-amplifier. No additional energy is supplied by the field; the field merely stores and re-releases energy elastically between the two rotors over each cycle.
+
+---
+
+## Position of This Track Relative to Known Physics
+
+This demonstration is **not** evidence of new physics. It is a textbook reactive-power / meter-aliasing artifact compounded by an inadequately instrumented input side. The track is retained here because:
+
+1. The "Hattem configuration" label has begun appearing in social-media discussion as a putative free-energy archetype, and a formal write-up of why such demonstrations fail to constitute a physics result is useful in the broader Physics_Math investigation.
+
+2. The case provides a worked example of the **standard checklist** that any vacuum-thrust, overunity, or unconventional-energy device must pass before its measurements can be admitted as physics evidence — a checklist relevant to legitimate research lines such as **Track 33 (Buhler / Biefeld-Brown vacuum thrust)** where the instrumentation, isolation, and replication standards have actually been met.
+
+### Minimum Required Instrumentation for an Overunity Claim to Be Taken Seriously
+
+For a closed-loop electromechanical overunity claim to be physics-credible, the following measurements are mandatory:
+
+| Measurement | Instrument | Why |
+|-------------|------------|-----|
+| Mains-side true active power | Calibrated true-RMS wattmeter with phase-locked V/I sampling, e.g., Yokogawa WT1800, at the wall outlet | Establishes $P_{\text{in}}$ unambiguously |
+| AC load true active power | Same class of instrument on the load circuit | Establishes $P_{\text{out}}$ unambiguously |
+| Battery energy delta | Coulomb-counting on battery terminals over the test interval, with calibrated shunt | Establishes $\Delta E_{\text{stored}}$ unambiguously |
+| Mechanical input torque and speed | Inline torque transducer + tachometer between drive motor and drive rotor | Establishes $P_{\text{mech,drive}}$ to cross-check the wall meter |
+| Mechanical output torque and speed | Same on the alternator shaft | Establishes $P_{\text{mech,alt}}$ |
+| Thermal loss enthalpy | Calorimetric enclosure or thermal imaging integrated over test interval | Closes the heat-loss term |
+| Total run duration | Minimum 1 hour at quasi-steady-state | Excludes battery-polarization-recovery artifacts |
+
+Until all of the above are reported, the claim is indistinguishable from a power-factor measurement error. The video under analysis provides none of them.
+
+---
+
+## Transcription
+
+Full transcript saved at `transcription.txt` in this directory. Inline summary below; complete text follows.
+
+### Segmented Transcript (whisper-base, en)
+
+```
+[00:00 – 00:50] Introduction; describes meters: left = power consumed, middle = power produced, right = battery voltage.
+
+[00:50 – 02:00] Apparatus walkthrough: drive motor on mains, drive rotor on motor shaft, driven rotor on alternator shaft. Rotors are not touching; coupling is purely magnetic. Demonstrator's justification: "with gears and belts I would get just merely a transfer of motion. But with magnetic rotors I'm actually able to achieve energy production and part of the load that will otherwise be on the motor itself is relieved" — i.e., the magnetic field is asserted to do net work, rather than (correctly) to losslessly transfer torque.
+
+[02:00 – 02:30] Aspiration: "Ideally I would have a number of rotors lined up here with an alternator on each all in line and all working in unison so that I produce much more power."
+
+[02:30 – 03:30] Inverter chain: alternator → 12 V battery → modified-sine-wave 120 V AC inverter → 200 W incandescent bulbs. Inverter low-voltage cutoff at 10.5 V. "I think it's creating a little bit of a glitch in these meters. So you might see the overall wattage jump around a bit." Demonstrator volunteers the meter-instability acknowledgement that maps directly onto the power-factor / harmonic-aliasing failure mode.
+
+[03:30 – 04:30] Cold start: battery initially below 10.5 V; inverter alarm sounds. System turned on, alternator spins up, battery voltage rises above cutoff, inverter engages.
+
+[04:30 – 05:00] Climax readings: consumption 117 V × 1.15 A; production 118 V × 1.59 A. Claim: overunity by ratio ≈ 1.39. Argument: "we're not just simply bleeding power off [from] that battery which I couldn't anyway because it was basically dead when I started" — a non-sequitur: the wall socket is the energy source, not the battery.
+
+[05:00 – 08:15] Extended steady-state run with the system left in operation, intended to demonstrate gradual battery voltage rise. Whisper-base transcription degrades into repeated "So I'm just going to let it run" frames during this segment (the input audio is genuinely static).
+
+[08:15 – 09:01] Shutdown: inverter disconnected from alternator output, battery voltage drops back below 10.5 V, low-voltage alarm sounds. Conclusion: "thank you for watching."
+```
+
+### Verbatim Transcription (whisper-base)
+
+> All right, so we're going to do another demonstration for you of my free energy device and I've got kind of a close up of it today and that is so that you can pay particular attention to the meters here.
+>
+> I have them up front with a tight shot on them so that you can read them throughout the duration of the demonstration and see that I am in fact achieving over unity.
+>
+> The meter here on the left shows will show the amount of power being consumed by the system. The meter in the middle will show the amount of power being produced and this meter on the right here shows the amount of power in the amount of voltage in the battery.
+>
+> So just to walk you through the system here quickly, this rotor on the right is not on my drive motor which is plugged into the household current. The rotor here on the left is magnetic rotor mounted to my alternator. They're not touching each other, they're just magnetic influence here is what causes them to work in unison.
+>
+> The reason I'm using magnetic rotors instead of gears or belts is that with gears and belts I would get just merely a transfer of motion. But with magnetic rotors I'm actually able to achieve energy production and part of the load that will otherwise be on the motor itself is relieved and so I am able to produce more power than I'm consuming because of these magnetic rotors which are doing some of the work.
+>
+> So ideally I would have a number of rotors lined up here with an alternator on each all in line and all working in unison so that I produce much more power than I'm going to do in this demonstration. I just wanted to build a small system here just to demonstrate principle and show you how it worked.
+>
+> I'm going to be doing a lot more videos from a lot more different angles and showing you doing a tutorial video so that you can see exactly how to build your own system. But that's in future videos to come.
+>
+> The alternator is connected to my battery here, 12 volt battery which is wired up to my inverter. The inverter of course converts the power from DC to AC 120 volt AC. It's producing modified sine wave instead of pure sine wave just because the inverter was cheaper and easier to get the only problem with producing modified sine wave. I think it's creating a little bit of a glitch in these meters. So you might see the overall wattage jump around a bit but I think for the purposes of this video it's going to be good enough to demonstrate what we're trying to demonstrate.
+>
+> So in the lower left hand corner is the voltage and in the lower right hand corner is the overall amperage. And I've verified these with my meters and those digits are correct. So in the top line is the overall wattage. So the meter here on the left is the amount of power being consumed. The amount of power being produced is in the middle meter and the amount of power on the right is demonstrated here.
+>
+> So if I turn the inverter on which I have 200 watt light bulbs plugged into, you can see that the alarm goes off of my inverter. And that is because I don't have enough voltage in my battery, I basically have a dead battery here so there's not enough power in it to operate the inverter. I need more than 10 and a half volts.
+>
+> So we shut that off and turn this system on. Just to build up a little bit of excess power on the battery enough to operate the inverter.
+>
+> So you can see once the alternator gets up to speed the voltage will start to increase in the battery and once it runs here for a few seconds I'll have enough power on the battery to operate the inverter. So you can see here the power and the battery will start to climb quickly. It tells me there's residual power enough to operate the inverter.
+>
+> I turn the inverter on. Got my 200 watt light bulbs plugged into it. So you can see the amount of power being consumed by the system is 117 volts at 1.15 amps. And not about power being produced is 118 volts at 1.59 amps. So we have overunity and then we're going to run here for a bit so that you can see that the power in the battery is going to just... Ever so slowly just increasing voltage demonstrate that I'm not just simply bleeding power off with that battery which I couldn't anyway because it was basically dead when I started.
+>
+> So I'm going to let it run here for a few minutes and you can watch in this meter the voltage of the battery as it gradually increases.
+>
+> [Approximately five minutes of extended runtime follow. Whisper-base transcribes the static audio as repeated frames of "So I'm just going to let it run." Audio is genuinely silent/static during this segment.]
+>
+> All right, so I think we've let it run here long enough. You can see that the amount of power is being produced is greater than the amount of power being consumed. And I'm slowly building a power in the battery. So I'm just going to shut it off here. You can see how the power in the battery is quickly consumed since there wasn't really much residual in it. And to the point where the alarm will go off here on my inverter, as soon as we get under 10 and a half volts, and there it goes. So I'll set that off, and so thank you for watching.
+
+---
+
+## Open Questions for This Track
+
+1. **Identity of the demonstrator and the "Hattem" terminology origin** — Who is the unnamed builder in the video? Is "Hattem configuration" derived from a person's name, a place name (Hattem is a city in the Netherlands), or a coined acronym? Tracing the origin of the term clarifies whether there is any underlying schematic specification.
+
+2. **Existence of any published schematic or winding diagram** — Without a defining schematic, the "Hattem configuration" is not a falsifiable claim. Locating any primary-source schematic is a prerequisite for any further evaluation.
+
+3. **Comparable proper-instrumented attempts** — Have any builders attempted the same topology with a true-RMS wattmeter on the mains side, calorimetry on the alternator, and a torque transducer between the rotors? If yes, what was the closed-loop energy balance?
+
+4. **Relation to the broader permanent-magnet-motor literature** — Howard Johnson (US Patent 4,151,431), John Bedini, and others have made similar topology claims for decades. Is there a published independent replication of any of these with closed energy accounting?
+
+---
+
+## Sources
+
+- [@AshtonForbes on X](https://x.com/AshtonForbes/status/2054597813745365254) — Source post, 2026-05-13
+- IPFS CID for archived video: `QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq`
+- Transcription tool: `~/BGit/act3/tools/Transcription/Transcribe.js` (whisper-base, en)
+- Local transcript: `Physics/Physics_Math/Track_34/transcription.txt`
+
+*This information was compiled from the [@AshtonForbes X post](https://x.com/AshtonForbes/status/2054597813745365254) and Claude AI research. Track 34 catalogues a claimed overunity demonstration and the standard instrumentation-failure pathways that explain it without invoking new physics.*
