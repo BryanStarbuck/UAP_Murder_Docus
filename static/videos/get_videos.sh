@@ -120,3 +120,47 @@ ipfs pin add QmeYHst1K8GiPkztNY7jpMXQvmdG5mSbNmuS191qm5x3iS
 echo "========================================"
 echo "  Done. All videos fetched and pinned."
 echo "========================================"
+
+# Reconciled additions (2026-05-13)
+
+# 2042686155469005307.mp3
+ipfs pin add QmYKKa8StzHhGKioBEU5VnCWZkyq7hGViRccmTVdqZqhPK
+
+# 2043979750209925538.mp3
+ipfs pin add QmaWjdQaZeMTJemVD34HhUrLJAL67h1feeEWtuRGZ4GJ2S
+
+# 2045203516499607822.mp3
+ipfs pin add QmUpGdHtUP5av1Tf5oLsazym9TsqPBiBr56PCdpevh7jQC
+
+# 2045757285939744844.mp3
+ipfs pin add QmV5m9CKe5eikrmSLcbV8DHcDWMTDRv178HCZbrE4G8adV
+
+# 2045960606478438848.mp3
+ipfs pin add QmXtVRsPy6q2qSRdKs5Fj2nM6SvBFBbYu5Q3xqmfSKZqMr
+
+# 2049457591097389338.mp3
+ipfs pin add QmZ52MS3bS9Rrg5VtZDSuw52nSEQHVqZrWBfte2AVJeir3
+
+# 2049485639142543816.mp3
+ipfs pin add QmSyyVAEMCxnoAc3pfZBYBB6dWiYTCjczRrqpzKM6RHSCA
+
+# 2049918159700836593.mp3
+ipfs pin add QmXRfo4DhxHsT5E4MW3cDuysUGfuvyRxu7DiWQiRUUM1Z4
+
+# 2049955307313602951.mp3
+ipfs pin add QmSsouKCCSJb5vJ2wW6inva5QwvQ7EqGJErPtpoJSC2ef3
+
+# 2050347650193506503.mp3
+ipfs pin add QmYy4RKmg2DAmid2Jvam7L1CNxZNGioRCPYe3gCeEM1rGn
+
+# 2050657458457371070.mp3
+ipfs pin add QmUJPBBUveoiahtGiC9GFKjhmZuHexGUpft8RKJLJLrdUu
+
+# 2050657458457371070.mp4
+ipfs pin add QmQPCKkiwjWi6xNubAk2KKCMjpHPCUGCyDuCcNRzWoy65D
+
+# 2054597813745365254.mp3
+ipfs pin add QmU8ZCPckK82Qs7pGAAza6DM45VbiGa2CutxaX9pTqVv41
+
+# 2054597813745365254.mp4
+ipfs pin add QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq
