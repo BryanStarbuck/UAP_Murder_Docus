@@ -232,7 +232,8 @@ const config: Config = {
       items: [
         { to: "/uaps/", label: "UAPs Murders (General)", position: "left", activeBaseRegex: "/uaps/" },
         { to: "/energy/", label: "UAP Energy Systems Murders", position: "left", activeBaseRegex: "/energy/" },
-        { to: "/physics/", label: "UAP Physics Murders", position: "left", activeBaseRegex: "/physics/" },
+        { to: "/physics/", label: "UAP Physics Murders", position: "left", activeBaseRegex: "^/physics/(?!Physics_Math/ui)" },
+        { to: "/physics/Physics_Math/ui/overview/", label: "UAP Propulsion Wiki", position: "left", activeBaseRegex: "/physics/Physics_Math/ui/" },
       ],
     },
     footer: {

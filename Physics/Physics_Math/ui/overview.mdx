@@ -13,6 +13,49 @@ We approach this as an engineering problem, not a philosophical one. Each approa
 
 ---
 
+## Propulsion Systems Under Investigation
+
+Each row is one propulsion architecture. Click a button on the left for the full investigation record. The right column is a one-line description of what makes that approach distinct.
+
+<div style={{display: 'grid', gridTemplateColumns: 'minmax(220px, 280px) 1fr', gap: '0.75rem 1.25rem', alignItems: 'center', margin: '1.5rem 0'}}>
+
+<a href="/physics/Physics_Math/ui/magnetic_propulsion" className="button button--primary button--lg" style={{width: '100%', textAlign: 'center'}}>Rotating Magnetic Field</a>
+<div>Three-phase rotating EM field above a ferromagnetic toroid — the BUGA/Drew/Podkletnov family.</div>
+
+<a href="/physics/Physics_Math/ui/barbury_castle_helical_sphere" className="button button--primary button--lg" style={{width: '100%', textAlign: 'center'}}>Barbury Castle Helical Sphere</a>
+<div>Spheroidal core wrapped by counter-rotating helical paths whose ratios encode π.</div>
+
+<a href="/physics/Details/Rotating_Magnets" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Magnet-in-Flywheel</a>
+<div>Central spinning magnet counter-rotated by a four-magnet flywheel; 3-phase or 6-phase AC drive.</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Buhler Electrostatic</a>
+<div>Asymmetric high-voltage conductor; thrust scales as V² in vacuum (NASA Kennedy).</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Inertial Mass Reduction</a>
+<div>Pais patent US10144532B2 — vibrating outer-shell EM field reduces inertial mass.</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Zero-Point Field Extraction</a>
+<div>USAF/Mead patent US5590031 — Casimir-cavity vacuum energy transduction architecture.</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Biefeld-Brown Effect</a>
+<div>Asymmetric electrostatic thrust validated in vacuum without reaction mass (Track 33).</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Woodward Mach Effect</a>
+<div>Transient mass fluctuation via capacitor pulsing under acceleration; net linear impulse.</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Electrodynamic Suspension</a>
+<div>Time-varying magnetic field induces eddy currents in a conductor; reactive repulsion.</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>RF Momentum Drive</a>
+<div>Directional microwave emission; thrust scales with f² (millinewton range at 3.4 GHz).</div>
+
+<a href="/physics/" className="button button--secondary button--lg" style={{width: '100%', textAlign: 'center'}}>Cernohajev 32-Solenoid</a>
+<div>Spherical array of 32 high-field solenoids (B = 16.65 T, I = 1,650 A).</div>
+
+</div>
+
+---
+
 ## How the Investigation Works
 
 We organize the work into **approaches** — distinct physics hypotheses about how UAP propulsion might work. Within each approach, we run multiple **alternatives** (design variations we simulate and test). Progress is tracked day by day. All findings are documented, and the models are updated as new evidence comes in.
@@ -20,34 +63,6 @@ We organize the work into **approaches** — distinct physics hypotheses about h
 We do not claim any approach is proven. We claim that each approach is worth investigating — and that the results, whether positive or negative, are informative.
 
 The investigation is ongoing. Day 4 of work has been completed. Day 5 is in progress.
-
----
-
-## Propulsion Approaches Under Investigation
-
-### Rotating Magnetic Field Propulsion
-
-The leading approach under active simulation. Uses rotating and pulsed electromagnetic fields to generate force on ferromagnetic elements. Directly related to the BUGA orb-sphere device, Dr. Horace Drew's rotating magnet research, Ning Li's gravitomagnetic amplification work, and the Podkletnov rotating superconductor effect.
-
-Three design alternatives have been investigated:
-* A rotating permanent magnet array above a ferromagnetic plate (Kelvin gradient force)
-* An asymmetric high-voltage conductor above a ground plane (Buhler electrostatic thrust)
-* A three-phase rotating electromagnetic field above a toroidal iron element (BUGA architecture)
-
-<div style={{marginTop: '1rem', marginBottom: '1.5rem'}}>
-<a href="/physics/Physics_Math/ui/magnetic_propulsion" className="button button--primary button--lg">Rotating Magnetic Field Propulsion →</a>
-</div>
-
----
-
-### Approaches on the Horizon
-
-Additional propulsion physics approaches will be added as the investigation expands:
-
-* **Woodward Mach Effect transient mass fluctuation drive** — Capacitor charged and discharged at high frequency while under acceleration; transient mass fluctuation produces net linear impulse. Scheduled for Day 6+.
-* **Electrodynamic suspension (EDS) eddy current repulsion** — Time-varying magnetic field induces eddy currents in a conducting surface; the eddy currents produce repulsion. Pending ElmerFEM installation.
-* **High-frequency microwave / RF electromagnetic momentum drive** — EM momentum force scales as f². At 3.4 GHz the force reaches the millinewton range. Path to miniaturized microwave propulsion.
-* **Cernohajev 32-solenoid spherical array** — Documented device parameters (B = 16.65 T, I = 1,650 A, 32 solenoids). Simulation target for Day 6+.
 
 ---
 
