@@ -41,7 +41,7 @@ After running, keep the daemon active with:
 brew services start kubo
 ```
 
-Videos are accessible locally at `http://127.0.0.1:8080/ipfs/<CID>`
+Videos are accessible locally at `https://ipfs.io/ipfs/<CID>`
 while your daemon is running.
 
 ## Video Categories
