@@ -170,7 +170,8 @@ var REDIRECTS_301 = {
 // Permanently-removed pages: 410 Gone tells Google to drop them fast.
 var GONE_410 = {
     '/uaps/Details/William_Cooper/': true,
-    '/physics/Details/William_Cooper/': true
+    '/physics/Details/William_Cooper/': true,
+    '/physics/Physics_Math/Break_thrus/': true
 };
 
 function handler(event) {

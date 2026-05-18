@@ -188,6 +188,7 @@ const config: Config = {
           'Physics_Math/track_4/**',
           'Physics_Math/videos/**',
           'Physics_Math/manual_UAP_Physics.mdx',
+          'Physics_Math/Break_thrus.md',
         ],
       },
     ],
