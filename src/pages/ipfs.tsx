@@ -113,6 +113,9 @@ ipfs pin add QmSXUa7W8edjW8tZD5GrZjGDyi7T6p9wsFM2rBSo4LoQr3
 # VIDEO: The Nine channeling through Indian psychic Vinod at the Round Table Foundation (Andrija Puharich / Chinese Scientists page)
 ipfs pin add QmdUkbaUXKAPBzW5KiVP3SczG5kravfQAdPJBGLVYLHxY9
 
+# VIDEO: Fred Bell — "reverse engineering" as cover for >100 years of classified development (quoted Mario Nawfal clip)
+ipfs pin add QmbuEyJk6LRZDfjM1Eov6Zp8Lxy9gsDtyKWzZAqFPeYPXW
+
 # ============================================================
 # Investigation: UAP Physics Murders
 # ============================================================

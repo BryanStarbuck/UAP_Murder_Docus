@@ -164,3 +164,6 @@ ipfs pin add QmU8ZCPckK82Qs7pGAAza6DM45VbiGa2CutxaX9pTqVv41
 
 # 2054597813745365254.mp4
 ipfs pin add QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq
+
+# VIDEO: Fred Bell — "reverse engineering" as cover for >100 years of classified development (quoted Mario Nawfal clip)
+ipfs pin add QmbuEyJk6LRZDfjM1Eov6Zp8Lxy9gsDtyKWzZAqFPeYPXW
