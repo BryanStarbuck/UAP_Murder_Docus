@@ -4,6 +4,43 @@ import type * as Preset from "@docusaurus/preset-classic";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
+// Names that CloudFront redirects from /energy/Details/{name}/ → /uaps/Details/{name}/
+const ENERGY_REDIRECTED = new Set([
+  'Aaron_Salter_Jr','Adam_Rasheed','Al_Wordsworth','Alistair_Beckham','Amy_Eskridge',
+  'Andrew_Hall','Andrew_Kazolnikov','Andrija_Puharich','Anthony_Godley','Arie_DeGeus',
+  'Bill_Williams','Bill_Yelon','Boyd_Bushman','Bruce_DePalma','Carl_Grillmair',
+  'Charles_Nelson_Pogue','Chris_Tinsley','Dallis_Hardwick','David_Greenhalgh','David_Sands',
+  'David_Skeels','Dean_Warwick','Dimitri_Petronov','Eric_Wang','Eugene_Mallove',
+  'Floyd_Sweet','Frank_Edwards','Frank_Jennings','Frank_Richardson','Frank_Roberts',
+  'Fred_Bell','Frederick_Hochstetter','Gary_McKinnon','George_Kountis','Gerald_Schaflander',
+  'Gianni_A_Dotto','Jacob_Prichard','Jaime_Gustitus','Jaymee_Prichard','John_Andrews',
+  'John_Bedini','John_Brittan','John_Christie','John_Kanzius','John_Rossi','John_Searl',
+  'Jonathan_Walsh','Joseph_Westley_Newman','Keith_Bowden','Ken_Rasmussen','Lester_Hendershot',
+  'Lou_Britz','Mark_McCandlish','Mark_Tomion','Mark_Wisner','Melissa_Casias','Michael_Baker',
+  'Monica_Jacinto_Reza','Morris_Jessup','Nikola_Tesla','Ning_Li','Nuno_Loureiro',
+  'Paul_Bennewitz','Paul_Brown','Paul_Pantone','Paul_Vigay','Paulo_Correa','Peter_Ferry',
+  'Peter_Peapell','Phil_Schneider','Philo_Farnsworth','Richard_Pugh','Robert_Bass',
+  'Roger_Hill','Rory_Johnson','Rudolf_Diesel','Russell_Smith','Shani_Warren','Stan_Gleeson',
+  'Stanley_Meyer','Stefan_Marinov','Stuart_Gooding','Thomas_Bearden','Thomas_Henry_Moray',
+  'Thomas_Townsend_Brown','Tom_Ogle','Trevor_Constable','Trevor_Knight','Troy_Reed',
+  'Victor_Moore','Viktor_Schauberger','Vimal_Dajibhai','Wilbert_Smith','Wilhelm_Reich',
+]);
+
+// Names that CloudFront redirects from /physics/Details/{name}/ → /uaps/Details/{name}/
+const PHYSICS_REDIRECTED = new Set([
+  'Amy_Eskridge','Anthony_Chavez','Arie_DeGeus','Bob_Lazar','Boyd_Bushman','Bruce_DePalma',
+  'Carl_Grillmair','Danny_Casolaro','David_Grusch','Dean_Warwick','Don_Elkins',
+  'Dorothy_Kilgallen','Edward_Ruppelt','Eugene_Mallove','Floyd_Sweet','Frank_Edwards',
+  'Frank_Maiwald','Fred_Bell','Gary_McKinnon','Harald_Malmgren','J_Allen_Hynek',
+  'James_Forrestal','James_McDonald','Jason_Thomas','Jim_Keith','John_Bedini','John_Mack',
+  'John_Murphy','Karl_Wolfe','Karla_Turner','Mark_McCandlish','Max_Spiers','Melissa_Casias',
+  'Michael_David_Hicks','Monica_Jacinto_Reza','Morris_Jessup','Nikola_Tesla','Ning_Li',
+  'Nuno_Loureiro','Paul_Bennewitz','Paul_Brown','Phil_Schneider','Philip_Corso',
+  'Ron_Johnson','Ron_Rummel','Rory_Johnson','Ryan_Graves','Stanley_Meyer','Stanton_Friedman',
+  'Stefan_Marinov','Thomas_Mantell','Thomas_Townsend_Brown','Todd_Sees','Viktor_Schauberger',
+  'Wilbert_Smith','William_McCasland',
+]);
+
 const siteUrl = process.env.DOCUSAURUS_URL || "https://uapmurders.com";
 const baseUrl = process.env.DOCUSAURUS_BASE_URL || "/";
 
@@ -49,7 +86,7 @@ const config: Config = {
           sidebarPath: "./sidebarsGeneral.ts",
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          exclude: ["**/CLAUDE.md", "**/claude.md"],
+          exclude: ["**/CLAUDE.md", "**/claude.md", "CLAUDE.md", "claude.md"],
         },
         blog: false,
         theme: {
@@ -60,20 +97,29 @@ const config: Config = {
           changefreq: "weekly",
           priority: 0.7,
           filename: "sitemap.xml",
-          ignorePatterns: ["/tags/**"],
+          ignorePatterns: ["/tags/**", "/*/claude/"],
+          createSitemapItems: async (params) => {
+            const { defaultCreateSitemapItems, ...rest } = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => {
+              try {
+                const path = new URL(item.url).pathname;
+                const energyMatch = path.match(/^\/energy\/Details\/([^/]+)\/$/);
+                if (energyMatch && ENERGY_REDIRECTED.has(energyMatch[1])) return false;
+                const physicsMatch = path.match(/^\/physics\/Details\/([^/]+)\/$/);
+                if (physicsMatch && PHYSICS_REDIRECTED.has(physicsMatch[1])) return false;
+              } catch {
+                // keep item if URL is unparseable
+              }
+              return true;
+            });
+          },
         },
       } satisfies Preset.Options,
     ],
   ],
 
   headTags: [
-    {
-      tagName: "link",
-      attributes: {
-        rel: "canonical",
-        href: siteUrl + "/",
-      },
-    },
     {
       tagName: "link",
       attributes: {
@@ -157,7 +203,7 @@ const config: Config = {
         sidebarPath: "./sidebarsEnergySystems.ts",
         remarkPlugins: [remarkMath],
         rehypePlugins: [rehypeKatex],
-        exclude: ["**/CLAUDE.md", "**/claude.md"],
+        exclude: ["**/CLAUDE.md", "**/claude.md", "CLAUDE.md", "claude.md"],
       },
     ],
     [
