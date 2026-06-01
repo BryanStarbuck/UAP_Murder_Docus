@@ -297,7 +297,7 @@ const people: Person[] = [
   {
     name: "Melissa Casias",
     path: "/uaps/Details/Melissa_Casias",
-    blurb: "Age 53. LANL employee on DOE advisory board. Factory-reset both personal and government phones before vanishing\u2014four days after Monica Reza disappeared. Talpa, New Mexico.",
+    blurb: "Age 53. LANL employee on DOE advisory board. Factory-reset both phones, vanished into Carson National Forest. Remains and handgun found May 2026; cause undetermined.",
   },
   {
     name: "Paul Bennewitz",
