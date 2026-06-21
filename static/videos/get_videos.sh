@@ -167,3 +167,6 @@ ipfs pin add QmQcfpv8UkPKSFfTWhbst15phKe7hWPWpoNLYRPvnENxAq
 
 # VIDEO: Fred Bell — "reverse engineering" as cover for >100 years of classified development (quoted Mario Nawfal clip)
 ipfs pin add QmbuEyJk6LRZDfjM1Eov6Zp8Lxy9gsDtyKWzZAqFPeYPXW
+
+# VIDEO: Oliver Tree — screening of unreleased Antarctica "alien bases" documentary (died in helicopter crash 2 weeks later)
+ipfs pin add QmaxYs1m1Jo7yzkw4x7Vx3carmqnTcMtRELbF1NiWdLgQW
