@@ -15,6 +15,11 @@ const people: Person[] = [
     blurb: "Age 48. Catheter wrapped three times around neck\u2014no fingerprints found. Warned audiences: \u2018If I ever commit suicide, I was murdered.\u2019 Wilsonville, Oregon.",
   },
   {
+    name: "Matthew Sullivan",
+    path: "/uaps/Details/Matthew_Sullivan",
+    blurb: "Age 39. Former Air Force intelligence officer, reportedly firsthand experience with recovered craft. Found dead two weeks before private Congressional UFO testimony. Falls Church, Virginia.",
+  },
+  {
     name: "Vimal Dajibhai",
     path: "/uaps/Details/Vimal_Dajibhai",
     blurb: "Age 24. Fell 331 feet from bridge. Unexplained needle puncture mark. Pants around ankles. Marconi torpedo guidance engineer. Bristol, England.",
