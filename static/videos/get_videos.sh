@@ -173,3 +173,6 @@ ipfs pin add QmaxYs1m1Jo7yzkw4x7Vx3carmqnTcMtRELbF1NiWdLgQW
 
 # VIDEO: Rep. Eric Burlison (American Alchemy) — Matthew Sullivan "legacy program," firsthand craft experience; OIG warranted & credible; FBI letter resubmitted
 ipfs pin add QmZ9LMcr24dbCBGNs7qx1iXm3LwcTG8g92w3EcERnpywfn
+
+# VIDEO: Joe Felz — commentary clip after death of energy-independence creator (Aug 2026), "removing truth tellers"
+ipfs pin add Qmcojg24KbbX2uf5vbY4A7q3enf5LDtztGrjVLHBQDqXS8

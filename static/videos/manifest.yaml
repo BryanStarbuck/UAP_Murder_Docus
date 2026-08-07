@@ -375,3 +375,13 @@ videos:
   investigation: UAPs
   added_date: '2026-07-03'
   pinned: true
+
+- filename: 2084808728977752529.mp4
+  ipfs_cid: Qmcojg24KbbX2uf5vbY4A7q3enf5LDtztGrjVLHBQDqXS8
+  ipfs_gateway_url: https://ipfs.io/ipfs/Qmcojg24KbbX2uf5vbY4A7q3enf5LDtztGrjVLHBQDqXS8
+  source_url: https://x.com/JasielCTH/status/2084808728977752529
+  source_author: '@JasielCTH (shared by @PaulGoldEagle)'
+  description: 'Joe Felz — tribute/commentary clip circulated after the death of the 40-year-old electrician and energy-independence content creator on Aug 3, 2026. Poster frames it as "They are REMOVING truth tellers."'
+  investigation: Energy
+  added_date: '2026-08-07'
+  pinned: true
